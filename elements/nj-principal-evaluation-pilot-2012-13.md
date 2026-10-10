@@ -44,8 +44,8 @@ New Jersey piloted its principal evaluation system, which combines measures of t
 
 ## Related Elements
 
-- [New Jersey statewide principal evaluation system (2013/14)](nj-statewide-principal-evaluation-system.md)
-- [New York's APPR teacher and principal evaluation system](new-york-appr-evaluation-system.md)
+- [New Jersey statewide principal evaluation system (2013/14)](../products/new-jersey-statewide-principal-evaluation-system.md)
+- [New York's APPR teacher and principal evaluation system](../products/new-yorks-appr-teacher-and-principal-evaluation-system.md)
 
 ## Examples
 -

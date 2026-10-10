@@ -41,11 +41,9 @@ The article adopts Todd Rose's concept of "jagged profiles," which the paper des
 ## Related Theories
 
 - [Jagged profile: learner characteristics that guide learning capacity cannot be described by one-dimensional values like IQ or standardized test scores](jagged-profile-no-average-student.md)
-- [Learner Positioning Systems and Learner Models framework](learner-positioning-systems-framework.md)
+- [Learner Positioning Systems and Learner Models framework](../products/learner-variability-project.md)
 - [Learner variability and jagged profiles as the foundation for personalized learning](learner-variability-jagged-profiles-foundation.md)
-- [Digital Promise's learner variability framework: every learner has a jagged learning profile across four domains](learner-variability-four-domains-digital-promise.md)
 - [Learner Positioning System (LPS): a GPS-like system positioning each learner with a learner profile, learning map, and resource bank](learner-positioning-system-lps.md)
-- [LPS Learner Factors model for Reading PK-3](lps-learner-factors-reading-pk3-model.md)
 
 ## Examples
 

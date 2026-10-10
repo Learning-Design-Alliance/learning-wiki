@@ -37,7 +37,7 @@ TAPP preparation uses six online training modules for school specialists coverin
 - Knowledge of the TAPP process and its stages for leading family-school partnership meetings
 
 ## Related Strategies
-- [Tapp Conjoint Behavioral Consultation Program](../elements/tapp-conjoint-behavioral-consultation-program.md)
+- [Tapp Conjoint Behavioral Consultation Program](../products/teachers-and-parents-as-partners.md)
 
 ## Examples
 -

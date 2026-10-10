@@ -37,7 +37,7 @@ The article recommends treating metadata from existing tests and surveys — par
 - Measuring and monitoring social-emotional competencies
 
 ### Affordances
-- [Disengagement Metadata Sel Assessment Framework](../theories/disengagement-metadata-sel-assessment-framework.md)
+- [Disengagement Metadata Sel Assessment Framework](../research-methods/assessment-metadata-as-naturally-occurring-direct-sel-measurement.md)
 
 ## Related Strategies
 

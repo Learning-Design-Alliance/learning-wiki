@@ -42,9 +42,9 @@ The TAN project pairs its CT Booster sessions with micro-credentials that teache
 
 ## Related Elements
 
-- [Micro-credential stack pairing data analysis with algorithm creation](ct-booster-microcredentials-data-algorithms.md)
-- [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](tan-virtual-computing-pd-project.md)
-- [Digital Promise micro-credential ecosystem on the BloomBoard platform](digital-promise-bloomboard-micro-credential-ecosystem.md)
+- [Micro-credential stack pairing data analysis with algorithm creation](../products/digital-promise-micro-credentials.md)
+- [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](../products/tough-as-nails-nimble-fingers-tan-virtual-computing-pd-project.md)
+- [Digital Promise micro-credential ecosystem on the BloomBoard platform](../products/digital-promise-micro-credential-platform.md)
 
 ## Examples
 

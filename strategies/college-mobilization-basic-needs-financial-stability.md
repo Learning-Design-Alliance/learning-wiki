@@ -39,7 +39,7 @@ The report concludes that "community colleges can mobilize to address the needs 
 - financial capability
 
 ### Affordances
-- [Wssn Integrated Support Strategy](../theories/wssn-integrated-support-strategy.md)
+- [Wssn Integrated Support Strategy](../products/working-students-success-network-wssn.md)
 
 ## Related Strategies
 

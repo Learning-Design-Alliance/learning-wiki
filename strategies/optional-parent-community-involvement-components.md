@@ -40,7 +40,7 @@ The program supplements classroom lessons with optional family and community eng
 - social-emotional skills
 
 ### Affordances
-- [Too Good For Violence Curriculum](../elements/too-good-for-violence-curriculum.md)
+- [Too Good For Violence Curriculum](../products/too-good-for-violence.md)
 
 ## Related Strategies
 

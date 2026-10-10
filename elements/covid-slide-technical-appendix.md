@@ -46,8 +46,7 @@ A technical brief published by NWEA Research that documents the methods used to 
 - [NWEA research brief 'The COVID-19 slide' with associated working paper, presentation, and technical appendix](covid-slide-research-brief-element.md)
 - [NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity](nwea-covid-learning-loss-research-series.md)
 - [Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections](five-million-student-summer-learning-patterns-analysis.md)
-- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](learning-during-covid-technical-appendix.md)
-- [Technical appendix document detailing sample and methods for the COVID-19 achievement divide brief](technical-appendix-widening-achievement-divide-covid.md)
+- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](../products/map-growth.md)
 - [NWEA seminar presentation projecting COVID-19 learning loss and 2020-21 test score effects](kuhfeld-2020-covid-learning-loss-projection-presentation.md)
 
 ## Examples

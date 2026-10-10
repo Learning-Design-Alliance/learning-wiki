@@ -44,7 +44,7 @@ The review develops a definitional framework classifying modalities used in MMCA
 ## Related Theories
 
 - [Four rationales underlie combining modalities in MMCA research](four-rationales-combining-modalities-mmca.md)
-- [Multimodal analysis: studying learning with multiple integrated data streams](multimodal-analysis-cyberlearning-method.md)
+- [Multimodal analysis: studying learning with multiple integrated data streams](../research-methods/multimodal-analysis.md)
 
 ## Examples
 -

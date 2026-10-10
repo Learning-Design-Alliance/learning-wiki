@@ -46,7 +46,7 @@ This artifact is a fact sheet publication titled "Improving the School Attendanc
 - [Fact sheet guiding districts and schools on early-grade attendance strategies](early-grade-attendance-fact-sheet-nj.md)
 - [Fact sheet on chronic absenteeism risk factors in the early grades for schools](early-grades-chronic-absenteeism-fact-sheet.md)
 - [Toolkit for improving attendance in pre-kindergarten and kindergarten for districts, schools, and early childhood providers](early-grades-attendance-improvement-toolkit.md)
-- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](prek-kindergarten-attendance-toolkit.md)
+- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](../products/strategies-for-improving-attendance-in-pre-kindergarten-and-kindergarten.md)
 - [Parent-facing infographic on the importance of pre-kindergarten and kindergarten attendance](parent-infographic-prek-kindergarten-attendance-importance.md)
 
 ## Examples

@@ -50,7 +50,7 @@ The project's theory of change, illustrated with a TPACK image ("image ©2012 by
 
 ## Examples
 
-- [Eksploratoryòm: story-based, culturally relevant interactive STEM lessons in Haitian Creole integrating literacy and SEL](../elements/eksploratoryom-creole-stem-digital-content.md)
+- [Eksploratoryòm: story-based, culturally relevant interactive STEM lessons in Haitian Creole integrating literacy and SEL](../products/eksploratoryom.md)
 - [Scale-up strategy: add grades 3 and 4, expand solar and connectivity with local capacity-building, and adopt Kolibri for offline access](../strategies/haiti-scale-up-strategy-grades-infrastructure-kolibri.md)
 
 ## Key Sources

@@ -45,7 +45,7 @@ Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a 
 
 - [Deliberate Practice for Second Language Learning Framework](deliberate-practice-second-language-learning-framework.md)
 - [Deliberate practice framework](deliberate-practice-framework-ericsson-pool.md)
-- [The expert performance approach as a three-stage framework for studying expertise](expert-performance-approach-three-stages.md)
+- [The expert performance approach as a three-stage framework for studying expertise](../research-methods/expert-performance-approach.md)
 
 ## Examples
 

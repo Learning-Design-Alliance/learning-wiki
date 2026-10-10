@@ -5,6 +5,28 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-10 (sweep) — older elements, theories and designs re-filed into products and research methods
+
+- **The sweep** (`scripts/sweep_kinds.py`, maintainer: "run the sweep between batches") re-read the
+  pages batches wrote before the two kinds existed: 3,682 elements, theories (canonical ones included)
+  and designs. A first read proposed product, research method, fold or keep. Product and method names
+  were consolidated by a model, so one programme's pages land on one page. A second model confirmed
+  each move, and refused 304 of the 2,239 proposed. Cost $8.73; decisions in
+  `eval/candidates/sweep-kinds.ndjson`.
+- **Applied: 1,323 pages to products** (about 925 names; a programme's elements become its
+  `## Components`) **and 222 to research methods** (mostly psychometrics, value-added models,
+  knowledge tracing and education-trial design). `products/` went to 1,038 pages and
+  `research-methods/` to 211. 57 folds whose target was itself being re-filed followed it.
+- **The 390 plain folds into a canonical page were not applied** (`--no-attach`). A sample showed
+  too many loose matches (dialogism into connectivism, a stability framework into an L2 writing
+  model), and a wrong fold makes the old slug an alias of the wrong page. They stay in the decisions
+  file for review.
+- **Cross-kind aliases removed.** `update_links_for_renames` recorded each re-filed page's old
+  element/theory slug as an alias on its product page (1,188 times; `merge_pages` reports it as
+  "gained alias … from the cross-kind map"). Aliases resolve within one kind, so the old slug could
+  never resolve a design document's `element:` reference, only collide. They were stripped, as the
+  rule for cross-kind merges says. Two new slugs with accented letters were renamed to ASCII.
+
 ## 2026-10-10 (later) — batches restarted; learner-variable pages linked to their claims
 
 - **Batch 48**, the first on products and research methods, stopped at verify on 262 evidence-profile

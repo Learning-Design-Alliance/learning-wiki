@@ -41,7 +41,7 @@ A presentation delivered at the 2020 National Council on Measurement in Educatio
 
 ## Related Elements
 
-- [MAP Growth retest dataset for evaluating E-M scoring accuracy](map-growth-retest-dataset-em-evaluation.md)
+- [MAP Growth retest dataset for evaluating E-M scoring accuracy](../products/map-growth-retest-dataset-for-evaluating-e-m-scoring-accuracy.md)
 
 ## Examples
 -

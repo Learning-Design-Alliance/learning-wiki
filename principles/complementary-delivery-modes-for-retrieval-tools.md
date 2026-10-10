@@ -48,7 +48,7 @@ The article concludes that the CD-ROM, client/server, and WWW implementations of
 
 ## Examples
 
-- [WWW Entrez: a hypertext web interface to integrated molecular biology literature and sequence databases](../elements/www-entrez-hypertext-retrieval-server.md)
+- [WWW Entrez: a hypertext web interface to integrated molecular biology literature and sequence databases](../products/www-entrez.md)
 
 ## Key Sources
 - Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262

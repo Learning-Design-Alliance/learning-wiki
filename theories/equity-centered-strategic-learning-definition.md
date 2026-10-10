@@ -41,8 +41,8 @@ The article defines equity-centered strategic learning as an organizational capa
 
 ## Related Theories
 
-- [Equity-centered strategic learning as an organizational capacity framework](equity-centered-strategic-learning-framework.md)
-- [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](nsi-conceptual-framework-networked-ci.md)
+- [Equity-centered strategic learning as an organizational capacity framework](../products/capacity-building-for-strategic-learning-cbsl-pilot.md)
+- [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](../products/networks-for-school-improvement-nsi.md)
 - [Strategic Human Resource Management as a Framework for Instructional Improvement](strategic-hrm-instructional-improvement-framework.md)
 
 ## Examples

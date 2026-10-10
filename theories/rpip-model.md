@@ -48,8 +48,7 @@ The RPIP model extends research-practice partnerships by bringing industry into 
 
 ## Related Theories
 
-- [Research-Practice-Industry Partnership (RPIP) model with four pillars for involving educators in edtech development](rpip-four-pillars-model.md)
-- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
+- [Research-Practice-Industry Partnership (RPIP) model with four pillars for involving educators in edtech development](../products/research-practice-industry-partnerships-rpips.md)
 - [Research-practice-technology partnerships (RPTPs) as the ecosystem sustaining modelable systems](research-practice-technology-partnership-framework.md)
 - [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
 - [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)

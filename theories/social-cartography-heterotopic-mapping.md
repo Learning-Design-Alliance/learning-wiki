@@ -45,7 +45,7 @@ Social cartography is the paper's own methodological contribution: a spatial, po
 - [Five postmodern-favorable knowledge communities in comparative education discourse](five-knowledge-communities-postmodern-comparative-education.md)
 - [Four modernist genres opposing the postmodern challenge in comparative education](four-modernist-genres-comparative-education.md)
 - [Heterotopic social cartography maps perspectival difference as an intertextual field](heterotopic-social-cartography-mapping.md)
-- [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](social-cartography-postmodern-methodology.md)
+- [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](../research-methods/social-cartography.md)
 
 ## Examples
 

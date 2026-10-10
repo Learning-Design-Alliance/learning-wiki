@@ -37,7 +37,7 @@ The brief recommends that "school districts and school principals could incorpor
 - Improving average achievement and reducing racial achievement gaps in math and English
 
 ### Affordances
-- [Revealed Comparative Advantage Teacher Measure](../elements/revealed-comparative-advantage-teacher-measure.md)
+- [Revealed Comparative Advantage Teacher Measure](../research-methods/revealed-comparative-advantage-measure-of-teacher-equity-impact.md)
 
 ## Related Strategies
 - 

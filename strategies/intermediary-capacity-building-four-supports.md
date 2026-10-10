@@ -37,7 +37,7 @@ An intermediary-led capacity-building strategy in which the intermediary helps g
 - Organizational capacity for equity-centered strategic learning
 
 ### Affordances
-- [Equity Centered Strategic Learning Framework](../theories/equity-centered-strategic-learning-framework.md)
+- [Equity Centered Strategic Learning Framework](../products/capacity-building-for-strategic-learning-cbsl-pilot.md)
 
 ## Related Strategies
 

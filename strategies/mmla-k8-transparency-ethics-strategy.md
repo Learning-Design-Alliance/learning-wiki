@@ -38,7 +38,7 @@ Based on the identified gaps, the review recommends that "researchers must prior
 - improving learning outcomes and learning experience design through multimodal analytics
 
 ### Affordances
-- [Mmla Twelve Commitments Framework](../theories/mmla-twelve-commitments-framework.md)
+- [Mmla Twelve Commitments Framework](../research-methods/worsley-et-als-twelve-commitments-for-high-quality-mmla-research.md)
 
 ## Related Strategies
 

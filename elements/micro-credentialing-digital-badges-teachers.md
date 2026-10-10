@@ -46,9 +46,8 @@ Micro-credentialing, or badging, is described as "a competency recognition syste
 ## Related Elements
 
 - [Digital Open Badges](digital-open-badges.md)
-- [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](educator-micro-credentialing-ecosystem.md)
+- [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](../products/digital-promise-micro-credentials.md)
 - [Micro-credentials as competency-verified recognition of educator professional learning](micro-credentials-educator-competency-recognition.md)
-- [Micro-credentials as digital competency certifications for educator professional learning](micro-credentials-digital-competency-certifications.md)
 
 ## Examples
 

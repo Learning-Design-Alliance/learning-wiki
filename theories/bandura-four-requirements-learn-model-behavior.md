@@ -47,7 +47,7 @@ The paper presents social learning theory as a century-old body of work in educa
 
 - [Mapping an online tutoring environment onto Bandura's four requirements](../designs/esylvan-mapping-to-bandura-requirements.md)
 - [Reserve \"social learning\" for platforms grounded in social learning theory; describe social-media-enabled platforms as \"STIL\" (Social Technology in Learning)](../strategies/stil-social-technology-in-learning-descriptor.md)
-- [eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps](../elements/esylvan-online-tutoring-environment.md)
+- [eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps](../products/esylvan.md)
 
 ## Key Sources
 - Gilfus et. al. (2009). "Social Learning" Buzz Masks Deeper Dimensions. Gilfus Education Group. https://www.gilfuseducationgroup.com

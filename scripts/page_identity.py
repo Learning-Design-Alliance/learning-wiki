@@ -149,6 +149,20 @@ def add_alias(fm: str, alias: str) -> str:
     return fm.rstrip("\n") + f"\naliases: {merged}\n"
 
 
+def remove_alias(fm: str, alias: str) -> str:
+    """Drop `alias` from the page's aliases list, and the field itself when it empties."""
+    existing = read_aliases(fm)
+    if alias not in existing:
+        return fm
+    rest = [a for a in existing if a != alias]
+    repl = f"aliases: [{', '.join(rest)}]" if rest else ""
+    if ALIASES_RE.search(fm):
+        out = ALIASES_RE.sub(repl, fm, count=1)
+    else:
+        out = ALIASES_BLOCK_RE.sub(repl + "\n" if rest else "", fm, count=1)
+    return re.sub(r"\n\n+", "\n", out) if not rest else out
+
+
 def scan(types=IDENTIFIED_TYPES) -> dict:
     """{kind: [(path, slug, current_id, aliases), ...]}"""
     out = {}

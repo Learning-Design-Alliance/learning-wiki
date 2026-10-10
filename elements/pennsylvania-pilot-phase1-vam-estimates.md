@@ -46,7 +46,7 @@ The article describes a set of value-added models (VAMs) developed and estimated
 - [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](teacher-level-value-added-model-memphis.md)
 - [Value-added models developed for estimating Pennsylvania teacher and principal contributions to student achievement growth](pennsylvania-pilot-value-added-models.md)
 - [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study](pennsylvania-teacher-evaluation-pilot-phase-2.md)
-- [Team Pennsylvania Foundation teacher and principal evaluation pilot project](team-pennsylvania-evaluation-pilot-project.md)
+- [Team Pennsylvania Foundation teacher and principal evaluation pilot project](../products/team-pennsylvania-foundation-teacher-and-principal-evaluation-pilot-project.md)
 
 ## Examples
 -

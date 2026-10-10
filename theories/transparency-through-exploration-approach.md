@@ -49,7 +49,7 @@ The article adopts a transparency through exploration approach, in which transpa
 
 ## Examples
 
-- [Indicator Editor: a no-code SSLA tool for user-controlled LA indicator implementation](../elements/indicator-editor-ssla-tool.md)
+- [Indicator Editor: a no-code SSLA tool for user-controlled LA indicator implementation](../products/open-learning-analytics-platform.md)
 - [Provide different levels of controllability to meet diverse stakeholder needs](../strategies/provide-different-levels-of-controllability.md)
 
 ## Key Sources

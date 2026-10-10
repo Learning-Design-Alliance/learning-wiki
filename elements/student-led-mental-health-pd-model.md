@@ -45,7 +45,7 @@ A professional development model in which high school students, in partnership w
 
 ## Related Elements
 
-- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](teaching-is-my-favorite-color-network.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
 
 ## Examples
 -

@@ -49,13 +49,12 @@ The Stages of Concern (SoC) concept, generalized from Fuller's work on teacher c
 - [Concerns Based Adoption Model (CBAM) stages of concern](cbam-stages-of-concern-model.md)
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
-- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
+- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](../products/concerns-based-adoption-model.md)
 - [Revised emergent-growth model of technology adoption integrating voluntary activities with maintained early concerns](emergent-growth-adoption-model.md)
 
 ## Examples
 
-- [Stages of Concern Questionnaire (SoCQ)](../elements/socq-stages-of-concern-questionnaire.md)
-- [Stages of Concern Questionnaire (SoCQ): a 35-item diagnostic instrument](../elements/stages-of-concern-questionnaire-35-item.md)
+- [Stages of Concern Questionnaire (SoCQ)](../products/stages-of-concern-questionnaire-socq.md)
 - [Use individual and group Stages of Concern data to tailor inservice and training decisions](../strategies/use-soc-data-to-tailor-inservice-decisions.md)
 - [Use three methods to assess concerns: questionnaire, open-ended statements, and informal conversation](../strategies/assess-concerns-three-methods.md)
 

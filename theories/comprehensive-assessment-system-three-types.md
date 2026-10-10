@@ -40,7 +40,7 @@ The article organizes assessment around a framework in which "multiple forms of 
 
 ## Related Theories
 
-- [MAP Growth theory of action within a comprehensive assessment system](map-growth-theory-of-action-comprehensive-assessment-system.md)
+- [MAP Growth theory of action within a comprehensive assessment system](../products/map-growth.md)
 
 ## Examples
 

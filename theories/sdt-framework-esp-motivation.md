@@ -54,7 +54,7 @@ SDT is a broad framework distinguishing intrinsic motivation (knowledge, accompl
 
 ## Examples
 
-- [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](../elements/sdt-esp-motivation-questionnaire.md)
+- [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](../products/sdt-based-chinese-language-esp-motivation-questionnaire-adapted-llos-iea.md)
 - [Autonomy-supportive ESP teaching strategies to foster motivation](../strategies/autonomy-supportive-esp-teaching-strategies.md)
 
 ## Key Sources

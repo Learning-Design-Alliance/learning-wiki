@@ -39,7 +39,7 @@ Based on feasibility feedback, the authors recommend preparing interviewers with
 
 ## Related Strategies
 
-- [Cimi M Clinical Interview](../elements/cimi-m-clinical-interview.md)
+- [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
 - [Screen with the MIOS before administering the CIMI-M and deploy it at intake or before trauma treatment](cimi-m-deployment-screening-strategy.md)
 
 ## Examples

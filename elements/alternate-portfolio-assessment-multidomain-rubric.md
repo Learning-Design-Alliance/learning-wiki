@@ -38,7 +38,7 @@ An alternate assessment in which student portfolios—a purposeful and systemati
 - Progress toward state content standards in literacy and mathematics
 
 ### Affordances
-- [Body Of Work Standard Setting Approach](../theories/body-of-work-standard-setting-approach.md)
+- [Body Of Work Standard Setting Approach](../research-methods/body-of-work-approach-to-standard-setting-for-alternate-assessments.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

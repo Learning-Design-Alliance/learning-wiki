@@ -41,7 +41,7 @@ Math Corps pairs an academic component with a relational one: its founders' "pri
 - [Math Corps Large Significant Impact College Enrollment](../claims/math-corps-large-significant-impact-college-enrollment.md) [+M]
 
 ## Related Designs
-- [Math Corps Summer Program Element](../elements/math-corps-summer-program-element.md)
+- [Math Corps Summer Program Element](../products/math-corps.md)
 
 ## Examples
 -

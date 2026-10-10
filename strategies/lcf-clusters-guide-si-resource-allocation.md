@@ -37,7 +37,7 @@ The article recommends using LCF-identified risk subgroups to decide which stude
 - increase course success and retention by directing intervention resources to the subgroups that benefit most
 
 ### Affordances
-- [Latent Class Forest Method](../theories/latent-class-forest-method.md)
+- [Latent Class Forest Method](../research-methods/latent-class-forest.md)
 
 ## Related Strategies
 - 

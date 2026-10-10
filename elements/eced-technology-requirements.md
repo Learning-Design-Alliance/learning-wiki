@@ -43,7 +43,7 @@ ECED implementation requires specific technology: "Projector and computer for Po
 ## Related Elements
 
 - [ECED Math daily benchmark assessment system](eced-math-benchmark-system.md)
-- [Every Classroom, Every Day (ECED) two-year stand-alone literacy and math program for high schools](eced-program-element.md)
+- [Every Classroom, Every Day (ECED) two-year stand-alone literacy and math program for high schools](../products/eced.md)
 - [Salesforce-based web database and online survey infrastructure for program management](experience-corps-salesforce-technology.md)
 
 ## Examples

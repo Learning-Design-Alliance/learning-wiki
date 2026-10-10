@@ -37,7 +37,7 @@ Use Rule Space diagnostic classifications to give examinees information beyond a
 - identifying and remediating areas of non-mastery
 
 ### Affordances
-- [Rule Space Model Cognitive Diagnosis](../theories/rule-space-model-cognitive-diagnosis.md)
+- [Rule Space Model Cognitive Diagnosis](../research-methods/rule-space-model.md)
 
 ## Related Strategies
 - 

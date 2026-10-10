@@ -42,9 +42,9 @@ The guide defines reading interventions for students in grades 4–9 as comprisi
 
 ## Related Elements
 
-- [Lexia Reading: computerized supplementary phonics practice program with adaptive independent practice and web-based progress reporting](lexia-reading-computerized-supplementary-phonics-program.md)
-- [Accelerated Reader™ guided reading practice and quiz system](accelerated-reader-program-element.md)
-- [Read Naturally® supplemental reading fluency program (four product editions)](read-naturally-program-element.md)
+- [Lexia Reading: computerized supplementary phonics practice program with adaptive independent practice and web-based progress reporting](../products/lexia-reading.md)
+- [Accelerated Reader™ guided reading practice and quiz system](../products/accelerated-reader.md)
+- [Read Naturally® supplemental reading fluency program (four product editions)](../products/read-naturally.md)
 
 ## Examples
 -

@@ -47,7 +47,7 @@ Vera Molnar's computer-based artistic method treats randomness as a viable appro
 
 ## Examples
 
-- [Eckersley's design helper computer programs](../elements/eckersley-design-helper-programs.md)
+- [Eckersley's design helper computer programs](../products/the-design-helper.md)
 
 ## Key Sources
 - McWhinnie, Harold J. (1991). Chaos Theory in the Arts and Design. https://eric.ed.gov/?id=ED368622

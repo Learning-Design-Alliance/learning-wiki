@@ -1,0 +1,81 @@
+---
+type: product
+id: levels-of-use-interview
+title: Levels of Use Interview
+description: A focused branching interview developed by Loucks (1977) that assigns overall and category-specific Levels of Use ratings, including Not Doing and No Information classifications.
+product_kind: assessment
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: loucks-1977
+    resource: "https://eric.ed.gov/?id=ED137947"
+    title: "Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947"
+    author: Loucks, Susan F
+---
+
+# Levels of Use Interview
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+A focused branching interview developed by Loucks (1977) that assigns overall and category-specific Levels of Use ratings, including Not Doing and No Information classifications.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+### Claims
+- [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information](../claims/lou-interview-validated-against-ethnography.md) [+W]
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](../claims/lou-interview-interrater-reliability-high.md) [+W]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947
+
+<!-- merged 2026-10-10 from elements/lou-focused-branching-interview ("The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The LoU Interview is a focused interview procedure that measures Levels of Use. "The interviewer does not ask a specific list of redetermined, presequenced questions, but rather uses a branching technique derived from the defined decision points which separate each level." Interviews take approximately 20 minutes, are tape-recorded, and yield ratings of overall LoU plus LoU in each of the seven categories, with provisions for Not Doing (ND) and No Information (NI) ratings.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Trained interviewers and raters; a rating sheet for overall and per-category ratings; tape recording of interviews
+#### Constraints
+- A full scale validity study was not possible because of cost and time factors
+
+### Target Learners
+- teachers and college faculty implementing innovations
+
+### Target Learning Goals
+- measuring an individual's level of innovation implementation
+
+### Affordances
+- [Levels Of Use Innovation Eight Level Framework](concerns-based-adoption-model.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information](../claims/lou-interview-validated-against-ethnography.md) [+W]
+- [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](../claims/lou-interview-interrater-reliability-high.md) [+W]
+
+## Related Elements
+
+- [The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity](../elements/lou-chart-seven-categories-operational-definitions.md)
+
+## Examples
+
+- [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
+
+## Key Sources
+- Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947
+-->

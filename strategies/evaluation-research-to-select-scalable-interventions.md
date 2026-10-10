@@ -37,7 +37,7 @@ The article describes a concrete funder strategy: "Implementing this process can
 - Selecting interventions likely to produce desired outcomes and identifying scale-ready organizations
 
 ### Affordances
-- [Spree Scaling Process Framework](../theories/spree-scaling-process-framework.md)
+- [Spree Scaling Process Framework](../products/spree.md)
 
 ## Related Strategies
 - 

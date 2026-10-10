@@ -48,7 +48,7 @@ The article offers a typology of OEP that goes beyond OER use, situating each pr
 ## Examples
 
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](../elements/equity-unbound-open-connected-course.md)
-- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../elements/virtually-connecting-equitable-conversations.md)
+- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../products/virtually-connecting.md)
 - [Design OEP for accessibility and marginalized participation rather than open for all](../strategies/design-oep-for-those-farthest-from-justice.md)
 - [Faculty-authored OER digital textbook and equitized syllabus template at BMCC](../elements/bmcc-oer-textbook-and-syllabus-template.md)
 

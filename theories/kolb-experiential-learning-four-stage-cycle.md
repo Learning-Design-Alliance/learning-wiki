@@ -55,7 +55,7 @@ The paper adopts Kolb's (1984) definition of experiential learning as "the proce
 
 ## Examples
 
-- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
 
 ## Key Sources

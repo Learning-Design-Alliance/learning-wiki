@@ -38,7 +38,7 @@ As part of its scale-up effort, the KIPP charter network invested heavily in dev
 
 ## Related Elements
 
-- [KIPP public charter school network](kipp-public-charter-school-network.md)
+- [KIPP public charter school network](../products/kipp.md)
 - [KIPP public charter school network multi-grade-level impact evaluation](kipp-network-multigrade-evaluation.md)
 
 ## Examples

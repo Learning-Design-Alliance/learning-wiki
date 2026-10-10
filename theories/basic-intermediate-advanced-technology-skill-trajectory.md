@@ -40,7 +40,7 @@ The Toolkit's Conceptual Frameworks describe a developmental trajectory of techn
 
 ## Related Theories
 
-- [Four skill categories for technology use: Digital Skills, Media and Meaning, Point of View, and Audience](four-skill-categories-technology-use.md)
+- [Four skill categories for technology use: Digital Skills, Media and Meaning, Point of View, and Audience](../products/the-evaluation-toolkit.md)
 
 ## Examples
 -

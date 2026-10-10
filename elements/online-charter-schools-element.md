@@ -47,8 +47,8 @@ Online charter schools are defined in the brief as "publicly funded schools of c
 
 ## Related Elements
 
-- [National Study of Online Charter Schools principal survey](online-charter-principal-survey-dataset.md)
-- [National Study of Online Charter Schools principal survey and administrative data resource](national-study-online-charter-schools-data.md)
+- [National Study of Online Charter Schools principal survey](../products/national-study-of-online-charter-schools-principal-survey.md)
+- [National Study of Online Charter Schools principal survey and administrative data resource](../products/national-study-of-online-charter-schools.md)
 
 ## Examples
 -

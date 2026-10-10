@@ -44,7 +44,7 @@ The article organizes the conditions for school technology use into a framework 
 
 ## Related Theories
 
-- [Essential supports framework for educational technology use in schools](essential-supports-educational-technology-use-framework.md)
+- [Essential supports framework for educational technology use in schools](../products/5essentials.md)
 
 ## Examples
 -

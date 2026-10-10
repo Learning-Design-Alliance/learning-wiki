@@ -43,7 +43,7 @@ As part of the program's technology requirements, the school's Reading Rescue Pr
 
 ## Related Elements
 
-- [Reading Go! (formerly Reading Rescue) one-on-one early literacy tutoring program](reading-go-tutoring-program.md)
+- [Reading Go! (formerly Reading Rescue) one-on-one early literacy tutoring program](../products/reading-go.md)
 
 ## Examples
 -

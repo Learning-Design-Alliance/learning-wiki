@@ -44,7 +44,7 @@ The framework organizes emerging technology decision-making into three stages: "
 
 ## Examples
 
-- [Emerging Technology Adoption Framework question-and-criteria instrument](../elements/emerging-tech-adoption-framework-instrument.md)
+- [Emerging Technology Adoption Framework question-and-criteria instrument](../products/emerging-technology-adoption-framework.md)
 - [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](../strategies/adoption-stage-professional-learning-funding.md)
 - [During initial evaluation, investigate legal compliance, equity, accessibility, and context-specific barriers](../strategies/initial-evaluation-equity-accessibility-barriers.md)
 - [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](../strategies/post-adoption-fidelity-monitoring-feedback.md)

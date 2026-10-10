@@ -44,7 +44,7 @@ ECED Math is "a system for teachers to deliver instruction and assess student pr
 ## Related Elements
 
 - [ECED technology requirements](eced-technology-requirements.md)
-- [Every Classroom, Every Day (ECED) two-year stand-alone literacy and math program for high schools](eced-program-element.md)
+- [Every Classroom, Every Day (ECED) two-year stand-alone literacy and math program for high schools](../products/eced.md)
 
 ## Examples
 -

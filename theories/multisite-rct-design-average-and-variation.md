@@ -47,7 +47,7 @@ The article presents multisite randomized controlled trials, in which "individua
 
 ## Related Theories
 
-- [Design-based estimation framework extended from two-group RCTs to multi-armed RCTs](design-based-estimators-multi-armed-rcts.md)
+- [Design-based estimation framework extended from two-group RCTs to multi-armed RCTs](../research-methods/multi-armed-randomized-trial-analysis.md)
 
 ## Examples
 -

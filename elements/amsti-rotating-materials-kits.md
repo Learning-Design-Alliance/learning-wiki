@@ -38,7 +38,7 @@ A supporting component of AMSTI is the provision of complete instructional mater
 
 ## Related Elements
 
-- [AMSTI: professional development strategy with summer training, on-site coaching, and rotating materials kits](amsti-program-element.md)
+- [AMSTI: professional development strategy with summer training, on-site coaching, and rotating materials kits](../products/amsti.md)
 
 ## Examples
 

@@ -49,7 +49,7 @@ The article extends Davis' Technology Acceptance Model, which predicts actual sy
 
 ## Examples
 
-- [CoLaLe app prototype with geo-fence triggered vocabulary learning sessions](../elements/colale-contextual-language-app-prototype.md)
+- [CoLaLe app prototype with geo-fence triggered vocabulary learning sessions](../products/colale.md)
 - [TAM-grounded post-session survey instrument with five domains and 15 open-ended questions](../elements/tam-five-domain-wat-c-survey-instrument.md)
 
 ## Key Sources

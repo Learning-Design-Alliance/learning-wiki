@@ -42,7 +42,7 @@ The brief's organizing framework is systems change, which it defines as "shiftin
 
 ## Related Theories
 
-- [Promise Neighborhoods' cradle-to-career continuum model of community-wide poverty mitigation](promise-neighborhoods-cradle-to-career-continuum-theory.md)
+- [Promise Neighborhoods' cradle-to-career continuum model of community-wide poverty mitigation](../products/promise-neighborhoods.md)
 
 ## Examples
 

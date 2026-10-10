@@ -41,7 +41,7 @@ The authors give concrete deployment guidance: the CIMI-M complements intake pro
 
 ## Related Strategies
 
-- [Cimi M Clinical Interview](../elements/cimi-m-clinical-interview.md)
+- [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
 - [Provide brief interviewer training on the moral injury concept and interview structure](brief-interviewer-training-moral-injury.md)
 
 ## Examples

@@ -40,7 +40,7 @@ A concrete high-touch recipe drawn from Adult Promise states: assign navigators 
 
 ## Related Strategies
 
-- [Adult Promise Initiative State Grants](../elements/adult-promise-initiative-state-grants.md)
+- [Adult Promise Initiative State Grants](../products/adult-promise-initiative.md)
 - [Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade](hands-on-college-entry-assistance.md)
 - [Wraparound student supports: navigator, financial supports, and job placement assistance](ibest-navigator-and-support-services-strategy.md)
 - [Use marketing, outreach, and enrollment strategies tailored to adult learners' work and family demands](tailored-outreach-enrollment-strategies-adult-learners.md)

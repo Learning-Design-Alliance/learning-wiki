@@ -46,13 +46,13 @@ The report situates earned micro-credentials within "a larger micro-credential e
 ## Related Theories
 
 - [Educator micro-credentials as a competency-based, personalized, on-demand, shareable professional learning design](educator-micro-credential-design-four-features.md)
-- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](standards-for-professional-learning-seven-standards.md)
-- [Three-player micro-credential ecosystem](micro-credential-ecosystem-three-players.md)
+- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](../products/standards-for-professional-learning.md)
+- [Three-player micro-credential ecosystem](../products/digital-promise-micro-credential-platform.md)
 
 ## Examples
 
-- [Digital Promise micro-credential ecosystem on the BloomBoard platform](../elements/digital-promise-bloomboard-micro-credential-ecosystem.md)
-- [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](../elements/educator-micro-credentialing-ecosystem.md)
+- [Digital Promise micro-credential ecosystem on the BloomBoard platform](../products/digital-promise-micro-credential-platform.md)
+- [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](../products/digital-promise-micro-credentials.md)
 - [Micro Credentials](../strategies/micro-credentials.md)
 
 ## Key Sources

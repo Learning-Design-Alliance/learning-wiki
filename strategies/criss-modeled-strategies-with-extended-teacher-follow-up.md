@@ -37,7 +37,7 @@ Project CRISS® "employs a teaching and learning process in which teachers model
 - Teacher adoption of comprehension-strategy instruction that fosters student independence
 
 ### Affordances
-- [Criss Three Concepts Strategic Learning Framework](../theories/criss-three-concepts-strategic-learning-framework.md)
+- [Criss Three Concepts Strategic Learning Framework](../products/project-criss.md)
 
 ## Related Strategies
 - 

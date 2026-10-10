@@ -40,7 +40,7 @@ The article recommends structured professional development as a vehicle for buil
 - professional capacity for food system change
 
 ### Affordances
-- [Pathway To Planetary Health Framework](../theories/pathway-to-planetary-health-framework.md)
+- [Pathway To Planetary Health Framework](../products/pathway-to-planetary-health-pph.md)
 
 ## Related Strategies
 - 

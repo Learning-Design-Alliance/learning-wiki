@@ -37,7 +37,7 @@ The report's implications section recommends actions for intermediaries and scho
 - Building educator capacity to use continuous improvement to improve student outcomes
 
 ### Affordances
-- [Nsi Conceptual Framework Networked Ci](../theories/nsi-conceptual-framework-networked-ci.md)
+- [Nsi Conceptual Framework Networked Ci](../products/networks-for-school-improvement-nsi.md)
 
 ## Related Strategies
 

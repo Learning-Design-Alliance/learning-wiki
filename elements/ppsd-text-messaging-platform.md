@@ -46,8 +46,7 @@ An engagement tool implemented in all PPSD schools in 2018/19 that lets administ
 
 ## Related Elements
 
-- [PowerSchool Attendance Intervention platform for attendance monitoring and two-way family messaging](powerschool-attendance-intervention-platform.md)
-- [PowerSchool Attendance Intervention platform](powerschool-attendance-intervention-platform-element-dc.md)
+- [PowerSchool Attendance Intervention platform for attendance monitoring and two-way family messaging](../products/powerschool-attendance-intervention.md)
 
 ## Examples
 

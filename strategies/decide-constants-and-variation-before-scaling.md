@@ -40,7 +40,7 @@ The article recommends that "Scalable implementation requires thoughtful decisio
 - [Modelability Three Design Principles](../theories/modelability-three-design-principles.md)
 
 ## Related Strategies
-- [Coursekata Instrumented Online Textbook](../elements/coursekata-instrumented-online-textbook.md)
+- [Coursekata Instrumented Online Textbook](../products/coursekata.md)
 
 ## Examples
 -

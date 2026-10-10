@@ -39,7 +39,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - equitable access to AI literacy for all students
 
 ### Affordances
-- [Six Ai Literacy Practices](../elements/six-ai-literacy-practices.md)
+- [Six Ai Literacy Practices](../products/digital-promise-ai-literacy-brief-series.md)
 
 ## Related Strategies
 

@@ -48,7 +48,7 @@ The problem-solving assessment model from the National Center for Research on Ev
 ## Examples
 
 - [Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet](../strategies/cresst-tool-design-criteria.md)
-- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../elements/cresst-integrated-assessment-system.md)
+- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../products/cresst-integrated-assessment-system.md)
 
 ## Key Sources
 - Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961

@@ -37,7 +37,7 @@ Because direct grit interventions lack evidentiary support, the review recommend
 - Academic perseverance, academic behaviors, and course performance
 
 ### Affordances
-- [Noncognitive Factors Hypothesized Model](../theories/noncognitive-factors-hypothesized-model.md)
+- [Noncognitive Factors Hypothesized Model](../products/ccsr-five-category-framework-of-noncognitive-factors.md)
 
 ## Related Strategies
 

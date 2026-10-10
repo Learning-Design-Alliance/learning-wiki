@@ -39,10 +39,10 @@ The session defines a data repository as "a place that holds data, makes data av
 ## Related Elements
 
 - [Information Studies Taxonomy: a faceted organizational taxonomy for a digital repository](information-studies-taxonomy-faceted-organizational-taxonomy.md)
-- [EarthTime data visualizations provide interactive, time-lapse representations of large data sets for classroom discovery](earthtime-data-visualization-tool.md)
-- [Civic Online Reasoning video library supports teaching accurate online data evaluation](civic-online-reasoning-video-library.md)
-- [DataShop educational data repository and analysis platform](cmu-datashop-repository.md)
-- [PSLC DataShop public repository of online learning data](pslc-datashop-public-repository.md)
+- [EarthTime data visualizations provide interactive, time-lapse representations of large data sets for classroom discovery](../products/earthtime.md)
+- [Civic Online Reasoning video library supports teaching accurate online data evaluation](../products/civic-online-reasoning-video-library.md)
+- [DataShop educational data repository and analysis platform](../products/datashop.md)
+- [PSLC DataShop public repository of online learning data](../products/pslc-datashop.md)
 
 ## Examples
 

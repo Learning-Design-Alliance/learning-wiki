@@ -41,7 +41,7 @@ The Consortium organizes its research agenda around four major topical areas, ea
 ## Related Theories
 
 - [Competing theories of action for school change in Chicago: business-oriented, teaching-and-learning, community-dialogue/equity, and parental-control views](competing-theories-action-chicago-school-reform.md)
-- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five essential supports framework for urban school improvement](../products/5essentials.md)
 - [Reform theory: expanded local democratic participation stimulates organizational change that fosters improved teaching and learning](democratic-localism-organizational-change-theory.md)
 
 ## Examples

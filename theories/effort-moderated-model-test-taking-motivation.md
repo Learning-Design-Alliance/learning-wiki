@@ -44,7 +44,7 @@ The effort-moderated model is one of several types of models proposed to represe
 
 ## Related Theories
 
-- [The effort-moderated IRT model of test-taking motivation](effort-moderated-irt-model.md)
+- [The effort-moderated IRT model of test-taking motivation](../research-methods/the-effort-moderated-irt-model-of-test-taking-motivation.md)
 
 ## Examples
 -

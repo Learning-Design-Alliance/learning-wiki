@@ -44,7 +44,7 @@ The organizing framework of the tool distinguishes implicit and explicit dimensi
 
 ## Examples
 
-- [Funder reflection and action tool for place-based systems change investments](../elements/funder-reflection-tool-place-based-systems-change.md)
+- [Funder reflection and action tool for place-based systems change investments](../products/funder-reflection-and-action-tool.md)
 - [Funders use structured self-reflection to focus place-based systems change investments](../strategies/funder-self-reflection-to-focus-systems-change-investments.md)
 
 ## Key Sources

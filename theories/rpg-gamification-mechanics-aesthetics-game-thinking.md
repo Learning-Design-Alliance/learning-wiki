@@ -48,7 +48,7 @@ The article adopts Kapp's (2012) gamification framework and Crocco's (2016) RPG 
 
 ## Examples
 
-- [Mangomon: a CEFR-based role-playing gamification mobile application for out-of-class business English vocabulary learning](../elements/mangomon-rpg-language-app.md)
+- [Mangomon: a CEFR-based role-playing gamification mobile application for out-of-class business English vocabulary learning](../products/mangomon.md)
 - [Incorporate game elements that promote interest and enjoyment to support autonomous, sustainable mobile language learning](../strategies/add-enjoyment-elements-to-gamified-language-apps.md)
 - [Game-Based Learning (GBL)](../strategies/game-based-learning-gbl.md)
 - [Games](../strategies/games.md)

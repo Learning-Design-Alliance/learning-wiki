@@ -42,7 +42,7 @@ Mandatory-random student drug testing is a school-based intervention approach wh
 
 ## Related Elements
 
-- [Mandatory-random student drug testing (MRSDT) program for high schools](mrsdt-program-element.md)
+- [Mandatory-random student drug testing (MRSDT) program for high schools](../products/mandatory-random-student-drug-testing.md)
 
 ## Examples
 -

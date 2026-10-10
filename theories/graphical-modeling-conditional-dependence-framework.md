@@ -42,11 +42,11 @@ The article frames graphical modeling as a framework for characterizing multivar
 
 ## Related Theories
 
-- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](graphical-model-framework-mml-irt-estimation.md)
+- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](../research-methods/graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md)
 
 ## Examples
 
-- [GGMnonreg: an R package for non-regularized Gaussian graphical modeling of low-dimensional data](../elements/ggmnonreg-r-package.md)
+- [GGMnonreg: an R package for non-regularized Gaussian graphical modeling of low-dimensional data](../products/ggmnonreg.md)
 
 ## Key Sources
 - Donald Williams. (2021). GGMnonreg: Non-regularized Gaussian graphical models in R. Journal of Open Source Software, 6(67), 3308. https://doi.org/10.21105/joss.03308

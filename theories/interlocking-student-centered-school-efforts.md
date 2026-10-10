@@ -47,8 +47,8 @@ The report's organizing account is that no single initiative makes a school resp
 
 ## Related Theories
 
-- [Four Domains for Rapid School Improvement: A Systems Framework](four-domains-rapid-school-improvement-framework.md)
-- [Student success systems framework: four essential elements for secondary schools](student-success-systems-four-elements-framework.md)
+- [Four Domains for Rapid School Improvement: A Systems Framework](../products/four-domains-for-rapid-school-improvement.md)
+- [Student success systems framework: four essential elements for secondary schools](../products/grad-partnership-student-success-systems.md)
 
 ## Examples
 -

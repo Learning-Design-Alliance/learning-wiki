@@ -39,7 +39,7 @@ The program's stated implementation supports are a dedicated on-site facilitator
 
 ## Related Strategies
 
-- [Imagine Language And Literacy Program](../elements/imagine-language-and-literacy-program.md)
+- [Imagine Language And Literacy Program](../products/imagine-language-literacy.md)
 - [Offer optional professional development for administrators and educators alongside program implementation](imagine-math-facts-optional-professional-development.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)

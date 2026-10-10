@@ -47,17 +47,17 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 
 ## Related Theories
 
-- [Classical Test Theory (CTT) and its stated limitations](ctt-assumptions-and-limitations-ilhan-2018.md)
-- [Many-Facet Rasch Model (MFRM)](mfrm-many-facet-rasch-model-ilhan-2018.md)
-- [Compensatory multidimensional item response theory as a framework for composite score creation](compensatory-mirt-composite-scoring-framework.md)
-- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](graphical-model-framework-mml-irt-estimation.md)
-- [RIT vertical equal-interval scale grounded in item response theory](rit-vertical-equal-interval-scale.md)
+- [Classical Test Theory (CTT) and its stated limitations](../research-methods/classical-test-theory.md)
+- [Many-Facet Rasch Model (MFRM)](../research-methods/many-facet-rasch-model.md)
+- [Compensatory multidimensional item response theory as a framework for composite score creation](../research-methods/compensatory-multidimensional-item-response-theory.md)
+- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](../research-methods/graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md)
+- [RIT vertical equal-interval scale grounded in item response theory](../products/map-growth.md)
 
 ## Examples
 
 - [Use IRT rather than classical test theory when implementing repeated measurement linking designs with re-randomized groups and multiple concurrent links](../principles/irt-preferred-for-repeated-measurement-linking.md)
 - [Choose CTT or MFRM for open-ended test development based on practicality and reported detail, not difficulty results](../strategies/choose-ctt-or-mfrm-by-practicality.md)
-- [Rasch rating-scale analysis methodology for deriving school survey measures](../elements/rasch-rating-scale-survey-measure-methodology.md)
+- [Rasch rating-scale analysis methodology for deriving school survey measures](../research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md)
 
 ## Key Sources
 - Kılıç, A. F., Koyuncu, İ, & Uysal, İ. (2023). Scale development based on item response theory: A systematic review. International Journal of Psychology and Educational Studies, 10(1), 209-223. https://dx.doi.org/10.52380/ijpes.2023.10.1.982

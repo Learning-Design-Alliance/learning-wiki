@@ -41,7 +41,7 @@ Grasha's model classifies teaching styles as consistent, observable teacher beha
 
 ## Related Theories
 
-- [Grasha-Riechmann six student learning styles classification](grasha-riechmann-six-learning-styles.md)
+- [Grasha-Riechmann six student learning styles classification](../products/student-learning-style-questionnaire.md)
 - [Mann's six teaching styles taxonomy for higher education](mann-six-teaching-styles-taxonomy.md)
 
 ## Examples

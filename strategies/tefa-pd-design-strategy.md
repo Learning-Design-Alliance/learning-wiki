@@ -38,7 +38,7 @@ The project's professional development program embeds known best practices from 
 - sustained pedagogical change
 
 ### Affordances
-- [Tefa Four Principles Question Cycle](../theories/tefa-four-principles-question-cycle.md)
+- [Tefa Four Principles Question Cycle](../products/tefa.md)
 
 ## Related Strategies
 

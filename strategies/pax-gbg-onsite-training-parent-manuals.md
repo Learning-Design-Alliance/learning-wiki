@@ -40,7 +40,7 @@ The program's implementation strategy centers on onsite training delivered by ex
 
 ## Related Strategies
 
-- [Pax Good Behavior Game Program Element](../elements/pax-good-behavior-game-program-element.md)
+- [Pax Good Behavior Game Program Element](../products/pax-good-behavior-game.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 

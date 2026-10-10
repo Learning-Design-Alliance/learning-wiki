@@ -52,7 +52,7 @@ Promotion power is defined as "a school's effect on the long-term success of its
 ## Related Elements
 
 - [Promotion power measure of Louisiana high schools](promotion-power-measure-louisiana.md)
-- [Promotion power: a school-effectiveness measure separating school contributions from student background](promotion-power-school-effectiveness-measure.md)
+- [Promotion power: a school-effectiveness measure separating school contributions from student background](../research-methods/promotion-power-measure-of-school-effectiveness.md)
 
 ## Examples
 

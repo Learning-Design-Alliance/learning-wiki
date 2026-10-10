@@ -38,7 +38,7 @@ The article outlines a practical workflow for test developers: estimate item par
 - Identifying and removing differentially functioning items to reduce differential test functioning
 
 ### Affordances
-- [Polytomous Dfit Framework Polytomous Extension](../theories/polytomous-dfit-framework-polytomous-extension.md)
+- [Polytomous Dfit Framework Polytomous Extension](../research-methods/polytomous-dfit-framework.md)
 
 ## Related Strategies
 - 

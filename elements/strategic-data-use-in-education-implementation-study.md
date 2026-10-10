@@ -47,11 +47,11 @@ An implementation study, titled on the page under the associated project "Strate
 - [Three-brief In Focus series on effective data use in education](in-focus-brief-series-effective-data-use.md)
 - [Strategic Data Project and Education Pioneers fellowship programs placing data-skilled fellows in education agencies](sdp-ep-fellowship-programs-data-capacity.md)
 - [Seven agency profiles companion document](seven-agency-profiles-companion-document.md)
-- [Strategic Data Use in Education initiative evaluation (2011-2015)](strategic-data-use-in-education-initiative-evaluation.md)
+- [Strategic Data Use in Education initiative evaluation (2011-2015)](../products/strategic-data-use-in-education.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
 - [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
 - [SDP/EP agency profiles documenting data use in twelve education agencies](sdp-ep-agency-data-use-profiles.md)
-- [SDP and EP fellowship programs as the intervention context for agency data-use change](sdp-ep-fellowship-programs-context.md)
+- [SDP and EP fellowship programs as the intervention context for agency data-use change](../products/strategic-data-project-sdp-fellowship.md)
 
 ## Examples
 -

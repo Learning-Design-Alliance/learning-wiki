@@ -41,7 +41,7 @@ Participants described a set of professional learning strategies for moving educ
 - Understanding learning conditions and the research behind them
 
 ### Affordances
-- [Cultivate Nine Learning Conditions Framework](../theories/cultivate-nine-learning-conditions-framework.md)
+- [Cultivate Nine Learning Conditions Framework](../products/cultivate-survey.md)
 
 ## Related Strategies
 

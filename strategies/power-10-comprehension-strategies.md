@@ -39,7 +39,7 @@ The Power 10 are a set of teacher strategies used in both ECED curricula (Readin
 - retention of information
 
 ### Affordances
-- [Eced Program Element](../elements/eced-program-element.md)
+- [Eced Program Element](../products/eced.md)
 
 ## Related Strategies
 

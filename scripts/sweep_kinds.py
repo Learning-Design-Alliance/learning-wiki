@@ -271,6 +271,8 @@ def main() -> None:
     ap.add_argument("--second-model", default=SECOND_MODEL)
     ap.add_argument("--concurrency", type=int, default=12)
     ap.add_argument("--by", default="process:sweep-kinds")
+    ap.add_argument("--no-attach", action="store_true",
+                    help="apply only the re-filings (products, methods), not plain folds into a canonical page")
     ap.add_argument("--from", dest="from_file", help="apply decisions from an earlier run without asking again")
     args = ap.parse_args()
     cands = {c["id"]: c for c in page_candidates(tuple(args.kinds))}
@@ -295,7 +297,7 @@ def main() -> None:
         cost = sum(d.get("cost_usd") or 0 for d in firsts) + sum(
             (d.get("cost_usd") or 0) for d in decs) - sum(d.get("cost_usd") or 0 for d in moves)
         print(f"cost ${cost:.2f}; decisions -> {OUT.relative_to(WIKI_ROOT)}")
-    ok = [d for d in decs if d.get("confirmed")]
+    ok = [d for d in decs if d.get("confirmed") and not (args.no_attach and d["outcome"] == "attach")]
     by = collections.Counter((cands[d["id"]]["type"], d["outcome"]) for d in ok)
     print("confirmed moves:", dict(by), "| refused:", sum(1 for d in decs if not d.get("confirmed")))
     for d in ok[:25]:

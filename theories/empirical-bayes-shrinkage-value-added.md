@@ -43,12 +43,12 @@ The article describes empirical Bayes shrinkage as a procedure "common in the im
 
 ## Related Theories
 
-- [Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators](ols-empirical-bayes-error-rate-estimation-framework.md)
-- [Hypothesis-testing framework for computing error rates of value-added performance measurement systems](hypothesis-testing-error-rate-framework-value-added.md)
+- [Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators](../research-methods/formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq.md)
+- [Hypothesis-testing framework for computing error rates of value-added performance measurement systems](../research-methods/hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem.md)
 
 ## Examples
 
-- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../elements/dc-value-added-assessment-system.md)
+- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../products/value-added-assessment-system-for-dc-schools-and-teachers.md)
 
 ## Key Sources
 - Mariesa Herrmann, Elias Walsh, Eric Isenberg. (2016). Shrinkage of Value-Added Estimates and Characteristics of Students with Hard-to-Predict Achievement Levels. Statistics and Public Policy, vol. 3, issue 1. https://www.mathematica.org/publications/ja-shrinkage-of-valueadded-estimates-and-characteristics-of-students-with-hardtopredict

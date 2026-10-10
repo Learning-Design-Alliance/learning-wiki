@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-168 claims are cited both ways.
+162 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 212 | 15 | 3 | 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 388 | 8 | 3 | 2 |
-| [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](claims/few-districts-aligned-bonuses-with-tif-guidance.md) | 1 | 2 | 3 | 1 |
 | [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 2 | 0 | 3 | 1 |
+| [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
 
 ## Evidence by kind of page
 
@@ -134,16 +134,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 324 | 2 | 0 |
-| [elements](elements/index.md) | 2,174 | 1,676 | 1 | 0 |
+| [elements](elements/index.md) | 1,080 | 799 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
 | [strategies](strategies/index.md) | 4,546 | 2,158 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,686 | 1,386 | 1 | 0 |
+| [theories](theories/index.md) | 1,372 | 1,113 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 34.5 | 0 |
-| [designs](designs/index.md) | 378 | 195 | 1 | 0 |
-| [products](products/index.md) | 137 | 57 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 39 | 27 | 1 | 0 |
+| [designs](designs/index.md) | 241 | 135 | 1 | 0 |
+| [products](products/index.md) | 1,037 | 784 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 210 | 180 | 1 | 0 |
 
 ## Toward pooled estimates
 

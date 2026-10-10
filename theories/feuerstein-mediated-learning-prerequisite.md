@@ -54,7 +54,7 @@ The paper presents Feuerstein's theory of mediated learning as filling a gap in 
 ## Examples
 
 - [Prepare teachers of young children to enhance each child's learning potential rather than just cover curriculum](../principles/teacher-preparation-enhance-learning-potential.md)
-- [Instrumental Enrichment program](../elements/instrumental-enrichment-program.md)
+- [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 
 ## Key Sources
 - Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957

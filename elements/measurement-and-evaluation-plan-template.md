@@ -43,9 +43,9 @@ A companion resource listed on the publication page, titled "Measurement and Eva
 
 ## Related Elements
 
-- [Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template](me-plan-companion-publications-suite.md)
-- [Measurement and Evaluation Plan Template as a roadmap for developing an M&E plan with a research partner](me-plan-template-roadmap.md)
-- [Measurement and Evaluation Reporting Template for summarizing and sharing study findings](measurement-and-evaluation-reporting-template.md)
+- [Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template](../products/companion-mathematica-publications.md)
+- [Measurement and Evaluation Plan Template as a roadmap for developing an M&E plan with a research partner](../products/me-plan-template.md)
+- [Measurement and Evaluation Reporting Template for summarizing and sharing study findings](../products/me-reporting-template.md)
 - [Practitioner's Guide to Integrating Literacy and Science](practitioners-guide-integrating-literacy-and-science.md)
 
 ## Examples

@@ -38,7 +38,7 @@ The publication recommends that schools and teachers use their own data to refin
 
 ## Related Strategies
 
-- [E2I Coach Platform](../elements/e2i-coach-platform.md)
+- [E2I Coach Platform](../products/evidence-to-insights-e2i-coach.md)
 - [Teacher Action Research](teacher_action_research.md)
 
 ## Examples

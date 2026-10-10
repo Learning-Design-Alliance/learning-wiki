@@ -45,7 +45,7 @@ An organizational element of KIPP, described in this publication as the largest 
 ## Related Elements
 
 - [Structured Ap Experience Development Program](../strategies/structured-ap-experience-development-program.md)
-- [KIPP Successor Prep program preparing new principals to lead existing schools](kipp-successor-prep-program.md)
+- [KIPP Successor Prep program preparing new principals to lead existing schools](../products/successor-prep.md)
 
 ## Examples
 -

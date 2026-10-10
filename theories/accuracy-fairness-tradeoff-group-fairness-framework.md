@@ -49,7 +49,7 @@ The article organizes the evaluation of student performance prediction around gr
 ## Related Theories
 
 - [Three-stage fairness-aware analytical pipeline for early at-risk student identification](three-stage-fairness-aware-identification-pipeline.md)
-- [FATE framework for MMLA: fairness, accountability, transparency, and ethics as student-centred evaluation dimensions](fate-framework-mmla-student-centred.md)
+- [FATE framework for MMLA: fairness, accountability, transparency, and ethics as student-centred evaluation dimensions](../research-methods/fate-framework.md)
 
 ## Examples
 

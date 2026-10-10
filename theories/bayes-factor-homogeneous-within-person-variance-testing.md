@@ -47,8 +47,8 @@ A methodological framework that reframes measurement reliability as an individua
 
 ## Examples
 
-- [BFpack: an R package for Bayes factor hypothesis testing of common statistical testing problems](../elements/bfpack-r-package-bayes-factor-testing.md)
-- [vICC R package for Bayesian testing of within-person variance homogeneity](../elements/vicc-r-package.md)
+- [BFpack: an R package for Bayes factor hypothesis testing of common statistical testing problems](../products/bfpack.md)
+- [vICC R package for Bayesian testing of within-person variance homogeneity](../products/vicc-r-package.md)
 
 ## Key Sources
 - Donald Williams, Stephen Martin, Phillipe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x

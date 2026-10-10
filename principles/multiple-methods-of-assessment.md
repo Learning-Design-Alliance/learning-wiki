@@ -157,7 +157,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - **Choice of demonstration format**: Learners can show understanding through presentation, written analysis, or multimedia artifact using a common rubric.
 - **Performance plus reflection**: An authentic task is paired with a brief explanation of decisions and learning.
 - **Peer, self, and instructor assessment combination**: Different viewpoints are combined to improve the evidence picture.
-- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../elements/type2-checklist-competency-assessment.md)
+- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../products/type-2-checklist-assessment.md)
 - [Portfolio Assessment](../strategies/portfolio-assessment.md) — a collection of several kinds of evidence judged over time.
 - [Varying Levels of Choice in Assessments](../strategies/varying_levels_of_choice_in_assessments.md) — bounded choice of format in practice.
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a performance with feedback and revision, often paired with a written account.
@@ -226,7 +226,7 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - **Choice of demonstration format**: Learners can show understanding through presentation, written analysis, or multimedia artifact using a common rubric.
 - **Performance plus reflection**: An authentic task is paired with a brief explanation of decisions and learning.
 - **Peer, self, and instructor assessment combination**: Different viewpoints are combined to improve the evidence picture.
-- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../elements/type2-checklist-competency-assessment.md)
+- [Type 2 checklist assessment: tasks coded to each first-grade critical objective for teacher judgment of progress](../products/type-2-checklist-assessment.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)

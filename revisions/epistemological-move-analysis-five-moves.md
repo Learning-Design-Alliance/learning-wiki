@@ -3,7 +3,7 @@ type: revisions
 page: ../elements/epistemological-move-analysis-five-moves.md
 ---
 
-# Revision history: [elements/epistemological-move-analysis-five-moves](../elements/epistemological-move-analysis-five-moves.md)
+# Revision history: [elements/epistemological-move-analysis-five-moves](../research-methods/epistemological-move-analysis-ema.md)
 
 ### 2026-09-27 · ingest · process:wiki-ingest
 Ingested from eric-ej1254028 (Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development) via eval_harness.py + ingest_extractions.py

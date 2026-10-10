@@ -47,7 +47,7 @@ The article is a fact sheet produced for districts and schools addressing chroni
 - [Attendance poster/infographic for pre-kindergarten and kindergarten audiences](early-attendance-importance-poster-infographic.md)
 - [Fact sheet on chronic absenteeism in pre-kindergarten and kindergarten for New Jersey districts and school leaders](nj-early-grades-chronic-absenteeism-fact-sheet.md)
 - [Fact sheet on chronic absenteeism risk factors in the early grades for schools](early-grades-chronic-absenteeism-fact-sheet.md)
-- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](prek-kindergarten-attendance-toolkit.md)
+- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](../products/strategies-for-improving-attendance-in-pre-kindergarten-and-kindergarten.md)
 - [Toolkit for improving attendance in pre-kindergarten and kindergarten for districts, schools, and early childhood providers](early-grades-attendance-improvement-toolkit.md)
 - [Parent-facing infographic on the importance of pre-kindergarten and kindergarten attendance](parent-infographic-prek-kindergarten-attendance-importance.md)
 

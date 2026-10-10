@@ -45,7 +45,7 @@ The Community Ecocycle frames place-based systems change as moving through "dyna
 
 ## Examples
 
-- [Funder reflection and action tool for place-based systems change investments](../elements/funder-reflection-tool-place-based-systems-change.md)
+- [Funder reflection and action tool for place-based systems change investments](../products/funder-reflection-and-action-tool.md)
 - [Co-design investment approaches matched to a community's developmental phase](../strategies/codesign-investments-matched-to-community-phase.md)
 
 ## Key Sources

@@ -42,7 +42,7 @@ The evaluation corpus comprises four large-scale real-world sequential datasets:
 
 ## Related Elements
 
-- [KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool](kdd-cup-2010-bridge-to-algebra-dataset.md)
+- [KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool](../products/kdd-cup-2010-bridge-to-algebra-dataset.md)
 - [EduData and EduKTM Open-Source Knowledge Tracing Libraries](edudata-and-eduktm-libraries.md)
 
 ## Examples

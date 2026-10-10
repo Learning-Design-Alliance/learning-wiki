@@ -44,7 +44,7 @@ A lesson-level pattern in which students rotate in parallel through brief intera
 
 ## Related Patterns
 
-- [Rotating small-team science stations for cooperative inquiry](small-team-science-stations.md)
+- [Rotating small-team science stations for cooperative inquiry](../products/project-wet-curriculum-and-activity-guide.md)
 
 ## Examples
 -

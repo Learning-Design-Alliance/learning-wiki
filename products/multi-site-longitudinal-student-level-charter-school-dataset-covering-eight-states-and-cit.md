@@ -1,0 +1,71 @@
+---
+type: product
+id: multi-site-longitudinal-student-level-charter-school-dataset-covering-eight-states-and-cit
+title: Multi-site longitudinal student-level charter school dataset covering eight states and cities
+description: A longitudinal student-level dataset assembled by Ron Zimmer and colleagues covering charter-school students in Chicago, Denver, Milwaukee, Philadelphia, San Diego, Florida, Ohio, and Texas for comparative charter-school research.
+product_kind: dataset
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: ron-zimmer-2009
+    resource: "https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
+    title: "Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
+    author: Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte
+---
+
+# Multi-site longitudinal student-level charter school dataset covering eight states and cities
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
+
+## Description
+A longitudinal student-level dataset assembled by Ron Zimmer and colleagues covering charter-school students in Chicago, Denver, Milwaukee, Philadelphia, San Diego, Florida, Ohio, and Texas for comparative charter-school research.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+### Claims
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition
+
+<!-- merged 2026-10-10 from elements/rand-eight-state-charter-longitudinal-dataset ("Multi-site longitudinal student-level charter school dataset covering eight states and cities"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multi-site longitudinal student-level charter school dataset covering eight states and cities
+
+> **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The report's empirical core is a set of "longitudinal student-level data" covering charter schools in "Chicago, Denver, Milwaukee, Philadelphia, San Diego, and the states of Florida, Ohio, and Texas." This multi-community design allows the authors to examine charter effects "across multiple communities and varied charter laws," supporting comparisons of achievement, attainment, integration, and competition outcomes across policy contexts.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Longitudinal student-level data linked across years to track achievement and attainment outcomes
+#### Constraints
+- Coverage is limited to the eight study sites named in the report
+
+### Target Learners
+- K-12 students in charter and conventional public schools
+
+### Target Learning Goals
+- Academic achievement
+- High school graduation
+- College entry
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition
+-->

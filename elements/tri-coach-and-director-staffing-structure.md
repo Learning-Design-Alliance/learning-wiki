@@ -42,7 +42,7 @@ TRI literacy coaches from FPG Child Development Institute (University of North C
 
 ## Related Elements
 
-- [Targeted Reading Instruction (TRI): one-to-one tutoring model for struggling K-1 readers](targeted-reading-instruction-tri-program-element.md)
+- [Targeted Reading Instruction (TRI): one-to-one tutoring model for struggling K-1 readers](../products/targeted-reading-instruction.md)
 
 ## Examples
 -

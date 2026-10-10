@@ -39,7 +39,7 @@ In response to Delphi experts' feedback that the term data use was too vague, th
 - Data interpretation for strategic diagnosis
 
 ### Affordances
-- [Csm Su Contextualised Swot Model School Units](../theories/csm-su-contextualised-swot-model-school-units.md)
+- [Csm Su Contextualised Swot Model School Units](../products/contextualised-swot-model-for-school-units.md)
 
 ## Related Strategies
 

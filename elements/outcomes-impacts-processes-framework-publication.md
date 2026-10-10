@@ -37,7 +37,7 @@ A published framework document from the Regional Educational Laboratory (REL) Mi
 - School performance measurement
 
 ### Affordances
-- [Outcomes Impacts Processes School Performance Framework](../theories/outcomes-impacts-processes-school-performance-framework.md)
+- [Outcomes Impacts Processes School Performance Framework](../research-methods/three-question-structure-for-school-performance-inquiry.md)
 
 ## Claims
 

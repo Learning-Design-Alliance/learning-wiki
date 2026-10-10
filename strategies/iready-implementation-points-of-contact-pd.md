@@ -38,7 +38,7 @@ The summary recommends designating points of contact to assist with initial set-
 
 ## Related Strategies
 
-- [Iready Personalized Instruction Element](../elements/iready-personalized-instruction-element.md)
+- [Iready Personalized Instruction Element](../products/i-ready-personalized-instruction.md)
 - [Implement i-Ready with designated points of contact and Curriculum Associates professional development support](iready-implementation-support-strategy.md)
 - [Implement Magnetic Reading with designated points of contact supported by i-Ready Partners, with no additional staff required](magnetic-reading-implementation-points-of-contact.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)

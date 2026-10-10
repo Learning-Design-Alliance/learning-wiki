@@ -46,12 +46,12 @@ The framework treats data analysis as proceeding through three stages: explorati
 
 ## Related Theories
 
-- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](cyberlearning-research-methods-three-approaches.md)
-- [Multimodal analysis: studying learning with multiple integrated data streams](multimodal-analysis-cyberlearning-method.md)
+- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
+- [Multimodal analysis: studying learning with multiple integrated data streams](../research-methods/multimodal-analysis.md)
 
 ## Examples
 
-- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../elements/multimodal-teacher-group-interaction-pipeline.md)
+- [Multimodal pipeline for detecting and analyzing teacher–student group interactions in classroom video](../research-methods/multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection.md)
 
 ## Key Sources
 - Hur, P., Palaguachi, C., Machaka, N., Krist, C., Dyer, E. B., D'Angelo, C., & Bosch, N. (2026). A Framework for Considering Exploration, Interpretation, and Confirmation During Data Analysis: Computationally Assisted Analysis of Teacher–Group Interactions. Journal of Educational Data Mining, 18(1). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1030

@@ -1,0 +1,79 @@
+---
+type: research-method
+id: metro-resemblance-and-homogeneity-threshold-approaches-to-measuring-school-racial-integrat
+title: Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
+description: "The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all \"fail to square with the common understanding of racial integration.\" I"
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: greene-2007
+    resource: "https://eric.ed.gov/?id=EJ1005985"
+    title: "Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985"
+    author: "Greene, J. P., & Winters, M. A"
+---
+
+# Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools.
+
+## Accounts
+<!-- How each source describes or uses the method -->
+- **Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration**: The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools. (Greene et al. (2007))
+
+### Claims
+- [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](../claims/dc-voucher-schools-closer-to-metro-racial-mix.md) [+M]
+- [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](../claims/dc-voucher-schools-less-racially-homogeneous.md) [+M]
+- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](../claims/dc-voucher-program-likely-reducing-segregation.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
+
+<!-- merged 2026-10-10 from theories/metro-resemblance-integration-measurement-approach ("Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Metro-resemblance and homogeneity-threshold approaches to measuring school racial integration
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article argues that common integration measures are flawed: counting minority students, evenness within already-segregated districts, using public schools as the benchmark, or comparing participants with non-participants all "fail to square with the common understanding of racial integration." It proposes two approaches: comparing each school's racial composition with that of the surrounding metro school-age population, ignoring political boundaries, and counting schools that are more than 90% racially homogeneous, which "cannot be considered to be racially integrated under any reasonable standard." The study applies both to DC public and voucher-participating private schools.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Data on school racial composition and on the racial composition of the surrounding metropolitan school-age population
+#### Constraints
+- The analysis focuses only on integration between White and minority students and does not offer information about integration between different minority groups, given publicly available data
+
+### Target Learners
+- K-12 students in public and private schools
+
+### Target Learning Objectives
+- opportunities to attend racially integrated schools
+
+### Claims
+
+- [Dc Voucher Schools Closer To Metro Racial Mix](../claims/dc-voucher-schools-closer-to-metro-racial-mix.md) [+M]
+- [Dc Voucher Schools Less Racially Homogeneous](../claims/dc-voucher-schools-less-racially-homogeneous.md) [+M]
+- [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](../claims/dc-voucher-program-likely-reducing-segregation.md) [+W]
+
+## Related Theories
+
+- [Market-competition theory of voucher systemic effects, modified by financial hold-harmless design](../theories/voucher-market-competition-systemic-effects-theory.md)
+
+## Examples
+-
+
+## Key Sources
+- Greene, J. P., & Winters, M. A. (2007). An evaluation of the effect of DC's voucher program on public school achievement and racial integration after one year. Catholic Education: A Journal of Inquiry and Practice, 11(1), 83-101. https://eric.ed.gov/?id=EJ1005985
+-->

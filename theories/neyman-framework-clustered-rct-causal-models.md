@@ -43,8 +43,8 @@ The report grounds the estimation of average treatment effects in two-stage clus
 
 ## Related Theories
 
-- [Causal inference and instrumental variables framework for identifying and estimating CACE in two-level clustered RCTs](iv-framework-cace-two-level-clustered-rcts.md)
-- [A loss function approach grounded in the causal inference literature for evaluating late pretest use in RCTs](loss-function-approach-late-pretests.md)
+- [Causal inference and instrumental variables framework for identifying and estimating CACE in two-level clustered RCTs](../research-methods/correct-variance-estimation-for-cace-in-clustered-education-rcts.md)
+- [A loss function approach grounded in the causal inference literature for evaluating late pretest use in RCTs](../research-methods/loss-function-decision-rule-for-late-pretest-use-in-education-rcts.md)
 
 ## Examples
 -

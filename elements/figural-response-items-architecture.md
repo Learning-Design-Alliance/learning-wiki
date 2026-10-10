@@ -37,7 +37,7 @@ Figural response items are constructed-response items in which "examinees must c
 - assessing architectural knowledge and figural problem-solving skills
 
 ### Affordances
-- [Rule Space Model Cognitive Diagnosis](../theories/rule-space-model-cognitive-diagnosis.md)
+- [Rule Space Model Cognitive Diagnosis](../research-methods/rule-space-model.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

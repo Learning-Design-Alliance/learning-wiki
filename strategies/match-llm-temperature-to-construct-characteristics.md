@@ -37,7 +37,7 @@ The article recommends calibrating LLM sampling parameters to the psychological 
 - reliable automated coding of persistence and related psychological constructs from student dialogue
 
 ### Affordances
-- [Construct Evaluation Framework Measurement Dimensions](../theories/construct-evaluation-framework-measurement-dimensions.md)
+- [Construct Evaluation Framework Measurement Dimensions](../research-methods/construct-evaluation-framework.md)
 
 ## Related Strategies
 

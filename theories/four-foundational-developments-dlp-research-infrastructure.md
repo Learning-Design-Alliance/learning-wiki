@@ -42,14 +42,14 @@ The article organizes the history of DLP-based research infrastructure into four
 
 ## Related Theories
 
-- [SEERNet's framework of Digital Learning Platforms as research infrastructure for education research](dlp-research-infrastructure-seernet-framework.md)
+- [SEERNet's framework of Digital Learning Platforms as research infrastructure for education research](../products/seernet.md)
 - [Two-category taxonomy of requirements for DLPs as research infrastructure: expected technical work versus emerging organizational and community work](expected-emerging-dlp-infrastructure-requirements-taxonomy.md)
 
 ## Examples
 
-- [DataShop educational data repository and analysis platform](../elements/cmu-datashop-repository.md)
-- [MOOC Replication Framework (MORF)](../elements/morf-replication-framework.md)
-- [SEERNet hub of five digital learning platforms enabling large-scale education research](../elements/seernet-five-dlps-hub.md)
+- [DataShop educational data repository and analysis platform](../products/datashop.md)
+- [MOOC Replication Framework (MORF)](../products/mooc-replication-framework.md)
+- [SEERNet hub of five digital learning platforms enabling large-scale education research](../products/seernet.md)
 - [Secure enclaves for privacy-protecting researcher access to student-level data](../strategies/secure-enclave-kinetic-data-access.md)
 - [Teacher-as-researcher experimental design via Terracotta in Canvas](../strategies/terracotta-teacher-as-researcher.md)
 - [Invest in social structures and cross-disciplinary standards to strengthen the DLP research community](../strategies/invest-social-structure-and-standards-dlp-community.md)

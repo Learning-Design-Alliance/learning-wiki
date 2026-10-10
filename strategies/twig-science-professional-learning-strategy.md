@@ -40,7 +40,7 @@ The publisher supports implementation with Customer Success team assistance plus
 
 ## Related Strategies
 
-- [Twig Science Curriculum K 8](../elements/twig-science-curriculum-k-8.md)
+- [Twig Science Curriculum K 8](../products/twig-science.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)

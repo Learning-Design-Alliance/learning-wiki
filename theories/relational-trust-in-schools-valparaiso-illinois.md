@@ -49,7 +49,7 @@ Relational trust is the construct the article uses to organize trust relationshi
 ## Related Theories
 
 - [Role relational specificity: trust in schooling operates through asymmetric role relations among teachers, principals, and parents](role-relational-specificity-three-relations.md)
-- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](rpp-research-as-adaptive-infrastructure.md)
+- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](../products/uchicago-consortiums-research-practice-partnership-model.md)
 
 ## Examples
 -

@@ -40,7 +40,7 @@ Early Steps training involves 9 full-day visits by the trainer across the school
 
 ## Related Strategies
 
-- [Early Steps One To One Tutoring Program](../elements/early-steps-one-to-one-tutoring-program.md)
+- [Early Steps One To One Tutoring Program](../products/early-steps.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)

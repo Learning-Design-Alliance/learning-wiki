@@ -41,7 +41,7 @@ The webinar describes Code and Go Mouse activities in which students build a Nou
 ## Related Elements
 
 - [Codable maze unplugged lesson for shortest-distance algorithms across content areas](codable-maze-unplugged-shortest-distance-lesson.md)
-- [ScratchJR app for young children to build interactive stories and games](scratchjr-k2-interactive-stories-games.md)
+- [ScratchJR app for young children to build interactive stories and games](../products/scratchjr.md)
 
 ## Examples
 -

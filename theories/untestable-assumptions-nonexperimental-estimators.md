@@ -44,7 +44,7 @@ The paper frames nonexperimental methods such as regression modeling and statist
 
 ## Related Theories
 
-- [The Rothstein falsification test as a diagnostic for value-added model bias](rothstein-falsification-test-vam-diagnostic.md)
+- [The Rothstein falsification test as a diagnostic for value-added model bias](../research-methods/rothstein-falsification-test.md)
 
 ## Examples
 -

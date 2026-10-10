@@ -54,7 +54,7 @@ The study adopts Noels and associates' intrinsic/extrinsic motivation framework 
 ## Examples
 
 - [Enhance learners' motivation, especially intrinsic motivation, to raise L2 willingness to communicate](../strategies/enhance-motivation-to-raise-l2-wtc.md)
-- [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](../elements/sdt-esp-motivation-questionnaire.md)
+- [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](../products/sdt-based-chinese-language-esp-motivation-questionnaire-adapted-llos-iea.md)
 
 ## Key Sources
 - Altiner, C. (2018). Turkish EFL Learners' Willingness to Communicate in L2 and Motivation. Journal of Education and Training Studies, 6(11a). https://doi.org/10.11114/jets.v6i11a.3815

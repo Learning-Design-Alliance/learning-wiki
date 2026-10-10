@@ -39,7 +39,7 @@ The document enumerates concrete state policy actions organized in three section
 - Equitable student access to effective teachers and leaders through strategic educator talent management
 
 ### Affordances
-- [Talent Development Framework Three Sections](../theories/talent-development-framework-three-sections.md)
+- [Talent Development Framework Three Sections](../products/talent-development-framework.md)
 
 ## Related Strategies
 

@@ -44,7 +44,7 @@ The Study of School Turnaround is a multi-year evaluation examining school impro
 
 ## Related Elements
 
-- [TNTP Turnaround Leadership Teams Strategy (TLTS)](tntp-turnaround-leadership-teams-strategy.md)
+- [TNTP Turnaround Leadership Teams Strategy (TLTS)](../products/tntp-turnaround-leadership-teams-strategy-tlts.md)
 
 ## Examples
 -

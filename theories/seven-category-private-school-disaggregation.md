@@ -43,8 +43,8 @@ The appendix organizes private schools covered by the dashboard into a seven-par
 
 ## Examples
 
-- [MAP Growth Specialty School National Dashboard technical appendix](../elements/map-growth-specialty-school-national-dashboard-appendix.md)
-- [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](../elements/specialty-schools-national-dashboard.md)
+- [MAP Growth Specialty School National Dashboard technical appendix](../products/map-growth-specialty-school-national-dashboard.md)
+- [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](../products/specialty-schools-national-dashboard.md)
 
 ## Key Sources
 - Kuhfeld, Megan; Long, Daniel; Lewis, Karyn. (2025). Technical Appendix: MAP Growth Specialty School National Dashboard. NWEA. https://www.nwea.org/research/publication/technical-appendix-map-growth-specialty-school-national-dashboard/

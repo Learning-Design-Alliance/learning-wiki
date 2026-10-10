@@ -37,7 +37,7 @@ A strategy for interdisciplinary learning-technology teams: treat impacted commu
 - designing socio-technical tools that support desired learning outcomes despite limits in theory and technical capability
 
 ### Affordances
-- [Adapted Conjecture Map Framework Ls Cs](../theories/adapted-conjecture-map-framework-ls-cs.md)
+- [Adapted Conjecture Map Framework Ls Cs](../research-methods/adapted-conjecture-map-framework-for-learning-scientists-and-computer-scientists.md)
 
 ## Related Strategies
 

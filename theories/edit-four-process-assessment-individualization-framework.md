@@ -43,7 +43,7 @@ The EDIT organizes teachers' assessment practice into four processes: "planning 
 
 ## Examples
 
-- [EDIT measure for examining teachers' use of ongoing child assessment to individualize instruction](../elements/edit-measure-ongoing-child-assessment-individualization.md)
+- [EDIT measure for examining teachers' use of ongoing child assessment to individualize instruction](../products/edit-measure.md)
 
 ## Key Sources
 - Monahan, S., Atkins-Burnett, S., Wasik, B. A., Akers, L., Hurwitz, F., & Carta, J. (2015). Developing a Tool to Examine Teachers' Use of Ongoing Child Assessment to Individualize Instruction. Washington, DC: U.S. Department of Health and Human Services, Administration for Children and Families, Office of Planning, Research and Evaluation. https://www.mathematica.org/publications/developing-a-tool-to-examine-teachers-use-of-ongoing-child-assessment-to-individualize-instruction

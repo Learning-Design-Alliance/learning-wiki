@@ -42,7 +42,7 @@ For students predicted high-risk, the dashboard models a minimal set of changes 
 - [Lad Theoretical Grounding Sct Srl Tl](../theories/lad-theoretical-grounding-sct-srl-tl.md)
 
 ## Related Strategies
-- [Sensenablr Dashboard](../elements/sensenablr-dashboard.md)
+- [Sensenablr Dashboard](../products/sensenablr.md)
 
 ## Examples
 -

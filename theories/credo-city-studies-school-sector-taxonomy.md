@@ -56,7 +56,7 @@ The City Studies project organizes urban school performance analysis around a se
 
 - [CREDO City Studies Project growth-benchmarking analysis approach](../elements/credo-city-studies-growth-benchmarking-approach.md)
 - [Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development](../strategies/cross-sector-collaborative-tasks-for-educator-pd.md)
-- [District-Charter Collaboration Grants program](../elements/district-charter-collaboration-grants-program.md)
+- [District-Charter Collaboration Grants program](../products/district-charter-collaboration-grants-program.md)
 
 ## Key Sources
 - CREDO. (2022). City Study 2022: Austin. https://credo.stanford.edu

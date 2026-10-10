@@ -36,7 +36,7 @@ After identifying specific strengths across the whole child framework, teachers 
 - Using strengths to support growth areas in academics and SEL
 
 ### Affordances
-- [Learner Variability Whole Child Framework](../theories/learner-variability-whole-child-framework.md)
+- [Learner Variability Whole Child Framework](../products/learner-variability-project.md)
 
 ## Related Strategies
 

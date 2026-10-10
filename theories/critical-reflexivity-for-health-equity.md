@@ -42,7 +42,7 @@ The article presents critical reflexivity as "a practice designed to locate ones
 
 ## Related Theories
 
-- [HEC Health Equity Framework: actions to disrupt intersecting systems of oppression surrounding improved care at the centre](hec-health-equity-framework.md)
+- [HEC Health Equity Framework: actions to disrupt intersecting systems of oppression surrounding improved care at the centre](../products/hec-health-equity-framework.md)
 
 ## Examples
 

@@ -39,7 +39,7 @@ The authors recommend that "discussions with CREACT can be conducted" in classro
 - creative performance
 
 ### Affordances
-- [Creact Teaching Tool](../theories/creact-teaching-tool.md)
+- [Creact Teaching Tool](../products/creact.md)
 
 ## Related Strategies
 

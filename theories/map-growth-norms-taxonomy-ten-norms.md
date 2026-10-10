@@ -42,14 +42,14 @@ The manual organizes MAP Growth norms as a taxonomy producing "10 distinct norms
 
 ## Related Theories
 
-- [Model-based multivariate true score norming procedure](multivariate-true-score-norming-procedure.md)
+- [Model-based multivariate true score norming procedure](../research-methods/model-based-multivariate-true-score-norming-procedure.md)
 - [Piecewise multilevel growth modeling of seasonal learning patterns](piecewise-multilevel-growth-seasonal-learning.md)
-- [RIT vertical equal-interval scale grounded in item response theory](rit-vertical-equal-interval-scale.md)
+- [RIT vertical equal-interval scale grounded in item response theory](../products/map-growth.md)
 
 ## Examples
 
-- [2025 MAP Growth norms update with Enhanced Item Selection Algorithm (EISA) alignment](../elements/2025-map-growth-norms-eisa-update.md)
-- [2025 MAP Growth Achievement and Growth Norms dataset and norms tables](../elements/map-growth-2025-norms-dataset.md)
+- [2025 MAP Growth norms update with Enhanced Item Selection Algorithm (EISA) alignment](../products/map-growth.md)
+- [2025 MAP Growth Achievement and Growth Norms dataset and norms tables](../products/2025-map-growth-achievement-and-growth-norms.md)
 
 ## Key Sources
 - 2025 MAP Growth Norms Technical Manual. (2025). HMH Education Company / NWEA. https://www.nwea.org/research/publication/2025-map-growth-norms-technical-manual/

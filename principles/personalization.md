@@ -97,8 +97,8 @@ Personalization works primarily by keeping instruction within each learner's zon
 ## Examples
 
 - [Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables](../strategies/teachers-interface-textbooks-learners-adapt-strategies.md)
-- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
-- [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](../elements/ixl-math-program-element.md)
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../products/louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md)
+- [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](../products/ixl-math.md)
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](../strategies/adaptive-recommendations-engagement-profiles-k8.md)
 - [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 - [Individual Plans of Study (IPS): personalized education and career plans for middle and high school students](../elements/individual-plans-of-study-ips.md)
@@ -201,7 +201,7 @@ The guide's preface promotes individualized instruction through a curriculum str
 
 ## Examples
 
-- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../products/louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md)
 
 ## Key Sources
 - Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541

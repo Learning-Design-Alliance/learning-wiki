@@ -41,7 +41,7 @@ SETAs are embedded technical experts in the ARPA tradition who provide continuit
 
 ## Related Elements
 
-- [SEERNet shared digital learning platform infrastructure enabling a performer community model](seernet-shared-platform-rd-infrastructure.md)
+- [SEERNet shared digital learning platform infrastructure enabling a performer community model](../products/seernet.md)
 
 ## Examples
 -

@@ -46,18 +46,15 @@ The UChicago Consortium's framework identifies five organizational domains that 
 ## Related Theories
 
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
-- [Five Essential Supports framework for organizing school improvement conditions](ccsr-five-essential-supports-framework.md)
-- [Five Essential Supports framework for organizing school improvement measures](five-essential-supports-student-learning-framework.md)
-- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
-- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
 
 ## Examples
 
-- [5Essentials survey-based diagnostic tools](../elements/5essentials-survey-diagnostic-tools.md)
+- [5Essentials survey-based diagnostic tools](../products/5essentials-survey.md)
 - [Use diagnostic survey results to craft an evidence-based school narrative and action plan](../strategies/evidence-based-narrative-and-action-plans-from-diagnostics.md)
 
 ## Key Sources

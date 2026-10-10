@@ -43,7 +43,7 @@ The presentation presents OBC edtech contracts structured as rate cards in which
 
 ## Related Elements
 
-- [Product certifications as a baseline filter for evidence-based edtech procurement](product-certifications-edtech-filter.md)
+- [Product certifications as a baseline filter for evidence-based edtech procurement](../products/five-edtech-quality-indicators.md)
 
 ## Examples
 -

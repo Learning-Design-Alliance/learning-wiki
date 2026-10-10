@@ -46,7 +46,7 @@ A multi-year evaluation project associated with the PEF publication, listed on t
 
 ## Related Elements
 
-- [Dc Early Childhood Educator Pay Equity Fund](dc-early-childhood-educator-pay-equity-fund.md)
+- [Dc Early Childhood Educator Pay Equity Fund](../products/washington-dcs-early-childhood-educator-pay-equity-fund-pef.md)
 
 ## Examples
 -

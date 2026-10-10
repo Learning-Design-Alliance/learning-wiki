@@ -38,7 +38,7 @@ The report recommends that DRE "develop and manage a data warehouse to support t
 
 ## Related Elements
 
-- [Grow Network reporting system for grades 3-9](grow-network-reporting-system-grades-3-9.md)
+- [Grow Network reporting system for grades 3-9](../products/grow-network.md)
 
 ## Examples
 -

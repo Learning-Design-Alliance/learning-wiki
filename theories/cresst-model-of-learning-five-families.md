@@ -50,8 +50,8 @@ The CRESST model of learning organizes assessment around five types of learning:
 ## Examples
 
 - [Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet](../strategies/cresst-tool-design-criteria.md)
-- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../elements/cresst-integrated-assessment-system.md)
-- [Eight proposed CRESST assessment tools with specifications and scalability outlooks](../elements/cresst-proposed-assessment-tools.md)
+- [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../products/cresst-integrated-assessment-system.md)
+- [Eight proposed CRESST assessment tools with specifications and scalability outlooks](../products/eight-proposed-cresst-assessment-tools.md)
 - [Knowledge map assessment of content understanding](../elements/knowledge-map-content-understanding-assessment.md)
 
 ## Key Sources

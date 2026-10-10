@@ -47,8 +47,8 @@ The guide argues that industrial arts should draw its content from industrial te
 
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
 - [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
-- [Recommended scope and sequence with per-cluster course time allocations](../designs/recommended-scope-sequence-time-allocations.md)
-- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../products/technology-education-curriculum-guide.md)
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../products/louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md)
 - [Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work](../principles/career-education-through-industrial-arts.md)
 
 ## Key Sources

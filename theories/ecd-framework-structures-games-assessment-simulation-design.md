@@ -49,7 +49,7 @@ The article extends the evidence-centered design (ECD) framework beyond assessme
 
 ## Related Theories
 
-- [Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models](ecd-framework-models-epistemic-games.md)
+- [Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models](../research-methods/evidence-centered-design.md)
 
 ## Examples
 -

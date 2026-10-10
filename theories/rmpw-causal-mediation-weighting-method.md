@@ -48,7 +48,7 @@ RMPW is a weighting-based approach to causal mediation analysis that decomposes 
 
 ## Examples
 
-- [RMPW software program and online Stata code](../elements/rmpw-software-program-and-stata-code.md)
+- [RMPW software program and online Stata code](../products/rmpw.md)
 
 ## Key Sources
 - Guanglei Hong, Jonah Deutsch, Heather D. Hill. (2015). Ratio-of-Mediator-Probability Weighting for Causal Mediation Analysis in the Presence of Treatment-by-Mediator Interaction. Journal of Educational and Behavioral Statistics, vol. 40, no. 3. https://www.mathematica.org/publications/ratioofmediatorprobability-weighting-for-causal-mediation-analysis-in-the-presence

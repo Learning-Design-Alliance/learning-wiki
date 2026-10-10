@@ -38,7 +38,7 @@ The report's forward-looking recommendation is that ongoing solution implementat
 - evaluating and refining equity-centered solutions to create powerful and inclusive learning environments
 
 ### Affordances
-- [Inclusive Innovation Framework](../theories/inclusive-innovation-framework.md)
+- [Inclusive Innovation Framework](../products/digital-promises-inclusive-innovation-model.md)
 
 ## Related Strategies
 - 

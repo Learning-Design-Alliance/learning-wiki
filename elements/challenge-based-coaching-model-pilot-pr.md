@@ -45,7 +45,7 @@ The Challenge-based Coaching Model is a coaching cycle in which each coach works
 
 ## Related Elements
 
-- [Micro-credentials as digital competency certifications for educator professional learning](micro-credentials-digital-competency-certifications.md)
+- [Micro-credentials as digital competency certifications for educator professional learning](../products/digital-promise-micro-credentials.md)
 
 ## Examples
 

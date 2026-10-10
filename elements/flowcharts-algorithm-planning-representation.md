@@ -39,7 +39,7 @@ The deck introduces flowcharts as a planning representation, defining them as "A
 ## Related Elements
 
 - [Ten-term algorithm vocabulary set for grades 3-8](algorithm-vocabulary-ten-terms-3-8.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 
 ## Examples
 -

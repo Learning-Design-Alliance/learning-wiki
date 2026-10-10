@@ -48,9 +48,9 @@ The report defines educator micro-credentials as an emerging learning design wit
 ## Related Theories
 
 - [The micro-credential ecosystem of issuers, earners, and recognizers](micro-credential-ecosystem-three-roles.md)
-- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](standards-for-professional-learning-seven-standards.md)
-- [Digital Promise quality-assurance framework for research-backed, evidence-based micro-credentials](micro-credential-quality-framework.md)
-- [Three-player micro-credential ecosystem](micro-credential-ecosystem-three-players.md)
+- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](../products/standards-for-professional-learning.md)
+- [Digital Promise quality-assurance framework for research-backed, evidence-based micro-credentials](../products/digital-promises-competency-based-assessment-framework.md)
+- [Three-player micro-credential ecosystem](../products/digital-promise-micro-credential-platform.md)
 - [Four design features of educator micro-credentials](micro-credential-four-design-features.md)
 
 ## Examples

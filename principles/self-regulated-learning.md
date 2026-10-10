@@ -91,7 +91,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 
 - A writing course uses planning checklists, mid-draft self-ratings, and revision memos so learners can monitor progress against clear criteria.
 - An online math platform asks learners to predict difficulty, check performance after practice, and choose the next support option based on that reflection.
-- [MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system](../elements/metatutor-srl-prompting-its.md)
+- [MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system](../products/metatutor.md)
 - Learners predict performance before a quiz and compare the result afterward.
 - Students annotate where they are confused and choose the next support to use.
 - A project-based course requires weekly progress checks in which learners compare current work to rubric criteria and select one concrete adjustment for the next week.

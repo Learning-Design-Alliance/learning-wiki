@@ -45,7 +45,7 @@ The Workforce Innovation and Opportunity Act (WIOA) is described in the report a
 
 ## Related Elements
 
-- [IELCE integrated English literacy and civics education program with five performance indicators](ielce-five-performance-indicators.md)
+- [IELCE integrated English literacy and civics education program with five performance indicators](../products/ielce.md)
 
 ## Examples
 -

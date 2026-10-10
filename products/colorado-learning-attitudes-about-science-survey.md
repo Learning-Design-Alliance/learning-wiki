@@ -1,0 +1,75 @@
+---
+type: product
+id: colorado-learning-attitudes-about-science-survey
+title: Colorado Learning Attitudes about Science Survey
+description: A standardized, Likert-scale survey developed to measure students’ beliefs and attitudes about learning science by comparing responses with expert-response patterns.
+product_kind: assessment
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: okwara-2024
+    resource: "https://orcid.org/0000-0002-0876-9020"
+    title: "Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020"
+    author: Okwara, V. U
+---
+
+# Colorado Learning Attitudes about Science Survey
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+A standardized, Likert-scale survey developed to measure students’ beliefs and attitudes about learning science by comparing responses with expert-response patterns.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure**: The study used the CLASS questionnaire, a standardised instrument that "has passed validity and reliability tests" and differentiates between the beliefs of experts and novices, to measure learners' engagement and applied understanding of ecological concepts. It was administered as a pre- and post-test with a 5-point Likert scale (1=strongly disagree to 5=strongly agree). Learners' percentage favourable scores were computed against the CLASS Expert Response Key across 42 statements, comparing responses of the 355 learners to expert reactions. (Okwara (2024))
+
+### Claims
+- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](../claims/class-descriptive-scores-favour-control-post-test.md) [~W]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020
+
+<!-- merged 2026-10-10 from elements/class-survey-ecology-measure ("Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Colorado Learning Attitudes about Science Survey (CLASS) as the outcome measure
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The study used the CLASS questionnaire, a standardised instrument that "has passed validity and reliability tests" and differentiates between the beliefs of experts and novices, to measure learners' engagement and applied understanding of ecological concepts. It was administered as a pre- and post-test with a 5-point Likert scale (1=strongly disagree to 5=strongly agree). Learners' percentage favourable scores were computed against the CLASS Expert Response Key across 42 statements, comparing responses of the 355 learners to expert reactions.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Scoring requires the CLASS Expert Response Key; neutral responses are not counted as agreement or disagreement with the expert, and unanswered questions lead to an adjusted average percentage favourable score.
+#### Constraints
+- 
+
+### Target Learners
+- Grade 9 learners
+
+### Target Learning Goals
+- Measuring engagement and applied conceptual understanding of ecological concepts
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](../claims/class-descriptive-scores-favour-control-post-test.md) [~W]
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020
+-->

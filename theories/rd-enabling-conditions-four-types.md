@@ -40,7 +40,7 @@ The report's framework identifies four condition types that school systems must 
 
 ## Related Theories
 
-- [Rd Practice Dimensions Six Rubric](rd-practice-dimensions-six-rubric.md)
+- [Rd Practice Dimensions Six Rubric](../products/six-rd-practice-dimensions-framework.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 

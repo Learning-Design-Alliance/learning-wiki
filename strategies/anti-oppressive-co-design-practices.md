@@ -39,7 +39,7 @@ The team adopted an explicitly anti-oppressive and anti-colonial approach to adv
 - redistributing power in co-design processes by centering people with lived experience of systemic inequity
 
 ### Affordances
-- [Hec Health Equity Framework](../theories/hec-health-equity-framework.md)
+- [Hec Health Equity Framework](../products/hec-health-equity-framework.md)
 
 ## Related Strategies
 

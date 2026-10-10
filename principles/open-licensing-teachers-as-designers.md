@@ -46,7 +46,7 @@ The article argues that open source licensing of educational computer models/sof
 
 ## Examples
 
-- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../elements/quantum-randi-challenge-computer-game.md)
+- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 
 ## Key Sources

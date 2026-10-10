@@ -43,7 +43,7 @@ The Taxonomy of Process Education (TPE) is a four-level measurement metric deriv
 - [In the worked sample analysis of faculty professional development data, AMOVA yielded a final value of 3.00, a 'Proficient' level, leading to rejection of the null hypothesis](../claims/amova-sample-data-yields-proficient-300.md) [+W]
 
 ## Related Theories
-- [Amova Accumulative Manifold Validation Analysis](amova-accumulative-manifold-validation-analysis.md)
+- [Amova Accumulative Manifold Validation Analysis](../research-methods/amova-accumulative-manifold-validation-analysis.md)
 
 ## Examples
 

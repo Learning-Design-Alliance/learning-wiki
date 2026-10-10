@@ -38,7 +38,7 @@ The article names three planned applications of the FRTF: "as curricular support
 - Talent development, self-assessment, and preparation for the future of work
 
 ### Affordances
-- [Future Ready Talent Framework Frtf](../theories/future-ready-talent-framework-frtf.md)
+- [Future Ready Talent Framework Frtf](../products/future-ready-talent-framework.md)
 
 ## Related Strategies
 - 

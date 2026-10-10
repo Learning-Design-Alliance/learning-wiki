@@ -47,7 +47,7 @@ Ecological dynamics blends dynamical systems theory and ecological psychology's 
 
 ## Examples
 
-- [Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio](../elements/mitp-mathematical-imagery-trainer-proportion.md)
+- [Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio](../products/mathematical-imagery-trainer-for-proportion.md)
 - [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](../strategies/tutor-coenactment-fading-dynamical-scaffold.md)
 
 ## Key Sources

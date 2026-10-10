@@ -48,7 +48,7 @@ The CBAM, developed by the Research and Development Center for Teacher Education
 ## Examples
 
 - [Match the form and content of staff development interventions to clients' assessed Stages of Concern](../principles/match-interventions-to-stages-of-concern.md)
-- [Stages of Concern Questionnaire (SoCQ)](../elements/socq-stages-of-concern-questionnaire.md)
+- [Stages of Concern Questionnaire (SoCQ)](../products/stages-of-concern-questionnaire-socq.md)
 
 ## Key Sources
 - Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907

@@ -41,7 +41,7 @@ The report adopts a partnership framing of instructional coaching, attributed to
 ## Related Theories
 
 - [Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework](instructional-coaching-frameworks-knight-multidisciplinary.md)
-- [Five cornerstones of an effective classroom technology coaching program](five-cornerstones-effective-technology-coaching.md)
+- [Five cornerstones of an effective classroom technology coaching program](../products/dynamic-learning-project.md)
 - [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md)
 - [Conceptual framework of active ingredients of instructional coaching comprising characteristics, relational contexts, and processes](active-ingredients-coaching-conceptual-framework.md)
 

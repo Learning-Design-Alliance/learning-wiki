@@ -44,11 +44,11 @@ The article adopts the PLC construct as "a group of teachers who share a common 
 
 ## Related Theories
 
-- [I3P stage-based model: open innovation as a strategy to foster Professional Learning Communities in higher education](i3p-open-innovation-plc-model.md)
+- [I3P stage-based model: open innovation as a strategy to foster Professional Learning Communities in higher education](../products/i3p.md)
 - [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
 - [Taxonomy of supportive versus developmental practices in teacher professional communities](supportive-versus-developmental-practices-taxonomy.md)
-- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](rd-practice-dimensions-six-rubric.md)
-- [Six-dimension construct map for measuring ELA and math curriculum-shift implementation](shared-measures-construct-map-curriculum-shifts.md)
+- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](../products/six-rd-practice-dimensions-framework.md)
+- [Six-dimension construct map for measuring ELA and math curriculum-shift implementation](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
 
 ## Examples
 

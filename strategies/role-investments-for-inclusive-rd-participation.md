@@ -38,7 +38,7 @@ The report lists concrete changes to traditional roles and investments that enab
 - Authentic engagement of marginalized stakeholders as co-experts throughout R&D
 
 ### Affordances
-- [Inclusive Innovation Equity First Rd Framework](../theories/inclusive-innovation-equity-first-rd-framework.md)
+- [Inclusive Innovation Equity First Rd Framework](../products/digital-promises-inclusive-innovation-model.md)
 
 ## Related Strategies
 

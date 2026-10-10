@@ -42,7 +42,7 @@ ICEL is defined in the article as "an experiential education process involv - in
 
 ## Related Theories
 
-- [Challenge-Based Learning is a framework for learning while solving real-world challenges through three phases: Engage, Investigate, and Act](challenge-based-learning-three-phase-framework.md)
+- [Challenge-Based Learning is a framework for learning while solving real-world challenges through three phases: Engage, Investigate, and Act](../products/challenge-based-learning-cbl-framework.md)
 
 ## Examples
 

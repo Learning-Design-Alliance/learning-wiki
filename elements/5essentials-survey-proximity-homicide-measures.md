@@ -44,10 +44,7 @@ The 5Essentials Survey is completed every spring by students in grades 4-12 and 
 
 ## Related Elements
 
-- [5Essentials-based school climate measures (Student Physical Safety, Teacher Physical Safety, Student-Teacher Trust)](5essentials-sro-study-climate-measures.md)
-- [5Essentials Survey system measuring school organizational conditions](5essentials-survey-system-illinois.md)
-- [5Essentials Survey measures of socioemotional development and school climate](5essentials-survey-sed-climate-measures.md)
-- [5Essentials Survey](5essentials-survey-measures-school-climate.md)
+- [5Essentials-based school climate measures (Student Physical Safety, Teacher Physical Safety, Student-Teacher Trust)](../products/5essentials-survey.md)
 
 ## Examples
 -

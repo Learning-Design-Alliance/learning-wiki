@@ -38,7 +38,7 @@ The article describes a set of concrete barrier-removal practices: flexible even
 - equitable access to education and resources
 
 ### Affordances
-- [Team Student Model](../theories/team-student-model.md)
+- [Team Student Model](../products/team-student.md)
 
 ## Related Strategies
 

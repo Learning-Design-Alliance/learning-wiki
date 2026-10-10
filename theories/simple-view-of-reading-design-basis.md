@@ -49,7 +49,7 @@ The assessment's test design is explicitly grounded in the Simple View of Readin
 
 ## Examples
 
-- [MAP Reading Fluency adaptive online early literacy assessment](../elements/map-reading-fluency-assessment.md)
+- [MAP Reading Fluency adaptive online early literacy assessment](../products/map-reading-fluency.md)
 
 ## Key Sources
 - NWEA. (2024). English MAP Reading Fluency Technical Report. https://www.nwea.org/research/publication/english-map-reading-fluency-technical-report/

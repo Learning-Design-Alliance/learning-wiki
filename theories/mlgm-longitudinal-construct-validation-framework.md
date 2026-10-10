@@ -45,7 +45,7 @@ MLGM is a second-order latent growth model, a multivariate extension of the firs
 
 ## Related Theories
 
-- [A multi-rater latent growth curve model that removes unique rater variance before modeling growth](multi-rater-latent-growth-curve-model.md)
+- [A multi-rater latent growth curve model that removes unique rater variance before modeling growth](../research-methods/multi-rater-latent-growth-curve-model.md)
 
 ## Examples
 

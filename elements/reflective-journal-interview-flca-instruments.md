@@ -39,7 +39,7 @@ The study used two data collection instruments: a one A4 page reflective written
 ## Related Elements
 
 - [Three-task interview protocol with a 3D sun-earth model for eliciting young children's causal explanations](3d-model-interview-protocol-day-night.md)
-- [Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)](metacognitive-interview-form-ncrel.md)
+- [Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)](../products/metacognitive-interview-form-for-younger-and-older-students.md)
 - [Flipgrid-based technology-enhanced DCT (TE-DCT) for eliciting nonverbal pragmatic data](flipgrid-te-dct-instrument.md)
 - [Online Learning Record (OLR): a portfolio record integrating classroom activity, assessment, and research](online-learning-record-olr.md)
 

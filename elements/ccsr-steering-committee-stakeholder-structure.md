@@ -39,8 +39,8 @@ The CCSR steering committee is a deliberately multi-partisan advisory body of 23
 
 ## Related Elements
 
-- [CCSR longitudinal data archive on Chicago Public Schools](ccsr-cps-longitudinal-data-archive.md)
-- [Individualized school reports (ISRs) tracking schools on core research-linked indicators](ccsr-individualized-school-reports-isrs.md)
+- [CCSR longitudinal data archive on Chicago Public Schools](../products/ccsr-longitudinal-data-archive-on-chicago-public-schools.md)
+- [Individualized school reports (ISRs) tracking schools on core research-linked indicators](../products/5essentials-survey.md)
 - [Public and patient involvement (PPI) panel embedded across all stages of the AAC evidence synthesis](ppi-panel-aac-review-stages.md)
 
 ## Examples

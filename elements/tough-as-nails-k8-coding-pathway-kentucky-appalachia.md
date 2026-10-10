@@ -38,9 +38,8 @@ Tough As Nails is an NSF-funded project (Grant No. 1923314) developing a K-8 cod
 
 ## Related Elements
 
-- [Two NSF CSforAll research-practice partnerships designing a K-8 Computational Thinking pathway in Kentucky Appalachia](kentucky-appalachia-ct-pathway-rpp.md)
-- [Computing Pathways Research Practice Partnership with three districts](computing-pathways-rpp-three-districts.md)
-- [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](tan-virtual-computing-pd-project.md)
+- [Two NSF CSforAll research-practice partnerships designing a K-8 Computational Thinking pathway in Kentucky Appalachia](../products/computational-thinking-pathways.md)
+- [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](../products/tough-as-nails-nimble-fingers-tan-virtual-computing-pd-project.md)
 
 ## Examples
 

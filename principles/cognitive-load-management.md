@@ -118,7 +118,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - A math lesson introduces multi-step equation solving in short worked chunks, with each step visually separated and narrated before learners attempt a full problem.
 - A science simulation hides advanced controls for novices, then gradually reveals more variables once learners can explain the core system.
 - [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](../strategies/focused-more-is-more-generative-processing.md)
-- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
 - [Wait Time](../strategies/wait-time.md)
@@ -325,7 +325,7 @@ Because older adults tend to process information more slowly and may have declin
 
 ## Examples
 
-- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
 - [Wait Time](../strategies/wait-time.md)

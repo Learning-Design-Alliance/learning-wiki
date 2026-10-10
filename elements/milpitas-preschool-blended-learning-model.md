@@ -42,9 +42,9 @@ In 2012–2013 both child development centers began using "a blended learning mo
 
 ## Related Elements
 
-- [Milpitas Early Learning Transitions Model (ELTM)](milpitas-eltm-program.md)
-- [Children's Progress Academic Assessment (CPAA)](cpaa-adaptive-assessment-element.md)
-- [Desired Results Development Profile-Preschool (DRDP-PS)](drdp-ps-teacher-rating-element.md)
+- [Milpitas Early Learning Transitions Model (ELTM)](../products/milpitas-early-learning-transitions-model.md)
+- [Children's Progress Academic Assessment (CPAA)](../products/childrens-progress-academic-assessment.md)
+- [Desired Results Development Profile-Preschool (DRDP-PS)](../products/desired-results-development-profile-preschool-drdp-ps.md)
 - [Multiple child assessments used together to measure and evaluate preschool students' school readiness](multiple-child-assessments-school-readiness-milpitas.md)
 
 ## Examples

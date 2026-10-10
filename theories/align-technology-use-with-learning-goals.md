@@ -48,7 +48,7 @@ The guide's overarching framework holds that the value of educational technology
 
 ## Examples
 
-- [Emerging Technology Adoption Framework question-and-criteria instrument](../elements/emerging-tech-adoption-framework-instrument.md)
+- [Emerging Technology Adoption Framework question-and-criteria instrument](../products/emerging-technology-adoption-framework.md)
 - [Pair AI curricular goals with domain-specific pedagogical methodologies](../strategies/ai-curricular-goals-with-domain-specific-pedagogies.md)
 
 ## Key Sources

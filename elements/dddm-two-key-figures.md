@@ -37,7 +37,7 @@ The framework artifact consists of two key figures that together depict the DDDM
 - understanding the data-driven decision making process
 
 ### Affordances
-- [Dddm Conceptual Framework Education](../theories/dddm-conceptual-framework-education.md)
+- [Dddm Conceptual Framework Education](../products/conceptual-framework-for-data-driven-decision-making-in-education.md)
 
 ## Claims
 

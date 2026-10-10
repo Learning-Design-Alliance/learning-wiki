@@ -44,7 +44,7 @@ The article's organizing framework is a theory of action linking state, region, 
 
 ## Related Theories
 
-- [Five-pillar statewide blueprint: ACTIVATE, CONNECT, CREATE, ALIGN, ASSESS](five-pillar-statewide-career-pathways-blueprint.md)
+- [Five-pillar statewide blueprint: ACTIVATE, CONNECT, CREATE, ALIGN, ASSESS](../products/blueprint-for-statewide-pathways-scaling.md)
 
 ## Examples
 

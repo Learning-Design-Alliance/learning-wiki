@@ -45,15 +45,14 @@ The norming approach is "a model-based approach employing a multivariate true sc
 
 ## Related Theories
 
-- [Joint student-level and school-level achievement and growth norms](joint-student-and-school-norms-2020-map-growth.md)
-- [Multivariate true score model for building achievement and growth norms](multivariate-true-score-model-norming.md)
-- [Model-based multivariate true score norming procedure](multivariate-true-score-norming-procedure.md)
-- [Multivariate true score model for deriving achievement and growth norms](multivariate-true-score-norming-model.md)
+- [Joint student-level and school-level achievement and growth norms](../research-methods/joint-student-level-and-school-level-achievement-and-growth-norms.md)
+- [Multivariate true score model for building achievement and growth norms](../research-methods/multivariate-true-score-model-for-achievement-and-growth-norming.md)
+- [Model-based multivariate true score norming procedure](../research-methods/model-based-multivariate-true-score-norming-procedure.md)
 
 ## Examples
 
-- [Course-specific MAP Growth Mathematics tests (Algebra 1, Geometry, Algebra 2)](../elements/course-specific-map-growth-math-tests.md)
-- [Course-specific MAP Growth tests (Algebra 1, Geometry, Algebra 2, Integrated Math 1–3, Biology/Life Science)](../elements/course-specific-map-growth-tests.md)
+- [Course-specific MAP Growth Mathematics tests (Algebra 1, Geometry, Algebra 2)](../products/course-specific-map-growth-mathematics-tests.md)
+- [Course-specific MAP Growth tests (Algebra 1, Geometry, Algebra 2, Integrated Math 1–3, Biology/Life Science)](../products/map-growth-course-specific-assessments.md)
 
 ## Key Sources
 - Thum, Y. M., & He, W. (2019). Achievement and growth norms for course-specific MAP® Growth™ Algebra 1, Geometry, and Algebra 2 tests. NWEA Research Report. Portland, OR: NWEA. https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-algebra-1-geometry-and-algebra-2-tests/

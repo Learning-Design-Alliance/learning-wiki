@@ -153,7 +153,7 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - [Low-Profile Classroom Control](../strategies/low-profile-classroom-control.md) — a technique set aimed squarely at criterion 3
 - [Class Meetings](../strategies/class-meetings.md) — learners reviewing and revising the rules, a step towards criterion 5
 - [Good Behavior Game](../strategies/good-behavior-game.md) and [Check In Check Out](../strategies/check-incheck-out.md) — named routines a plan may already include
-- [CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards](../elements/cw-fit-program-element.md)
+- [CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards](../products/cw-fit.md)
 
 ## Key Sources
 - Ginott, H. G. (1972). *Teacher and child: A book for parents and teachers*. Macmillan.

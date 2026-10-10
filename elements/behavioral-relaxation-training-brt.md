@@ -45,7 +45,7 @@ Behavioral Relaxation Training (BRT; Poppen, 1998) is a behavioral intervention 
 
 ## Related Elements
 
-- [Abbreviated Acceptability Rating Profile (AARP)](aarp-acceptability-rating-profile.md)
+- [Abbreviated Acceptability Rating Profile (AARP)](../products/abbreviated-acceptability-rating-profile-aarp.md)
 
 ## Examples
 -

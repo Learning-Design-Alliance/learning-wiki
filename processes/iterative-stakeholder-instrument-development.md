@@ -46,7 +46,7 @@ This development pattern adapts an intervention-development framework to build a
 - [Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment](../claims/cimi-m-qualitative-utility-themes.md) [+W]
 
 ## Related Patterns
-- [Cimi M Clinical Interview](../elements/cimi-m-clinical-interview.md)
+- [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
 
 ## Examples
 -

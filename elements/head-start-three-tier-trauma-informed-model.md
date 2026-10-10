@@ -45,7 +45,7 @@ A multiorganization collaboration implemented a trauma-informed approach in Head
 
 ## Related Elements
 
-- [HEARTS whole-school trauma-informed program in San Francisco elementary schools](hearts-whole-school-program.md)
+- [HEARTS whole-school trauma-informed program in San Francisco elementary schools](../products/hearts.md)
 
 ## Examples
 -

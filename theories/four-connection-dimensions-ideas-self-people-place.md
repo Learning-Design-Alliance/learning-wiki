@@ -42,8 +42,8 @@ The framework organizes connection into four essential dimensions: connection to
 
 ## Related Theories
 
-- [The Powerful Learning framework unifies learning science into a connection-centered vision](powerful-learning-framework-digital-promise.md)
-- [Digital Promise's Powerful Learning framework: agency, purpose, curiosity, connection](powerful-learning-four-qualities-digital-promise.md)
+- [The Powerful Learning framework unifies learning science into a connection-centered vision](../products/powerful-learning-framework.md)
+- [Digital Promise's Powerful Learning framework: agency, purpose, curiosity, connection](../products/digital-promises-powerful-learning-framework.md)
 
 ## Examples
 

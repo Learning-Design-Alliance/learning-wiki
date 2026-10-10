@@ -47,7 +47,7 @@ The article defines teaching style as "measurable variations in approaches used 
 
 ## Examples
 
-- [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](../elements/eight-teaching-style-scales-garfunkel.md)
+- [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](../products/eight-scale-instrument-for-classifying-teaching-style.md)
 
 ## Key Sources
 - Garfunkel, Frank. (1967). Teaching Style: The Development of Teaching Tasks. Boston University. https://eric.ed.gov/?id=ED022557

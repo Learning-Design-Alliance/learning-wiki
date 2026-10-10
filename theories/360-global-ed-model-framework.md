@@ -42,11 +42,11 @@ The 360 Global Ed Model is an evolving education model for an international serv
 - [Student reflections following the trips are reported by the authors as a source of outcomes beyond the completed surface projects](../claims/student-reflections-outcomes-beyond-projects.md) [+W]
 
 ## Related Theories
-- [360 Team Learning Foundation Platform](360-team-learning-foundation-platform.md)
+- [360 Team Learning Foundation Platform](../products/360-team-learning-foundation.md)
 
 ## Examples
 
-- [Collaborative Way teaming model (Fickett and Fickett)](../elements/collaborative-way-teaming-model.md)
+- [Collaborative Way teaming model (Fickett and Fickett)](../products/collaborative-way.md)
 - [DISC and StrengthsFinder 2.0 behavioral self-assessments for team self-understanding](../elements/disc-strengthsfinder-self-assessments.md)
 - [Servant leadership component of the Team Learning Foundation](../elements/servant-leadership-team-foundation-component.md)
 - [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](../designs/shared-dialogue-foundation-methods.md)

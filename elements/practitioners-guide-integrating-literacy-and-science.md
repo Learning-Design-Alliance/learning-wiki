@@ -46,7 +46,7 @@ A companion guide listed under Associated Research for this brief, titled "Pract
 ## Related Elements
 
 - [Measurement and Evaluation Plan Template](measurement-and-evaluation-plan-template.md)
-- [Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template](me-plan-companion-publications-suite.md)
+- [Companion Mathematica publications supporting M&E planning: Prior Research Table, Targets Guide, Sample Size Guide, and Reporting Template](../products/companion-mathematica-publications.md)
 
 ## Examples
 

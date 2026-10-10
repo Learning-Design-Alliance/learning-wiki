@@ -42,7 +42,7 @@ The report provides two planning artifacts for districts conducting ed-tech pilo
 
 ## Related Elements
 
-- [EdTech Pilot Navigator with four pilot models (Resource E)](edtech-pilot-navigator-models.md)
+- [EdTech Pilot Navigator with four pilot models (Resource E)](../products/ai-enabled-edtech-adoption-cycle.md)
 
 ## Examples
 

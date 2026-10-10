@@ -52,7 +52,7 @@ A DRC is a challenge that, according to the article, cannot be met under establi
 
 ## Examples
 
-- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../elements/quantum-randi-challenge-computer-game.md)
+- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
 - [Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument](../strategies/refuse-debate-until-challenge-met.md)
 
 ## Key Sources

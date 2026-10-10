@@ -51,13 +51,8 @@ MAP Growth is NWEA's assessment product, listed as the product behind multiple 2
 
 ## Related Elements
 
-- [MAP Growth National Dashboard with user guide and technical appendix](map-growth-national-dashboard-element.md)
-- [MAP Growth assessment data as the evidence base for district-level absenteeism and recovery analysis](map-growth-data-2000-districts-absenteeism-brief.md)
-- [MAP Growth National Dashboard](map-growth-national-dashboard.md)
-- [MAP Growth assessment data as the evidence base for national pandemic-recovery monitoring](map-growth-pandemic-recovery-data.md)
-- [MAP Growth assessment scores as the achievement outcome data source](map-growth-scores-heat-study-outcome.md)
-- [MAP Growth assessment and National Dashboard as the data infrastructure for NWEA COVID-recovery research](map-growth-national-dashboard-data-infrastructure.md)
-- [MAP Growth assessment](map-growth-assessment-nwea.md)
+- [MAP Growth National Dashboard with user guide and technical appendix](../products/map-growth-national-dashboard.md)
+- [MAP Growth assessment data as the evidence base for district-level absenteeism and recovery analysis](../products/map-growth.md)
 
 ## Examples
 -

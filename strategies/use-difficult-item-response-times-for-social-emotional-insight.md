@@ -38,7 +38,7 @@ The article recommends considering response process metadata as a source of info
 - Identifying students' academic motivation and self-efficacy needs
 
 ### Affordances
-- [Response Time As Response Process Metadata](../theories/response-time-as-response-process-metadata.md)
+- [Response Time As Response Process Metadata](../research-methods/item-response-time-analysis-as-response-process-metadata.md)
 
 ## Related Strategies
 

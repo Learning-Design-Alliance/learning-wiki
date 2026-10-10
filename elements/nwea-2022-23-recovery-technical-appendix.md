@@ -43,13 +43,11 @@ A technical appendix document released by NWEA Research in July 2023 by Karyn Le
 
 ## Related Elements
 
-- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](learning-during-covid-technical-appendix.md)
+- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](../products/map-growth.md)
 - [Technical appendix document detailing sample and methods for the Student achievement in 2021-22 brief](nwea-2021-22-achievement-technical-appendix.md)
 - [Technical appendix documenting sample and methods for the 2021-22 COVID learning-recovery study](nwea-2021-22-covid-technical-appendix.md)
 - [Research brief on progress towards pandemic recovery at the start of the 2022-23 school year](nwea-brief-pandemic-recovery-rebounding-2022-23.md)
 - [NWEA technical appendix documenting sample and methods for the 2022-23 pandemic recovery brief](nwea-tech-appendix-pandemic-recovery-2022-23.md)
-- [MAP Growth assessment and National Dashboard as data sources for NWEA COVID-recovery research](map-growth-national-dashboard-data-source.md)
-- [Technical appendix document detailing sample and methods for the COVID-19 achievement divide brief](technical-appendix-widening-achievement-divide-covid.md)
 
 ## Examples
 -

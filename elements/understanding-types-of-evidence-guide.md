@@ -37,7 +37,7 @@ A practitioner guide published by Mathematica Policy Research on October 24, 201
 - distinguishing evidence types and judging support for effectiveness claims
 
 ### Affordances
-- [Four Types Evidence Hierarchy Technology Effectiveness](../theories/four-types-evidence-hierarchy-technology-effectiveness.md)
+- [Four Types Evidence Hierarchy Technology Effectiveness](../research-methods/a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness.md)
 
 ## Claims
 

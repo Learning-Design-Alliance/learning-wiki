@@ -43,7 +43,7 @@ Mathematica's congressionally mandated study, prepared for the U.S. Department o
 ## Related Elements
 
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
-- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](../products/teacher-incentive-fund.md)
 - [Teacher Incentive Fund (TIF) educator evaluation and compensation strategies](tif-performance-feedback-and-pay-for-performance-strategies.md)
 
 ## Examples

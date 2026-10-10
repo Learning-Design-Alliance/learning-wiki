@@ -45,8 +45,8 @@ The article frames the Bayes factor as a hypothesis-testing framework whose outc
 
 ## Examples
 
-- [BFpack: an R package for Bayes factor hypothesis testing of common statistical testing problems](../elements/bfpack-r-package-bayes-factor-testing.md)
-- [vICC R package for Bayesian testing of within-person variance homogeneity](../elements/vicc-r-package.md)
+- [BFpack: an R package for Bayes factor hypothesis testing of common statistical testing problems](../products/bfpack.md)
+- [vICC R package for Bayesian testing of within-person variance homogeneity](../products/vicc-r-package.md)
 
 ## Key Sources
 - Mulder, J., Williams, D., Gu, X., Tomarken, A., Böing-Messing, F., Olsson-Collentine, A., Meijerink-Bosman, M., Menke, J., van Aert, R., Fox, J.-P., Hoijtink, H., Rosseel, Y., Wagenmakers, E.-J., & van Lissa, C. (2021). BFpack: Flexible Bayes factor testing of scientific theories in R. Journal of Statistical Software, 100(18), 1–63. https://doi.org/10.18637/jss.v100.i18

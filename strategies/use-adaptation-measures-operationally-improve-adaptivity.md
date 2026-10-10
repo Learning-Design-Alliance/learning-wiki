@@ -38,7 +38,7 @@ The article recommends using its three adaptation measures as operational diagno
 - improving the adaptivity of assessments so they better match individual examinees
 
 ### Affordances
-- [Three Test Adaptation Measures Optimal Test Information](../theories/three-test-adaptation-measures-optimal-test-information.md)
+- [Three Test Adaptation Measures Optimal Test Information](../research-methods/three-measures-of-test-adaptation-based-on-optimal-test-information.md)
 
 ## Related Strategies
 

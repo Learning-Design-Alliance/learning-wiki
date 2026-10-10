@@ -51,7 +51,7 @@ MISE's core guiding principles for professional development remained constant ac
 
 - [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
-- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../elements/teaching-is-my-favorite-color-network.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../products/teaching-is-my-favorite-color.md)
 - [Sustained classroom-embedded professional development through demonstration teachers](../strategies/demonstration-teachers-classroom-embedded-pd.md)
 
 ## Key Sources

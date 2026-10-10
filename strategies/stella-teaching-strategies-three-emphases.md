@@ -37,7 +37,7 @@ STeLLA® trains teachers in instructional strategies emphasizing three areas: ex
 - Supporting students to communicate in scientific ways
 
 ### Affordances
-- [Stella Professional Development Program](../elements/stella-professional-development-program.md)
+- [Stella Professional Development Program](../products/stella.md)
 
 ## Related Strategies
 

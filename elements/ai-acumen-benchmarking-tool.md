@@ -42,7 +42,7 @@ The chapter describes two applied uses of the framework as tools. As an institut
 
 ## Related Elements
 
-- [Talent Development Framework Excel-based data tool](tdf-excel-data-tool.md)
+- [Talent Development Framework Excel-based data tool](../products/talent-development-framework.md)
 - [STaR Chart: a self-assessment tool for school technology and readiness](star-chart-self-assessment-tool.md)
 
 ## Examples

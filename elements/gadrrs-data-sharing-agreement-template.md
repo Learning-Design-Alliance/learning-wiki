@@ -40,7 +40,7 @@ GADRRS is a fillable Data Sharing Agreement developed by the University of Flori
 
 - [De-identified data category exempt from agreement restrictions with a re-identification ban](de-identified-data-category-gadrrs.md)
 - [Open Educational Resources (The 5Rs)](open-educational-resources.md)
-- [Teacher Moments digital teaching simulation platform](teacher-moments-simulation-platform.md)
+- [Teacher Moments digital teaching simulation platform](../products/teacher-moments.md)
 
 ## Examples
 -

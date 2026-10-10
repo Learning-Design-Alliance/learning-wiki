@@ -51,12 +51,11 @@ The article describes "the first high-quality study to rigorously examine the im
 
 ## Related Elements
 
-- [KIPP (Knowledge Is Power Program) charter middle school network](kipp-charter-middle-school-network.md)
-- [KIPP public charter school network](kipp-public-charter-school-network.md)
-- [KIPP Pre-K program](kipp-prek-program.md)
-- [KIPP middle schools as an evaluated intervention across the country](kipp-middle-schools-intervention.md)
+- [KIPP (Knowledge Is Power Program) charter middle school network](../products/kipp.md)
+- [KIPP Pre-K program](../products/kipp-pre-k.md)
+- [KIPP middle schools as an evaluated intervention across the country](../products/kipp-middle-schools.md)
 - [KIPP leadership development investment for network scale-up](kipp-leadership-development-investment.md)
-- [Longitudinal student-level dataset on entry, exit, attrition, and replacement in KIPP middle schools](kipp-middle-school-longitudinal-student-level-dataset.md)
+- [Longitudinal student-level dataset on entry, exit, attrition, and replacement in KIPP middle schools](../products/longitudinal-student-level-dataset-on-entry-exit-attrition-and-replacement-in-kipp-middle.md)
 
 ## Examples
 -

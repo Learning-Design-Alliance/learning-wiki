@@ -45,7 +45,7 @@ This framework holds that a school's internal social organization—particularly
 - [Teaching and learning as social enterprises embedded within school and community contexts](teaching-as-social-enterprise-embedded-in-context.md)
 - [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
 - [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
-- [Whole School Safety (WSS) Framework](whole-school-safety-framework-cps.md)
+- [Whole School Safety (WSS) Framework](../products/whole-school-safety-wss-framework.md)
 
 ## Examples
 -

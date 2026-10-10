@@ -49,7 +49,7 @@ Under the No Child Left Behind Act, Title I schools identified for improvement, 
 ## Related Elements
 
 - [National Longitudinal Study of No Child Left Behind and Study of State Implementation of Accountability and Teacher Quality](nclb-national-implementation-studies-data-source.md)
-- [Supplemental Educational Services (SEdS) under No Child Left Behind](supplemental-educational-services-nclb.md)
+- [Supplemental Educational Services (SEdS) under No Child Left Behind](../products/supplemental-educational-services.md)
 
 ## Examples
 -

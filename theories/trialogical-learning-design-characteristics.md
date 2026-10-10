@@ -47,7 +47,7 @@ The paper enumerates seven features that any learning or knowledge creation proc
 
 ## Examples
 
-- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../elements/knowledge-practices-environment-kpe.md)
+- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 - [Pedagogical scenarios that organise learning around knowledge creation with shared objects](../strategies/trialogical-pedagogical-scenarios.md)
 
 ## Key Sources

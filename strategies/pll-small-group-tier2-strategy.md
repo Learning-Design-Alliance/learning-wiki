@@ -39,7 +39,7 @@ The article specifies staffing requirements for implementing the 95 Phonics Less
 
 ## Related Strategies
 
-- [95 Phonics Lesson Library Element](../elements/95-phonics-lesson-library-element.md)
+- [95 Phonics Lesson Library Element](../products/95-phonics-lesson-library-pll.md)
 - [Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training](pa-lessons-small-group-delivery-training.md)
 - [Teachers review student performance data and deliver small-group oral language lessons](teacher-data-review-small-group-oral-language-lessons.md)
 

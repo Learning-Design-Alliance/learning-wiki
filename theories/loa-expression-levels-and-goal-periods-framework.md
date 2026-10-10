@@ -49,7 +49,7 @@ The article develops LOA as a special instance of the general level-of-aspiratio
 
 ## Examples
 
-- [The Occupational Aspiration Scale (OAS) instrument](../elements/occupational-aspiration-scale-instrument.md)
+- [The Occupational Aspiration Scale (OAS) instrument](../products/occupational-aspiration-scale.md)
 - [Use a structured, multiple-item, complete LOA instrument such as the OAS for research and vocational counseling on occupational aspiration](../principles/use-oas-for-loa-research-and-counseling.md)
 
 ## Key Sources

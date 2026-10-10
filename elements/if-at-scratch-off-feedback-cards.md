@@ -39,7 +39,7 @@ Immediate Feedback Assessment Technique (IF-AT) forms are scratch-off, lottery-s
 
 ## Related Elements
 
-- [IF-AT (Immediate Feedback Assessment Technique) scratch-and-reveal answer-until-correct form](if-at-scratch-reveal-form.md)
+- [IF-AT (Immediate Feedback Assessment Technique) scratch-and-reveal answer-until-correct form](../products/if-at.md)
 
 ## Examples
 

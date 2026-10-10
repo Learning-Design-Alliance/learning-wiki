@@ -44,9 +44,9 @@ Python is an interpreted language typically used for desktop applications or ser
 
 ## Related Elements
 
-- [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)
-- [Wolfram Computable Document Format as a module-development technology](wolfram-cdf-module-development-technology.md)
-- [WorldWide Telescope as a module-development technology requiring the least technical experience](wwt-module-development-technology.md)
+- [JavaScript with the d3.js library as a web-native module-development technology](../products/d3js.md)
+- [Wolfram Computable Document Format as a module-development technology](../products/wolfram-computable-document-format-cdf.md)
+- [WorldWide Telescope as a module-development technology requiring the least technical experience](../products/worldwide-telescope.md)
 
 ## Examples
 

@@ -44,8 +44,8 @@ The article describes a reading comprehension test whose passages are aligned to
 
 ## Related Elements
 
-- [MAP Reading and Mathematics computerized adaptive tests (NWEA)](map-cat-reading-mathematics-tests.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
+- [MAP Reading and Mathematics computerized adaptive tests (NWEA)](../products/map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](../products/nwea-map-growth.md)
 - [Computerized adaptive testing (CAT) as an assessment component](computerized-adaptive-testing-cat-element.md)
 
 ## Examples

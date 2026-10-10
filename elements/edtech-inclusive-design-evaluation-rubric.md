@@ -37,13 +37,13 @@ Resource D helps decision makers score whether a tool is sufficiently inclusive,
 - Procuring edtech that is accessible and equitable by design for all students
 
 ### Affordances
-- [Five Edtech Quality Indicators Framework](../theories/five-edtech-quality-indicators-framework.md)
+- [Five Edtech Quality Indicators Framework](../products/five-edtech-quality-indicators.md)
 
 ## Related Elements
 
-- [Evidence Evaluation Rubric for edtech efficacy (Resource C)](edtech-evidence-evaluation-rubric.md)
-- [EdTech Index with third-party validations](edtech-index-third-party-validations.md)
-- [EdTech Pilot Navigator with four pilot models (Resource E)](edtech-pilot-navigator-models.md)
+- [Evidence Evaluation Rubric for edtech efficacy (Resource C)](../research-methods/evidence-evaluation-rubric.md)
+- [EdTech Index with third-party validations](../products/edtech-index.md)
+- [EdTech Pilot Navigator with four pilot models (Resource E)](../products/ai-enabled-edtech-adoption-cycle.md)
 - [Maker Learning Self-assessment Rubric](maker-learning-self-assessment-rubric.md)
 
 ## Examples

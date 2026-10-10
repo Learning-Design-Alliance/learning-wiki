@@ -43,12 +43,12 @@ GoCPS assigns students via a computerized deferred acceptance process, also used
 
 ## Related Theories
 
-- [Gocs Centralized Application Platform](../elements/gocs-centralized-application-platform.md)
+- [Gocs Centralized Application Platform](../products/gocps.md)
 - [Deferred acceptance assignment with strategy-proof ranking](deferred-acceptance-single-best-offer-assignment.md)
 
 ## Examples
 
-- [GoCPS centralized application and single-best-offer platform](../elements/gocps-centralized-enrollment-platform.md)
+- [GoCPS centralized application and single-best-offer platform](../products/gocps.md)
 
 ## Key Sources
 - Barrow, L., & Sartain, L. (2019). GoCPS: A first look at ninth-grade applications, offers, and enrollment. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu

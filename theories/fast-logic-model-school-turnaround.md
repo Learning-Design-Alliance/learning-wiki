@@ -51,7 +51,7 @@ The FAST program rests on a logic model (Exhibit 1) in which parent-child relati
 
 ## Examples
 
-- [Families and Schools Together (FAST) program](../elements/fast-program-element.md)
+- [Families and Schools Together (FAST) program](../products/fast.md)
 
 ## Key Sources
 - Bos, J., Spier, E., Bandeira de Mello, V., González, R., & Huang, F. (2018). Investing in Innovation (i3) Validation Study of Families and Schools Together (FAST) Final Report. American Institutes for Research. https://evidenceforessa.org/program/families-and-schools-together-fast/

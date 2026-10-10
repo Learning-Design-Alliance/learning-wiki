@@ -45,7 +45,7 @@ The Consortium produces two report formats from the survey. The "summary reports
 ## Related Elements
 
 - [School-specific summary and details reports generated from survey participation](school-specific-survey-summary-and-details-reports.md)
-- [School-specific survey reports with minimum participation thresholds](uchicago-consortium-school-specific-survey-reports.md)
+- [School-specific survey reports with minimum participation thresholds](../products/5essentials-survey.md)
 
 ## Examples
 -

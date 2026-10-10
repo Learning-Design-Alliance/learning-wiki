@@ -44,7 +44,7 @@ The report defines computational thinking for practitioners as practices and ski
 
 ## Examples
 
-- [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](../elements/digital-promise-ct-micro-credentials.md)
+- [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](../products/digital-promise-micro-credentials.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](../strategies/prek-8-ct-integration-over-stand-alone.md)
 
 ## Key Sources

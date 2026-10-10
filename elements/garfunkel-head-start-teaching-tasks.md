@@ -46,7 +46,7 @@ The article describes a set of teaching tasks developed to elicit variation in t
 
 ## Related Elements
 
-- [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](eight-teaching-style-scales-garfunkel.md)
+- [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](../products/eight-scale-instrument-for-classifying-teaching-style.md)
 
 ## Examples
 -

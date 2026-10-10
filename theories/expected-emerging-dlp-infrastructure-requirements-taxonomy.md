@@ -39,13 +39,12 @@ The paper organizes infrastructure-building work into two kinds: (1) expected te
 
 ## Related Theories
 
-- [SEERNet's framework of Digital Learning Platforms as research infrastructure for education research](dlp-research-infrastructure-seernet-framework.md)
+- [SEERNet's framework of Digital Learning Platforms as research infrastructure for education research](../products/seernet.md)
 - [Four foundational developments framework for DLPs-as-research-infrastructure](four-foundational-developments-dlp-research-infrastructure.md)
-- [SEERNet's four 'better' aspirations for next-generation research: science, engineering, practice, and community](seernet-four-better-aspirations.md)
 
 ## Examples
 
-- [SEERNet shared digital learning platform infrastructure enabling a performer community model](../elements/seernet-shared-platform-rd-infrastructure.md)
+- [SEERNet shared digital learning platform infrastructure enabling a performer community model](../products/seernet.md)
 - [Grow a peer review community that understands the affordances and limits of DLP-based research](../strategies/peer-review-community-dlp-research.md)
 - [Use a two-phase feasibility process — a pre-submission platform feasibility letter and a post-award six-month feasibility phase — before research funds are committed](../strategies/two-phase-feasibility-process-dlp-research.md)
 

@@ -51,7 +51,7 @@ The panel's organizing account holds that 'The panel viewed increasing student e
 - [Assign trained adult advocates with low caseloads to students at risk of dropping out](../strategies/adult-advocates-at-risk-students-strategy.md)
 - [Implement programs to improve students' classroom behavior and social skills](../strategies/behavior-social-skills-programs-strategy.md)
 - [Personalize the learning environment and instructional process to foster belonging](../strategies/personalize-learning-environment-belonging-strategy.md)
-- [Check & Connect: monitored mentoring dropout-prevention program](../elements/check-and-connect-program.md)
+- [Check & Connect: monitored mentoring dropout-prevention program](../products/check-connect.md)
 
 ## Key Sources
 - Dynarski, M., Clarke, L., Cobb, B., Finn, J., Rumberger, R., and Smink, J. (2008). Dropout Prevention: A Practice Guide (NCEE 2008-4025). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. Retrieved from https://ies.ed.gov/ncee/WWC/PracticeGuide/9.

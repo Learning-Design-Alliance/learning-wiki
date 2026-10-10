@@ -50,7 +50,7 @@ A set of twelve agency profiles developed by Mathematica Policy Research, each s
 
 - [Seven agency profiles companion document](seven-agency-profiles-companion-document.md)
 - [Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation](strategic-data-use-in-education-implementation-study.md)
-- [SDP and EP fellowship programs as the intervention context for agency data-use change](sdp-ep-fellowship-programs-context.md)
+- [SDP and EP fellowship programs as the intervention context for agency data-use change](../products/strategic-data-project-sdp-fellowship.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
 - [Strategic Data Project and Education Pioneers fellowship programs placing data-skilled fellows in education agencies](sdp-ep-fellowship-programs-data-capacity.md)
 

@@ -40,7 +40,7 @@ The monograph proposes a scheme for cutting "the technological pie into digestab
 
 ## Related Theories
 
-- [Four skill categories for technology use: Digital Skills, Media and Meaning, Point of View, and Audience](four-skill-categories-technology-use.md)
+- [Four skill categories for technology use: Digital Skills, Media and Meaning, Point of View, and Audience](../products/the-evaluation-toolkit.md)
 - [Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions](blooms-taxonomy-classifies-mc-question-cognitive-level.md)
 
 ## Examples

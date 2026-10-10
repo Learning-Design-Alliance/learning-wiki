@@ -51,7 +51,7 @@ The implicit scaffolding framework holds that scaffolding need not be written or
 ## Examples
 
 - [Design tools so productive usage is guaranteed by affordances and constraints rather than instructions](../principles/productive-usage-guaranteed-by-design.md)
-- [Energy Skate Park: Basics simulation](../elements/energy-skate-park-basics-sim.md)
+- [Energy Skate Park: Basics simulation](../products/energy-skate-park-basics-espb.md)
 
 ## Key Sources
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics

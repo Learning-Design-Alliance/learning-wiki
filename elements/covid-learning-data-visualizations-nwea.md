@@ -45,8 +45,8 @@ NWEA built interactive data visualizations to accompany the report on learning d
 
 ## Related Elements
 
-- [NWEA state-level data visualization of MAP Growth performance during the 2020–2021 school year](nwea-covid-educational-impacts-visualization.md)
-- [MAP Growth National Dashboard](map-growth-national-dashboard.md)
+- [NWEA state-level data visualization of MAP Growth performance during the 2020–2021 school year](../products/nwea-covid-19-map-growth-data-visualization.md)
+- [MAP Growth National Dashboard](../products/map-growth-national-dashboard.md)
 - [NWEA research partnership map visualizing collaborations with universities, foundations, think tanks, and school systems](nwea-research-partnership-map.md)
 
 ## Examples

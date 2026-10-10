@@ -44,7 +44,7 @@ The article draws on Kieran Egan's (1997) model of developmental understanding, 
 
 ## Examples
 
-- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../designs/chormmunity-workshop-arc-pattern.md)
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
 - [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
 
 ## Key Sources

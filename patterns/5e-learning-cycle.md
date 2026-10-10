@@ -125,7 +125,7 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 **Undergraduate physics — Physics by Inquiry:** McDermott's laboratory-based curriculum has students develop concepts through structured experiments before formal definitions are introduced, with Elaborate exercises applying concepts to new phenomena.
 
 **Professional development — BSCS 5E for teacher workshops:** The model is itself used to structure teacher professional development, with teachers experiencing a 5E sequence as learners before designing their own.
-- [Twig Science: phenomena-based K–8 science curriculum aligned to NGSS](../elements/twig-science-curriculum-k-8.md)
+- [Twig Science: phenomena-based K–8 science curriculum aligned to NGSS](../products/twig-science.md)
 - [Design professional learning for leaders using a 5E learning cycle](../strategies/5e-learning-cycle-leader-professional-learning.md)
 
 ## Key Sources

@@ -51,18 +51,17 @@ The five essential supports framework specifies five school- or center-level org
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
-- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
-- [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
-- [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
+- [Model of Essential Supports for Student Learning](../products/model-of-essential-supports-for-student-learning.md)
 - [Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports](rd-enabling-conditions-four-types.md)
-- [Six-dimension construct map for measuring ELA and math curriculum-shift implementation](shared-measures-construct-map-curriculum-shifts.md)
+- [Six-dimension construct map for measuring ELA and math curriculum-shift implementation](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
 
 ## Examples
 
-- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../products/early-education-essentials.md)
 
 ## Key Sources
 - Ehrlich, S.B., Pacchiano, D.M., Stein, A.G., & Luppescu, S. (2016). Essential organizational supports for early education: The development of a new survey tool to measure organizational conditions. Chicago, IL: University of Chicago Consortium on School Research and the Ounce of Prevention Fund. http://consortium.uchicago.edu/surveys

@@ -40,7 +40,7 @@ The panel directs teachers to reflect and value the cultural, racial, and lingui
 - engagement and relevance of instruction
 
 ### Affordances
-- [Wwc Seven Recommendations Preschool Readiness](../theories/wwc-seven-recommendations-preschool-readiness.md)
+- [Wwc Seven Recommendations Preschool Readiness](../products/wwc-seven-recommendation-framework-for-preparing-young-children-for-school.md)
 
 ## Related Strategies
 

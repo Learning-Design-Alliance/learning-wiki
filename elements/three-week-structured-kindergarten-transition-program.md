@@ -48,8 +48,8 @@ A three-week structured kindergarten transition program offered by school distri
 
 ## Related Elements
 
-- [Springboard Summer program model](springboard-summer-program-element.md)
-- [Pre-K to Kindergarten Transitions Project (PKTP): a teacher co-designed, community-wide transition approach with three core components](pktp-community-transition-program.md)
+- [Springboard Summer program model](../products/springboard-summer.md)
+- [Pre-K to Kindergarten Transitions Project (PKTP): a teacher co-designed, community-wide transition approach with three core components](../products/pre-k-to-kindergarten-transitions-project-pktp.md)
 
 ## Examples
 

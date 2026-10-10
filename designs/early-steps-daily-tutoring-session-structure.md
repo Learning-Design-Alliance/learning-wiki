@@ -41,7 +41,7 @@ Early Steps sessions follow a repeating daily structure in which tutors use "a s
 - 
 
 ## Related Designs
-- [Early Steps One To One Tutoring Program](../elements/early-steps-one-to-one-tutoring-program.md)
+- [Early Steps One To One Tutoring Program](../products/early-steps.md)
 
 ## Examples
 -

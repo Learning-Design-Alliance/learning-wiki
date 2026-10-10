@@ -39,7 +39,7 @@ This strategy pairs student-facing supports (personalized planning materials and
 
 ## Related Strategies
 
-- [Find The Fit Upward Bound Advising Program](../elements/find-the-fit-upward-bound-advising-program.md)
+- [Find The Fit Upward Bound Advising Program](../products/find-the-fit.md)
 - [Pair college-transition messaging with more specific college-related information and adequate advisor capacity](college-messaging-specific-info-strategy.md)
 
 ## Examples

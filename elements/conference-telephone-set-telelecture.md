@@ -43,7 +43,7 @@ A Conference Telephone Set, borrowed from the university telephone office for ea
 
 ## Related Elements
 
-- [EIR® nine-month Internet-based teacher professional development program](eir-internet-teacher-training-program.md)
+- [EIR® nine-month Internet-based teacher professional development program](../products/early-intervention-in-reading-eir.md)
 
 ## Examples
 -

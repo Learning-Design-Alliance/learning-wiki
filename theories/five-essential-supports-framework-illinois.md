@@ -51,15 +51,15 @@ The five essential supports framework posits that school improvement depends on 
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
-- [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
+- [Model of Essential Supports for Student Learning](../products/model-of-essential-supports-for-student-learning.md)
 
 ## Examples
 
-- [5Essentials Survey system measuring school organizational conditions](../elements/5essentials-survey-system-illinois.md)
-- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
+- [5Essentials Survey system measuring school organizational conditions](../products/5essentials-survey.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../products/early-education-essentials.md)
 - [Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance](../strategies/use-5essentials-data-to-target-attendance-supports.md)
 
 ## Key Sources

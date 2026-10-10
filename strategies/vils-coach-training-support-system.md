@@ -39,7 +39,7 @@ Digital Promise supports program coaches through a layered professional learning
 - teacher leadership
 
 ### Affordances
-- [Vils Program Element](../elements/vils-program-element.md)
+- [Vils Program Element](../products/verizon-innovative-learning-schools.md)
 
 ## Related Strategies
 

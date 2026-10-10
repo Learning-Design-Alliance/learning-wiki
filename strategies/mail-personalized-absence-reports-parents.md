@@ -39,7 +39,7 @@ The intervention's core implementable activity is delivering Absence Reports to 
 
 ## Related Strategies
 
-- [Everyday Intervention Absence Reports](../elements/everyday-intervention-absence-reports.md)
+- [Everyday Intervention Absence Reports](../products/everyday-intervention.md)
 - [Utilize Text Messaging for Parent Engagement](utilize_text_messaging_for_parent_engagement.md)
 - [Mobile Communication for Family Engagement](mobile_communication_for_family_engagement.md)
 - [Video Report Cards](video_report_cards.md)

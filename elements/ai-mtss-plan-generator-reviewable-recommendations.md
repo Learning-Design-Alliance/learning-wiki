@@ -43,7 +43,7 @@ The AI-powered MTSS plan generator is a co-designed tool that "produces SMART go
 ## Related Elements
 
 - [AI-enabled SST/MTSS meeting agenda tool built on Solara's custom configuration](solara-sst-meeting-agenda-tool.md)
-- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](freshman-on-track-dashboard-innovare-cics.md)
+- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](../products/freshman-ontrack.md)
 
 ## Examples
 -

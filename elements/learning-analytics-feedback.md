@@ -55,7 +55,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 
 - [Feedback](feedback.md)
 - [Immediate Feedback](immediate-feedback.md)
-- [Predictive-model approach using school and child welfare agency data to flag near-term academic risk](school-child-welfare-data-predictive-risk-model.md)
+- [Predictive-model approach using school and child welfare agency data to flag near-term academic risk](../research-methods/early-warning-indicator-construction.md)
 - [Student-facing dashboard for online and distance education with selected features](student-facing-dashboard-online-distance-education.md)
 
 ## Examples

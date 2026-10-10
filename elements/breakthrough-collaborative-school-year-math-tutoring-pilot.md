@@ -52,8 +52,8 @@ Breakthrough Collaborative "designed a math-focused, school-year version of its 
 
 ## Related Elements
 
-- [Zearn Math adaptive digital lessons with CPA progression and mastery-based quizzes](zearn-math-digital-lessons.md)
-- [Galaxy Math one-to-one tutoring program for at-risk first graders](galaxy-math-tutoring-program.md)
+- [Zearn Math adaptive digital lessons with CPA progression and mastery-based quizzes](../products/zearn-math.md)
+- [Galaxy Math one-to-one tutoring program for at-risk first graders](../products/galaxy-math.md)
 
 ## Examples
 -

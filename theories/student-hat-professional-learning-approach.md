@@ -42,11 +42,11 @@ The student hat is a professional learning approach in which teachers engage in 
 
 ## Related Theories
 
-- [The OpenSciEd storyline instructional model: coherence from the students' perspective via four teaching routines](storyline-instructional-model-student-coherence.md)
+- [The OpenSciEd storyline instructional model: coherence from the students' perspective via four teaching routines](../products/openscied.md)
 
 ## Examples
 
-- [OpenSciEd teacher supports: unit-specific PD themes and professional learning activities](../elements/openscied-teacher-supports-pd.md)
+- [OpenSciEd teacher supports: unit-specific PD themes and professional learning activities](../products/openscied.md)
 
 ## Key Sources
 - McElhaney, K. W., Mills, K., Kamdar, D., Baker, A., & Roschelle, J. (2023, March). A summary and synthesis of initial OpenSciEd research: Updated version [White paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/171

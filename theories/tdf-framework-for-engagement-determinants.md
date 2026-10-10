@@ -41,7 +41,7 @@ The Theoretical Domains Framework (TDF) is "an integrative framework that draws 
 
 ## Related Theories
 
-- [Pathway to Planetary Health (PPH) framework](pathway-to-planetary-health-framework.md)
+- [Pathway to Planetary Health (PPH) framework](../products/pathway-to-planetary-health-pph.md)
 - [Theoretical Domains Framework for identifying determinants of implementation behavior](tdf-14-domains-implementation-determinants.md)
 
 ## Examples

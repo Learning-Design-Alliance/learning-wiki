@@ -37,7 +37,7 @@ Equatio Mathspace provides workflows for receiving student submissions and givin
 - Timely, specific feedback on mathematical work; showing full solution processes
 
 ### Affordances
-- [Udl Three Principles Framework Math](../theories/udl-three-principles-framework-math.md)
+- [Udl Three Principles Framework Math](../products/universal-design-for-learning-udl-framework.md)
 
 ## Related Strategies
 

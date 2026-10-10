@@ -49,13 +49,11 @@ A study design report prepared by Mathematica Policy Research for the U.S. Depar
 
 ## Related Elements
 
-- [Effective Practice Incentive Community (EPIC) school award program](effective-practice-incentive-community-epic-program.md)
-- [A guide for states on evaluating ARRA-funded programs and other educational reforms](evaluating-arra-programs-guide-for-states.md)
+- [Effective Practice Incentive Community (EPIC) school award program](../products/effective-practice-incentive-community-epic-school-award-program.md)
+- [A guide for states on evaluating ARRA-funded programs and other educational reforms](../products/a-guide-for-states-on-evaluating-arra-funded-programs-and-other-educational-reforms.md)
 - [Independent impact evaluation by Mathematica Policy Research](mpr-independent-impact-evaluation.md)
-- [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](teacher-incentive-fund-performance-compensation-grants.md)
-- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](../products/teacher-incentive-fund.md)
 - [Mathematica multi-site random assignment evaluation of TIF pay-for-performance bonuses](mathematica-tif-random-assignment-evaluation.md)
-- [Teacher Incentive Fund (TIF) performance-based compensation program for teachers and principals in high-need schools](teacher-incentive-fund-program-element.md)
 - [Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative](epic-evaluation-design-report.md)
 
 ## Examples

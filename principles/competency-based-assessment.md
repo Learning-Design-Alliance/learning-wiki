@@ -111,7 +111,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
-- [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
+- [Portfolio entries with written commentary for assessing teaching practice](../products/national-board-certification.md)
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](../strategies/ai-assessment-holistic-competency-portraits.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](../strategies/clarify-purpose-norm-expectations-calibrate-pog.md)
 
@@ -285,7 +285,7 @@ The digest states that "From the beginning, the National Board has been committe
 
 ## Examples
 
-- [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
+- [Portfolio entries with written commentary for assessing teaching practice](../products/national-board-certification.md)
 
 ## Key Sources
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/

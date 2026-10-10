@@ -46,7 +46,7 @@ The studied platform is a comprehensive online system for Grades 1–8 covering 
 ## Related Elements
 
 - [Digital Learning](digital-learning.md)
-- [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](i-ready-platform-element.md)
+- [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](../products/i-ready.md)
 
 ## Examples
 

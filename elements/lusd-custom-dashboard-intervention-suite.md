@@ -43,7 +43,7 @@ Lynwood Unified built a suite of in-house tools, developed by a Secondary Data L
 
 ## Related Elements
 
-- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](freshman-on-track-dashboard-innovare-cics.md)
+- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](../products/freshman-ontrack.md)
 
 ## Examples
 -

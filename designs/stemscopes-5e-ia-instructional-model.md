@@ -39,7 +39,7 @@ The program's organizing instructional pattern is the 5E+IA model: "Engage, Expl
 - [Stemscopes Math Staar Positive Quasi Experiment](../claims/stemscopes-math-staar-positive-quasi-experiment.md) [+M]
 
 ## Related Designs
-- [Stemscopes Math Curriculum](../elements/stemscopes-math-curriculum.md)
+- [Stemscopes Math Curriculum](../products/stemscopes.md)
 
 ## Examples
 -

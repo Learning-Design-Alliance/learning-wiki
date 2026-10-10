@@ -43,10 +43,10 @@ The Los Angeles Promise Neighborhood is a Promise Neighborhoods implementation s
 
 ## Related Elements
 
-- [Buffalo Promise Neighborhood program element](buffalo-promise-neighborhood-program.md)
+- [Buffalo Promise Neighborhood program element](../products/buffalo-promise-neighborhood.md)
 - [Promise Neighborhoods Case Studies: a 2014-2015 multi-site profile project for the Promise Neighborhoods Institute at PolicyLink](promise-neighborhoods-case-studies-project.md)
-- [Chula Vista Promise Neighborhood (CVPromise): a place-based community program serving the Castle Park neighborhood](cvpromise-chula-vista-promise-neighborhood-program.md)
-- [Northside Achievement Zone (NAZ) Promise Neighborhood site](naz-promise-neighborhood-north-minneapolis-site.md)
+- [Chula Vista Promise Neighborhood (CVPromise): a place-based community program serving the Castle Park neighborhood](../products/chula-vista-promise-neighborhood.md)
+- [Northside Achievement Zone (NAZ) Promise Neighborhood site](../products/northside-achievement-zone-naz.md)
 
 ## Examples
 

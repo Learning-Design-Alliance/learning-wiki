@@ -38,7 +38,7 @@ Step 4 directs leaders to "Provide professional learning throughout pilot period
 - Effective tool use aligned with dosage requirements
 
 ### Affordances
-- [Edtech Procurement Framework Six Steps](../theories/edtech-procurement-framework-six-steps.md)
+- [Edtech Procurement Framework Six Steps](../products/edtech-procurement-framework.md)
 
 ## Related Strategies
 

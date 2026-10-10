@@ -44,8 +44,8 @@ RPPs bring researchers and practitioners together to study problems of practice 
 
 - [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)
 - [Henrick, Cobb, Penuel, Jackson and Clark's Dimension 3: RPPs should support the practitioner side in achieving its goals](rpp-dimension-3-support-practitioner-goals.md)
-- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
-- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](rpp-research-as-adaptive-infrastructure.md)
+- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](../products/research-practice-industry-partnerships-rpips.md)
+- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](../products/uchicago-consortiums-research-practice-partnership-model.md)
 - [Research-practice partnership model for improving problems of educational practice](research-practice-partnership-model.md)
 - [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 

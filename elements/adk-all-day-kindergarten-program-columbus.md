@@ -45,7 +45,7 @@ The ADK Program, instituted in Columbus Public Schools in January 1972, provides
 
 ## Related Elements
 
-- [Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio](balloons-concepts-about-print-assessment.md)
+- [Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio](../products/balloons-a-concepts-about-print-assessment.md)
 
 ## Examples
 -

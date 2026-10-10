@@ -37,7 +37,7 @@ Based on findings from high-performing classes, the report offers seven recommen
 - Effective integration of courseware with evidence-based teaching to improve engagement and achievement
 
 ### Affordances
-- [Courseware Initiative Theory Of Change](../theories/courseware-initiative-theory-of-change.md)
+- [Courseware Initiative Theory Of Change](../products/courseware-initiative.md)
 
 ## Related Strategies
 

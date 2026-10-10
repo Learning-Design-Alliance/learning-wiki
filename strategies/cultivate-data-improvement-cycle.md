@@ -38,7 +38,7 @@ The playbook recommends that teachers and staff use Cultivate data in a continuo
 - Improving classroom learning conditions and student experiences through adult-student partnership
 
 ### Affordances
-- [Cultivate Framework Conditions Beliefs Wellbeing](../theories/cultivate-framework-conditions-beliefs-wellbeing.md)
+- [Cultivate Framework Conditions Beliefs Wellbeing](../products/cultivate-framework.md)
 
 ## Related Strategies
 

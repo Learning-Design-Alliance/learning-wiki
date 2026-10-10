@@ -46,7 +46,7 @@ The guide's central design principle is devolving compliance assurance to the lo
 
 ## Examples
 
-- [JTPA self-monitoring instrument with 28 rated compliance indicators](../elements/jtpa-self-monitoring-instrument.md)
+- [JTPA self-monitoring instrument with 28 rated compliance indicators](../products/jtpa-self-monitoring-instrument.md)
 - [Nine-step self-monitoring review process for local job-training program compliance](../strategies/jtpa-nine-step-self-monitoring-process.md)
 - [Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic](../strategies/jtpa-self-monitoring-approaches.md)
 

@@ -46,8 +46,8 @@ Relational Trust is measured in three survey waves. The 1991 Trust measure combi
 ## Related Elements
 
 - [Teacher instructional guidance measures of basic-skills and application-oriented emphasis in language arts and math](instructional-guidance-teacher-measures-language-arts-math.md)
-- [Rasch rating-scale analysis methodology for deriving school survey measures](rasch-rating-scale-survey-measure-methodology.md)
-- [Improving Chicago Schools 1997 student and teacher surveys](improving-chicago-schools-surveys-1997.md)
+- [Rasch rating-scale analysis methodology for deriving school survey measures](../research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md)
+- [Improving Chicago Schools 1997 student and teacher surveys](../products/improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache.md)
 - [Student-reported learning climate measures covering academic press, personalism, peer support, classroom behavior, engagement, and safety](student-learning-climate-survey-measures.md)
 
 ## Examples

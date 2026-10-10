@@ -42,7 +42,7 @@ The report organizes its five featured District-Led Innovations along three dime
 
 ## Related Theories
 
-- [Student success systems framework: four essential elements for secondary schools](student-success-systems-four-elements-framework.md)
+- [Student success systems framework: four essential elements for secondary schools](../products/grad-partnership-student-success-systems.md)
 - [Nine common pain points districts encounter when implementing student success technology platforms](nine-student-success-tech-pain-points-taxonomy.md)
 
 ## Examples

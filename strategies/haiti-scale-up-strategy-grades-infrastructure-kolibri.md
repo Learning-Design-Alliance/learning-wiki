@@ -37,7 +37,7 @@ The presentation's future plans lay out an expansion strategy: "Content: Adding 
 - Continued access to mother-tongue digital science content as grades expand
 
 ## Related Strategies
-- [Kolibri Offline First Platform](../elements/kolibri-offline-first-platform.md)
+- [Kolibri Offline First Platform](../products/kolibri.md)
 - Haiti Three Component Pilot Model
 
 ## Examples

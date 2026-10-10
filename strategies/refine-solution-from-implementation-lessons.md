@@ -37,7 +37,7 @@ Phase 2 of the M&E Checklist guides users through refining a solution using less
 - Improving the design and implementation of teaching and learning solutions
 
 ### Affordances
-- [Four Phase Evidence Building Framework Me Checklist](../theories/four-phase-evidence-building-framework-me-checklist.md)
+- [Four Phase Evidence Building Framework Me Checklist](../products/me-checklist.md)
 
 ## Related Strategies
 

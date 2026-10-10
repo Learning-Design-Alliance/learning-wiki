@@ -39,7 +39,7 @@ The article recommends a bundle of student-agency practices: Student-Led Confere
 - self-awareness and goal-setting
 
 ### Affordances
-- [Team Student Model](../theories/team-student-model.md)
+- [Team Student Model](../products/team-student.md)
 
 ## Related Strategies
 

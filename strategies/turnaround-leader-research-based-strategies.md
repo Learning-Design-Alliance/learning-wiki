@@ -38,7 +38,7 @@ The article's purpose is to share "specific, research-based strategies turnaroun
 - supporting comprehensive school turnaround initiatives
 
 ### Affordances
-- [Four Domains Rapid School Improvement Framework](../theories/four-domains-rapid-school-improvement-framework.md)
+- [Four Domains Rapid School Improvement Framework](../products/four-domains-for-rapid-school-improvement.md)
 
 ## Related Strategies
 

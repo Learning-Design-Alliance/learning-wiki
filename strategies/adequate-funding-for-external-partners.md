@@ -38,7 +38,7 @@ The report shows that funding for external partners was modest relative to their
 - Instructional improvement
 
 ### Affordances
-- [Annenberg Network External Partner Strategy](../theories/annenberg-network-external-partner-strategy.md)
+- [Annenberg Network External Partner Strategy](../products/chicago-annenberg-challenge.md)
 
 ## Related Strategies
 

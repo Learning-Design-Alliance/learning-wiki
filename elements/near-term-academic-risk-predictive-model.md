@@ -49,8 +49,8 @@ The article describes a predictive model that uses both school data and child we
 
 - [Linked school and human services data approach for predicting near-term academic risk](linked-data-early-warning-approach-element.md)
 - [Machine learning early warning algorithm using in- and out-of-school data to estimate per-student, per-problem, per-quarter risk scores](ml-early-warning-risk-score-algorithm.md)
-- [Predictive-model approach using school and child welfare agency data to flag near-term academic risk](school-child-welfare-data-predictive-risk-model.md)
-- [Arizona linked education–child welfare student database](arizona-linked-education-child-welfare-database.md)
+- [Predictive-model approach using school and child welfare agency data to flag near-term academic risk](../research-methods/early-warning-indicator-construction.md)
+- [Arizona linked education–child welfare student database](../products/arizona-linked-educationchild-welfare-student-database.md)
 
 ## Examples
 

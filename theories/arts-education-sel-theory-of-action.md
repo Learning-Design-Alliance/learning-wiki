@@ -43,7 +43,7 @@ The report's central framework holds that each large-scale art education process
 ## Related Theories
 
 - [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
-- [Ten developmental experiences framework: five action and five reflection experiences underpin social-emotional development](ten-developmental-experiences-arts-framework.md)
+- [Ten developmental experiences framework: five action and five reflection experiences underpin social-emotional development](../products/foundations-for-young-adult-success.md)
 
 ## Examples
 

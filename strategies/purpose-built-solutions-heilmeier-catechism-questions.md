@@ -37,7 +37,7 @@ Teams should identify use cases that fit the solution being designed and collect
 - designing solutions that fit real implementation contexts and serve historically underserved students
 
 ### Affordances
-- [Strong Field Framework Breakthrough Rd Education](../theories/strong-field-framework-breakthrough-rd-education.md)
+- [Strong Field Framework Breakthrough Rd Education](../products/strong-field-framework-adapted-to-breakthrough-rd-in-education.md)
 
 ## Related Strategies
 

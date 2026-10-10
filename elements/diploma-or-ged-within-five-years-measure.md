@@ -46,7 +46,7 @@ The outcome measure used in both qualifying studies is "the percentage of studen
 
 ## Related Elements
 
-- [Talent Search program: federal TRIO services supporting high-school completion and college access for low-income, first-generation students](talent-search-program-element.md)
+- [Talent Search program: federal TRIO services supporting high-school completion and college access for low-income, first-generation students](../products/talent-search.md)
 
 ## Examples
 -

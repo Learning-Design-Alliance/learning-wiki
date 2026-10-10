@@ -49,7 +49,7 @@ Meta-UTAUT, proposed by Dwivedi et al. (2019), is an evolution of UTAUT that the
 
 ## Examples
 
-- [23-item Meta-UTAUT survey instrument for MALL usage in EFL](../elements/meta-utaut-mall-survey-instrument.md)
+- [23-item Meta-UTAUT survey instrument for MALL usage in EFL](../products/23-item-meta-utaut-survey-instrument-for-mall-usage-in-efl.md)
 - [Foster positive learning communities and supportive environments to strengthen MALL attitudes and intentions](../strategies/positive-community-support-mall-adoption.md)
 - [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
 

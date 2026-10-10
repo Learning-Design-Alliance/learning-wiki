@@ -46,9 +46,8 @@ A technical brief published by NWEA in May 2025, described as "the accompanying 
 
 ## Related Elements
 
-- [MAP Growth assessment as a data source for gender-gap trend analysis](map-growth-gender-gap-analysis-source.md)
-- [MAP Growth Specialty School National Dashboard technical appendix](map-growth-specialty-school-national-dashboard-appendix.md)
-- [Technical appendix document detailing sample and methods for the COVID-19 achievement divide brief](technical-appendix-widening-achievement-divide-covid.md)
+- [MAP Growth assessment as a data source for gender-gap trend analysis](../products/map-growth.md)
+- [MAP Growth Specialty School National Dashboard technical appendix](../products/map-growth-specialty-school-national-dashboard.md)
 
 ## Examples
 -

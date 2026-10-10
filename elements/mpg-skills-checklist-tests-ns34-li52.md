@@ -45,8 +45,7 @@ The study uses two computerized linear Skills Checklist tests from NWEA's Measur
 
 ## Related Elements
 
-- [MAP (Measures of Academic Progress) computerised adaptive test system](map-cat-assessment-system-element.md)
-- [MAP Reading and Mathematics computerized adaptive tests (NWEA)](map-cat-reading-mathematics-tests.md)
+- [MAP (Measures of Academic Progress) computerised adaptive test system](../products/map-growth.md)
 
 ## Examples
 -

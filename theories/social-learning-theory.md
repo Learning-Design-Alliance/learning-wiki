@@ -70,7 +70,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 ## Examples
 
 - [Prosocial Modeling](../strategies/prosocial-modeling.md) — deliberately applies vicarious reinforcement to encourage socially desirable behavior
-- [eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps](../elements/esylvan-online-tutoring-environment.md)
+- [eSylvan: an early online tutoring environment deliberately incorporating Bandura's four steps](../products/esylvan.md)
 
 ## Key Sources
 - Bandura, A. (1973). *Aggression: A social learning analysis*. Prentice-Hall.

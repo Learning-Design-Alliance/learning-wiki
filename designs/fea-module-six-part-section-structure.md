@@ -48,7 +48,7 @@ Each section of the FEA-based learning module followed a fixed internal structur
 ## Examples
 
 - [Predictability: Environment & Structure](../strategies/predictability-environment-structure.md)
-- [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../elements/ansys-workbench-heat-transfer-learning-aid.md)
+- [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../products/ansys-workbench.md)
 
 ## Key Sources
 - Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education.

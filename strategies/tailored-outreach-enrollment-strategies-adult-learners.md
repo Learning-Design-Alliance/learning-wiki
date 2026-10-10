@@ -40,7 +40,7 @@ The brief recommends that states and institutions seeking to raise adult credent
 
 ## Related Strategies
 
-- [Adult Promise Initiative State Grants](../elements/adult-promise-initiative-state-grants.md)
+- [Adult Promise Initiative State Grants](../products/adult-promise-initiative.md)
 - [Provide navigator support through enrollment and financial aid, plus continued support after enrollment](navigator-support-enrollment-financial-aid-adults.md)
 
 ## Examples

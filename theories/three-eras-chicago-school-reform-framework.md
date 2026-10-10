@@ -47,7 +47,7 @@ The report organizes 20 years of Chicago school reform into three eras defined b
 
 ## Related Theories
 
-- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](chicago-three-pronged-theory-of-change.md)
+- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](../products/chicago-public-schools-three-pronged-theory-of-change.md)
 - [Five Chicago school turnaround reform models mapped to four federal intervention models](chicago-five-turnaround-reform-models-taxonomy.md)
 - [Chicago probation policy theory of action: consequences combined with support increase educator motivation and capacity](probation-policy-theory-of-action-consequences-plus-support.md)
 - [Competing theories of action for school change in Chicago: business-oriented, teaching-and-learning, community-dialogue/equity, and parental-control views](competing-theories-action-chicago-school-reform.md)

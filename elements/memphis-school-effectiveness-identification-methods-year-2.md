@@ -38,7 +38,7 @@ This report documents a set of methods applied to identify effective schools wit
 
 ## Related Elements
 
-- [Value-added model for identifying effective schools in Memphis City school district](memphis-value-added-school-effectiveness-model.md)
+- [Value-added model for identifying effective schools in Memphis City school district](../research-methods/school-value-added-modeling.md)
 - [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](teacher-level-value-added-model-memphis.md)
 - [New Leaders school and teacher effectiveness identification methods](new-leaders-effectiveness-identification-methods.md)
 

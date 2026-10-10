@@ -45,7 +45,7 @@ The study results are communicated through "a series of briefs summarizing resul
 ## Related Elements
 
 - [Mathematica Ecree study methods documentation](mathematica-ecree-study-methods-documentation.md)
-- [MI Write automated writing feedback tool](mi-write-automated-writing-feedback-tool.md)
+- [MI Write automated writing feedback tool](../products/mi-write.md)
 
 ## Examples
 

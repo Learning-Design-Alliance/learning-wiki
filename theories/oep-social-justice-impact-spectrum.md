@@ -51,7 +51,7 @@ The article extends Hodgkinson-Williams and Trotter's framework, built on Fraser
 - [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](../elements/collaborative-web-annotation-marginal-syllabus.md)
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](../elements/equity-unbound-open-connected-course.md)
 - [Design OEP for accessibility and marginalized participation rather than open for all](../strategies/design-oep-for-those-farthest-from-justice.md)
-- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../elements/virtually-connecting-equitable-conversations.md)
+- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../products/virtually-connecting.md)
 
 ## Key Sources
 - Bali, M, et al. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1): 10, pp. 1–12. https://doi.org/10.5334/jime.565

@@ -50,8 +50,8 @@ An authoring template developed at the McKay Institute that permitted annotating
 
 ## Related Elements
 
-- [Montevidisco conversational simulator](montevidisco-conversational-simulator.md)
-- [Flight SOS interactive video program](flight-sos-interactive-video.md)
+- [Montevidisco conversational simulator](../products/montevidisco.md)
+- [Flight SOS interactive video program](../products/flight-sos.md)
 
 ## Examples
 

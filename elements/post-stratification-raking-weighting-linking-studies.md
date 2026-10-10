@@ -38,7 +38,7 @@ Because the linking study sample is voluntary and may differ from the state popu
 - Generalizable prediction of state summative proficiency
 
 ### Affordances
-- [Equipercentile Linking Conditional Growth Norms Methodology](../theories/equipercentile-linking-conditional-growth-norms-methodology.md)
+- [Equipercentile Linking Conditional Growth Norms Methodology](../research-methods/equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores.md)
 
 ## Claims
 
@@ -46,7 +46,7 @@ Because the linking study sample is voluntary and may differ from the state popu
 
 ## Related Elements
 
-- [MAP Growth linking study report with cut score tables, classification accuracy statistics, and proficiency projections](map-growth-linking-study-report.md)
+- [MAP Growth linking study report with cut score tables, classification accuracy statistics, and proficiency projections](../products/map-growth.md)
 - [Statistical matching and weighting procedure for the MAP Reading Fluency–Amira linking study](mrf-amira-linking-matching-procedure.md)
 
 ## Examples

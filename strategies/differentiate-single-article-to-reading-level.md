@@ -39,7 +39,7 @@ The reviewed program's core design strategy is whole-class assignment of a singl
 
 ## Related Strategies
 
-- [Achieve3000 Five Step Literacy Routine](../elements/achieve3000-five-step-literacy-routine.md)
+- [Achieve3000 Five Step Literacy Routine](../products/achieve3000.md)
 - [Tiered Assignments](tiered-assignments.md)
 - [Differentiated Instruction](differentiated-instruction.md)
 - [Differentiated Teaching](differentiated_teaching.md)

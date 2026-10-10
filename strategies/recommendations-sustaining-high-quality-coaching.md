@@ -37,7 +37,7 @@ Based on survey findings, the report recommends that principals and district adm
 - Improving the value and impact of instructional coaching for teacher growth
 
 ### Affordances
-- [Powerful Learning Framework Digital Promise](../theories/powerful-learning-framework-digital-promise.md)
+- [Powerful Learning Framework Digital Promise](../products/powerful-learning-framework.md)
 
 ## Related Strategies
 

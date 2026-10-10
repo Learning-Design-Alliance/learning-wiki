@@ -134,7 +134,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Project-Based Learning (PBL)](../strategies/project-based-learning-pbl.md) — learners build knowledge through extended authentic work
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
 - Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
-- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Foster hands-on student practice of the full responsible AI use cycle across authentic contexts](../strategies/hands-on-responsible-ai-use-cycle-students.md)
 
@@ -233,7 +233,7 @@ The paper closes with concrete guidance for trainers designing their own experie
 
 ## Examples
 
-- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 
 ## Key Sources

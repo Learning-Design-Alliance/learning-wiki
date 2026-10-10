@@ -43,7 +43,7 @@ The article argues LAD design should be anchored in established educational theo
 
 ## Related Theories
 
-- [Sensenablr Dashboard](../elements/sensenablr-dashboard.md)
+- [Sensenablr Dashboard](../products/sensenablr.md)
 - [Vygotsky's social constructivism: psychological phenomena emerge from social interaction](social-constructivism-vygotsky-social-interaction.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)

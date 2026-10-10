@@ -40,7 +40,7 @@ Digital Promise works with educational leaders to implement a systems change app
 
 ### Affordances
 - [Access Design Use Digital Equity Gaps](../theories/access-design-use-digital-equity-gaps.md)
-- [Ai Literacy Framework Digital Promise](../theories/ai-literacy-framework-digital-promise.md)
+- [Ai Literacy Framework Digital Promise](../products/digital-promise-ai-literacy-brief-series.md)
 
 ## Related Strategies
 

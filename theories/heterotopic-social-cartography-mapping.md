@@ -43,7 +43,7 @@ Social cartography is a spatial, postmodern alternative to totalizing utopic rep
 ## Related Theories
 
 - [Social cartography as heterotopic mapping of perspectival difference](social-cartography-heterotopic-mapping.md)
-- [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](social-cartography-postmodern-methodology.md)
+- [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](../research-methods/social-cartography.md)
 - [Modernist responses to the postmodern challenge form three broad areas: orthodox, critical pedagogy, and performativity texts](modernist-responses-three-areas-taxonomy.md)
 
 ## Examples

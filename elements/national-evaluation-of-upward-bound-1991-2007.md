@@ -45,7 +45,7 @@ A long-running national evaluation of Upward Bound conducted by Mathematica Poli
 
 ## Related Elements
 
-- [Regular Upward Bound program](regular-upward-bound-program.md)
+- [Regular Upward Bound program](../products/regular-upward-bound-program.md)
 
 ## Examples
 -

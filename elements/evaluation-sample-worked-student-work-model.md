@@ -42,7 +42,7 @@ The Evaluation Sample is a worked example showing teachers how to apply the Chec
 
 ## Related Elements
 
-- [The Evaluation Toolkit: a teacher-facing instrument for assessing technology-rich learning activities](evaluation-toolkit-technology-rich-activities.md)
+- [The Evaluation Toolkit: a teacher-facing instrument for assessing technology-rich learning activities](../products/the-evaluation-toolkit.md)
 
 ## Examples
 

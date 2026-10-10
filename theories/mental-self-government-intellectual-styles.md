@@ -48,7 +48,7 @@ Sternberg proposes that intellectual style concerns how people use their intelli
 
 ## Examples
 
-- [Sternberg's intellectual styles inventory under validation](../elements/intellectual-styles-inventory.md)
+- [Sternberg's intellectual styles inventory under validation](../products/sternbergs-intellectual-styles-inventory.md)
 - [Pair students with complementary intellectual styles to compensate for weaknesses](../strategies/pair-complementary-intellectual-styles.md)
 
 ## Key Sources

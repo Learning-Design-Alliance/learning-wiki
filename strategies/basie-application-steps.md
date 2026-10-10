@@ -37,7 +37,7 @@ The guide prescribes a workflow for applying BASIE when interpreting evaluation 
 - interpreting impact estimates from evaluations
 
 ### Affordances
-- [Basie Bayesian Interpretation Of Estimates Framework](../theories/basie-bayesian-interpretation-of-estimates-framework.md)
+- [Basie Bayesian Interpretation Of Estimates Framework](../research-methods/basie.md)
 
 ## Related Strategies
 
