@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="multi-strategy-adversarial-evaluation-lowers-rpla-robustness-scores-by-01740203-points-relative-to-a-single-strategy-baseline-across-three-personas">Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas<a class="headerlink" href="#multi-strategy-adversarial-evaluation-lowers-rpla-robustness-scores-by-01740203-points-relative-to-a-single-strategy-baseline-across-three-personas" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · causal <code>r1</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Transitioning from single-strategy (Role Drift only) to multi-strategy adversarial evaluation produced a consistent decline in overall robustness scores for all three evaluated personas, with the Healthcare Assistant declining most (0.837 to 0.634). <a href="#saqib-shouqi-2026">→ Saqib Shouqi 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="saqib-shouqi-2026">Saqib Shouqi 2026<a class="headerlink" href="#saqib-shouqi-2026" title="Permanent link">&para;</a></h3>
+<p>Saqib Shouqi, Abdullah Nazly, Januki Wanniarachchi, Ravisha De Alwis. (2026). Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation. ADScAI Conference, University of Moratuwa, Sri Lanka. https://arxiv.org/abs/2608.03166</p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Automated multi-agent experiments comparing a single-strategy baseline (Role Drift only) against a full six-strategy configuration across three personas over 10-turn dialogues. The Healthcare Assistant showed "the most severe degradation (0.837→ 0.634, a decline of 0.203)"; the Customer Support Agent declined 0.174 and the Financial Advisor 0.189. The authors state these results "confirm that single-strategy evaluation meaningfully overestimates agent robustness."</p>
+<blockquote>
+<p>"The Healthcare Assistant exhibited the most severe degradation (0.837→ 0.634, a decline of 0.203), consistent with the sensitivity of its domain and the difficulty of maintaining strict medical boundaries under sustained emotional and authority-based pressure."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../automated-judge-human-alignment-conservative-bias/">Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans</a> — related</li>
+<li><a href="../consistency-degradation-tone-instability/">Consistency degrades under multi-strategy evaluation for all personas, driven mainly by tone instability rather than logical contradiction</a> — related</li>
+<li><a href="../authority-challenge-emotional-manipulation-most-effective/">Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families</a> — related</li>
+<li><a href="../cross-model-rpla-degradation-consistent/">Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models</a> — related</li>
+<li><a href="../rpla-failure-onset-second-half-of-dialogue/">RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>multi-strategy-adversarial-testing-lowers-rpla-robustness</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>saqib-shouqi-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
