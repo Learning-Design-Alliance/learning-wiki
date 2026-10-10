@@ -48,10 +48,8 @@ The report organizes practitioner-identified needs into maps showing relationshi
 
 ## Related Theories
 
-- [OpenSciEd research logic model](openscied-logic-model.md)
-- [Adapted conjecture map framework for learning scientists and computer scientists](adapted-conjecture-map-framework-ls-cs.md)
-- [OpenSciEd research logic model with five components](open-scied-research-logic-model.md)
-- [Four categories of desired OpenSciEd outcomes: student, teacher capacity, system, and resources and innovations](openscied-four-outcome-categories.md)
+- [OpenSciEd research logic model](../products/openscied.md)
+- [Adapted conjecture map framework for learning scientists and computer scientists](../research-methods/adapted-conjecture-map-framework-for-learning-scientists-and-computer-scientists.md)
 
 ## Examples
 -

@@ -44,7 +44,7 @@ The report proposes that teachers, even enthusiastic ones, typically pass throug
 
 - [Concerns Based Adoption Model (CBAM) stages of concern](cbam-stages-of-concern-model.md)
 - [Revised emergent-growth model of technology adoption integrating voluntary activities with maintained early concerns](emergent-growth-adoption-model.md)
-- [Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index](loa-survey-instrument-cbam-adaptation.md)
+- [Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index](../products/level-of-adoption-loa-survey.md)
 - [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples

@@ -43,7 +43,7 @@ The brief defines pace of learning as the rate at which a student improves, calc
 
 ## Related Theories
 
-- [The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses](student-momentum-indicator-theory.md)
+- [The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses](../research-methods/student-momentum-indicator.md)
 
 ## Examples
 

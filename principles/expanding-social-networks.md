@@ -97,7 +97,7 @@ Expanding social networks matters because access to opportunity is often mediate
 - [Community Involvement](../strategies/community_involvement.md) — builds bridges between learners and broader support systems
 - Online professional networks or cohort channels can widen access when paired with structured participation norms
 - Networking routines tied to concrete goals, such as informational interviews or resource-mapping exercises, are stronger than generic mixers
-- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
 
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.
@@ -143,7 +143,7 @@ The author argues the social and linguistic isolation older immigrants face has 
 
 ## Examples
 
-- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
 
 ## Key Sources
 - Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37

@@ -43,11 +43,10 @@ The Concerns-Based Adoption Model (CBAM) is the article's conceptual framework f
 
 ## Related Theories
 
-- [Levels of Use of the Innovation: eight developmental levels with decision points](levels-of-use-innovation-eight-levels.md)
+- [Levels of Use of the Innovation: eight developmental levels with decision points](../products/concerns-based-adoption-model.md)
 - [Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns](stages-of-concern-seven-stage-taxonomy.md)
 - [Concerns Based Adoption Model (CBAM) stages of concern](cbam-stages-of-concern-model.md)
 - [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md)
-- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
 - [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 - [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 

@@ -50,7 +50,7 @@ Feuerstein's Mediated Learning Experience (MLE) theory explains differential cog
 ## Examples
 
 - [Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool](../strategies/mle-framework-self-evaluation-use.md)
-- [Instrumental Enrichment program](../elements/instrumental-enrichment-program.md)
+- [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources

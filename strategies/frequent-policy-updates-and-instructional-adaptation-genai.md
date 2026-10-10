@@ -38,7 +38,7 @@ The deck's considerations for developing policy content include recognizing that
 - integrating GenAI into instruction to develop creativity and critical thinking
 
 ### Affordances
-- [Six Topics Genai Responsible Use Policy Taxonomy](../theories/six-topics-genai-responsible-use-policy-taxonomy.md)
+- [Six Topics Genai Responsible Use Policy Taxonomy](../products/six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content.md)
 
 ## Related Strategies
 

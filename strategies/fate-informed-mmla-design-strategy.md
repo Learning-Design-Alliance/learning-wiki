@@ -39,7 +39,7 @@ Based on their findings, the authors recommend that future MMLA systems ensure "
 - trustworthy engagement with learning analytics
 
 ### Affordances
-- [Fate Framework Mmla Student Centred](../theories/fate-framework-mmla-student-centred.md)
+- [Fate Framework Mmla Student Centred](../research-methods/fate-framework.md)
 
 ## Related Strategies
 

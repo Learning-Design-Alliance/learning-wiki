@@ -47,7 +47,7 @@ The article operationalizes a four-code taxonomy of image roles in math problems
 
 ## Examples
 
-- [Gold and ultra-gold benchmark subsets of consistently solved image-Required items](../elements/gold-ultra-gold-benchmark-subsets.md)
+- [Gold and ultra-gold benchmark subsets of consistently solved image-Required items](../products/gold-and-ultra-gold-benchmark-subsets.md)
 - [Use refusal-first behavior and description-substitution experiments to support accessible visual math](../strategies/refusal-first-description-substitution-accessibility.md)
 
 ## Key Sources

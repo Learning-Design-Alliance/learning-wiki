@@ -41,7 +41,7 @@ The deck describes an unplugged lesson in which "Students will use this unplugge
 - [Code.org CS Fundamentals unplugged lessons: Dice Race, My Robotic Friends, Paper Planes, Plant a Seed, Tangrams](code-org-cs-fundamentals-algorithm-lessons.md)
 - [Scratch coding activities expressing content as interactive illustrations, games, or stories](scratch-content-coding-activities-3-8.md)
 - [Code and Go Mouse robot activities combining mapping, story ordering, and number-line arithmetic](code-and-go-mouse-k2-activities.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 
 ## Examples
 

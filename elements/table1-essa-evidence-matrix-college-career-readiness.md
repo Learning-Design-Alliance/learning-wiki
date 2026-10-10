@@ -45,7 +45,7 @@ Table 1 summarizes, for each of 15 interventions, the outcome domains for which 
 
 ## Related Elements
 
-- [Supplemental matrix of intervention strategies for 18 Tier 2 literacy interventions](supplemental-matrix-tier2-intervention-strategies.md)
+- [Supplemental matrix of intervention strategies for 18 Tier 2 literacy interventions](../products/supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions.md)
 
 ## Examples
 -

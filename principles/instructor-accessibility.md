@@ -149,7 +149,7 @@ Use of help, satisfaction with the instructor, help received before a deadline, 
 - **Proactive outreach**: The instructor checks in when participation drops or confusion patterns appear.
 - [Leveraging instructor office hours](../strategies/leveraging_instructor_office_hours.md) — a recipe for regular, structured weekly office hours.
 - [NSF for online office-hours scheduling](../strategies/nsf-for-online-office-hours-scheduling.md) — serving students not yet helped first when the queue is busy.
-- [MyDigitalHand office-hours ticketing system](../elements/mydigitalhand-office-hours-ticketing-system.md) — a ticket queue for help requests.
+- [MyDigitalHand office-hours ticketing system](../products/mydigitalhand-mdh.md) — a ticket queue for help requests.
 - [Maintain presence for students](../strategies/maintain_presence_for_students.md) — predictable availability for brief informal talks.
 - [Help seeking](../strategies/help-seeking.md) — the learner's side: recognising a need, forming a request, getting help.
 

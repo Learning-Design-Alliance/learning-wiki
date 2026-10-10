@@ -38,9 +38,9 @@ The research partnership map is an interactive data visualization that lets user
 
 ## Related Elements
 
-- [NWEA state-level data visualization of MAP Growth performance during the 2020–2021 school year](nwea-covid-educational-impacts-visualization.md)
+- [NWEA state-level data visualization of MAP Growth performance during the 2020–2021 school year](../products/nwea-covid-19-map-growth-data-visualization.md)
 - [Interactive data visualizations of COVID-19 reading and math achievement and growth](covid-learning-data-visualizations-nwea.md)
-- [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](specialty-schools-national-dashboard.md)
+- [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](../products/specialty-schools-national-dashboard.md)
 
 ## Examples
 -

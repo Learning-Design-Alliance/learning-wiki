@@ -37,7 +37,7 @@ The article outlines an example research project, Customizing OpenSciEd material
 
 ## Related Strategies
 
-- [Openscied Open Curriculum Materials](../elements/openscied-open-curriculum-materials.md)
+- [Openscied Open Curriculum Materials](../products/openscied.md)
 - [Develop Cultural Awareness](develop_cultural_awareness.md)
 - [Cultural Responsive Practice](cultural_responsive_practice.md)
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md)

@@ -44,8 +44,7 @@ Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, de
 
 - [Tpack Framework Intersecting Domains Niess Roschelle](tpack-framework-intersecting-domains-niess-roschelle.md)
 - [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](teacher-technology-adoption-stages.md)
-- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
-- [Levels of Use of the Innovation: eight developmental levels with decision points](levels-of-use-innovation-eight-levels.md)
+- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](../products/concerns-based-adoption-model.md)
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Align technology use with specific learning goals rather than adopting technology for its own sake](align-technology-use-with-learning-goals.md)
 

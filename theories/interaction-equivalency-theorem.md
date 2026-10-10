@@ -52,7 +52,7 @@ The Interaction Equivalency Theorem, posited by Anderson (2003a), holds that dee
 
 ## Examples
 
-- [Interaction Equivalency Theorem Indicator: a ranking inventory for students' preferred interaction elements](../elements/interaction-equivalency-theorem-indicator.md)
+- [Interaction Equivalency Theorem Indicator: a ranking inventory for students' preferred interaction elements](../products/interaction-equivalency-theorem-indicator.md)
 
 ## Key Sources
 - Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397

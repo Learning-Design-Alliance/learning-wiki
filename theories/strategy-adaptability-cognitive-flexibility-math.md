@@ -44,7 +44,7 @@ The paper frames cognitive flexibility in mathematics as the ability to select s
 
 ## Examples
 
-- [BERT strategy-embedding model and successful-strategy prediction task for MATHia logs](../elements/bert-strategy-embedding-model-mathia.md)
+- [BERT strategy-embedding model and successful-strategy prediction task for MATHia logs](../research-methods/bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs.md)
 - [MATHia strategy-choice problems where students select between independently taught strategies](../elements/mathia-strategy-choice-problems.md)
 - [Repertoire of Strategies](../strategies/repertoire_of_strategies.md)
 

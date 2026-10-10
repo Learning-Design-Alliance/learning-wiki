@@ -39,7 +39,7 @@ The report's lessons for the field urge practitioners to go beyond representatio
 - Capacity to sustain participatory R&D without permanent dependence on outside facilitation
 
 ### Affordances
-- [Collaborative Innovation Core Tenets](../theories/collaborative-innovation-core-tenets.md)
+- [Collaborative Innovation Core Tenets](../products/collaborative-innovation.md)
 
 ## Related Strategies
 

@@ -42,8 +42,8 @@ The Technology Affordances Matrix is the Toolkit's entry-point table. It lists t
 
 ## Related Elements
 
-- [The Evaluation Toolkit: a teacher-facing instrument for assessing technology-rich learning activities](evaluation-toolkit-technology-rich-activities.md)
-- [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](bernauer-tomei-integrated-matrix-quadrants.md)
+- [The Evaluation Toolkit: a teacher-facing instrument for assessing technology-rich learning activities](../products/the-evaluation-toolkit.md)
+- [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](../products/bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md)
 
 ## Examples
 -

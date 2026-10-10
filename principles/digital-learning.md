@@ -168,9 +168,9 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 
 ## Examples
 
-- [PeerWise online tool for student-authored multiple-choice question repositories](../elements/peerwise-online-mcq-authoring-tool.md)
+- [PeerWise online tool for student-authored multiple-choice question repositories](../products/peerwise.md)
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
-- [CWPT Learning Management System (CWPT–LMS) software support](../elements/cwpt-learning-management-system.md)
+- [CWPT Learning Management System (CWPT–LMS) software support](../products/cwpt-learning-management-system-cwptlms.md)
 - [Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods](../strategies/cognitive-tutor-blended-textbook-software-schedule.md)
 
 ### Illustrative
@@ -238,7 +238,7 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ## Examples
 
-- [PeerWise online tool for student-authored multiple-choice question repositories](../elements/peerwise-online-mcq-authoring-tool.md)
+- [PeerWise online tool for student-authored multiple-choice question repositories](../products/peerwise.md)
 
 ### Illustrative
 

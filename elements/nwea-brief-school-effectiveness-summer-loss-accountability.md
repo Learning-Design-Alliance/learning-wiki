@@ -37,7 +37,7 @@ A 2019 NWEA research brief, listed under the topics Growth modeling, Seasonal le
 - Seasonality-aware school effectiveness estimation for accountability policy
 
 ### Affordances
-- [Compound Polynomial Model School Effectiveness](../theories/compound-polynomial-model-school-effectiveness.md)
+- [Compound Polynomial Model School Effectiveness](../research-methods/compound-polynomial-growth-model.md)
 
 ## Claims
 

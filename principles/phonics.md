@@ -155,11 +155,11 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
 - Guided reading of short adult-appropriate texts that reuse taught patterns
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
-- [Read Well® kindergarten and first-grade reading curriculum](../elements/read-well-reading-curriculum.md)
-- [Really Great Reading foundational literacy programs (Countdown, Blast, HD Word)](../elements/really-great-reading-foundational-literacy-programs.md)
-- [CAPIT Reading blended supplemental phonics program](../elements/capit-reading-program-element.md)
-- [QR-code phonics video lessons embedded in decodable books](../elements/qr-code-phonics-video-lessons-multilingual.md)
-- [SIPPS foundational skills reading curriculum](../elements/sipps-foundational-skills-curriculum.md)
+- [Read Well® kindergarten and first-grade reading curriculum](../products/read-well.md)
+- [Really Great Reading foundational literacy programs (Countdown, Blast, HD Word)](../products/really-great-reading.md)
+- [CAPIT Reading blended supplemental phonics program](../products/capit-reading.md)
+- [QR-code phonics video lessons embedded in decodable books](../products/just-right-reader-take-everywhere-literacy-packs.md)
+- [SIPPS foundational skills reading curriculum](../products/sipps.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]

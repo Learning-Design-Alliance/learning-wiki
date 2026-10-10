@@ -49,7 +49,7 @@ The deck presents a framework, attributed to Shuchi Grover, defining algorithms 
 - [Flowcharts as a representation for planning algorithms](../elements/flowcharts-algorithm-planning-representation.md)
 - [Codable maze unplugged lesson for shortest-distance algorithms across content areas](../elements/codable-maze-unplugged-shortest-distance-lesson.md)
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](../strategies/when-to-teach-algorithms-five-contexts.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../elements/ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 - [App Inventor community-problem app projects with storyboarding](../elements/app-inventor-community-app-projects.md)
 
 ## Key Sources

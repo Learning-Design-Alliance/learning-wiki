@@ -46,7 +46,7 @@ HCLA is an approach emphasizing human factors in LA by including stakeholders in
 
 ## Examples
 
-- [Indicator Editor: a no-code SSLA tool for user-controlled LA indicator implementation](../elements/indicator-editor-ssla-tool.md)
+- [Indicator Editor: a no-code SSLA tool for user-controlled LA indicator implementation](../products/open-learning-analytics-platform.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](../strategies/stakeholder-involvement-defining-privacy-la.md)
 
 ## Key Sources

@@ -50,7 +50,7 @@ The report organizes teen digital media participation along a continuum identifi
 ## Examples
 
 - [YOUmedia online: a closed social networking site with Remix dollar incentives and feedback systems](../elements/youmedia-online-remix-world-platform.md)
-- [YOUmedia Chicago: a teen digital media learning space at the Harold Washington Library](../elements/youmedia-chicago-teen-digital-media-learning-space.md)
+- [YOUmedia Chicago: a teen digital media learning space at the Harold Washington Library](../products/youmedia.md)
 
 ## Key Sources
 - Kimberly Austin, Stacy B. Ehrlich, Cassidy Puckett, and Judi Singleton. (2011). Reimagining Learning, Literacies, and Libraries: A Snapshot of Year 1. Consortium on Chicago School Research, University of Chicago Urban Education Institute. https://youmediachicago.org

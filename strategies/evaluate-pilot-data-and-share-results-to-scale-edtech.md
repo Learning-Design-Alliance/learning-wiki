@@ -43,7 +43,7 @@ Step 5 directs leaders to "Analyze pilot data to determine whether the tool suff
 - Planning expanded or long-term use of successful tools
 
 ### Affordances
-- [Edtech Procurement Framework Six Steps](../theories/edtech-procurement-framework-six-steps.md)
+- [Edtech Procurement Framework Six Steps](../products/edtech-procurement-framework.md)
 
 ## Related Strategies
 

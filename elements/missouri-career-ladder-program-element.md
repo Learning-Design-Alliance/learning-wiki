@@ -44,8 +44,7 @@ The Missouri Career Ladder Program is a teacher incentive program in which schoo
 
 ## Related Elements
 
-- [Missouri Teacher Career Ladder program](missouri-teacher-career-ladder-program.md)
-- [Missouri's Career Ladder Program: teacher bonuses for extra work](missouri-career-ladder-teacher-bonus-program.md)
+- [Missouri Teacher Career Ladder program](../products/missouri-teacher-career-ladder-program.md)
 
 ## Examples
 -

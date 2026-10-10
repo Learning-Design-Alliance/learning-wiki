@@ -48,7 +48,7 @@ The report's organizing theory is that teaching, like a journey, must be planned
 
 ## Examples
 
-- [The Language Inquiry: a 100-item language-attitude questionnaire benchmarked against ten linguists](../elements/language-inquiry-attitude-instrument.md)
+- [The Language Inquiry: a 100-item language-attitude questionnaire benchmarked against ten linguists](../products/the-language-inquiry.md)
 - [Differentiated Teaching](../strategies/differentiated_teaching.md)
 - [Diagnostic Assessment](../strategies/diagnostic-assessment.md)
 - [Asset Based Teaching](../strategies/asset-based_teaching.md)

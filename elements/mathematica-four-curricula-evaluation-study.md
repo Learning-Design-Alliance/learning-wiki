@@ -51,7 +51,7 @@ A large-scale, national study conducted by Mathematica Policy Research for the U
 ## Related Elements
 
 - [Evaluation of Mathematics Curricula project (2005–2013)](evaluation-of-mathematics-curricula-project.md)
-- [NIH Intramural Research Loan Repayment Program](nih-intramural-research-loan-repayment-program.md)
+- [NIH Intramural Research Loan Repayment Program](../products/nih-intramural-loan-repayment-program.md)
 
 ## Examples
 -

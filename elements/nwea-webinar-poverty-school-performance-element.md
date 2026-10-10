@@ -46,7 +46,7 @@ A webinar presentation released by NWEA Research in July 2019, authored by Andre
 ## Related Elements
 
 - [Associated white paper: Evaluating the relationships between poverty and school performance](nwea-white-paper-evaluating-poverty-school-performance.md)
-- [Evaluating the Relationships Between Poverty and School Performance interactive data visualization gallery](poverty-school-performance-visualization-gallery.md)
+- [Evaluating the Relationships Between Poverty and School Performance interactive data visualization gallery](../products/evaluating-the-relationships-between-poverty-and-school-performance-interactive-data-visua.md)
 
 ## Examples
 -

@@ -43,8 +43,7 @@ STRP is grounded in a five-phase professional development model whose phases the
 
 ## Related Theories
 
-- [Strategic Teaching and Reading Project (STRP) five comprehension strategies](strp-five-comprehension-strategies.md)
-- [Strategic Teaching and Reading Project (STRP) and its five global reading strategies](strp-five-global-reading-strategies.md)
+- [Strategic Teaching and Reading Project (STRP) five comprehension strategies](../products/strategic-teaching-and-reading-project.md)
 
 ## Examples
 -

@@ -42,11 +42,11 @@ The article organizes student experience measurement around three constructs tha
 
 ## Related Theories
 
-- [The OpenSciEd storyline instructional model: coherence from the students' perspective via four teaching routines](storyline-instructional-model-student-coherence.md)
+- [The OpenSciEd storyline instructional model: coherence from the students' perspective via four teaching routines](../products/openscied.md)
 
 ## Examples
 
-- [OpenSciEd's five distinctive instructional principles](../designs/openscied-distinctive-instructional-principles.md)
+- [OpenSciEd's five distinctive instructional principles](../products/openscied.md)
 
 ## Key Sources
 - Ali Raza, Tamara Sumner and William R. Penuel. (2024). The Science Student Electronic Exit Ticket (SEET) System: Visualizations to Help Teachers Notice and Reflect on Classroom Inequalities. Journal of Learning Analytics, 11(1), 87-100. https://doi.org/10.18608/jla.2024.8199

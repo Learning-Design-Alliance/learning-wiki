@@ -38,7 +38,7 @@ The Glossary of Artificial Intelligence Terms for Educators, by Pati Ruiz and Ju
 - understanding AI concepts and terminology for educational decision-making
 
 ### Affordances
-- [Ai Literacy Framework Digital Promise](../theories/ai-literacy-framework-digital-promise.md)
+- [Ai Literacy Framework Digital Promise](../products/digital-promise-ai-literacy-brief-series.md)
 
 ## Related Elements
 - 

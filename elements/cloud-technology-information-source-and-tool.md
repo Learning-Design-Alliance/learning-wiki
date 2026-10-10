@@ -43,7 +43,7 @@ Cloud technology is a core component of the model, serving a dual role in the in
 
 ## Related Elements
 
-- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](knowledge-practices-environment-kpe.md)
+- [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](../products/kpe.md)
 
 ## Examples
 -

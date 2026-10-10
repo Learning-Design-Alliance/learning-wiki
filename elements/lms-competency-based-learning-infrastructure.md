@@ -43,10 +43,10 @@ LMSs are software applications schools and districts use to automate learning di
 ## Related Elements
 
 - [Learning and employment records (LERs) as three-dimensional, learner-controlled replacements for traditional transcripts](learning-and-employment-records-lers.md)
-- [The Modern Classroom Project's instructional-video model for self-paced, competency-based classrooms](modern-classroom-project-instructional-videos.md)
+- [The Modern Classroom Project's instructional-video model for self-paced, competency-based classrooms](../products/modern-classroom-project.md)
 - [Application programming interfaces as shared infrastructure for automated assessment tools](assessment-tool-apis-shared-infrastructure.md)
 - [Digital Tools](digital-tools.md)
-- [Data infrastructure tools supporting rapid-cycle testing: Edtech Pilot Framework, TeamSpace, and Dynamic Learning Project](digital-promise-data-infrastructure-tools.md)
+- [Data infrastructure tools supporting rapid-cycle testing: Edtech Pilot Framework, TeamSpace, and Dynamic Learning Project](../products/digital-promise-edtech-pilot-framework.md)
 
 ## Examples
 

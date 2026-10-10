@@ -63,8 +63,7 @@ The National Longitudinal Transition Study 2012 is a national research study of 
 
 ## Related Elements
 
-- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
-- [National Longitudinal Transition Study 2012 (NLTS 2012) surveys of secondary-school youth with disabilities and their parents](nlts-2012-surveys-youth-disabilities-parents.md)
+- [NLTS 2012 dataset and design documentation](../products/national-longitudinal-transition-study-2012-nlts-2012.md)
 
 ## Examples
 -
@@ -113,8 +112,8 @@ NLTS 2012 is a national longitudinal study of youth with disabilities, conducted
 ## Related Elements
 
 - [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-dataset.md)
-- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
-- [National Longitudinal Transition Study 2012 (NLTS 2012) surveys of secondary-school youth with disabilities and their parents](nlts-2012-surveys-youth-disabilities-parents.md)
+- [NLTS 2012 dataset and design documentation](../products/national-longitudinal-transition-study-2012-nlts-2012.md)
+- [National Longitudinal Transition Study 2012 (NLTS 2012) surveys of secondary-school youth with disabilities and their parents](../products/national-longitudinal-transition-study-2012-nlts-2012.md)
 
 ## Examples
 -

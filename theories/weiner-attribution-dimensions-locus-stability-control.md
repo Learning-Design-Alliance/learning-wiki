@@ -51,7 +51,7 @@ Weiner expanded Heider's model by organizing the four attribution factors into t
 
 ## Examples
 
-- [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../elements/causal-dimension-scale-cds-cdsii.md)
+- [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../products/causal-dimension-scale-cds-and-revised-cdsii.md)
 
 ## Key Sources
 - Fullin, Christine; Mills, Brett D. (1995). Attribution Theory in Sport: Problems and Solutions. https://eric.ed.gov/?id=ED387439

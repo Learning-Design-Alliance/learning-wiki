@@ -38,7 +38,7 @@ The report recommends that the CNMI PSS's selection of an intervention will like
 
 ## Related Strategies
 
-- [Supplemental Matrix Tier2 Intervention Strategies](../elements/supplemental-matrix-tier2-intervention-strategies.md)
+- [Supplemental Matrix Tier2 Intervention Strategies](../products/supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions.md)
 - [Response To Intervention](response-to-intervention.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 

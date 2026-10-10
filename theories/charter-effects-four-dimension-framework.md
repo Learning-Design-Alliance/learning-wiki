@@ -46,7 +46,7 @@ The report organizes its evaluation of charter schools around four outcome dimen
 
 ## Related Theories
 
-- [Attainment-based evaluation of charter schools as a complement to achievement-test-based studies](attainment-based-charter-school-evaluation.md)
+- [Attainment-based evaluation of charter schools as a complement to achievement-test-based studies](../research-methods/attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s.md)
 
 ## Examples
 -

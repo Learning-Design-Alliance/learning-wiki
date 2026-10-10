@@ -39,7 +39,7 @@ The authors recommend that educators "participate in the creative teconstruction
 - accepting the creation of meaning in the world as a human and communal responsibility
 
 ### Affordances
-- [Narrative Inquiry Storied Lives Method](../theories/narrative-inquiry-storied-lives-method.md)
+- [Narrative Inquiry Storied Lives Method](../research-methods/narrative-inquiry.md)
 
 ## Related Strategies
 - 

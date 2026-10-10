@@ -38,7 +38,7 @@ The report describes a consortium training model for delivering professional dev
 
 ## Related Strategies
 
-- [Balanced Leadership Pd Program](../elements/balanced-leadership-pd-program.md)
+- [Balanced Leadership Pd Program](../products/balanced-leadership-professional-development.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 - [Start PD with ready and willing teachers and scale up over time, using train-the-trainers models](start-pd-with-ready-and-willing-scale-up.md)
 

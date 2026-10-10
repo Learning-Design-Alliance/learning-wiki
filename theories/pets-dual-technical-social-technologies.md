@@ -45,7 +45,7 @@ The article defines Privacy Enhancing Technologies as tools that aim to increase
 
 ## Examples
 
-- [End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes](../elements/end-to-end-pet-workflow-dlp-example.md)
+- [End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes](../research-methods/privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno.md)
 - [Integrate PETs at every stage of the research lifecycle](../strategies/integrate-pets-across-research-lifecycle.md)
 
 ## Key Sources

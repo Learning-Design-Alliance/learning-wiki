@@ -43,7 +43,7 @@ The report organizes cyberlearning design research into six general designs, whi
 - [Convergent science: integrating learning sciences and computer science expertise](convergent-science-cyberlearning.md)
 - [Ambitious mashups: cyberlearning projects combine novel technologies, theories, methods, and equity goals in frontier-oriented integrations](ambitious-mashups-concept.md)
 - [Three learning-theory areas organize cyberlearning theory work: collaborative learning, embodied learning, and identity](cyberlearning-learning-theories-three-areas.md)
-- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](cyberlearning-research-methods-three-approaches.md)
+- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
 
 ## Examples
 -

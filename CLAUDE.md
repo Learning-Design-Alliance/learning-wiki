@@ -185,6 +185,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   with no author in common and not published by the same organisation (maintainer,
   2026-10-10: one author or organisation across years is a research agenda, not
   confirmation; `settle_candidates.independent`), or on one synthesis at q3 or above.
+- **Pages from before the two kinds were re-filed once** (`scripts/sweep_kinds.py`, 2026-10-10):
+  1,323 to products, 222 to research methods, each move confirmed by a second model. Its 390 plain
+  folds into canonical pages are in `eval/candidates/sweep-kinds.ndjson` and were **not** applied
+  (too many loose matches); apply them only after review, never with a bare `--from ... --apply`.
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,

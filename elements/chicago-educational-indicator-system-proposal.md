@@ -38,7 +38,7 @@ A proposed system to monitor critical aspects of schooling and regularly report 
 
 ## Related Elements
 
-- [Individualized school reports (ISRs) tracking schools on core research-linked indicators](ccsr-individualized-school-reports-isrs.md)
+- [Individualized school reports (ISRs) tracking schools on core research-linked indicators](../products/5essentials-survey.md)
 - [Consortium on Chicago School Research five-year research agenda 2004-2008 by topic and study type](ccsr-research-agenda-2004-2008.md)
 
 ## Examples

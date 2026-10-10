@@ -60,7 +60,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 
 ## Examples
 
-- [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../elements/causal-dimension-scale-cds-cdsii.md)
+- [Causal Dimension Scale (CDS) and revised CDSII as improved attribution measurement devices](../products/causal-dimension-scale-cds-and-revised-cdsii.md)
 
 ## Key Sources
 - Weiner, B. (1986). *An attributional theory of motivation and emotion*. Springer-Verlag.

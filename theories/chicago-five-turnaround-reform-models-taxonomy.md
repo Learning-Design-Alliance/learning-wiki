@@ -53,7 +53,7 @@ The report organizes Chicago's 1997-2010 district-mandated interventions into fi
 ## Related Theories
 
 - [Informal social learning networks as the coordinating mechanism of systemwide improvement](informal-social-learning-networks-coherence.md)
-- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](chicago-three-pronged-theory-of-change.md)
+- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](../products/chicago-public-schools-three-pronged-theory-of-change.md)
 - [Three eras of Chicago school reform: Decentralization, Accountability, Diversification](three-eras-chicago-school-reform-framework.md)
 - [Turnaround schools as a distinct category of school improvement](turnaround-school-definition-criteria.md)
 

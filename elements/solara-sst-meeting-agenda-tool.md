@@ -46,7 +46,7 @@ A configuration solution built with Warwick Public Schools on Panorama's Solara 
 ## Related Elements
 
 - [AI-powered MTSS intervention plan generator producing SMART goals and suggested interventions that educators can review and edit](ai-mtss-plan-generator-reviewable-recommendations.md)
-- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](freshman-on-track-dashboard-innovare-cics.md)
+- [Freshman On-Track dashboard aggregating attendance, grades, discipline, and momentum scores into a single student view](../products/freshman-ontrack.md)
 
 ## Examples
 -

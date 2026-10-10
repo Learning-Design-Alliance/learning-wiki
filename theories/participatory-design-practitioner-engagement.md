@@ -41,10 +41,10 @@ Participatory design is presented as a relatively discrete way to work with prac
 
 ## Related Theories
 
-- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
-- [Design-Based Implementation Research (DBIR) as an approach for co-developing differentiated instruction practice](dbir-approach-differentiated-instruction.md)
+- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](../products/research-practice-industry-partnerships-rpips.md)
+- [Design-Based Implementation Research (DBIR) as an approach for co-developing differentiated instruction practice](../research-methods/design-based-implementation-research-dbir.md)
 - [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
-- [Research alliance model of practitioner-researcher engagement](research-alliance-engagement-model.md)
+- [Research alliance model of practitioner-researcher engagement](../products/regional-educational-laboratory-rel-program.md)
 - [Research-practice partnership model for improving problems of educational practice](research-practice-partnership-model.md)
 - [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 

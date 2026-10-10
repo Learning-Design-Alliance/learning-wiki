@@ -37,7 +37,7 @@ The report implements all three models (the general polytomous testlet model, th
 - Estimating item parameters under models that account for local dependence among testlet items
 
 ### Affordances
-- [General Polytomous Testlet Model](../theories/general-polytomous-testlet-model.md)
+- [General Polytomous Testlet Model](../research-methods/general-polytomous-testlet-model.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

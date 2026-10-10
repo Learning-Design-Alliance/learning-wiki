@@ -44,10 +44,10 @@ The study's identification strategy exploits a program rule: oversubscribed dist
 ## Related Elements
 
 - [SES provider landscape and service delivery characteristics in oversubscribed districts](ses-provider-landscape-characteristics.md)
-- [Supplemental Educational Services (SEdS) under No Child Left Behind](supplemental-educational-services-nclb.md)
-- [Title I Supplemental Educational Services (SES) tutoring program](title-i-ses-tutoring-program.md)
+- [Supplemental Educational Services (SEdS) under No Child Left Behind](../products/supplemental-educational-services.md)
+- [Title I Supplemental Educational Services (SES) tutoring program](../products/title-i-supplemental-educational-services-ses.md)
 - [Regression discontinuity design applied to NCLB AYP thresholds in Title I schools](rd-design-nclb-ayp-thresholds.md)
-- [Waitlist-cutoff research design using administrative course registration data](waitlist-cutoff-registration-data-design.md)
+- [Waitlist-cutoff research design using administrative course registration data](../research-methods/waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d.md)
 
 ## Examples
 -

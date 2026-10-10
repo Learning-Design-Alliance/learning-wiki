@@ -44,7 +44,7 @@ Un LER es "un registro de datos digital de las destrezas, experiencias y credenc
 ## Related Elements
 
 - [Learning and employment records (LERs) as three-dimensional, learner-controlled replacements for traditional transcripts](learning-and-employment-records-lers.md)
-- [Micro-credenciales de Digital Promise](digital-promise-microcredentials-element.md)
+- [Micro-credenciales de Digital Promise](../products/digital-promise-micro-credentials.md)
 
 ## Examples
 

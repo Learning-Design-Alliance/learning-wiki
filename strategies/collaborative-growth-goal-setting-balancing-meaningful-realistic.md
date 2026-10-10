@@ -38,7 +38,7 @@ The page recommends a goal-setting approach in which teachers, families, and stu
 
 ## Related Strategies
 
-- [Map Growth Goal Explorer Visualization](../elements/map-growth-goal-explorer-visualization.md)
+- [Map Growth Goal Explorer Visualization](../products/map-growth-goal-explorer.md)
 - [Provide home visitors training and a structure for collaborative goal setting with attainable, child-focused goals](train-home-visitors-collaborative-goal-structure.md)
 
 ## Examples

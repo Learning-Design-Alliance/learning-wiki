@@ -50,7 +50,7 @@ A student-facing learning analytics dashboard designed with and for online and d
 
 ## Related Elements
 
-- [SensEnablr: a student-facing learning analytics dashboard integrating descriptive, predictive, and prescriptive analytics](sensenablr-dashboard.md)
+- [SensEnablr: a student-facing learning analytics dashboard integrating descriptive, predictive, and prescriptive analytics](../products/sensenablr.md)
 - [Learning Analytics-Driven Feedback](learning-analytics-feedback.md)
 
 ## Examples

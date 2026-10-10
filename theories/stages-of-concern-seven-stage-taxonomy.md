@@ -45,7 +45,7 @@ The Stages of Concern (SoC) framework, one dimension of the Concerns-Based Adopt
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Intervention Taxonomy: six levels of change-facilitating interventions from incident to policy](cbam-intervention-taxonomy-six-levels.md)
 - [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
-- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
+- [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](../products/concerns-based-adoption-model.md)
 - [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 
 ## Examples

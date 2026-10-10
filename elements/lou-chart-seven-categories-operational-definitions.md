@@ -37,7 +37,7 @@ The LoU Chart (Figure 2) displays operational definitions of the eight Levels of
 - classifying an individual's innovation use behavior into a level
 
 ### Affordances
-- [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
+- [Levels Of Use Innovation Eight Level Framework](../products/concerns-based-adoption-model.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -45,7 +45,7 @@ The LoU Chart (Figure 2) displays operational definitions of the eight Levels of
 
 ## Related Elements
 
-- [The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual](lou-focused-branching-interview.md)
+- [The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual](../products/levels-of-use-interview.md)
 
 ## Examples
 

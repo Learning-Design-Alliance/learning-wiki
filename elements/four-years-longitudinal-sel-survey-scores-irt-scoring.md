@@ -45,7 +45,7 @@ The study's data and analysis setup: four years of longitudinal survey scores on
 ## Related Elements
 
 - [Simulation and empirical comparison of scoring approaches for longitudinal survey growth estimation](simulation-empirical-scoring-approach-comparison.md)
-- [Longitudinal SEL dataset from a large urban district with about 3,000 students per timepoint](four-year-longitudinal-sel-dataset-urban-district.md)
+- [Longitudinal SEL dataset from a large urban district with about 3,000 students per timepoint](../products/longitudinal-sel-dataset-from-a-large-urban-district-with-about-3000-students-per-timepoin.md)
 
 ## Examples
 

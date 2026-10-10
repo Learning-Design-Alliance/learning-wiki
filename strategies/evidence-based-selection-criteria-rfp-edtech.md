@@ -37,7 +37,7 @@ Step 2 directs leaders to "Establish evidence-based selection criteria and instr
 - Meeting the needs of priority learner populations
 
 ### Affordances
-- [Edtech Procurement Framework Six Steps](../theories/edtech-procurement-framework-six-steps.md)
+- [Edtech Procurement Framework Six Steps](../products/edtech-procurement-framework.md)
 
 ## Related Strategies
 

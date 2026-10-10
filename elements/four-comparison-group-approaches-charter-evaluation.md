@@ -42,7 +42,7 @@ The study evaluates four distinct comparison group approaches, which serve as th
 
 ## Related Elements
 
-- [Within-study comparison (WSC) methodology](within-study-comparison-wsc-methodology.md)
+- [Within-study comparison (WSC) methodology](../research-methods/within-study-comparison-wsc-methodology.md)
 
 ## Examples
 

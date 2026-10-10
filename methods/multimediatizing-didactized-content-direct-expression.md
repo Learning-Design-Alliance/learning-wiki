@@ -49,8 +49,7 @@ The principle of multimediatizing "consists in the direct expression of a didact
 ## Examples
 
 - [Ten fundamental prerequisites for a multimedia language authoring system](../designs/ten-prerequisites-multimedia-language-authoring.md)
-- [LAVAC computerized language laboratory toolkit](../elements/lavac-language-laboratory-toolkit.md)
-- [Virtual Recorder and Video Sequencer automatic segmenting devices](../elements/virtual-recorder-video-sequencer-devices.md)
+- [LAVAC computerized language laboratory toolkit](../products/lavac.md)
 - [Digital Storytelling](../strategies/digital_storytelling.md)
 - [Multimodal Composition Projects](../strategies/multimodal_composition_projects.md)
 

@@ -64,7 +64,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Argumentation](argumentation.md) — the discourse skill collaborative tasks most depend on and develop
 - [Coaching](coaching.md) — instructor role during group work: monitoring, probing, and intervening without taking over
 - [Articulation](articulation.md) — the requirement that learners verbalize reasoning to teammates is what drives learning
-- [Collaborative Way teaming model (Fickett and Fickett)](collaborative-way-teaming-model.md)
+- [Collaborative Way teaming model (Fickett and Fickett)](../products/collaborative-way.md)
 
 ## Patterns That Use This Element
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — teams pose questions, investigate, and share findings

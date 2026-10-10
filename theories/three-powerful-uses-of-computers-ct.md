@@ -42,7 +42,7 @@ The report organizes computational thinking integration around three uses of com
 - [Digital Promise defines computational thinking as a set of computational skills and computational practices that teachers can map onto subject-matter learning](digital-promise-ct-skills-and-practices-definition.md)
 - [A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
-- [CT–PCK construct framework: five core computational thinking practices integrated into middle school math via three instructional strategies](ct-pck-construct-framework.md)
+- [CT–PCK construct framework: five core computational thinking practices integrated into middle school math via three instructional strategies](../products/ctpck-survey.md)
 - [4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects](4p4ct-four-pedagogies-for-ct-framework.md)
 
 ## Examples

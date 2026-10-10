@@ -49,7 +49,7 @@ The article names and describes 'learning-centered learning,' a 21st-century con
 
 - [Treat other people and technology as learning resources whose selection and evaluation learners control](../principles/learners-as-learning-resources-principle.md)
 - [H-B Woodlawn Secondary School as an existing learning-centered learning environment](../elements/hb-woodlawn-student-control-school-example.md)
-- [The League for Innovation's Learning College movement as community-college reform toward learning-centeredness](../elements/learning-college-league-innovation-reform.md)
+- [The League for Innovation's Learning College movement as community-college reform toward learning-centeredness](../products/learning-college.md)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 
 ## Key Sources

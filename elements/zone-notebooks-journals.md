@@ -44,7 +44,7 @@ Zone Notebooks are learner-maintained journals built into the curriculum. "Scatt
 
 ## Related Elements
 
-- [Holding onto the GREEN Zone curriculum: an Earth Science riparian education program for grades 5-8](holding-onto-green-zone-curriculum.md)
+- [Holding onto the GREEN Zone curriculum: an Earth Science riparian education program for grades 5-8](../products/holding-onto-the-green-zone.md)
 
 ## Examples
 

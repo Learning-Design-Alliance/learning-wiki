@@ -37,7 +37,7 @@ A laboratory paradigm in which an action sequence (e.g., tennis serves) is filme
 - Anticipation of opponents' actions; decision making under time constraints; pick-up of postural cues
 
 ### Affordances
-- [Expert Performance Approach Three Stages](../theories/expert-performance-approach-three-stages.md)
+- [Expert Performance Approach Three Stages](../research-methods/expert-performance-approach.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

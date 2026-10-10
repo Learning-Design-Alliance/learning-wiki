@@ -41,7 +41,7 @@ The project's literature review organized achievement measurement into approache
 
 ## Related Theories
 
-- [Adaptive Self Referenced Testing Asrt](adaptive-self-referenced-testing-asrt.md)
+- [Adaptive Self Referenced Testing Asrt](../research-methods/adaptive-self-referenced-testing-asrt.md)
 - [Criterion-referenced versus norm-referenced tests as two distinct assessment purposes](crt-versus-nrt-assessment-purposes.md)
 
 ## Examples

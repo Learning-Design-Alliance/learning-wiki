@@ -40,7 +40,7 @@ The playbook's Data Dive section assembles six data sources parents and LSC memb
 
 ## Related Elements
 
-- [5Essentials Survey system measuring school organizational conditions](5essentials-survey-system-illinois.md)
+- [5Essentials Survey system measuring school organizational conditions](../products/5essentials-survey.md)
 
 ## Examples
 

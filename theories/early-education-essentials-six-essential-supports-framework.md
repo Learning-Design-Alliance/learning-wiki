@@ -51,14 +51,14 @@ The Early Education Essentials is a measurement and organizing framework adaptin
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
-- [The Five Essential Supports framework organizes school climate measurement into five key components of student learning](five-essential-supports-ccsr-survey-framework.md)
-- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
-- [Cultivate framework of nine classroom learning conditions plus learning strategies and beliefs](cultivate-nine-learning-conditions-framework.md)
+- [The Five Essential Supports framework organizes school climate measurement into five key components of student learning](../products/5essentials.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
+- [Cultivate framework of nine classroom learning conditions plus learning strategies and beliefs](../products/cultivate-survey.md)
 
 ## Examples
 
-- [Early Education Essentials surveys (now The Essential 0-5 Survey)](../elements/early-education-essentials-surveys.md)
-- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
+- [Early Education Essentials surveys (now The Essential 0-5 Survey)](../products/essential-0-5-survey.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../products/early-education-essentials.md)
 
 ## Key Sources
 - Pacchiano, D.M., Wagner, M.R., & Lewandowski, H., with Ehrlich, S.B. & Stein, A.G. (2018). Early Education Essentials: Illustrations of Strong Organizational Practices in Programs Poised for Improvement. Chicago, IL: The Ounce of Prevention Fund and the University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/early-education-essentials-illustrations-strong-organizational-practices-programs

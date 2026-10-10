@@ -44,11 +44,9 @@ A three-year pilot conducted by the Pennsylvania Department of Education, runnin
 
 ## Related Elements
 
-- [The Framework for Teaching observation rubric with 22 components in four domains](framework-for-teaching-22-component-rubric.md)
+- [The Framework for Teaching observation rubric with 22 components in four domains](../products/framework-for-teaching.md)
 - [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015)](pennsylvania-teacher-principal-evaluation-pilot.md)
-- [Framework for Teaching (FFT) observation instrument with 22 components scored into four domains and an overall Professional Practice Rating](fft-22-component-observation-instrument.md)
 - [Value-added models (VAMs) developed and estimated for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot](pennsylvania-pilot-phase1-vam-estimates.md)
-- [Charlotte Danielson Framework for Teaching as a classroom-observation evaluation tool](danielson-framework-for-teaching-observation-tool.md)
 
 ## Examples
 -

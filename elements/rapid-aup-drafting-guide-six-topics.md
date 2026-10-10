@@ -39,7 +39,7 @@ The deck includes a drafting guide serving as "a starting point" for districts a
 - drafting responsible and acceptable use policy language for generative AI and emerging technologies
 
 ### Affordances
-- [Six Topics Genai Responsible Use Policy Taxonomy](../theories/six-topics-genai-responsible-use-policy-taxonomy.md)
+- [Six Topics Genai Responsible Use Policy Taxonomy](../products/six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content.md)
 
 ## Claims
 

@@ -37,7 +37,7 @@ Across the four cases, organizations gained traction by aligning micro-credentia
 - continuous, competency-based educator professional growth applied in classrooms
 
 ### Affordances
-- [Micro Credential Ecosystem Three Players](../theories/micro-credential-ecosystem-three-players.md)
+- [Micro Credential Ecosystem Three Players](../products/digital-promise-micro-credential-platform.md)
 
 ## Related Strategies
 

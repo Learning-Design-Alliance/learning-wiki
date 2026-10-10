@@ -40,12 +40,11 @@ The presentation offers a compact definition of global competence: "The capacity
 
 ## Related Theories
 
-- [Challenge-Based Learning is a framework for learning while solving real-world challenges through three phases: Engage, Investigate, and Act](challenge-based-learning-three-phase-framework.md)
+- [Challenge-Based Learning is a framework for learning while solving real-world challenges through three phases: Engage, Investigate, and Act](../products/challenge-based-learning-cbl-framework.md)
 
 ## Examples
 
-- [Free CBL resource set: global competence resources and Ciena Solutions Challenge supports including a Facilitation Guide and Challenge Builder](../elements/cbl-free-resource-set-ciena-challenge.md)
-- [Ciena Solutions Challenge: a global design challenge for student CBL projects addressing the UN Sustainable Development Goals](../elements/ciena-solutions-challenge-program.md)
+- [Free CBL resource set: global competence resources and Ciena Solutions Challenge supports including a Facilitation Guide and Challenge Builder](../products/ciena-solutions-challenge.md)
 
 ## Key Sources
 - April Williamson. (2024). Challenge-Based Learning for Global Competence and Employability. Digital Promise, ISTELive Global Collaboration Playground. https://www.acteonline.org/wp-content/uploads/2022/05/Career_Readiness_Paper_COLOR.pdf

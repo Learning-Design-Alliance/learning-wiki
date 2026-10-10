@@ -50,7 +50,7 @@ The article adopts a conceptual framework in which global citizenship comprises 
 
 ## Examples
 
-- [32-item global citizenship perspectives questionnaire adapted from Morais and Ogden (2011) and Roberts and Wilson (2016)](../elements/global-citizenship-perspectives-questionnaire-32-item.md)
+- [32-item global citizenship perspectives questionnaire adapted from Morais and Ogden (2011) and Roberts and Wilson (2016)](../products/32-item-global-citizenship-perspectives-questionnaire.md)
 - [Adapt global citizenship scale items to the local context and validate component models separately with PLS-SEM](../strategies/adapt-global-citizenship-items-local-context-pls-sem.md)
 
 ## Key Sources

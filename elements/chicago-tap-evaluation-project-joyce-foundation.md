@@ -50,9 +50,7 @@ The evaluation of the Chicago Teacher Advancement Program was a multi-year proje
 ## Related Elements
 
 - [Independent impact evaluation by Mathematica Policy Research](mpr-independent-impact-evaluation.md)
-- [Teacher Advancement Program (TAP) whole-school intervention](tap-whole-school-teacher-intervention.md)
-- [Teacher Advancement Program (TAP): performance pay, professional development, and advancement opportunities tied to student achievement growth](teacher-advancement-program-tap-chicago.md)
-- [Teacher Advancement Program (TAP): a whole-school teacher evaluation, compensation, and professional development model](tap-teacher-advancement-program-whole-school-model.md)
+- [Teacher Advancement Program (TAP) whole-school intervention](../products/tap-system.md)
 
 ## Examples
 -

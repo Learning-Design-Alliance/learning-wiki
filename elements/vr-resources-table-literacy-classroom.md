@@ -43,7 +43,7 @@ Table 1 of the article compiles VR websites and apps with addresses and descript
 ## Related Elements
 
 - [Google Cardboard and smartphone-based VR as an inexpensive classroom VR setup](google-cardboard-low-cost-vr-setup.md)
-- [Google Expeditions Pioneer Program: free virtual field trip kits for schools](google-expeditions-pioneer-program.md)
+- [Google Expeditions Pioneer Program: free virtual field trip kits for schools](../products/google-expeditions.md)
 
 ## Examples
 

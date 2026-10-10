@@ -15,16 +15,16 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 ### [Principles](principles/index.md) (375)
 Research-backed design commitments: what to do and why.
 
-### [Elements](elements/index.md) (2174)
+### [Elements](elements/index.md) (1080)
 Instructional building blocks — the components you compose into patterns.
 
 ### [Patterns](patterns/index.md) (126)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (378)
+### [Designs](designs/index.md) (241)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (137)
+### [Products & Programmes](products/index.md) (1037)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
 ### [Strategies](strategies/index.md) (4546)
@@ -36,10 +36,10 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (39)
+### [Research Methods](research-methods/index.md) (210)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-### [Theories](theories/index.md) (1686)
+### [Theories](theories/index.md) (1372)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)

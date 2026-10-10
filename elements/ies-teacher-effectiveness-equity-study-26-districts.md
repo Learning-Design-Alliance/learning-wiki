@@ -38,7 +38,7 @@ The study underlying the snapshot covers "fourth- to eighth-grade teachers over 
 
 ## Related Elements
 
-- [26-district teacher effectiveness dataset covering grades 4-8 over five school years (2008-2009 to 2012-2013)](26-district-teacher-effectiveness-dataset.md)
+- [26-district teacher effectiveness dataset covering grades 4-8 over five school years (2008-2009 to 2012-2013)](../products/26-district-teacher-effectiveness-dataset-covering-grades-4-8-over-five-school-years-2008.md)
 
 ## Examples
 -

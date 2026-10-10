@@ -44,7 +44,7 @@ The What Works Clearinghouse is an initiative through which systematic reviews a
 ## Related Elements
 
 - [Mathematica Center for Improving Research Evidence issue brief on conducting high quality systematic reviews](cire-systematic-review-recommendations-issue-brief.md)
-- [What Works Clearinghouse (WWC) database of reviewed studies](wwc-database-of-reviewed-studies.md)
+- [What Works Clearinghouse (WWC) database of reviewed studies](../products/what-works-clearinghouse-wwc-database-of-reviewed-studies.md)
 
 ## Examples
 

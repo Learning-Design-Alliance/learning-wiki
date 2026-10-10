@@ -42,7 +42,7 @@ Before revising responsible/acceptable use policies, districts should establish 
 - participating in AI policy development and co-learning about emerging technologies
 
 ### Affordances
-- [Six Topics Genai Responsible Use Policy Taxonomy](../theories/six-topics-genai-responsible-use-policy-taxonomy.md)
+- [Six Topics Genai Responsible Use Policy Taxonomy](../products/six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content.md)
 
 ## Related Strategies
 

@@ -43,7 +43,7 @@ The report's learning-theories theme treats three areas: collaborative learning,
 
 - [Ambitious mashups: cyberlearning projects combine novel technologies, theories, methods, and equity goals in frontier-oriented integrations](ambitious-mashups-concept.md)
 - [Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars](cyberlearning-ai-four-technology-types.md)
-- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](cyberlearning-research-methods-three-approaches.md)
+- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](../research-methods/design-based-research-learning-analytics-and-multimodal-analytics.md)
 - [Six emerging design genres organize cyberlearning design research](cyberlearning-six-design-genres.md)
 
 ## Examples

@@ -43,7 +43,7 @@ Drawing on Mezirow's two dimensions of awareness and Lakoff and Johnson's concep
 
 ## Examples
 
-- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../designs/chormmunity-workshop-arc-pattern.md)
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../products/chormmunity.md)
 - [Intentionally activate symbols so they assist transformative learning](../strategies/intentionally-activate-symbols-for-learning.md)
 
 ## Key Sources

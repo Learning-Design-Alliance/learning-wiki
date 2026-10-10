@@ -3,7 +3,7 @@ type: revisions
 page: ../elements/seernet-dlp-research-infrastructure-network.md
 ---
 
-# Revision history: [elements/seernet-dlp-research-infrastructure-network](../elements/seernet-dlp-research-infrastructure-network.md)
+# Revision history: [elements/seernet-dlp-research-infrastructure-network](../products/seernet.md)
 
 ### 2026-10-09 · ingest · process:wiki-ingest
 Ingested from hub-383 (Expected and Emerging Requirements for Digital Learning Platforms as Research Infrastructure) via eval_harness.py + ingest_extractions.py

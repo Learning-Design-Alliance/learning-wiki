@@ -45,8 +45,8 @@ A companion artifact released Nov 21, 2019 by the same authors, titled "Strategi
 - [Early Grades Chronic Absenteeism Fact Sheet](early-grades-chronic-absenteeism-fact-sheet.md)
 - [Attendance poster/infographic for pre-kindergarten and kindergarten audiences](early-attendance-importance-poster-infographic.md)
 - [Fact sheet guiding districts and schools on early-grade attendance strategies](early-grade-attendance-fact-sheet-nj.md)
-- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](prek-kindergarten-attendance-toolkit.md)
-- [Go-Learn-Grow toolkit for improving pre-kindergarten and kindergarten attendance](go-learn-grow-attendance-toolkit.md)
+- [Companion toolkit for improving attendance in pre-kindergarten and kindergarten](../products/strategies-for-improving-attendance-in-pre-kindergarten-and-kindergarten.md)
+- [Go-Learn-Grow toolkit for improving pre-kindergarten and kindergarten attendance](../products/go-learn-grow.md)
 - [Fact sheet on chronic absenteeism in pre-kindergarten and kindergarten for New Jersey districts and school leaders](nj-early-grades-chronic-absenteeism-fact-sheet.md)
 - [Parent-facing infographic on the importance of pre-kindergarten and kindergarten attendance](parent-infographic-prek-kindergarten-attendance-importance.md)
 

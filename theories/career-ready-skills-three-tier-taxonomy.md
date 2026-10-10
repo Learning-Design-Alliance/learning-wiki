@@ -40,7 +40,7 @@ Drawing on a Career Readiness Paper from ACTE (source URL printed on the slide),
 
 ## Related Theories
 
-- [The Future Ready Talent Framework (FRTF): a 12-talent, 4-cluster conceptual model for WIL stakeholders](future-ready-talent-framework-frtf.md)
+- [The Future Ready Talent Framework (FRTF): a 12-talent, 4-cluster conceptual model for WIL stakeholders](../products/future-ready-talent-framework.md)
 - [Four-type taxonomy of college- and career-readiness interventions with ESSA-tier evidence](four-types-college-career-readiness-interventions-taxonomy.md)
 
 ## Examples

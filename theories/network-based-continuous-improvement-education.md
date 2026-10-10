@@ -53,9 +53,8 @@ Network-based continuous improvement (CI) is an approach in which "a network of 
 
 ## Related Theories
 
-- [Improvement Science is a systematic approach to identifying and solving educational problems through iterative testing, data collection, reflection and refinement](improvement-science-systematic-iterative-approach.md)
-- [The six principles of Improvement Science: problem-focused, variation, system analysis, measurement, disciplined inquiry, and networked improvement communities](six-principles-improvement-science.md)
-- [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](nsi-conceptual-framework-networked-ci.md)
+- [Improvement Science is a systematic approach to identifying and solving educational problems through iterative testing, data collection, reflection and refinement](../research-methods/improvement-science.md)
+- [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](../products/networks-for-school-improvement-nsi.md)
 
 ## Examples
 

@@ -51,7 +51,7 @@ Effort-moderated (E-M) scoring is a scoring approach for low-stakes tests in whi
 
 ## Related Elements
 
-- [Two techniques for accounting for test disengagement: sample removal and rapid-guess score adjustment](two-disengagement-accounting-techniques.md)
+- [Two techniques for accounting for test disengagement: sample removal and rapid-guess score adjustment](../research-methods/test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction.md)
 
 ## Examples
 -

@@ -40,7 +40,7 @@ Participants recommended making deliberate connections between student experienc
 
 ## Related Strategies
 
-- [Cultivate Survey Reporting Site](../elements/cultivate-survey-reporting-site.md)
+- [Cultivate Survey Reporting Site](../products/cultivate-survey.md)
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
 - [Align school and community partner SEL efforts through common language and coordinated communication](community-partner-sel-alignment.md)
 

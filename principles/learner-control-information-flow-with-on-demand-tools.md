@@ -46,8 +46,8 @@ The article argues interactive video's power lies in providing context and conte
 
 ## Examples
 
-- [Flight SOS interactive video program](../elements/flight-sos-interactive-video.md)
-- [Montevidisco conversational simulator](../elements/montevidisco-conversational-simulator.md)
+- [Flight SOS interactive video program](../products/flight-sos.md)
+- [Montevidisco conversational simulator](../products/montevidisco.md)
 
 ## Key Sources
 - Gale, Larrie E.; Brown, Bruce L. (1985). A Theory of Learning and Skill-Acquisition Applied to Interactive Video: Activities at the David O. McKay Institute, Brigham Young University. In Gillespie, Junetta B., Ed. Video and Second Language Learning. Urbana, Language Learning Laboratory, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED278252

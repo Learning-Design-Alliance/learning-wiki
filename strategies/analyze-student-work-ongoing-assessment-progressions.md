@@ -39,7 +39,7 @@ The article describes OGAP's core instructional strategy: teachers are trained "
 - Guiding mathematics instruction in real-time and over time
 
 ## Related Strategies
-- [Ogap Math Professional Learning System](../elements/ogap-math-professional-learning-system.md)
+- [Ogap Math Professional Learning System](../products/ogap-math.md)
 
 ## Examples
 -

@@ -45,7 +45,7 @@ The essay describes Goffman's method of inquiry, "serious ethnography" or ethnom
 
 - [Goffman Dramaturgical Front Back Self Model](goffman-dramaturgical-front-back-self-model.md)
 - [Symbolic interactionism: individuals and society as inseparable, held together by changing shared symbols](symbolic-interactionism-shared-symbols-framework.md)
-- [Narrative inquiry as a research method studies the ways humans experience the world through stories](narrative-inquiry-experience-based-research-method.md)
+- [Narrative inquiry as a research method studies the ways humans experience the world through stories](../research-methods/narrative-inquiry.md)
 
 ## Examples
 

@@ -51,8 +51,8 @@ The article organizes thinking styles measurement around Sternberg's Theory of M
 
 ## Examples
 
-- [Sternberg's intellectual styles inventory under validation](../elements/intellectual-styles-inventory.md)
-- [Situational thinking styles scale for sixth grade students with computer program package and manual](../elements/thai-sixth-grade-thinking-styles-scale.md)
+- [Sternberg's intellectual styles inventory under validation](../products/sternbergs-intellectual-styles-inventory.md)
+- [Situational thinking styles scale for sixth grade students with computer program package and manual](../products/situational-thinking-styles-scale-for-sixth-grade-students.md)
 
 ## Key Sources
 - Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com

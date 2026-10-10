@@ -45,7 +45,7 @@ Accelerated middle schools are self-contained academic programs for middle schoo
 
 ## Related Elements
 
-- [ALAS dropout prevention program](alas-dropout-prevention-program.md)
+- [ALAS dropout prevention program](../products/alas-dropout-prevention-program.md)
 
 ## Examples
 -

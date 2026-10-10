@@ -38,11 +38,11 @@ Section Two of the guide is a fillable template where teachers "capture the most
 - Planning goals and accommodations from strengths
 
 ### Affordances
-- [Learner Variability Whole Child Framework](../theories/learner-variability-whole-child-framework.md)
+- [Learner Variability Whole Child Framework](../products/learner-variability-project.md)
 
 ## Related Elements
 
-- [Learner Variability Navigator (LVN) web app curating factors of learning and strategies](lvp-digitalpromiseglobal-navigator-tool.md)
+- [Learner Variability Navigator (LVN) web app curating factors of learning and strategies](../products/learner-variability-project.md)
 
 ## Examples
 

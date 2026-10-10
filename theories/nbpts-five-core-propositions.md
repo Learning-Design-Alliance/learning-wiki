@@ -47,7 +47,7 @@ The National Board for Professional Teaching Standards proposes five core propos
 ## Examples
 
 - A National Board Certification portfolio requiring evidence against each of the five propositions, not just a demonstration of subject knowledge
-- [National Board for Professional Teaching Standards (NBPTS) certification process](../elements/nbpts-national-board-certification-process.md)
+- [National Board for Professional Teaching Standards (NBPTS) certification process](../products/national-board-certification.md)
 
 ## Key Sources
 - National Board for Professional Teaching Standards. (2016). *What teachers should know and be able to do*. Retrieved from http://accomplishedteacher.org/wp-content/uploads/2016/12/NBPTS-What-Teachers-Should-Know-and-Be-Able-to-Do-.pdf

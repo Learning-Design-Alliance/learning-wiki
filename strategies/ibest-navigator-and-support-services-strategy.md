@@ -37,11 +37,11 @@ Beyond integrated instruction, I-BEST provides a bundle of non-instructional sup
 - Persistence and engagement in training through program completion
 
 ### Affordances
-- [Ibest Integrated Contextualized Instruction Model](../theories/ibest-integrated-contextualized-instruction-model.md)
+- [Ibest Integrated Contextualized Instruction Model](../products/i-best.md)
 
 ## Related Strategies
 
-- [Ibest Program Element](../elements/ibest-program-element.md)
+- [Ibest Program Element](../products/i-best.md)
 - [Mobilize community colleges to address low-income students' basic needs and financial stability to support completion](college-mobilization-basic-needs-financial-stability.md)
 - [Provide navigator support through enrollment and financial aid, plus continued support after enrollment](navigator-support-enrollment-financial-aid-adults.md)
 - [Combine full-time occupational enrollment with intrusive advising, financial support, and basic skills instruction](project-quest-support-components-strategy.md)

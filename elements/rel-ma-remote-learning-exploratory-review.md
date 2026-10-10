@@ -46,7 +46,7 @@ An exploratory research review published by Regional Educational Laboratory Mid-
 
 ## Related Elements
 
-- [Evidence to Insights (e2i) Coach: a free online platform for testing what works in remote learning](e2i-coach-platform.md)
+- [Evidence to Insights (e2i) Coach: a free online platform for testing what works in remote learning](../products/evidence-to-insights-e2i-coach.md)
 - [Considerations for Reopening Pennsylvania Schools (REL Mid-Atlantic publication, June 2020)](considerations-reopening-pennsylvania-schools-publication.md)
 
 ## Examples

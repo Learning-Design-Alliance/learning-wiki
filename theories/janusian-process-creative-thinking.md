@@ -42,7 +42,7 @@ The Janusian process is defined in the article as "actively conceiving multiple 
 
 ## Related Theories
 
-- [Creact Teaching Tool](creact-teaching-tool.md)
+- [Creact Teaching Tool](../products/creact.md)
 - [Janusian thinking: holding contradictory thoughts simultaneously underlies creative breakthroughs and cognitive flexibility](janusian-thinking-paradoxical-cognition.md)
 
 ## Examples

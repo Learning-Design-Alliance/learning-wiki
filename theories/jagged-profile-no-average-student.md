@@ -44,8 +44,7 @@ Drawing on Todd Rose's The End of Average (2016), the paper argues there is no s
 
 - [Jagged profiles concept of learner variability](jagged-profiles-concept.md)
 - [Learner variability and jagged profiles as the foundation for personalized learning](learner-variability-jagged-profiles-foundation.md)
-- [Digital Promise's learner variability framework: every learner has a jagged learning profile across four domains](learner-variability-four-domains-digital-promise.md)
-- [Learner Positioning Systems and Learner Models framework](learner-positioning-systems-framework.md)
+- [Digital Promise's learner variability framework: every learner has a jagged learning profile across four domains](../products/learner-variability-project.md)
 
 ## Examples
 -

@@ -38,7 +38,7 @@ The article recommends that a professional community access the LoA on an ongoin
 - data-informed collaborative decision-making about adoption of innovative practices to enhance teaching and learning
 
 ### Affordances
-- [Loa Survey Instrument Cbam Adaptation](../theories/loa-survey-instrument-cbam-adaptation.md)
+- [Loa Survey Instrument Cbam Adaptation](../products/level-of-adoption-loa-survey.md)
 
 ## Related Strategies
 

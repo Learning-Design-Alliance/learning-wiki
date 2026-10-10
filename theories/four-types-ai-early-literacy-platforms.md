@@ -50,8 +50,8 @@ The report organizes the AI embedded in early literacy products into four types:
 - [Dictation/Speech-to-text](../strategies/dictation-speech-to-text.md)
 - [Speech-to-text](../elements/speech-to-text.md)
 - [Google voice typing in Google Docs as a free ASR-based L2 writing tool](../elements/google-voice-typing-l2-writing-tool.md)
-- [TeachFX 300-hour manually transcribed classroom audio dataset for equitable ASR research](../elements/teachfx-300-hour-classroom-audio-dataset.md)
-- [Amira AI reading tutor](../elements/amira-ai-reading-tutor.md)
+- [TeachFX 300-hour manually transcribed classroom audio dataset for equitable ASR research](../products/teachfx-300-hour-manually-transcribed-classroom-audio-dataset.md)
+- [Amira AI reading tutor](../products/amira.md)
 
 ## Key Sources
 - Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60

@@ -47,7 +47,7 @@ Beginning in 2007, the District of Columbia implemented a systemic reform of edu
 
 ## Related Elements
 
-- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
+- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../products/value-added-assessment-system-for-dc-schools-and-teachers.md)
 
 ## Examples
 

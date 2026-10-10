@@ -47,7 +47,7 @@ A descriptive typology table produced from exit interviews with 39 principals in
 ## Related Elements
 
 - [Excellence in Teaching Project (EITP): Danielson Framework-based principal observation and conferencing system](eitp-danielson-observation-conference-system.md)
-- [Charlotte Danielson Framework for Teaching as a classroom-observation evaluation tool](danielson-framework-for-teaching-observation-tool.md)
+- [Charlotte Danielson Framework for Teaching as a classroom-observation evaluation tool](../products/framework-for-teaching.md)
 
 ## Examples
 -

@@ -50,8 +50,7 @@ GoCPS assigns students via a deferred acceptance process: each student is tempor
 
 ## Examples
 
-- [GoCPS centralized application and single-best-offer platform](../elements/gocps-centralized-enrollment-platform.md)
-- [GoCPS centralized online high school application platform](../elements/gocs-centralized-application-platform.md)
+- [GoCPS centralized application and single-best-offer platform](../products/gocps.md)
 
 ## Key Sources
 - Lisa Barrow, Lauren Sartain, & Marisa de la Torre. (2018). GoCPS: A First Look at Applications and Offers. https://consortium.uchicago.edu/publications/gocps-first-look-applications-and-offers

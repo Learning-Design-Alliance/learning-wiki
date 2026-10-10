@@ -49,7 +49,7 @@ The Kauffman School is described as "a public, tuition-free charter school servi
 
 ## Related Elements
 
-- [Kauffman Matched Comparison Evaluation Design](kauffman-matched-comparison-evaluation-design.md)
+- [Kauffman Matched Comparison Evaluation Design](../research-methods/virtual-comparison-group-construction-via-database-matching.md)
 - [Ewing Marion Kauffman Charter School](ewing-marion-kauffman-charter-school.md)
 - [Ewing Marion Kauffman charter school in Kansas City, founded by the Kauffman Foundation](kauffman-school-urban-charter-kansas-city.md)
 - [Ewing Marion Kauffman Charter School Evaluation (Mathematica, 2011-2024)](kauffman-charter-school-evaluation-mathematica.md)

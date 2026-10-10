@@ -49,7 +49,7 @@ The program is grounded in restorative practices, operationalized through 11 ess
 
 ## Examples
 
-- [SaferSanerSchools™ Whole-School Change program](../elements/safersanschools-whole-school-change-program.md)
+- [SaferSanerSchools™ Whole-School Change program](../products/safersanerschools-whole-school-change.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](../strategies/school-implementation-team-monthly-training-support.md)
 - [Restorative Approaches](../strategies/restorative-approaches.md)
 - [Restorative Justice Conferencing](../strategies/restorative-justice-conferencing.md)

@@ -39,7 +39,7 @@ In response to evaluation findings, WestEd's team generated recommendations for 
 - Access to an affordable, supportive, rigorous pathway into teaching; retention of well-prepared teachers in high-need credential areas
 
 ### Affordances
-- [Teacher Residency Model Lea Ihe Partnership](../designs/teacher-residency-model-lea-ihe-partnership.md)
+- [Teacher Residency Model Lea Ihe Partnership](../products/teacher-residency-model.md)
 
 ## Related Strategies
 - 

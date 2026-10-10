@@ -52,7 +52,7 @@ CLASP organizes its one-year curriculum around a set of 27 models — collection
 
 ## Examples
 
-- [CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors](../elements/clasp-course-series-uc-davis.md)
+- [CLASP course series (Physics 7A/7B/7C): a large-enrollment reformed introductory physics course for bioscience majors](../products/clasp.md)
 
 ## Key Sources
 - Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970

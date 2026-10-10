@@ -45,7 +45,7 @@ A baseline survey of principals and vice principals in the three EPIC sites coll
 ## Related Elements
 
 - [Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative](epic-evaluation-design-report.md)
-- [Effective Practice Incentive Community (EPIC) incentive program](epic-incentive-program-element.md)
+- [Effective Practice Incentive Community (EPIC) incentive program](../products/effective-practice-incentive-community-epic-incentive-program.md)
 
 ## Examples
 -

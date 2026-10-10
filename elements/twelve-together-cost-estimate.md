@@ -38,7 +38,7 @@ Independent researchers estimated the cost of Twelve Together in Chula Vista, Ca
 
 ## Related Elements
 
-- [Twelve Together peer support and mentoring program](twelve-together-program-element.md)
+- [Twelve Together peer support and mentoring program](../products/twelve-together.md)
 
 ## Examples
 -

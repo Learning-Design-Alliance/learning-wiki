@@ -39,7 +39,7 @@ The article documents a strategy in which researchers facing common collaborativ
 
 ## Related Strategies
 
-- [Research Alliance Engagement Model](../theories/research-alliance-engagement-model.md)
+- [Research Alliance Engagement Model](../products/regional-educational-laboratory-rel-program.md)
 - [Professional Learning Communities](professional-learning-communities.md)
 
 ## Examples

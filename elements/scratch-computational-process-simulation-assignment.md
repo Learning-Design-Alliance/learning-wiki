@@ -48,7 +48,7 @@ The examined artifact is a course summative assignment in which prospective teac
 
 ## Related Elements
 
-- [Scratch block-based programming language and sharing ecosystem](scratch-block-programming-ecosystem.md)
+- [Scratch block-based programming language and sharing ecosystem](../products/scratch.md)
 
 ## Examples
 

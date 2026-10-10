@@ -47,7 +47,7 @@ A course-level pattern in which middle school students explore career fields thr
 
 ## Examples
 
-- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
+- [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../products/louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md)
 
 ## Key Sources
 - Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541

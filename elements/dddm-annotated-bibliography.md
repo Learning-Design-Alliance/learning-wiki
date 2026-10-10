@@ -37,7 +37,7 @@ The report includes an annotated bibliography of the literature used to inform t
 - understanding the literature base on data use in education
 
 ### Affordances
-- [Dddm Conceptual Framework Education](../theories/dddm-conceptual-framework-education.md)
+- [Dddm Conceptual Framework Education](../products/conceptual-framework-for-data-driven-decision-making-in-education.md)
 
 ## Claims
 

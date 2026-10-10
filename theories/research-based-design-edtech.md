@@ -44,15 +44,15 @@ Research-based design is the organizing account of this report: edtech quality i
 
 ## Related Theories
 
-- [A four-type hierarchy of evidence for judging educational technology effectiveness, ordered from weakest to strongest](four-types-evidence-hierarchy-technology-effectiveness.md)
-- [Five EdTech Quality Indicators framework for evaluating edtech products](five-edtech-quality-indicators-framework.md)
+- [A four-type hierarchy of evidence for judging educational technology effectiveness, ordered from weakest to strongest](../research-methods/a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness.md)
+- [Five EdTech Quality Indicators framework for evaluating edtech products](../products/five-edtech-quality-indicators.md)
 
 ## Examples
 
-- [Digital Promise Research-Based Design Product Certification](../elements/research-based-design-product-certification.md)
+- [Digital Promise Research-Based Design Product Certification](../products/digital-promise-research-based-design-product-certification.md)
 - [Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools](../strategies/backwards-design-from-research-based-goal.md)
-- [Digital Promise Product Certifications Pilot and Learning Sciences Research-Based Design certification](../elements/digital-promise-product-certifications-pilot.md)
-- [Digital Promise Product Certifications ecosystem](../elements/digital-promise-product-certifications.md)
+- [Digital Promise Product Certifications Pilot and Learning Sciences Research-Based Design certification](../products/digital-promise-product-certifications-pilot.md)
+- [Digital Promise Product Certifications ecosystem](../products/digital-promise-product-certifications.md)
 
 ## Key Sources
 - Van Nostrand, P., Noakes, S., Shah, Z., & Luke Luna C. (2022, February). An overlooked indicator of edtech quality: The use of learning sciences research. Digital Promise. https://doi.org/10.51388/20.500.12265/150

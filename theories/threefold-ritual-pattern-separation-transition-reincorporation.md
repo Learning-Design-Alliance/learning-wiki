@@ -44,7 +44,7 @@ The paper describes African initiation ceremonies as following a three-part ritu
 
 ## Examples
 
-- [Simba Wachanga rites-of-passage program for African-American boys](../elements/simba-wachanga-rites-of-passage-program.md)
+- [Simba Wachanga rites-of-passage program for African-American boys](../products/simba-wachanga.md)
 - [Admission structured as a rite of passage combining rituals and constructivist therapy](../designs/admission-as-rite-of-passage-pattern.md)
 - [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
 

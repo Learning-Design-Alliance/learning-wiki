@@ -42,8 +42,8 @@ The toolkit includes a journey map template that visualizes a learner's experien
 ## Related Elements
 
 - [Goal-Question-Metrics (GQM) framework adapted for IUX research on LER technologies](gqm-framework-iux-ler-tool.md)
-- [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](cbsl-strategic-learning-capacity-toolkit.md)
-- [Toolkit for Building a Virtual Learning Cohort with ten transferable planning tools](virtual-learning-cohort-toolkit.md)
+- [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](../products/toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary-led-cohort-of.md)
+- [Toolkit for Building a Virtual Learning Cohort with ten transferable planning tools](../products/toolkit-for-building-a-virtual-learning-cohort.md)
 
 ## Examples
 

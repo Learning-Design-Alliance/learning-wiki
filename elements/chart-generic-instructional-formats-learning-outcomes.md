@@ -37,7 +37,7 @@ Chart No. 1 presents the author's proposed analysis of the black box called the 
 - linking instructional formats to cognitive, affective, and psychomotor learning outcomes
 
 ### Affordances
-- [Black Box Analysis Instruction Learning Interface](../theories/black-box-analysis-instruction-learning-interface.md)
+- [Black Box Analysis Instruction Learning Interface](../research-methods/black-box-analysis-of-educational-processes.md)
 
 ## Claims
 

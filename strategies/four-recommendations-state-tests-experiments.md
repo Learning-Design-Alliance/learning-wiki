@@ -37,7 +37,7 @@ The paper's concluding chapter distills its guidance into four numbered recommen
 - Valid and reliable estimation of intervention impacts using state assessment data
 
 ### Affordances
-- [Suitability Feasibility Framework State Tests Rct](../theories/suitability-feasibility-framework-state-tests-rct.md)
+- [Suitability Feasibility Framework State Tests Rct](../research-methods/suitability-and-feasibility-framework-for-deciding-whether-to-use-state-tests-in-education.md)
 
 ## Related Strategies
 - 

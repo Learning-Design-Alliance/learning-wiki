@@ -38,7 +38,7 @@ The Gates Foundation funded four initiatives promoting strategic use of data at 
 - strategic use of data for educational decision making
 
 ### Affordances
-- [Dddm Conceptual Framework Education](../theories/dddm-conceptual-framework-education.md)
+- [Dddm Conceptual Framework Education](../products/conceptual-framework-for-data-driven-decision-making-in-education.md)
 
 ## Related Strategies
 - 

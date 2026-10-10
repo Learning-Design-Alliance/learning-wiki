@@ -38,7 +38,7 @@ The review's staffing guidance recommends that implementation succeed when every
 
 ## Related Strategies
 
-- [Imse Morphology Plus Program](../elements/imse-morphology-plus-program.md)
+- [Imse Morphology Plus Program](../products/morphology.md)
 - [Train all staff who deliver the foundational literacy block in IMSE OG+](train-all-foundational-block-staff-og-plus.md)
 
 ## Examples

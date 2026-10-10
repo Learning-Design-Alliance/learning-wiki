@@ -48,7 +48,7 @@ Feuerstein's theory holds that human beings can be changed cognitively throughou
 
 ## Examples
 
-- [Instrumental Enrichment program](../elements/instrumental-enrichment-program.md)
+- [Instrumental Enrichment program](../products/instrumental-enrichment.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources

@@ -37,7 +37,7 @@ The article recommends LoU Interview data as a practical tool for change agents:
 - facilitating, monitoring, and evaluating educational change and implementation
 
 ### Affordances
-- [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
+- [Levels Of Use Innovation Eight Level Framework](../products/concerns-based-adoption-model.md)
 
 ## Related Strategies
 

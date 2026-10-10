@@ -37,7 +37,7 @@ In the conclusion the article proposes that the I3P model's results "can be tran
 - Formation and consolidation of professional learning communities and transformation of individualistic teaching culture into collaboration
 
 ### Affordances
-- [I3P Open Innovation Plc Model](../theories/i3p-open-innovation-plc-model.md)
+- [I3P Open Innovation Plc Model](../products/i3p.md)
 
 ## Related Strategies
 - 

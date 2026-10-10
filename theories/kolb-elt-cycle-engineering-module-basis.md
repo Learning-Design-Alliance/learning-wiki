@@ -49,7 +49,7 @@ The article adopts Kolb's experiential learning theory (ELT) as the fundamental 
 ## Examples
 
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
-- [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../elements/ansys-workbench-heat-transfer-learning-aid.md)
+- [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../products/ansys-workbench.md)
 - [Six-part section structure for FEA-based experiential learning modules](../designs/fea-module-six-part-section-structure.md)
 
 ## Key Sources

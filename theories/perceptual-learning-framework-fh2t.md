@@ -44,8 +44,7 @@ The Graspable Math team used the theory of Perceptual Learning to develop FH2T, 
 
 ## Examples
 
-- [From Here to There (FH2T): a game-based application teaching algebra through discovery-based puzzles with manipulable symbols and immediate feedback](../elements/fh2t-game-based-algebra-application.md)
-- [From Here to There (FH2T) digital game for algebraic expressions and equation solving](../elements/fh2t-digital-algebra-game.md)
+- [From Here to There (FH2T): a game-based application teaching algebra through discovery-based puzzles with manipulable symbols and immediate feedback](../products/fh2t.md)
 - [Expression-transformation puzzle: match a starting expression to an equivalent target form via valid operations](../designs/expression-transformation-target-matching-pattern.md)
 
 ## Key Sources

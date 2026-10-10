@@ -38,7 +38,7 @@ Reading Recovery® defines a mastery-based exit criterion rather than a fixed pr
 
 ## Related Strategies
 
-- [Reading Recovery Program Element](../elements/reading-recovery-program-element.md)
+- [Reading Recovery Program Element](../products/reading-recovery.md)
 - [Mastery Learning](mastery-learning.md)
 - [Mastery Based Progression](mastery-based-progression.md)
 

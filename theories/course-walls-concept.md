@@ -43,7 +43,7 @@ Course Walls are defined as "areas of the course's lesson sequence wherein the s
 
 ## Related Theories
 
-- [The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses](student-momentum-indicator-theory.md)
+- [The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses](../research-methods/student-momentum-indicator.md)
 
 ## Examples
 

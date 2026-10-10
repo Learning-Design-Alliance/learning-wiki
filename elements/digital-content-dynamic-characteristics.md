@@ -46,7 +46,7 @@ The report enumerates the dynamic characteristics that make digital content esse
 
 ## Examples
 
-- [InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming](../elements/inksurvey-pen-enabled-brainstorming.md)
+- [InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming](../products/inksurvey.md)
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](../strategies/dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Key Sources

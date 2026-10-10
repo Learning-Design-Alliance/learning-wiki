@@ -47,7 +47,7 @@ This artifact is a school-specific tracking report that follows one elementary s
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](../claims/cps-systemwide-first-year-on-track-percentages.md) [~W]
 
 ## Related Elements
-- [On Track Indicator Measure](on-track-indicator-measure.md)
+- [On Track Indicator Measure](../products/freshman-ontrack.md)
 
 ## Examples
 -

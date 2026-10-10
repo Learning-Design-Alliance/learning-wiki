@@ -44,8 +44,8 @@ The article's central framework holds that principals of improving Chicago eleme
 ## Related Theories
 
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
-- [Five Essential Supports framework for organizing school improvement measures](five-essential-supports-student-learning-framework.md)
-- [The Fund's theory of action: concentrating talented teachers and leaders in a school moves it toward improvement](fund-theory-of-action-talent-concentration.md)
+- [Five Essential Supports framework for organizing school improvement measures](../products/5essentials.md)
+- [The Fund's theory of action: concentrating talented teachers and leaders in a school moves it toward improvement](../products/chicago-public-education-fund.md)
 
 ## Examples
 

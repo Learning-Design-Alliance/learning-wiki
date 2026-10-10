@@ -40,11 +40,11 @@ The guide organizes implementation measurement around three indicators: usabilit
 
 ## Related Theories
 
-- [Four-phase evidence-building framework for designing and testing education solutions](four-phase-evidence-building-framework-me-checklist.md)
+- [Four-phase evidence-building framework for designing and testing education solutions](../products/me-checklist.md)
 
 ## Examples
 
-- [Guide to Measuring Implementation: The 3Us — a practical measurement guidance resource](../elements/guide-to-measuring-implementation-3us-resource.md)
+- [Guide to Measuring Implementation: The 3Us — a practical measurement guidance resource](../products/guide-to-measuring-implementation-the-3us.md)
 - [Measure usability, usefulness, and utilization during development and early implementation](../strategies/measure-3us-during-development-and-early-implementation.md)
 
 ## Key Sources

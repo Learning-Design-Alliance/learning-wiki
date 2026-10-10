@@ -45,12 +45,12 @@ The presentation proposes a three-stage developmental model for how a district C
 - [Four interrelated factors drive progression between developmental stages: maturation, experience, social interaction, and equilibration](piaget-four-factors-stage-progression.md)
 - [Tools, Themes, and Competencies framework for organizing a CT/CS pathway](tools-themes-competencies-framework.md)
 - [Culturally sustaining pedagogy as a fourth 'C' in computing education pathways](culturally-sustaining-pedagogy-fourth-c.md)
-- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](rd-practice-dimensions-six-rubric.md)
+- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](../products/six-rd-practice-dimensions-framework.md)
 
 ## Examples
 
 - [Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials](../strategies/three-year-pathway-development-activities.md)
-- [CT Pathways Toolkit for district design of K-12 CS/CT pathways](../elements/ct-pathways-toolkit.md)
+- [CT Pathways Toolkit for district design of K-12 CS/CT pathways](../products/computational-thinking-pathways.md)
 - [Commit at the district level to computing pathways that are cumulative, consistent, and competency-based across K-12 schools](../strategies/district-level-ct-pathways-commitment.md)
 
 ## Key Sources

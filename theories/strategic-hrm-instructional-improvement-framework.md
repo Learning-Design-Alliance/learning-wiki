@@ -45,7 +45,7 @@ Strategic HRM integrates various human resource management practices to enable a
 
 ## Related Theories
 
-- [Equity-centered strategic learning as an organizational capacity framework](equity-centered-strategic-learning-framework.md)
+- [Equity-centered strategic learning as an organizational capacity framework](../products/capacity-building-for-strategic-learning-cbsl-pilot.md)
 - [Performance Technology](performance-technology.md)
 - [Equity-centered strategic learning as a four-part organizational capability](equity-centered-strategic-learning-definition.md)
 - [Conceptual framework of training transfer in neurosurgical specialty nurse education](neurosurgical-nurse-training-transfer-conceptual-framework.md)

@@ -55,7 +55,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 
 ## Examples
 
-- [BKT RNN: a fast, flexible PyTorch recurrent neural network implementation of Bayesian Knowledge Tracing](../elements/bkt-rnn-pytorch-implementation.md)
+- [BKT RNN: a fast, flexible PyTorch recurrent neural network implementation of Bayesian Knowledge Tracing](../research-methods/bkt-rnn.md)
 
 ## Key Sources
 - Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106

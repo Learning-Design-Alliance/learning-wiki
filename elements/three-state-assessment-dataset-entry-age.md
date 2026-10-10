@@ -38,7 +38,7 @@ The study draws on what the authors call "rich assessment data from three states
 - Measuring academic achievement and growth in early elementary grades
 
 ### Affordances
-- [Rd Piecewise Growth Model Entry Age](../theories/rd-piecewise-growth-model-entry-age.md)
+- [Rd Piecewise Growth Model Entry Age](../research-methods/regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff.md)
 
 ## Claims
 

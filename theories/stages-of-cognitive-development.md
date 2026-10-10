@@ -91,7 +91,7 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 
 - [Chart-Based Retrieval and Spaced Practice](../strategies/chart-based_retrieval_and_spaced_practice.md) — uses a chart to outline Piaget's stage theory in an AP Psychology class
 - [Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops](../strategies/concrete-first-topic-sequence-for-reasoning-development.md)
-- [Uzgiris-Hunt ordinal scales of infant psychological development: six series of behavioral landmarks](../elements/uzgiris-hunt-ordinal-scales.md)
+- [Uzgiris-Hunt ordinal scales of infant psychological development: six series of behavioral landmarks](../products/uzgiris-hunt-ordinal-scales-of-infant-psychological-development.md)
 - [The teacher's major role is facilitator for discovery rather than dispenser of knowledge](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources

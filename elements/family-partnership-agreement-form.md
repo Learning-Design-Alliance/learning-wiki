@@ -47,7 +47,7 @@ The Family Partnership Agreement is a form used in Head Start programs nationall
 
 ## Related Elements
 
-- [Head Start program](head-start-program-element.md)
+- [Head Start program](../products/head-start.md)
 
 ## Examples
 

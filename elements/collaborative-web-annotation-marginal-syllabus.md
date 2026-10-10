@@ -43,7 +43,7 @@ Collaborative annotation with the open-source Hypothes.is tool engages learners 
 ## Related Elements
 
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](equity-unbound-open-connected-course.md)
-- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](virtually-connecting-equitable-conversations.md)
+- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../products/virtually-connecting.md)
 - [Faculty-authored OER digital textbook and equitized syllabus template at BMCC](bmcc-oer-textbook-and-syllabus-template.md)
 
 ## Examples

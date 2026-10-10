@@ -42,8 +42,7 @@ The review defines academic mindsets as psycho-social attitudes or beliefs about
 
 ## Related Theories
 
-- [Noncognitive Factors Hypothesized Model](noncognitive-factors-hypothesized-model.md)
-- [Five-category taxonomy of noncognitive factors related to academic performance](farrington-five-noncognitive-factor-categories.md)
+- [Noncognitive Factors Hypothesized Model](../products/ccsr-five-category-framework-of-noncognitive-factors.md)
 - [Four learning mindsets framework: belonging, success expectancy, growth mindset, and task value](four-learning-mindsets-framework.md)
 
 ## Examples

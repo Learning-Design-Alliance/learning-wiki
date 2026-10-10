@@ -38,7 +38,7 @@ The report's findings support small school reform as a strategy for improving at
 - Four-year graduation
 
 ### Affordances
-- [Chsri Small Schools Theory Of Action](../theories/chsri-small-schools-theory-of-action.md)
+- [Chsri Small Schools Theory Of Action](../products/chicago-high-school-redesign-initiative.md)
 
 ## Related Strategies
 

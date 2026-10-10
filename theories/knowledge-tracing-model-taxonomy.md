@@ -47,7 +47,7 @@ The survey's first organizing axis sorts fundamental KT models by technical rout
 - [Knowledge Tracing Learner Modeling Task](knowledge-tracing-learner-modeling-task.md)
 - [Bayesian Knowledge Tracing Two State Model](bayesian-knowledge-tracing-two-state-model.md)
 - [Logistic Knowledge Tracing Models](logistic-knowledge-tracing-models.md)
-- [Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization](adaptive-g-ukt-unified-probabilistic-framework.md)
+- [Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization](../research-methods/adaptive-g-ukt.md)
 
 ## Examples
 -

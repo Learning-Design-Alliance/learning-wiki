@@ -57,7 +57,7 @@ The QRC's instructional pattern is a minimal, transparent computer realization o
 
 ## Examples
 
-- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../elements/quantum-randi-challenge-computer-game.md)
+- [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
 
 ## Key Sources
 - Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)

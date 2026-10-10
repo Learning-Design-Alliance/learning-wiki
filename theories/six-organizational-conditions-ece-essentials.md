@@ -48,12 +48,12 @@ The framework organizes ECE program quality around "six organizational condition
 ## Related Theories
 
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 
 ## Examples
 
-- [Early Education Essentials surveys (now The Essential 0-5 Survey)](../elements/early-education-essentials-surveys.md)
-- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
+- [Early Education Essentials surveys (now The Essential 0-5 Survey)](../products/essential-0-5-survey.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../products/early-education-essentials.md)
 
 ## Key Sources
 - Early Education Essentials: Testing Measurement Validity of an Organizational Conditions and Practices Tool for Early Childhood Education Settings. (2018). https://consortium.uchicago.edu/publications/early-education-essentials-validation-surveys-measuring-early-education-organizational

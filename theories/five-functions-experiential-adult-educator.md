@@ -49,7 +49,7 @@ The paper reports that Wilson et al (1989) "suggest five main functions for the 
 
 ## Examples
 
-- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 
 ## Key Sources
 - Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940

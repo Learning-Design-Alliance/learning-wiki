@@ -41,7 +41,7 @@ The report frames equity-relevant research through two concepts: equity "respect
 
 ## Related Theories
 
-- [Equity-oriented research methodology: two approaches and measures of structural and contextual factors](nasem-equity-research-two-approaches-measures.md)
+- [Equity-oriented research methodology: two approaches and measures of structural and contextual factors](../research-methods/equity-oriented-research-methodology.md)
 
 ## Examples
 

@@ -44,7 +44,7 @@ YOUmedia online is a closed social networking site built on the Remix World plat
 
 ## Related Elements
 
-- [YOUmedia Chicago: a teen digital media learning space at the Harold Washington Library](youmedia-chicago-teen-digital-media-learning-space.md)
+- [YOUmedia Chicago: a teen digital media learning space at the Harold Washington Library](../products/youmedia.md)
 
 ## Examples
 -

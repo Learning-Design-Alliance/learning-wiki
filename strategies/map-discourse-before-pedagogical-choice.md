@@ -42,7 +42,7 @@ The article recommends that educators facing a crowded, contested discourse fiel
 - making implicit value commitments in curricular choices explicit
 
 ### Affordances
-- [Social Cartography Postmodern Methodology](../theories/social-cartography-postmodern-methodology.md)
+- [Social Cartography Postmodern Methodology](../research-methods/social-cartography.md)
 
 ## Related Strategies
 

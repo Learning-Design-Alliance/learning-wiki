@@ -45,7 +45,7 @@ The logic model lists two studies as partnership activities: "Study of Arkansas 
 
 ## Related Elements
 
-- [BPSS partnership logic model for supporting ADE college and career readiness programming](bpss-partnership-logic-model-arkansas.md)
+- [BPSS partnership logic model for supporting ADE college and career readiness programming](../products/building-pathways-for-student-success-bpss.md)
 
 ## Examples
 -

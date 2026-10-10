@@ -43,7 +43,7 @@ The report defines convergent science as "an emerging approach to research that 
 
 - [Ambitious mashups: cyberlearning projects combine novel technologies, theories, methods, and equity goals in frontier-oriented integrations](ambitious-mashups-concept.md)
 - [Six emerging design genres organize cyberlearning design research](cyberlearning-six-design-genres.md)
-- [Improvement Science is a systematic approach to identifying and solving educational problems through iterative testing, data collection, reflection and refinement](improvement-science-systematic-iterative-approach.md)
+- [Improvement Science is a systematic approach to identifying and solving educational problems through iterative testing, data collection, reflection and refinement](../research-methods/improvement-science.md)
 - [The Kantian Effect: a metaphor and paradigm linking intertextuality and interdisciplinarity through four dialogic principles](kantian-effect-integrative-paradigm.md)
 
 ## Examples

@@ -37,7 +37,7 @@ The authors advance M graphing as a resource-efficient design tool: rather than 
 - efficient allocation of course revision resources to reduce dropout
 
 ### Affordances
-- [Student Momentum Indicator Theory](../theories/student-momentum-indicator-theory.md)
+- [Student Momentum Indicator Theory](../research-methods/student-momentum-indicator.md)
 
 ## Related Strategies
 

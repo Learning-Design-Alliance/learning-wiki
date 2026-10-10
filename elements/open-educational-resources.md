@@ -46,8 +46,8 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 ## Related Elements
 
 - [Digital Open Badges](digital-open-badges.md)
-- [OER Evidence Hub and OER Knowledge Cloud as open education support infrastructures](oer-evidence-hub-knowledge-cloud.md)
-- [OpenSciEd open science curriculum materials](openscied-open-curriculum-materials.md)
+- [OER Evidence Hub and OER Knowledge Cloud as open education support infrastructures](../products/oer-evidence-hub-and-oer-knowledge-cloud.md)
+- [OpenSciEd open science curriculum materials](../products/openscied.md)
 - [GADRRS: an openly licensed data sharing agreement template for educational data exchanges](gadrrs-data-sharing-agreement-template.md)
 
 ## Examples

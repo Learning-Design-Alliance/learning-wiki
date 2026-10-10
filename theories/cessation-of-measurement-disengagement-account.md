@@ -45,7 +45,7 @@ The chapter advances an account in which disengaged test taking is understood as
 ## Related Theories
 
 - [Incorporating response time into measurement models for adaptive testing must account for acceleration and idiosyncratic within-person time-accuracy variation](response-time-accuracy-modeling-implications-adaptive-testing.md)
-- [Response-time-based identification of test taker disengagement (cessation of measurement)](cessation-of-measurement-disengagement-framework.md)
+- [Response-time-based identification of test taker disengagement (cessation of measurement)](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 
 ## Examples
 -

@@ -39,7 +39,7 @@ The article reframes mastery of cross-cutting Portrait Skill Sets and Practices 
 
 ## Related Theories
 
-- [Portrait of a Graduate Synthesis Model: Mindsets, Skill Sets, and Practices](portrait-synthesis-model-mindsets-skill-sets-practices.md)
+- [Portrait of a Graduate Synthesis Model: Mindsets, Skill Sets, and Practices](../products/three-component-framework-for-portrait-of-a-graduate-assessment-systems.md)
 - [Citizenship competence comprises three interrelated components: civic knowledge, civic skills, and civic dispositions or virtues](citizenship-competence-three-components.md)
 - [Dual nature of CRA learning: interdependent cognitive skills and dispositions](cra-cognitive-dispositional-dual-objectives.md)
 - [ASK (Attitude, Skills, Knowledge) framework for analysing collaborative learning in PBL](ask-framework-collaborative-learning-pbl.md)

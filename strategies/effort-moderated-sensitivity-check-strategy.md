@@ -39,7 +39,7 @@ For evaluators with appropriate computer-based test metadata, the paper recommen
 - Unbiased estimates of school contributions to growth, achievement gaps, and summer learning loss
 
 ### Affordances
-- [Rapid Guessing Response Time Threshold Framework](../theories/rapid-guessing-response-time-threshold-framework.md)
+- [Rapid Guessing Response Time Threshold Framework](../research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md)
 
 ## Related Strategies
 

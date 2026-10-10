@@ -37,12 +37,12 @@ The report provides a preliminary list of cost ingredients for implementing Bott
 - College enrollment, persistence, and career readiness
 
 ### Affordances
-- [Bottom Line College Advising Program](bottom-line-college-advising-program.md)
+- [Bottom Line College Advising Program](../products/bottom-line.md)
 
 ## Related Elements
 
-- [Cost profile of Success Boston Coaching: $5,762 per student during scale-up, decreasing to $3,037](success-boston-coaching-cost-profile.md)
-- [FLIGHT cost profile and funding model](flight-cost-profile-funding-model.md)
+- [Cost profile of Success Boston Coaching: $5,762 per student during scale-up, decreasing to $3,037](../products/success-boston-coaching.md)
+- [FLIGHT cost profile and funding model](../products/flight.md)
 
 ## Examples
 -

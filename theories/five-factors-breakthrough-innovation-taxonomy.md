@@ -46,7 +46,7 @@ The article proposes that "Five factors can distinguish an education innovation 
 ## Related Theories
 
 - [Breakthrough Innovation Education Working Definition](breakthrough-innovation-education-working-definition.md)
-- [Strong Field Framework adapted to Breakthrough R&D in Education with five conditions](strong-field-framework-breakthrough-rd-education.md)
+- [Strong Field Framework adapted to Breakthrough R&D in Education with five conditions](../products/strong-field-framework-adapted-to-breakthrough-rd-in-education.md)
 
 ## Examples
 -

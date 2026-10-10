@@ -193,12 +193,12 @@ def merge(kind: str, keep: str, fold: str, apply: bool) -> str:
                     "--map", t.name, "--apply"], cwd=WIKI_ROOT, check=True, capture_output=True)
     dedupe(kind, keep)
     if cross:
-        # update_links_for_renames records an alias for a same-slug move only when kinds match;
-        # make sure no alias for the other kind's slug landed on <keep>.
+        # update_links_for_renames records the moved slug as an alias, but aliases resolve within
+        # one kind: another kind's slug on <keep> can never resolve a reference, only collide.
         text = kp.read_text(encoding="utf-8")
         kfm2, rest = pid.split_fm(text)
         if fold in pid.read_aliases(kfm2) and fold not in pid.read_aliases(kfm):
-            print(f"  note: {kind}/{keep} gained alias {fold!r} from the cross-kind map; check it")
+            kp.write_text("---\n" + pid.remove_alias(kfm2, fold) + rest, encoding="utf-8")
     return f"folded {fold_kind}/{fold} into {kind}/{keep}: +{moved} bullet(s)"
 
 

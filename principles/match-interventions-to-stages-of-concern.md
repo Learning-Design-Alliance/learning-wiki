@@ -152,7 +152,7 @@ Changes in concerns, changes in use, fidelity of use and effects on students are
 - [Guide change efforts with systemic understanding](systemic-understanding-guides-change-efforts.md) — the whole-system view of a change effort; this page supplies the person-by-person diagnosis inside it.
 - [Scaffolding and Fading](scaffolding-and-fading.md) — the general relationship between contingent support and its withdrawal, of which this is a case for adults adopting an innovation.
 - [Professional Development pattern](../patterns/professional-development.md) — the coached cycle for changing one classroom practice; use this page to choose and time its support.
-- Theory: [CBAM Stages of Concern](../theories/cbam-stages-of-concern-model.md), [CBAM diagnostic dimensions](../theories/cbam-change-process-diagnostic-dimensions.md), [six-level intervention taxonomy](../theories/cbam-intervention-taxonomy-six-levels.md), [Levels of Use](../theories/levels-of-use-innovation-eight-level-framework.md), [Fuller's teacher concerns theory](../theories/fuller-teacher-concerns-theory-three-stages.md)
+- Theory: [CBAM Stages of Concern](../theories/cbam-stages-of-concern-model.md), [CBAM diagnostic dimensions](../theories/cbam-change-process-diagnostic-dimensions.md), [six-level intervention taxonomy](../theories/cbam-intervention-taxonomy-six-levels.md), [Levels of Use](../products/concerns-based-adoption-model.md), [Fuller's teacher concerns theory](../theories/fuller-teacher-concerns-theory-three-stages.md)
 
 ## Examples
 

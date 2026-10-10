@@ -49,7 +49,7 @@ KTSTs are a model class for knowledge tracing that predicts the correctness of a
 
 ## Examples
 
-- [KTST released code repository](../elements/ktst-code-repository.md)
+- [KTST released code repository](../products/ktst.md)
 
 ## Key Sources
 - Kai Neubauer, Yannick Rudolph, and Ulf Brefeld. (2026). Principled Transformers for Predictive Performance in Knowledge Tracing. Journal of Educational Data Mining, Volume 18, No 1. https://github.com/kainbr/kt_set_transformers

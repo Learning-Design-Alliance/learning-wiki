@@ -44,7 +44,7 @@ The guide states that "effective, sustainable data use requires a secure and rel
 
 ## Related Elements
 
-- [End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes](end-to-end-pet-workflow-dlp-example.md)
+- [End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes](../research-methods/privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno.md)
 
 ## Examples
 -

@@ -41,7 +41,7 @@ The article presents the three-dimensional narrative inquiry space as the organi
 
 ## Related Theories
 
-- [Narrative inquiry as a research method studies the ways humans experience the world through stories](narrative-inquiry-experience-based-research-method.md)
+- [Narrative inquiry as a research method studies the ways humans experience the world through stories](../research-methods/narrative-inquiry.md)
 
 ## Examples
 

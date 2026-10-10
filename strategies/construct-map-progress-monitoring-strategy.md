@@ -39,7 +39,7 @@ The guide positions the construct map as a practical tool for measurement and pr
 - continuous improvement of curriculum-based professional learning and HQIM implementation
 
 ### Affordances
-- [Shared Measures Construct Map Curriculum Shifts](../theories/shared-measures-construct-map-curriculum-shifts.md)
+- [Shared Measures Construct Map Curriculum Shifts](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
 
 ## Related Strategies
 - 

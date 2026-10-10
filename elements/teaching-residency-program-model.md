@@ -49,7 +49,7 @@ Teaching residency programs are alternative teacher-training models funded under
 
 ## Related Elements
 
-- [Teaching residency programs (TRPs) funded through the Teacher Quality Partnership grants program](teacher-quality-partnership-teaching-residency-programs.md)
+- [Teaching residency programs (TRPs) funded through the Teacher Quality Partnership grants program](../products/teacher-quality-partnership.md)
 
 ## Examples
 -

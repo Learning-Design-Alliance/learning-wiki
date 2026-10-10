@@ -42,7 +42,7 @@ The report defines feedback loops, citing Baker, Weisgrau, and Bristal Philyaw (
 
 ## Related Theories
 
-- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
+- [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](../products/research-practice-industry-partnerships-rpips.md)
 - [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples

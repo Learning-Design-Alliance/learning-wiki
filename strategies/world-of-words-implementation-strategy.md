@@ -42,7 +42,7 @@ The report describes an implementation package for educators adopting World of W
 
 ## Related Strategies
 
-- [World Of Words Curriculum Element](../elements/world-of-words-curriculum-element.md)
+- [World Of Words Curriculum Element](../products/world-of-words-wow.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)

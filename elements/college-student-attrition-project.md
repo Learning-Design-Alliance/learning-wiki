@@ -38,7 +38,7 @@ The College Student Attrition Project was an evaluation conducted by the Survey 
 
 ## Related Elements
 
-- [College Experiences Survey](college-experiences-survey.md)
+- [College Experiences Survey](../products/college-experiences-survey.md)
 
 ## Examples
 -

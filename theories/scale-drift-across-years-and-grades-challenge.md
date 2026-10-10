@@ -44,7 +44,7 @@ The article frames scale drift as the measurement-stability problem that arises 
 
 ## Related Theories
 
-- [Adaptive Self-Referenced Testing (ASRT): a framework for measuring individual achievement growth via computerized adaptive testing](adaptive-self-referenced-testing-asrt.md)
+- [Adaptive Self-Referenced Testing (ASRT): a framework for measuring individual achievement growth via computerized adaptive testing](../research-methods/adaptive-self-referenced-testing-asrt.md)
 
 ## Examples
 -

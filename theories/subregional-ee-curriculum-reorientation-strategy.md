@@ -45,7 +45,7 @@ The IEEP strategy holds that because countries of a region share characteristics
 
 ## Examples
 
-- [ASEAN subregional EE curriculum prototypes for primary and secondary schools and pre-/in-service teacher training](../elements/asean-ee-curriculum-prototypes.md)
+- [ASEAN subregional EE curriculum prototypes for primary and secondary schools and pre-/in-service teacher training](../products/asean-subregional-ee-curriculum-prototypes-for-primary-and-secondary-schools-and-pre-in-se.md)
 
 ## Key Sources
 - United Nations Educational, Scientific, and Cultural Organization, Paris (France). Environmental Education Section. (1993). Connect: UNESCO-UNEP Environmental Education Newsletter, 1993. https://eric.ed.gov/?id=ED368567

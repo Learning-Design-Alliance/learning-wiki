@@ -44,7 +44,7 @@ Developmental progressions are "sequences of skills and concepts that children a
 
 ## Related Theories
 
-- [Empirically based learning trajectories as the organizing framework of Building Blocks for Math](building-blocks-learning-trajectories.md)
+- [Empirically based learning trajectories as the organizing framework of Building Blocks for Math](../products/building-blocks-for-math.md)
 
 ## Examples
 

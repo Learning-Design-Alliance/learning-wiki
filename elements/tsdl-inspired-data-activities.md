@@ -43,7 +43,7 @@ New activities undertaken by states and districts that grew out of the TSDL proj
 ## Related Elements
 
 - [Chief Information Officer network for state collaboration](cio-network-state-collaboration.md)
-- [Teacher-Student Data Link (TSDL) project](tsdl-project-element.md)
+- [Teacher-Student Data Link (TSDL) project](../products/teacher-student-data-link.md)
 
 ## Examples
 

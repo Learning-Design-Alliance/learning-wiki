@@ -48,7 +48,7 @@ A research brief by Megan Kuhfeld and Karyn Lewis examining achievement trends a
 
 - [NWEA technical appendix on 2022-23 achievement data and pandemic recovery methods](nwea-2022-23-recovery-technical-appendix.md)
 - [NWEA technical appendix documenting sample and methods for the 2022-23 pandemic recovery brief](nwea-tech-appendix-pandemic-recovery-2022-23.md)
-- [NWEA chronic absenteeism research brief linking absenteeism to slower academic recovery](nwea-chronic-absenteeism-recovery-brief.md)
+- [NWEA chronic absenteeism research brief linking absenteeism to slower academic recovery](../products/map-growth.md)
 
 ## Examples
 -

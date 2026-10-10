@@ -46,8 +46,8 @@ Summer counseling helps college-intending high school graduates complete the ste
 
 ## Related Elements
 
-- [Bridgit platform for tracking pre-matriculation tasks](bridgit-platform-task-tracking.md)
-- [FLIGHT program (Take Stock in Children®)](flight-tsic-program-element.md)
+- [Bridgit platform for tracking pre-matriculation tasks](../products/bridgit.md)
+- [FLIGHT program (Take Stock in Children®)](../products/flight.md)
 
 ## Examples
 -

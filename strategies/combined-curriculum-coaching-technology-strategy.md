@@ -37,7 +37,7 @@ Virginia RETHINKS pursued student success in health sciences through a bundle of
 - career navigation, classroom success, and preparation for health care employment
 
 ### Affordances
-- [Virginia Rethinks Three Goal Grant Design](../theories/virginia-rethinks-three-goal-grant-design.md)
+- [Virginia Rethinks Three Goal Grant Design](../products/virginia-rethinks-health-sciences-education-initiative.md)
 
 ## Related Strategies
 

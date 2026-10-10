@@ -41,7 +41,7 @@ The report draws a scope distinction among school-based programs that determines
 
 ## Related Theories
 
-- [SACD six-goal framework for social and character development programming](sacd-six-goal-framework.md)
+- [SACD six-goal framework for social and character development programming](../products/sacd-research-program.md)
 
 ## Examples
 -

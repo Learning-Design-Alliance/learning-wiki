@@ -50,7 +50,7 @@ A lesson/programme-level design in which learners follow a progressive strength-
 
 ## Examples
 
-- [Keep-On-Keep-Up (KOKU) digital falls prevention programme](../elements/koku-digital-falls-prevention-programme.md)
+- [Keep-On-Keep-Up (KOKU) digital falls prevention programme](../products/koku.md)
 
 ## Key Sources
 - French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291

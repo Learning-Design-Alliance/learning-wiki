@@ -42,7 +42,7 @@ The guide organizes behavioral support around a three-tiered prevention model in
 ## Related Theories
 
 - [Response-to-intervention multitiered support model with universal screening and progress monitoring as its assessment components](rti-multitiered-screening-progress-monitoring-model.md)
-- [Three-level RTI prevention model for identifying learning disabilities](three-level-rti-prevention-model-case-study.md)
+- [Three-level RTI prevention model for identifying learning disabilities](../products/three-level-rti-prevention-model-for-identifying-learning-disabilities.md)
 
 ## Examples
 
@@ -50,7 +50,7 @@ The guide organizes behavioral support around a three-tiered prevention model in
 - [Multi-Tiered System of Supports (MTSS)](../strategies/multi-tiered-system-of-supports-mtss.md)
 - [Positive Behavior Interventions and Supports](../strategies/positive-behavior-interventions-and-supports.md)
 - [Positive Behavioral Interventions and Supports (PBIS)](../strategies/positive-behavioral-interventions-and-supports-pbis.md)
-- [ATI-UP: a preventive, school-wide multi-tiered attendance intervention](../elements/ati-up-program-element.md)
+- [ATI-UP: a preventive, school-wide multi-tiered attendance intervention](../products/ati-up.md)
 - [Build shared districtwide and schoolwide responsibility for multilingual learners' attendance through a multitiered approach with a strong foundational tier](../strategies/shared-multitiered-attendance-responsibility-english-learners.md)
 
 ## Key Sources

@@ -41,7 +41,7 @@ The article adopts the six domains of moral injury delineated by an internationa
 - 
 
 ## Related Theories
-- [Cimi M Clinical Interview](../elements/cimi-m-clinical-interview.md)
+- [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
 
 ## Examples
 -

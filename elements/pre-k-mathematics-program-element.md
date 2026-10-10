@@ -46,7 +46,7 @@ Pre-K Mathematics is a supplemental mathematics program for preschool children t
 
 ## Related Elements
 
-- [Pre-K Mathematics supplemental preschool curriculum](prek-mathematics-curriculum.md)
+- [Pre-K Mathematics supplemental preschool curriculum](../products/pre-k-mathematics.md)
 
 ## Examples
 -

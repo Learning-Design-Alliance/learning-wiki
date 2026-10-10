@@ -45,12 +45,11 @@ A technical appendix published by NWEA Research in December 2022, authored by Me
 
 ## Related Elements
 
-- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](learning-during-covid-technical-appendix.md)
+- [Technical appendix document detailing sample and methods for the Learning during COVID-19 achievement brief](../products/map-growth.md)
 - [Technical appendix document detailing sample and methods for the Student achievement in 2021-22 brief](nwea-2021-22-achievement-technical-appendix.md)
 - [Technical appendix documenting sample and methods for the 2021-22 COVID learning-recovery study](nwea-2021-22-covid-technical-appendix.md)
 - [NWEA technical appendix on 2022-23 achievement data and pandemic recovery methods](nwea-2022-23-recovery-technical-appendix.md)
 - [Research brief on progress towards pandemic recovery at the start of the 2022-23 school year](nwea-brief-pandemic-recovery-rebounding-2022-23.md)
-- [Technical appendix document detailing sample and methods for the COVID-19 achievement divide brief](technical-appendix-widening-achievement-divide-covid.md)
 
 ## Examples
 -

@@ -128,7 +128,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - [Two Facets Making Meaning Of Mathematics Epistemic Game](../theories/two-facets-making-meaning-of-mathematics-epistemic-game.md)
 
 ## Examples
-- [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
+- [Intermediate Mechanics Tutorials](../products/intermediate-mechanics-tutorials.md)
 - [Math Talks](../strategies/math-talks.md)
 - [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
 
@@ -224,7 +224,7 @@ The authors recommend modeling multiple valid solution procedures as pathways ov
 
 ## Examples
 
-- [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
+- [Intermediate Mechanics Tutorials](../products/intermediate-mechanics-tutorials.md)
 - [Math Talks](../strategies/math-talks.md)
 - [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
 

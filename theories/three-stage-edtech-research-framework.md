@@ -44,7 +44,7 @@ The report organizes research use in ed-tech product development into three cate
 
 ## Examples
 
-- [Digital Promise 2016 ed-tech research-use campaign and scoring rubric](../elements/digital-promise-2016-research-use-campaign.md)
+- [Digital Promise 2016 ed-tech research-use campaign and scoring rubric](../products/digital-promise-2016-ed-tech-research-use-campaign-and-scoring-rubric.md)
 - [Ed-tech companies should use multi-method, multi-stakeholder research at every product stage and share results publicly](../strategies/edtech-research-promising-practices-strategy.md)
 
 ## Key Sources

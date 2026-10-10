@@ -42,8 +42,8 @@ A design report by Mathematica Policy Research researchers for evaluating the Ef
 
 ## Related Elements
 
-- [Effective Practice Incentive Community (EPIC) school award program](effective-practice-incentive-community-epic-program.md)
-- [Effective Practice Incentive Community (EPIC) incentive program](epic-incentive-program-element.md)
+- [Effective Practice Incentive Community (EPIC) school award program](../products/effective-practice-incentive-community-epic-school-award-program.md)
+- [Effective Practice Incentive Community (EPIC) incentive program](../products/effective-practice-incentive-community-epic-incentive-program.md)
 - [2008 EPIC baseline principal/vice principal survey](epic-baseline-principal-survey-instrument.md)
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
 

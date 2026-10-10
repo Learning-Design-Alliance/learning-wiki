@@ -43,9 +43,9 @@ This account explains rapid guessing not as a knowledge deficit or random noise 
 
 ## Related Theories
 
-- [Response-time-based identification of test taker disengagement (cessation of measurement)](cessation-of-measurement-disengagement-framework.md)
+- [Response-time-based identification of test taker disengagement (cessation of measurement)](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 - [Rapid guessing as a momentary decision by the test taker to opt out of being measured](rapid-guessing-as-momentary-opt-out.md)
-- [Rapid-guessing detection framework using item response time thresholds](rapid-guessing-response-time-threshold-framework.md)
+- [Rapid-guessing detection framework using item response time thresholds](../research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md)
 
 ## Examples
 

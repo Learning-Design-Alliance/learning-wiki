@@ -39,7 +39,7 @@ Step 3 directs leaders to "Collaborate with your educators and school leaders to
 - Evaluating impact on targeted teaching and learning goals
 
 ### Affordances
-- [Edtech Procurement Framework Six Steps](../theories/edtech-procurement-framework-six-steps.md)
+- [Edtech Procurement Framework Six Steps](../products/edtech-procurement-framework.md)
 
 ## Related Strategies
 

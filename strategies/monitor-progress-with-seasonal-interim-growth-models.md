@@ -37,7 +37,7 @@ The article recommends a modeling approach for interim assessment data that resp
 - Tracking achievement progress for students, classrooms, and schools
 
 ### Affordances
-- [Seasonal Growth Model Interim Achievement Data](../theories/seasonal-growth-model-interim-achievement-data.md)
+- [Seasonal Growth Model Interim Achievement Data](../research-methods/compound-polynomial-growth-model.md)
 
 ## Related Strategies
 - 

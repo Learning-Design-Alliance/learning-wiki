@@ -37,7 +37,7 @@ The article recommends evaluating already-implemented programs by comparing scho
 - raising student achievement on standardized tests, particularly among low-income and minority students
 
 ### Affordances
-- [Poverty Adjusted School Effectiveness Rating Model](../theories/poverty-adjusted-school-effectiveness-rating-model.md)
+- [Poverty Adjusted School Effectiveness Rating Model](../research-methods/poverty-adjusted-value-added-school-effectiveness-rating-model.md)
 
 ## Related Strategies
 

@@ -44,7 +44,7 @@ The framework nominates a set of broad interdisciplinary concepts—citizenship,
 
 ## Related Theories
 
-- [Five-goal framework for K-12 social sciences education directed toward civic competence](five-goal-social-sciences-civic-competence-framework.md)
+- [Five-goal framework for K-12 social sciences education directed toward civic competence](../products/social-sciences-education-framework-for-california-public-schools.md)
 - [Kentucky K-8 computing framework: five key concepts of CS and seven big ideas of technology](ky-cs-technology-framework-concepts.md)
 
 ## Examples

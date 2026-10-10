@@ -41,7 +41,7 @@ The toolkit defines IUX as "a user-centered design approach that emphasizes incl
 ## Related Theories
 
 - [Digital Promise's three principle sets for inclusive LER design](digital-promise-ler-design-principles-sets.md)
-- [SkillsFWD guiding principles for equitable LER technology design](skillsfwd-guiding-principles-ler.md)
+- [SkillsFWD guiding principles for equitable LER technology design](../products/seven-co-designed-learning-transition-design-principles-for-ler-technologies.md)
 - [Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership](powerful-learning-meaningful-use-inclusive-access-leadership.md)
 - [The skills-first ecosystem framework](skills-first-ecosystem-framework.md)
 

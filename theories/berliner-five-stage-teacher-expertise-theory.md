@@ -49,7 +49,7 @@ The article presents a stage theory of skill acquisition in teaching, following 
 ## Related Theories
 
 - [Berliner's stages of pedagogical expertise development as a grouping framework for teacher expertise research](berliner-pedagogical-expertise-stages-grouping.md)
-- [The expert performance approach as a three-stage framework for studying expertise](expert-performance-approach-three-stages.md)
+- [The expert performance approach as a three-stage framework for studying expertise](../research-methods/expert-performance-approach.md)
 
 ## Examples
 

@@ -48,7 +48,7 @@ A series of related NWEA Research publications organized around COVID-19 and sch
 
 - [Technical appendix documenting the projection methodology of the COVID-19 slide white paper](covid-slide-technical-appendix.md)
 - [Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections](five-million-student-summer-learning-patterns-analysis.md)
-- [NWEA MAP Growth assessment data as the measurement basis for COVID-19 learning-loss research](map-growth-covid-research-data-source.md)
+- [NWEA MAP Growth assessment data as the measurement basis for COVID-19 learning-loss research](../products/map-growth.md)
 - [NWEA research brief 'The COVID-19 slide' with associated working paper, presentation, and technical appendix](covid-slide-research-brief-element.md)
 - [The COVID-19 slide research brief and technical appendix on summer learning loss and school closures](covid-19-slide-research-brief-element.md)
 - [COVID-19 closures & learning loss webinar (NWEA Research, April 2020)](covid-closures-learning-loss-webinar-nwea.md)

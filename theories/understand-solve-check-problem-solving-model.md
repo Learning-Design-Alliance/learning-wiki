@@ -40,8 +40,8 @@ A general cognitive model of performance on figural response items, adapted from
 
 ## Related Theories
 
-- [Rule Space Model of cognitive diagnosis](rule-space-model-cognitive-diagnosis.md)
-- [Item response time as response-process metadata illuminating examinee response processes](response-time-as-response-process-metadata.md)
+- [Rule Space Model of cognitive diagnosis](../research-methods/rule-space-model.md)
+- [Item response time as response-process metadata illuminating examinee response processes](../research-methods/item-response-time-analysis-as-response-process-metadata.md)
 
 ## Examples
 

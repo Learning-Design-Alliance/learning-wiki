@@ -43,7 +43,7 @@ The webinar organizes the K-2 Computer Science standards for Data & Analysis int
 
 ## Related Theories
 
-- [Kentucky Data & Analysis standards organize learning into storage, collection/visualization/transformation, inference & models, and data ethics strands](kas-data-analysis-standards-strands.md)
+- [Kentucky Data & Analysis standards organize learning into storage, collection/visualization/transformation, inference & models, and data ethics strands](../products/kentucky-academic-standards-for-computer-science.md)
 - [Kentucky K-8 computing framework: five key concepts of CS and seven big ideas of technology](ky-cs-technology-framework-concepts.md)
 
 ## Examples

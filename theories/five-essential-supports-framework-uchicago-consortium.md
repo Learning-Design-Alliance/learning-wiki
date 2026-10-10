@@ -48,21 +48,16 @@ The agenda describes the Consortium's Five Essential Supports framework, in whic
 ## Related Theories
 
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
-- [The Five Essential Supports framework organizes school climate measurement into five key components of student learning](five-essential-supports-ccsr-survey-framework.md)
-- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
-- [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
-- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
-- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
+- [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
 
 ## Examples
 
-- [5Essentials survey-based diagnostic tools](../elements/5essentials-survey-diagnostic-tools.md)
-- [5Essentials Survey system measuring school organizational conditions](../elements/5essentials-survey-system-illinois.md)
+- [5Essentials survey-based diagnostic tools](../products/5essentials-survey.md)
 - [Consortium on Chicago School Research five-year research agenda 2004-2008 by topic and study type](../elements/ccsr-research-agenda-2004-2008.md)
 
 ## Key Sources

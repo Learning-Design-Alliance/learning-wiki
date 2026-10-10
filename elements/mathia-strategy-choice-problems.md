@@ -38,7 +38,7 @@ MATHia instructional content in which students choose between math strategies th
 
 ## Related Elements
 
-- [BERT strategy-embedding model and successful-strategy prediction task for MATHia logs](bert-strategy-embedding-model-mathia.md)
+- [BERT strategy-embedding model and successful-strategy prediction task for MATHia logs](../research-methods/bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs.md)
 
 ## Examples
 -

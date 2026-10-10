@@ -83,9 +83,9 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 - [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](../strategies/civic-learning-recommendations-university-stakeholders.md)
 - [Methodological orientations and strategies for professors to promote integrated learning of civic competence](../strategies/il-methodological-orientations-strategies.md)
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](../strategies/integrate-reason-feeling-self-relationship-concept-context.md)
-- [Building Decision Skills ethics curriculum for middle and high school students](../elements/building-decision-skills-curriculum.md)
-- [Caring School Community™ program with four schoolwide components](../elements/caring-school-community-four-component-program.md)
-- [Positive Action K-12 character education curriculum](../elements/positive-action-curriculum-program.md)
+- [Building Decision Skills ethics curriculum for middle and high school students](../products/building-decision-skills.md)
+- [Caring School Community™ program with four schoolwide components](../products/caring-school-community.md)
+- [Positive Action K-12 character education curriculum](../products/positive-action.md)
 - [Pairing an ethics curriculum with integrated community service learning](../strategies/ethics-curriculum-with-integrated-service-learning.md)
 
 ## Key Sources

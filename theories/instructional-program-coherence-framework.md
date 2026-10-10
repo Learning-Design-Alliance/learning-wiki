@@ -48,7 +48,7 @@ The report defines instructional program coherence through three major condition
 
 ## Related Theories
 
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Dual-support mechanism: deep principal leadership catalyzes collective instructional work while teacher influence makes it meaningful](principal-catalyst-teacher-influence-mechanism.md)
 

@@ -43,8 +43,8 @@ The brief treats seasonal learning patterns and summer loss as a measurable phen
 
 ## Related Theories
 
-- [Seasonal learning analysis as a framework for locating when achievement inequalities grow](seasonal-learning-analysis-framework-inequality-growth.md)
-- [Compound polynomial model for estimating school effectiveness in program evaluation contexts](compound-polynomial-model-school-effectiveness.md)
+- [Seasonal learning analysis as a framework for locating when achievement inequalities grow](../research-methods/seasonal-learning-analysis.md)
+- [Compound polynomial model for estimating school effectiveness in program evaluation contexts](../research-methods/compound-polynomial-growth-model.md)
 - [Rural school achievement and growth as an equity concern intertwined with seasonal learning patterns](rural-achievement-equity-seasonal-learning-framing.md)
 
 ## Examples

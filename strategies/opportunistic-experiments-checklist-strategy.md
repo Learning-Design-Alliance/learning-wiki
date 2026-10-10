@@ -38,7 +38,7 @@ The guide supplies "a checklist of key questions to consider when conducting opp
 - designing and executing rigorous evaluations of planned education interventions
 
 ### Affordances
-- [Opportunistic Experiments Definition](../theories/opportunistic-experiments-definition.md)
+- [Opportunistic Experiments Definition](../research-methods/systematic-screening-for-opportunistic-experiments.md)
 
 ## Related Strategies
 

@@ -38,9 +38,9 @@ No technology is required for iRCL itself, but related teacher-facing content is
 
 ## Related Elements
 
-- [i-Ready Classroom Mathematics (iRCL): a K-8 core mathematics curriculum combining print and digital materials](iready-classroom-mathematics-curriculum.md)
-- [Magnetic Reading Foundations Teacher Toolbox on i-Ready Connect](magnetic-reading-foundations-teacher-toolbox.md)
-- [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](iready-personalized-instruction-element.md)
+- [i-Ready Classroom Mathematics (iRCL): a K-8 core mathematics curriculum combining print and digital materials](../products/ircl.md)
+- [Magnetic Reading Foundations Teacher Toolbox on i-Ready Connect](../products/magnetic-reading-foundations.md)
+- [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](../products/i-ready-personalized-instruction.md)
 
 ## Examples
 -

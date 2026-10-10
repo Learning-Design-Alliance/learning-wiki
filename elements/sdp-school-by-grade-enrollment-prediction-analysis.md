@@ -45,7 +45,7 @@ A comparative analysis that used "data from prior years" to predict fall enrollm
 
 ## Related Elements
 
-- [School District of Philadelphia administrative dataset on teacher employment and student–teacher linkages](sdp-teacher-data-employment-linkages.md)
+- [School District of Philadelphia administrative dataset on teacher employment and student–teacher linkages](../products/school-district-of-philadelphia-administrative-dataset-on-teacher-employment-and-studentte.md)
 
 ## Examples
 

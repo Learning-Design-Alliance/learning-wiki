@@ -41,7 +41,7 @@ The report describes an implementable package of supports: "Project QUEST is com
 
 ## Related Strategies
 
-- [Project Quest Program Element](../elements/project-quest-program-element.md)
+- [Project Quest Program Element](../products/project-quest.md)
 - [Wraparound student supports: navigator, financial supports, and job placement assistance](ibest-navigator-and-support-services-strategy.md)
 - [Colleges can adopt evidence-based support practices—wrap-around advising, proactive advising, non-tuition financial support, co-requisite courses, early alert systems, and disaggregated data—to improve completion](evidence-based-college-completion-practices.md)
 

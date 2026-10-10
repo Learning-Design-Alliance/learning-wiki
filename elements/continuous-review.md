@@ -62,7 +62,7 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 - [Spiral Curriculum](spiral-curriculum.md) — the curricular structure that builds revisiting into topic sequencing
 - [Practice](practice.md) — review sessions are a form of distributed, cumulative practice
 - [Assessment](assessment.md) — cumulative low-stakes quizzes are the most common delivery vehicle
-- [Simple Solutions spiral-review program](simple-solutions-spiral-review-program.md)
+- [Simple Solutions spiral-review program](../products/simple-solutions.md)
 
 ## Patterns That Use This Element
 - Mastery Learning — repeated, criterion-referenced revisiting until fluency is reached

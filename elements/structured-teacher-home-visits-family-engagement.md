@@ -43,8 +43,7 @@ The evaluated element is a family engagement program in which teachers conduct "
 
 ## Related Elements
 
-- [Parent Teacher Home Visits (PTHV) program](pthv-program-element.md)
-- [Parent Teacher Home Visits (PTHV) family engagement model](pthv-parent-teacher-home-visits-model.md)
+- [Parent Teacher Home Visits (PTHV) program](../products/parent-teacher-home-visits-pthv.md)
 
 ## Examples
 

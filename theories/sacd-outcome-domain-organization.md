@@ -42,7 +42,7 @@ The evaluation organizes its many measures into outcome domains, a grouping devi
 ## Related Theories
 
 - [Taxonomy of character education outcomes organized from broad student/other levels to specific cognitive, affective, and behavioral constructs](character-education-outcomes-taxonomy.md)
-- [SACD six-goal framework for social and character development programming](sacd-six-goal-framework.md)
+- [SACD six-goal framework for social and character development programming](../products/sacd-research-program.md)
 - [Five-dimension framework of affective development in preschool children](five-dimensions-affective-development-framework.md)
 
 ## Examples

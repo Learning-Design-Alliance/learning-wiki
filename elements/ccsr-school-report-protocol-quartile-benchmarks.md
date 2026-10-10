@@ -47,10 +47,10 @@ The report protocol presents Part I with ten profile graphs, each displaying thr
 
 ## Related Elements
 
-- [1997 Improving Chicago's Schools Individual School Report (survey-based school report instrument)](1997-individual-school-report-instrument.md)
-- [Consortium school survey report system with 53 measures, demographic comparison groups, and time trends](ccsr-school-survey-report-measure-system.md)
-- [Improving Chicago Schools 1997 student and teacher surveys](improving-chicago-schools-surveys-1997.md)
-- [Charting Reform student and teacher surveys with individualized school reports](charting-reform-student-teacher-surveys-school-reports.md)
+- [1997 Improving Chicago's Schools Individual School Report (survey-based school report instrument)](../products/1997-improving-chicagos-schools-individual-school-report.md)
+- [Consortium school survey report system with 53 measures, demographic comparison groups, and time trends](../products/5essentials-survey.md)
+- [Improving Chicago Schools 1997 student and teacher surveys](../products/improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache.md)
+- [Charting Reform student and teacher surveys with individualized school reports](../products/charting-reform.md)
 
 ## Examples
 -

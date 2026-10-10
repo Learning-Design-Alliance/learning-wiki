@@ -50,7 +50,7 @@ The report's AI theme defines the portfolio's most common technologies: 'Intelli
 
 ## Examples
 
-- [Amira AI reading tutor](../elements/amira-ai-reading-tutor.md)
+- [Amira AI reading tutor](../products/amira.md)
 
 ## Key Sources
 - Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/

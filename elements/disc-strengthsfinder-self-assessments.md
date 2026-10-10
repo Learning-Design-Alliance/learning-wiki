@@ -38,7 +38,7 @@ Two established behavioral self-assessments are implemented in the course to gro
 - Appreciation of complementary teammate strengths
 
 ### Affordances
-- [360 Team Learning Foundation Platform](../theories/360-team-learning-foundation-platform.md)
+- [360 Team Learning Foundation Platform](../products/360-team-learning-foundation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

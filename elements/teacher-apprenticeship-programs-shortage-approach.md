@@ -44,7 +44,7 @@ Teacher apprenticeship programs are presented as a relatively new approach to mi
 
 ## Related Elements
 
-- [Teach For America alternate-route teacher preparation program](teach-for-america-program-element.md)
+- [Teach For America alternate-route teacher preparation program](../products/teach-for-america.md)
 
 ## Examples
 

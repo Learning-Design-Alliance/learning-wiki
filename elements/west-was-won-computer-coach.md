@@ -41,7 +41,7 @@ Burton and Brown's (1982) coach for the Plato arithmetic game "How the West Was 
 
 ## Related Elements
 
-- [Summit: an arithmetic tutoring system combining visual animation with spoken explanation in two representations](summit-bin-model-arithmetic.md)
+- [Summit: an arithmetic tutoring system combining visual animation with spoken explanation in two representations](../products/summit.md)
 
 ## Examples
 -

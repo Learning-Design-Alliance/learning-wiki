@@ -46,7 +46,7 @@ The expert-performance approach studies objectively measurable, reproducibly sup
 
 ## Related Theories
 
-- [The expert performance approach as a three-stage framework for studying expertise](expert-performance-approach-three-stages.md)
+- [The expert performance approach as a three-stage framework for studying expertise](../research-methods/expert-performance-approach.md)
 
 ## Examples
 

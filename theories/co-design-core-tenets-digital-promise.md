@@ -45,14 +45,9 @@ The report defines co-design as "a process in which different stakeholders come 
 ## Related Theories
 
 - [Co-design framework with core tenets of power sharing, relationships, and capability building](codesign-core-tenets-framework.md)
-- [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](inclusive-innovation-framework.md)
-- [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](inclusive-innovation-six-tenets-framework.md)
-- [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](inclusive-innovation-model-core-tenets.md)
-- [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](collaborative-innovation-core-tenets.md)
-- [Collaborative Innovation: a six-phase co-research and co-design R&D model](collaborative-innovation-model.md)
-- [Collaborative Innovation: a co-leadership, co-research, and co-design R&D model unfolding through six phases](collaborative-innovation-six-phase-rd-model.md)
-- [Inclusive Innovation: an equity-centered R&D process with five phases and six Core Tenets](inclusive-innovation-equity-centered-rd-process.md)
-- [The Learning Salon five-phase engagement model for district-provider equity collaboration](learning-salon-five-phase-engagement-model.md)
+- [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](../products/digital-promises-inclusive-innovation-model.md)
+- [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](../products/collaborative-innovation.md)
+- [The Learning Salon five-phase engagement model for district-provider equity collaboration](../products/learning-salon.md)
 
 ## Examples
 

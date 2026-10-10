@@ -38,7 +38,7 @@ A governance strategy in which the charter board receives monthly data dashboard
 - Effective governance oversight of school improvement and accountability
 
 ### Affordances
-- [Tensquare Data Driven Improvement Process](../designs/tensquare-data-driven-improvement-process.md)
+- [Tensquare Data Driven Improvement Process](../products/tensquares-data-driven-school-improvement-process.md)
 
 ## Related Strategies
 

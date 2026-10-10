@@ -38,7 +38,7 @@ The article recommends embedding dynamic user models that monitor students' inte
 - sustaining optimal learning trajectories
 
 ### Affordances
-- [Dynamical Systems Theory Its Behavior](../theories/dynamical-systems-theory-its-behavior.md)
+- [Dynamical Systems Theory Its Behavior](../research-methods/dynamical-systems-analysis-of-intelligent-tutoring-system-process-data.md)
 
 ## Related Strategies
 - 

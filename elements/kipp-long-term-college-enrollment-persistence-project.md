@@ -42,7 +42,7 @@ Beyond the achievement brief, the page lists an associated project, "Assessing t
 - [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-college-prep-impacts-continuing-students.md) [+W]
 
 ## Related Elements
-- [Kipp Middle Schools Intervention](kipp-middle-schools-intervention.md)
+- [Kipp Middle Schools Intervention](../products/kipp-middle-schools.md)
 
 ## Examples
 -

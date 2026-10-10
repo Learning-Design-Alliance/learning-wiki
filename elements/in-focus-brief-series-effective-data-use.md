@@ -43,10 +43,10 @@ A Mathematica Policy Research In Focus brief series, prepared for the Gates Foun
 ## Related Elements
 
 - [Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation](strategic-data-use-in-education-implementation-study.md)
-- [Strategic Data Use in Education initiative evaluation (2011-2015)](strategic-data-use-in-education-initiative-evaluation.md)
+- [Strategic Data Use in Education initiative evaluation (2011-2015)](../products/strategic-data-use-in-education.md)
 - [Strategic Data Project and Education Pioneers fellowship programs placing data-skilled fellows in education agencies](sdp-ep-fellowship-programs-data-capacity.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
-- [Teacher-Student Data Link (TSDL) project](tsdl-project-element.md)
+- [Teacher-Student Data Link (TSDL) project](../products/teacher-student-data-link.md)
 
 ## Examples
 

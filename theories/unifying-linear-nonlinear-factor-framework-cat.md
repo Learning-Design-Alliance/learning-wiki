@@ -45,7 +45,7 @@ The study's theoretical framework treats IRT models as a special case of nonline
 
 ## Related Theories
 
-- [Testlet-level CFA as a method for assessing dimensionality of CAT data despite sparse item-level data](testlet-level-cfa-for-cat-data.md)
+- [Testlet-level CFA as a method for assessing dimensionality of CAT data despite sparse item-level data](../research-methods/testlet-level-cfa-for-assessing-dimensionality-of-cat-data.md)
 
 ## Examples
 

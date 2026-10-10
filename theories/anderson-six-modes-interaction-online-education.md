@@ -50,7 +50,7 @@ The article reviews Anderson's (2008) interactive model of online education, in 
 
 ## Examples
 
-- [Interaction Equivalency Theorem Indicator: a ranking inventory for students' preferred interaction elements](../elements/interaction-equivalency-theorem-indicator.md)
+- [Interaction Equivalency Theorem Indicator: a ranking inventory for students' preferred interaction elements](../products/interaction-equivalency-theorem-indicator.md)
 - [Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)
 
 ## Key Sources

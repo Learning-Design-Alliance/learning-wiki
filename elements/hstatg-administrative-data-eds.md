@@ -44,7 +44,7 @@ An early detection system that predicts whether a bachelor student will drop out
 ## Related Elements
 
 - [AdaBoost meta-algorithm combining logit regression, neural networks, and bagged random forests](adaboost-ensemble-of-logit-neural-network-brf.md)
-- [Name-based imputation of student immigration background from first and surnames](name-based-immigration-background-imputation.md)
+- [Name-based imputation of student immigration background from first and surnames](../research-methods/name-based-imputation-of-student-immigration-background.md)
 
 ## Examples
 

@@ -1,0 +1,84 @@
+---
+type: product
+id: situational-thinking-styles-scale-for-sixth-grade-students
+title: Situational Thinking Styles Scale for Sixth Grade Students
+description: A situational multiple-choice scale developed by Chaiyapornpattana et al.
+product_kind: assessment
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: chaiyapornpattana-2009
+    resource: "http://www.aabri.com"
+    title: "Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com"
+    author: "Chaiyapornpattana, N., & Wongwanich, S"
+---
+
+# Situational Thinking Styles Scale for Sixth Grade Students
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+A situational multiple-choice scale developed by Chaiyapornpattana et al. to assess sixth-grade students' thinking styles across the five Theory of Mental Self-government dimensions, distributed with a computer program package and manual.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Situational thinking styles scale for sixth grade students with computer program package and manual**: The developed instrument is a situational, multiple-choice thinking styles scale covering the five Theory of Mental Self-government dimensions. "The thinking styles scale to be created is in form of situational scale comprising developed questions to cover determined structure of thinking styles," with 2-4 choices per item alternated to prevent guessing. The article is internally inconsistent about final item counts: 12 items per dimension (60 total) were laid out at the design stage, but after item screening the article states 13 question items were kept in each dimension. After quality examination, "the author made the scale with manual in the form of computer program package." (Chaiyapornpattana et al. (2009))
+
+### Claims
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](../claims/thinking-styles-scale-cfa-structural-validity.md) [+W]
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](../claims/thinking-styles-scale-reliability-nrm.md) [+W]
+- [Differential item functioning was found in four items across the function, form and level dimensions](../claims/thinking-styles-scale-dif-items.md) [~W]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
+
+<!-- merged 2026-10-10 from elements/thai-sixth-grade-thinking-styles-scale ("Situational thinking styles scale for sixth grade students with computer program package and manual"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Situational thinking styles scale for sixth grade students with computer program package and manual
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The developed instrument is a situational, multiple-choice thinking styles scale covering the five Theory of Mental Self-government dimensions. "The thinking styles scale to be created is in form of situational scale comprising developed questions to cover determined structure of thinking styles," with 2-4 choices per item alternated to prevent guessing. The article is internally inconsistent about final item counts: 12 items per dimension (60 total) were laid out at the design stage, but after item screening the article states 13 question items were kept in each dimension. After quality examination, "the author made the scale with manual in the form of computer program package."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Items were reviewed by 7 experts using Item Objective Congruence from .50 onward and by Thai language experts for appropriateness for sixth grade students
+- Administration is divided by dimension with 5-minute breaks between dimensions because completion took 30 minutes to 1 hour
+#### Constraints
+- The scale was developed for sixth grade learners in the Thai cultural and educational context
+- The article's printed item counts are inconsistent: 12 items per dimension at the layout stage versus 13 question items kept per dimension after screening
+
+### Target Learners
+- sixth grade students in Thai schools
+
+### Target Learning Goals
+- identifying individual thinking style profiles to inform learning activities and educational measurement and evaluation
+
+### Affordances
+- [Mental Self Government Five Dimension Thinking Styles](../theories/mental-self-government-five-dimension-thinking-styles.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](../claims/thinking-styles-scale-cfa-structural-validity.md) [+W]
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](../claims/thinking-styles-scale-reliability-nrm.md) [+W]
+- [Differential item functioning was found in four items across the function, form and level dimensions](../claims/thinking-styles-scale-dif-items.md) [~W]
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
+-->

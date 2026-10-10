@@ -49,7 +49,7 @@ The report organizes the entire assessment around the Simple View of Reading (Go
 
 ## Examples
 
-- [Spanish MAP Reading Fluency adaptive oral reading assessment](../elements/spanish-map-reading-fluency-assessment.md)
+- [Spanish MAP Reading Fluency adaptive oral reading assessment](../products/spanish-map-reading-fluency.md)
 
 ## Key Sources
 - Spanish MAP Reading Fluency Technical Report. (2026). NWEA. https://www.nwea.org/research/publication/spanish-map-reading-fluency-technical-report/

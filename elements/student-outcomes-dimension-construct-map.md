@@ -39,7 +39,7 @@ Dimension 6 of the construct map defines student outcomes as "Students have posi
 - grade-level proficiency
 
 ### Affordances
-- [Shared Measures Construct Map Curriculum Shifts](../theories/shared-measures-construct-map-curriculum-shifts.md)
+- [Shared Measures Construct Map Curriculum Shifts](../research-methods/six-dimension-construct-map-for-measuring-ela-and-math-curriculum-shift-implementation.md)
 
 ## Claims
 
@@ -47,8 +47,8 @@ Dimension 6 of the construct map defines student outcomes as "Students have posi
 
 ## Related Elements
 
-- [Shared Measures Construct Map instrument for ELA and math curriculum shifts](shared-measures-construct-map-instrument.md)
-- [Teacher instructional practice dimension: implementing HQIM with integrity while adapting to students](teacher-instructional-practice-dimension-construct-map.md)
+- [Shared Measures Construct Map instrument for ELA and math curriculum shifts](../products/shared-measures-construct-map.md)
+- [Teacher instructional practice dimension: implementing HQIM with integrity while adapting to students](../research-methods/five-dimension-framework-for-operationalizing-hqim-implementation-fidelity.md)
 
 ## Examples
 

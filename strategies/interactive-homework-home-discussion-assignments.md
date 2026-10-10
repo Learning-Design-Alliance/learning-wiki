@@ -37,7 +37,7 @@ The strategy is to design homework that structurally requires family conversatio
 - increasing family involvement in homework across subjects
 
 ### Affordances
-- [Tips Interactive Homework Program](../elements/tips-interactive-homework-program.md)
+- [Tips Interactive Homework Program](../products/teachers-involve-parents-in-schoolwork.md)
 
 ## Related Strategies
 

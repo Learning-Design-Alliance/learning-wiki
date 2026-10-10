@@ -38,7 +38,7 @@ This strategy has students brainstorm and compile lists of unacceptable and acce
 - Peer accountability for team behavior
 
 ### Affordances
-- [360 Team Learning Foundation Platform](../theories/360-team-learning-foundation-platform.md)
+- [360 Team Learning Foundation Platform](../products/360-team-learning-foundation.md)
 
 ## Related Strategies
 

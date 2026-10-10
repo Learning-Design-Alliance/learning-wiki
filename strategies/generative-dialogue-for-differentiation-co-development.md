@@ -38,7 +38,7 @@ Generative dialogue is a tool the article recommends for guiding collaboratively
 - developing and implementing differentiation strategies through collaborative professional learning
 
 ### Affordances
-- [Dbir Approach Differentiated Instruction](../theories/dbir-approach-differentiated-instruction.md)
+- [Dbir Approach Differentiated Instruction](../research-methods/design-based-implementation-research-dbir.md)
 
 ## Related Strategies
 - 

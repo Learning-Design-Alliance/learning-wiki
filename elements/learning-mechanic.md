@@ -87,7 +87,7 @@ The worked example in the source is *Noobs vs. Leets*, a middle-school geometry 
 - [Simulation](simulation.md) — a rule-based system the learner acts within, which is the substrate a learning mechanic usually runs on
 - [Practice](practice.md) — the repetition a learning mechanic structures
 - [Epistemic Games: Shared Understanding Moves](epistemic-games-shared-understanding-moves.md) — a mechanic-level account of a different game genre, where the repeated activity is the professional community's own work
-- [ARC digital tools: content delivery and performance management system, e-libraries, and educational games](arc-digital-tools-element.md)
+- [ARC digital tools: content delivery and performance management system, e-libraries, and educational games](../products/arc-core.md)
 
 ## Examples
 - **Apply rules to solve problems** (*Noobs vs. Leets*): the learner selects among the angle rules and indicates which problems each applies to, keeping the repeated activity at the level of the rules rather than at the level of subtraction.

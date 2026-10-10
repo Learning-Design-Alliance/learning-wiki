@@ -40,7 +40,7 @@ The paper recommends that developers and educators use the research behind the F
 - Reading comprehension
 
 ### Affordances
-- [Lps K3 Reading Learner Model 34 Factors](../theories/lps-k3-reading-learner-model-34-factors.md)
+- [Lps K3 Reading Learner Model 34 Factors](../products/learner-variability-project.md)
 
 ## Related Strategies
 - 

@@ -38,7 +38,7 @@ The program offers professional development in multiple formats: "webinars, in-p
 
 ## Related Strategies
 
-- [Stemscopes Math Curriculum](../elements/stemscopes-math-curriculum.md)
+- [Stemscopes Math Curriculum](../products/stemscopes.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)

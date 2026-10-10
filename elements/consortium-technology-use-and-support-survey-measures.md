@@ -42,9 +42,8 @@ The UChicago Consortium formed seven measures from survey items asking teachers 
 
 ## Related Elements
 
-- [UChicago Consortium biennial school survey of teachers and grade 6-10 students](uchicago-consortium-biennial-teacher-student-survey.md)
-- [2003 Improving Chicago's Schools survey](2003-improving-chicago-schools-survey.md)
-- [Consortium school survey report system with 53 measures, demographic comparison groups, and time trends](ccsr-school-survey-report-measure-system.md)
+- [UChicago Consortium biennial school survey of teachers and grade 6-10 students](../products/5essentials-survey.md)
+- [2003 Improving Chicago's Schools survey](../products/2003-improving-chicagos-schools-survey.md)
 
 ## Examples
 

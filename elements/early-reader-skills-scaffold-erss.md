@@ -48,7 +48,7 @@ The Early Reader Skills Scaffold is a series of practice activities given to stu
 
 ## Related Elements
 
-- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](../products/map-reading-fluency.md)
 
 ## Examples
 -

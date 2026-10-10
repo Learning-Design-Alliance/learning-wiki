@@ -37,7 +37,7 @@ The paper advises policymakers facing co-teaching in value-added systems to rely
 - Fair attribution of achievement credit to teachers in value-added evaluation
 
 ### Affordances
-- [Four Options Co Teaching Value Added](../theories/four-options-co-teaching-value-added.md)
+- [Four Options Co Teaching Value Added](../research-methods/four-options-for-accounting-for-co-teaching-in-value-added-models.md)
 
 ## Related Strategies
 

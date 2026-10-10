@@ -37,7 +37,7 @@ Digital Promise developed two sets of rubrics: one to evaluate the potential of 
 - Historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing
 
 ### Affordances
-- [Evidence Centered Design Rubric Development](../theories/evidence-centered-design-rubric-development.md)
+- [Evidence Centered Design Rubric Development](../research-methods/evidence-centered-design.md)
 
 ## Claims
 

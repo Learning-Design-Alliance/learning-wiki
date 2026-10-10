@@ -47,10 +47,10 @@ The book proposes that coherence in Chicago's district reform did not come from 
 
 ## Related Theories
 
-- [CCSR theory of action: research builds capacity by supporting the search for solutions](ccsr-supporting-search-for-solutions-theory-of-action.md)
-- [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [CCSR theory of action: research builds capacity by supporting the search for solutions](../products/ccsr-theory-of-action.md)
+- [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [Five Chicago school turnaround reform models mapped to four federal intervention models](chicago-five-turnaround-reform-models-taxonomy.md)
-- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](chicago-three-pronged-theory-of-change.md)
+- [Chicago's three-pronged theory of change: classroom instruction, schools as the unit of change, and differentiated district support](../products/chicago-public-schools-three-pronged-theory-of-change.md)
 - [Competing theories of action for school change in Chicago: business-oriented, teaching-and-learning, community-dialogue/equity, and parental-control views](competing-theories-action-chicago-school-reform.md)
 - [Three-theme characterization of innovative interdisciplinary exploratory research: new frontiers, equitable co-design, and networked communities](three-themes-exploratory-research-character.md)
 

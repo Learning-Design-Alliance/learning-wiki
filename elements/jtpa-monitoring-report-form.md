@@ -42,7 +42,7 @@ A summary reporting form mirroring the 28 instrument items, with spaces for the 
 
 ## Related Elements
 
-- [JTPA self-monitoring instrument with 28 rated compliance indicators](jtpa-self-monitoring-instrument.md)
+- [JTPA self-monitoring instrument with 28 rated compliance indicators](../products/jtpa-self-monitoring-instrument.md)
 
 ## Examples
 

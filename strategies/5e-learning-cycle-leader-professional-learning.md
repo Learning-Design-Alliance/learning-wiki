@@ -37,7 +37,7 @@ A district science coordinator interviewed for the framework describes designing
 - Learning the NGSS and shifts in science teaching through experiential, learning-cycle-based professional learning
 
 ### Affordances
-- [Six Leadership Knowledge Areas Ngss](../designs/six-leadership-knowledge-areas-ngss.md)
+- [Six Leadership Knowledge Areas Ngss](../products/ngss-implementation-leadership-framework.md)
 
 ## Related Strategies
 

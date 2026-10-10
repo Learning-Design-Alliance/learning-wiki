@@ -47,7 +47,7 @@ The select-then-generate paradigm decomposes feedback generation for long docume
 
 ## Examples
 
-- [Insta-Reviewer: a select-then-generate system for instant feedback on student project reports](../elements/insta-reviewer-system.md)
+- [Insta-Reviewer: a select-then-generate system for instant feedback on student project reports](../products/insta-reviewer.md)
 
 ## Key Sources
 - Qinjin Jia, Mitchell Young, Yunkai Xiao, Jialin Cui, Chengyuan Liu, Parvez Rashid, Edward Gehringer. (2022). Automated Feedback Generation for Student Project Reports: A Data-Driven Approach. Journal of Educational Data Mining, Volume 14, No 3. https://github.com/qinjinjia/JEDM22_Automated_Feedback_Generation

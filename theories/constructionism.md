@@ -51,7 +51,7 @@ Papert saw computers as giving children unprecedented power to explore what he c
 
 - [Makerspace](../elements/makerspace.md) — a direct institutional expression of constructionist learning: learners build tangible, shareable artifacts with support from more experienced makers
 - The Logo programming language and "turtle graphics," Papert's original vehicle for children to construct and debug geometric ideas through programming
-- [Scratch block-based programming language and sharing ecosystem](../elements/scratch-block-programming-ecosystem.md)
+- [Scratch block-based programming language and sharing ecosystem](../products/scratch.md)
 
 ## Key Sources
 - Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books.

@@ -3,7 +3,7 @@ type: revisions
 page: ../elements/chinese-university-oral-english-corpus.md
 ---
 
-# Revision history: [elements/chinese-university-oral-english-corpus](../elements/chinese-university-oral-english-corpus.md)
+# Revision history: [elements/chinese-university-oral-english-corpus](../products/annotated-oral-english-corpus-of-4374-recordings-from-486-chinese-university-students-acro.md)
 
 ### 2026-09-25 · ingest · process:wiki-ingest
 Ingested from pmc-13478291 (Deep learning-based intelligent diagnosis and adaptive training system for university english oral proficiency.) via eval_harness.py + ingest_extractions.py

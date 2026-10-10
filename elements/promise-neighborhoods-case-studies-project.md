@@ -38,7 +38,7 @@ Promise Neighborhoods Case Studies is the associated project under which this si
 
 ## Related Elements
 
-- [Chula Vista Promise Neighborhood (CVPromise): a place-based community program serving the Castle Park neighborhood](cvpromise-chula-vista-promise-neighborhood-program.md)
+- [Chula Vista Promise Neighborhood (CVPromise): a place-based community program serving the Castle Park neighborhood](../products/chula-vista-promise-neighborhood.md)
 - [Los Angeles Promise Neighborhood: a two-community Promise Neighborhoods implementation spanning Pacoima and Hollywood](la-promise-neighborhood-two-community-site.md)
 
 ## Examples

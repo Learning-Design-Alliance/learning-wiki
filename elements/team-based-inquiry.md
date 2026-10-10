@@ -66,7 +66,7 @@ Structured team inquiry improves achievement and peer interaction quality compar
 - [Scaffolding](scaffolding.md) — the question sequence and role structure function as fading supports
 - [Class Discussion](class-discussion.md) — whole-class debriefs after team work consolidate and correct group conclusions
 - [Check-In](check-in.md) — brief individual accountability checks (e.g., readiness quizzes before team work)
-- [Collaborative Way teaming model (Fickett and Fickett)](collaborative-way-teaming-model.md)
+- [Collaborative Way teaming model (Fickett and Fickett)](../products/collaborative-way.md)
 
 ## Patterns That Use This Element
 - Process-Oriented Guided Inquiry Learning (POGIL) — the canonical pattern: teams of 3–4 with assigned roles work through guided-inquiry activity sets, followed by instructor-facilitated reporting

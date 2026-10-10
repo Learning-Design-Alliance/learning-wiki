@@ -40,7 +40,7 @@ The deck specifies a vocabulary set labeled "Words to teach" for algorithm lesso
 
 - [Code.org CS Fundamentals unplugged lessons: Dice Race, My Robotic Friends, Paper Planes, Plant a Seed, Tangrams](code-org-cs-fundamentals-algorithm-lessons.md)
 - [Flowcharts as a representation for planning algorithms](flowcharts-algorithm-planning-representation.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 
 ## Examples
 -

@@ -44,7 +44,7 @@ The 1994 student survey includes Rasch measures of the learning climate: Press T
 ## Related Elements
 
 - [Teacher instructional guidance measures of basic-skills and application-oriented emphasis in language arts and math](instructional-guidance-teacher-measures-language-arts-math.md)
-- [Rasch rating-scale analysis methodology for deriving school survey measures](rasch-rating-scale-survey-measure-methodology.md)
+- [Rasch rating-scale analysis methodology for deriving school survey measures](../research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md)
 - [Relational Trust measures built from teacher-parent, teacher-principal, and teacher-teacher trust scales across 1991, 1994, and 1997](relational-trust-measures-1991-1994-1997.md)
 
 ## Examples

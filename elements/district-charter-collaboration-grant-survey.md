@@ -38,7 +38,7 @@ A survey of district and charter school educators (teachers and principals) samp
 
 ## Related Elements
 
-- [District-Charter Collaboration Grants program](district-charter-collaboration-grants-program.md)
+- [District-Charter Collaboration Grants program](../products/district-charter-collaboration-grants-program.md)
 
 ## Examples
 -

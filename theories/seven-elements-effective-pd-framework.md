@@ -42,7 +42,7 @@ The report organizes its professional learning analysis around seven elements th
 
 ## Related Theories
 
-- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](standards-for-professional-learning-seven-standards.md)
+- [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](../products/standards-for-professional-learning.md)
 
 ## Examples
 

@@ -43,7 +43,7 @@ In the studied program, teachers used multiple child assessments, including a ne
 ## Related Elements
 
 - [Blended learning model in Milpitas preschool classrooms](milpitas-preschool-blended-learning-model.md)
-- [EDIT measure for examining teachers' use of ongoing child assessment to individualize instruction](edit-measure-ongoing-child-assessment-individualization.md)
+- [EDIT measure for examining teachers' use of ongoing child assessment to individualize instruction](../products/edit-measure.md)
 
 ## Examples
 

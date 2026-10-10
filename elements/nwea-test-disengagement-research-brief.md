@@ -46,7 +46,7 @@ A 2019 NWEA research brief by Megan Kuhfeld and James Soland, categorized under 
 
 ## Related Elements
 
-- [Two techniques for accounting for test disengagement: sample removal and rapid-guess score adjustment](two-disengagement-accounting-techniques.md)
+- [Two techniques for accounting for test disengagement: sample removal and rapid-guess score adjustment](../research-methods/test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction.md)
 
 ## Examples
 

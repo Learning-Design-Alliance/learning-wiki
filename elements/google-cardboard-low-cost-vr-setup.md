@@ -42,7 +42,7 @@ The article describes Google Cardboard-style headsets, which resemble goggles an
 
 ## Related Elements
 
-- [Google Expeditions Pioneer Program: free virtual field trip kits for schools](google-expeditions-pioneer-program.md)
+- [Google Expeditions Pioneer Program: free virtual field trip kits for schools](../products/google-expeditions.md)
 - [Curated list of VR websites and apps for classroom literacy use (Table 1)](vr-resources-table-literacy-classroom.md)
 
 ## Examples

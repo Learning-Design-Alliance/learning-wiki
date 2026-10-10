@@ -39,7 +39,7 @@ The article provides guidelines for choosing among LL-DC, PS-DC, and W-DC depend
 - choosing and computing an appropriate decision consistency estimate for a pass/fail exam
 
 ### Affordances
-- [Ctt Decision Consistency Methods Taxonomy](../theories/ctt-decision-consistency-methods-taxonomy.md)
+- [Ctt Decision Consistency Methods Taxonomy](../research-methods/classical-test-theory-decision-consistency-estimation-methods.md)
 
 ## Related Strategies
 - 

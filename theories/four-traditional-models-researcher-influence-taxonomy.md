@@ -40,7 +40,7 @@ The report characterizes four traditional roles university-based educational res
 
 ## Related Theories
 
-- [CCSR theory of action: research builds capacity by supporting the search for solutions](ccsr-supporting-search-for-solutions-theory-of-action.md)
+- [CCSR theory of action: research builds capacity by supporting the search for solutions](../products/ccsr-theory-of-action.md)
 
 ## Examples
 

@@ -37,7 +37,7 @@ An implementable operating routine for school-family partnership teams: ATP memb
 - Sustained, continually improving family and community engagement outreach to all families
 
 ### Affordances
-- [Nnps Six Types Involvement Framework](../theories/nnps-six-types-involvement-framework.md)
+- [Nnps Six Types Involvement Framework](../products/national-network-of-partnership-schools-nnps.md)
 
 ## Related Strategies
 

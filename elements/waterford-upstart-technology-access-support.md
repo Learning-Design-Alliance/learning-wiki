@@ -38,8 +38,8 @@ The program specifies its technology needs and provides access support: "Familie
 
 ## Related Elements
 
-- [Waterford Upstart early learning program](waterford-upstart-program.md)
-- [Reading Plus technology access requirements](reading-plus-technology-access-requirements.md)
+- [Waterford Upstart early learning program](../products/waterford-upstart.md)
+- [Reading Plus technology access requirements](../products/reading-plus.md)
 
 ## Examples
 -

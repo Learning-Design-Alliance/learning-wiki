@@ -47,7 +47,7 @@ A simulation design crossing three item pool types (on-grade, ±1 grade, all-gra
 
 ## Related Elements
 
-- [Enhanced CBE simulator in Assessment Integration Management (AIM)](cbe-aim-simulator-capacity.md)
+- [Enhanced CBE simulator in Assessment Integration Management (AIM)](../products/assessment-integration-management-aim.md)
 
 ## Examples
 

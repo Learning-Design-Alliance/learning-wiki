@@ -42,7 +42,7 @@ The article frames school entry age as a factor shaping academic growth through 
 
 ## Related Theories
 
-- [Regression discontinuity embedded in a piecewise multilevel growth model for entry-age effects](rd-piecewise-growth-model-entry-age.md)
+- [Regression discontinuity embedded in a piecewise multilevel growth model for entry-age effects](../research-methods/regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff.md)
 
 ## Examples
 

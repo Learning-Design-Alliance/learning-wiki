@@ -43,7 +43,7 @@ Equity Unbound is described as "an emergent, collaborative curriculum which aims
 ## Related Elements
 
 - [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](collaborative-web-annotation-marginal-syllabus.md)
-- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](virtually-connecting-equitable-conversations.md)
+- [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../products/virtually-connecting.md)
 
 ## Examples
 

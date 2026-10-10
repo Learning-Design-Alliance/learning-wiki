@@ -41,7 +41,7 @@ TDHS gives ninth graders a double dose of reading: students take double periods 
 - 
 
 ## Related Designs
-- [Tdhs Whole School Reform Model](../elements/tdhs-whole-school-reform-model.md)
+- [Tdhs Whole School Reform Model](../products/talent-development-high-school.md)
 
 ## Examples
 -

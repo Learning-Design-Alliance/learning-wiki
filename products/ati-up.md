@@ -1,0 +1,82 @@
+---
+type: product
+id: ati-up
+title: ATI-UP
+description: ATI-UP is a preventive, school-wide, multi-tiered attendance intervention developed for school teams to promote attendance and reduce chronic absenteeism through problem-solving, family and community engagement, attendance promotion, and behavior motivation.
+product_kind: programme
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: berg-2018
+    resource: "https://www.evidenceforessa.org"
+    title: "Berg. (2018). ATI-UP (Attendance Intervention-Universal Plus). https://www.evidenceforessa.org"
+    author: Berg
+---
+
+# ATI-UP
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+ATI-UP is a preventive, school-wide, multi-tiered attendance intervention developed for school teams to promote attendance and reduce chronic absenteeism through problem-solving, family and community engagement, attendance promotion, and behavior motivation.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+### Claims
+- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](../claims/ati-up-increases-average-daily-attendance.md) [+W]
+- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](../claims/ati-up-reduces-chronic-absenteeism.md) [+W]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Berg. (2018). ATI-UP (Attendance Intervention-Universal Plus). https://www.evidenceforessa.org
+
+<!-- merged 2026-10-10 from elements/ati-up-program-element ("ATI-UP: a preventive, school-wide multi-tiered attendance intervention"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# ATI-UP: a preventive, school-wide multi-tiered attendance intervention
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+ATI-UP is "a preventive, school-wide intervention" in which school teams follow "a multi-tiered, multi-system framework intended to increase attendance for all students and reduce the number of students identified as chronically absent." Its systems include a problem-solving team, a parental/community engagement component, promotion of attendance in school, and motivation for improvements in behavior. The goal is a positive social climate in which attendance expectations are directly taught, consistently acknowledged, and actively monitored.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Schools designate a team of at least three members (administrator, interventionist, and teacher) who meet monthly to review attendance data and problem-solve
+- Teams need access to attendance data
+#### Constraints
+- No specific technology required
+
+### Target Learners
+- all elementary school students
+
+### Target Learning Goals
+- increasing average daily attendance
+- reducing chronic absenteeism
+
+## Claims
+
+- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](../claims/ati-up-increases-average-daily-attendance.md) [+W]
+- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](../claims/ati-up-reduces-chronic-absenteeism.md) [+W]
+
+## Related Elements
+- 
+
+## Examples
+
+- [Provide two days of pre-implementation training plus ongoing technical support for school teams](../strategies/ati-up-two-day-training-ongoing-support.md)
+- [Use a monthly school attendance team to review data and problem-solve](../strategies/monthly-attendance-data-team-review.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](../strategies/school-implementation-team-monthly-training-support.md)
+- [Implement a tiered, prevention-first approach to reducing chronic absence that invests in positive conditions for learning](../strategies/tiered-prevention-first-attendance-approach.md)
+
+## Key Sources
+- Berg. (2018). ATI-UP (Attendance Intervention-Universal Plus). https://www.evidenceforessa.org
+-->

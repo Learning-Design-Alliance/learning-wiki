@@ -49,7 +49,7 @@ The article applies Bandura's (1977) self-efficacy construct to teaching environ
 
 ## Examples
 
-- [Environmental Education Efficacy Belief Instrument (EEEBI)](../elements/eeebi-environmental-education-efficacy-belief-instrument.md)
+- [Environmental Education Efficacy Belief Instrument (EEEBI)](../products/environmental-education-efficacy-belief-instrument-eeebi.md)
 - [Address preservice teachers' EE teaching efficacy through infusion across methods courses or a separate EE course](../strategies/ee-training-infusion-or-separate-course.md)
 - [Communicating Positive Expectations](../strategies/communicating_positive_expectations.md)
 

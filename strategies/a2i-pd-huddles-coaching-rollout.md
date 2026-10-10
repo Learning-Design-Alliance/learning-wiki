@@ -39,7 +39,7 @@ This professional development strategy combines a 90-minute getting started with
 
 ## Related Strategies
 
-- [A2I Professional Support System](../elements/a2i-professional-support-system.md)
+- [A2I Professional Support System](../products/a2i.md)
 - [Appoint a Literacy Champion as school-level contact to support A2i rollout](literacy-champion-school-level-contact.md)
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
 

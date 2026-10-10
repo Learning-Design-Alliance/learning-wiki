@@ -37,7 +37,7 @@ A 2019 NWEA Research brief by Steven Wise and Megan Kuhfeld titled "What happens
 - Valid test scores unaffected by rapid-guessing disengagement
 
 ### Affordances
-- [Cessation Of Measurement Disengagement Framework](../theories/cessation-of-measurement-disengagement-framework.md)
+- [Cessation Of Measurement Disengagement Framework](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 
 ## Claims
 
@@ -49,7 +49,7 @@ A 2019 NWEA Research brief by Steven Wise and Megan Kuhfeld titled "What happens
 
 ## Related Elements
 
-- [Response-time-based method for identifying test taker disengagement](response-time-disengagement-identification-method.md)
+- [Response-time-based method for identifying test taker disengagement](../research-methods/response-time-based-detection-of-test-taker-disengagement.md)
 
 ## Examples
 

@@ -42,8 +42,7 @@ The survey defines "learner variability" as a construct covering the abilities s
 
 ## Related Theories
 
-- [Learner variability whole child framework: strengths and challenges across content, cognition, social-emotional learning, and student background](learner-variability-whole-child-framework.md)
-- [LPS Learner Factors model for Reading PK-3](lps-learner-factors-reading-pk3-model.md)
+- [Learner variability whole child framework: strengths and challenges across content, cognition, social-emotional learning, and student background](../products/learner-variability-project.md)
 
 ## Examples
 -

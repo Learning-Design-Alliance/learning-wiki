@@ -39,8 +39,8 @@ The deck presents App Inventor as a tool for students to build mobile apps, sugg
 ## Related Elements
 
 - [Scratch coding activities expressing content as interactive illustrations, games, or stories](scratch-content-coding-activities-3-8.md)
-- [ScratchJR app for young children to build interactive stories and games](scratchjr-k2-interactive-stories-games.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [ScratchJR app for young children to build interactive stories and games](../products/scratchjr.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 
 ## Examples
 -

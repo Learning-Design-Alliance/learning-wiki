@@ -40,7 +40,7 @@ The deck recommends five named Code.org CS Fundamentals lessons for introducing 
 
 - [Ten-term algorithm vocabulary set for grades 3-8](algorithm-vocabulary-ten-terms-3-8.md)
 - [Codable maze unplugged lesson for shortest-distance algorithms across content areas](codable-maze-unplugged-shortest-distance-lesson.md)
-- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
+- [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](../products/ct-booster.md)
 - [Scratch coding activities expressing content as interactive illustrations, games, or stories](scratch-content-coding-activities-3-8.md)
 
 ## Examples

@@ -44,7 +44,7 @@ The Contact Initiation Form is the entry asset of the CCC Chancellor's Office ev
 
 ## Related Elements
 
-- [CCC product badges: Centering Students' Diverse Lived Experiences, Commitment to Continuous Improvement, and Faculty Agency and Connection](ccc-product-badges-three-competencies.md)
+- [CCC product badges: Centering Students' Diverse Lived Experiences, Commitment to Continuous Improvement, and Faculty Agency and Connection](../products/ccc-product-badges.md)
 
 ## Examples
 

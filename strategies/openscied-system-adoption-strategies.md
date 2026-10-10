@@ -36,7 +36,7 @@ The paper describes three ways OpenSciEd works with district and state partners 
 - building district and state capacity to adopt and sustain OpenSciEd instruction
 
 ### Affordances
-- [Openscied Research Logic Model](../theories/openscied-research-logic-model.md)
+- [Openscied Research Logic Model](../products/openscied.md)
 
 ## Related Strategies
 

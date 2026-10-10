@@ -45,7 +45,7 @@ The reviewed evidence indicates that a program model pairing full-time technical
 - [Year Up No Effect Medium Term Earnings](../claims/year-up-no-effect-medium-term-earnings.md) [~M]
 
 ## Related Designs
-- [Year Up Program Element](../elements/year-up-program-element.md)
+- [Year Up Program Element](../products/year-up.md)
 
 ## Examples
 -

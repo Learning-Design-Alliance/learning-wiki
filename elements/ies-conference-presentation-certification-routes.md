@@ -46,7 +46,7 @@ A PowerPoint presentation delivered at the annual Institute of Education Science
 
 - [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
 - [Alternative teacher certification routes compared in the IES studies: highly selective (Teach For America, Teaching Fellows) and less selective routes](alt-route-teacher-certification-selectivity-tiers.md)
-- [Passport to Teaching: ABCTE's examination-based certification approach for identifying competent teachers regardless of preparation route](passport-to-teaching-abcte-exam-certification.md)
+- [Passport to Teaching: ABCTE's examination-based certification approach for identifying competent teachers regardless of preparation route](../products/passport-to-teaching.md)
 
 ## Examples
 -

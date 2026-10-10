@@ -36,7 +36,7 @@ The paper illustrates two research opportunities that leverage OpenSciEd's uniqu
 - equitable science learning, autonomy, and engagement
 
 ### Affordances
-- [Openscied Research Logic Model](../theories/openscied-research-logic-model.md)
+- [Openscied Research Logic Model](../products/openscied.md)
 
 ## Related Strategies
 

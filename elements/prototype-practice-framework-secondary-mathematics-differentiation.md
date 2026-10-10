@@ -38,7 +38,7 @@ The article presents a prototype practice framework developed within a broader s
 - bridging the theory-practice gap in differentiated instruction; improving teacher confidence, competence and efficacy in differentiating mathematics instruction
 
 ### Affordances
-- [Dbir Approach Differentiated Instruction](../theories/dbir-approach-differentiated-instruction.md)
+- [Dbir Approach Differentiated Instruction](../research-methods/design-based-implementation-research-dbir.md)
 
 ## Claims
 
@@ -49,7 +49,7 @@ The article presents a prototype practice framework developed within a broader s
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~W]
 
 ## Related Elements
-- [Reach Differentiation Practice Framework](reach-differentiation-practice-framework.md)
+- [Reach Differentiation Practice Framework](../products/reach-practice-framework-for-differentiated-instruction.md)
 
 ## Examples
 -

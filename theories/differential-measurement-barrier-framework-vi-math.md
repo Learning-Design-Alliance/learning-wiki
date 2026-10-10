@@ -49,8 +49,8 @@ The brief organizes its findings around a barriers account of math inaccessibili
 ## Examples
 
 - [Use AI-based text analysis (word embeddings plus classifiers) to screen math assessment items for accessibility before deployment](../strategies/ai-text-analysis-screen-math-items-accessibility.md)
-- [Word embedding and classifier toolkit for predicting accessible math item quality](../elements/word-embedding-classifier-toolkit-accessible-math-items.md)
-- [MAP Growth math assessment data corpus for accessibility research](../elements/map-growth-math-accessibility-data-corpus.md)
+- [Word embedding and classifier toolkit for predicting accessible math item quality](../research-methods/machine-learning-prediction-of-accessible-assessment-item-quality.md)
+- [MAP Growth math assessment data corpus for accessibility research](../products/map-growth-math-assessment-data-corpus.md)
 
 ## Key Sources
 - Kang Xue, Elizabeth Barker. (2022). Using Artificial Intelligence (AI) to improve math accessibility for students with visual impairments. https://www.nwea.org/resources/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/

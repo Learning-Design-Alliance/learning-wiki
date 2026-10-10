@@ -48,12 +48,12 @@ Scarborough's 2001 Strand Model, or Reading Rope, elaborates the Simple View by 
 ## Related Theories
 
 - [Simple View Of Reading Product Model](simple-view-of-reading-product-model.md)
-- [Two-strand model of beginning literacy: language comprehension and word recognition](two-strand-beginning-literacy-model.md)
+- [Two-strand model of beginning literacy: language comprehension and word recognition](../products/sipps.md)
 - [Simple View of Reading as the design basis for MAP Reading Fluency](simple-view-of-reading-design-basis.md)
 
 ## Examples
 
-- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](../elements/map-reading-fluency-adaptive-assessment-element.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](../products/map-reading-fluency.md)
 
 ## Key Sources
 - MAP Reading Fluency with Coach Evidence Base. (2024). NWEA. https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/

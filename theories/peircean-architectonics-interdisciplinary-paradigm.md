@@ -52,7 +52,7 @@ Architectonics is presented as the cross-disciplinary term for the systematic, c
 
 ## Examples
 
-- [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](../elements/bernauer-tomei-integrated-matrix-quadrants.md)
+- [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](../products/bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md)
 - [Four architectonic guiding principles for integrating teaching, learning, and technology](architectonic-guiding-principles-integration.md)
 
 ## Key Sources

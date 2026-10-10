@@ -47,7 +47,7 @@ The publication is described as an "Infographic for parents on the importance of
 - [Attendance poster/infographic for pre-kindergarten and kindergarten audiences](early-attendance-importance-poster-infographic.md)
 - [Fact sheet on chronic absenteeism risk factors in the early grades for schools](early-grades-chronic-absenteeism-fact-sheet.md)
 - [Fact sheet on chronic absenteeism in pre-kindergarten and kindergarten for New Jersey districts and school leaders](nj-early-grades-chronic-absenteeism-fact-sheet.md)
-- [Go-Learn-Grow toolkit for improving pre-kindergarten and kindergarten attendance](go-learn-grow-attendance-toolkit.md)
+- [Go-Learn-Grow toolkit for improving pre-kindergarten and kindergarten attendance](../products/go-learn-grow.md)
 - [Toolkit for improving attendance in pre-kindergarten and kindergarten for districts, schools, and early childhood providers](early-grades-attendance-improvement-toolkit.md)
 - [Fact sheet guiding districts and schools on early-grade attendance strategies](early-grade-attendance-fact-sheet-nj.md)
 

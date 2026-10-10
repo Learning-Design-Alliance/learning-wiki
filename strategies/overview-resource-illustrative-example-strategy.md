@@ -37,7 +37,7 @@ To help practitioners adopt the phased M&E approach, the publication pairs the f
 - Understanding how to apply the four-phase M&E approach in practice
 
 ### Affordances
-- [Four Phase Me Evidence Building Approach](../theories/four-phase-me-evidence-building-approach.md)
+- [Four Phase Me Evidence Building Approach](../products/mathematicas-me-approach-and-associated-toolkit.md)
 
 ## Related Strategies
 

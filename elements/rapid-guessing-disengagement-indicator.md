@@ -42,7 +42,7 @@ The study identifies disengaged test taking through rapid-guessing behavior, whi
 
 ## Related Elements
 
-- [Rapid guessing as an indicator for detecting test taker disengagement](rapid-guessing-disengagement-detection.md)
+- [Rapid guessing as an indicator for detecting test taker disengagement](../research-methods/rapid-guessing-detection-of-test-taker-disengagement.md)
 
 ## Examples
 -

@@ -1,0 +1,80 @@
+---
+type: product
+id: ai-ecological-education-policy-framework
+title: AI Ecological Education Policy Framework
+description: A framework proposed by Chan for guiding institutional AI integration through pedagogical, governance, and operational dimensions.
+product_kind: framework
+status: draft
+generated:
+  by: "process:sweep-kinds"
+  at: 2026-10-10
+sources:
+  - id: jacob-s-miceli-h
+    resource: "https://doi.org/10.51388/20.500.12265/293"
+    title: "Jacob, S., Miceli, H., & Schneider, H. (2026, May). Landscape of emerging technologies in higher education: A review. Digital Promise & The American Association of Colleges & Universities. https://doi.org/10.51388/20.500.12265/293"
+---
+
+# AI Ecological Education Policy Framework
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+A framework proposed by Chan for guiding institutional AI integration through pedagogical, governance, and operational dimensions.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **AI Ecological Education Policy Framework with pedagogical, governance, and operational dimensions**: The review describes, citing Chan (2023), an "AI Ecological Education Policy Framework" proposed to guide AI integration in teaching and learning. The framework organizes institutional AI governance across three dimensions—pedagogical, governance, and operational—so that policy addresses how AI is taught with, how it is governed, and how it is operationally managed. The review presents it as an example of ecological and ethical policy models through which institutional leadership is beginning to shape AI integration. (Landscape of Emerging Technologies in Higher Education: A Review)
+
+### Claims
+- [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](../claims/review-69-percent-colleges-genai-policies.md) [+M]
+- [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](../claims/governance-integration-enhances-ca-decision-making.md) [+W]
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Jacob, S., Miceli, H., & Schneider, H. (2026, May). Landscape of emerging technologies in higher education: A review. Digital Promise & The American Association of Colleges & Universities. https://doi.org/10.51388/20.500.12265/293
+
+<!-- merged 2026-10-10 from theories/ai-ecological-education-policy-framework ("AI Ecological Education Policy Framework with pedagogical, governance, and operational dimensions"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# AI Ecological Education Policy Framework with pedagogical, governance, and operational dimensions
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The review describes, citing Chan (2023), an "AI Ecological Education Policy Framework" proposed to guide AI integration in teaching and learning. The framework organizes institutional AI governance across three dimensions—pedagogical, governance, and operational—so that policy addresses how AI is taught with, how it is governed, and how it is operationally managed. The review presents it as an example of ecological and ethical policy models through which institutional leadership is beginning to shape AI integration.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Institutional leadership must adopt and operationalize the framework across pedagogical, governance, and operational dimensions
+#### Constraints
+- The review attributes the framework to Chan (2023) and does not report empirical tests of it
+
+### Target Learners
+- higher education instructors
+- higher education students
+
+### Target Learning Objectives
+- responsible and ethical integration of AI in teaching and learning
+
+### Claims
+
+- [Review 69 Percent Colleges Genai Policies](../claims/review-69-percent-colleges-genai-policies.md) [+M]
+- [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](../claims/governance-integration-enhances-ca-decision-making.md) [+W]
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
+
+## Related Theories
+
+- [Six-topic taxonomy for guiding GenAI responsible use policy content](six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content.md)
+
+## Examples
+-
+
+## Key Sources
+- Jacob, S., Miceli, H., & Schneider, H. (2026, May). Landscape of emerging technologies in higher education: A review. Digital Promise & The American Association of Colleges & Universities. https://doi.org/10.51388/20.500.12265/293
+-->

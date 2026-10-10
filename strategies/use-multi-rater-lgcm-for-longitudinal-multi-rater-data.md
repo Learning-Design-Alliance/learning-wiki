@@ -37,7 +37,7 @@ The article recommends its model for researchers analyzing longitudinal data in 
 - valid estimation of growth in multi-rater constructs
 
 ### Affordances
-- [Multi Rater Latent Growth Curve Model](../theories/multi-rater-latent-growth-curve-model.md)
+- [Multi Rater Latent Growth Curve Model](../research-methods/multi-rater-latent-growth-curve-model.md)
 
 ## Related Strategies
 - 

@@ -41,8 +41,8 @@ The report introduces a framework organizing guidance for developers, educators,
 ## Related Theories
 
 - [Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership](powerful-learning-meaningful-use-inclusive-access-leadership.md)
-- [Digital Promise's Powerful Learning framework: agency, purpose, curiosity, connection](powerful-learning-four-qualities-digital-promise.md)
-- [Framework for Powerful Learning with Emerging Technology organized around three mutually reinforcing principles](powerful-learning-emerging-technology-framework.md)
+- [Digital Promise's Powerful Learning framework: agency, purpose, curiosity, connection](../products/digital-promises-powerful-learning-framework.md)
+- [Framework for Powerful Learning with Emerging Technology organized around three mutually reinforcing principles](../products/framework-for-powerful-learning-with-emerging-technology.md)
 
 ## Examples
 

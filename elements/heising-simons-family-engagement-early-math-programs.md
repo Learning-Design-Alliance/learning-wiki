@@ -43,8 +43,8 @@ The brief describes five family engagement programs funded by the Heising-Simons
 
 ## Related Elements
 
-- [YMCA of Silicon Valley early math project scaled up in new sites](ymca-silicon-valley-early-math-family-engagement-project.md)
-- [Reach Out and Read early math project scaled up in new sites](ror-early-math-family-engagement-project.md)
+- [YMCA of Silicon Valley early math project scaled up in new sites](../products/ymca-of-silicon-valley-early-math-project.md)
+- [Reach Out and Read early math project scaled up in new sites](../products/reach-out-and-read-ror-early-math-project.md)
 
 ## Examples
 -

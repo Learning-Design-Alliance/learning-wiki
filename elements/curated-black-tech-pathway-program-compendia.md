@@ -44,7 +44,7 @@ The scan assembles curated resource lists (Tables 3-5) of programs, organization
 
 ## Related Elements
 
-- [Inclusive Cybersecurity Pathways with Workforce Credentials](inclusive-cybersecurity-pathways-credential.md)
+- [Inclusive Cybersecurity Pathways with Workforce Credentials](../products/east-alabama-regional-cybersecurity-alliance-earca.md)
 
 ## Examples
 

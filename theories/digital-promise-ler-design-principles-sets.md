@@ -41,7 +41,7 @@ The toolkit catalogs three Digital Promise principle sets developed with front-l
 ## Related Theories
 
 - [Inclusive user experience (IUX) as a learner-centered design approach for LER technologies](iux-inclusive-user-experience-ler.md)
-- [SkillsFWD guiding principles for equitable LER technology design](skillsfwd-guiding-principles-ler.md)
+- [SkillsFWD guiding principles for equitable LER technology design](../products/seven-co-designed-learning-transition-design-principles-for-ler-technologies.md)
 
 ## Examples
 

@@ -48,7 +48,7 @@ A published infographic from the Regional Educational Laboratory Mid-Atlantic, r
 
 ## Related Elements
 
-- [Competencies and Strategies of Effective School Turnaround Leaders infographic](turnaround-leaders-competencies-infographic.md)
+- [Competencies and Strategies of Effective School Turnaround Leaders infographic](../products/turnaround-leader-competencies.md)
 
 ## Examples
 

@@ -51,8 +51,8 @@ The report contrasts two fundamentally different adaptive testing architectures 
 
 ## Examples
 
-- [CBE enhancements for MAP Growth delivery (Project Altair)](../elements/cbe-project-altair-enhancements.md)
-- [Enhanced constraint-based engine (CBE) test models with guidelines and constraints for MAP Growth delivery](../elements/cbe-test-models-guidelines-constraints.md)
+- [CBE enhancements for MAP Growth delivery (Project Altair)](../products/project-altair.md)
+- [Enhanced constraint-based engine (CBE) test models with guidelines and constraints for MAP Growth delivery](../products/map-growth-interim-computer-adaptive-assessment-system.md)
 
 ## Key Sources
 - Hu, A., Chien, M., & Meyer, P. (2021). Comparability of MAP Growth tests administered through different technology and psychometric infrastructure: A simulation study. NWEA. https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-a-simulation-study/

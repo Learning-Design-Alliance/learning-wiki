@@ -51,7 +51,7 @@ A semi-structured interview instrument conducted with undergraduate Statistics s
 
 ## Related Elements
 
-- [Lumen One Introduction to Statistics courseware](lumen-one-intro-statistics-courseware.md)
+- [Lumen One Introduction to Statistics courseware](../products/lumen-one-introduction-to-statistics.md)
 
 ## Examples
 

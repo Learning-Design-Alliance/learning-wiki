@@ -44,7 +44,7 @@ A technical brief published by NWEA Research in September 2024 by Susan Kowalski
 
 ## Related Elements
 
-- [NWEA science achievement trend analysis dataset covering seven school years (2019-2024)](nwea-science-achievement-trend-analysis-2019-2024.md)
+- [NWEA science achievement trend analysis dataset covering seven school years (2019-2024)](../products/nwea-science-achievement-trend-analysis-dataset.md)
 
 ## Examples
 -

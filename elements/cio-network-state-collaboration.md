@@ -42,7 +42,7 @@ A network created to sustain collaboration among states involved in data-linking
 
 ## Related Elements
 
-- [Teacher-Student Data Link (TSDL) project](tsdl-project-element.md)
+- [Teacher-Student Data Link (TSDL) project](../products/teacher-student-data-link.md)
 - [TSDL-inspired data activities: roster verification, data system integration, and new data presentation](tsdl-inspired-data-activities.md)
 
 ## Examples

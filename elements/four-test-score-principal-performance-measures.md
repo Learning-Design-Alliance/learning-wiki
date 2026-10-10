@@ -45,9 +45,9 @@ The study assessed four principal performance measures based on student test sco
 
 ## Related Elements
 
-- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
+- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../products/value-added-assessment-system-for-dc-schools-and-teachers.md)
 - [Four principal performance measures based on student test scores evaluated in Pennsylvania](four-principal-test-score-performance-measures.md)
-- [Value-added measures of teacher effectiveness](value-added-teacher-effectiveness-measures.md)
+- [Value-added measures of teacher effectiveness](../research-methods/value-added-modeling.md)
 
 ## Examples
 -

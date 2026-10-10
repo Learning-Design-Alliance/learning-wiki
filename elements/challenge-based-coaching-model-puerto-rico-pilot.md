@@ -45,7 +45,7 @@ El Modelo de Coaching Basado en Retos es un modelo de coaching instructivo desar
 
 ## Related Elements
 
-- [Micro-credenciales de Digital Promise](digital-promise-microcredentials-element.md)
+- [Micro-credenciales de Digital Promise](../products/digital-promise-micro-credentials.md)
 
 ## Examples
 

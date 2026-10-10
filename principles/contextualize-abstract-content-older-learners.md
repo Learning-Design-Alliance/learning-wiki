@@ -49,7 +49,7 @@ The author reports that abstract information is challenging for older learners, 
 
 ## Examples
 
-- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../products/step-one.md)
 - [Picture Dictionaries](../strategies/picture_dictionaries.md)
 - [Mystery Emotion](../strategies/mystery_emotion.md)
 - [Accommodate age-related physical and sensory changes through high-contrast large-print materials, clear face-to-face speech, easy-grip manipulatives, and short morning sessions](../strategies/physical-sensory-accommodations-older-learners.md)

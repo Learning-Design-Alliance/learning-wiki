@@ -37,7 +37,7 @@ The article recommends that education officials use the framework's information 
 - Identifying student and school needs and making informed improvement decisions
 
 ### Affordances
-- [Outcomes Impacts Processes School Performance Framework](../theories/outcomes-impacts-processes-school-performance-framework.md)
+- [Outcomes Impacts Processes School Performance Framework](../research-methods/three-question-structure-for-school-performance-inquiry.md)
 
 ## Related Strategies
 - 

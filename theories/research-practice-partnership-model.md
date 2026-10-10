@@ -46,7 +46,7 @@ The report presents the research-practice partnership (RPP) as a collaboration m
 ## Related Theories
 
 - [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
-- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](rpp-research-as-adaptive-infrastructure.md)
+- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](../products/uchicago-consortiums-research-practice-partnership-model.md)
 - [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)
 
 ## Examples

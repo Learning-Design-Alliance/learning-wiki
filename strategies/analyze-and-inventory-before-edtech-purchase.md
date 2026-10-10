@@ -37,7 +37,7 @@ Step 1 of the framework directs leaders to begin "with cross-departmental analys
 - Identifying instructional gaps and priority learner populations
 
 ### Affordances
-- [Edtech Procurement Framework Six Steps](../theories/edtech-procurement-framework-six-steps.md)
+- [Edtech Procurement Framework Six Steps](../products/edtech-procurement-framework.md)
 
 ## Related Strategies
 

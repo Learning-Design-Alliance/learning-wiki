@@ -47,7 +47,7 @@ CRCs "provide recovery oriented support services (e.g., self‐help groups, coun
 
 ## Related Elements
 
-- [Recovery high schools (RHSs): secondary schools combining standard education with therapeutic recovery programming](recovery-high-schools-element.md)
+- [Recovery high schools (RHSs): secondary schools combining standard education with therapeutic recovery programming](../products/recovery-high-schools-rhss.md)
 
 ## Examples
 -

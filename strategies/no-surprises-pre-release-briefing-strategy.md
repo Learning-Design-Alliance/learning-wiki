@@ -38,7 +38,7 @@ CCSR maintains a 'no-surprises' policy: before any report is released, the organ
 - Enabling district leadership to process, absorb, and act on research findings rather than merely react publicly
 
 ### Affordances
-- [Ccsr Supporting Search For Solutions Theory Of Action](../theories/ccsr-supporting-search-for-solutions-theory-of-action.md)
+- [Ccsr Supporting Search For Solutions Theory Of Action](../products/ccsr-theory-of-action.md)
 
 ## Related Strategies
 - 

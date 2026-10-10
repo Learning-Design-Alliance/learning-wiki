@@ -45,7 +45,7 @@ The study compared four published elementary mathematics curricula, enumerated b
 
 ## Related Elements
 
-- [Four elementary math curricula evaluated: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](four-elementary-math-curricula-evaluated-agodini.md)
+- [Four elementary math curricula evaluated: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](../products/investigations-in-number-data-and-space-math-expressions-saxon-math-and-scott-foresman-add.md)
 - [Four early elementary math curricula compared in the federal evaluation: Math Expressions, Saxon Math, Investigations in Number, Data, and Space, and Scott Foresman-Addison Wesley Mathematics](four-early-elementary-math-curricula-evaluation-set.md)
 - [NCEE technical appendix for the elementary math curricula evaluation, organized in six analytic sections](ncee-elementary-math-curricula-technical-appendix.md)
 - [Evaluation of Mathematics Curricula project (2005–2013)](evaluation-of-mathematics-curricula-project.md)
