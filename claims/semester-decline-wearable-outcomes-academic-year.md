@@ -60,3 +60,4 @@ Same semester decline model applied to physical activity outcomes (N=3,475 from 
 ## Related Claims
 - [Forceful, assertive concern language was associated with fewer steps per day and lower moderate-intensity activity, while work-oriented language was positively associated with steps](forceful-language-lower-activity-association.md) — related
 - [Brief naturalistic concern text associates with within-person variation in wearable-derived sleep and physical activity outcomes across a full academic year, even at a median response length of three words](brief-concern-text-associates-within-person-wearable-outcomes.md) — a broader claim this one bears on
+- [Confirmatory physiological tests found no significant tool×task interactions for pupil Δ or ln RMSSD, with substantial data loss limiting interpretation](physiological-load-signals-no-group-differences.md) — related

@@ -65,3 +65,4 @@ Correlation analysis (Table 3), mastery-ego r=.437, p=.002; this correlation exc
 - [No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors](attitudes-group-work-not-goal-orientation-but-collaboration-perception.md) — related
 - [Students in the project groups were perceived by teammates as effective collaborators across all three rubric sub-scales](students-perceived-effective-collaborators.md) — related
 - [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](greek-scale-intercorrelations-high.md) — related
+- [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related

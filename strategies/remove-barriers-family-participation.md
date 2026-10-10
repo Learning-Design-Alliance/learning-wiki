@@ -46,6 +46,7 @@ The article describes a set of concrete barrier-removal practices: flexible even
 - [Utilizing Mobile Communication Apps for Parent Engagement](utilizing_mobile_communication_apps_for_parent_engagement.md)
 - [Targeted and Specific Communication with Families](targeted_and_specific_communication_with_families.md)
 - [Zoom Family Hours](zoom_family_hours.md)
+- [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 
 ## Examples
 -

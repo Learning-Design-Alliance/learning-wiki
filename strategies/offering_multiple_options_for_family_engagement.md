@@ -82,6 +82,7 @@ Family engagement functions like a motivational and access problem: participatio
 - [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 - [Combine traditional and nontraditional approaches to family engagement for ELL families](traditional-and-nontraditional-engagement-ell.md)
 - [Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available](multilingual-communication-channels-el-families.md)
+- [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS, [National Network of Partnership Schools](https://nnps.jhucsos.com))** — organizes engagement into parenting, communicating, volunteering, learning at home, decision-making, and collaborating with the community; schools use it to build a written partnership plan with multiple option types.

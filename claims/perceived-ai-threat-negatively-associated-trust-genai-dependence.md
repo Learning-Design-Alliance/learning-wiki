@@ -71,3 +71,4 @@ Same SEM sample; the direct threat-to-dependence path was significant and negati
 - [AI employment threat perception negatively predicts perceived employability among Chinese college students](ai-threat-negatively-predicts-perceived-employability.md) — related
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
 - [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related
+- [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related

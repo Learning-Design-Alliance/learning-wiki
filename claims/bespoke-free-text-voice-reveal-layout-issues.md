@@ -67,3 +67,4 @@ across the entire video” and “very distracting. ”"
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration](ai-visual-generation-main-barrier-prototype.md) — related
+- [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related

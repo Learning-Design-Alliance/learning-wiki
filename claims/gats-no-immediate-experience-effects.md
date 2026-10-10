@@ -52,3 +52,5 @@ Likert self-report instruments (Paas mental effort, NASA-TLX, IMI items) analyze
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
 - [Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention](mathbot-situational-interest-not-significant.md) — related
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related

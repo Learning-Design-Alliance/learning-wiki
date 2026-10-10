@@ -46,6 +46,8 @@ The article recommends using the three empirically identified CT profiles to tai
 - [Learning Dashboards](learning-dashboards.md)
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](adaptive-recommendations-engagement-profiles-k8.md)
 - [Deliver AI-generated visual explanations adaptively based on learner engagement profiles rather than uniformly](adaptive-delivery-gats-by-engagement-profile.md)
+- [Differentiate AICA support by CT level: open-ended exploration for high CT students, structured SRL scripts for low CT students](differentiated-aica-support-by-ct-level.md)
+- [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 29 claims (25 for, 2 mixed, 2 against) · 35 studies (12 causal, 8 quant-synthesis, 6 review, 4 design, 3 qualitative, 2 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 25 claims rest on one study
+> **Evidence** · 32 claims (26 for, 4 mixed, 2 against) · 37 studies (12 causal, 8 quant-synthesis, 6 review, 4 design, 3 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 10 of 37 report an effect size · 28 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -62,6 +62,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](../claims/task-difficulty-increases-hesitations-scratch-videos.md) [+M] — instruction changes it
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](../claims/aifred-context-switch-reduction-longer-time.md) [+M] — instruction changes it
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](../claims/chatgpt-ar-lab-feedback-improves-outcomes.md) [+M] — instruction changes it
+- [Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool](../claims/tab-accept-rate-strongly-associated-failed-attention-checks.md) [+M] — instruction changes it
+- [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](../claims/dwell-time-attention-checks-versus-task-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic](../claims/gaze-anchored-in-code-despite-multi-view-scaffolds.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

@@ -40,6 +40,7 @@ The authors recommend a research agenda to follow up on their findings: future r
 
 - [Lead an annual district research agenda and coordinate outside researchers to maximize usefulness of research](annual-research-agenda-coordinating-outside-researchers.md)
 - [Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options](examine-prek-quality-equitable-access-and-family-choice.md)
+- [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 
 ## Examples
 -

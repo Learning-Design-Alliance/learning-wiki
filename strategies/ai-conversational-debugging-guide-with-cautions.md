@@ -39,7 +39,8 @@ The article recommends that educators treat off-the-shelf LLMs as conversational
 - circuit fundamentals
 
 ## Related Strategies
-- 
+
+- [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 
 ## Examples
 -

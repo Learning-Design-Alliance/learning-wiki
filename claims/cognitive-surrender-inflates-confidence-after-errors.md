@@ -50,3 +50,4 @@ The paper reports, citing Shaw and Nave's experimental work, that 'AI assistance
 - [Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong](ai-access-nearly-eliminates-judgment-suspension.md) — related
 - [AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested](unsolicited-ai-advice-still-suppresses-suspension.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
+- [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — related

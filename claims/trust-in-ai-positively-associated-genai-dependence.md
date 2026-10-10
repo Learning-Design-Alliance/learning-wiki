@@ -49,3 +49,4 @@ Cross-sectional SEM among 360 GenAI-experienced Chinese university students; the
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Perceived AI empowerment and perceived AI threat are weakly and non-significantly correlated, suggesting relatively independent appraisals](empowerment-and-threat-appraisals-weakly-correlated.md) — related
+- [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related

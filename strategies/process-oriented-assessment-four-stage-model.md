@@ -49,6 +49,9 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md)
+- [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
+- [Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding](critique-ai-output-assignment-sequence.md)
+- [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
 
 ## Examples
 -

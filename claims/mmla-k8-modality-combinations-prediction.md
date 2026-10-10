@@ -46,3 +46,4 @@ The review's discussion reports this as a key finding from the included studies:
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — related
+- [AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support](aiol-increasing-multimodal-emotion-personalization.md) — related

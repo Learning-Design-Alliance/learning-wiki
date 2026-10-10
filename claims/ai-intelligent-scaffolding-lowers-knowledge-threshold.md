@@ -47,3 +47,4 @@ The authors' interpretive synthesis from the abstract of the bibliometric analys
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — reports the opposite
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- [By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI](2026-classroom-poll-shift-toward-human-intelligence.md) — related

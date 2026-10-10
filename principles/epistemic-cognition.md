@@ -123,6 +123,8 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 
 ## Examples
 
+- [Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use](../strategies/layered-workplace-genai-assessment-battery.md)
+
 ### Illustrative
 
 **[Justification](../elements/justification.md)** — Learners are asked not only for an answer or claim, but for the evidence and reasoning that warrant it.

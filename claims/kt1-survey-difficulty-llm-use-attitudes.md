@@ -43,4 +43,4 @@ Self-report survey after the first three assignments with 30 complete responses:
 
 
 ## Related Claims
--
+- [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related

@@ -47,3 +47,4 @@ Evaluation of six MLLMs on 376 image-Required Illustrative Mathematics items, th
 - [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](mllms-refuse-without-required-figures.md) — related
 - [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](moderate-cross-model-agreement-solvability.md) — related
 - [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
+- [On the MathDial problem set with SymPy access, o3-mini(high) and Claude 3.5 Sonnet achieved the highest problem-solving accuracy at 90.00%](o3-mini-highest-mathdial-accuracy.md) — related

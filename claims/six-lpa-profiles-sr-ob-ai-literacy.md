@@ -43,3 +43,5 @@ Latent profile analysis on combined SR and OB factors in the full sample (N = 28
 ## Related Claims
 - [SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers](prior-experience-moderates-sr-ob-profiles.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
+- [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](expanded-pool-composite-still-null.md) — related
+- [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related

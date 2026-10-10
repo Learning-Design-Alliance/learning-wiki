@@ -48,3 +48,4 @@ Descriptive statistics on technology selections across projects (Figure 5, N=666
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems](aied-2025-majority-papers-use-llms.md) — related
 - [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
+- [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related

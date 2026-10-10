@@ -49,3 +49,4 @@ A qualitative study of 32 second- and third-year students in the teacher educati
 - [Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods](cone-geometry-maps-thinking-dispositions.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related
+- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related

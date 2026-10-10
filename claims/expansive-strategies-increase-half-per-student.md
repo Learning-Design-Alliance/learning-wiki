@@ -47,3 +47,4 @@ Within-student pre/post change in coded expansive strategies (diagram, concepts 
 - [Limiting strategies decrease only slightly and remain resilient despite multifaceted-problem instruction](limiting-strategies-resilient-slight-decrease.md) — related
 - [Post-course expansive preference is slightly positively correlated with course grade, but causation is not established](post-pscale-slight-positive-grade-correlation.md) — related
 - [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related
+- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related

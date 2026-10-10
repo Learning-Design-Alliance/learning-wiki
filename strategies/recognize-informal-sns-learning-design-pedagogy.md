@@ -39,7 +39,8 @@ The authors recommend that design educators and researchers re-assess how much l
 - recognizing hidden curriculum
 
 ## Related Strategies
-- 
+
+- [Use educommunicative tools — the Critical Media Literacy Framework, the dialogic–critical method, and critical pedagogies — to build students' critical evaluation of information](educommunicative-tools-critical-evaluation.md)
 
 ## Examples
 -

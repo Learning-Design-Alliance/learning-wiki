@@ -45,6 +45,8 @@ The article recommends positioning AI-assisted observation as a complement to, n
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content](feature-driven-ml-baseline-bias-flagging.md)
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
+- [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
+- [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 
 ## Examples
 -

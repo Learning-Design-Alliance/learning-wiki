@@ -77,6 +77,8 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 **[Perusall](https://www.perusall.com)** — Social annotation platforms operationalize probing asynchronously: instructor or peer replies to an annotation with a follow-up question, requiring the annotator to elaborate before the thread resolves.
 
 **Clinical teaching (medical education)** — Attending physicians use structured probes ("What is your differential? What would change your mind?") to expose diagnostic reasoning rather than accepting a diagnosis at face value.
+- [Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification](../strategies/risk-stratified-ai-misconception-screening.md)
+- [Generate targeted diagnostic follow-up questions using variant-problem and probe-the-gap strategies for ambiguous cases](../strategies/variant-problem-probe-the-gap-follow-ups.md)
 
 ## Key Sources
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)

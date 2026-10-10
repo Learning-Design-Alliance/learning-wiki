@@ -60,9 +60,11 @@ Media literacy instruction works best when it teaches specific, transferable eva
 6. Culminate in media creation for an [Authentic Audience](../principles/authentic-audiences-purposes.md) so learners experience persuasive intent from the producer's side
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a structured protocol for evaluating factual claims that operationalizes media literacy in the classroom
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that builds triangulation habits
 - [Socratic Questioning](../elements/socratic-questioning.md) — questioning techniques that deepen analysis of media claims
+- [Use educommunicative tools — the Critical Media Literacy Framework, the dialogic–critical method, and critical pedagogies — to build students' critical evaluation of information](educommunicative-tools-critical-evaluation.md)
 
 ## Examples
 - **[Stanford History Education Group — Civic Online Reasoning curriculum](https://cor.stanford.edu)** — Free, research-tested lessons teaching lateral reading and source evaluation; the primary evidence base for strategy-based media literacy instruction [Explicit civic online reasoning instruction improves students' evaluation of online information.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

@@ -49,3 +49,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — related
 - [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related
 - [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
+- [English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries](english-dominance-ca-programming-prototypes.md) — a narrower finding that bears on this claim

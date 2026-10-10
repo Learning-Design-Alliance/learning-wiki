@@ -51,3 +51,4 @@ The presenters assert this principle in their 'Questions about Learning with Gen
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related
 - [Dual-threshold instability: accelerated breakdown when internal generative engagement and genAI reliability both fall below task demands](dual-threshold-instability-hybrid-cognition.md) — related
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
+- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related

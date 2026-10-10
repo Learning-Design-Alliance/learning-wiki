@@ -64,3 +64,4 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — a broader claim this one bears on
 - [Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways](higher-ed-micro-credential-outcomes.md) — related
 - [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — related
+- [NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits](nasba-approved-cpe-program.md) — related

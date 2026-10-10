@@ -76,6 +76,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 **[Force Concept Inventory](https://en.wikipedia.org/wiki/Force_Concept_Inventory)** (Hestenes, Wells, & Swackhamer, 1992) — The canonical research-based probe set for Newtonian mechanics; its distractors are each mapped to a specific documented misconception.
 
 **[Diagnostic Questions](https://diagnosticquestions.com)** — Multiple-choice items where each wrong answer corresponds to a specific misconception, giving teachers item-level diagnostic data.
+- [Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification](../strategies/risk-stratified-ai-misconception-screening.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

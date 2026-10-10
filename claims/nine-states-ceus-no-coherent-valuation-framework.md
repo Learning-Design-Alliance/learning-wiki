@@ -53,3 +53,4 @@ Policy-status statement in this report: "nine states" offer CEUs for Digital Pro
 - [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](bcps-stat-pilot-cpd-credit.md) — a narrower finding that bears on this claim
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
 - [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — related
+- [NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits](nasba-approved-cpe-program.md) — related

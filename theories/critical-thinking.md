@@ -54,6 +54,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Socratic Seminar](../patterns/socratic-seminar.md) — oral group discussion of personal dilemmas as another route to critical thinking (Hawkins, 2006)
 - [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
 - [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](../strategies/process-as-content-seminar-approach.md)
+- [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](../strategies/sycophancy-specific-critical-prompting-strategies.md)
 
 ## Key Sources
 - Halpern, D. F. (2003). *Thought and knowledge: An introduction to critical thinking* (4th ed.). Lawrence Erlbaum Associates.

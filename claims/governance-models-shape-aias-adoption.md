@@ -48,3 +48,4 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — a broader claim this one bears on
 - [National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows](exam-washback-drives-language-policy.md) — related
+- [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related

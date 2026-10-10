@@ -46,3 +46,4 @@ Quasi-experimental study of 21 emergency care professionals randomized to a lect
 - [Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores](ed-experience-no-effect-osce-consent.md) — related
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related
+- [Workshop students achieved modestly higher final task-performance scores](workshop-modest-final-performance-gain.md) — related

@@ -46,3 +46,4 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related
+- [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related

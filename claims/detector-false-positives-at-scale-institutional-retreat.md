@@ -70,3 +70,4 @@ Survey evidence the review cites for persistence in grading practice: instructor
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
+- [Pilot quantitative application produced indicative 100-point academic integrity indicator reports for two institutions with sector comparisons](pilot-indicator-reports-two-institutions-100-point-metric.md) — related

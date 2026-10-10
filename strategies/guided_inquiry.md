@@ -62,9 +62,11 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 7. **Fade over successive cycles.** Reduce scaffolds as learners show competence [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — a guided-inquiry variant where exploration deliberately precedes instruction
 - [Socratic Questioning](../elements/socratic-questioning.md) — a guidance mechanism for steering inquiry through questions rather than explanations
 - [Jigsaw](jigsaw.md) — structures the information-sharing phase of collaborative inquiry
+- [Use hard scaffolding questions prepared in advance to guide students through the Engineering Design Process](hard-scaffolding-questions-for-edp.md)
 
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.

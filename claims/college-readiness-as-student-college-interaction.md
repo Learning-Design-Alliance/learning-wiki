@@ -44,3 +44,4 @@ The review's argument that perseverance and academic behaviors can be outcomes o
 
 ## Related Claims
 - [The review reports that equally qualified Chicago graduates' college persistence differed systematically depending on the institutional graduation rates of the colleges they attended](college-persistence-varies-by-institution-graduation-rate.md) — a narrower finding that bears on this claim
+- [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — a narrower finding that bears on this claim

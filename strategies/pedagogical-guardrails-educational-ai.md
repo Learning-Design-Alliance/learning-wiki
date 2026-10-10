@@ -45,6 +45,7 @@ The paper recommends that developers of educational AI treat the purpose of AI i
 - [Redesign assessments and curricula so AI availability supports rather than impedes expertise growth](redesign-assessments-for-ai-availability.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
 
 ## Examples
 -

@@ -137,6 +137,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Enhancing the Skills of Early Childhood Trainers training pack](../products/enhancing-the-skills-of-early-childhood-trainers-training-pack.md)
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Foster hands-on student practice of the full responsible AI use cycle across authentic contexts](../strategies/hands-on-responsible-ai-use-cycle-students.md)
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).

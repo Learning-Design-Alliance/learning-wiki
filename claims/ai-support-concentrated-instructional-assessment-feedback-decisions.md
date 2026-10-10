@@ -47,3 +47,4 @@ Frequency analysis of inductively coded decision types across the review's 27 in
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related
 - [Text-based and log data dominate the student data used by AI systems for lecturer decision-making](text-log-data-dominate-lecturer-decision-ai-inputs.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
+- [CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented](cai-utilization-concentrated-pedagogical-applications.md) — related

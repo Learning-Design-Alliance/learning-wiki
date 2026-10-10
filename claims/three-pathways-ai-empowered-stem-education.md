@@ -83,3 +83,4 @@ Bibliometric keyword-evolution analysis (Path 3). Early research centered on kno
 ## Related Claims
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
+- [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — a narrower finding that bears on this claim

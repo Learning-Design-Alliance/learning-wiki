@@ -47,3 +47,5 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
+- [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related
+- [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related

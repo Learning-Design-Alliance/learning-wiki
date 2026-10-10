@@ -50,3 +50,4 @@ Authors' interpretation from the broad evaluation of qualitative data across thr
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
 - [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — related
 - [Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge](kt1-design-frictions-programming-tutorials-ai-guessing.md) — related
+- [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related

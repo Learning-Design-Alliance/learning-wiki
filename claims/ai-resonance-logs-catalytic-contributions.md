@@ -45,3 +45,4 @@ Illustrative vignette of a technology-enhanced seminar in which the platform ide
 ## Related Claims
 - [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — related
 - [Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups](seeding-groups-alternative-ideas-improves-learning.md) — related
+- [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related

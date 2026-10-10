@@ -46,3 +46,4 @@ PLS-SEM path analysis in the same 898-teacher sample tested whether competence s
 - [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) — related
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

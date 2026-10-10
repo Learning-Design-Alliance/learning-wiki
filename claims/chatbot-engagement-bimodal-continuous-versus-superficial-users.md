@@ -49,3 +49,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](puzzlets-high-engagement-station-choice.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
 - [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
+- [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related

@@ -51,3 +51,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
+- [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related

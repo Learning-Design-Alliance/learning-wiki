@@ -45,3 +45,4 @@ Analysis of real action logs: IIU vectors were saved, resampled with SMOTE (refe
 ## Related Claims
 - [In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"](answer-requested-lowest-main-effect.md) — related
 - [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](isa-help-seeking-more-informative-than-correct-response.md) — related
+- [Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision](coursegraph-component-level-interpretability.md) — related

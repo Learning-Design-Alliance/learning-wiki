@@ -40,7 +40,8 @@ The article recommends structuring learning-theory principles as observable peda
 - Four Dimension Pedagogical Characterization Framework
 
 ## Related Strategies
-- 
+
+- [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 
 ## Examples
 -

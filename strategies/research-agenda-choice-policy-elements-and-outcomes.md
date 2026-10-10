@@ -37,7 +37,8 @@ The authors propose a forward-looking research agenda for school choice policy: 
 - Student achievement and broader student outcomes under school choice policies
 
 ## Related Strategies
-- 
+
+- [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 
 ## Examples
 -

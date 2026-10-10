@@ -61,9 +61,11 @@ Pair talk is a form of [Active Learning](../principles/active-learning.md), but 
 5. Debrief the *reasoning*, not just the answer, connecting pair ideas to the target concept; use [Check-In](../elements/check-in.md) routines to keep the reporting phase fast and inclusive.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the canonical protocol this strategy generalizes; structured questioning is what supplies its "think" and "share" phases with substance
 - [Peer Instruction](peer-instruction.md) — structured pair talk embedded in a vote–discuss–revote cycle around a conceptually targeted question
 - [Reciprocal Questioning](reciprocal-questioning.md) — extends structure by having learners generate the questions themselves
+- [Edit ambiguous student questions into clear, directive prompts before posing them to ChatGPT](edit-ambiguous-student-questions-into-directive-prompts.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard University)** — students answer a conceptually targeted clicker question individually, then convince a neighbor before revoting; the question design is the structure that makes the pair talk productive. [https://www.per-central.org](https://www.per-central.org)

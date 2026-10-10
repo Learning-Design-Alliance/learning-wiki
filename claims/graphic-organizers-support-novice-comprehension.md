@@ -83,3 +83,4 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
+- [Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans](concept-catalyst-concept-map-supports-teacher-reflection.md) — related

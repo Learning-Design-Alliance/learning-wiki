@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (47 for, 12 mixed, 6 against) · 69 studies (22 associational, 15 causal, 15 review, 6 qualitative, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 9 of 69 report an effect size · 58 claims rest on one study
+> **Evidence** · 69 claims (50 for, 12 mixed, 7 against) · 73 studies (24 associational, 16 causal, 15 review, 6 qualitative, 5 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 11 of 73 report an effect size · 62 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -99,6 +99,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention](../claims/mathbot-situational-interest-not-significant.md) [-M] — instruction changes it
 - [Primary metrics improved during US holidays, attributed to more motivated voluntary users](../claims/holiday-usage-motivation-metric-improvements.md) [+W] — learners who differ on it differ in outcomes
 - [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](../claims/proficiency-moderates-motivation-oral-gains.md) [~M] — learners who differ on it differ in outcomes
+- [AI exploration assignments helped students connect physics content to their personal lives and interests](../claims/ai-exploration-personal-connections.md) [+W] — instruction changes it
+- [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](../claims/iterative-testing-predicts-self-efficacy-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](../claims/self-efficacy-predicts-cluster-membership.md) [-M] — learners who differ on it differ in outcomes
+- [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](../claims/chatgpt-teaching-self-efficacy-cognitive-strategies.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

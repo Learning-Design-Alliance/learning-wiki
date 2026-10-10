@@ -110,3 +110,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps](teachers-surprised-by-student-questioning-capability.md) — related
 - [Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding](performance-assessments-positive-outcomes.md) — related
+- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related

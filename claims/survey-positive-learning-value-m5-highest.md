@@ -44,3 +44,4 @@ Voluntary end-of-course group survey (10 of 24 groups responded, a 42% group res
 
 ## Related Claims
 - [LMS log analysis showed groups spent roughly 9 days to 2 weeks per module after M1, and completed implementation (M5) faster than expected](lms-module-timing-m5-faster.md) — related
+- [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related

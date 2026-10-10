@@ -89,6 +89,7 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 - [Adaptive Difficulty](../elements/adaptive-difficulty.md) — the algorithmic analogue: systems adjust task difficulty continuously rather than by teacher-designed tiers
 - [Accommodations](../elements/accommodations.md) — individualized adjustments for learners with identified needs; tiering is the whole-class version of the same logic
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the mechanism by which lower tiers support rather than dilute learning
+- [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 
 ## Examples
 - **Parallel math tasks (Marilyn Burns / NCTM tradition)**: all students investigate the same relationship (e.g., patterns in perimeter), with tiers offering manipulatives and sentence frames, open investigation, or a generalization-and-proof challenge.

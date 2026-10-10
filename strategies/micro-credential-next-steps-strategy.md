@@ -46,6 +46,7 @@ The report proposes three mutually reinforcing efforts for state and local polic
 - [Plan long-term quantitative data collection and interoperable systems to evaluate micro-credentials' social mobility impact](quantitative-data-collection-microcredential-evaluation.md)
 - [Expand micro-credential systems into seven future content areas](micro-credential-future-expansion-areas.md)
 - [Next-phase agenda: pilot and refine STEM pathways, align STEM education with local economic demands, and plan a sustaining backbone organization](stem-pathways-pilots-backbone-next-phase.md)
+- [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 
 ## Examples
 -

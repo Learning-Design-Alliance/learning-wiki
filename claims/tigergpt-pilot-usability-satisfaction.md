@@ -46,3 +46,4 @@ Pilot study evaluation of the TigerGPT conversational survey chatbot reported in
 - [At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester](at-risk-students-satisfied-prefer-frequent-feedback.md) — related
 - [71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied](vils-coaches-71-percent-improved-job-satisfaction.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
+- [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related

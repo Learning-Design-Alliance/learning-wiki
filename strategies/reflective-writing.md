@@ -60,10 +60,12 @@ Reflective writing works by forcing elaboration and metacognitive monitoring: tr
 6. **Close the loop.** Require learners to reference prior reflections in planning the next task, and revisit patterns at mid-term and end of term ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Learning Journals](learning-journals.md) — the sustained, longitudinal form of reflective writing
 - [Exam Wrappers](exam-wrappers.md) — post-assessment reflection targeted at study strategy
 - [Self-Assessment](../elements/self-assessment.md) — reflection directed at evaluating one's own work against criteria
 - [Dialogue Journals](dialogue-journals.md) — adds a responsive reader to the reflective loop
+- [Grade AI-dialogue assignments on evidence of sustained dialogue, and explicitly teach students to answer the AI's questions](grade-ai-assignments-on-dialogue.md)
 
 ## Examples
 - **Exam wrappers** (e.g., as implemented in Carnegie Mellon's Eberly Center guidance, [https://www.cmu.edu/teaching](https://www.cmu.edu/teaching)) — students answer 4–5 questions about exam preparation and errors, then the instructor opens the next class with the aggregated patterns.

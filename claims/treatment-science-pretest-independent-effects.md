@@ -45,3 +45,4 @@ General linear model 2x2x10 ANOVA on achievement in the quasi-experiment. All th
 ## Related Claims
 - [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](abstract-concrete-representation-no-difference.md) — related
 - [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — related
+- [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](condition-subject-main-effects-no-interaction.md) — related

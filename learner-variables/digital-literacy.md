@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (14 for, 2 mixed, 3 against) · 21 studies (5 causal, 5 associational, 4 review, 3 qualitative, 3 design, 1 quant-synthesis), `q1`–`q4` · 4 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (14 for, 2 mixed, 4 against) · 22 studies (6 associational, 5 causal, 4 review, 3 qualitative, 3 design, 1 quant-synthesis), `q1`–`q4` · 4 of 22 report an effect size · 18 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -52,6 +52,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](../claims/no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) [-M] — learners who differ on it differ in outcomes
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](../claims/genai-pd-significant-ethical-awareness-gains.md) [+M] — instruction changes it
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](../claims/structured-ai-integration-enhances-literacy-retention-critical-thinking.md) [+W] — instruction changes it
+- [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](../claims/prior-ai-exposure-predicts-chatbot-uptake.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

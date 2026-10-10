@@ -37,7 +37,9 @@ The authors propose a natural extension in which students write and refine the p
 - identifying relevant variables and expected functional dependences before measurement
 
 ## Related Strategies
+
 - [Ai Nocode Lab Software Development](ai-nocode-lab-software-development.md)
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
 
 ## Examples
 -

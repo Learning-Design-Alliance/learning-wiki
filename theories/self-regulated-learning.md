@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 8 studies (2 causal, 2 review, 2 associational, 2 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 11 studies (4 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q3` · 3 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -49,11 +49,16 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - Building persistence and more accurate self-evaluation
 
 ## Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](../claims/early-delay-of-gratification-predicts-later-outcomes.md) [~M] — self-control/delay of gratification is closely related to self-regulation, though the relationship to later outcomes is more context-dependent than the classic marshmallow-test framing suggests
+- [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](../claims/srl-uneven-only-execution-monitoring-predicts-gains.md) [+M] — attached 2026-10-10 from Chen C et al. (2026), which proposed "Zimmerman's three-phase cyclical SRL model as a lens for locating which phases automated feedback reaches".
+- [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](../claims/interviews-shallow-reflection-score-derived-planning.md) [+W] — attached 2026-10-10 from Chen C et al. (2026), which proposed "Zimmerman's three-phase cyclical SRL model as a lens for locating which phases automated feedback reaches".
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](../claims/ena-cognitive-network-ct-groups.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
+- [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](../claims/high-ct-stronger-srl-cognitive-behaviors.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
 
 ## Related Theories
 

@@ -46,3 +46,4 @@ Analysis of 2013-14 REACH scores by teacher credentials, comparing teachers with
 - [Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations](experience-credentials-teacher-evaluation-scores.md) — possibly the same claim (merge candidate)
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](board-certification-identifies-more-expert-teachers.md) — reports the opposite
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
+- [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related

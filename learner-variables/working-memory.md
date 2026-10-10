@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 18 claims (12 for, 4 mixed, 2 against) · 20 studies (7 causal, 7 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 20 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (14 for, 6 mixed, 3 against) · 25 studies (9 causal, 7 review, 3 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 25 report an effect size · 20 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -51,6 +51,11 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load](../claims/type1-easier-than-type2-one-step-equations.md) [+W] — instruction changes it
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](../claims/working-memory-strongest-component-association-ecls-k.md) [~W] — learners who differ on it differ in outcomes
 - [Working memory is a strong predictor of decoding skills](../claims/working-memory-strong-predictor-decoding.md) [+W] — learners who differ on it differ in outcomes
+- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](../claims/concept-catalyst-reduces-cognitive-load-quick-generation.md) [+W] — instruction changes it
+- [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](../claims/representational-fit-individual-variation.md) [~W] — an instructional effect differs with it
+- [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](../claims/role-design-improves-gai-perceptions-raises-cognitive-load.md) [+M] — instruction changes it
+- [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](../claims/no-cognitive-load-differences-across-offloading-profiles.md) [-W] — instruction changes it
+- [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](../claims/chatgpt-flatter-mental-effort-trajectory.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

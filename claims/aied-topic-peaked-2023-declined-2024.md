@@ -49,3 +49,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
 - [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
+- [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related

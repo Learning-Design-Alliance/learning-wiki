@@ -142,3 +142,5 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — related
 - [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
