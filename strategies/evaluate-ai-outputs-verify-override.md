@@ -43,6 +43,7 @@ Under Encourage Evaluation of Emerging Technologies, the framework recommends pr
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why](require-justification-of-ai-output-use.md)
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
+- [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 
 ## Examples
 -

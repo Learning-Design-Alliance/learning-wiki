@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**222 entries** · 0 stable · 0 in review · 222 drafts
+**224 entries** · 0 stable · 0 in review · 224 drafts
 
 ---
 
@@ -61,6 +61,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### D {: #letter-d }
 
+* [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md) - The report's fourth consideration addresses data availability: DLPs may lack individual demographic data while collecting school-level covariates such as locale type or Title I status.
 * [Design-Based Implementation Research (DBIR)](design-based-implementation-research-dbir.md) - DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.
 * [Design-based RCT analysis with grouped administrative data](design-based-rct-analysis-with-grouped-administrative-data.md) - The article recommends analyzing RCTs with grouped administrative data \"to help improve data access,\" using design-based estimators formed as group-level averages.
 * [Design-based research, learning analytics, and multimodal analytics](design-based-research-learning-analytics-and-multimodal-analytics.md) - The report's methods theme identifies the most common or growing approaches: Design-Based Research, 'a methodology that rigorously explores which design features have the most potential to improve learning'; learning analytics, providing insights into the learning process often linked to formative a
@@ -271,6 +272,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-question framework for reviewing noncognitive measurement and segmentation in postsecondary education](three-question-framework-for-reviewing-noncognitive-measurement-and-segmentation-in-postse.md) - The report organizes its targeted document review and expert interviews around three questions relevant to the Student Segmentation Initiative: what instruments and measures are available to assess postsecondary students' noncognitive attributes; to what extent these instruments are used to classify
 * [Three-question structure for school performance inquiry](three-question-structure-for-school-performance-inquiry.md) - The framework structures school performance inquiry around three questions: \"1.
 * [Trajectory-based early indicator framework for college readiness monitoring](trajectory-based-early-indicator-framework-for-college-readiness-monitoring.md) - The article presents a framework that applies college readiness benchmarks to longitudinal middle-grades assessment data, assigning each student a series of up to six on-track status indicators and grouping students into six trajectory patterns.
+* [Transcript-based interactional fluency and direction-sensitive uptake analysis](transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis.md) - A reusable analysis pipeline that operationalizes interactional fluency and direction-sensitive linguistic uptake for spoken AI practice \"using metrics extractable from diarized ASR output without manual linguistic annotation.\" The fluency component extracts seven features from word-level timestamps
 * [Transfer for Future Learning (TFL) three-phase assessment approach](transfer-for-future-learning-tfl-three-phase-assessment-approach.md) - Transfer for Future Learning (TFL) is an assessment approach measuring whether students transfer recently learned concepts to future topics within the same learning progression.
 * [Transformation-and-re-estimation method for probing scale sensitivity of teacher value added](transformation-and-re-estimation-method-for-probing-scale-sensitivity-of-teacher-value-add.md) - The article introduces an approach for testing whether teacher value added depends on the test scale: estimate value added on the original scale, then \"applying extremely mild nonlinear transformations to the original scale and re-estimating the value added.\" Because \"by definition at most one of th
 * [Transformer-encoder knowledge tracing framework with IEU/IIU input vectors](transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors.md) - A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments.

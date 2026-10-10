@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -57,6 +57,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - Self-efficacy and "expectancies for success" are often used interchangeably, but conceptually self-efficacy is task-specific while expectancy for success tends to be domain-specific (Wigfield & Eccles, 2000) — see [Self-Efficacy Theory](self-efficacy-theory.md)
 
 ## Claims
+
+- [Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students](../claims/ai-alternative-demoralizes-effort-cost.md) [+W] — attached 2026-10-10 from 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introdu, which proposed "Situated Expectancy-Value Theory (SEVT) as a framework for analyzing how AI availability reshapes motivational judgments".
 
 ## Related Theories
 

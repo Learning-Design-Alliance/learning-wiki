@@ -47,3 +47,4 @@ Self-reported teacher perceptions from the pilot: "Teachers reported that the tr
 - [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](haiti-blended-pilot-significant-gains-lowest-baseline.md) — related
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
+- [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](pilot-studies-measurable-improvements-engagement-self-efficacy.md) — related

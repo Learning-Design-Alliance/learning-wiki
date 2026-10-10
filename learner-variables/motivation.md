@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (36 for, 8 mixed, 3 against) · 51 studies (15 review, 15 associational, 9 causal, 4 qualitative, 3 quant-synthesis, 3 theoretical, 2 design), `q1`–`q4` · 7 of 51 report an effect size · 42 claims rest on one study
+> **Evidence** · 61 claims (46 for, 10 mixed, 5 against) · 64 studies (20 associational, 15 review, 13 causal, 6 qualitative, 4 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 9 of 64 report an effect size · 55 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -81,6 +81,20 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](../claims/teacher-emotional-support-buffers-low-efficacy-engagement.md) [~M] — learners who differ on it differ in outcomes
 - [Teachers commonly attribute increased student engagement to ILC-influenced instruction](../claims/ilc-attributed-student-engagement-gains.md) [+M] — instruction changes it
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](../claims/tec-summer-teacher-reported-motivation-gains.md) [+M] — instruction changes it
+- [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](../claims/alert-reframing-branches-engagement-structure.md) [+W] — instruction changes it
+- [Academic self-efficacy is negatively associated with AI dependency among university students](../claims/self-efficacy-negatively-associated-ai-dependency.md) [+M] — learners who differ on it differ in outcomes
+- [AI dependency mediates the relationship between academic self-efficacy and learning burnout](../claims/ai-dependency-mediates-self-efficacy-burnout.md) [+M] — learners who differ on it differ in outcomes
+- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](../claims/ai-generated-responses-positive-self-efficacy.md) [+M] — instruction changes it
+- [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](../claims/ai-tpack-predicts-science-teaching-self-efficacy.md) [+M] — instruction changes it
+- [At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration](../claims/gats-increase-constructive-engagement-uoft.md) [~M] — instruction changes it
+- [Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement](../claims/engagement-profiles-moderate-gat-effects.md) [~M] — an instructional effect differs with it
+- [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](../claims/ai-generated-if-engagement-marginal.md) [-M] — instruction changes it
+- [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](../claims/gats-no-immediate-experience-effects.md) [-M] — instruction changes it
+- [Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels](../claims/growth-mindset-moderates-ai-threat-employability-link.md) [+M] — an instructional effect differs with it
+- [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](../claims/growth-mindset-weakens-moderated-mediation-indirect-effect.md) [+M] — an instructional effect differs with it
+- [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](../claims/mooc-engagement-declines-with-video-length.md) [+M] — instruction changes it
+- [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](../claims/pilot-studies-measurable-improvements-engagement-self-efficacy.md) [+M] — instruction changes it
+- [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](../claims/ai-use-reduces-accomplishment-intrinsic-value.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

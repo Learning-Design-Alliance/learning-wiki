@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (13 for, 1 mixed) · 5 studies (2 qualitative, 1 causal, 1 design, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (15 for, 1 mixed) · 7 studies (3 theoretical, 2 qualitative, 1 causal, 1 design), `q1`–`q2` · 1 of 7 report an effect size · 16 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -73,6 +73,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](../claims/partner-positioning-instructional-leadership.md) [+M] — attached 2026-10-09 from Hillary Greene Nolan et al. (2024), which proposed "Keep the teacher at the instructional helm when AI tools enter writing instruction"; tests this page's relationship.
 - [The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes](../claims/interaction-focus-varies-by-ai-positioning.md) [+M] — attached 2026-10-09 from Hillary Greene Nolan et al. (2024), which proposed "Keep the teacher at the instructional helm when AI tools enter writing instruction"; tests this page's relationship.
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W] — attached 2026-10-09 from Early Science with Nico et al. (2022), which proposed "Use digital tools to strengthen, not replace, hands-on exploration in early science learning"; tests this page's relationship.
+- [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](../claims/ai-offloading-stifles-early-development.md) [+W] — attached 2026-10-10 from S P et al. (2026), which proposed "AI integration should complement rather than replace human cognition, preserving human engagement in critical thinking and self-regulation domains"; tests this page's relationship.
+- [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](../claims/learning-performance-paradox-ai.md) [+M] — attached 2026-10-10 from Khosravi et al. (2026), which proposed "Nine-dimension contrast between AI for work and AI for learning"; tests this page's relationship.
 
 ## Related Principles
 

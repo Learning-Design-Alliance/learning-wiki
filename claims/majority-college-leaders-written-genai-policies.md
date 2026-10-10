@@ -68,3 +68,5 @@ Policy analysis of the top 100 universities' ChatGPT policies, described in the 
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance](leaders-lack-ai-knowledge-districts-without-guidance.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
+- [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
+- [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related

@@ -41,6 +41,8 @@ Under Scaffold Creativity, the framework recommends encouraging creativity throu
 ## Related Strategies
 
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](own-thinking-before-generative-ai-productive-struggle.md)
+- [Integrate AI-driven scaffolding with teacher-led offloading and refine feedback granularity to prevent over-scaffolding](ai-scaffolding-teacher-offloading-strategy.md)
+- [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](fade-ai-support-require-justification.md)
 
 ## Examples
 -

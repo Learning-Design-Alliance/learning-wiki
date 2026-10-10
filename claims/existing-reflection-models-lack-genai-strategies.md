@@ -45,3 +45,4 @@ A narrative literature review of reflection research published in the last three
 ## Related Claims
 - [Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches](breakthrough-discontinuity-departs-dominant-approaches.md) — related
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related

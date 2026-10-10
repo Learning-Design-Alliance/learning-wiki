@@ -13,7 +13,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -45,6 +45,9 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 ## Claims
 
 - [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
+- [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](../claims/serial-mediation-ai-literacy-tpack-efficacy-intention.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
+- [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](../claims/ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
+- [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](../claims/ai-tpack-predicts-science-teaching-self-efficacy.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
 
 ## Related Theories
 

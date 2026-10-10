@@ -89,3 +89,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
 - [Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5](scaffolding-correlates-mastery-three-of-five-attributes.md) — related
+- [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related

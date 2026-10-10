@@ -51,3 +51,4 @@ Correlational analysis of survey and behavioural variables among 128 pre-service
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
 - [Proficient learners report lower perceived task difficulty than Novice learners on the CT task](proficient-lower-perceived-difficulty.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
+- [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) — related

@@ -48,3 +48,4 @@ Real-data simulation (Research Report 77-6) using test results for 365 fire-cont
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
+- [FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback](fastperson-halves-viewing-time-no-quiz-loss.md) — related

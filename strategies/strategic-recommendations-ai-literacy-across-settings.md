@@ -46,6 +46,7 @@ The briefs issue four strategic recommendations for leaders: "Build AI literacy 
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy](coordinate-efforts-vulnerable-workers-ai-literacy.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
+- [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 
 ## Examples
 -

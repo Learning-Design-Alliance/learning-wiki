@@ -51,3 +51,4 @@ Third RCT (7 schools, Chicago and NYC, 2018-19/2019-20) randomized approximately
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
 - [NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)](nba-math-hoops-improves-summer-math-achievement.md) — related
 - [CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance](math-enhanced-cte-lessons-math-gains.md) — related
+- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related

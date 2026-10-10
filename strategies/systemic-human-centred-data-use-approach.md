@@ -43,6 +43,7 @@ Following research on human-centred learning analytics, the authors suggest "the
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
+- [Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance](ground-ai-ethics-inquiry-in-teaching-practice.md)
 
 ## Examples
 -

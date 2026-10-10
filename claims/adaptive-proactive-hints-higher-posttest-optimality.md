@@ -49,3 +49,4 @@ Controlled study in the Deep Thought logic tutor with 123 participants (111 comp
 - [A generalized cross-problem HelpNeed predictor performs as well as problem-specific models and better when less historical data is available](generalized-cross-problem-helpneed-predictor.md) — related
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — related
+- [AURA's within-session reinforcement learning improved composite response quality over non-adaptive baselines (p = 0.044, d = 0.66), with fewer specification prompts and more validation behavior](aura-rl-improves-response-quality.md) — related

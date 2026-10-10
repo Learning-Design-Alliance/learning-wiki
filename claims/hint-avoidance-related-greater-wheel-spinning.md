@@ -49,3 +49,4 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - [Consistently short delays between problems of the same skill are associated with greater wheel-spinning](short-consistent-delays-associated-wheel-spinning.md) — related
 - [A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation](j48-model-distinguishes-wheel-spinning-productive-persistence.md) — related
 - [A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition](retention-based-wheel-spinning-definition-lower-proportion.md) — related
+- [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related

@@ -56,3 +56,4 @@ This is a qualitative, single-study, small-sample case analysis (4 focal cases, 
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](trust-determines-swot-diagnostic-quality.md) — related
 - [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related
 - [School leaders entering the 'death spiral' exhibit noticeable behavioral changes such as hostility toward data, crisis mentality, and guarded communication](death-spiral-leader-behavior-changes.md) — related
+- [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related

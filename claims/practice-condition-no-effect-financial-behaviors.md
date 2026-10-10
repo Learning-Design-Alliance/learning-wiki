@@ -46,3 +46,4 @@ Self-reported behaviors (advice giving, checking credit score/report, taking ste
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](confidence-correlates-with-financial-behaviors-not-knowledge.md) — related
 - [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-retrieval-practice-improves-financial-knowledge-retention.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
+- [Workflow condition is associated with students' self-assessment confidence](workflow-condition-self-assessment-confidence-effect.md) — related

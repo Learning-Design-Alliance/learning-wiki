@@ -47,3 +47,4 @@ T-test comparisons by gender (Table 2) among 33 males and 15 females; the work-a
 - [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
 - [Students in the project groups were perceived by teammates as effective collaborators across all three rubric sub-scales](students-perceived-effective-collaborators.md) — related
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
+- [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related

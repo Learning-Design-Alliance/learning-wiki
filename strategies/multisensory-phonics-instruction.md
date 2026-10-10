@@ -106,6 +106,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 8. **Review cumulatively.** Include previously taught correspondences in every session's word lists ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Explicit Systematic Phonics Instruction](explicit-systematic-phonics-instruction.md) — the evidenced core, without the multisensory layer
 - [Explicit Phonics Routines](explicit-phonics-routines.md) — the lesson-level routines that make the sequence deliverable
 - [Word Building](word_building.md) — the manipulative component in isolation
@@ -114,6 +115,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - [Decoding Drills](decoding-drills.md) — the fluency-building practice that follows accurate mapping
 - Systematic phonics — the content backbone; multisensory delivery is a method layered on it
 - Decodable text practice — the application context that consolidates taught correspondences
+- [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
 
 ## Examples
 

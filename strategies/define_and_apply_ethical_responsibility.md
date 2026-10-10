@@ -92,6 +92,7 @@ The applying half works largely through argument. Requiring learners to construc
 - [Case-Based Learning](case-based-learning.md) — the vehicle for the applying half of the strategy
 - [Civic Online Reasoning](civic-online-reasoning.md) — the same define-and-apply pattern for the ethics of information
 - [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
+- [Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance](ground-ai-ethics-inquiry-in-teaching-practice.md)
 
 ## Examples
 

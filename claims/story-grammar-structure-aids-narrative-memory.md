@@ -65,3 +65,4 @@ The review attributes to Thorndyke (1977) the conclusion that "both rated compre
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — a narrower finding that bears on this claim

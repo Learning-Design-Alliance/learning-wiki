@@ -48,3 +48,4 @@ Authors' interpretation from the broad evaluation of qualitative data across thr
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
+- [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — related

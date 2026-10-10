@@ -46,3 +46,4 @@ Full-sample adjusted OLS regression (Table 4) predicting satisfaction from learn
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
 - [Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted](risk-perception-weak-positive-ai-english-acceptance.md) — related
+- [Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor](acceptance-frequency-of-use-weak-predictor.md) — related

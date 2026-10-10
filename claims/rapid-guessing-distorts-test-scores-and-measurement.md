@@ -67,3 +67,4 @@ The brief states as background that "Rapid-guessing can distort test scores and 
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — possibly the same claim (merge candidate)
 - [Even a small amount of rapid-guessing behavior can impact institutional rankings](small-rapid-guessing-impacts-institutional-rankings.md) — a narrower finding that bears on this claim
+- [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — a narrower finding that bears on this claim

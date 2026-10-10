@@ -58,10 +58,12 @@ Immersion can increase engagement and situational interest, but engagement is no
 5. Fade simulation support over repeated sessions — increasing scenario difficulty and removing prompts — consistent with [Scaffolding](../elements/scaffolding.md) and [Fading](../elements/fading.md).
 
 ## Related Strategies
+
 - [Simulation-Based Training](simulation-based-training.md) — the broader category; VR is the immersive end of the simulation spectrum
 - [Role-Play](acting-role-play.md) — the non-digital analogue; VR can scaffold toward live role-play
 - [Flipped Classroom](flipped-classroom.md) — VR practice sessions can occupy the in-class active slot
 - [Spaced Practice](../principles/spaced-learning.md) — repeated short VR sessions outperform massed immersion
+- [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

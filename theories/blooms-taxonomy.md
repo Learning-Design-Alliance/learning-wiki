@@ -12,7 +12,7 @@ generated:
 # Bloom's Taxonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Benjamin Bloom (1913-1999), working with his mentor Ralph W. Tyler at the University of Chicago and with collaborators Engelhart, Furst, Hill, and Krathwohl, published *Taxonomy of Educational Objectives: Handbook I, The Cognitive Domain* in 1956, followed by a second handbook on the affective domain in 1964 (Krathwohl, Bloom, & Masia, 1973). Bloom et al. (1956) identified three domains of educational goals — often summarized as **KSA**:
@@ -82,6 +82,8 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - Objectives classifiable by cognitive complexity (recall through creation), by domain (knowledge, skill, or attitude), and, in the revised cognitive-domain matrix, by knowledge type (factual, conceptual, procedural, metacognitive) — this is the taxonomy's most directly actionable use
 
 ## Claims
+
+- [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](../claims/context-intent-joint-association.md) [+W] — attached 2026-10-10 from Taelin Karidi et al. (2026), which proposed "Two-dimensional annotation framework: cognitive intent (Bloom level) and interaction context".
 
 ## Related Theories
 

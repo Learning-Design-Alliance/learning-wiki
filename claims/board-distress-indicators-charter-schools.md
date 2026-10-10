@@ -47,3 +47,4 @@ From the same interview study of leaders and board members of 11 distressed scho
 - [Distressed charter schools showed leadership indicators including inability to execute systems, overextension, and defensiveness toward outside support](leadership-distress-indicators-charter-schools.md) — related
 - [Lack of curriculum alignment with standards and across grade levels compounded student academic decline in distressed charter schools](curriculum-alignment-distress-indicator-instruction.md) — related
 - [Authorizers can identify distress indicators through existing formal and informal monitoring activities](existing-monitoring-yields-distress-indicators.md) — related
+- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — related

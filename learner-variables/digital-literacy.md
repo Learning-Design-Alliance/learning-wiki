@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 15 claims (12 for, 1 mixed, 2 against) · 17 studies (4 causal, 4 review, 4 associational, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 17 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (12 for, 2 mixed, 3 against) · 19 studies (5 associational, 4 causal, 4 review, 3 qualitative, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 19 report an effect size · 15 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -48,6 +48,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](../claims/early-exposure-enhances-ai-self-efficacy.md) [+W] — instruction changes it
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](../claims/dlp-multiple-cycles-greater-progress.md) [~M] — instruction changes it
 - [The MIT DAILy curriculum significantly improved middle and early high school learners' AI literacy compared to control groups](../claims/daily-curriculum-improves-ai-literacy.md) [+M] — instruction changes it
+- [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](../claims/excessive-genai-reliance-hinders-foundational-knowledge.md) [~M] — instruction changes it
+- [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](../claims/no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

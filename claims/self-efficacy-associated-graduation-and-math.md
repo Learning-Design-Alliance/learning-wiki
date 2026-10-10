@@ -47,3 +47,4 @@ Background statement in the abstract establishing the construct's importance; th
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly](self-efficacy-growth-associated-with-math-growth.md) — a narrower finding that bears on this claim
+- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](ai-generated-responses-positive-self-efficacy.md) — a narrower finding that bears on this claim

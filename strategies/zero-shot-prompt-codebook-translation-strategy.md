@@ -39,7 +39,8 @@ The article describes a pipeline in which human codebook rubrics are converted i
 - reduced instructor grading workload
 
 ## Related Strategies
-- 
+
+- [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](instruction-guided-llm-annotation-interaction-labels.md)
 
 ## Examples
 -

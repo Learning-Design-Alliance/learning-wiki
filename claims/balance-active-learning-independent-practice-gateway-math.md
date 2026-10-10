@@ -48,3 +48,4 @@ Secondary qualitative finding from the gateway math study. The report states "st
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](courseware-bridges-learning-gaps-gateway-math.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
+- [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related

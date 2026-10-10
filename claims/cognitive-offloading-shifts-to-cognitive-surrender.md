@@ -45,3 +45,4 @@ Theoretical argument in the article's introduction, citing prior research on AI 
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor](contingent-scaffolding-surrenders-full-answer-least.md) — related
+- [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related

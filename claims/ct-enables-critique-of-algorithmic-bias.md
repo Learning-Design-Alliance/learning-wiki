@@ -45,3 +45,4 @@ In the inclusive pedagogies section the report proposes, as an illustrative exam
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a broader claim this one bears on
 - [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related
+- [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related

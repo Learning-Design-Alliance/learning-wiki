@@ -51,6 +51,7 @@ This strategy packages the eight best practices Digital Promise identified for d
 - [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation](recommendations-learner-voice-edtech-evaluation-systems.md)
+- [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
 
 ## Examples
 -

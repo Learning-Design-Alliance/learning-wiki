@@ -58,10 +58,12 @@ The routine operationalizes reflection as contrast: by forcing learners to juxta
 5. **Share and normalize** — collect responses publicly so learners see that changing one's mind is the expected outcome of good instruction.
 
 ## Related Strategies
+
 - [KWL charts](kwl-chart.md) — the "K/L" columns serve the same before/after contrast function with a "what I still want to know" extension
 - [Exit tickets](exit-ticket.md) — the routine is a content-rich variant of the exit ticket format
 - [Anticipation guides](anticipation-guide.md) — a common way to generate the authentic "before" record the routine depends on
 - [3-2-1 reflection](../strategies/3-2-1_reflection.md) — a lighter-weight alternative when no genuine belief shift is expected
+- [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 
 ## Examples
 - **[Project Zero's Visible Thinking](https://pz.harvard.edu/projects/visible-thinking)** — the originating source; the routine is documented among Project Zero's Thinking Routines toolbox with classroom video examples.

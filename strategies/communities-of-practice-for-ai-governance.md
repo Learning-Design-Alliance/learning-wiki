@@ -57,6 +57,10 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students](intentional-data-driven-institutional-action.md)
+- [Develop GenAI management strategies by identifying the contradictions GenAI access creates in the educational activity system](genai-management-strategies-via-contradiction-analysis.md)
+- [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment](responsible-design-considerations-ai-assessment.md)
+- [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
 
 ## Examples
 -

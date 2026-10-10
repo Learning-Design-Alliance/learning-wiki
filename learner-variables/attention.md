@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (20 for, 2 mixed, 1 against) · 31 studies (10 causal, 8 quant-synthesis, 5 review, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (23 for, 2 mixed, 2 against) · 33 studies (11 causal, 8 quant-synthesis, 5 review, 4 design, 3 qualitative, 2 theoretical), `q1`–`q4` · 8 of 33 report an effect size · 23 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -56,6 +56,10 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Unpressured within-task planning improves accuracy only when attention is guided to form](../claims/unpressured-within-task-planning-form-focused-accuracy.md) [~W] — an instructional effect differs with it
 - [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](../claims/decorative-images-distract-from-math-problems.md) [+W] — instruction changes it
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](../claims/aces-toxic-stress-impair-learning.md) [~M] — instruction changes it
+- [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](../claims/attentional-drift-pace-impatience-restless-switching.md) [+M] — instruction changes it
+- [Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant](../claims/segmentation-benefit-larger-for-adhd-group.md) [-M] — an instructional effect differs with it
+- [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](../claims/segmentation-reduces-hesitations-adhd-participants.md) [+M] — instruction changes it
+- [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](../claims/task-difficulty-increases-hesitations-scratch-videos.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

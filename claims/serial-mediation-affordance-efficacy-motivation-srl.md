@@ -52,3 +52,5 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](feedback-quality-motivation-mediated-srl-path.md) — related
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related
+- [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
+- [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related

@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (38 for, 9 mixed, 4 against) · 37 studies (22 associational, 5 review, 3 causal, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 2 of 37 report an effect size · 49 claims rest on one study
+> **Evidence** · 53 claims (40 for, 9 mixed, 4 against) · 39 studies (22 associational, 6 review, 4 causal, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 2 of 39 report an effect size · 51 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -84,6 +84,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs](../claims/tk-inclusive-classrooms-and-disability-supports.md) [+M] — instruction changes it
 - [Black students in Michigan are three times as likely as white students to have access to no CTE programs, and students with disabilities complete CTE at lower rates](../claims/michigan-cte-access-disparities.md) [+M] — learners who differ on it differ in outcomes
 - [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](../claims/technology-access-barriers-fafsa-implementation.md) [+M] — learners who differ on it differ in outcomes
+- [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](../claims/ai-digital-divide-reinforces-inequality.md) [+M] — an instructional effect differs with it
+- [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](../claims/aixspeed-adaptive-playback-higher-listenability.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

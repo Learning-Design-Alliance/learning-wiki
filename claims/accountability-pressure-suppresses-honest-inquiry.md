@@ -47,3 +47,4 @@ The article identifies, as an author argument without reported data, risks of mo
 - [Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice](data-construction-embeds-privilege-in-data.md) — related
 - [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related

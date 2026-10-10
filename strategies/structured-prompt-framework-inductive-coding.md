@@ -41,6 +41,7 @@ The article's prompt engineering strategy specifies that prompts should meet "th
 - [Curricular chain-of-thought prompting: extract key pedagogical elements before competency inference](curricular-chain-of-thought-prompting.md)
 - [Use structured multi-stage prompts with clearly defined constructs when eliciting LLM topic labels for qualitative coding](structured-prompts-clear-construct-definitions-llm-labeling.md)
 - [Use LLMs to generate initial course metadata labels, shifting human taggers to a confirmatory role](llm-assisted-course-tagging-confirmatory-role.md)
+- [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](instruction-guided-llm-annotation-interaction-labels.md)
 
 ## Examples
 -

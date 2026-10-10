@@ -68,3 +68,4 @@ Forced-choice comparative attributions collected once after all three tasks from
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](perceived-load-unchanged-under-contingent-tutor.md) — related
 - [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related

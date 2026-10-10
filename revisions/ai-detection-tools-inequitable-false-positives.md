@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ai-detection-tools-inequitable-false-positives.md
+---
+
+# Revision history: [claims/ai-detection-tools-inequitable-false-positives](../claims/ai-detection-tools-inequitable-false-positives.md)
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from aied-ahangama-designing-assessments-genai-era-ict-framework-2026 (Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education) via eval_harness.py + ingest_extractions.py

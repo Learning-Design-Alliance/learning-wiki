@@ -46,3 +46,4 @@ Observational analysis of ASSISTments 2009-2010 logs shown in Figure 2, a box pl
 - [The percentage of hints taken on a question is negatively correlated with the percentage of correct responses](hint-taking-negatively-correlated-with-correct-responses.md) — related
 - [A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone](wrong-then-request-joint-effect-higher.md) — related
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
+- [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related

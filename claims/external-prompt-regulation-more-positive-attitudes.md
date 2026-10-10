@@ -67,3 +67,4 @@ A univariate ANOVA on the hint-helpfulness item in the same attitude data showed
 - [Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing](students-notice-missing-practice-and-examples.md) — related
 - [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
+- [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related

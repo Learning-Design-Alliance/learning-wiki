@@ -27,7 +27,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 31 studies (9 quant-synthesis, 8 causal, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 32 studies (9 causal, 9 quant-synthesis, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Claims this page did not cite before, found while converting it, which bear on p
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) holds that sense.
 - [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W]
 - [Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps](../claims/noticing-not-enough-next-steps.md) [~W] — attached 2026-10-10 from Jones et al. (2024), which proposed "Feedback should focus on the work or thinking, not the person, and preserve agency with clues rather than complete solutions".
+- [Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows](../claims/enacted-feedback-higher-uptake-than-directed-self-directed.md) [+M] — attached 2026-10-10 from Omar Alsaiari et al. (2026), which proposed "Enacted Feedback workflow: staged selection, evaluative prioritisation, and selection-anchored AI dialogue".
 
 ## Objective and learner-valued goal
 

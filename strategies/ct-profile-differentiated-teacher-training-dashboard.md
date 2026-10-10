@@ -45,6 +45,7 @@ The article recommends using the three empirically identified CT profiles to tai
 - [Use standards-based learner profiles to deliver targeted support and curriculum-level interventions in professional degree programs](standards-profiles-targeted-support-strategy.md)
 - [Learning Dashboards](learning-dashboards.md)
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](adaptive-recommendations-engagement-profiles-k8.md)
+- [Deliver AI-generated visual explanations adaptively based on learner engagement profiles rather than uniformly](adaptive-delivery-gats-by-engagement-profile.md)
 
 ## Examples
 -

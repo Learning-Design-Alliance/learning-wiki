@@ -45,3 +45,5 @@ The review reports this educator detection study, citing Wraith et al. [45], fin
 ## Related Claims
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](minority-health-students-genai-reflective-writing.md) — related
+- [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related
+- [Students cannot reliably distinguish AI-generated slides from human-created slides](students-cannot-identify-ai-slides.md) — a narrower finding that bears on this claim

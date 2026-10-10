@@ -66,3 +66,4 @@ Figures 8a and 8b separate the ten users and ten nonusers with complete data who
 - [Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles](prior-workshop-experience-differentiates-concerns.md) — related
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — related

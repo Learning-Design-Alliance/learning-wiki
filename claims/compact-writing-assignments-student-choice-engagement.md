@@ -44,3 +44,4 @@ Student feedback survey on the Compact Writing Assignments implemented in Pilot 
 - [Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants](sunnyside-writing-engagement-15-percent-increase.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
+- [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](pilot-studies-measurable-improvements-engagement-self-efficacy.md) — related

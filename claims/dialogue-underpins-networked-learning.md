@@ -51,3 +51,4 @@ The article reports, citing Ravenscroft (2011), that "thinking in networks will 
 - [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
 - [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](kantian-architectonics-early-constructivism.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related

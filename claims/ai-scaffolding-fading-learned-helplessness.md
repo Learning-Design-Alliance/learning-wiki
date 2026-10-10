@@ -50,3 +50,5 @@ Theoretical argument in the article's scaffolding section, drawing on the learne
 - [Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive](ability-attributions-foster-learned-helplessness-in-sport.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](checking-ai-claims-predicts-gains.md) — related
+- [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)](sidd-mechanism-for-ai-ive-pbl-outcomes.md) — related
