@@ -47,6 +47,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
 - [Evaluate AI-in-LMS deployments with cluster-randomized or stepped-wedge rollout linked to multi-year institutional outcomes](longitudinal-evaluation-cluster-randomized-stepped-wedge.md)
 - [Use an LLM web agent to compare potential lesson designs and get fast, low-cost feedback before deployment](use-web-agent-to-compare-lesson-designs.md)
+- [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 
 ## Examples
 -

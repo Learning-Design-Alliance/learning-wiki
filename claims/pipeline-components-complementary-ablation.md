@@ -104,3 +104,4 @@ Baseline D generates books from 200 failed TOCs, evaluated with the same judge a
 - [Structured book synthesis outperforms matched independent document rephrasing (+1.17 mean), while rephrasing alone ties natural books](structured-synthesis-beats-rephrasing.md) — related
 - [Section quality improves with more source chunks up to k=10, beyond which gains plateau](source-chunk-count-k10-plateau.md) — related
 - [Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories](synthetic-textbooks-replace-natural-books-gain.md) — related
+- [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related

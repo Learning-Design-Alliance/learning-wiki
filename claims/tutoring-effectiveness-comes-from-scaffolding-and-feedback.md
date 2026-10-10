@@ -94,3 +94,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
 - [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](human-tutoring-effect-d-079.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
+- [In a large-scale RCT, real-time LLM-generated pedagogical suggestions for human tutors raised student knowledge-component mastery by 4 percentage points on average, with larger effects for lower-performing or less-experienced tutors](llm-suggestions-human-tutors-mastery-gain.md) — related

@@ -46,3 +46,4 @@ Randomized experiment in a 12-week flipped Python CS1 course at UofT (pooled N=9
 - [In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention](gats-improve-immediate-performance-tu-delft.md) — related
 - [At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration](gats-increase-constructive-engagement-uoft.md) — related
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
+- [CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters](cs1-cr-exam-scores-unchanged.md) — related

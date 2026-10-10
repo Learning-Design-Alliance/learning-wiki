@@ -54,3 +54,4 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a narrower finding that bears on this claim
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — a narrower finding that bears on this claim
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
+- [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](self-reports-fail-to-predict-llm-regulation.md) — related

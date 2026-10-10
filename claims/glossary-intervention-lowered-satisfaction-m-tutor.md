@@ -46,3 +46,4 @@ One-group pre/post study in ENGR 106 (Fall 2002) using the adapted IMMS; Table 4
 - [Students' reactions to the glossary were significantly and positively related to their post-satisfaction level](glossary-reaction-regression-post-satisfaction.md) — reports the opposite
 - [Pre-intervention, students gave the least positive response to the Satisfaction component of the ARCS model](pre-survey-satisfaction-lowest-arcs-component.md) — related
 - [The authors caution that the glossary likely was not the cause of the observed motivational loss due to confounds and a long temporal gap](temporal-gap-confounds-motivational-loss-caution.md) — related
+- [Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time](system-ablation-teacher-oversight-and-addie-orchestration-value.md) — related

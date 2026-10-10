@@ -45,6 +45,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains](instructors-as-programmers-genai-slides.md)
 - [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Use structured exercises requiring students to compare, critique, and justify against AI-generated code](compare-critique-ai-generated-code-exercises.md)
 
 ## Examples
 -

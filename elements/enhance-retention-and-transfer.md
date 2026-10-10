@@ -78,6 +78,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 **[Khan Academy](https://www.khanacademy.org)** — Mastery exercises interleave problem variants so learners must select and adapt procedures rather than repeat a single solution pattern.
 
 **Reflection journals in clinical education** — Nursing and medical programs (e.g., structured debriefs after simulation) require learners to connect simulated cases to practice standards, a designed integration phase.
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 
 ## Key Sources
 - Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). *Principles of instructional design* (4th ed.). Harcourt Brace Jovanovich.

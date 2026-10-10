@@ -73,3 +73,5 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related
+- [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related

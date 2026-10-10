@@ -49,3 +49,4 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content](students-want-detailed-explanatory-feedback.md) — related
 - [Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial](teacher-knowledge-higher-perceived-benefit.md) — related
 - [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
+- [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related

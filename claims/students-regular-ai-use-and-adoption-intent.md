@@ -45,3 +45,4 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 ## Related Claims
 - [The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students](ai-flipped-classroom-higher-response-rate.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related

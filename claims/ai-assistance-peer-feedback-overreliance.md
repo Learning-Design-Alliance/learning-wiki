@@ -51,3 +51,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret](verification-visibility-counter-cascade-interventions.md) — related
 - [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-practice-gains-exam-loss-cognitive-debt.md) — related
+- [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](genai-tutors-struggle-infer-student-knowledge.md) — related

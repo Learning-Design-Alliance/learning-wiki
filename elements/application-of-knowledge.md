@@ -71,10 +71,12 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — learners apply frameworks to business cases under discussion facilitation
 
 ## Examples
+
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/coursework/Pages/the-case-method.aspx)** — Students apply management frameworks to real company cases before class discussion; application precedes and drives instruction.
 - **[PBLWorks (Buck Institute)](https://www.pblworks.org)** — Published project-based learning curricula in which K–12 students apply academic concepts to authentic community and design problems.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — Learners apply physics concepts by manipulating variables in simulations, with immediate feedback from the model's behavior.
 - **[Merrill's pebble-in-the-pond design](https://www.mdpi.com/2227-7102/10/12/358)** — A design sequence that starts from a real-world problem and works backward to the application tasks and required knowledge.
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)

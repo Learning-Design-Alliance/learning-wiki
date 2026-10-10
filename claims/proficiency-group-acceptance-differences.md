@@ -60,3 +60,4 @@ Omnibus one-way ANOVA across Low (n = 77), Intermediate (n = 103), and High (n =
 ## Related Claims
 - [Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes](humanities-stem-acceptance-mean-differences.md) — related
 - [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](low-proficiency-intelligibility-barrier-asr.md) — related
+- [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related

@@ -41,7 +41,8 @@ For policy, the article argues institutions should not simply decide whether to 
 - [Moderated Mediation Model Ai Cognitive Load Srl](../theories/cognitive-load-theory.md)
 
 ## Related Strategies
-- 
+
+- [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ In the assisted math assignment, graded by four anonymized Gemini grading agents
 - [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
+- [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](cs1-cr-effort-unchanged-despite-ai.md) — related

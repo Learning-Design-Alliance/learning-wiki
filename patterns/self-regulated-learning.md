@@ -20,7 +20,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q3`–`q4` · 5 of 10 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 11 studies (4 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -73,6 +73,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 - [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](../claims/suggest-subgoal-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
+- [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](../claims/feedback-effects-on-offloading-mixed.md) [+W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Match feedback type to metacognitive component and task phase: calibrate beliefs before tasks, provide task-specific feedback during tasks".
 
 ## Illustrative design instance and observation record
 

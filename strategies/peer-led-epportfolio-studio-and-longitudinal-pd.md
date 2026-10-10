@@ -43,6 +43,7 @@ The article describes two implementable supports for scaling ePortfolio. First, 
 
 - [Teacher-led workshops and freely downloadable materials to scale video analysis and modeling practice](teacher-led-workshop-scaling-video-modeling.md)
 - [Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials](three-year-pathway-development-activities.md)
+- [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 
 ## Examples
 -

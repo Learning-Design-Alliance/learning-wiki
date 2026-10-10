@@ -78,6 +78,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 6. Revisit the principle across the term in progressively more distant contexts, spaced over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Teaching for Transfer (Hugging and Bridging)](../strategies/teaching-for-transfer.md) — the Salomon & Perkins framing of this strategy
 - [Use Worked Examples](../strategies/use_worked_examples.md) — the example-comparison foundation from which transfer tasks diverge
 - [Case-Based Learning](../strategies/case-based-learning.md) — situates principles in realistic contexts requiring application
@@ -85,6 +86,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Comparing Cases](comparing_cases.md) — the core mechanism for supporting abstraction across examples
 - [Authentic Learning Tasks](authentic_learning_tasks.md) — grounding practice in realistic contexts increases the likelihood of application beyond the classroom
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ([doi:10.1016/0010-0285(83)90003-0](https://doi.org/10.1016/0010-0285(83)90003-0))

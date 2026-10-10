@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (58 for, 13 mixed, 7 against) · 68 studies (23 causal, 15 review, 15 associational, 8 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 17 of 68 report an effect size · 74 claims rest on one study
+> **Evidence** · 85 claims (60 for, 15 mixed, 10 against) · 73 studies (27 causal, 16 associational, 15 review, 8 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 18 of 73 report an effect size · 81 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -111,6 +111,13 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](../claims/los-padillas-chronic-absenteeism-halved.md) [+M] — instruction changes it
 - [FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback](../claims/fastperson-halves-viewing-time-no-quiz-loss.md) [+M] — instruction changes it
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](../claims/aifred-context-switch-reduction-longer-time.md) [~M] — instruction changes it
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](../claims/ai-effort-reduction-time-effort-dissociation.md) [-M] — instruction changes it
+- [AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones](../claims/ai-speedup-limited-to-difficult-tasks.md) [~M] — instruction changes it
+- [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](../claims/hint-conditions-time-on-task.md) [+M] — instruction changes it
+- [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](../claims/dwell-time-attention-checks-versus-task-performance.md) [~M] — learners who differ on it differ in outcomes
+- [No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading](../claims/no-ai-longer-time-on-task-descriptive.md) [+M] — instruction changes it
+- [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](../claims/speedup-illusion-ai-assisted-time-underestimation.md) [-M] — instruction changes it
+- [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](../claims/cs1-cr-effort-unchanged-despite-ai.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

@@ -70,6 +70,7 @@ Family engagement is consistently associated with student achievement, but the m
 - [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
 - [Create structure and consistency through schedules, regular communication, and clear instructions in distance learning](structure-consistency-distance-learning-schedules.md)
 - [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
+- [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — the opening move that makes each family contact feel personal rather than procedural

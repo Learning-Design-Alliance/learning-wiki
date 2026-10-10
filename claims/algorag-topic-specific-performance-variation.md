@@ -45,3 +45,4 @@ Per-topic analysis over the 179-question test set (Table 2, Fig. 2). NP-complete
 ## Related Claims
 - [AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620](algorag-100-success-179-tcs-questions.md) — a broader claim this one bears on
 - [BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure](bleu4-zero-mathematical-proofs-metric-limitation.md) — related
+- [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](collearn-misconception-mining-f1.md) — related

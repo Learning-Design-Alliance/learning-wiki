@@ -41,6 +41,7 @@ The article demonstrates producing a customized measurement application entirely
 - Smartphysics Rotation Lab App
 - [A proposed but not yet classroom-evaluated extension: have students write and refine the measurement-application prompt themselves](students-write-measurement-app-prompts.md)
 - [Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains](instructors-as-programmers-genai-slides.md)
+- [Use a natural-language strategy guideline in the generator prompt so tutoring strategy can be revised without code changes](collearn-natural-language-strategy-guideline.md)
 
 ## Examples
 -

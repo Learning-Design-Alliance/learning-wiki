@@ -70,3 +70,4 @@ Policy analysis of the top 100 universities' ChatGPT policies, described in the 
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
+- [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related

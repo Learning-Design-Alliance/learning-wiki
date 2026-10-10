@@ -50,3 +50,4 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 - [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](unrestricted-chatgpt-worse-exam-scores.md) — reports the opposite
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](ai-hints-aligned-exam-performance-only.md) — related
+- [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related

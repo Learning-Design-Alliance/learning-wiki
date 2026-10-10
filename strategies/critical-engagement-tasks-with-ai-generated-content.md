@@ -45,6 +45,7 @@ The article recommends that "Curricula and instructional design should aim to pr
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Support faculty AI adoption by engaging beliefs about disciplinary thinking, not only access and technical training](engage-faculty-epistemic-beliefs-for-ai-adoption-support.md)
+- [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
 
 ## Examples
 -

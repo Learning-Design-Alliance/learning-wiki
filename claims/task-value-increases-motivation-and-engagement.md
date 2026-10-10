@@ -120,3 +120,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](ai-availability-questions-programming-skill-utility.md) — a narrower finding that bears on this claim
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — related
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
+- [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — a narrower finding that bears on this claim

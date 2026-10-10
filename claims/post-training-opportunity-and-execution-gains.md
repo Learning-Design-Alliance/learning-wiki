@@ -64,3 +64,4 @@ Pre-post comparison of execution quality within opportunities, scored by the two
 ## Related Claims
 - [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](opportunity-count-no-effect-execution.md) — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
+- [In a large-scale RCT, real-time LLM-generated pedagogical suggestions for human tutors raised student knowledge-component mastery by 4 percentage points on average, with larger effects for lower-performing or less-experienced tutors](llm-suggestions-human-tutors-mastery-gain.md) — related

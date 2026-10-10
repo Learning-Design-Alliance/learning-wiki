@@ -46,3 +46,4 @@ The description states the report examines "how the scale and impact of summer s
 - [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — related
+- [Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft](tutoring-outperforms-class-size-reduction-summer-school.md) — related

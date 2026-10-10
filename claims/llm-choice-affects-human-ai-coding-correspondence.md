@@ -69,3 +69,4 @@ Tukey-adjusted pairwise contrasts of estimated marginal means in the correlation
 - [LLMs align better with human coding on concise theories with discrete concepts than on more complex ones](theory-complexity-affects-llm-coding-agreement.md) — related
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
 - [GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts](gpt-4o-mini-lowest-act-balance-mae.md) — related
+- [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related

@@ -38,7 +38,8 @@ The article recommends hybrid approaches to address the drawbacks of data-driven
 - protecting learners from misleading or confusing automated feedback
 
 ## Related Strategies
-- 
+
+- [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 
 ## Examples
 -

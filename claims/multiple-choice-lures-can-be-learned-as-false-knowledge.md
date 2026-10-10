@@ -67,3 +67,4 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Most incoming students do not understand that placement test performance determines which classes they can take](students-unaware-placement-stakes.md) — related
+- [On the live single-node deployment, short-answer rounds take ≈32 s (≈$0.015/round) while multiple-choice rounds are ≈4× faster (≈7.6 s, ≈$0.005/round) because grading is deterministic](collearn-latency-cost-efficiency.md) — related

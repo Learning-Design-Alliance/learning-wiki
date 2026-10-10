@@ -46,3 +46,5 @@ Pearson correlation analysis comparing each of the 12 human raters' scores on th
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](aeegs-high-agreement-human-raters-icc-0863.md) — a broader claim this one bears on
 - [AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher](aeegs-human-mean-scores-equivalent-low.md) — related
 - [AEEGS and human raters produced similarly shaped score distributions, with most students' scores clustered around the mean in the 'good' band](aeegs-human-score-distributions-similar.md) — related
+- [The response-level confidence score correlates positively and significantly with scoring accuracy](confidence-score-correlates-scoring-accuracy.md) — related
+- [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related

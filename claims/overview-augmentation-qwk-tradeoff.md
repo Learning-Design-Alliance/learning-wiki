@@ -45,3 +45,4 @@ Ablation result for the Overview dimension (Results §4.3.6, best model IB-BiLST
 ## Related Claims
 - [Data augmentation was critical for ordinal discriminability, with QWK dropping to near-zero without it in the Focus dimension and gains up to +0.346 in severely imbalanced dimensions](augmentation-critical-ordinal-qwk-gains.md) — related
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md) — related
+- [CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline](cotal-rules-task-qwk-gain.md) — related

@@ -65,6 +65,10 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
+- [Four-question public template for high-stakes AI assessment tasks](four-question-policy-template-high-stakes-tasks.md)
+- [Reform academic governance through interventions on governance architectures, people, and technologies/resources](governance-reform-architectures-people-technologies.md)
+- [Design profession-level governance arrangements, modeled on Ostrom's commons mechanisms, to sustain expertise regeneration](profession-level-commons-governance-ostrom-mechanisms.md)
+- [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
 
 ## Examples
 -

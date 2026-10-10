@@ -51,3 +51,5 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
+- [CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability](clara-educator-agreement-interpretability.md) — related
+- [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related

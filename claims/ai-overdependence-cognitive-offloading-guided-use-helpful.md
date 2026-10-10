@@ -48,3 +48,5 @@ Systematic literature review of studies on AI ethics in education and academic m
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
+- [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
+- [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](substitutive-duplicative-offloading-outcomes.md) — related

@@ -38,7 +38,8 @@ The authors' forward-looking recommendation for the emerging field of applying p
 - methodologically grounded evaluation of LLM capabilities
 
 ## Related Strategies
-- 
+
+- [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The article argues that because faculty and administrative staff use AI while al
 - [Designate permitted AI use per assignment using color-coded levels (red, yellow, green, blue)](color-coded-ai-use-levels-per-assignment.md)
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 
 ## Examples
 -

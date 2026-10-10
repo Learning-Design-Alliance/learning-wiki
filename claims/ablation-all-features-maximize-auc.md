@@ -47,3 +47,4 @@ Ablation study on Model 1 (Table 5), omitting sequence-level embeddings, student
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
 - [The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters](propdec-colinear-with-student-intercept.md) — related
 - [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
+- [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related

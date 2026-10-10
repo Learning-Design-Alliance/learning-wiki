@@ -52,3 +52,4 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — possibly the same claim (merge candidate)
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
+- [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related

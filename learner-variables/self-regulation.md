@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (45 for, 13 mixed, 5 against) · 52 studies (12 associational, 11 review, 9 quant-synthesis, 8 causal, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 11 of 52 report an effect size · 56 claims rest on one study
+> **Evidence** · 69 claims (48 for, 15 mixed, 6 against) · 58 studies (13 review, 13 associational, 11 causal, 9 quant-synthesis, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 58 report an effect size · 61 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -96,6 +96,12 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](../claims/srl-moderates-indirect-ai-effect.md) [+M] — an instructional effect differs with it
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](../claims/ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) [+M] — instruction changes it
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](../claims/chatgpt-autonomy-self-directed-learning.md) [+M] — instruction changes it
+- [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](../claims/effort-performance-drivers-offloading.md) [~M] — learners who differ on it differ in outcomes
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](../claims/genai-overreliance-harms-self-regulated-learning.md) [+M] — instruction changes it
+- [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](../claims/self-reports-fail-to-predict-llm-regulation.md) [-M] — learners who differ on it differ in outcomes
+- [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](../claims/subjective-expectations-drive-offloading.md) [+M] — learners who differ on it differ in outcomes
+- [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](../claims/srl-uneven-only-execution-monitoring-predicts-gains.md) [~M] — learners who differ on it differ in outcomes
+- [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](../claims/chatgpt-teaching-self-efficacy-cognitive-strategies.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

@@ -44,3 +44,4 @@ Between-group comparison on an adapted six-dimension NASA-TLX (mental demand, ti
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
 - [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](personalized-paths-experiment-outcomes.md) — related
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](gats-no-immediate-experience-effects.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related

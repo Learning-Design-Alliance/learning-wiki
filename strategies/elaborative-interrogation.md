@@ -63,6 +63,7 @@ Elaborative interrogation is one of the most consistently supported learning tec
 - [Retrieval Practice](retrieval-practice.md) — complementary; interrogation elaborates at encoding, retrieval strengthens later
 - [Rereading](rereading.md) — the low-yield technique elaborative interrogation typically replaces
 - [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](elaborative-interrogation-minimal-resource-adjunct.md)
+- [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
 
 ## Examples
 - **Biology study guide:** after reading "capillaries have thin walls," students answer "Why would thin walls be useful for capillaries' function?" before checking the provided rationale.

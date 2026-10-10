@@ -50,3 +50,5 @@ The article's review of recent sector frameworks (traffic light systems, the two
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related
 - [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — related
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
+- [Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified](flat-interest-across-seven-ai-assessment-strategies.md) — related
+- [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related

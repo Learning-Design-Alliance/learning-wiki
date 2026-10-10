@@ -46,3 +46,4 @@ From the materials analysis of 33 professional development texts coded with an e
 ## Related Claims
 - [Professional development texts give sparse treatment to the knowledge and skills needed to make inferences and interpretations from data](pd-texts-paucity-inference-interpretation-skills.md) — related
 - [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](vague-statistics-definitions-never-formalized.md) — a narrower finding that bears on this claim
+- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](experts-superficial-technology-integration.md) — related

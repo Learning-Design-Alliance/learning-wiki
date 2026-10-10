@@ -43,6 +43,7 @@ The guide directs states, districts, and schools to allocate resources to "disma
 - [Partner with immigrant-serving community-based organizations to engage linguistically diverse families and sustain feedback loops](partner-community-based-organizations-el-family-engagement.md)
 - [Assign a compensated navigator to each family to connect English learner households with learning and support services](family-navigators-for-english-learners.md)
 - [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
+- [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 
 ## Examples
 -

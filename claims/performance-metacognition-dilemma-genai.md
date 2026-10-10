@@ -50,3 +50,4 @@ Theoretical synthesis in the introduction arguing the performance–metacognitio
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
+- [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — a narrower finding that bears on this claim

@@ -61,3 +61,5 @@ Statement from the head of a state CTO council reported in the trust section, no
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — reports the opposite
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related
 - [In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data](three-privacy-themes-student-success-system-case.md) — related
+- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](experts-superficial-technology-integration.md) — related
+- [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related

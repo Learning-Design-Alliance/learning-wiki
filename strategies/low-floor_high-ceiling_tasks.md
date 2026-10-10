@@ -64,6 +64,7 @@ Low floor, high ceiling tasks enact productive struggle: learners at different r
 - [Open-ended questioning](open-ended-questioning.md) — the questioning stance that sustains exploration during the task
 - [Differentiated instruction](differentiated-instruction.md) — low floor, high ceiling tasks are an alternative to tiered differentiation: one task, many depths
 - [Add a gestures-teaching world to enable differentiated starting points, and expand content beyond linear equations](fh2t-differentiation-and-content-expansion-strategy.md)
+- [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org) "Week of Inspirational Math"** — published low floor, high ceiling tasks (e.g., the "Four 4s" and visual number puzzles) with facilitation videos, used in classrooms worldwide.

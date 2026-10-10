@@ -44,3 +44,4 @@ Cross-study co-occurrence analysis across the 54 included studies counted each t
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related

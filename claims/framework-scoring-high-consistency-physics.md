@@ -52,3 +52,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related

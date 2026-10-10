@@ -48,3 +48,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
+- [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related

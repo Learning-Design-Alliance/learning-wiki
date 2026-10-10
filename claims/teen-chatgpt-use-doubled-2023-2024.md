@@ -46,3 +46,4 @@ The briefs report adoption trends from cited surveys (Pew Research Center; Micro
 - [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — related
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
+- [Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption](early-career-employment-decline-ai-exposed-occupations.md) — related

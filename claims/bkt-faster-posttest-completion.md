@@ -67,3 +67,4 @@ Posttest solution optimality (steps) comparison; shorter solutions with fewer st
 - [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](drl-policy-favors-guided-examples-distribution.md) — related
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — related
+- [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related

@@ -46,3 +46,4 @@ ANCOVA on post-test mock scores in a 16-week quasi-experiment with intact classe
 - [Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers](automated-annotations-accelerate-misconception-correction.md) — related
 - [Automated marking reduced assessment turnaround from 11.2 days to 0.1 days and enabled intervention students to complete 4.1 times the practice volume of controls](automated-marking-turnaround-and-practice-volume.md) — related
 - [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related
+- [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — related

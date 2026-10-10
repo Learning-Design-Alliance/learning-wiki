@@ -69,6 +69,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Deliver school-based, job-embedded professional learning in varied well-matched formats](job-embedded-school-based-professional-learning.md)
 - [Provide job-embedded professional learning with coaching, and keep coaches nonevaluative](job-embedded-coaching-nonevaluative.md)
 - [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
+- [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Bias-corrected Bootstrap mediation testing in the SEM study (229 valid responses
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
 - [Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-empowerment-positively-associated-trust-genai-dependence.md) — related
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
+- [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related

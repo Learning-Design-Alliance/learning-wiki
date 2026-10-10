@@ -45,3 +45,4 @@ The review reports, citing Vrzakova et al. (2020), a study combining visual scre
 ## Related Claims
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
+- [AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support](aiol-increasing-multimodal-emotion-personalization.md) — related

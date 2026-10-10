@@ -48,3 +48,4 @@ Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Z
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
 - [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
 - [Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates](ta-engagement-measurement-methods.md) — related
+- [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related

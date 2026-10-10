@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (41 for, 7 mixed, 4 against) · 48 studies (13 review, 10 causal, 7 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 8 of 48 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (41 for, 7 mixed, 5 against) · 49 studies (13 review, 11 causal, 7 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 8 of 49 report an effect size · 52 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -85,6 +85,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments](../claims/aivaluate-lower-anxiety-than-face-to-face-viva.md) [+M] — instruction changes it
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](../claims/llm-qa-practice-reduces-presentation-anxiety.md) [+M] — instruction changes it
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](../claims/llm-assistant-boosts-debugging-confidence.md) [+M] — instruction changes it
+- [Teaching a ChatGPT agent does not significantly change students' test anxiety](../claims/chatgpt-teaching-test-anxiety-no-difference.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

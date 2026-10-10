@@ -54,6 +54,7 @@ The report recommends that states integrate co-design with feedback loops—defi
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 - [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 - [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
+- [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 
 ## Examples
 -

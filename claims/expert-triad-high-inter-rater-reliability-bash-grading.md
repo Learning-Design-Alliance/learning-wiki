@@ -51,3 +51,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Human item-level scores on bash command exams are strongly bimodal, concentrated at zero and near-full credit with little intermediate partial credit](human-bash-scores-bimodal-zero-or-near-full.md) — related
+- [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related

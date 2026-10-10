@@ -46,3 +46,4 @@ The paper describes computer-based case simulations measuring physicians' patien
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](students-weak-initial-il-skills.md) — related
+- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related

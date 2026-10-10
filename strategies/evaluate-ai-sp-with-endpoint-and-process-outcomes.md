@@ -42,7 +42,8 @@ The article recommends that "Future evaluations of LLM-based simulated patient s
 - [Functional Complementarity Ai Human Clinical Education](../designs/functional-complementarity-ai-human-clinical-education.md)
 
 ## Related Strategies
-- 
+
+- [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 
 ## Examples
 -

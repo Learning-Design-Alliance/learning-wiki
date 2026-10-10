@@ -44,3 +44,4 @@ Theme from student interviews: 28 students cited wanting "detailed feedback with
 ## Related Claims
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](students-report-limited-feedback-on-assessments.md) — possibly the same claim (merge candidate)
+- [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related

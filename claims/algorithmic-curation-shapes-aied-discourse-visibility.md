@@ -48,3 +48,4 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage](twitter-discourse-more-practice-oriented-than-policy-media.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
+- [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related

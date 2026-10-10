@@ -85,3 +85,5 @@ Same cluster analysis: "Cluster 3 (n=8) was browsing-dominant", with Browsing Ow
 - [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](cognitive-affective-profiles-explain-design-behaviors.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
+- [Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5](behavioral-shift-goal-oriented-optimization.md) — related
+- [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related

@@ -52,3 +52,4 @@ Cross-program comparison across the eight tutoring evaluations. The brief states
 - [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
 - [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related
 - [The brief evaluates how summer program design and implementation aligned with recommended best practices](summer-school-design-alignment-best-practices.md) — related
+- [Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft](tutoring-outperforms-class-size-reduction-summer-school.md) — related

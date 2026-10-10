@@ -68,3 +68,4 @@ Same SEM sample of 360 students; the direct empowerment-to-dependence path was s
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
 - [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related
+- [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related

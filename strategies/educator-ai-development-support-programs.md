@@ -51,6 +51,8 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development](rj-school-implementation-funding-sustainability-pd.md)
 - [Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments](staff-buy-in-opt-in-pd-social-signaling.md)
+- [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
+- [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ The same bootstrap mediation analysis distinguished mediation types across paths
 - [Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators](mediators-associated-with-ai-teaching-innovation-behavior.md) — related
 - [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) — related
 - [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](model-explains-variance-in-ai-teaching-innovation-behavior.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

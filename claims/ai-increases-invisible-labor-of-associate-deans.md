@@ -48,3 +48,4 @@ Findings from the qualitative survey case study, analyzed through a critical fem
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — a broader claim this one bears on
+- [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related

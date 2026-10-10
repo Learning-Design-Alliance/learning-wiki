@@ -67,3 +67,4 @@ The review attributes countervailing findings to the same cited studies: explana
 - [Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt collapse](error-timing-and-stakes-shape-trust.md) — related
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
+- [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related

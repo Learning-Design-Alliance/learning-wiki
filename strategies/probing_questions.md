@@ -65,6 +65,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases give probes a concrete, shared object of analysis
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
 - [Foster articulation by having students build testable artifacts and explain ideas to other students](articulation-through-buildable-artifacts.md)
+- [Generate targeted diagnostic follow-up questions using variant-problem and probe-the-gap strategies for ambiguous cases](variant-problem-probe-the-gap-follow-ups.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

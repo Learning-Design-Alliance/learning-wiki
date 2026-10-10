@@ -49,3 +49,4 @@ Frequency counts from grounded theory coding of 1,054 student responses. The Out
 - [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related
 - [First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample](high-support-high-strain-coexistence-first-years.md) — a broader claim this one bears on
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
+- [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related

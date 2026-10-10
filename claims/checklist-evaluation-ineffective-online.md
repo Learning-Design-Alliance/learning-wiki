@@ -101,3 +101,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Authentic audiences improve student work](authentic-audiences-improve-student-work.md) — evaluation instruction works best grounded in authentic open-web tasks rather than decontextualized rubrics
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
+- [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](persistent-incorrect-trust-cue-beliefs.md) — related

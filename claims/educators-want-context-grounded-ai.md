@@ -42,3 +42,4 @@ Findings from educator interviews conducted winter and spring 2026 as part of Di
 
 ## Related Claims
 - [Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs](generic-ai-tools-undermine-curriculum-coherence.md) — possibly the same claim (merge candidate)
+- [Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool](concept-catalyst-outputs-inspire-practice-reflection.md) — related

@@ -86,3 +86,4 @@ Interview analysis of Cluster 3: high-capability teachers critiqued platform con
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](behavior-alone-insufficient-predict-ai-tpack.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

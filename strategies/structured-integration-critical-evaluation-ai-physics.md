@@ -42,7 +42,8 @@ Based on the cross-study patterns, the review recommends that the educational va
 - Five Domain Ai Physics Synthesis Framework
 
 ## Related Strategies
-- 
+
+- [Use structured exercises requiring students to compare, critique, and justify against AI-generated code](compare-critique-ai-generated-code-exercises.md)
 
 ## Examples
 -

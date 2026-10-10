@@ -66,3 +66,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related

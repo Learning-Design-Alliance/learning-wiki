@@ -45,3 +45,4 @@ The review reports, citing Aura, Alho, and Kallio (2023), that role-playing exer
 ## Related Claims
 - [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — related
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](cclc-few-impacts-student-achievement.md) — related
+- [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related

@@ -50,3 +50,4 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — reports the opposite
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
 - [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](trustworthiness-not-fully-automatable-requires-human-judgment.md) — related
+- [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related

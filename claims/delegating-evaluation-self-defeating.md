@@ -52,3 +52,4 @@ Theoretical argument answering the objection that deep checking can itself be ha
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — related
 - [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — related
+- [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](llama-guard-failure-cases-subtle-education-risks.md) — a narrower finding that bears on this claim

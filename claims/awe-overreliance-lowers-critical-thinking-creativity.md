@@ -51,3 +51,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — reports the opposite
+- [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related

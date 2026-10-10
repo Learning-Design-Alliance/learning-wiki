@@ -38,7 +38,8 @@ The article recommends treating expert evaluation of a newly designed learning m
 - designing and validating technology-supported learning models
 
 ## Related Strategies
-- 
+
+- [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 
 ## Examples
 -

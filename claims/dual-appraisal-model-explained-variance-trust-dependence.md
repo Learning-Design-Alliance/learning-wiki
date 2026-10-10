@@ -67,3 +67,4 @@ Same structural model; the three predictors explained "45.9% of the variance in 
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
 - [Perceived AI empowerment and perceived AI threat are weakly and non-significantly correlated, suggesting relatively independent appraisals](empowerment-and-threat-appraisals-weakly-correlated.md) — related
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
+- [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related

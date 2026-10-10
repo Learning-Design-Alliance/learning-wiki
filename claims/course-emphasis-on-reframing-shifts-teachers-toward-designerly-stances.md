@@ -50,3 +50,4 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
 - [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI](2026-classroom-poll-shift-toward-human-intelligence.md) — related

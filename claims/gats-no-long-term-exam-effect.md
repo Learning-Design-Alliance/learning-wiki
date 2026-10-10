@@ -45,3 +45,4 @@ Student-level ANCOVA of final-exam outcomes at both sites (e.g., While-loop exam
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](gats-no-immediate-performance-effect-uoft.md) — related
 - [In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention](gats-improve-immediate-performance-tu-delft.md) — related
 - [Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement](engagement-profiles-moderate-gat-effects.md) — related
+- [CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters](cs1-cr-exam-scores-unchanged.md) — related

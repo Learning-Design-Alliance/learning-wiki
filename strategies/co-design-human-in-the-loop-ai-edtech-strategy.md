@@ -48,6 +48,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 
 ## Examples
 -

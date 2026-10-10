@@ -48,3 +48,4 @@ Frequency counts from grounded theory coding of student accounts. Representative
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — related
+- [Deterrence layers failed because seeds changed parameters rather than task structure, scaffolding exposed solution steps, and hidden grading verified output consistency rather than authorship or understanding](why-qiskit-deterrence-layers-failed.md) — related
