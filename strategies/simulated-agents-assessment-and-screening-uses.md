@@ -41,6 +41,7 @@ Beyond training, the authors propose two implementable uses: assigning simulated
 - Educasim Simulated Section Teacher Practice Tool
 - [Use simulated student sections as a scalable supplement to teacher training and lesson preparation](simulated-role-play-teacher-training-supplement.md)
 - [Role Play](role-play.md)
+- [Have students develop and train AI agents and simulations in the domains they are learning, with validation and scaffolding](students-train-ai-agents-and-simulations-strategy.md)
 
 ## Examples
 -

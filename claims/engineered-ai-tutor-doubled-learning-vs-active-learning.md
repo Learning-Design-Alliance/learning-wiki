@@ -48,3 +48,4 @@ The article reports, citing Kestin et al. (2025), a randomized study in undergra
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — related
 - [In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course](genai-chat-tutor-rct-physics-improved-performance.md) — possibly the same claim (merge candidate)
+- [AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings](pedagogically-designed-ai-tutors-outperform-active-learning.md) — possibly the same claim (merge candidate)

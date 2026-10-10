@@ -44,6 +44,7 @@ This strategy distills the article's Notes for Practice into implementable pract
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
+- [Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence](design-ai-integrated-ethical-business-education-models.md)
 
 ## Examples
 -

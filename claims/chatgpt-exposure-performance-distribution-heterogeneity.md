@@ -65,3 +65,4 @@ Student-level distribution analysis restricted to tests reporting at least four 
 - [Educational ChatGPT exposure shows no statistically significant effect on aggregate US high school test scores, with effects bounded below about 0.04 standard deviations](chatgpt-exposure-null-high-school-test-scores.md) — related
 - [Time-varying educational ChatGPT exposure shows no significant effect on high school test scores in the balanced panel; significant unbalanced-panel results are not robust](time-varying-exposure-null-balanced-panel.md) — related
 - [Grades 3-8 test scores show no significant effect of educational ChatGPT exposure, supporting the design as an age placebo](grades-3-8-age-placebo-null.md) — related
+- [Grade effects of GenAI availability do not differ across terciles of students' prior academic preparation, robust across multiple ability proxies](null-grade-effects-across-prior-performance-terciles.md) — related

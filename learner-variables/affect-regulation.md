@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (46 for, 7 mixed, 5 against) · 51 studies (13 review, 11 causal, 9 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 10 of 51 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (47 for, 8 mixed, 5 against) · 53 studies (13 review, 12 causal, 10 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 10 of 53 report an effect size · 59 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -91,6 +91,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](../claims/ai-anxiety-correlates-job-search-anxiety-health-students.md) [+M] — learners who differ on it differ in outcomes
 - [AI anxiety predicts job search anxiety after controlling for socio-demographic variables](../claims/ai-anxiety-predicts-job-search-anxiety-beyond-demographics.md) [+M] — learners who differ on it differ in outcomes
 - [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](../claims/career-adaptability-mediation-ai-anxiety-career-decisions.md) [+M] — learners who differ on it differ in outcomes
+- [AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations](../claims/ai-overviews-mixed-effects-academic-search.md) [~M] — instruction changes it
+- [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](../claims/faster-slower-groups-affective-transition-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

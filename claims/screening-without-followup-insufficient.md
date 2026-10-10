@@ -66,3 +66,4 @@ The review reports that subsequent qualitative and implementation studies found 
 - [Integration of psychological care appears most effective when it operates on multiple levels: routine distress assessment, frontline psycho-education and access to specialist interventions](layered-psychological-care-model-diabetes.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
 - [In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels](sweet-registry-psychological-access-outcomes.md) — related
+- [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](followup-low-initiation-high-completion.md) — related

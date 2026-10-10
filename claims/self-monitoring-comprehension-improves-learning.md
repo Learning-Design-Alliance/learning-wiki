@@ -90,3 +90,4 @@ Open questions for future evidence passes: whether the benefit of monitoring lie
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — a narrower finding that bears on this claim

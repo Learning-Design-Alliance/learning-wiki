@@ -57,3 +57,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
+- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](active-engagement-higher-learning-gains-than-lecture.md) — a broader claim this one bears on

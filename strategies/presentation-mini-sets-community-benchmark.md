@@ -40,6 +40,7 @@ To address the corpus gap, the survey recommends "creating small, controlledpres
 
 - [Calibrate coaching thresholds per L1 cohort and avoid penalizing identity-marking accent features](accent-fair-threshold-calibration.md)
 - [TTS-based coaching pipeline: anchor and target exemplars, chunked recording, alignment, and focused drills](tts-exemplar-coaching-pipeline.md)
+- [Build new frontier-model benchmarks from new hard tasks with expert verification and adequate curation resources](expert-verified-new-task-benchmarks-strategy.md)
 
 ## Examples
 -

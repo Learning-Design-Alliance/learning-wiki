@@ -51,3 +51,4 @@ Perceptual findings from the I-PREP statewide scan of 23 program representatives
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
 - [Early-career principals cite people skills and emotional intelligence, along with organizational and managerial skills, as most important for successful leadership](principals-people-and-managerial-skills-most-important.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related

@@ -96,3 +96,4 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](scripts-improve-skills-prescriptive-scripts-harm-motivation.md) — related
 - [Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort](intelligence-praise-versus-effort-praise-effects.md) — possibly the same claim (merge candidate)
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related

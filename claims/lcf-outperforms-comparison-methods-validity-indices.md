@@ -46,3 +46,4 @@ Method comparison on the same 2188-student PSY 101 dataset: LCF scored Davies-Bo
 - [LCF showed the most differentiated input patterns across risk groups (11 inputs) versus comparison methods](lcf-most-differentiated-input-patterns.md) — related
 - [LCF identifies three PSY 101 risk groups with strongly differentiated DFW rates of 28%, 12%, and 6%](lcf-three-risk-groups-dfw-rates.md) — related
 - [High-risk LCF groups concentrate URM, first-generation, EOP, Compact, commuter, and lower-academic-preparation students](lcf-high-risk-group-demographic-composition.md) — related
+- [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related

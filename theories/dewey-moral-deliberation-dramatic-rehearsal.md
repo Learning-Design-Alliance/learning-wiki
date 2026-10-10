@@ -51,6 +51,7 @@ Dewey's moral deliberation, introduced in 1932, is the article's central explana
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](../strategies/integrate-reason-feeling-self-relationship-concept-context.md)
 - [Cultivate character indirectly through all the agencies, instrumentalities, and materials of school life rather than through separate moral education courses](../principles/character-education.md)
 - [Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school](../principles/moral-practice-must-be-deliberative.md)
+- [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
 
 ## Key Sources
 - Xiangdong Liu. (2014). The Problem of Character Education and Kohlberg's Moral Education: Critique from Dewey's Moral Deliberation. Philosophical Studies in Education 45. https://www.ovpes.org/

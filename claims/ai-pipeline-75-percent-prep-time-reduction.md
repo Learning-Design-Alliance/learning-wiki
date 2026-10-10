@@ -45,3 +45,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 ## Related Claims
 - [Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.](single-author-materials-deployed-by-six-professors.md) — related
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
+- [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related

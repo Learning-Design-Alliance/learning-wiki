@@ -47,3 +47,4 @@ Cross-case interpretation from the three video case studies in the 33-teacher st
 - [A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer](british-accent-agent-framed-as-technological-helper.md) — a narrower finding that bears on this claim
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
 - [An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions](indian-accent-agent-integrated-as-trusted-peer.md) — a narrower finding that bears on this claim
+- [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related

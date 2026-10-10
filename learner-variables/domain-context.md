@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (25 for, 3 mixed) · 32 studies (11 qualitative, 6 review, 5 design, 4 causal, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 32 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (27 for, 3 mixed) · 33 studies (11 qualitative, 6 review, 5 design, 4 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 33 report an effect size · 27 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -61,6 +61,8 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](../claims/state-policy-shapes-principal-learning-access.md) [+M] — learners who differ on it differ in outcomes
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](../claims/environmental-constraints-attributed-disengagement.md) [+M] — learners who differ on it differ in outcomes
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](../claims/shared-learning-structure-performance-domains.md) [~W] — an instructional effect differs with it
+- [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](../claims/genai-motivation-effect-varies-subject-domain-language-largest.md) [+M] — an instructional effect differs with it
+- [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](../claims/genai-motivation-effect-larger-university-than-school.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.

@@ -44,3 +44,4 @@ Correlational analysis (Table 2) in the same study among conceptualization, draw
 
 ## Related Claims
 - [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](creativity-dimension-present-in-lower-ses-children.md) — related
+- [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related

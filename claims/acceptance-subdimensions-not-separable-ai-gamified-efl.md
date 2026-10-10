@@ -43,4 +43,4 @@ Cross-sectional survey of 401 EFL students at a Kazakhstani university; full-sam
 
 
 ## Related Claims
--
+- [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](ai-use-positive-adaptation-associations.md) — related

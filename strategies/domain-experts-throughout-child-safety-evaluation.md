@@ -42,6 +42,7 @@ The article recommends that future evaluations actively involve domain experts s
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Use expert appropriateness assessment of a designed learning model as the basis for further system development and future outcome studies](expert-appropriateness-assessment-guideline.md)
+- [Include an explicit intended-impact target in NLP evaluation and use noise-robust designs rather than only point estimates](intended-impact-evaluation-strategy.md)
 
 ## Examples
 -

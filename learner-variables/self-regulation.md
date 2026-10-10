@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (53 for, 15 mixed, 6 against) · 61 studies (15 associational, 13 review, 11 causal, 9 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 14 of 61 report an effect size · 66 claims rest on one study
+> **Evidence** · 77 claims (55 for, 16 mixed, 6 against) · 63 studies (16 associational, 13 review, 11 causal, 9 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 14 of 63 report an effect size · 69 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -107,6 +107,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](../claims/genai-role-metacognitive-profiles.md) [+M] — instruction changes it
 - [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](../claims/srl-strategies-associated-lower-digital-distraction.md) [+M] — learners who differ on it differ in outcomes
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](../claims/sem-variance-explained-outcomes.md) [+M] — instruction changes it
+- [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](../claims/llm-math-interactions-request-dominated-grade9.md) [+W] — instruction changes it
+- [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](../claims/widening-gap-novice-genai-metacognition.md) [+W] — an instructional effect differs with it
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](../claims/within-session-hs-shifts-toward-closure-srl-increases.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

@@ -67,3 +67,4 @@ Same box-plot analysis of the four domains: HR shows the largest range (0–1) o
 - [Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget](extreme-country-control-cases-spain-netherlands.md) — related
 - [A few countries follow relatively pure accountability logics, but most countries follow mixed forms](most-countries-follow-mixed-accountability-logics.md) — related
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
+- [Authorship scores were highly concentrated near the maximum of the rubric scale](authorship-ceiling-concentration.md) — related

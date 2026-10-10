@@ -92,3 +92,4 @@ The review reports Qushem et al.'s (2022) finding on dosage when the tutoring sy
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](self-efficacy-with-sustained-effort-better-achievement.md) — related
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
+- [Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days](educlaw-bench-plateau-within-days.md) — related

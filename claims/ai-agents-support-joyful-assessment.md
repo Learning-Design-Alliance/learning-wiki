@@ -47,3 +47,4 @@ Conceptual analysis of how "AI agents designed for specific educational purposes
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing](genai-opportunity-move-beyond-sorting-ranking.md) — related

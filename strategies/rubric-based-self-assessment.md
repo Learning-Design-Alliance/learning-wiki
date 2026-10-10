@@ -83,6 +83,7 @@ Self assessment works when learners have accurate standards to judge against; ru
 - [Peer Assessment](../elements/peer-assessment.md) — applying the same rubric to others' work; peer and self assessment reinforce each other and peer scoring often calibrates self-scoring
 - [Formative Feedback Loops](formative-feedback-loops.md) — self assessment is the learner-driven half of a feedback cycle
 - [Portfolio Assessment](portfolio-assessment.md) — rubric-based self evaluation gives portfolios their reflective component
+- [Require a rubric-aligned self-evaluation before students receive GenAI critique](self-evaluation-before-genai-critique.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.

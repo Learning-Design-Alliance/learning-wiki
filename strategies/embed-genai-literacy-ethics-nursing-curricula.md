@@ -47,6 +47,7 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](dialogic-spaces-genai-negotiation.md)
 
 ## Examples
 -

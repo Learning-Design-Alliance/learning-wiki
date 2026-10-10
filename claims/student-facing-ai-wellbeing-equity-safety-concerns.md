@@ -70,3 +70,4 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Teachers are more concerned about students' use of GenAI than about their own use](teachers-more-concerned-student-genai-use.md) — related
 - [Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations](tutors-reason-by-target-type-mirroring-feature-patterns.md) — related
+- [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related

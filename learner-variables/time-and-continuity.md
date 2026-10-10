@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (61 for, 16 mixed, 10 against) · 75 studies (28 causal, 16 associational, 15 review, 8 quant-synthesis, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 75 report an effect size · 83 claims rest on one study
+> **Evidence** · 89 claims (63 for, 16 mixed, 10 against) · 77 studies (29 causal, 17 associational, 15 review, 8 quant-synthesis, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 18 of 77 report an effect size · 85 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -120,6 +120,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](../claims/cs1-cr-effort-unchanged-despite-ai.md) [-M] — instruction changes it
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](../claims/ai-no-efficiency-gain-simple-tasks.md) [~M] — instruction changes it
 - [Natural language control requires less human operation time than manual control for all five complex tasks tested](../claims/natural-language-control-faster-than-manual-complex-tasks.md) [+M] — instruction changes it
+- [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](../claims/engage-to-unlock-redistributes-effort-across-tasks.md) [+M] — instruction changes it
+- [Total time on task in the DLP positively predicts both math and ELA outcomes](../claims/total-time-on-task-predicts-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

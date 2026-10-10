@@ -46,6 +46,7 @@ Based on the bibliometric finding that AI ethics research is reorienting toward 
 
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Define and Apply Ethical Responsibility](define_and_apply_ethical_responsibility.md)
+- [Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence](design-ai-integrated-ethical-business-education-models.md)
 
 ## Examples
 -

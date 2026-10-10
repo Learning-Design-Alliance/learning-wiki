@@ -45,6 +45,7 @@ The report recommends harnessing generative AI for reimagining assessment system
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
+- [Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them](genai-disruption-assessment-redesign-strategy.md)
 
 ## Examples
 -

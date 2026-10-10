@@ -37,7 +37,8 @@ The article recommends that assessments carry explicit taxonomy-level tags so in
 - calibrated assessment difficulty and systematic identification of student competence boundaries
 
 ## Related Strategies
-- 
+
+- [Design assignments and assessment environments with observability of cognitive participation in mind](design-assessments-for-observability-of-participation.md)
 
 ## Examples
 -

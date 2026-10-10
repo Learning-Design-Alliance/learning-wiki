@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 12 studies (4 causal, 4 associational, 2 review, 2 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 14 studies (5 causal, 5 associational, 2 review, 2 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -60,6 +60,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](../claims/ena-cognitive-network-ct-groups.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](../claims/high-ct-stronger-srl-cognitive-behaviors.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](../claims/msr-mediation-ai-interaction-outcomes.md) [+W] — attached 2026-10-10 from Davor I et al. (2026), which proposed "Process-oriented framework of AI interaction mechanisms with metacognitive self-regulation as the central explanatory pathway".
+- [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](../claims/agentic-designs-delayed-ai-free-transfer.md) [~W] — attached 2026-10-10 from Ates (2026), which proposed "Process model of GenAI-supported feedback: designs distribute evaluative work and act directly and indirectly through uptake and self-regulated learning".
+- [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](../claims/hs-trajectory-predicts-unaided-posttest.md) [+W] — attached 2026-10-10 from Abdelghani et al. (2026), which proposed "Epistemic proactivity (EP): the extent to which learners retain responsibility for regulating and advancing their own knowledge-building while using AI"; tests this page's relationship.
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](../claims/within-session-hs-shifts-toward-closure-srl-increases.md) [~W] — attached 2026-10-10 from Abdelghani et al. (2026), which proposed "Epistemic proactivity (EP): the extent to which learners retain responsibility for regulating and advancing their own knowledge-building while using AI".
 
 ## Related Theories
 

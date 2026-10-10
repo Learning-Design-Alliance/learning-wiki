@@ -45,3 +45,4 @@ The second pooled OLS model (N = 1254) explained 42.1% of variance in current AI
 ## Related Claims
 - [Perceived usefulness has the strongest standardized positive association with trust in AI (β = 0.402), with institutional policy clarity positively but more weakly associated (β = 0.223) in the pooled OLS trust model](usefulness-and-policy-clarity-associate-with-trust.md) — related
 - [A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms](ai-adaptation-gap-students-faculty-staff.md) — related
+- [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related

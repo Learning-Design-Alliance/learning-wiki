@@ -81,3 +81,4 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related
 - [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](students-report-limited-feedback-on-assessments.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
+- [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related

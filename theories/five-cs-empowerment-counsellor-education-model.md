@@ -53,6 +53,7 @@ The article proposes a general model of counsellor education with three central 
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](../strategies/foster-community-counsellor-education-practices.md)
 - [EMAC: a standing faculty/student committee promoting empowerment in an academic program](../elements/emac-ethnic-minority-affairs-committee-case.md)
 - [Acknowledge real power differences between faculty and students rather than presuming equality](../principles/acknowledge-power-differences-not-false-equality.md)
+- [Three-part strategy for responsible AI use in education: empower reasoning, foster emotional well-being, and provide institutional support](../strategies/three-principles-responsible-ai-use-education.md)
 
 ## Key Sources
 - Ellen Hawley McWhirter. (1998). An Empowerment Model of Counsellor Education. Canadian Journal of Counselling, 32(1). https://cjc-rcc.ucalgary.ca/

@@ -40,7 +40,8 @@ The article recommends that "privacy should become a release criterion rather th
 - Privacy Deferral Cycle Edtech
 
 ## Related Strategies
-- 
+
+- [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 
 ## Examples
 -

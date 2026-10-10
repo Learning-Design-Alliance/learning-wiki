@@ -38,6 +38,7 @@ The paper pairs predictable frictions that slow valid school-based R&D with miti
 ## Related Strategies
 
 - [Ripe problems framed with a tripwire-mitigation-general defense lens to compress the observe-orient-decide-act loop](tripwire-mitigation-defense-ripe-problems.md)
+- [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 
 ## Examples
 -

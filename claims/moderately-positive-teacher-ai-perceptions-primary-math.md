@@ -48,3 +48,4 @@ Descriptive survey phase of an explanatory sequential mixed-methods study with 3
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
 - [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related
 - [More frequent AI use is strongly associated with more positive AI perception scores across all dimensions, but not causally](ai-use-frequency-associated-perceptions.md) — related
+- [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related

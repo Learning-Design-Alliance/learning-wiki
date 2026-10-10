@@ -68,3 +68,4 @@ The review attributes countervailing findings to the same cited studies: explana
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related
+- [Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes](instructors-lack-confidence-investigating-ai-use.md) — related

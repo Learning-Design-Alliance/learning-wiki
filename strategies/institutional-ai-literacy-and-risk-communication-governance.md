@@ -46,6 +46,7 @@ The article recommends that institutions act now to reduce harm and increase adv
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Five-tier governance levers for embedding AI literacy into practice](five-tier-governance-levers-ai-literacy.md)
+- [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 
 ## Examples
 -

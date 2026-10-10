@@ -61,3 +61,4 @@ Weighted chi-square analyses of the national survey of 620 STEM students compare
 - [Low-income and multilingual parents report less welcoming school staff and more negative school experiences than higher-income and English-speaking parents](unwelcoming-staff-barrier-low-income-multilingual-parents.md) — related
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related

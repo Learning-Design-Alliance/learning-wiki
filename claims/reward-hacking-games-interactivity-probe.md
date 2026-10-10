@@ -67,3 +67,4 @@ A/B retrain from the same checkpoint, same data, same schedule with the reward a
 - [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on
 - [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related
 - [SFT reliably teaches the two output contracts but cannot raise interactive-HTML quality, which declines monotonically with update count](sft-teaches-contracts-not-html-quality.md) — related
+- [Edu-QuRater rewards alone raise pedagogical-quality win rate (77.70%) but fall below parity on instruction following (40.54%), consistent with over-optimizing a proxy reward](edu-qurater-rewards-alone-below-parity-instruction-following.md) — related

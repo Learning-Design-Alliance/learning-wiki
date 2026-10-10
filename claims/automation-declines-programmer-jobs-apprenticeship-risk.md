@@ -59,3 +59,4 @@ The scan's key idea, attributed to the Kapor Center, warns that apprenticeship p
 
 ## Related Claims
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
+- [Survey respondents rated traditional assignments most vulnerable to AI in Computer Science (19 of 20) compared with Humanities & Social Sciences and Professional Degrees (16 of 20 each)](discipline-divide-ai-vulnerability-cs-highest.md) — related

@@ -42,6 +42,7 @@ The article recommends that engineering education institutions develop strategie
 ## Related Strategies
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them](genai-disruption-assessment-redesign-strategy.md)
 
 ## Examples
 -
