@@ -49,3 +49,4 @@ In the study's conclusions, the authors state that in their interview data with 
 - [Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students](teachers-favor-delayed-ocf-over-immediate.md) — related
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related
 - [Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored](teachers-adjust-ocf-to-learner-reactions.md) — related
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related

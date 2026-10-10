@@ -47,6 +47,8 @@ The guide's fifth schoolwide recommendation creates a personalized learning envi
 - [Classroom Climate Routines](classroom-climate-routines.md)
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
+- [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
+- [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
 
 ## Examples
 -

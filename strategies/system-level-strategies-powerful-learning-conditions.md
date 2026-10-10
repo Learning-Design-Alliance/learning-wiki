@@ -41,6 +41,7 @@ Drawing on the Water of Systems Change framework (structural, relational, transf
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](intentionally-build-organizational-conditions-small-schools.md)
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
+- [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 
 ## Examples
 -

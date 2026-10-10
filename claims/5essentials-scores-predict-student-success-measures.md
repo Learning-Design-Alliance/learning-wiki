@@ -53,3 +53,4 @@ The brief reports, citing University of Chicago Consortium re-examination studie
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](elementary-gpa-strong-5essentials-measures.md) — a narrower finding that bears on this claim
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — a narrower finding that bears on this claim
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related
+- [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related

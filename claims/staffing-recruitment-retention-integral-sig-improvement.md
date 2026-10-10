@@ -48,3 +48,5 @@ The article's stated focus for its nine rural SIG schools includes presenting "f
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
+- [A Alabama coalition's provider-recruitment effort coincided with FCPK access rising from 7.9% to 21.4% of children in central Alabama between 2014 and 2018](bold-goals-coalition-fcpk-access-increase.md) — related
+- [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related

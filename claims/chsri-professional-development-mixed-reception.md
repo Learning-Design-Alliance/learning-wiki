@@ -46,3 +46,4 @@ Interview finding from the 2004 study; principals reported difficulty freeing te
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — related
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related

@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (30 for, 6 mixed, 3 against) · 36 studies (9 review, 6 causal, 5 associational, 5 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (33 for, 6 mixed, 3 against) · 39 studies (12 review, 6 causal, 5 associational, 5 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 39 report an effect size · 41 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -72,6 +72,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](../claims/mindfulness-positive-school-climate-outcomes.md) [+W] — instruction changes it
 - [Regulate-relate-reason sequence: students reason once regulated and feeling supported](../claims/regulate-relate-reason-sequence.md) [+W] — learners who differ on it differ in outcomes
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](../claims/trauma-informed-practices-mitigate-trauma-promote-resilience.md) [+W] — instruction changes it
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](../claims/aces-toxic-stress-impair-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](../claims/security-and-positive-feelings-support-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

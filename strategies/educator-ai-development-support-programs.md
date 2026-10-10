@@ -50,6 +50,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development](rj-school-implementation-funding-sustainability-pd.md)
+- [Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments](staff-buy-in-opt-in-pd-social-signaling.md)
 
 ## Examples
 -

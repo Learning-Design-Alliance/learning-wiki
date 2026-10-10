@@ -49,3 +49,5 @@ Second-hand estimate: the report cites a GDTFII study (J. Levin et al., 2018) fi
 - [Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs](sv-el-program-personnel-economic-costs-1670-to-5000.md) — related
 - [Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years](california-el-spending-gap-about-1000-per-pupil.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
+- [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
+- [A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California](california-lcff-graduation-gains.md) — related

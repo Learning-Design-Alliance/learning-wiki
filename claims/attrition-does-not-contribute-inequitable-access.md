@@ -51,3 +51,4 @@ As a key finding, the snapshot reports that teacher attrition patterns over the 
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
 - [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — reports the opposite
+- [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related

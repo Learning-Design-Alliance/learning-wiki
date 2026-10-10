@@ -57,3 +57,5 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — related
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
+- [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related

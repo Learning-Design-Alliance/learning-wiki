@@ -50,3 +50,4 @@ Repeated cross-sectional CHKS survey data for PUSD students in grades 7, 9, and 
 - [From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services](pusd-referred-students-service-access-rate.md) — related
 - [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

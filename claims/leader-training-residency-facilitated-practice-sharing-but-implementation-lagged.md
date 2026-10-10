@@ -53,3 +53,4 @@ Qualitative implementation analysis of grantee activities from December 2012 thr
 - [In 10 schools where teachers had facilitated whole-class instruction for years, learning to differentiate within small groups required a steeper learning curve and different kinds of support](dls-whole-class-schools-steeper-curve.md) — related
 - [Reallocating resources enabled differentiated professional learning for English learners and students with disabilities](differentiated-professional-learning-reallocation.md) — related
 - [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related

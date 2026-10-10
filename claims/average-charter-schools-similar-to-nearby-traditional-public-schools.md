@@ -48,3 +48,4 @@ The paper's background synthesis states that "the average charter school perform
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
 - [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related
 - [Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming](credo-cohort1-charter-no-cream-skimming.md) — a narrower finding that bears on this claim
+- [Charter school quality varies greatly, and virtual charters perform significantly worse, while charters often increase segregation and underrepresent students with disabilities](charter-variation-segregation-disabilities.md) — a narrower finding that bears on this claim

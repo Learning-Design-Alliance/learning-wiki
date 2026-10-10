@@ -44,3 +44,4 @@ WWC study-characteristics review of Taylor et al. (2017): 84 schools randomized 
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
+- [STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training](stella-outperformed-content-only-pd.md) — related

@@ -70,3 +70,4 @@ Table 3 takeaway comparing 2004 and 2016 ninth-grade cohort graduation rates by 
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
 - [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
 - [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
+- [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related

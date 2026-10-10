@@ -67,3 +67,4 @@ Survey-based analysis linking parent beliefs about the importance of preschool a
 - [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — related
 - [Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity](illness-and-logistics-reasons-preschool-absences.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
+- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related

@@ -50,3 +50,4 @@ Student-level cohort analysis (Table 4) following individual students across gra
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — related
 - [Elementary schools in Math in Common districts exceeded predicted CAASPP mathematics performance at significantly higher rates than other California schools between 2016 and 2018](mic-elementary-schools-exceed-predicted-caaspp.md) — related
 - [PPE schools showed larger percentage increases in proficient students than non-PPE schools on statewide ELA and mathematics assessments, 2015–2017](ppe-schools-achievement-gains-2015-2017.md) — related
+- [Gateway middle and high school students met or exceeded state standards at higher rates than students statewide on CAASPP tests in most years and subjects](gateway-caaspp-outperforms-statewide.md) — related

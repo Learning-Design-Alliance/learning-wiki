@@ -53,3 +53,4 @@ Analysis of CCSR 2007 teacher survey ratings comparing elementary LAUNCH schools
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — related
 - [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — related
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

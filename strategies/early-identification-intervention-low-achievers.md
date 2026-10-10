@@ -41,6 +41,7 @@ Based on evidence that achievement gaps widened most between first and third gra
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Targeted investments in early literacy and math programs for the youngest students](targeted-investments-early-literacy-math-programs.md)
 - [Use kindergarten-entry test data for early identification so educators can intervene before third grade](early-identification-kindergarten-intervention-before-third-grade.md)
+- [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
 
 ## Examples
 -

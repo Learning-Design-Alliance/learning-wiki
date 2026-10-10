@@ -47,6 +47,7 @@ The report organizes its professional learning analysis around seven elements th
 ## Examples
 
 - [Professional Development](../patterns/professional-development.md)
+- [Design professional learning with seven research-supported features](../strategies/seven-features-effective-professional-learning.md)
 
 ## Key Sources
 - Peters, V., Means, B., Langworthy, M., Neufeld, P., Coe, R., Meehan, K., & Smith, S. (2018). Enabling Analytics for Improvement: Lessons from Year 2 of Fresno's Personalized Learning Initiative. Digital Promise. https://digitalpromise.dspacedirect.org/items/f5ad25ac-1bc9-4a05-9a4e-24c25ab19e8d

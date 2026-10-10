@@ -64,3 +64,4 @@ Independent developmental evaluator analyses of network activities across Years 
 ## Related Claims
 - [The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019](bmtn-student-deep-engagement-aim-exceeded.md) — related
 - [Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction](networking-opportunities-greatest-instructional-influence.md) — related
+- [Large majorities of ILC workshop participants report their ILC experiences influenced curriculum, instruction, assessment, engagement, and learning to a great extent](ilc-participants-report-great-extent-influence.md) — related

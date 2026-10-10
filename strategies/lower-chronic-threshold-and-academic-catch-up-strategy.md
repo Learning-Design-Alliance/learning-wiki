@@ -37,7 +37,8 @@ The article recommends that school systems act on the persistence of absence eff
 - Mathematics and reading achievement recovery at the start of the school year
 
 ## Related Strategies
-- 
+
+- [Use school climate surveys, suspension rates, and chronic absenteeism as accountability indicators of school supports for SEL](climate-suspension-absenteeism-accountability-indicators.md)
 
 ## Examples
 -

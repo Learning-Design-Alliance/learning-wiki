@@ -41,6 +41,7 @@ In response to the survey finding that student project ideas and guides were the
 - [Curating Resources](curating_resources.md)
 - [Hyperlinked Teaching](hyperlinked_teaching.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
+- [Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning](community-connected-pbl-support-structure.md)
 
 ## Examples
 -

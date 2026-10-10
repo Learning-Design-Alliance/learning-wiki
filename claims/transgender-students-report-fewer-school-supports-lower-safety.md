@@ -56,3 +56,4 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
+- [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — related

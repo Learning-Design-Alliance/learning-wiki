@@ -55,3 +55,9 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
 - [The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement](cultivate-impact-question-authentic-voice.md) — related
 - [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — a narrower finding that bears on this claim
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
+- [Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most](peer-experience-spillover-teacher-improvement.md) — related
+- [Cohort-based principal preparation is associated with program completion, perceived preparedness, and supportive collegial environments](principal-cohort-learning-benefits.md) — related
+- [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
+- [Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners](principal-preparation-quality-teacher-retention.md) — related
+- [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — a broader claim this one bears on

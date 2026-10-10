@@ -93,6 +93,7 @@ Structured critique improves the quality of both feedback and revision because i
 5. Schedule time for revision and, ideally, a second critique round so learners see feedback translate into improved work.
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — the broader practice; a critique protocol is the structured form of it
 - [Revision Cycles](revision-cycles.md) — the follow-on step that makes critique consequential
 - [Rubric Co-Construction](rubric-co-construction.md) — builds the shared criteria critique depends on
@@ -100,6 +101,7 @@ Structured critique improves the quality of both feedback and revision because i
 - [Studio Critique](studio-critique.md) — the art-and-design tradition from which most protocols derive
 - [Peer Feedback](../elements/peer-feedback.md) — the broader practice; critique protocols are the structured form that makes it reliable
 - [Rubric Design](../elements/rubric-design.md) — supplies the criteria that anchor critique
+- [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
 
 ## Examples
 **[Expeditionary Learning / EL Education](https://eleducation.org)** — Ron Berger's critique norms ("kind, specific, helpful") and multiple-draft revision cycles are embedded across EL Education schools' project-based curriculum.

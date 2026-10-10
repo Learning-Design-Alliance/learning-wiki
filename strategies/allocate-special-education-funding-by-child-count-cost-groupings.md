@@ -40,7 +40,8 @@ The report recommends replacing California's census-based (ADA) allocation with 
 - Aligning special education funding with student need to support comparable academic growth and close opportunity and achievement gaps
 
 ## Related Strategies
-- 
+
+- [Weighted student-based funding formulas that allocate resources according to student needs](weighted-student-based-funding-formulas.md)
 
 ## Examples
 -

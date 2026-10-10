@@ -111,3 +111,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
 - [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related

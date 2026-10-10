@@ -51,3 +51,4 @@ Survey analysis of the 2016 administration with 2014-2016 trend data (Figure III
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — a broader claim this one bears on
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
 - [Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress](instructional-versus-compliance-tpe-implementation.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related

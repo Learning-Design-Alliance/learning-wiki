@@ -48,3 +48,4 @@ CHKS survey results for PUSD grades 7, 9, and 11 displayed in Table 2 across 202
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services](pusd-referred-students-service-access-rate.md) — related
 - [School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23](cal-well-dnusd-staff-mental-health-perceptions-increase.md) — related
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

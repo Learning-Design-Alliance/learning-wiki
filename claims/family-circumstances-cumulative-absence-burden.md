@@ -48,3 +48,4 @@ Analysis relating family circumstances (single-parent family, parent health, ER 
 - [Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates](family-circumstances-and-parent-beliefs-relate-to-preschool-attendance.md) — possibly the same claim (merge candidate)
 - [Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity](illness-and-logistics-reasons-preschool-absences.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
+- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related

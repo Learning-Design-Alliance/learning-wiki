@@ -47,3 +47,4 @@ Survey of League district leaders on a one-to-five agreement scale; the average 
 - [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
 - [81.3 percent of surveyed leaders reported their students benefited from League membership](league-membership-students-benefited-81-percent.md) — related
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related

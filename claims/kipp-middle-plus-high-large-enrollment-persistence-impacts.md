@@ -59,3 +59,4 @@ Lottery-based tracking study of 2,066 applicants compares students attending bot
 - [KIPP Atlanta Collegiate High School shows positive impacts on long-term college persistence](kipp-atlanta-collegiate-college-persistence.md) — related
 - [KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment](kipp-atlanta-collegiate-higher-college-enrollment.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
+- [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related

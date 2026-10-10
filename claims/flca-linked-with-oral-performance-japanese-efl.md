@@ -56,3 +56,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](us-classes-expected-more-talk-than-japanese.md) — related
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related

@@ -25,6 +25,7 @@ The brief organizes measurement work around a team whose members carry defined r
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Measurement team roles and responsibilities framework for education studies**: The brief organizes measurement work around a team whose members carry defined responsibilities. It "outlines the main responsibilities of measurement team members" and describes "typical measurement tasks," framing measurement quality as a collaborative accomplishment rather than an individual one. The framework guides who should be recruited and how work should be divided. (Ellen Eliason Kisker (2014))
+- **Form a dedicated measurement team of staff and consultants to ensure high-quality data for answering a study's research questions**: The brief recommends forming a team of staff and consultants with the needed expertise to make key measurement decisions. Its stated purpose is that such a team will "ensure high-quality data for answering the study's research questions." The brief is addressed to education studies that depend on sound measurement. (Ellen Eliason Kisker (2014))
 
 ### Claims
 

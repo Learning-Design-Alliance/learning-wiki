@@ -45,3 +45,4 @@ Executive-summary finding from the 15-month Equity and Digital Learning RPP, bas
 - [In early online implementations of the Skyline Data Path course, Filipino students' success rates exceeded the course average while Latino students' fell below it](data-path-disaggregated-success-rates.md) — related
 - [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related
 - [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — a broader claim this one bears on
+- [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related

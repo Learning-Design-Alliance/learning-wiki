@@ -46,3 +46,4 @@ The report attributes the triadic pattern and its prior evidence to Ziller (1967
 - [Aggressive potential is hypothesized to be highest when separation follows initial high social interest and low self esteem of both parties](aggressive-potential-highest-after-high-social-interest-separation.md) — related
 - [Conflict devolves to aggression toward self or other under reduced self esteem and social interest](conflict-devolves-to-aggression-low-self-esteem.md) — related
 - [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](high-self-esteem-sustains-exchange-under-conflict.md) — related
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related

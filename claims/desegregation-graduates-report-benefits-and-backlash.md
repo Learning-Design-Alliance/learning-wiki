@@ -45,3 +45,4 @@ Qualitative interview study described on the book's abstract page: a five-year s
 ## Related Claims
 - [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](neighborhood-based-desegregation-plans-short-term.md) — related
 - [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
+- [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — related

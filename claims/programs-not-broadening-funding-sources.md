@@ -66,3 +66,4 @@ Exhibit 3 (Partnership Lead Survey, n=26) shows low uptake of IHE-focused cost s
 - [Fewer than half of coaches are funded at consistent multi-year rates, primarily through Title II federal funds](coach-funding-inconsistent-title-ii.md) — related
 - [Some unfunded LEA respondents weighed whether the effort to procure Title VII funds was worthwhile in benefits to students](title-vii-cost-benefit-uncertainty.md) — related
 - [The primary difference between eligible LEAs that received Title VII funding and eligible LEAs that did not was knowledge about the Title VII program](knowledge-gap-primary-barrier-title-vii.md) — related
+- [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related

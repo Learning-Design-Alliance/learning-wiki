@@ -51,3 +51,4 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
+- [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related

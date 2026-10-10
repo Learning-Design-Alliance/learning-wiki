@@ -72,3 +72,5 @@ The same statewide VCR comparison finds no statistically significant math differ
 - [Rural Idaho charter students outperform their TPS VCRs while urban, suburban and town charter students perform similarly](idaho-rural-charter-advantage.md) — a narrower finding that bears on this claim
 - [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
+- [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related

@@ -63,6 +63,7 @@ Identity mapping converts tacit cultural assumptions into articulable knowledge,
 - [Activating Background Knowledge](activate_background_knowledge.md) — the same activation logic applied to the educator's own prior experience before interpreting learners
 - [Active Listening](active-listening.md) — the dyad protocol depends on listening without evaluation
 - [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
+- [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 
 ## Examples
 - **CityBridge Education (Breakthrough Design Fellowship)** — participants complete an identity mapping exercise modeled on the National School Reform Faculty protocol "The Paseo," mapping key identity markers and discussing how these shaped their experiences as educators ([CityBridge Education](https://citybridge.org)).

@@ -54,3 +54,5 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 - [In 2019, high school graduation rates were similar across Chicago community areas (mostly 70–90%) while rates for the same students varied much more by high school (49–99%)](graduation-rates-similar-by-community-area-varied-by-high-school.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading](nc-naep-declines-since-2013-black-white-gap-widened.md) — related
+- [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
+- [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — a narrower finding that bears on this claim

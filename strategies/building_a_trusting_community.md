@@ -66,6 +66,7 @@ Trust is not a soft prerequisite; it changes what learners are willing to do cog
 - Collaborative learning — group work functions only when interpersonal trust is present
 - [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 - [Foster a classroom culture of critical thinking through collective responsibility, trust norms, multiple perspectives, scaffolding, and frequent argumentation opportunities](culture-practices-for-collaborative-argumentation.md)
+- [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the activity most dependent on established trust

@@ -65,3 +65,4 @@ Spring 2021 Partnership Team survey (68% response rate): "financial barriers wer
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
 - [School climate negatively shapes students of color's perceptions of teaching as a career, a factor beyond the original literature scan](school-climate-deters-soc-from-teaching.md) — related
+- [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related

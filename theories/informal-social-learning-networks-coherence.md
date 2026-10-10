@@ -57,6 +57,7 @@ The book proposes that coherence in Chicago's district reform did not come from 
 ## Examples
 
 - [System leaders partner with external organizations to re-envision central office support for a system of schools](../strategies/central-office-partnerships-with-organizations.md)
+- [Extend systemic reform deeply into central district operations such as budgeting, finance, human resources, and facilities](../strategies/extend-reform-into-district-operations.md)
 
 ## Key Sources
 - How a City Learned to Improve its Schools. (1987). Harvard Education Publishing Group. https://www.hepg.org

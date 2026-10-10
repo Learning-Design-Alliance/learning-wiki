@@ -47,3 +47,4 @@ Cross-case qualitative finding from the Program Appeal/Feasibility section. Seve
 - [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](microcredential-motivation-and-risks.md) — related
 - [Prior learning assessment is associated with cost and time savings and higher credential completion, yet engagement remains low](pla-benefits-low-engagement.md) — related
 - [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — a broader claim this one bears on
+- [Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing](tec-element-appeal-rankings.md) — related

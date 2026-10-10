@@ -41,6 +41,7 @@ The brief recommends structuring sustainability so that schoolwide programs (Tie
 - [Health plans can actively partner with schools by directing networked providers to school-based activities, providing TA, placing care coordinators on campus, and funding prevention through grant-making](mcp-active-partnership-strategies.md)
 - [Continue studying alternative funding structures for behavioral health improvement efforts to identify which best promote cross-sector collaboration and student benefit](study-funding-structures-behavioral-health-collaboration.md)
 - [Sustain the school mental health system through braided funding, LCAP indicators, and ongoing program mapping](sustaining-school-mental-health-braided-funding-lcap.md)
+- [Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration](foster-care-web-of-supports-strategy.md)
 
 ## Examples
 -

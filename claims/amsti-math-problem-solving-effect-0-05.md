@@ -47,3 +47,4 @@ A large study of AMSTI in grades 4-8 (Newman et al., 2012) covering 9343 student
 - [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
 - [AMSTI raises math problem solving scores significantly at the student level but not at the school level, with an average effect size of +0.05](amsti-math-problem-solving-student-level-effect.md) — possibly the same claim (merge candidate)
 - [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-engagement-active-learning.md) — related
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related

@@ -46,3 +46,4 @@ Authors' interpretation of the Arizona district modeling results reported in the
 - [As reclassification policy complexity increases, the strength of the relationship between eligibility and reclassification diminishes](complexity-weakens-eligibility-reclassification-link.md) — related
 - [The kind of test-based reclassification criteria, not the number, is likely the more salient determinant of long-term EL status](kind-not-number-of-criteria-determines-long-term-el-status.md) — related
 - [The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model](srem-outperforms-discrete-time-hazard-accuracy.md) — related
+- [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](proficiency-reclassification-gap-ltels.md) — related

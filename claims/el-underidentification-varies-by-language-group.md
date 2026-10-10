@@ -47,3 +47,4 @@ The abstract reports a language-group moderation: "EL status led to under-identi
 - [EL status had either a null effect or led to slight under-identification in SPED placement](el-status-null-or-underidentification-sped.md) — a broader claim this one bears on
 - [Under-identification of SPED placement occurred two years after EL classification](underidentification-two-years-after-el-classification.md) — related
 - [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](rd-estimates-differ-from-regression-el-sped.md) — related
+- [The kindergarten EL population became linguistically more diverse from 2006 to 2018, with Spanish speakers declining from 83.8% to 77.3% and Mandarin and Arabic speakers more than doubling](kindergarten-el-linguistic-diversity-increased.md) — related

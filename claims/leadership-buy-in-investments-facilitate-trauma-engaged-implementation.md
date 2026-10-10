@@ -58,3 +58,7 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related
 - [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
+- [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](collaboration-buy-in-student-leadership.md) — related
+- [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related
+- [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

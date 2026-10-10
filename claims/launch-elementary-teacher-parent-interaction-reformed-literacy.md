@@ -50,3 +50,4 @@ Cross-sectional analysis of teacher ratings on CCSR essential-supports scales fo
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
 - [Elementary schools with NLNS principals show greater innovation and reflective dialogue and less traditional literacy practice](nlns-elementary-schools-innovation-reflective-dialogue.md) — related
 - [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — related
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

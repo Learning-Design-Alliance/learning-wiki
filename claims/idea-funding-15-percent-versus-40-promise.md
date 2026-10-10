@@ -48,3 +48,4 @@ The report's federal funding section states that when IDEA was enacted in 1975 C
 - [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
 - [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
 - [From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts](utah-rural-higher-per-pupil-revenue-expenditure.md) — related
+- [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related

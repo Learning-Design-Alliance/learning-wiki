@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (49 for, 11 mixed, 7 against) · 57 studies (21 causal, 15 associational, 9 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 17 of 57 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (53 for, 12 mixed, 7 against) · 62 studies (21 causal, 15 associational, 13 review, 8 quant-synthesis, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 62 report an effect size · 68 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -100,6 +100,11 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](../claims/family-partnership-reduced-chronic-absenteeism-15-percent.md) [+W] — instruction changes it
 - [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](../claims/rj-implementation-associated-with-improved-attendance.md) [+M] — instruction changes it
 - [Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer](../claims/elevate-math-effect-third-summer-learning-loss-avoidance.md) [+M] — instruction changes it
+- [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](../claims/community-schools-positive-outcomes.md) [+M] — instruction changes it
+- [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](../claims/family-community-engagement-positive-outcomes.md) [+M] — instruction changes it
+- [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](../claims/positive-relationships-protect-against-violence.md) [+M] — instruction changes it
+- [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](../claims/relationship-centered-designs-beat-factory-model.md) [+M] — learners who differ on it differ in outcomes
+- [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](../claims/well-attended-summer-programs-positive-outcomes.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

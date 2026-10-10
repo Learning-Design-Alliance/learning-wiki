@@ -87,6 +87,7 @@ Cultural awareness is a precondition for [Culturally Responsive Teaching](../pri
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — cultural awareness tells you *what* prior knowledge to activate; this strategy supplies the mechanism
 - [Community-Based Learning](../principles/community-based-learning.md) — situates learning in learners' own cultural contexts, requiring educator awareness to design well
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
+- [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 
 ## Examples
 - **Culturally Responsive Teaching institutes** (e.g., work based on Gay, 2010, and Hammond's *Culturally Responsive Teaching and the Brain*) combine self-reflection protocols with instructional rehearsal and coaching.

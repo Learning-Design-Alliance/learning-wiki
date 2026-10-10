@@ -48,3 +48,4 @@ Observational analysis of 2013-14 REACH Students evaluation data for Chicago Pub
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools](top-value-added-teachers-higher-in-highest-poverty-schools.md) — reports the opposite
+- [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related

@@ -48,3 +48,4 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content](students-want-detailed-explanatory-feedback.md) — related
 - [Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial](teacher-knowledge-higher-perceived-benefit.md) — related
+- [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related

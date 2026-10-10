@@ -48,3 +48,4 @@ The eight-year observational analysis of CPS personnel data reports five-year re
 - [Each state's lowest four-year principal retention rate occurred at a different grade span](grade-span-retention-varies-by-state.md) — related
 - [Former assistant principals tend to stay in their schools longer than other newly hired CPS principals](former-assistant-principals-stay-longer.md) — related
 - [Latinx principals are underrepresented relative to the CPS student population](latinx-principals-underrepresented-cps.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related

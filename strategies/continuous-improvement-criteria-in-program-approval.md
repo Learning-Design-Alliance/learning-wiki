@@ -41,6 +41,7 @@ The brief recommends that states embed data-driven continuous improvement criter
 ## Related Strategies
 
 - [States conduct a statewide survey of new teachers with comparable questions across all programs](statewide-new-teacher-survey-strategy.md)
+- [Use TPA results and completer-survey data to target programmatic support and continuous improvement](use-tpa-data-for-program-improvement.md)
 
 ## Examples
 -

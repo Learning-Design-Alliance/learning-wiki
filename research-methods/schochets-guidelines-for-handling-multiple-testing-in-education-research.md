@@ -17,7 +17,7 @@ sources:
 # Schochet's guidelines for handling multiple testing in education research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A methodological guidance report developed for education research, published by Mathematica Policy Research in 2008. The page states that "These guidelines were developed to handle multiple testing in education research" and that the report also "provides details on the nature of the multiple testing problem and the statistical solutions that have been proposed". It serves as a reference for evaluators designing impact studies of educational interventions.
@@ -25,18 +25,20 @@ A methodological guidance report developed for education research, published by 
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Schochet's guidelines for handling multiple testing in education research**: A methodological guidance report developed for education research, published by Mathematica Policy Research in 2008. The page states that "These guidelines were developed to handle multiple testing in education research" and that the report also "provides details on the nature of the multiple testing problem and the statistical solutions that have been proposed". It serves as a reference for evaluators designing impact studies of educational interventions. (Peter Z. Schochet (2008))
+- **Address the multiple testing problem in impact evaluations using a framework that balances Type I and Type II errors**: When an evaluation tests many outcomes and subgroups, the article recommends addressing the resulting multiple testing problem with a framework that "balances Types I and II errors". This directs evaluators to choose testing procedures that jointly manage the risk of spurious impact findings and the risk of missing true effects, rather than focusing on only one error type. (Peter Z. Schochet (2009))
 
 ### Claims
 - [Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations](../claims/multiple-testing-corrections-reduce-power.md) [~W]
 - [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](../claims/researcher-disagreement-multiple-testing-tradeoff.md) [~W]
+- [Conducting many hypothesis tests across multiple outcomes and subgroups in social policy impact evaluations can lead to spurious impact findings](../claims/multiple-testing-spurious-impact-findings.md) [+W]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - Peter Z. Schochet. (2008). Guidelines for Multiple Testing in Impact Evaluations of Educational Interventions. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/guidelines-for-multiple-testing-in-impact-evaluations-of-educational-interventions
-
 <!-- merged 2026-10-10 from elements/schochet-multiple-testing-guidelines-education ("Schochet's guidelines for handling multiple testing in education research"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Peter Z. Schochet. (2009). An Approach for Addressing the Multiple Testing Problem in Social Policy Impact Evaluations. Education Review, vol. 33, no. 6.
 
 # Schochet's guidelines for handling multiple testing in education research
 

@@ -42,6 +42,7 @@ The guide prescribes five steps for LEAs beginning whole child work: examine the
 - [Assess team readiness across leadership, facilitation, communication, shared understanding, and capacity before starting](readiness-assessment-before-alignment-work.md)
 - [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 - [Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise](tools-as-conversation-starters-not-checklist.md)
+- [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Descriptive analysis of CPS personnel records and Chicago Office of NBPTS data c
 - [NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)](nbcts-assume-leadership-roles-more.md) — related
 - [The match between principal race/ethnicity and the majority race of students in CPS schools increased over time](cps-principal-student-race-match-increased.md) — related
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — related
+- [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related

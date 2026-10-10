@@ -46,3 +46,4 @@ The seasonal-comparison analysis of MAP Growth data reports the compensatory pat
 - [Schooling has a compensatory effect on inequality in reading, language, and science skills](schooling-compensatory-reading-language-science-inequality.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — a broader claim this one bears on
 - [Seasonal patterns are discrepant across national data sets](discrepant-seasonal-patterns-national-data-sets.md) — related
+- [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related

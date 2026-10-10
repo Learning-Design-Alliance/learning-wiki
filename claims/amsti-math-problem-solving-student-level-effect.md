@@ -46,3 +46,4 @@ A very large study in grades 4-8 compared AMSTI schools with control schools. Th
 - [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — possibly the same claim (merge candidate)
 - [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](amsti-promising-evidence-rating.md) — related
 - [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-engagement-active-learning.md) — related
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related

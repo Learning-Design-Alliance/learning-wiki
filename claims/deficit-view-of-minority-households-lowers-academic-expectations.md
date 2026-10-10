@@ -48,3 +48,4 @@ Stated as the digest's opening premise: the deficit perception "has too often le
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — reports the opposite
 - [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — related
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
+- [In the Montebello blended science-language program, sentence frames limited student responses and teachers raised their expectations of English learners](montebello-program-teacher-insights.md) — reports the opposite

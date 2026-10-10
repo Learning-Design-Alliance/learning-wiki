@@ -45,3 +45,4 @@ The executive summary asserts this association in its framing paragraph, citing 
 ## Related Claims
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
 - [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
+- [Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19](perry-preschool-participation-reduced-problem-behaviors.md) — related

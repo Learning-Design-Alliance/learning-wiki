@@ -54,3 +54,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — a broader claim this one bears on
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — related
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](social-skills-academic-effect-unclear.md) — related
+- [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related

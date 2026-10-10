@@ -45,3 +45,4 @@ Cohort comparison of administrative graduation records across successive ninth-g
 ## Related Claims
 - [CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021](cps-graduation-rate-84-percent-2022.md) — related
 - [Nearly one in five recent CPS ninth-graders were ever enrolled in an Options school, and their six-year graduation rate improved about 5 percentage points but remained below 50 percent](cps-options-school-enrollment-and-graduation.md) — related
+- [Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors](california-suspensions-lowered-graduation-7-points.md) — related

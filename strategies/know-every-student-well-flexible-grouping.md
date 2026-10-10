@@ -41,6 +41,8 @@ A central quality of the case study schools is that every student is known well 
 
 - [Personalize professional development by differentiating it and assigning educators by strengths and student needs](personalized-differentiated-teacher-pd.md)
 - [Start simple: relationships-first, low-tech student success systems can suffice in small, tight-knit communities](just-start-simple-relationships-first-success-systems.md)
+- [Use advisories and looping to ensure every student is known and supported by adults](advisories-and-looping-whole-child.md)
+- [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
 
 ## Examples
 -

@@ -70,3 +70,5 @@ Same AIMS/AIMS A analysis of linked administrative data. Achievement rates for s
 - [Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test](foster-care-lowest-math-proficiency.md) — related
 - [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related
 - [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
+- [Students in foster care meet or exceed state standards at much lower rates than other students in English language arts and mathematics](foster-care-low-caaspp-achievement.md) — related
+- [Each within-year school move is associated with lower CAASPP achievement among students in foster care](school-mobility-associated-lower-achievement.md) — related

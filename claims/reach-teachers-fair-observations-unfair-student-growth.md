@@ -67,3 +67,4 @@ Year 3 MVMS teacher survey item on weight of student growth in final scores; the
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related
 - [A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical](teachers-hesitant-student-growth-evaluation.md) — related
 - [Most teachers judged their REACH evaluators fair and able to assess instruction accurately](teachers-view-evaluator-ratings-fair-accurate.md) — related
+- [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — related

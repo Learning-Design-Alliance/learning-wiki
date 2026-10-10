@@ -25,6 +25,7 @@ A framework developed by the Collaborative for Academic, Social, and Emotional L
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **CASEL five-competence-cluster framework for social and emotional learning**: The report describes the CASEL framework as the most influential SEL framework, organizing immediate SEL outcomes around "five competence clusters": self-awareness, self-management, social awareness, relationship skills, and responsible decision-making. Each cluster is substantively defined — for example, self-management "requires skills to manage one's emotions, thoughts, and behaviors effectively in different situations". Approximately two thirds of U.S. states with SEL standards base their standards on this framework, and it is embedded in the report's conceptual model (Figure 1) linking competencies to short- and long-term student outcomes. (Greenberg (2023))
 
 ### Claims
 - [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+M]
@@ -34,8 +35,8 @@ A framework developed by the Collaborative for Academic, Social, and Emotional L
 
 ## Key Sources
 - Collaborative for Academic, Social, and Emotional Learning (CASEL). (2020). What Is SEL? https://casel.org/fundamentals-of-sel/
-
 <!-- merged 2026-10-10 from theories/casel-5-competency-taxonomy ("The CASEL 5: five interrelated areas of social and emotional competence"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Greenberg, M. T. (2023). Evidence for social and emotional learning in schools. Learning Policy Institute. https://doi.org/10.54300/928.269
 
 # The CASEL 5: five interrelated areas of social and emotional competence
 

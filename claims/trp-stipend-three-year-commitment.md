@@ -48,3 +48,4 @@ Descriptive statement about the program design as printed in the article: "New p
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](trp-multisite-study-30-programs.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
+- [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](district-pipeline-partnerships-residency-gyo.md) — related

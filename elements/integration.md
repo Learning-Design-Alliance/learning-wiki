@@ -74,6 +74,7 @@ Integration activities convert learning from an isolated instructional event int
 **[LinkedIn Learning course-completion reflections](https://www.linkedin.com/learning/)** — Professional courses prompt learners to identify how new skills apply to their current role, leveraging task value to sustain engagement.
 
 **[Kolb's Experiential Learning Cycle](https://en.wikipedia.org/wiki/Experiential_learning)** — The "reflective observation" and "abstract conceptualization" stages operationalize integration after concrete experience.
+- [Design educator learning experiences using adult learning theory: connect to prior experience, ensure real-world application, and enable perspective transformation](../strategies/adult-learning-design-for-educators.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

@@ -47,3 +47,4 @@ Instructional-log analysis showed Treatment teachers' spring modifications to GC
 - [Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest](treatment-greater-gains-math-in-science-context-tasks.md) — related
 - [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related

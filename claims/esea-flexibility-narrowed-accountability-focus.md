@@ -43,4 +43,4 @@ Descriptive finding on school accountability from the study's state surveys and 
 
 
 ## Related Claims
--
+- [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](nclb-targets-sanctions-without-capacity-barrier.md) — related

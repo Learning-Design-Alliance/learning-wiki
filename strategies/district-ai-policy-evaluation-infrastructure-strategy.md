@@ -51,6 +51,7 @@ The report recommends that districts collaborate with community members to devel
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
+- [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
 
 ## Examples
 -

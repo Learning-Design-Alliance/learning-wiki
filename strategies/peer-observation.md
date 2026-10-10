@@ -80,6 +80,7 @@ Peer observation works by making the normally private, tacit dimensions of teach
 5. Agree one concrete adjustment to try before the next cycle, and schedule the reciprocal observation.
 
 ## Related Strategies
+
 - [Lesson Study](../strategies/lesson-study.md) — embeds peer observation inside collaborative lesson design and revision
 - [Coaching](../elements/coaching.md) — extends the observation cycle into ongoing one-to-one support
 - [Professional Learning Communities](../strategies/professional-learning-communities.md) — peer observation is a core practice within PLC inquiry cycles
@@ -87,6 +88,7 @@ Peer observation works by making the normally private, tacit dimensions of teach
 - Coaching — peer observation supplies the observational evidence that makes coaching cycles concrete
 - Teaching portfolios — observation notes and reflections become portfolio evidence of developmental growth
 - [Peer review of cooperative learning sessions: instructors observe a colleague's session and complete a peer review form](peer-review-of-cooperative-learning-sessions.md)
+- [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
 
 ## Examples
 - A mathematics department runs reciprocal observations focused on questioning techniques; each teacher is observed twice per term with a shared protocol, and debriefs feed into department meetings.

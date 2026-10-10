@@ -47,3 +47,4 @@ The primer defines stereotype threat as a psychological phenomenon in which "stu
 ## Related Claims
 - [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](childhood-poverty-impairs-adult-working-memory.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
+- [Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years](values-affirmation-long-term-benefits-black-students.md) — related

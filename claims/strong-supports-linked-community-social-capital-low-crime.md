@@ -50,3 +50,4 @@ Community-context analysis using social capital measures from PHDCN surveys, Chi
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
 - [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
 - [Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools](press-support-unequal-school-distribution.md) — related
+- [Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse](community-social-networks-lower-problem-rates.md) — related

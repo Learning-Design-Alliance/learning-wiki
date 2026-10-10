@@ -18,7 +18,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 17 studies (4 causal, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 1 of 17 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 18 studies (4 causal, 3 quant-synthesis, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -74,6 +74,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](../claims/pktp-plc-supported-implementation.md) [+W] — attached 2026-10-08 from Spain et al. (2018), which proposed "Provide an external facilitator for multi-school transition programs to sustain collaboration and communicate a consistent vision".
+- [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](../claims/stem-plc-teacher-knowledge-attitude-gains.md) [+W] — attached 2026-10-10 from Fulton et al. (2010), which proposed "Design elements for STEM PLCs: time and pacing, subject composition, protocols, and facilitation with administrator support and trust"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

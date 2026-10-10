@@ -48,3 +48,5 @@ The report's introductory section states the scale of alternative certification,
 - [Most alternatively certified teachers completed some coursework before entering the classroom, though this varied by state](alt-cert-coursework-timing-varies-by-state.md) — related
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
+- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21](teachers-of-color-alternative-route-entry.md) — related

@@ -42,6 +42,7 @@ The report calls for accessible, linked, comprehensive, and current education an
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
 - [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](cross-system-data-sharing-agreement-foster-care.md)
 - [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
+- [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
 
 ## Examples
 -

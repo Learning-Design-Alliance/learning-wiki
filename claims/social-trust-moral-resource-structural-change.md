@@ -44,3 +44,4 @@ Theoretical argument, not a tested result: established personal respect and trus
 
 ## Related Claims
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — a narrower finding that bears on this claim

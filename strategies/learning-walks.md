@@ -60,9 +60,11 @@ Learning walks work because they make teaching practice observable and discussab
 5. **Act.** Convert findings into next steps: [Coaching](../elements/coaching.md) cycles, demonstration lessons, or PLC inquiry; schedule a follow-up walk to check for change [Contingent follow-up support improves implementation of new practices.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Lesson Study](../strategies/lesson-study.md) — a deeper, collaborative cycle of planning, observing, and revising a single lesson; learning walks are broader and shallower
 - [Peer Observation](../strategies/peer-observation.md) — reciprocal, single-classroom observation with richer feedback than a walk
 - [Professional Learning Communities](../strategies/professional-learning-communities.md) — the team structure that typically hosts and acts on walk findings
+- [Student-designed community walks that flip teacher and learner roles to build cultural humility](student-led-community-walks-cultural-humility.md)
 
 ## Examples
 - **Instructional Rounds in Action** (Harvard Graduate School of Education): networks of schools conducting rounds visits with a defined problem of practice and networked debriefs ([https://www.gse.harvard.edu](https://www.gse.harvard.edu))

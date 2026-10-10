@@ -52,3 +52,5 @@ Theoretical synthesis of Bowlby's attachment account: the internalized attachmen
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — a broader claim this one bears on
 - [Deaf children's attachment and self-concept improve with better communication skills and deaf parents](deaf-children-communication-skills-self-concept.md) — related
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
+- [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — a broader claim this one bears on

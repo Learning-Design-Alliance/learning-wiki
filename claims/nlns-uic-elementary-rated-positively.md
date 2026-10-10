@@ -48,3 +48,5 @@ Analysis of CCSR 2007 teacher survey ratings comparing NLNS and UIC elementary s
 - [Elementary schools with NLNS principals show greater innovation and reflective dialogue and less traditional literacy practice](nlns-elementary-schools-innovation-reflective-dialogue.md) — related
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
+- [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — a broader claim this one bears on

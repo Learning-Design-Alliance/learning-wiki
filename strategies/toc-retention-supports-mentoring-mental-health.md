@@ -46,6 +46,7 @@ Design Studio retention solutions include a networking platform connecting teach
 - [District lessons for launching teacher-of-color support initiatives: safe space, clear goals, buy-in, and relationship time](district-lessons-teacher-of-color-initiatives.md)
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
 - [Grow-your-own teacher training programs targeting community members facing certification and career-change barriers](grow-your-own-toc-teacher-programs.md)
+- [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ Community-area analysis of graduation and dropout trends across Chicago's 77 com
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
 - [In 2019, high school graduation rates were similar across Chicago community areas (mostly 70–90%) while rates for the same students varied much more by high school (49–99%)](graduation-rates-similar-by-community-area-varied-by-high-school.md) — related
+- [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related

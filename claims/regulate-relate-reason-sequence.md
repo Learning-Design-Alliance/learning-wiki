@@ -52,3 +52,5 @@ A theoretical argument in the introduction, attributed to Bruce Perry's Neuroseq
 - [Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason](language-class-dropout-anxiety.md) — related
 - [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](school-climate-setting-level-indicator-five-supports.md) — related
 - [Supporting well-being and connection is a prerequisite to academic excellence](well-being-prerequisite-academic-excellence.md) — a broader claim this one bears on
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related

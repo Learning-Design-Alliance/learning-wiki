@@ -42,6 +42,7 @@ The brief recommends concrete relational strategies for leaders seeking buy-in f
 - [Structural supports for restorative practices: funding, people, time, discipline policy, and equity](structural-supports-restorative-implementation.md)
 - [District lessons for launching teacher-of-color support initiatives: safe space, clear goals, buy-in, and relationship time](district-lessons-teacher-of-color-initiatives.md)
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
+- [Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments](staff-buy-in-opt-in-pd-social-signaling.md)
 
 ## Examples
 -

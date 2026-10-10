@@ -44,3 +44,4 @@ Summary of the article's stated purpose as printed on the publication page: a dy
 
 ## Related Claims
 - [Applicants' enrollment decisions depend most on 'other financing sources' (typically loans), with feature importance 0.712, far exceeding federal and institutional aid features](other-financing-sources-dominant-enrollment-feature.md) — related
+- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related

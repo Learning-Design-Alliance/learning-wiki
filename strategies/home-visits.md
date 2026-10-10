@@ -88,6 +88,7 @@ Home visits operate on the relationship-first logic that trust between educators
 - [Provide home visitors training and a structure for collaborative goal setting with attainable, child-focused goals](train-home-visitors-collaborative-goal-structure.md)
 - [Coordinate services across programs and agencies to reinforce parent and child outcomes](coordinate-services-across-programs-and-agencies-two-generation.md)
 - [Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model](universal-well-baby-home-visits-victoria-model.md)
+- [Student-designed community walks that flip teacher and learner roles to build cultural humility](student-led-community-walks-cultural-humility.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.pthvp.org)** — The best-documented model, originating in Sacramento in 1998 and now used in hundreds of districts; studies in Sacramento City Unified and other districts link participation to reduced chronic absenteeism.

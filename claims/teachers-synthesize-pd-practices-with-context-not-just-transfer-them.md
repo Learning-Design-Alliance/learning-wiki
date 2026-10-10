@@ -52,3 +52,4 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related
 - [The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers](sense-making-interpretation-steps-confusing-for-teachers.md) — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — related

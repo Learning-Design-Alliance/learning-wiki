@@ -46,3 +46,4 @@ Descriptive and inferential analyses of the 269-educator survey found these back
 - [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
 - [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — reports the opposite
 - [Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage](wellbeing-predicts-emotion-regulation.md) — related
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — related

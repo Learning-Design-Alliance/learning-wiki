@@ -50,3 +50,4 @@ Survey-based analysis of new CPS teachers in the 2004-05 school year comparing s
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
 - [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](no-mentoring-retention-relationships-by-district-subgroups.md) — related
+- [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related

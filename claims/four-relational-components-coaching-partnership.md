@@ -48,3 +48,4 @@ Requisite Relationship Components section: focus group data showed coaches empha
 - [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related
 - [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](learning-studios-ldd-students-expertise-confidence.md) — related
 - [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — related

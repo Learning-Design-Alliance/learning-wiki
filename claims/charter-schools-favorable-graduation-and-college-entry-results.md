@@ -55,3 +55,4 @@ The report's longitudinal student-level analysis across its eight study sites re
 - [The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings](charter-high-schools-attainment-and-long-run-earnings-suggestion.md) — related
 - [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — related
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
+- [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — related

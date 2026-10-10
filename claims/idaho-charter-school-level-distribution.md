@@ -71,3 +71,4 @@ The same school-level analysis in math finds 17 of 41 charter schools (41 percen
 - [Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects](pa-charter-impact-by-grade-configuration.md) — related
 - [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — a broader claim this one bears on

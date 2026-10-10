@@ -87,6 +87,7 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 - Portfolio assessment — accumulates revision cycles into evidence of growth over time
 - Feedback-before-grade policies — delay grades until after revision so feedback is not eclipsed
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
+- [Equity-leveling admissions interview with lesson delivery, feedback, and revision](feedback-revision-admissions-interview.md)
 
 ## Examples
 - **Calibrated Peer Review (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.

@@ -46,6 +46,7 @@ The brief recommends that state and district leaders scale and sustain AI-enable
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
 - [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
+- [Sustain educator learning through schoolwide, network, and districtwide approaches that embed professional learning across the system](systemic-support-educator-learning.md)
 
 ## Examples
 -

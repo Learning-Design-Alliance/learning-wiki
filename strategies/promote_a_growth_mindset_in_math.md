@@ -60,9 +60,11 @@ Growth mindset interventions have small but reliable average effects on achievem
 6. Reinforce consistently across grading, parent communication, and classroom routines; a single lesson does not shift a belief the environment keeps contradicting.
 
 ## Related Strategies
+
 - Provide specific, strategy-level feedback — the primary delivery mechanism for mindset messaging
 - Teach that errors are informative — pairs error analysis with the belief that mistakes drive learning
 - Set mastery-oriented goals — process goals outperform outcome goals for novices [Process goals outperform outcome goals for novice learners.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — ongoing process feedback during practice is where mindset messaging becomes credible

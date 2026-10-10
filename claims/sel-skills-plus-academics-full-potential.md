@@ -61,3 +61,7 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Supporting well-being and connection is a prerequisite to academic excellence](well-being-prerequisite-academic-excellence.md) — related
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a narrower finding that bears on this claim
+- [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related

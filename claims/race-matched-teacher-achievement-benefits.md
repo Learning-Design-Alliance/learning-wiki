@@ -44,3 +44,4 @@ The agenda reports second-hand, citing Dee (2004), that race-matched pairing "si
 
 ## Related Claims
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
+- [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — possibly the same claim (merge candidate)

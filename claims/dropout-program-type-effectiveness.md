@@ -45,3 +45,4 @@ Program-type coefficients from the meta-regression (Table 2), e.g., school restr
 
 ## Related Claims
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
+- [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related

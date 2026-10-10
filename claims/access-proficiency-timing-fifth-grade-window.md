@@ -66,3 +66,5 @@ Descriptive comparison of the roughly one-fifth of began-as-EL students still cl
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
+- [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](el-exit-censorship-underestimates-growth.md) — related
+- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related

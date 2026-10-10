@@ -49,3 +49,4 @@ Descriptive comparative analysis using Census data on the DC/VA/MD Urbanized Are
 - [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — a narrower finding that bears on this claim
 - [By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas](seventy-percent-population-in-metropolitan-areas.md) — related
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related
+- [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related

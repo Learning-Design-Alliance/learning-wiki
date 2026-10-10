@@ -48,3 +48,4 @@ Interview study of CSPP coordinators. A special education coordinator worried ch
 - [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — related
+- [Experts report likely overrepresentation of foster children in special education and no direct clear evidence that special education works for them](foster-care-special-education-effectiveness-gap.md) — related

@@ -59,9 +59,11 @@ The strategy operationalizes the finding that content and language learning are 
 6. **Check and adjust.** Use [formative assessment](../elements/assessment.md) and [check-ins](../principles/check-ins.md) at project milestones to verify that language supports are working, and revise the analysis where students still struggle.
 
 ## Related Strategies
+
 - [Accessible Syntax](../strategies/accessible_syntax.md) — the sentence-level support that follows from the analysis
 - [Activating Background Knowledge](activate_background_knowledge.md) — connects project content to ELLs' prior and cultural knowledge
 - [Address Literacy Demands](../strategies/address_literacy_demands.md) — the broader literacy-audit approach this strategy specializes for PBL contexts
+- [Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning](community-connected-pbl-support-structure.md)
 
 ## Examples
 - **Genetics and traits project (PBLWorks model)**: analysis reveals students must *justify* conclusions with evidence; the teacher adds sentence starters ("My claim is… My evidence is…") and a structured peer-critique protocol before the final presentation.

@@ -49,3 +49,4 @@ School-type comparison in the national study finds CMO-affiliated schools ahead 
 - [Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state](fort-worth-cmo-outperforms-independent-charters.md) — related
 - [Austin CMO-affiliated charters outperformed independent Austin charters in both subjects](austin-cmo-vs-independent-charter-growth.md) — related
 - [Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly](houston-cmo-charters-outgrow-state-independents-null.md) — related
+- [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related

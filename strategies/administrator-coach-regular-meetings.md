@@ -41,6 +41,7 @@ The report's fourth action is consistent administrator-coach meetings across the
 - [Trust coaches to make decisions around coaching, granting autonomy while staying involved](coach-autonomy-in-coaching-decisions.md)
 - [Protect coaches' time so the majority is spent directly with teachers](protect-coach-time-for-classroom-support.md)
 - [Recommendations for adopting and sustaining high-quality coaching](recommendations-sustaining-high-quality-coaching.md)
+- [Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching](strengthen-induction-continuum-coaching-partnerships.md)
 
 ## Examples
 -

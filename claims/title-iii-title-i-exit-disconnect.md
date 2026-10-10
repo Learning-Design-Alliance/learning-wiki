@@ -50,3 +50,4 @@ The paper's policy analysis identifies a conceptual disconnect between the ESEA 
 - [States mandating non-ELP reclassification requirements have higher shares of long-term ELs](mandated-non-elp-requirements-higher-long-term-el-shares.md) — related
 - [Emerging evidence indicates EL misclassification occurs even within districts, and misclassification near the proficiency cutpoint may harm long-term academic outcomes](el-misclassification-within-district-long-term-harm.md) — related
 - [States weight ELP assessment composite scores differently, so what counts as English proficient differs across assessments](elp-composite-weighting-variation.md) — related
+- [English Learners' initial ELP level influences the expected time frame for attaining the English-proficient criterion, supporting refined time-to-proficiency criteria](initial-elp-level-influences-time-to-proficiency.md) — related

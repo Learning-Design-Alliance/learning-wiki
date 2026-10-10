@@ -49,3 +49,4 @@ Scope statement of the evaluation brief, which examines two cohorts of novice TR
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
 - [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — related
+- [Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements](full-preparation-retention-first-year.md) — related

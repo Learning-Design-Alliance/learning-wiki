@@ -74,3 +74,4 @@ Site visit data on SIG-funded incentives across the rural schools. Administrator
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — a broader claim this one bears on
 - [Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation](amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) — related
+- [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related

@@ -65,3 +65,4 @@ Focus-group thematic analysis found 'Many immigrant participants find that their
 - [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md) — related
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
+- [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related

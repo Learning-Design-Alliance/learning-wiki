@@ -54,6 +54,7 @@ LRE placement typically comes with a formal **individual educational plan (IEP)*
 ## Examples
 
 - [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](../strategies/lea-four-course-lre-strategy.md)
+- [Inclusion model in which students with learning disabilities take general education classes with additional supports](../strategies/gateway-inclusion-model-learning-disabilities.md)
 
 ## Key Sources
 - Arduini-Van Hoose, N. (2020). Teaching students with disabilities. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

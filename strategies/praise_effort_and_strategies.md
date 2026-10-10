@@ -72,11 +72,13 @@ Praise functions as attributional feedback: it shapes what learners believe caus
 5. Pair praise with actionable next steps, consistent with [Action-Oriented Feedback](action-oriented-feedback.md) and [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — process-praise is a form of feedback that points to what to do next
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — both strategies make the *process* of learning visible and valued rather than only outcomes
 - Growth-oriented feedback — process praise is the positive-valence end of a feedback practice that frames ability as malleable
 - Normalizing error and productive failure — shares the attributional goal of decoupling mistakes from ability judgments
 - Mastery-oriented grading — structural (rather than verbal) way to reward progress over fixed performance
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Sixth graders praised for effort after a task subsequently chose more challenging problems and persisted longer after failure than those praised for intelligence.

@@ -66,3 +66,4 @@ Artifact and interview analysis in Research Question 2 found most schools showed
 - [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — related
 - [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related
+- [A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students](ousd-lack-consistent-instructional-support-focus.md) — related

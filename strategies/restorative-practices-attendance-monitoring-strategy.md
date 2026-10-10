@@ -41,6 +41,7 @@ This strategy pairs two recommendations the authors draw from their findings: ad
 ## Related Strategies
 
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
+- [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
 
 ## Examples
 -

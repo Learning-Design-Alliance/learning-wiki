@@ -59,9 +59,11 @@ Reflection converts experience into learning: without structured processing, stu
 6. Close projects with a collective retrospective that connects individual insights back to the driving question and to the classroom community.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — embeds reflection as the closing phase of a choice-driven work cycle
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a one-on-one format for private reflective dialogue
 - [Check-Ins](../principles/check-ins.md) — the daily micro-version of this strategy
+- [Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning](community-connected-pbl-support-structure.md)
 
 ## Examples
 - **EL Education** ([https://eleducation.org](https://eleducation.org)) — its PBL model builds "crew" reflections and passage presentations in which students reflect on character and academic growth, a structure used in diverse urban schools.

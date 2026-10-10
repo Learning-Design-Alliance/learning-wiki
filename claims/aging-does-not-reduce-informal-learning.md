@@ -49,3 +49,4 @@ NALL 1998 survey data by age group show course participation falling from 67% (a
 - [Informal learning participation is unrelated to formal schooling level, unlike course participation](schooling-unrelated-to-informal-learning.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
 - [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](no-evidence-older-adults-cannot-learn-language.md) — related
+- [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related

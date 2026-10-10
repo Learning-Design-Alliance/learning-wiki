@@ -60,8 +60,10 @@ Positive actions function like any other learnable skill: they benefit from expl
 5. Reinforce the same actions school-wide — in academic lessons, discipline interactions, and family communications — so the behavior is practiced across contexts.
 
 ## Related Strategies
+
 - [Class Discussion](../elements/class-discussion.md) — class meetings are the primary vehicle for processing positive-action lessons
 - [Case Studies](../elements/case-studies.md) — realistic dilemmas let learners rehearse deciding on the positive action before facing the real situation
+- [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
 
 ## Examples
 - **[Positive Action](https://www.positiveaction.net)** — A commercial PreK–12 curriculum with over 100 lessons per grade, school-climate kits, and family components; evaluated in randomized trials in Hawaii and Chicago.

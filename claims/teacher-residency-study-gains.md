@@ -47,3 +47,6 @@ The paper reports findings of a 2011 study of teacher residency programs, citing
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — reports the opposite
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — reports the opposite
+- [Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time](residency-graduates-student-achievement.md) — related
+- [The few studies of student outcomes suggest residency graduates perform as well as or better than other novice teachers on student outcome measures](residency-graduates-student-outcomes.md) — a narrower finding that bears on this claim
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related

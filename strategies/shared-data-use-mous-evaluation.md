@@ -44,6 +44,9 @@ The report recommends that initiatives adopt the same or similar key measures of
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](cross-system-data-sharing-agreement-foster-care.md)
 - [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
+- [Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration](foster-care-web-of-supports-strategy.md)
+- [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
+- [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
 
 ## Examples
 -

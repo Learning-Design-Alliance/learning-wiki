@@ -39,6 +39,7 @@ The brief recommends that state leaders pursue three coordinated actions in resp
 ## Related Strategies
 
 - [State leaders should assess six funding-stability policy areas to reduce district revenue volatility](six-state-funding-stability-policies.md)
+- [Extend systemic reform deeply into central district operations such as budgeting, finance, human resources, and facilities](extend-reform-into-district-operations.md)
 
 ## Examples
 -

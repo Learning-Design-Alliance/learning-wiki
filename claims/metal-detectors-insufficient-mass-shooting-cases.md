@@ -51,3 +51,4 @@ Case evidence cited in the brief: despite a standing metal detector at Red Lake 
 - [Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors](metal-detectors-lower-student-safety-perceptions.md) — related
 - [School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely](no-consistent-school-shooter-profile.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
+- [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](arming-staff-no-evidence-of-safety-benefit.md) — related

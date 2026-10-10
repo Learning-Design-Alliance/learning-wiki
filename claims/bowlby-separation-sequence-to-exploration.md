@@ -48,3 +48,4 @@ The review lays out the sequence: attachment develops, separation produces emoti
 - [The review reports that specific emotions differentiate from a generalized excitement state in a stable developmental sequence](emotions-differentiate-from-generalized-excitement.md) — related
 - [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related
+- [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related

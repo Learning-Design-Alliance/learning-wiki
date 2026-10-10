@@ -47,3 +47,5 @@ Surveys with Likert-based items were administered to teachers in both the treatm
 - [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — related
 - [AMSTI raises math problem solving scores significantly at the student level but not at the school level, with an average effect size of +0.05](amsti-math-problem-solving-student-level-effect.md) — related
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — related
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related
+- [AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers](amsti-teachers-higher-student-engagement.md) — related

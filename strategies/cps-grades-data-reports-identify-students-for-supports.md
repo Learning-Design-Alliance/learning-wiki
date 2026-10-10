@@ -37,7 +37,8 @@ The report recommends that schools or the district organize course grades data t
 - Course completion and credit earning in remote and hybrid learning contexts
 
 ## Related Strategies
-- 
+
+- [Shift attendance measurement from seat time to engagement, participation, and student outcomes in distance and hybrid learning](shift-attendance-from-seat-time-to-engagement.md)
 
 ## Examples
 -

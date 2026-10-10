@@ -65,3 +65,4 @@ WestEd reviewed annual reports from Arizona, Florida, Indiana, New Hampshire, No
 - [Most ESA programs have flexible assessment requirements, and testing results are largely informational with only West Virginia imposing explicit performance benchmarks](esa-flexible-assessments-informational-results.md) — related
 - [All ESA statutes list allowable uses of funds, but only 3 of 15 detail prohibited uses, and nearly all call for audits](esa-financial-accountability-allowable-uses-audits.md) — related
 - [ESA programs have grown rapidly, serving over 326,400 students across 13 states as of the 2023/24 school year](esa-rapid-growth-326400-students-13-states.md) — related
+- [The state's lack of publicly available ESA data hinders cost estimation; the report recommends publishing enrollment, expenditure, and transfer data](esa-data-transparency-recommendations.md) — related

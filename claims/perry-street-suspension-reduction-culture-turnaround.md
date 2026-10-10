@@ -51,3 +51,5 @@ Descriptive before-and-after evidence from the case study's culture section: pre
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround](perry-street-tier-iii-to-tier-i-turnaround.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — a broader claim this one bears on
+- [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](empathic-mindset-teacher-intervention-lowers-suspensions.md) — related
+- [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — related

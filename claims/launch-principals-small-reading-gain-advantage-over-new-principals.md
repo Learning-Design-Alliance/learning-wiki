@@ -48,3 +48,5 @@ Analysis of ITBS reading gains from 1997 to 2003 comparing elementary schools le
 - [Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals](launch-elementary-principals-more-data-driven-decision-making.md) — related
 - [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — related
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
+- [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related
+- [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — related

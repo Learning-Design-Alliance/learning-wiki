@@ -60,9 +60,11 @@ Mindset framing works as a small but real motivational lever: brief intervention
 6. Reinforce through assessment structures: allow revision or resubmission so improvement is demonstrable, consistent with [Assessment for Learning](../principles/assessment-for-learning.md) [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ## Related Strategies
+
 - **Process-focused feedback** — the primary delivery vehicle; mindset framing lives or dies in feedback language
 - **Belonging interventions** — companion social-psychological interventions targeting the same at-risk populations
 - **Error analysis routines** — operationalize the "mistakes are information" message
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Examples
 - **National Study of Learning Mindsets (Yeager et al., 2019)** — A preregistered, nationally representative experiment in 65 US high schools; a 25-minute online module framing ability as malleable raised GPA among lower-achieving students ([https://mindsetscholarsnetwork.org](https://mindsetscholarsnetwork.org)).

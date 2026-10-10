@@ -64,6 +64,7 @@ Family engagement interventions show consistent but modest academic benefits ove
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — family partnership gives student work real audiences beyond the classroom
 - [Ground early childhood family-engagement programs in racial equity by honoring families' expertise and cultures](honor-family-expertise-culturally-responsive-engagement.md)
 - [Use strengths-based, nonpunitive framing in recruitment and family engagement for attendance programs](strengths-based-nonpunitive-family-engagement.md)
+- [Student-designed community walks that flip teacher and learner roles to build cultural humility](student-led-community-walks-cultural-humility.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.ptplus.org) — teachers visit families at home on neutral ground, focusing on hopes and dreams rather than problems; associated with improved teacher perceptions and student engagement

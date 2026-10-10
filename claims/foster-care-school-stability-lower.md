@@ -47,3 +47,6 @@ Analysis of CDE CALPADS data, 2017–18 through 2022–23, on the percentage of 
 - [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
 - [Arizona students in foster care changed schools during the school year at about four times the rate of other students](foster-care-high-school-mobility-arizona.md) — related
 - [Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23](foster-care-suspension-three-times.md) — related
+- [Students in foster care change schools far more often than other students, with many moving multiple times within a school year](foster-care-high-school-mobility.md) — related
+- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related
+- [Research confirms school stability helps students in foster care, while school placement changes from home placement changes are a powerful risk factor for poor outcomes](school-stability-helps-foster-care-students.md) — related

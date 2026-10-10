@@ -67,3 +67,4 @@ The report finds college choice has little impact on graduation for low-qualific
 - [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
 - [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](good-college-match-increases-graduation-chance.md) — a broader claim this one bears on
 - [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related
+- [U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year](teacher-pay-77-percent-of-college-graduates.md) — related

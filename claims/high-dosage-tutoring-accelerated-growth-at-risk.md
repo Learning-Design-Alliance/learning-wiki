@@ -58,3 +58,4 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — a narrower finding that bears on this claim
 - [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — related
 - [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — a narrower finding that bears on this claim
+- [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on

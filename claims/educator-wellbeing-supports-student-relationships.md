@@ -49,3 +49,4 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 - [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](mindfulness-training-teacher-wellbeing-gains.md) — related
+- [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related

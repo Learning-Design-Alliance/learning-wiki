@@ -52,3 +52,5 @@ Analysis of CDE CALPADS data, 2016–17 through 2022–23, defining chronic abse
 - [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
 - [Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23](foster-care-suspension-three-times.md) — related
 - [Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was](lcap-actions-rarely-unique-to-foster-care.md) — related
+- [Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students](foster-care-absenteeism-suspension-rates.md) — related
+- [Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start](foster-care-preschool-attendance-evidence-gap.md) — related

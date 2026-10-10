@@ -46,6 +46,7 @@ To sustain progress and ensure efficacy of the POG framework, the brief recommen
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles](ai-specific-accountability-systems-playbook.md)
 - [Use student experience data in an iterative inquire-change-monitor cycle with students as partners](cultivate-data-improvement-cycle.md)
+- [Build a constituency of educator groups and public advocacy to sustain systemic standards-based reform](constituency-for-standards-reform.md)
 
 ## Examples
 -

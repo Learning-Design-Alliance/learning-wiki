@@ -49,3 +49,4 @@ School leader comment reported in the pilot's micro-credentials outcomes section
 - [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](bcps-stat-pilot-cpd-credit.md) — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — a broader claim this one bears on
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — related

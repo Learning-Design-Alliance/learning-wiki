@@ -48,6 +48,10 @@ The document enumerates concrete state policy actions organized in three section
 - [Grow-your-own teacher training programs targeting community members facing certification and career-change barriers](grow-your-own-toc-teacher-programs.md)
 - [Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.](toc-pipeline-recruitment-practices.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
+- [Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers](comprehensive-policies-equitable-teacher-access.md)
+- [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
+- [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
+- [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 
 ## Examples
 -

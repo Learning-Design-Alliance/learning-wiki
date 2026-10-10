@@ -51,6 +51,7 @@ Situated learning is defined as "the notion of learning knowledge and skills in 
 - [Talk About Real-Life Challenges and Situations](../strategies/talk_about_real-life_challenges_and_situations.md)
 - [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](../principles/relevant-immediately-useful-adult-materials.md)
 - [Connect Writing to Real-World Applications](../strategies/connect_writing_to_real-world_applications.md)
+- [Design educator learning experiences using adult learning theory: connect to prior experience, ensure real-world application, and enable perspective transformation](../strategies/adult-learning-design-for-educators.md)
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465
