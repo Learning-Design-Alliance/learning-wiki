@@ -61,3 +61,9 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
+- [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
+- [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
+- [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

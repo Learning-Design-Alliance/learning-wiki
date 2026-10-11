@@ -48,3 +48,6 @@ Bootstrapped specific indirect effects (5,000 samples) in the PLS-SEM model of 5
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [The study's findings are context-specific and do not demonstrate AI literacy or learning gains because no baseline measure was collected](no-baseline-literacy-gains-context-specific-findings.md) — related
+- [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
+- [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related

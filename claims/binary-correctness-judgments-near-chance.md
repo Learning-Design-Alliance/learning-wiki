@@ -46,3 +46,4 @@ Analysis splitting correctness & errors QA into generic (45.0%), binary (50.4%),
 - [Gold text descriptions improve VLM correctness-and-error assessment, but performance still lags other question types](captions-improve-correctness-qa-but-lag.md) — related
 - [The performance gap between erroneous and non-erroneous student images persists after images are digitally redrawn to remove noise](error-gap-persists-after-image-cleanup.md) — related
 - [VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem](vlms-underperform-on-erroneous-student-math-responses.md) — related
+- [FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data](fsm-eval-aligns-with-human-interactivity-judgments.md) — related

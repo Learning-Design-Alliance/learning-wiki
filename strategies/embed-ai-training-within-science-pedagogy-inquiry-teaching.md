@@ -49,6 +49,8 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 
 ## Examples
 -

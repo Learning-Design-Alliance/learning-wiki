@@ -52,3 +52,5 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
 - [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
 - [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
+- [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
+- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related

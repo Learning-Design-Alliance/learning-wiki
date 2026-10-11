@@ -46,3 +46,4 @@ The article reports Brynjolfsson et al.'s (2025) payroll analysis of a provider 
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related
 - [Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations](aei-majority-occupations-zero-ai-usage.md) — related
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
+- [The post-ChatGPT learning-time decline follows an age gradient: largest in high school (31.3% cumulative), small in middle school (9.0%), and undetectable in Grade 5](age-gradient-ai-learning-time-decline.md) — related

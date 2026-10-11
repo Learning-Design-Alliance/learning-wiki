@@ -72,3 +72,4 @@ Participant quote (P15) in the overreliance theme. Another participant warned of
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
 - [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](staff-concerns-genai-integrity-skill-erosion.md) — a broader claim this one bears on
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — a broader claim this one bears on

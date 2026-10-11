@@ -45,6 +45,7 @@ The article's design implication is structural rather than tool-based: because g
 - [Redesign AI-era physics courses around an unaided written examination with mock exams, prepared tutorial discussion, and research-shaped tasks as bonus work with scaffolding](kt1-next-course-redesign-strategy.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
+- [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 
 ## Examples
 -

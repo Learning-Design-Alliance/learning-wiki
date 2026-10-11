@@ -48,3 +48,4 @@ The article describes, citing Legare and Lombrozo, a study in which five-year-ol
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
 - [At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration](gats-increase-constructive-engagement-uoft.md) — related
+- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related

@@ -67,3 +67,4 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
+- [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — related

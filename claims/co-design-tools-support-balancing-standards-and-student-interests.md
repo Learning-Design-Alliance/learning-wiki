@@ -56,3 +56,4 @@ This is a qualitative case study of a single, well-resourced co-design partnersh
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
 - [OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles](open-scied-units-data-practice-gaps.md) — related
 - [Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences](student-hat-planning-tools-support-sensemaking.md) — related
+- [Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity](reflection-stakeholder-perspectives-two-thirds.md) — related

@@ -47,3 +47,4 @@ SPSS moderation regression with standardized ASE, AS, and PU from the survey sam
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
 - [Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions](self-efficacy-moderation-insignificant-ai-anxiety.md) — related
+- [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related

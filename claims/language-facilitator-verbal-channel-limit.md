@@ -45,3 +45,4 @@ Authors' interpretive analysis of the facilitator's channel: it operated through
 ## Related Claims
 - [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](ai-facilitation-fragile-invents-data.md) — related
 - [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](remote-case-d-full-cycle-disembodied.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related

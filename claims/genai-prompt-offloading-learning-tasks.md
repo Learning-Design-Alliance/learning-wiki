@@ -48,3 +48,4 @@ The report describes a qualitative analysis of prompts issued to a GenAI system 
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](offloading-content-constrains-volume.md) — related
+- [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — related

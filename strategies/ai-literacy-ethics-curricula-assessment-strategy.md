@@ -51,6 +51,7 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 
 ## Examples
 -

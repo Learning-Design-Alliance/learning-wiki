@@ -45,3 +45,5 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model](gaa-ls-feedback-engagement-indirect-association.md) — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
+- [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related

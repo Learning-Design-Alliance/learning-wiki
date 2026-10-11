@@ -46,3 +46,4 @@ Comparison of overall Trial 2 scores across 11 models from six families (Table 2
 - [CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters](cdpk-scales-with-model-size-dropoff-below-8b.md) — related
 - [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — a narrower finding that bears on this claim
 - [A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points](prompt-revision-improves-tutoring-scores-ten-of-eleven.md) — related
+- [Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs](llm-scale-does-not-predict-tutor-safety.md) — a narrower finding that bears on this claim

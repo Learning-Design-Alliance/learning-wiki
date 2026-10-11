@@ -51,3 +51,4 @@ The paper reports, citing Shaw and Nave's experimental work, that 'AI assistance
 - [AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested](unsolicited-ai-advice-still-suppresses-suspension.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — related
+- [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — a narrower finding that bears on this claim

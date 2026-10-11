@@ -66,3 +66,4 @@ Authors' theoretical interpretation of the polarized independent-thinking and cr
 - [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](genai-gender-differences-perceived-gains.md) — related
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
+- [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related

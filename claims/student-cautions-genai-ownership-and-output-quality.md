@@ -47,3 +47,8 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — related
+- [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — a narrower finding that bears on this claim
+- [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related
+- [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
+- [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related

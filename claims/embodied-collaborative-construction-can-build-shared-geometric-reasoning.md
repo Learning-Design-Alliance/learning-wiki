@@ -53,3 +53,4 @@ This is a single case study of four graduate students already trained in embodie
 - [In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed](owl-game-body-based-experience-needed-for-solids.md) — related
 - [Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion](costume-design-supports-robot-structure-learning.md) — related
 - [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — a narrower finding that bears on this claim
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

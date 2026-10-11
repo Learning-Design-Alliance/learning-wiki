@@ -67,3 +67,4 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — a narrower finding that bears on this claim

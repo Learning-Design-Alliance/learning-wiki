@@ -45,3 +45,4 @@ Descriptive pre/post comparison of emotional responses in the session surveys. T
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related

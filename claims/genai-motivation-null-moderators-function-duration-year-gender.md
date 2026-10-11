@@ -52,3 +52,4 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
+- [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related

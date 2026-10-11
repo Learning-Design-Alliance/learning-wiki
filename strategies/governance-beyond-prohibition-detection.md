@@ -55,6 +55,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 - [Teach mediation literacy and redesign assessment and evaluation to measure interaction, not only satisfaction](mediation-literacy-assessment-interaction-evaluation.md)
+- [Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design](genai-integration-feedback-literacy-reflective-course-design.md)
 
 ## Examples
 -

@@ -47,6 +47,8 @@ Drawing on recent AI-focused literature, the review recommends orienting AI prof
 - [Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration](sustained-accompaniment-for-digital-integration.md)
 - [Implement a coordinated set of safeguards: data-protection policies, fairness-oriented algorithms, assessment redesign, teacher professional development, subsidised tools, and infrastructure investment](ai-math-safeguard-strategy-set.md)
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
+- [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 
 ## Examples
 -

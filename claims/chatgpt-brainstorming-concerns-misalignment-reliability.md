@@ -50,3 +50,4 @@ Reflexive thematic analysis of the 5 interviewed Algebra 1 teachers' feedback on
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

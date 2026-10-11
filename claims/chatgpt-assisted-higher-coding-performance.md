@@ -46,3 +46,4 @@ Controlled between-subjects experiment with 55 retained undergraduate CS student
 - [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
 - [The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)](chatgpt-lower-48h-retention-no-differential-forgetting.md) — related
 - [No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading](no-ai-longer-time-on-task-descriptive.md) — related
+- [A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning](genai-meta-analysis-g-0-7-performance-not-learning.md) — related

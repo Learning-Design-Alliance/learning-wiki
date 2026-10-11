@@ -52,3 +52,7 @@ SEM path analysis in the same 533-student sample showed cognitive offloading ten
 - [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — related
+- [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — reports the opposite
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](effective-ai-use-increases-over-reliance-harming-learning.md) — related
+- [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — a narrower finding that bears on this claim

@@ -43,6 +43,7 @@ The authors propose three strands of future work: empirical evaluation "comparin
 ## Related Strategies
 
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Require students engaging GenAI for feedback to declare the feedback received and how they refined their work in response](declare-genai-feedback-and-refinements.md)
 
 ## Examples
 -

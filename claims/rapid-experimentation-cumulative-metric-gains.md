@@ -45,3 +45,4 @@ The authors' retrospective summary of their experimentation program, reported in
 ## Related Claims
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
 - [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](multiple-intellectual-lineages-shared-foundations.md) — related
+- [Cumulative meta-analysis shows reported GenAI productivity effects remained stable over time (stabilizing at g = 0.331) despite rapid advancement of underlying foundation models.](cumulative-productivity-effects-stable-over-time.md) — related

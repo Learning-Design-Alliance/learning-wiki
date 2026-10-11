@@ -49,3 +49,6 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
+- [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
+- [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related

@@ -43,6 +43,8 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use](design-projects-for-evaluating-ai-outputs.md)
+- [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
 
 ## Examples
 -

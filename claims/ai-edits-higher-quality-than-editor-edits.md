@@ -46,3 +46,4 @@ Within Study 3, the AI tool was used to rewrite each letter assigned to the edit
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related
+- [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md) — related

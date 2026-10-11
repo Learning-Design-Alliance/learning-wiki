@@ -60,9 +60,11 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 6. Peer-review drafts against a rubric checking synthesis (not summary), then revise.
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — the source-evaluation skill that feeds a credible review corpus
 - [3-Source Rule](3-2-1_reflection.md) — a simplified multi-source verification habit that prepares younger learners for review work
 - [Case-Based Learning](../strategies/case-based-learning.md) — single-case analysis that literature reviews scale up to many cases
+- [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
 
 ## Examples
 - **Graduate thesis proposals** — the required literature review chapter; strongest when advisors require a synthesis matrix before drafting.

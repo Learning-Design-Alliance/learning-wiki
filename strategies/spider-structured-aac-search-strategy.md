@@ -42,6 +42,7 @@ The protocol operationalises its scope with the SPIDER tool (Sample, Phenomenon 
 
 - [Appraise qualitative studies with CASP and grade synthesis confidence with GRADE-CERQual, without excluding studies on quality grounds](casp-cerqual-quality-confidence-workflow.md)
 - [Combine inductive content analysis with deductive NPT-domain coding, supported by reflexive journalling and peer supervision](inductive-deductive-npt-analysis-reflexivity.md)
+- [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
 
 ## Examples
 -

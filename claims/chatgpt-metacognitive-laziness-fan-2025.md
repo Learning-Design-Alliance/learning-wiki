@@ -55,3 +55,4 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related
 - [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — possibly the same claim (merge candidate)

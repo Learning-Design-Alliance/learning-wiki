@@ -45,3 +45,4 @@ Item-level survey analysis in the Results section. Although both courses require
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course](math-course-higher-ai-acceptance-than-biology.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

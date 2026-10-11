@@ -46,3 +46,5 @@ Validity analysis of the measurement model in the 533-student sample; Table 7 re
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — related
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related

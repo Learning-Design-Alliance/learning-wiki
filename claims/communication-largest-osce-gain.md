@@ -65,3 +65,4 @@ Regression analysis of the same randomized exam data yielded a 0.90-point commun
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — a broader claim this one bears on
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control](no-diagnostic-accuracy-difference.md) — related
+- [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on

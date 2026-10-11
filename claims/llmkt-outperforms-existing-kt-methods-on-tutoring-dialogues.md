@@ -69,3 +69,5 @@ MathDial results from the same benchmark comparison, where existing methods impr
 - [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) — related
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
 - [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
+- [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
+- [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related

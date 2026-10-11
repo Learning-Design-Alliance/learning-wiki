@@ -73,3 +73,6 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
+- [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
+- [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — a narrower finding that bears on this claim

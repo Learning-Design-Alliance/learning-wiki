@@ -50,3 +50,4 @@ Case study focus groups with 14 Puerto Rico teachers (December 2020–June 2021)
 - [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
+- [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related

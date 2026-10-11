@@ -53,3 +53,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — reports the opposite
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
+- [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related

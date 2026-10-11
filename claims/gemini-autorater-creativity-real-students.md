@@ -66,3 +66,4 @@ Same OpenMic lab study, evaluated on 180 held-out submissions: autorater overall
 - [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
+- [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related

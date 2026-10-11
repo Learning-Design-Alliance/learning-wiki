@@ -47,3 +47,4 @@ Across multiple chat logs on different problems, Student D asked the expected ou
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
 - [An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections](llm-provides-accurate-hardware-information.md) — related
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
+- [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related

@@ -49,6 +49,7 @@ The article recommends embedding the standards into structured professional lear
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration](sustained-accompaniment-for-digital-integration.md)
+- [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 
 ## Examples
 -

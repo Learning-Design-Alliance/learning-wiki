@@ -67,3 +67,4 @@ Direct comparison of the weighted relevance distance (Equation 2 combining seman
 - [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](secondary-aoi-attention-limited-no-difference.md) — related
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related
 - [Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance](gaze-assistance-longer-primary-aoi-fixation.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related

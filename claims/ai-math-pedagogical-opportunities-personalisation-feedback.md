@@ -69,3 +69,4 @@ Review synthesis of feedback mechanisms across included studies. The authors sta
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](ai-pbl-enhances-educator-student-collaboration.md) — related
 - [Educators use AI more for generative and content-oriented tasks than for evaluative or automated tasks](ai-usage-generative-over-evaluative.md) — related
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related
+- [Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility](ai-opportunities-and-verification-burden.md) — related

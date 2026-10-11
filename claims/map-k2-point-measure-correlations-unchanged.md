@@ -47,3 +47,4 @@ Summary statistics in Table 2.2 show identical rpm_new and rpm_old means (0.31) 
 - [Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples](rit-adjustment-improves-k2-item-fit.md) — related
 - [New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79](new-old-fit-statistics-moderately-correlated.md) — related
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related
+- [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related

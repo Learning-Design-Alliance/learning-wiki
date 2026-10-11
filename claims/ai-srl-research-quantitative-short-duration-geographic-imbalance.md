@@ -46,3 +46,4 @@ The review's publication-characteristics analysis found "In total, 71% of studie
 - [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied](ai-srl-studies-lack-srl-theory-zimmerman-most-used.md) — related
+- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — related

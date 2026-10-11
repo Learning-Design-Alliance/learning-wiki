@@ -53,3 +53,4 @@ Finding from the Assessment Strategies theme of the thematic analysis, reported 
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — a broader claim this one bears on

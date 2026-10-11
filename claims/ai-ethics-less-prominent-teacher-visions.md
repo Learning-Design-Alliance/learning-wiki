@@ -50,3 +50,4 @@ Qualitative content analysis of 50 essays found ethical and governance themes re
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

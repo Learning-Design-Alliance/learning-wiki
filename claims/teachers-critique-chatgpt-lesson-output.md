@@ -51,3 +51,4 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 - [Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs](generic-ai-tools-undermine-curriculum-coherence.md) — a broader claim this one bears on
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
+- [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](capability-oriented-design-dimension.md) — related

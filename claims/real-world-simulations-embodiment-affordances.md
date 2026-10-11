@@ -45,3 +45,4 @@ The review reports, citing Dunleavy et al. (2009) and Klopfer and Squire (2008),
 ## Related Claims
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

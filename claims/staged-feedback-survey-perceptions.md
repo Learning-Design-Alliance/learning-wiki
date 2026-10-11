@@ -64,3 +64,4 @@ Same self-selected survey; the article reports "39.3% found the system too indir
 ## Related Claims
 - [Qualitative analysis found staged disclosure sometimes withheld inaccurate diagnostic details, but some errors still shaped student revisions](staged-disclosure-diagnostic-error-patterns.md) — related
 - [In the AVP, per-turn disclosure change responds to trainee exploration but not measurably to trainee empathy, and the static baseline shows no significant joint response](avp-exploration-drives-disclosure-change.md) — related
+- [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related

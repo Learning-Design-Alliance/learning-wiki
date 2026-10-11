@@ -87,3 +87,4 @@ Interview analysis of Cluster 3: high-capability teachers critiqued platform con
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [Qualitative educator interviews corroborate and explain the quantitative path findings](educator-interviews-explain-ai-learning-mechanisms.md) — related

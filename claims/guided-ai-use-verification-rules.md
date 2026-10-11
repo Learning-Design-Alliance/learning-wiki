@@ -50,3 +50,4 @@ Design description of the 2025 AI-enhanced cohort's guidance. Students used Deep
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related
 - [Output-verification support is the least covered scenario in policy guidance](output-verification-thinnest-scenario.md) — related
+- [Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility](ai-opportunities-and-verification-burden.md) — related

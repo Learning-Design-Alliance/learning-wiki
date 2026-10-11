@@ -45,3 +45,4 @@ Author position statement in the eBook's AI chapter, citing Bubeck et al. (2023)
 - [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — related
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — a narrower finding that bears on this claim
+- [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) — related

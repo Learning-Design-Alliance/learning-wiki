@@ -57,3 +57,4 @@ The paper reports, citing Bastani et al. (2024), an experiment where only the pr
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — reports the opposite
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
+- [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related

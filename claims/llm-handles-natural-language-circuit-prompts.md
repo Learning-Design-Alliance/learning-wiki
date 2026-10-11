@@ -50,3 +50,4 @@ Qualitative analysis of three GPT-4o chat logs from one student. The article rep
 - [Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits](llms-zero-shot-true-root-cause-suggestions.md) — related
 - [More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment](rising-llm-adoption-debugging-across-semesters.md) — related
 - [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](students-offload-critical-thinking-ai-debugging.md) — related
+- [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related

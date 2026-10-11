@@ -44,3 +44,4 @@ Study 2 confirmatory factor analysis with 798 students using robust maximum like
 - [A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons](competing-model-comparisons-bifactor-favored.md) — related
 - [GAA-LS scores correlate positively with feedback engagement, academic integrity intention, and responsible AI use intention, and differ across known groups](gaa-ls-criterion-known-group-validity.md) — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
+- [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — possibly the same claim (merge candidate)

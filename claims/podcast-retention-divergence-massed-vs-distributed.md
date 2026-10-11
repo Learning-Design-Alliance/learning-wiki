@@ -49,3 +49,4 @@ Primary linear mixed-effects model (TotalScore ~ Timepoint + Centre + Timepoint�
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related
+- [Exploratory pre-post questionnaire comparisons showed descriptively higher post-program means but no statistically significant differences after Holm adjustment](exploratory-pre-post-null-holm-adjusted.md) — related

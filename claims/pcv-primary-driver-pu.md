@@ -46,3 +46,4 @@ Structural model results from the PLS-SEM analysis of the 45-case net sample: bo
 - [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
 - [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](pcv-significantly-predicts-bi-contextual-language-app.md) — related
 - [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
+- [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related

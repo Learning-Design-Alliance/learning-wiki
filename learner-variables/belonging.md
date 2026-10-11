@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (40 for, 5 mixed) · 45 studies (12 review, 11 qualitative, 8 causal, 5 design, 4 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 45 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (42 for, 5 mixed) · 46 studies (12 review, 11 qualitative, 8 causal, 6 design, 4 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 46 report an effect size · 43 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -78,6 +78,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](../claims/baseline-relatedness-diminishes-perceived-ai-relatedness.md) [+M] — learners who differ on it differ in outcomes
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](../claims/chatgpt-perceived-relatedness-support.md) [+M] — instruction changes it
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](../claims/chatgpt-negative-experiences-inaccuracy-overreliance.md) [~M] — instruction changes it
+- [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](../claims/ampt-session-increased-math-belonging.md) [+M] — instruction changes it
+- [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](../claims/ampt-interests-reflected-in-math.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

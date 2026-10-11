@@ -49,3 +49,4 @@ Descriptive frequency analysis of primary barriers in the RQ1/RQ2 subset (N = 15
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related

@@ -46,3 +46,4 @@ Theoretical argument, supported by cited literature, that economic inequality st
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — a broader claim this one bears on
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
+- [Current LLMs reproduce linguistic hierarchies by being built on dominant standard English varieties, producing a monolithic English that ignores regional variation](llms-reproduce-linguistic-hierarchies-monolithic-english.md) — related

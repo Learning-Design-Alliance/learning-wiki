@@ -46,3 +46,4 @@ Descriptive geographic mapping of the 42 included studies (Results, RQ1, Figure 
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — a broader claim this one bears on
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
+- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — reports the opposite

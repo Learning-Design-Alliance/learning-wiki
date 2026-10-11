@@ -45,3 +45,4 @@ Structural model assessment in PLS-SEM evaluated explanatory power and predictiv
 - [Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators](mediators-associated-with-ai-teaching-innovation-behavior.md) — related
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
+- [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related

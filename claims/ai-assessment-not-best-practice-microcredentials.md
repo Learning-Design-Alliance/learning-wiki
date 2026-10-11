@@ -43,4 +43,4 @@ Afirmación del eBook en su capítulo sobre IA y micro-credenciales, citando a B
 
 
 ## Related Claims
--
+- [Les outils d'IA présentent des potentialités réelles pour l'accessibilité de l'enseignement supérieur inclusif, mais leur efficacité reste conditionnée et limitée](ai-potentialities-limits-inclusive-higher-education.md) — related

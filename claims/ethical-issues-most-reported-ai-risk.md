@@ -60,3 +60,5 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — related
+- [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — a broader claim this one bears on
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

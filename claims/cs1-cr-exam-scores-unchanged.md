@@ -45,3 +45,4 @@ Quasi-experimental pairwise t-test comparison of two identical proctored, auto-g
 ## Related Claims
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](gats-no-immediate-performance-effect-uoft.md) — related
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
+- [In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool](first-deployment-exam-scores-lower.md) — reports the opposite

@@ -68,6 +68,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Solicit open-format curiosity questions after interactive simulations and use responses as a springboard for instruction](open-format-simulation-questions-springboard.md)
 - [Predator/prey simulation game on the beach for hatchling survival](predator-prey-hatchling-crawl-game.md)
+- [Have students craft physically detailed prompts as a form of experimental design before measuring AI-generated scenarios](prompt-crafting-as-experimental-design.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

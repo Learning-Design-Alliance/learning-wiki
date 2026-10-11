@@ -59,9 +59,11 @@ Retrieval practice produces durable, transferable memory traces that rereading a
 6. Teach learners to read their own results: what to restudy, what to stop studying — making the diagnostic explicit.
 
 ## Related Strategies
+
 - Spaced repetition — scheduling self-tests over time compounds the retrieval benefit
 - Formative feedback loops — self-testing supplies the data that feedback acts on
 - Rereading replacement — substituting retrieval for passive review in study-skills instruction
+- [Incorporate GenAI-based pronunciation tools to give anxious learners additional low-stakes speaking opportunities outside the classroom](genai-pronunciation-tools-low-stakes-speaking-opportunities.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcards that schedule each item for review just before predicted forgetting; widely used in medical education.

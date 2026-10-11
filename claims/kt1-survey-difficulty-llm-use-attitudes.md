@@ -45,3 +45,4 @@ Self-report survey after the first three assignments with 30 complete responses:
 ## Related Claims
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
 - [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — related
+- [87.8% of surveyed students in the introductory OOP course had used AI assistants in the course at least once](most-students-used-ai-assistants-oop-course.md) — related

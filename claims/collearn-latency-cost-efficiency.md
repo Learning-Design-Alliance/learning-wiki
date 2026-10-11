@@ -44,3 +44,4 @@ Latency and cost measured on the live single-node deployment (AWS Bedrock, Claud
 
 ## Related Claims
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
+- [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](hdr-vr-platform-3-5-second-latency.md) — related

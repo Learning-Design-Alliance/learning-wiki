@@ -44,3 +44,4 @@ Prototype demonstration in a real-world educational context: the authors report 
 
 ## Related Claims
 - [The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference](elevate-local-two-machine-low-latency-deployment.md) — related
+- [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](hdr-vr-platform-3-5-second-latency.md) — a narrower finding that bears on this claim

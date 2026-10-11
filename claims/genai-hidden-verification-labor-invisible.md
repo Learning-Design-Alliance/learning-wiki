@@ -51,3 +51,4 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related
 - [Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts](students-associated-with-epistemic-predicates.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related

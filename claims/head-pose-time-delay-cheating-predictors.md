@@ -46,3 +46,4 @@ Reviewed study (Chuang et al.) with 42 US undergraduates in learning sessions, o
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — possibly the same claim (merge candidate)
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related
+- [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related

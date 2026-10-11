@@ -61,3 +61,4 @@ Definitional guidance quoted from Oregon's state guidance document in the Equity
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — a broader claim this one bears on
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
+- [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — related

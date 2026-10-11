@@ -17,7 +17,7 @@ sources:
 # Seasonal learning analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows. The page tags the work under "Seasonal learning patterns & summer loss" and describes "An analysis of 2M students provides insights into seasonal learning and achievement gaps." The framework treats school and summer as distinct learning contexts whose differential contributions reveal the role of schooling in inequality development.
@@ -25,18 +25,20 @@ The brief organizes its inquiry around seasonal learning patterns: comparing how
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Seasonal learning analysis as a framework for locating when achievement inequalities grow**: The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows. The page tags the work under "Seasonal learning patterns & summer loss" and describes "An analysis of 2M students provides insights into seasonal learning and achievement gaps." The framework treats school and summer as distinct learning contexts whose differential contributions reveal the role of schooling in inequality development. (Megan Kuhfeld et al. (2019))
+- **Test the linearity of within-year growth assumptions before using growth estimates for policy decisions**: This principle holds that research and policy uses of achievement growth should first verify the assumption of linear within-year growth, because related research has relied on a "mostly untested assumption: that growth in achievement is linear throughout the entire school year." The article tests this assumption directly with seasonal score data and finds it often unjustified, particularly in reading, so growth estimates for policy should not default to linearity. (Megan Kuhfeld (2021))
 
 ### Claims
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](../claims/seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) [+M]
 - [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](../claims/schooling-role-racial-ethnic-inequality-development.md) [+M]
+- [Assuming linear within-year achievement growth is often not justified, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 
 ## Related Research Methods
 -
 
 ## Key Sources
 - Megan Kuhfeld, Dennis Condron, Douglas Downey. (2019). When does inequality grow? School, summer, and achievement gaps. NWEA Research. https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/
-
 <!-- merged 2026-10-10 from theories/seasonal-learning-analysis-framework-inequality-growth ("Seasonal learning analysis as a framework for locating when achievement inequalities grow"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Megan Kuhfeld, James Soland. (2021). The learning curve: Revisiting within-year linear growth assumptions. Journal of Research on Educational Effectiveness, 14:1, 143-171.
 
 # Seasonal learning analysis as a framework for locating when achievement inequalities grow
 

@@ -44,3 +44,4 @@ Structured search across Scopus, Web of Science, ScienceDirect, and UNESCO repos
 
 ## Related Claims
 - [Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes](seven-studies-only-special-education-class-size-review.md) — related
+- [A structured narrative synthesis of GenAI/AI in STEAM education screened 107 records and included 15 sources in the reviewed corpus](genai-steam-review-15-source-corpus.md) — related

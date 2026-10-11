@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (15 for, 2 mixed, 4 against) · 23 studies (7 associational, 5 causal, 4 review, 3 qualitative, 3 design, 1 quant-synthesis), `q1`–`q4` · 4 of 23 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (19 for, 2 mixed, 4 against) · 26 studies (8 associational, 7 causal, 4 review, 3 qualitative, 3 design, 1 quant-synthesis), `q1`–`q4` · 5 of 26 report an effect size · 23 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -54,6 +54,10 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](../claims/structured-ai-integration-enhances-literacy-retention-critical-thinking.md) [+W] — instruction changes it
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](../claims/prior-ai-exposure-predicts-chatbot-uptake.md) [-M] — learners who differ on it differ in outcomes
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](../claims/technical-competency-associated-lower-distraction.md) [+M] — learners who differ on it differ in outcomes
+- [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](../claims/ai-literacy-enhances-critical-ai-evaluation.md) [+M] — learners who differ on it differ in outcomes
+- [Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok](../claims/platform-recognition-gains-netflix-spotify.md) [+M] — instruction changes it
+- [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](../claims/both-genders-gain-ai-knowledge-confidence-workshop.md) [+M] — instruction changes it
+- [Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](../claims/training-gains-across-experience-levels-largest-for-novices.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

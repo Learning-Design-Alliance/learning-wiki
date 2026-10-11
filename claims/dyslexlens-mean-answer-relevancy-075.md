@@ -48,3 +48,4 @@ Automated RAGAS evaluation of 30 queries (5 research questions plus follow-ups) 
 - [Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient](evidence-tracing-114-claims-retrieval-limit.md) — related
 - [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](followup-low-initiation-high-completion.md) — related
+- [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related

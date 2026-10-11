@@ -44,3 +44,4 @@ Apparatus description of the small-school deployment: the server pipeline was ex
 
 ## Related Claims
 - [An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs](elevate-prototype-near-real-time-consumer-hardware.md) — related
+- [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](hdr-vr-platform-3-5-second-latency.md) — related

@@ -54,3 +54,7 @@ The review reports, citing Zhu et al. (2026), a three-wave study of 589 universi
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](unrestricted-chatgpt-worse-exam-scores.md) — related
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
+- [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related

@@ -47,3 +47,4 @@ Evaluation of ten LLMs across three interaction settings in EduZone. Average ASR
 - [Current LLMs are more vulnerable to education-specific risks such as academic misconduct and excessive cognitive load than to conventional safety risks in K-12 educational interactions](eduzone-education-specific-risk-vulnerability.md) — related
 - [Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic](risk-category-dominates-educational-safety-variance.md) — related
 - [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related
+- [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related

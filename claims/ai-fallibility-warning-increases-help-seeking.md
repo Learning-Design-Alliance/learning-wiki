@@ -50,3 +50,4 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related
 - [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
+- [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related

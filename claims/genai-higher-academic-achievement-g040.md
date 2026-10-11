@@ -46,3 +46,4 @@ Random-effects meta-analysis pooling effect sizes from the 53 included studies c
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — related
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
+- [Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06).](exam-environment-moderates-genai-learning-effects.md) — a narrower finding that bears on this claim

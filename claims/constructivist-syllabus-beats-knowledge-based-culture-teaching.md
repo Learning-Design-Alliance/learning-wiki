@@ -47,3 +47,4 @@ This is background literature reported second-hand: the review attributes the fi
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — a broader claim this one bears on
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
 - [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
+- [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](higher-order-objectives-courses-emphasize-gai-skills-more.md) — related

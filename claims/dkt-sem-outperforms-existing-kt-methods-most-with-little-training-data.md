@@ -68,3 +68,5 @@ MathDial results of the same comparison: DKT-Sem wins "by a smaller margin than 
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
 - [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
+- [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
+- [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related

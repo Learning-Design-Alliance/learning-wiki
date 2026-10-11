@@ -47,3 +47,5 @@ Semi-structured surveys in the third semester (Case-III) with third-year archite
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related
+- [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — reports the opposite
+- [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — reports the opposite

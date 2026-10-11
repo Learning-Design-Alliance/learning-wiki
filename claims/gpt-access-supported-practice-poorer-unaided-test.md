@@ -51,3 +51,5 @@ Narrative review attribution: the article reports a peer-reviewed field experime
 - [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](genai-learning-gain-persists-one-week.md) — related
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related
 - [For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods](curriculum-fit-determines-trust-investment.md) — related
+- [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
+- [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — a narrower finding that bears on this claim

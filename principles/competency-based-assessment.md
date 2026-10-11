@@ -23,7 +23,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 6 mixed, 1 against) · 15 studies (5 causal, 3 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 15 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 16 studies (5 causal, 3 review, 3 design, 3 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 16 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -82,6 +82,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](../claims/explicit-rubric-conditions-reduce-ai-disagreement.md) [+W] — attached 2026-10-10 from Praveen Pathak et al. (2026), which proposed "Before AI grading is attempted, rubrics should state as explicitly as possible the conditions for awarding marks, common deductions, acceptable alternatives, and carried-forward-error rules".
+- [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](../claims/ai-interaction-competencies-observable-scorable.md) [+W] — attached 2026-10-11 from Gao et al. (2026), which proposed "Rubric design pattern: interaction-scale D1 (0–4) plus expert-anchored evaluation-scale D2 (0–3) with the expert answer key as external calibration standard".
 
 ## Objective and learner-valued goal
 

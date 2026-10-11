@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](revision-hotspots-multi-step-block-heavy-modification.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — a broader claim this one bears on
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related

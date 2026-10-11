@@ -46,3 +46,4 @@ Descriptive frequency analysis of the review's RQ1/RQ2 subset (N = 155) in the R
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related
 - [In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier](ai-subset-approaches-and-barriers-teacher-education.md) — related
+- [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related

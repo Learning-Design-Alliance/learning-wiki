@@ -40,6 +40,7 @@ The digest recommends that teachers of older adults reduce anxiety and build sel
 
 - [Delay speaking practice and emphasize listening comprehension in adult language training](delay-speaking-emphasize-listening-adults.md)
 - [Address Technology-Related Fears](address_technology-related_fears.md)
+- [Incorporate GenAI-based pronunciation tools to give anxious learners additional low-stakes speaking opportunities outside the classroom](genai-pronunciation-tools-low-stakes-speaking-opportunities.md)
 
 ## Examples
 -

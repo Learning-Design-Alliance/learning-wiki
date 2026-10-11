@@ -48,3 +48,4 @@ Cognitive walkthroughs with 12 undergraduates in Education and Society at U1, an
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed](oms-download-time-barrier.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — reports the opposite
+- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related

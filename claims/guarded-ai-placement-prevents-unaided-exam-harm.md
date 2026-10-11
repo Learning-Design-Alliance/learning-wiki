@@ -57,3 +57,5 @@ The article reports, citing Bastani et al. (2025), a randomized trial of nearly 
 - [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](genai-learning-gain-persists-one-week.md) — reports the opposite
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related
 - [For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods](curriculum-fit-determines-trust-investment.md) — related
+- [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
+- [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related

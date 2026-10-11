@@ -66,3 +66,4 @@ Descriptive within-Coach-condition comparison of assignment rubric scores agains
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
 - [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — related
+- [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related

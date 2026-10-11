@@ -49,3 +49,4 @@ Heterogeneity testing of the pooled effect sizes, supported by a Galbraith plot 
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — a broader claim this one bears on
 - [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — related
+- [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related

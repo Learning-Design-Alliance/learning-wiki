@@ -46,3 +46,4 @@ Pre-registered randomized experiment (N=2,997, Prolific). After practicing, all 
 - [AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors](ai-edits-higher-quality-than-editor-edits.md) — related
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — related
+- [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md) — related

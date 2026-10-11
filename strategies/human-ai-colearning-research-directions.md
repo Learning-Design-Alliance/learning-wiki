@@ -46,6 +46,8 @@ If the observed reversal reflects genuine cognitive reappraisal, the article rec
 - [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
+- [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
+- [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
 
 ## Examples
 -

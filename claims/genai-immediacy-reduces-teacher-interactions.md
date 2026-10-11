@@ -53,3 +53,4 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving](genai-compresses-sysadmin-expertise-pathways.md) — related
 - [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
+- [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — a narrower finding that bears on this claim

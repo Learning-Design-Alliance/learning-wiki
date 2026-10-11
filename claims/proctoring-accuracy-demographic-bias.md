@@ -49,3 +49,4 @@ Ethical-assessment section of the review: "Several studies acknowledged that mod
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
+- [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related

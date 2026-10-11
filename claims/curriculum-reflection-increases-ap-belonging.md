@@ -47,3 +47,4 @@ The brief asserts, in its beware-of guidance on curriculum and pedagogy, that "s
 
 ## Related Claims
 - [Participants noted lack of representation of people of color among teachers and called for workforce diversification](teacher-diversity-representation-matters.md) — related
+- [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — a narrower finding that bears on this claim

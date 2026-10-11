@@ -19,7 +19,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (1 for, 25 mixed) · 15 studies (5 causal, 4 review, 4 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 15 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (2 for, 25 mixed) · 16 studies (5 causal, 5 review, 4 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 16 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Item purification made both DIF methods more sensitive, flagging more items](../claims/item-purification-increases-dif-detection-sensitivity.md) [~M], [the chi-square test for NC-DIF is overly sensitive at large sample sizes](../claims/nc-dif-chi-square-overly-sensitive-large-samples.md) [~M] and [Type I error rates of polytomous DIF indices increase with the number and magnitude of DIF items](../claims/dif-type-i-error-increases-with-dif-items-and-magnitude.md) [~M]: one examination and two simulation reports (`q2`). They show how much a DIF flag depends on analysis choices.
 - [Higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M], [a revised low-stress TBL format produced higher iSAT scores](../claims/low-stress-tbl-higher-isat-scores.md) [~M] and [medical students in the high-stakes TBL format perceived questions as less fair](../claims/high-stakes-tbl-questions-seen-harder-less-fair.md) [~M]: retrieval practice and team-based learning in health-professions courses, carried here only as signs that stakes and anxiety change scores and perceived fairness.
 - [Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI](../claims/map-growth-item-quality-vi-classification.md) [+W] — attached 2026-10-09 from Kang Xue (2022), which proposed "Assess item quality for accessible math tests by checking whether items measure achievement equally well for students with and without visual impairments"; tests this page's relationship.
+- [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](../claims/in-person-proctored-higher-hesi-than-remote.md) [+W] — attached 2026-10-11 from Harerimana A et al. (2026), which proposed "Implement context-sensitive, ethically grounded proctoring policies supported by integrity-by-design assessment approaches"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

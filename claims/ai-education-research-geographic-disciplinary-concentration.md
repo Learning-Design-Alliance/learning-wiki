@@ -46,3 +46,4 @@ Descriptive statistics across the 22 included studies. The review reports region
 - [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — related
+- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — reports the opposite

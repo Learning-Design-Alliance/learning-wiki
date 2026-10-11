@@ -78,3 +78,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — poorly designed hands-on tasks can add extraneous load and undermine the intended benefit.
 - [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

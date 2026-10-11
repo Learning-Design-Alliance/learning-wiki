@@ -49,3 +49,4 @@ The review reports this quantitative descriptive study of 102 university physics
 - [ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference](chatgpt-generated-hdr-problems-equivalent-to-human-created.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy](trust-not-equivalent-to-ai-accuracy.md) — related
+- [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related

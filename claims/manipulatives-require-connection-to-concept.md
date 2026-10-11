@@ -93,3 +93,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related

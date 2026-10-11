@@ -52,3 +52,4 @@ A fact sheet published by Regional Educational Laboratory Mid-Atlantic in July 2
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a narrower finding that bears on this claim
 - [ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3](pltw-implementation-iccsd-covid-slowdown.md) — related
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
+- [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — a narrower finding that bears on this claim

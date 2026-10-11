@@ -50,3 +50,4 @@ Bias-corrected Bootstrap mediation testing in the SEM study (229 valid responses
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](sem-genai-dependence-positive-paths-creativity.md) — related
+- [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
