@@ -47,3 +47,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
+- [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related

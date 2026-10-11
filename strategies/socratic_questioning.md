@@ -64,6 +64,7 @@ Socratic questioning works because generating an answer forces deeper processing
 - [Cold Calling](cold-call.md) — a participation-distribution technique often paired with Socratic sequences
 - [Peer Instruction](../strategies/peer-instruction.md) — replaces instructor questioning with structured peer dialogue around conceptual questions
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
+- [Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap](design-intent-gap-origin-question.md)
 
 ## Examples
 - **Law school "Socratic method"** (Langdell-era tradition at Harvard Law): instructors interrogate students about court cases, probing the facts, holdings, and reasoning to expose doctrinal assumptions.

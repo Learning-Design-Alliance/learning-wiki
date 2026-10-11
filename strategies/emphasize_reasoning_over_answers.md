@@ -65,6 +65,7 @@ Attending to reasoning converts answer-checking into [Self-Explanation](../eleme
 - Emphasizing reasoning pairs naturally with error-based learning: diagnosing incorrect worked examples is its most structured enactment
 - Works alongside formative assessment practices, since eliciting reasoning *is* formative evidence gathering
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
+- [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
 
 ## Examples
 - **Erroneous-example routine**: a teacher projects a solved equation with a sign error and asks, "Find the step where this went wrong, and convince your neighbor." Students must locate and justify the error before any correct solution appears.

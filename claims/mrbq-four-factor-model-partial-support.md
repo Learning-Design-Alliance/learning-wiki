@@ -49,3 +49,4 @@ Exploratory principal component analysis of all MRBQ items from 365 Flemish juni
 - [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — a narrower finding that bears on this claim
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — a narrower finding that bears on this claim
 - [Exploratory factor analysis indicates a four-factor solution best fits the survey response data](efa-four-factor-solution-best-fit.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related

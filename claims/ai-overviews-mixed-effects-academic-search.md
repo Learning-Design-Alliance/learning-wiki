@@ -47,3 +47,4 @@ A within-subjects user study in a social science academic search engine compared
 
 ## Related Claims
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Transparency features are shown but seldom consulted: cited sources in AI summaries were clicked in only 1% of visits](passive-transparency-seldom-consulted.md) — related

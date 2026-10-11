@@ -47,3 +47,4 @@ Cognitive engagement results from the efficacy verification section of the quasi
 - [Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance](intrinsic-motivation-gains-not-significant-all-modalities.md) — related
 - [Robot-assisted storytelling produces statistically significant pre-post improvement in behavioural engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-behavioural-engagement-gain.md) — related
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related
+- [The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study](course-completion-walking-context-only.md) — related

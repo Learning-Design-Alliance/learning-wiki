@@ -48,3 +48,4 @@ Within-subjects experiment (26 dyads); t-test on feedback uptake, operationalize
 - [No order effect of condition sequence on any dependent measure in the within-subjects design](propact-no-order-effect-dependent-variables.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
+- [Tutors' feedback uptake did not differ significantly between automated and learner feedback](feedback-uptake-no-significant-difference.md) — related

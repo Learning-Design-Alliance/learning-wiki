@@ -47,3 +47,4 @@ Conceptual argument in Section 1.3, citing prior research on AI enhancing person
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving](unique-graphs-source-of-innovation.md) — related
+- [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related

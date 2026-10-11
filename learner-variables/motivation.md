@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (80 for, 21 mixed, 13 against) · 100 studies (28 associational, 27 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 16 of 100 report an effect size · 107 claims rest on one study
+> **Evidence** · 119 claims (82 for, 23 mixed, 14 against) · 103 studies (28 associational, 27 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 18 of 103 report an effect size · 112 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -148,6 +148,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](../claims/free-accessible-content-weak-enrollment-motivator-suacode.md) [+M] — learners who differ on it differ in outcomes
 - [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](../claims/suacode-african-students-intrinsically-motivated.md) [+M] — learners who differ on it differ in outcomes
 - [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](../claims/supplynet-higher-engagement-than-baseline.md) [+M] — instruction changes it
+- [KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session](../claims/kbd-no-difference-acceptance-motivation-subjective-learning.md) [-M] — instruction changes it
+- [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](../claims/pe-ee-si-predict-chatgpt-intention-lesotho.md) [+W] — instruction changes it
+- [Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant](../claims/procedural-justice-intrinsic-motivation-within-person.md) [~W] — instruction changes it
+- [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](../claims/trust-intrinsic-motivation-rose-across-waves-invariance-held.md) [~M] — instruction changes it
+- [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](../claims/within-person-fairness-mediates-trust-motivation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

@@ -49,3 +49,4 @@ Quasi-experiment in community college technical mathematics: two teachers each t
 - [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](hourly-exam-differences-trigonometry-not-algebra.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](students-weak-initial-il-skills.md) — related
+- [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related

@@ -65,3 +65,4 @@ Same evidence-tracing analysis noting that despite a mean retrieval score of 0.8
 - [Standard semantic retrieval alone does not reliably recover the pedagogically required chunk types, with comparison chunks retrieved worst (14.3% on the real corpus)](semantic-retrieval-insufficient-pedagogical-content.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
+- [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related

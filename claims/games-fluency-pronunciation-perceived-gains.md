@@ -45,3 +45,4 @@ Content analysis of student interview responses (Table 3, benefits theme) showed
 ## Related Claims
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related
 - [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related
+- [Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student](free-response-improvement-labels-by-format.md) — related

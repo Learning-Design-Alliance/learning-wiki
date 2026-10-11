@@ -46,3 +46,4 @@ Narration fields extracted from generated scripts were independently scored by G
 - [Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science](expert-evaluation-pivot-outperforms-baseline.md) — related
 - [PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics](pivot-best-automatic-video-quality-scores.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related

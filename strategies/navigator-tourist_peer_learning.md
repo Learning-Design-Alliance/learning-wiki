@@ -61,9 +61,11 @@ The strategy works through two mechanisms that operate in opposite directions fo
 8. Rotate roles periodically so tourists gain teaching experience and navigators receive support ([Fading](../elements/fading.md) of the role structure).
 
 ## Related Strategies
+
 - [Reciprocal role structures](peer-tutoring.md) — rotating the navigator/tourist roles converts one-way tutoring into mutual teaching
 - Think-Pair-Share — a lighter-weight peer structure that can precede formal navigator-tourist pairing
 - Cross-age tutoring programs (e.g., Reading Recovery–style buddy reading) — the same mechanism across grade levels
+- [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core activity navigators perform

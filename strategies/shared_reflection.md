@@ -60,9 +60,11 @@ Shared reflection converts reflection from an individual metacognitive act into 
 5. **Act on the reflection.** Adjust grouping, pacing, or reteaching based on what was shared, and revisit prior reflections at the next round so students see continuity [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — gradually release responsibility for prompting from teacher to students as the routine matures.
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a private one-to-one variant serving the same reflective function for students who cannot yet share publicly
 - [Active Listening](../strategies/active-listening.md) — the peer skill that makes shared reflection a genuine exchange rather than serial monologue
 - [Check-In](../elements/check-in.md) — the shorter, affect-focused cousin often used to open a shared reflection session
+- [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education) "Crew" meetings** — regular structured circles in which students share academic progress and struggles, with peers offering support; a core routine in EL Education network schools (https://eleducation.org).

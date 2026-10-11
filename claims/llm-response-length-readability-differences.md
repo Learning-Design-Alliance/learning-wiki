@@ -48,3 +48,4 @@ Descriptive analysis of responses from the three originally fine-tuned models (T
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
 - [Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation](aicofe-llm-finetuning-training-results.md) — related
 - [Verbosity preference is associated with systematic variation in LLM response length](verbosity-preference-response-length.md) — related
+- [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related

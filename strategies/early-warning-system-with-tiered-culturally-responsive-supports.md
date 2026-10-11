@@ -40,6 +40,7 @@ The report recommends that Arkansas integrate the studied indicators into an ear
 
 - [Use Early Warning Indicator (EWI) and Multi-Tiered Systems of Support (MTSS) for continuous improvement](ewi-mtss-continuous-improvement-systems.md)
 - [Raise student awareness of requirement flexibility and support options for meeting CCR graduation requirements](raise-awareness-ccr-flexibility-options.md)
+- [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 
 ## Examples
 -

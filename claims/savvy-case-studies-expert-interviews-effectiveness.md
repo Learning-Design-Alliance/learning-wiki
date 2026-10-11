@@ -44,3 +44,4 @@ Qualitative evaluation described in the introduction: two case studies conducted
 
 ## Related Claims
 - [A multimodal EEG-fNIRS dataset was collected from 31 participants watching three instructional videos, yielding over 4.5 million data points with expert-verified attention labels](eeg-fnirs-dataset-31-participants-attention-labels.md) — related
+- [Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)](expert-review-six-cross-case-themes.md) — related

@@ -47,3 +47,4 @@ Self-report survey after the first three assignments with 30 complete responses:
 - [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — related
 - [87.8% of surveyed students in the introductory OOP course had used AI assistants in the course at least once](most-students-used-ai-assistants-oop-course.md) — related
 - [Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time](monitoring-relies-on-interaction-records-single-point-attitudes.md) — related
+- [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related

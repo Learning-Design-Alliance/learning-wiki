@@ -75,3 +75,4 @@ Review synthesis of feedback mechanisms across included studies. The authors sta
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related
 - [Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation](teacher-roles-automation-boundary.md) — related
+- [Because learner feedback was positively skewed, tutors used automated feedback as a self-monitoring tool for improvement and reassurance](automated-feedback-self-monitoring-tool.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of hourly activity counts (one count per unique student-hou
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
 - [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](syntea-usage-declines-older-cohorts.md) — related
 - [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
+- [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — reports the opposite

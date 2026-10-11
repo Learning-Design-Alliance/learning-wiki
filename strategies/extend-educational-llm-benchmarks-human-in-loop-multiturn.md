@@ -41,6 +41,7 @@ The authors recommend several concrete next steps for educational LLM benchmarki
 
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Pair a contamination-resistant static benchmark core with a learner-in-the-loop layer for next-generation education evaluation](learner-in-the-loop-next-benchmark.md)
+- [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
 
 ## Examples
 -

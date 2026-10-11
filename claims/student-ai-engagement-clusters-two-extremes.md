@@ -52,3 +52,4 @@ Observational synthesis of the authors' multi-year instructional practice with s
 - [A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use](awareness-behaviour-gap-genai-integrity.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
+- [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related

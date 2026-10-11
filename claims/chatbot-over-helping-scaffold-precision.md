@@ -64,3 +64,4 @@ For Study 2, the chatbot was supplied with the classified knowledge component an
 ## Related Claims
 - [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](students-rarely-ask-specific-questions.md) — related
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](question-specificity-rises-over-socratic-ai-dialogue.md) — related
+- [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — a broader claim this one bears on

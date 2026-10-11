@@ -68,6 +68,7 @@ Mastery learning rests on the assumption that most learners can reach high stand
 - [Self-Paced Learning](../elements/self-paced-learning.md) — the pacing model mastery progression typically requires
 - [Exit students from tutoring once they consistently read at the average level for their grade](exit-tutoring-at-grade-level-consistency.md)
 - [Gate sensitive simulated-patient content behind an accumulated-skill threshold with constraint-first prompting](avp-content-gating-strategy.md)
+- [Detect high-friction topics and add extra scaffolding there rather than weakening the weekly gate](extra-scaffolding-high-friction-topics.md)
 
 ## Patterns That Use This Strategy
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery progression is the advancement mechanism

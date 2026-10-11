@@ -45,6 +45,8 @@ The article proposes a "Collaborative Human-AI Revision Design" that systematica
 - [Process Writing Workshop](process-writing-workshop.md)
 - [Peer Revision](peer_revision.md)
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
+- [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
+- [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 
 ## Examples
 -

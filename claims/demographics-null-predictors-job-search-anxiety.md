@@ -46,3 +46,6 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
 - [AI anxiety predicts job search anxiety after controlling for socio-demographic variables](ai-anxiety-predicts-job-search-anxiety-beyond-demographics.md) — related
 - [Income status negatively and educational level positively predict job search anxiety](income-education-predict-job-search-anxiety.md) — reports the opposite
+- [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related
+- [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — reports the opposite
+- [Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes](social-science-students-higher-job-finding-anxiety.md) — related

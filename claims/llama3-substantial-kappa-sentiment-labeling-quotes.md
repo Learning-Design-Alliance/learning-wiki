@@ -50,3 +50,4 @@ Stage 4 reliability analysis comparing the first author's sentiment labels with 
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — related
 - [Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral](llm-affective-label-bias-neutral-statements.md) — related
 - [LLM-assisted sentiment labeling processed quotes roughly two to three times faster than human labeling and ran continuously without cognitive fatigue](llm-sentiment-labeling-efficiency-gain.md) — related
+- [The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews](star-label-rule-kappa-066-82-percent.md) — related

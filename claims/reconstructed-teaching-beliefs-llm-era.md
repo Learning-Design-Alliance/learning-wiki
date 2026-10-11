@@ -1,0 +1,49 @@
+---
+type: claim
+title: Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
+description: Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
+id: reconstructed-teaching-beliefs-llm-era
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: jennie-ren-2026
+    resource: "https://arxiv.org/abs/2607.22463"
+    title: "Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463"
+    author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
+    q: 2
+    i: "?"
+---
+
+# Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` Educators reconsidered assessment designs evaluating reasoning in addition to final code, explicit debugging instruction focused on the reasoning behind errors, and active learning practices such as live coding, active recall, and code-output prediction. [→ Jennie Ren 2026](#jennie-ren-2026)
+
+## Evidence
+
+### Jennie Ren 2026
+
+Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
+
+`q2 · i?`
+
+Qualitative analysis of educator reflective reconstruction (Stage 3): the student's difficulty explaining why AI-generated code worked while personal code failed prompted reconsideration of debugging instruction, assessment, and active learning opportunities. No effect sizes reported.
+
+> "Instead of only focusing on fixing errors... they also need to understand the source, the reason behind the errors."
+
+## Discussion
+
+
+## Related Claims
+- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
+- [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
+- [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](student-reflections-buggy-genai-learning-benefits.md) — related
+- [Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair](proficiency-assessment-predicts-fix-success.md) — related
+- [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related

@@ -45,3 +45,4 @@ Evaluation of all 179 AlgoRAG responses against instructor reference answers fou
 ## Related Claims
 - [AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620](algorag-100-success-179-tcs-questions.md) — a broader claim this one bears on
 - [Per-topic performance varied: NP-completeness scored highest ROUGE-1 F1 (0.1285), sorting algorithms highest pedagogical quality (0.8250), and recurrence relations lowest pedagogical quality (0.6629)](algorag-topic-specific-performance-variation.md) — related
+- [The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests](proof-heavy-topics-strained-artifacts-requested.md) — related

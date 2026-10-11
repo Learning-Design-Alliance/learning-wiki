@@ -60,9 +60,11 @@ Travel journals work because they force elaborative encoding: translating experi
 6. **Close the loop**: use the final journal as the basis for a self-assessment or portfolio reflection, connecting the record to [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
+
 - [Learning Logs](learning-logs.md) — a leaner, more frequent variant focused on a single prompt per session
 - [Field Journals](field-journals.md) — the discipline-specific ancestor used in natural science and art education
 - [Exit Tickets](exit-ticket.md) — a single-session snapshot that can feed into the journal's longer arc
+- [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
 - **Study-abroad programs** commonly require travel journals combining cultural observation sketches with reflective prose; structured prompts about cultural assumptions turn sightseeing into intercultural learning [~M]

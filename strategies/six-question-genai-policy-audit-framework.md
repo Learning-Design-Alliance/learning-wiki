@@ -45,6 +45,7 @@ The article proposes a six-question framework institutions can use to draft and 
 
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use](layered-workplace-genai-assessment-battery.md)
+- [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 
 ## Examples
 -

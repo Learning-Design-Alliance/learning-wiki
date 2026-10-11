@@ -46,3 +46,4 @@ The review's analysis of challenge-theme distribution by agent type (RQ2), obser
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
+- [Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming](review-operational-teaming-most-common-no-synergistic.md) — related

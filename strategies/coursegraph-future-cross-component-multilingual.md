@@ -37,7 +37,8 @@ The authors outline extensions to CourseGraph in the discussion. They state that
 - accurate cross-institution course equivalence assessment
 
 ## Related Strategies
-- 
+
+- [Extend the alignment framework to machine translation evaluation and cross-lingual summarization, with recalibrated λ](extend-alignment-to-mt-and-cross-lingual-evaluation.md)
 
 ## Examples
 -
