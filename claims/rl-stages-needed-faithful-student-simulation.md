@@ -49,3 +49,4 @@ Ablation study on one data split (Table 2) varying training stages and profile i
 - [ProfileRL outperforms prompting and fine-tuning baselines on turn-level student simulation, with statistically significant gains on Acts, Correctness, and Errors](profilerl-outperforms-student-simulation-baselines.md) — related
 - [Removing the DPO objective reduces examination accuracy by 1.11 percentage points and degrades annotated pedagogical quality](dpo-training-contributes-accuracy-and-pedagogical-tone.md) — related
 - [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) — related
+- [SFT with simulated children's reading errors yields higher LM-PPL than other experiments, driven by brevity and post-story irrelevant content](simulated-errors-experiment-higher-lm-ppl.md) — related

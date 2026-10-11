@@ -97,3 +97,4 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [Praise focused on global intelligence has negative effects on future learning behavior compared with praise about effort](intelligence-praise-versus-effort-praise-effects.md) — possibly the same claim (merge candidate)
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related

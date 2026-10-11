@@ -48,3 +48,4 @@ PLS-SEM path tests in the 689-student survey. The quote reports the significant 
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](feedback-quality-motivation-mediated-srl-path.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
+- [In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention (β = 0.02, p = .896)](satisfaction-mediates-agent-use.md) — related

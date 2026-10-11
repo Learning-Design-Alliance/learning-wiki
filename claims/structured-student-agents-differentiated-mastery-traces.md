@@ -52,3 +52,5 @@ Preliminary controlled lesson study reported in the paper's overview of results,
 - [Expert evaluation finds larger, more capable LLM backbones produce higher-quality multi-domain graphs, with GPT-5 pro rated best](llm-backbone-graph-quality-expert-evaluation.md) — related
 - [EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction](educasim-llm-oracle-multi-agent-speaker-selection.md) — related
 - [The investigate–solve–write scaffold, with personalization disabled, improves all five backbone model families on general agentic benchmarks, with average relative gains of 25.69%–32.03%](solver-scaffold-transfers-general-agentic-problem-solving.md) — related
+- [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related
+- [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related

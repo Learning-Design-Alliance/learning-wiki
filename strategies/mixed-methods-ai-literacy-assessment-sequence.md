@@ -50,6 +50,7 @@ The article recommends combining validated self-report instruments with performa
 - [Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks](critical-engagement-tasks-with-ai-generated-content.md)
 - [Explore hybrid assessment models combining AI conversational agent-based and face-to-face formats, with long-term study of effects on performance and well-being](hybrid-ai-and-face-to-face-assessment-models.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 
 ## Examples
 -

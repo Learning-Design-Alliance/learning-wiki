@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 15 studies (5 causal, 5 review, 2 quant-synthesis, 2 qualitative, 1 theoretical), `q2`–`q4` · 2 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (5 causal, 5 review, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -82,6 +82,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](../claims/four-qualitative-themes-genai-practice-feedback.md) [+W] — attached 2026-10-11 from Lili Chen et al. (2026), which proposed "Decouple feedback immediacy from solution verification: keep the human in the loop upstream at answer verification, not at the point of grading".
 
 ## Objective and learner-valued goal
 

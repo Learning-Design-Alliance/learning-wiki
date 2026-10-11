@@ -49,3 +49,4 @@ ITT analysis of course deliverables in Microeconomics (Table 6) and Government (
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
 - [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](chatbot-quantile-effects-middle-distribution.md) — related
+- [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related

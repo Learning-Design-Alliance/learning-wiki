@@ -42,6 +42,7 @@ The article recommends that future research on GenAI as tutoring systems should 
 ## Related Strategies
 
 - [Embed pedagogical guardrails in the generation pipeline to counter cognitive offloading from friction-minimizing generative AI](pedagogical-guardrails-against-cognitive-offloading.md)
+- [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
 
 ## Examples
 -

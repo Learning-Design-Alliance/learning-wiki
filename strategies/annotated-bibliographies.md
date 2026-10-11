@@ -60,9 +60,11 @@ Annotated bibliographies work because they force generative engagement with text
 6. Connect forward: require each learner to cite at least some annotated sources in the subsequent product, closing the loop.
 
 ## Related Strategies
+
 - [Literature Reviews](../strategies/literature_reviews.md) — the annotated bibliography is a scaffolded precursor; annotations become the raw material for synthesis
 - [Jigsaw Reading](jigsaw-reading.md) — distributes source reading across a group, with annotations as the sharing mechanism
 - [Citation Chaining](../strategies/citation_chaining.md) — a discovery method learners can apply while building the bibliography
+- [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 
 ## Examples
 - **First-year composition courses** commonly assign annotated bibliographies before a researched argument essay; the annotations serve as drafting notes and force early engagement with sources rather than last-minute citation stuffing.

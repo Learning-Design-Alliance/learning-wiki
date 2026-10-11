@@ -48,6 +48,7 @@ The article prescribes concrete ethical boundaries for GAI use within LEARN-info
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
 - [Define and Apply Ethical Responsibility](define_and_apply_ethical_responsibility.md)
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
+- [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 
 ## Examples
 -

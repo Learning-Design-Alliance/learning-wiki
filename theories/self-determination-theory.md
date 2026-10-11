@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 7 studies (2 review, 2 theoretical, 1 causal, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 8 studies (2 review, 2 associational, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 2 of 8 report an effect size · 7 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -64,6 +64,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](../claims/chatgpt-autonomy-self-directed-learning.md) [+W] — attached 2026-10-10 from Annamalai N et al. (2026), which proposed "AI-mediated motivational ecology: an extension of Self-Determination Theory in which basic psychological needs are partly met through AI interaction".
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](../claims/perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) [+W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](../claims/competence-predicts-autonomous-motivation-not-autonomy-support.md) [~W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
+- [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](../claims/three-sdt-motivational-profiles-ai-learning.md) [+W] — attached 2026-10-11 from Liang et al. (2026), which proposed "SDT-based five-indicator operationalization of AI learning motivation".
 
 ## Related Theories
 

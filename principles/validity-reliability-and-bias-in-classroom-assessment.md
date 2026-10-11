@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (42 for, 17 mixed, 2 against) · 47 studies (16 associational, 9 review, 9 design, 7 theoretical, 5 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 47 report an effect size · 60 claims rest on one study
+> **Evidence** · 65 claims (46 for, 17 mixed, 2 against) · 50 studies (17 associational, 10 design, 9 review, 8 theoretical, 5 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 50 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,10 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)](../claims/rag-systematic-leniency-overscoring.md) [-W] — attached 2026-10-11 from Baicheng Lin et al. (2026), which proposed "Use LLM scoring of open-ended music analyses as a supplementary human-in-the-loop tool with strategy-specific calibration and dimension-level validation"; tests this page's relationship.
 - [Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)](../claims/strategy-specific-bias-profiles.md) [-W] — attached 2026-10-11 from Baicheng Lin et al. (2026), which proposed "Use LLM scoring of open-ended music analyses as a supplementary human-in-the-loop tool with strategy-specific calibration and dimension-level validation"; tests this page's relationship.
 - [LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies](../claims/dimension-specific-scoring-reasoning-strongest-terminology-weakest.md) [+W] — attached 2026-10-11 from Baicheng Lin et al. (2026), which proposed "Use LLM scoring of open-ended music analyses as a supplementary human-in-the-loop tool with strategy-specific calibration and dimension-level validation"; tests this page's relationship.
+- [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [+W] — attached 2026-10-11 from Grace Li (2026), which proposed "Shift integrity governance from detection to assessment design".
+- [LLM-based essay grading is not fully reproducible: repeated ChatGPT sessions on the same submissions show only moderate consistency (Krippendorff's alpha 0.625)](../claims/llm-grading-session-variability-limited-reproducibility.md) [+W] — attached 2026-10-11 from Brevik A et al. (2026), which proposed "Use LLMs as supervised grading assistants rather than autonomous graders for essay-style exams"; tests this page's relationship.
+- [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](../claims/chatgpt-thinking-mode-strongest-human-grading-agreement.md) [+W] — attached 2026-10-11 from Brevik A et al. (2026), which proposed "Use LLMs as supervised grading assistants rather than autonomous graders for essay-style exams"; tests this page's relationship.
+- [LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions](../claims/llm-self-detection-task-dependent.md) [+W] — attached 2026-10-11 from Juho Leinonen (2026), which proposed "Do not treat LLM-based detection as a standalone evidence source for academic integrity decisions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

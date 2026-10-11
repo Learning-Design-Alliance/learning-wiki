@@ -50,3 +50,4 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](mixed-srl-strategy-interventions-greatest-impact.md) — related
 - [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) — related
+- [Underexplored PEA configurations center on participation support, AI literacy, and content generation, with two theme-level combinations absent from the corpus](underexplored-pea-configurations-participation-literacy-content-generation.md) — related

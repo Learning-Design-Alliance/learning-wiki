@@ -47,3 +47,4 @@ Consultation with 14 experienced online supervisors (from 23 invited across 16 P
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related
 - [Staff qualifications, ideology, and self-sufficiency were the major determinants of success in surveyed youth-serving institutions](staff-ideology-self-sufficiency-determine-institution-success.md) — related
+- [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related

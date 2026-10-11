@@ -48,3 +48,4 @@ Results evaluation of Gemma 4 26B on the 3,702-response test set. Table 1 prints
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
 - [Including a mark scheme in the prompt does not change misconception detection but significantly reduces false positives against correct-reasoning students](mark-scheme-reduces-false-positives.md) — related
 - [Fine-tuned classifiers detect only about 57% of correct-answer misconceptions despite near-perfect wrong-answer classification](fine-tuned-classifiers-miss-correct-answer-misconceptions.md) — related
+- [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related

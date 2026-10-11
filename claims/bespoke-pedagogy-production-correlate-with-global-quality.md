@@ -50,3 +50,4 @@ weaker (𝜌= 0.46)"
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related
 - [Safety and Trustworthiness is strongly anti-correlated with Basic Education across the nine evaluated models (r = −0.83)](safety-basic-education-anticorrelation.md) — related
+- [Policy and enforcement counts were not strongly associated across systems](policy-enforcement-counts-not-associated.md) — related

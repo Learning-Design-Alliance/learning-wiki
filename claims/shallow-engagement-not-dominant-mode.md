@@ -50,3 +50,4 @@ Authors' interpretation of the session-level clustering results, in which shallo
 - [Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor](selectivity-engagement-quality-differences.md) — related
 - [STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement](stem-nonstem-engagement-differences.md) — related
 - [Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types](shallow-engagement-persists-deep-flexible.md) — related
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — reports the opposite

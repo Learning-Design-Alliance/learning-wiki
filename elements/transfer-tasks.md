@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 9 studies (5 causal, 2 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -53,7 +53,8 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions](../claims/dp-grades-uncorrelated-with-project-grades.md) [~W] — attached 2026-10-11 from Ahmad D. Suleiman et al. (2026), which proposed "Design problems (DPs): concise scenario-based transfer prompts for assessing higher-order thinking in PjBL"; tests this page's relationship.
+- [Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope](../claims/llm-dp-quality-failure-modes.md) [+W] — attached 2026-10-11 from Ahmad D. Suleiman et al. (2026), which proposed "Design problems (DPs): concise scenario-based transfer prompts for assessing higher-order thinking in PjBL".
 
 ## Related Elements
 - [Practice](practice.md) — transfer tasks are the most demanding form of practice; they follow, not replace, skill-building practice

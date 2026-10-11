@@ -44,3 +44,4 @@ Same in-class survey: after each lecture segment students guessed on a 7-point s
 - [Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses](quality-rating-negative-ai-guess-correlation.md) — related
 - [Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course](students-rate-ai-slides-similar-quality.md) — related
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — a broader claim this one bears on
+- [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related

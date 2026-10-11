@@ -47,3 +47,4 @@ The article's own position argument in the introduction, offered without new dat
 - [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related
 - [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
 - [Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves)](students-avoid-ai-declarations-fearing-consequences.md) — related
+- [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related

@@ -46,3 +46,4 @@ Bibliographic coupling analysis of 724 organizer publications filtered by OpenAl
 - [Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages](coauthorship-network-six-communities.md) — related
 - [Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups](workshop-papers-bridge-researcher-groups.md) — related
 - [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](seernet-dlps-over-100000-regular-users.md) — related
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](policy-multilabel-concentrated-constraints-scaffolding-personalization.md) — related

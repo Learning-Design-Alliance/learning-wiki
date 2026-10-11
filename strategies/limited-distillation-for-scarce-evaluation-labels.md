@@ -38,7 +38,8 @@ When labeled data for a specialized evaluation task is scarce, the authors gener
 - Building reliable automated evaluators of AI tutor pedagogical quality when expert-labeled data is limited
 
 ## Related Strategies
-- 
+
+- [Generate synthetic negative explanations with a small language model to balance imbalanced educational scoring datasets](synthetic-negative-examples-llm-dataset-balancing.md)
 
 ## Examples
 -

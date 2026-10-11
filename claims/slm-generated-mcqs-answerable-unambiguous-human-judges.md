@@ -45,3 +45,4 @@ Human evaluation study: seven middle-school science teachers answered 64 MCQs ge
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other](phi2-answers-align-with-human-experts.md) — a narrower finding that bears on this claim
 - [Raising the answer-confidence threshold reduces the number of retained MCQs but substantially improves their quality](answer-confidence-threshold-trades-quantity-for-quality.md) — related
+- [Human review judged 98.3% of sampled synthetic items aligned with their intended NGSS standards, with no incorrect reference answers](human-review-983-percent-ngss-alignment.md) — related

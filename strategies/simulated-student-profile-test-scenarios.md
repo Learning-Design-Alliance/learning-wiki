@@ -40,6 +40,7 @@ PromptDecipher directs teachers to a test environment consisting of "a simulated
 
 - Publication Gated Qa Workflow
 - [Future directions: auto-generate edge-case test scenarios and integrate learning-science guidance into AI tutor authoring](future-ai-tutor-authoring-edge-cases-and-learning-science-guidance.md)
+- [Scenario-guided, conversation-level expert evaluation of AI tutors in three stages](scenario-guided-conversation-level-ai-tutor-evaluation.md)
 
 ## Examples
 -

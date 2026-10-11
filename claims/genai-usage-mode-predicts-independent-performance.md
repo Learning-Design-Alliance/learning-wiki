@@ -51,3 +51,5 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related
 - [The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each](ai-equalizing-effect-through-content-and-writing.md) — related
+- [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](majority-use-ai-for-direct-answers.md) — related
+- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — possibly the same claim (merge candidate)

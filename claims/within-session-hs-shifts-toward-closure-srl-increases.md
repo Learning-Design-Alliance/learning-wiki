@@ -73,3 +73,5 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
+- [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
+- [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](scaffolding-varies-by-request-and-assignment.md) — related

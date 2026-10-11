@@ -45,3 +45,5 @@ Pilot study questionnaire findings following the structured demonstration of Bea
 ## Related Claims
 - [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](pilot-students-perceive-rag-responses-course-aligned.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Both LLM rewrite styles were rated less authoritative than standard interpreter messages](llm-rewrites-rated-less-authoritative.md) — related
+- [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related

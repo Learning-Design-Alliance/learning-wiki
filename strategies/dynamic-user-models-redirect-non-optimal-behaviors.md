@@ -41,7 +41,8 @@ The article recommends embedding dynamic user models that monitor students' inte
 - [Dynamical Systems Theory Its Behavior](../research-methods/dynamical-systems-analysis-of-intelligent-tutoring-system-process-data.md)
 
 ## Related Strategies
-- 
+
+- [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 
 ## Examples
 -

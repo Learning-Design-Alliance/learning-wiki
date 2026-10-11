@@ -50,3 +50,4 @@ Qualitative analysis of workshop metaphors. Beneath the dread was fear of GenAI 
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related
 - [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](metaphor-workshops-support-genai-sensemaking.md) — a broader claim this one bears on
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
+- [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related

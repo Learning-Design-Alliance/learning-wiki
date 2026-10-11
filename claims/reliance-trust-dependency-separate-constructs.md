@@ -70,3 +70,5 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related
 - [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — related
+- [Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions](evt-beliefs-predict-reliance-intensity.md) — related
+- [Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality](strategic-users-score-lowest-outcome-measures.md) — related

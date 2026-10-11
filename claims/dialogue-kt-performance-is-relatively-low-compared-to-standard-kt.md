@@ -73,3 +73,4 @@ Authors' explanation of the low performance, not a tested result: "student behav
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
 - [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related
+- [Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface](differential-observability-learner-attributes-dialogue.md) — related

@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (25 for, 2 mixed, 1 against) · 17 studies (5 qualitative, 4 theoretical, 3 causal, 3 review, 1 associational, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (25 for, 3 mixed, 1 against) · 18 studies (5 qualitative, 4 causal, 4 theoretical, 3 review, 1 associational, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 29 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -87,6 +87,7 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](../claims/students-prefer-hybrid-ai-instructor-feedback.md) [+W] — attached 2026-10-11 from Reza Farzi (2026), which proposed "Use generative AI to supplement, not replace, instructor feedback in academic writing instruction".
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](../claims/its-applications-augment-not-transform.md) [+W] — attached 2026-10-11 from Ogunsakin IB et al. (2026), which proposed "Deploy ITSs as human-guided instructional resources with teacher mediation, not as autonomous replacements for teachers".
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](../claims/ai-thinking-partners-support-problem-exploration.md) [+W] — attached 2026-10-11 from Jinhee Kim et al. (2026), which proposed "Design PF-supporting AI to ask questions and foster comparison rather than supply correct solutions".
+- [Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)](../claims/gpt-output-effect-depends-on-prior-knowledge-and-domain.md) [~M] — attached 2026-10-11 from Markos Stamatakis et al. (2026), which proposed "Integrate LLM-generated answers into assessment and study settings carefully, since their effect on performance depends on task domain and learners' prior knowledge"; tests this page's relationship.
 
 ## Related Principles
 

@@ -45,6 +45,7 @@ During DBR refinement, when students "relied heavily on AI-generated responses a
 
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Embed metacognitive scaffolds in GenAI search systems — prompting sub-question formulation, guiding output comparison, and encouraging reflection on AI-user knowledge discrepancies](genai-metacognitive-scaffolds-for-laziness.md)
+- [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 
 ## Examples
 -

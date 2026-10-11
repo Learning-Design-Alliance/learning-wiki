@@ -38,7 +38,8 @@ The article's envisioned practical use of the pipeline: converting passively log
 - targeting prerequisite review
 
 ## Related Strategies
-- 
+
+- [Use support-level filtering across cohorts to separate persistent from cohort-specific challenging topics](support-level-filtering-persistent-topics.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Narrative synthesis of the reviewed corpus: the review attributes the engagement
 - [A structured narrative synthesis of GenAI/AI in STEAM education screened 107 records and included 15 sources in the reviewed corpus](genai-steam-review-15-source-corpus.md) — related
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — a narrower finding that bears on this claim
+- [LLM-based systems mediated family education through four recurring forms: producing materials, structuring dialogue, interpreting context, and connecting to external knowledge and values](four-forms-llm-mediation-family-education.md) — related

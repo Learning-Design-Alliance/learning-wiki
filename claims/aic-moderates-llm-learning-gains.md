@@ -69,3 +69,5 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — reports the opposite
 - [Extending mandated daily study time from three to four hours produces no significant performance gains for novices](extra-time-on-task-no-gain-novices.md) — related
+- [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
+- [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](learning-behavior-attenuates-profile-score-differences.md) — related

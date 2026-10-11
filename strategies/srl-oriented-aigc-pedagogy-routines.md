@@ -49,6 +49,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 - [Use the five GAA-LS subscales to target instruction and make AI-related assessment expectations visible in assessment briefs](gaa-ls-informs-targeted-teaching-and-transparent-assessment-design.md)
 - [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](ai-as-guided-support-tool-build-verification.md)
+- [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
 
 ## Examples
 -

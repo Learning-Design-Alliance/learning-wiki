@@ -46,3 +46,4 @@ Numerical result of the generate-then-refine UI generation phase, given validate
 - [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
 - [Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX](expert-rating-40-requests-86-percent-acceptance.md) — related
 - [Improvement across critique axes during iterative UI generation is not monotonic](non-monotonic-improvement-across-critique-axes.md) — related
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related

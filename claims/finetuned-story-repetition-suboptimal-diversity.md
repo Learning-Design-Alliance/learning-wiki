@@ -1,0 +1,46 @@
+---
+type: claim
+title: Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives
+description: Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives
+id: finetuned-story-repetition-suboptimal-diversity
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: qian-shen-2026
+    resource: "https://arxiv.org/abs/2605.13709"
+    title: "Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709"
+    author: Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` Self-BLEU scores for most generated story datasets indicate suboptimal diversity, with recurring entities such as Sam, Pam, mats, pigs, and farm reappearing across narratives. [→ Qian Shen 2026](#qian-shen-2026)
+
+## Evidence
+
+### Qian Shen 2026
+
+Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite. (2026). Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety. https://arxiv.org/abs/2605.13709
+
+`q2 · i?` · `design · r2`
+
+Self-BLEU analysis in the Results section over every 1,290 stories per LLM per experiment found "suboptimal diversity", with recurring names, animal names, locations, and activities observed on inspection.
+
+> "As shown in Table 1, for most generated story datasets (every 1,290 stories per LLM in each experiment), these scores indicate suboptimal diversity. Upon inspection of the generated stories, we observed the recurrence of certain names, animal names, locations, and activities across multiple narratives."
+
+## Discussion
+
+
+## Related Claims
+- [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related

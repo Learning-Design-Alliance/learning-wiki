@@ -45,3 +45,4 @@ Instructor feedback across classroom deployments in the Outcomes section: instru
 ## Related Claims
 - [FORAP-packaged projects were deployed in 44 classroom trials across seven universities over four academic years, reaching about 2,000 students](forap-44-classroom-trials-seven-universities.md) — related
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
+- [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related

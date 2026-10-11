@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 23 studies (9 causal, 6 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (10 for, 5 mixed, 2 against) · 24 studies (9 causal, 6 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +87,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](../claims/manual-adaptation-slightly-superior-automatic-adaptive-training.md) [+W]
 - [System compensation as implemented is not a satisfactory adaptive variable](../claims/system-compensation-unsatisfactory-adaptive-variable.md) [+W]
 - [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](../claims/rl-reward-misalignment-failure-modes.md) [~W] — attached 2026-10-10 from Tripathi et al. (2026), which proposed "Adaptive system optimization targets must be aligned with learning, not just performance".
+- [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](../claims/questioning-benefit-decays-with-impasse-depth.md) [+W] — attached 2026-10-11 from Ahtisham et al. (2026), which proposed "Design LLM tutors for graduated, state-sensitive assistance that adapts support to impasse persistence rather than treating answer withholding as a fixed policy"; tests this page's relationship.
+- [After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error](../claims/repeating-scripted-question-lowers-recovery.md) [+W] — attached 2026-10-11 from Ahtisham et al. (2026), which proposed "Design LLM tutors for graduated, state-sensitive assistance that adapts support to impasse persistence rather than treating answer withholding as a fixed policy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

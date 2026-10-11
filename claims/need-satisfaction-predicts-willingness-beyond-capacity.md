@@ -48,3 +48,4 @@ Partial correlation analyses in Cycle 2 controlling for all baseline measures, w
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — a broader claim this one bears on
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [The study's findings are context-specific and do not demonstrate AI literacy or learning gains because no baseline measure was collected](no-baseline-literacy-gains-context-specific-findings.md) — related
+- [In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention (β = 0.02, p = .896)](satisfaction-mediates-agent-use.md) — related

@@ -65,3 +65,4 @@ Qualitative evaluation in Section 5.4 of recurring notation substitution: the au
 - [The v6m subscript framework robustly transcribed a wide range of board-written subscript configurations, with stacked-subscript unstacking less reliable](v6m-subscript-framework-robust-transcription.md) — related
 - [Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics](transcription-capability-beyond-introductory-physics.md) — related
 - [The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos](v6m-workflow-16-of-17-validation-passes.md) — related
+- [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related

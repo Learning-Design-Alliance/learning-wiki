@@ -47,6 +47,7 @@ The article recommends positioning AI-assisted observation as a complement to, n
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 
 ## Examples
 -

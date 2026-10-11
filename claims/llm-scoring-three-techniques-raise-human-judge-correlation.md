@@ -45,3 +45,4 @@ Evaluation of three LLM scoring improvements on Alternative Uses Test responses 
 ## Related Claims
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — a narrower finding that bears on this claim
 - [Weighted probabilistic scoring improves LLM-based scoring by considering a broader range of completion possibilities](weighted-probabilistic-scoring-broader-completion-possibilities.md) — possibly the same claim (merge candidate)
+- [Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation](ensemble-majority-vote-modest-gains-no-degradation.md) — a narrower finding that bears on this claim

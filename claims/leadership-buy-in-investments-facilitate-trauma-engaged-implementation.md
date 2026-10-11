@@ -64,3 +64,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
 - [Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams](state-leadership-enables-school-improvement.md) — related
 - [National average school support-staff ratios fall far below recommended levels for psychologists, counselors, and social workers](support-staff-ratios-below-recommended.md) — related
+- [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
