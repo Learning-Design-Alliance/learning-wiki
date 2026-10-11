@@ -42,7 +42,8 @@ The article recommends concrete downstream uses of MEDS for safer AI mathematics
 - [Digital Shadowing Llm Behaviour Framework](../research-methods/digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions.md)
 
 ## Related Strategies
-- 
+
+- [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
 
 ## Examples
 -

@@ -89,3 +89,5 @@ Table 13 ablation introducing total count features; the authors report these "su
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
 - [Of 213 rules induced in Study 1, 16 appeared to add information beyond regression in the training set but 5 seemed to be false alarms on the test set](study1-rules-additional-information-and-false-alarms.md) — related
 - [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — related
+- [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
+- [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related

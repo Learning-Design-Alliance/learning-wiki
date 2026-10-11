@@ -53,3 +53,4 @@ Descriptive country-level mapping of the 39 included studies (RQ1, Fig. 3). The 
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — related
 - [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related
+- [The United States leads publication volume (533) and citation influence on AI ethics in medical education, ahead of China (189) and England (95)](us-leads-ai-medical-education-publications.md) — related

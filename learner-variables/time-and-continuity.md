@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (67 for, 16 mixed, 12 against) · 83 studies (33 causal, 17 associational, 15 review, 8 quant-synthesis, 4 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 83 report an effect size · 91 claims rest on one study
+> **Evidence** · 96 claims (68 for, 16 mixed, 12 against) · 84 studies (33 causal, 17 associational, 15 review, 8 quant-synthesis, 5 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 84 report an effect size · 92 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -128,6 +128,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](../claims/feedback-timing-post-session-debrief-preference.md) [+M] — instruction changes it
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](../claims/students-prefer-continuous-mode.md) [+M] — instruction changes it
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](../claims/layered-feedback-more-tasks-three-plus-submissions.md) [-M] — instruction changes it
+- [Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders](../claims/video-documentation-pause-act-rewind-bottleneck.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

@@ -92,3 +92,4 @@ After building an offline evaluation dataset for the Tutor Me request classifier
 - [Including agent role descriptions improves the classroom Manager Agent's decision precision](role-descriptions-improve-manager-agent.md) — related
 - [The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy](adapted-4b-outpaces-cloud-baselines-on-lexical-semantic-measures.md) — related
 - [SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones](set-nlp-expansion-without-technological-substitution.md) — related
+- [Feedback effectiveness varied by content recency: guidance-heavy feedback performed less consistently on newer material released after the model's knowledge cutoff](content-recency-moderates-feedback-effectiveness.md) — related

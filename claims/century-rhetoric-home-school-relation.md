@@ -44,3 +44,4 @@ A narrative review examining historical rhetoric on the home/school relation. Th
 
 ## Related Claims
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — possibly the same claim (merge candidate)
+- [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related

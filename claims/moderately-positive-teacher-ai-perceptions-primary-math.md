@@ -49,3 +49,4 @@ Descriptive survey phase of an explanatory sequential mixed-methods study with 3
 - [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related
 - [More frequent AI use is strongly associated with more positive AI perception scores across all dimensions, but not causally](ai-use-frequency-associated-perceptions.md) — related
 - [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related
+- [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related

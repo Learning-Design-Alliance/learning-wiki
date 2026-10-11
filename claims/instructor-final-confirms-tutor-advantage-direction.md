@@ -46,3 +46,4 @@ Instructor-administered course assessment on file for all 86 randomized students
 - [A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem](first-session-adoption-problem-free-ai-tutor.md) — related
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related
+- [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](genai-evaluation-null-summative-algorithms.md) — reports the opposite

@@ -46,3 +46,4 @@ Cross-correlation analysis (IBM SPSS Statistics 22, maximum 7 lags) between LMS 
 - [ANN modelling is a usable method for identifying predictors of technology acceptance in educational settings](ann-method-usable-technology-acceptance-studies.md) — related
 - [Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential](ann-utaut-predictors-lms-acceptance-vocational.md) — possibly the same claim (merge candidate)
 - [Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance](demographics-negligible-lms-acceptance.md) — related
+- [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related

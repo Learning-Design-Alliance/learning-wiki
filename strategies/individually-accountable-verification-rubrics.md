@@ -40,6 +40,7 @@ Because test-based verification collapsed in team settings and never fully recov
 
 - [Design rubric criteria and model instructions in observable, verifiable terms with citable evidence requirements](observable-verifiable-rubric-criteria-with-citable-evidence.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
+- [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 
 ## Examples
 -

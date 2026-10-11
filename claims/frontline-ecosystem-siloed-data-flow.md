@@ -50,3 +50,4 @@ Report's ecosystem diagnosis based on the authors' stakeholder analysis: data co
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
 - [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — related
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related

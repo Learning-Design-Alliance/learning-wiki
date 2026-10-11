@@ -50,3 +50,4 @@ Combined structural model (RMSEA = 0.05, CFI = 0.95, SRMR = 0.07) explains "43%"
 - [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
 - [Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes](humanities-stem-acceptance-mean-differences.md) — related
 - [Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern](experience-usefulness-association-students.md) — related
+- [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related

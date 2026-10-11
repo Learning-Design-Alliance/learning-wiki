@@ -51,3 +51,5 @@ Ablation study on one data split (Table 2) varying training stages and profile i
 - [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) — related
 - [SFT with simulated children's reading errors yields higher LM-PPL than other experiments, driven by brevity and post-story irrelevant content](simulated-errors-experiment-higher-lm-ppl.md) — related
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
+- [DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance](dapo-over-grpo-pedagogical-rl.md) — related
+- [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related

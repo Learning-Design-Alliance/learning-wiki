@@ -71,3 +71,4 @@ The human-grounded audit comparing provenance quality between main research-ques
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
 - [Representative gridworld teaching tools lack live Bellman substitution, decision-provenance logging, and full trace export](gridworld-tools-lack-decision-trace-export.md) — related
+- [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related

@@ -1,0 +1,47 @@
+---
+type: claim
+title: Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance
+description: Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance
+id: agent-distribution-significance-only-tech-acceptance
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: jianxiao-jiang-2025
+    resource: "https://arxiv.org/abs/2510.09183"
+    title: "Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183"
+    author: Jianxiao Jiang, Yu Zhang
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` Paired t-tests comparing predicted and true post-test score distributions found no significant difference only in the Technology Acceptance dimension. [→ Jianxiao Jiang 2025](#jianxiao-jiang-2025)
+
+## Evidence
+
+### Jianxiao Jiang 2025
+
+Jianxiao Jiang, Yu Zhang. (2025). Student Development Agent: Risk-free Simulation for Evaluating AIED Innovations. Preprint. https://arxiv.org/abs/2510.09183
+
+`q2 · i?` · `design · r2`
+
+Distribution and paired t-test comparisons across the five non-cognitive dimensions (Figure 5) show significant differences for the agent's predictions in motivation, self-efficacy, grit, and self-regulated learning, but not technology acceptance; no effect sizes are printed.
+
+> "Among all dimensions, results of our student development agents showed no significance with true distribution only in Technology Acceptance dimension, which aligned with the results from RMSE and MAE estimations."
+
+## Discussion
+
+
+## Related Claims
+- [In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE](agent-beats-mean-baseline-rmse-mae.md) — related
+- [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](agent-gap-versus-regression-reference.md) — related

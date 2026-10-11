@@ -64,8 +64,10 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
+
 - Asking learners what evidence supports a claim and what would count against it.
 - Probing a proposed solution with follow-up questions about assumptions and consequences.
+- [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](../strategies/eeg-triggered-socratic-fallback-hybrid-tutoring.md)
 
 ## Key Sources
 - Paul, R., & Elder, L. (2006). *The art of Socratic questioning*. Foundation for Critical Thinking.

@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 theoretical), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -49,6 +49,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 ## Claims
 
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](../claims/self-efficacy-negative-ability-not-correlated-cheating.md) [+W] — attached 2026-10-11 from Sandra Leaton Gray et al. (2025), which proposed "Combined Theory of Planned Behaviour and Self-Efficacy account of AI-era cheating"; tests this page's relationship.
+- [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](../claims/three-academic-self-efficacy-profiles-motor-disabilities.md) [+W] — attached 2026-10-11 from Suriá-Martínez R et al. (2026), which proposed "Multidimensional model of academic self-efficacy comprising Attention, Communication, and Excellence".
+- [In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance](../claims/sem-self-efficacy-dimensions-ai-use-associations.md) [+M] — attached 2026-10-11 from Suriá-Martínez R et al. (2026), which proposed "Multidimensional model of academic self-efficacy comprising Attention, Communication, and Excellence"; tests this page's relationship.
 
 ## Related Theories
 

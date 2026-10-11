@@ -46,3 +46,4 @@ Cox proportional hazards models with right censoring, measured in submissions si
 - [Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems](nl-feedback-higher-eventual-success-programming.md) — related
 - [Failing test case feedback shows no significant association with eventual success](test-case-feedback-no-success-association.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
+- [All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction](llm-feedback-faster-time-to-solution.md) — related

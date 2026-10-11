@@ -1,0 +1,50 @@
+---
+type: claim
+title: "An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels"
+description: "An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels"
+id: unplugged-ml-pd-raises-teacher-ai-self-efficacy
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: sung-2026
+    resource: "https://doi.org/10.19173/irrodl.v27i2.9140"
+    title: "Sung, W., & Gunpinar, Y. (2026). Bringing Artificial Intelligence Literacy Into Online Education: Machine-Learning Integration Through Geometry in K–12 Teacher Professional Development. The International Review of Research in Open and Distributed Learning, 27(2), 21–45. https://doi.org/10.19173/irrodl.v27i2.9140"
+    author: "Sung, W., & Gunpinar, Y."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
+## Subclaims
+`q2 i?` After the online professional development intervention, participants' AI self-efficacy increased from below-moderate to above-moderate levels. [→ Sung 2026](#sung-2026)
+
+## Evidence
+
+### Sung 2026
+
+Sung, W., & Gunpinar, Y. (2026). Bringing Artificial Intelligence Literacy Into Online Education: Machine-Learning Integration Through Geometry in K–12 Teacher Professional Development. The International Review of Research in Open and Distributed Learning, 27(2), 21–45. https://doi.org/10.19173/irrodl.v27i2.9140
+
+`q2 · i?` · `causal · r1`
+
+Pre/post study of an online PD program with ten K–12 educators who created explainable feature matrices to classify geometric shapes. The article reports "positive changes across all constructs" and the self-efficacy shift from below-moderate to above-moderate; no effect size is printed.
+
+> "Findings demonstrated positive changes across all constructs, with participants' AI self-efficacy increasing from below-moderate to above-moderate levels."
+
+## Discussion
+
+
+## Related Claims
+- [Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of unplugged approaches](thematic-outcomes-unplugged-ai-literacy-pd.md) — related
+- [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
+- [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
+- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related

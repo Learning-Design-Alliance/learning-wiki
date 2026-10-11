@@ -52,6 +52,8 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
 - [Train teachers in effective AI chatbot interaction strategies before AI-assisted learning design](train-teachers-ai-interaction-strategies-learning-design.md)
+- [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
+- [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
 
 ## Examples
 -

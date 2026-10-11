@@ -52,3 +52,4 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl.md) — related
+- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related

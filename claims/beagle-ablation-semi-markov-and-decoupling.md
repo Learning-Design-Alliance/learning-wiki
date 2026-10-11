@@ -68,3 +68,4 @@ Same ablation study (Table 2): the Combined Agent variant, which merges the two 
 - [Ablations show removing the strategy selector substantially increases leakage and replacing the NLI verifier with same-model self-check reduces performance](eduguard-ablation-component-removal.md) — related
 - [Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study](c3-ablation-policy-collapse.md) — related
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
+- [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related

@@ -47,3 +47,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
 - [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
+- [The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms](tactile-pipeline-labor-reduction-four-orders.md) — a narrower finding that bears on this claim

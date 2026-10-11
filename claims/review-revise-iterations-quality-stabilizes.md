@@ -46,3 +46,4 @@ Analysis of the three review-revise iterations (Table 7) scoring accepted proble
 - [Each AgenticMath component contributes performance gains, with the review-revise loop playing a particularly important role](agenticmath-ablation-all-modules-contribute.md) — a broader claim this one bears on
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
+- [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](refinement-iterations-and-beam-size-tuning-results.md) — related

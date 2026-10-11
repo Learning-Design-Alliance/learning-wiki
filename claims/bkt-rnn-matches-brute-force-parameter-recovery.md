@@ -65,3 +65,4 @@ Timing benchmark (Figure 10) over synthetic datasets with 10, 100, 1000, and 300
 - [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
 - [OptimNN achieves lower test RMSE than EM, CGD, and SGD for fitting BKT and its variants across four tutoring datasets](optimnn-lower-rmse-than-em-cgd-sgd.md) — related
 - [The skill discovery model partially recovers the true problem-KC assignment matrix in synthetic datasets when provided with problem representations](skill-discovery-partially-recovers-true-kc-assignments.md) — related
+- [Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705](psyscore-irt-initialization-ablation-qwk-drop.md) — related

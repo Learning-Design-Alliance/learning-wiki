@@ -40,6 +40,7 @@ The authors recommend deploying simulated small-group sections as a supplement t
 
 - Educasim Simulated Section Teacher Practice Tool
 - [Extend simulated teaching practice to student assessment and teacher screening uses](simulated-agents-assessment-and-screening-uses.md)
+- [Use unlearning-based simulated students as scalable practice environments for teacher professional development](unlearning-simulation-teacher-professional-development.md)
 
 ## Examples
 -

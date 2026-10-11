@@ -68,3 +68,4 @@ Omnibus ANOVA on overestimation (perceived minus achieved) was significant with 
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related
 - [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](trace-exposure-raises-trust-and-hedonic-appeal.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
+- [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](task-type-directional-bias-partner-ai-estimates.md) — related

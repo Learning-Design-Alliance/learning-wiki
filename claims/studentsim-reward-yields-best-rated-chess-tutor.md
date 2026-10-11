@@ -1,0 +1,67 @@
+---
+type: claim
+title: Using a trained StudentSim as the reward for chess tutor RL yields a tutor that expert human raters score best on accuracy, guidance quality, and personalization among the rewards studied
+description: Using a trained StudentSim as the reward for chess tutor RL yields a tutor that expert human raters score best on accuracy, guidance quality, and personalization among the rewards studied
+id: studentsim-reward-yields-best-rated-chess-tutor
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: ke-yang-2026
+    resource: "https://arxiv.org/abs/2609.01591"
+    title: "Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591"
+    author: Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: ke-yang-2026-2
+    resource: "https://arxiv.org/abs/2609.01591"
+    title: "Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591"
+    author: Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Using a trained StudentSim as the reward for chess tutor RL yields a tutor that expert human raters score best on accuracy, guidance quality, and personalization among the rewards studied
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+
+## Subclaims
+`q2 i?` In an expert human study, the StudentSim-reward tutor is best-rated on accuracy, guidance quality, and personalization among the rewards studied. [→ Ke Yang 2026](#ke-yang-2026)
+`q2 i?` The GPT-5.4-simulator reward tutor stays below even the no-RL baseline on accuracy, held back by a markedly higher rate of severe factual errors. [→ Ke Yang 2026 (2)](#ke-yang-2026-2)
+
+## Evidence
+
+### Ke Yang 2026
+
+Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591
+
+`q2 · i?` · `causal · r2`
+
+Expert human study in which competitive chess players rated each tutor's guidance blind to presentation order on accuracy, guidance quality (1-5), and personalization (1-5); "our STUDENTSIMreward produces the best-rated tutor on all three axes". No effect size is printed.
+
+> "Among the rewards we study, our STUDENTSIMreward produces the best-rated tutor on all
+three axes (Table 4)."
+
+### Ke Yang 2026 (2)
+
+Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao. (2026). StudentSim: Training LLM-based Student Simulators. https://arxiv.org/abs/2609.01591
+
+`q2 · i?` · `causal · r2`
+
+Same expert human study: the GPT-5.4-simulator reward condition "stays below even the no-RL baseline on accuracy", which the authors attribute to a markedly higher rate of severe factual errors in its generated guidance.
+
+> "The GPT-5.4-simulator reward stays below even the no-RL baseline on accuracy, held back by a markedly higher rate of severe factual errors."
+
+## Discussion
+
+
+## Related Claims
+- [Across chess, L2 writing, and math, trained StudentSim simulators outperform every reference baseline on behavioral fidelity (F)](studentsim-outperforms-baselines-behavioral-fidelity.md) — related
+- [Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes](studentsim-outperforms-baselines-guidance-responsiveness.md) — related

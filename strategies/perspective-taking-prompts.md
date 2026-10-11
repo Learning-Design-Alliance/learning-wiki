@@ -60,10 +60,12 @@ Explicit perspective taking improves social understanding, empathy, and intergro
 5. Repeat across varied cases so the habit generalizes beyond a single character or group.
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — embodied enactment of a perspective; stronger but more resource-intensive than written prompts
 - [Debate](debate.md) — assigned-position debate operationalizes perspective taking as advocacy
 - [Case-Based Learning](case-based-learning.md) — cases supply the situated detail that makes perspective prompts answerable
 - [Check-In](../elements/check-in.md) — affective prompts directed at the self; perspective taking prompts direct the same move at others
+- [Frame the LLM as an instructor predicting a student's response rather than as the learner itself](frame-llm-as-instructor-predicting-student-response.md)
 
 ## Examples
 - **Facing History and Ourselves** (https://www.facinghistory.org) — history curriculum built around structured prompts asking students to write and discuss from the viewpoints of participants in historical atrocities and resistance, with explicit norms separating understanding from endorsement.

@@ -66,3 +66,4 @@ Sensitivity reanalysis restricted to student-assignment instances where the LLM 
 - [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related
 - [Prompting technique distribution shifts in teams, driven by students reporting no technique at all](prompting-technique-disengagement-in-teams.md) — related
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related
+- [Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one](verification-nearly-universal-multiple-strategies.md) — related

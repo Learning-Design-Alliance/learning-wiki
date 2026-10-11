@@ -46,3 +46,4 @@ Review-identified research gaps section. It adds that proposed alternatives such
 - [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — related
 - [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](ai-pbl-adaptive-personalized-engagement.md) — related
 - [Empirical research on the ethical implications of teachers using AI for feedback remains scarce](empirical-gap-ethics-ai-feedback.md) — related
+- [The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations](ai-teaching-enhancement-and-equity-analysis-reported.md) — related

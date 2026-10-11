@@ -45,3 +45,4 @@ Same 4F content analysis, Grade 5 subgroup (n=7), paired t-tests on utterance co
 ## Related Claims
 - [In elementary book talk, students spent significantly more time interacting with a fixed-role AI peer than with their homeroom teacher in both grades](ai-peer-longer-book-talk-sessions.md) — related
 - [For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk](grade4-teacher-superior-all-4f-categories.md) — related
+- [People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support](humans-valued-emotional-esteem-support-over-ai.md) — related

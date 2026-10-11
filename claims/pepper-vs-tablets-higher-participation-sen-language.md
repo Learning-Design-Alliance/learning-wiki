@@ -46,3 +46,4 @@ The review reports, citing Konijn et al. (2022), a comparison of Pepper against 
 - [Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently](pepper-benefits-motivation-engagement-social-skills.md) — a broader claim this one bears on
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
+- [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related

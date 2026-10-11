@@ -46,3 +46,4 @@ Same mediation model; perceived independence did not significantly predict post-
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — related
 - [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](layered-feedback-negative-total-effect.md) — related
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — related
+- [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](perceived-risk-stage-sensitive-deterrent.md) — related

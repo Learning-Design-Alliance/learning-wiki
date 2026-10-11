@@ -48,3 +48,4 @@ Theoretical argument from the article's section on Critical Questions Generation
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
+- [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](trained-students-higher-order-prompting-strategies.md) — related

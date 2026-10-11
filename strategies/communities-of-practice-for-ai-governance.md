@@ -85,6 +85,9 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
 - [Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation](detection-supplementary-governance-layer.md)
+- [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
+- [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
+- [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
 
 ## Examples
 -

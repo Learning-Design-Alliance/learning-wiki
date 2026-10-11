@@ -42,6 +42,7 @@ The article recommends that practitioners deploying fine-tuned LLM scoring syste
 - [Six empirically grounded hypotheses for educational AI design](six-hypotheses-educational-ai-design.md)
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
+- [Calibrate LLM-generated question difficulty empirically from student response data rather than trusting model-assigned labels](empirical-calibration-of-llm-generated-question-difficulty.md)
 
 ## Examples
 -

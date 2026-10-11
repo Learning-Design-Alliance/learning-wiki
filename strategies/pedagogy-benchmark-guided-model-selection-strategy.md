@@ -47,6 +47,7 @@ The authors recommend that EdTech product developers use their leaderboards as "
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Deploy fine-tuned compact local 8B LLMs as free classroom and home story generators with adult human oversight and safety filtering](local-compact-llm-story-generation-with-oversight.md)
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
+- [Match LLM deployment role in language education to the model's assessed proficiency level](match-llm-role-to-assessed-proficiency.md)
 
 ## Examples
 -

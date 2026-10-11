@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (30 for, 3 mixed, 1 against) · 22 studies (6 qualitative, 5 theoretical, 4 causal, 3 review, 3 design, 1 associational), `q1`–`q4` · 2 of 22 report an effect size · 34 claims rest on one study
+> **Evidence** · 35 claims (31 for, 3 mixed, 1 against) · 23 studies (7 qualitative, 5 theoretical, 4 causal, 3 review, 3 design, 1 associational), `q1`–`q4` · 2 of 23 report an effect size · 35 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -93,6 +93,7 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](../claims/genai-scaffolded-augments-human-judgment-design-thinking.md) [+W] — attached 2026-10-11 from Rana et al. (2025), which proposed "Integrate generative AI into design thinking pedagogy with explicit scaffolding so it augments rather than replaces student judgment"; tests this page's relationship.
 - [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](../claims/unguided-strategy-talk-plan-and-paste-loop.md) [+W] — attached 2026-10-11 from Deliang Wang et al. (2026), which proposed "For under-resourced learners, design targeted pedagogical interventions around human–AI collaboration rather than relying on technical training alone".
 - [After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs](../claims/scaffolded-strategy-talk-repurposed-critical-evaluation.md) [+W] — attached 2026-10-11 from Deliang Wang et al. (2026), which proposed "For under-resourced learners, design targeted pedagogical interventions around human–AI collaboration rather than relying on technical training alone".
+- [53% of student essays named at least one AI behavior that supports rather than replaces thinking](../claims/students-name-scaffolding-ai-behaviors.md) [+W] — attached 2026-10-11 from Lucile Favero et al. (2026), which proposed "Scaffold, do not substitute: AI should support effort rather than replace it".
 
 ## Related Principles
 

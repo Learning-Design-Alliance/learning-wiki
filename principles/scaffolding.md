@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 16 studies (7 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 17 studies (8 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 17 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +73,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](../claims/far-transfer-floor-effect-and-equal-time.md) [~M]
 - [Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices](../claims/conceptual-map-scaffolding-reduces-novice-variance.md) [+W] — attached 2026-10-11 from Bharat Anand (2026), which proposed "Pair GenAI access with short AIC micro-training and light process scaffolds to capture value consistently and reduce performance variance"; tests this page's relationship.
 - [Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance](../claims/no-multiple-choice-difference-prompted-ai-learning.md) [~W] — attached 2026-10-11 from Xiaoyu Hou et al. (2026), which proposed "Design AI-supported learning environments with explicit interaction structures, since access to AI alone does not improve higher-order learning"; tests this page's relationship.
+- [Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems](../claims/genai-scaffolding-training-improves-revision-performance.md) [+M] — attached 2026-10-11 from Huang et al. (2026), which proposed "Effective GenAI integration requires pedagogical scaffolding rather than mere access to the tool"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

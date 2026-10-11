@@ -45,3 +45,4 @@ Epistemic Network Analysis of reflection journals visualized on the ENA platform
 ## Related Claims
 - [Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated](behavioral-trends-three-tasks-ct-groups.md) — related
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
+- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related

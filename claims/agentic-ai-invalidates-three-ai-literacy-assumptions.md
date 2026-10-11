@@ -53,3 +53,4 @@ Theoretical argument in a conceptual paper: the author analyzes how agentic syst
 - [No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents](agent-operational-competence-measurement-gap.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related

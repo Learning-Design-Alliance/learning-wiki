@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (38 for, 23 mixed, 9 against) · 59 studies (18 causal, 12 review, 9 associational, 8 theoretical, 6 design, 4 quant-synthesis, 2 qualitative), `q1`–`q4` · 12 of 59 report an effect size · 62 claims rest on one study
+> **Evidence** · 74 claims (40 for, 25 mixed, 9 against) · 64 studies (19 causal, 12 review, 9 associational, 9 theoretical, 7 design, 4 quant-synthesis, 4 qualitative), `q1`–`q4` · 12 of 64 report an effect size · 65 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -103,6 +103,10 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Representation-alignment tension between expert externalization and novice comprehension](../claims/representation-alignment-tension-expert-novice.md) [+M] — learners who differ on it differ in outcomes
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](../claims/problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) [~W] — learners who differ on it differ in outcomes
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](../claims/discipline-expertise-insufficient-bias-detection.md) [~W] — learners who differ on it differ in outcomes
+- [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](../claims/learner-characteristics-predict-ai-collaboration-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](../claims/reflective-support-effects-vary-by-user.md) [~W] — an instructional effect differs with it
+- [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](../claims/learning-support-preferences-differ-by-expertise.md) [+W] — an instructional effect differs with it
+- [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](../claims/trust-mixed-scrutiny-tracks-expertise.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

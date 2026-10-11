@@ -40,7 +40,8 @@ Based on the finding that students' interactions were request-dominated with nea
 - [Turn Level Genai Srl Hs Codebook](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 
 ## Examples
 -

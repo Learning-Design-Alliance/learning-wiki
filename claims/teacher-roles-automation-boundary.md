@@ -45,3 +45,4 @@ The review's C1 'Teachers' perspectives, functions and roles' sub-theme, attribu
 ## Related Claims
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- [AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)](ai-administrative-efficiency-reported-gains.md) — related

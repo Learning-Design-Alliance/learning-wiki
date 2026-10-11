@@ -66,6 +66,9 @@ The article recommends that effective institutional governance extend beyond pro
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation](detection-supplementary-governance-layer.md)
+- [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
+- [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
+- [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
 
 ## Examples
 -

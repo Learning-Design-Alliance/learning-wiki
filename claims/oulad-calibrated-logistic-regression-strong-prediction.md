@@ -65,3 +65,4 @@ Same offline OULAD evaluation of the calibrated logistic-regression pipeline. Th
 - [Integer-programming recourse generates compact, model-valid, SHACL-conformant intervention plans at scale on OULAD](ip-recourse-compact-plans-at-scale.md) — related
 - [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](nonlinear-models-modest-auc-gains-over-logistic-baseline.md) — related
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
+- [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related

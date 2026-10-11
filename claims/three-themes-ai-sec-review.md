@@ -45,3 +45,4 @@ Narrative review reporting its own thematic synthesis of a curated corpus of 19 
 ## Related Claims
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — possibly the same claim (merge candidate)
 - [Review reports SEC literature emphasises nurturing strong teacher-student and student-student relationships](sec-relational-practices-relationships.md) — related
+- [A systematic review of 2017–2024 literature yielded 314 publications from which ten AI-in-leadership domains were inductively derived](systematic-review-314-publications-ten-ai-domains.md) — related

@@ -47,3 +47,5 @@ Numerical result of the generate-then-refine UI generation phase, given validate
 - [Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX](expert-rating-40-requests-86-percent-acceptance.md) — related
 - [Improvement across critique axes during iterative UI generation is not monotonic](non-monotonic-improvement-across-critique-axes.md) — related
 - [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related
+- [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
+- [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](refinement-iterations-and-beam-size-tuning-results.md) — related

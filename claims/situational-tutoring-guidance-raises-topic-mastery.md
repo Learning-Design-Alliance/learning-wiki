@@ -44,3 +44,4 @@ The chapter reports, citing Wang et al., a randomised controlled trial of a huma
 
 ## Related Claims
 - [In a large-scale RCT, real-time LLM-generated pedagogical suggestions for human tutors raised student knowledge-component mastery by 4 percentage points on average, with larger effects for lower-performing or less-experienced tutors](llm-suggestions-human-tutors-mastery-gain.md) — possibly the same claim (merge candidate)
+- [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related

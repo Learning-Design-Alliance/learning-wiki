@@ -70,3 +70,4 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
 - [Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive](variable-engagement-positive-feedback-ai-course.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related

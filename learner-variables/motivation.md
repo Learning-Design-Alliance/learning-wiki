@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (77 for, 21 mixed, 13 against) · 98 studies (28 associational, 27 causal, 18 review, 8 qualitative, 6 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 16 of 98 report an effect size · 104 claims rest on one study
+> **Evidence** · 114 claims (80 for, 21 mixed, 13 against) · 100 studies (28 associational, 27 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 16 of 100 report an effect size · 107 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -145,6 +145,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](../claims/three-way-interaction-condition-self-efficacy-favorability-learning.md) [~M] — an instructional effect differs with it
 - [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](../claims/course-increases-perceived-competence-journaling.md) [~M] — instruction changes it
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](../claims/journaling-assistant-no-intrinsic-motivation-effect.md) [-M] — instruction changes it
+- [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](../claims/free-accessible-content-weak-enrollment-motivator-suacode.md) [+M] — learners who differ on it differ in outcomes
+- [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](../claims/suacode-african-students-intrinsically-motivated.md) [+M] — learners who differ on it differ in outcomes
+- [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](../claims/supplynet-higher-engagement-than-baseline.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

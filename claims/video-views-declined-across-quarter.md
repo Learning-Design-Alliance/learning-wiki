@@ -48,3 +48,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
+- [The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility](ai-demonstrations-split-on-course-utility.md) — related

@@ -49,3 +49,4 @@ Multiple regression (forced-entry, gender and education as controls) on 425 vali
 - [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination](language-subjective-emotional-aesthetic.md) — related
+- [User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities](imagined-affordances-filter-gai-engagement.md) — related
