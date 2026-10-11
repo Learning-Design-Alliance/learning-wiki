@@ -71,3 +71,4 @@ Follow-up results section: low-education treated participants "stilllagbehindthe
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — reports the opposite
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — reports the opposite
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
+- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite

@@ -48,3 +48,4 @@ Language-transfer analysis (RQ1) training models on all English chemistry-tutor 
 - [Cross-language SRL classifier transfer shows about 0.1 AUC degradation relative to within-language performance, except for realizing errors](srl-transfer-degradation-tenth-auc-within-domain.md) — related
 - [Cross-language SRL misclassifications arise from subject-specific terminology that differs from commonplace translation, especially in the enact category](srl-transfer-errors-subject-specific-terminology.md) — related
 - [Process and enact SRL categories transfer slightly better from German to English than English to German](srl-transfer-asymmetric-german-english-process-enact.md) — related
+- [Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages](bilingual-pairs-cross-lingual-technique-transfer.md) — related

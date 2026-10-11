@@ -50,3 +50,4 @@ Grounded-coding finding from the Delphi panel: "Panelists strongly agreed that h
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
 - [Les citations bibliographiques produites par ChatGPT sont inexistantes ou incorrectes dans 23 % des cas, compromettant le circuit de validation scientifique](chatgpt-hallucinated-citations-23-percent.md) — related
+- [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related

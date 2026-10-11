@@ -55,3 +55,4 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — related
+- [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related

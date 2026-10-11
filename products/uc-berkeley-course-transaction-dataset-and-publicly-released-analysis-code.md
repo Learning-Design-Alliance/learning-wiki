@@ -25,6 +25,7 @@ A UC Berkeley dataset of over 11 million timestamped student course-enrollment t
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Multi-attempt student code submission dataset from a Berkeley introductory programming course with AI tutor feedback**: A dataset of student code submission streams from an introductory programming course at UC Berkeley (~900 students per semester), spanning Spring 2024 and Spring 2025 and covering the first five Python homework assignments. Each attempt records the student's code, autograder results, and natural-language feedback from an LLM-based tutor for consenting students. The article reports partitioning "using Spring 2025 for training (445 students, 2,022 submission streams, 6,911 total submissions) and Spring 2024 for testing (479 students, 1,546 submission streams, 6,316 total submissions)," with test_OP (5,262 submissions) and test_NP (1,054 submissions) generalization subsets. The data received IRB approval and identifiers were anonymized. (Rose Niousha et al. (2026))
 
 ### Claims
 - [Course add and drop activity concentrates early in enrollment phases, with drops outnumbering adds from mid-to-late Phase 2 onward and basket size never substantially decreasing](../claims/course-transaction-trends-across-semester.md) [+W]
@@ -39,8 +40,8 @@ A UC Berkeley dataset of over 11 million timestamped student course-enrollment t
 
 ## Key Sources
 - Borchers, C., Xu, Y., & Pardos, Z. A. (2025). Workload Overload? Late Enrollment Leads to Course Dropout. Journal of Educational Data Mining, Volume 17, No 1. https://github.com/CAHLR/enrollment-procrastination-edm
-
 <!-- merged 2026-10-10 from elements/uc-berkeley-course-transaction-dataset ("UC Berkeley course transaction dataset and publicly released analysis code"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492
 
 # UC Berkeley course transaction dataset and publicly released analysis code
 

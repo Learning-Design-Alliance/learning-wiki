@@ -47,3 +47,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related

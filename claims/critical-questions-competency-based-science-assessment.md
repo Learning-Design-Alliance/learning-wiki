@@ -47,3 +47,4 @@ Theoretical argument from the article's section on Critical Questions Generation
 - [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — related
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related

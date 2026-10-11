@@ -49,3 +49,5 @@ Observational synthesis of the authors' multi-year instructional practice with s
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
+- [A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use](awareness-behaviour-gap-genai-integrity.md) — related
+- [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related

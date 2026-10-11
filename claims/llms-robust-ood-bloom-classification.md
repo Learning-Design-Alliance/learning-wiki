@@ -50,3 +50,4 @@ Zero- and few-shot prompting evaluation of GPT-4.1 and Gemini Flash 3.1 on the O
 - [Appending learning objectives to questions improves Bloom classification on the AF dataset](learning-objectives-anchor-bloom-classification.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
 - [The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84](selected-questions-verbs-best-prompt.md) — related
+- [An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning](question-specificity-classifier-accuracy.md) — related

@@ -46,3 +46,5 @@ Gender comparison (Figure 4a) in a sample that was 80.44% female. The article st
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines](genai-mixed-independent-thinking-creativity.md) — related
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
+- [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
+- [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related

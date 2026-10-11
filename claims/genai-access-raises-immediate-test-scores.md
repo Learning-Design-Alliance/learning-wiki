@@ -52,3 +52,5 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
 - [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
+- [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
+- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related

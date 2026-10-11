@@ -44,3 +44,4 @@ Simulation results shown in Figure 1 report problems administered per condition 
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
 - [Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems](dkt-limitation-multi-step-mastery-learning.md) — related
 - [Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing](simulated-students-evaluate-online-knowledge-tracing.md) — a broader claim this one bears on
+- [KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules](kt4eqg-competitive-under-alternative-tracers.md) — related

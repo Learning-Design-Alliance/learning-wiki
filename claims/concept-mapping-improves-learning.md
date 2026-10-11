@@ -124,3 +124,4 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](remapping-prevents-map-as-metanarrative.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
+- [Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related

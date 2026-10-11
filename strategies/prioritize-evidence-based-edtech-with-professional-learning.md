@@ -40,6 +40,7 @@ The authors recommend that schools and districts adopting educational technology
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
+- [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 
 ## Examples
 -

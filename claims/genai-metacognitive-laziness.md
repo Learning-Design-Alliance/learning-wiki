@@ -57,3 +57,4 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](self-reports-fail-to-predict-llm-regulation.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — reports the opposite
 - [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
+- [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related

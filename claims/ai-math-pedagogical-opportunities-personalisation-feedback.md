@@ -70,3 +70,5 @@ Review synthesis of feedback mechanisms across included studies. The authors sta
 - [Educators use AI more for generative and content-oriented tasks than for evaluative or automated tasks](ai-usage-generative-over-evaluative.md) — related
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related
 - [Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility](ai-opportunities-and-verification-burden.md) — related
+- [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
+- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — a narrower finding that bears on this claim

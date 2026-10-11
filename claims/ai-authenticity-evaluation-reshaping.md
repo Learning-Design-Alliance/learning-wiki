@@ -76,3 +76,4 @@ Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation trans
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related

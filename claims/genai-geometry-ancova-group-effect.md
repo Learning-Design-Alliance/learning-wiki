@@ -44,3 +44,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — possibly the same claim (merge candidate)
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
+- [Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions](prompted-ai-raises-overall-post-test-score.md) — related

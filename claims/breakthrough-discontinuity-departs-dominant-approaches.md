@@ -50,3 +50,4 @@ Conceptual field note defining the discontinuity factor, drawing on research on 
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [Existing reflection models lack strategies to manage challenges introduced by GenAI](existing-reflection-models-lack-genai-strategies.md) — related
+- [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — related

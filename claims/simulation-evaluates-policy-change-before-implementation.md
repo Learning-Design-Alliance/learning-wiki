@@ -45,3 +45,4 @@ Chapter 4 (Use of the Simulation) presents this as the report's demonstration ar
 ## Related Claims
 - [Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies](sequential-field-testing-go-no-go.md) — related
 - [Simulation lets a manager try out resource-allocation decisions and see their effects before implementation](simulation-pretests-resource-allocation-decisions.md) — possibly the same claim (merge candidate)
+- [Threshold changes in early alert systems can drastically reshape flagged-student volume and advisor workload and should not occur informally](threshold-change-governance-impact.md) — a narrower finding that bears on this claim

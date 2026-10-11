@@ -77,3 +77,4 @@ The review reports the opposite-direction findings from other studies: "Female s
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
+- [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related

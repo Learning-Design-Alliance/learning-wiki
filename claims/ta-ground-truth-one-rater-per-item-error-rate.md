@@ -63,3 +63,4 @@ During the official post-exam review period only about one-third of students ins
 
 ## Related Claims
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related

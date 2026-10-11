@@ -49,3 +49,4 @@ Univariate ANCOVA on the seven-week posttest (parallel 14-item multiple-choice f
 - [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-retrieval-practice-improves-financial-knowledge-retention.md) — related
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
+- [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related

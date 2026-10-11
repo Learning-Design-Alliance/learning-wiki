@@ -46,3 +46,4 @@ Verifier threshold sensitivity analysis on BILearn-CS reported in Table 6 across
 - [On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding](eduguard-cs50-forum-generalization.md) — related
 - [Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity](cheating-risk-threshold-sensitivity-tradeoff.md) — related
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
+- [Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations](source-anchoring-reduces-hallucination-instruction-data.md) — related

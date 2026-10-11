@@ -49,3 +49,4 @@ Theoretical argument in the Confabulations section: learners lack the background
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related

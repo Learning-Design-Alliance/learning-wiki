@@ -43,6 +43,7 @@ Because trust occupies the pivot of the modeled chain, the authors recommend tha
 
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 - [Prioritize trust calibration over trust maximization when evaluating explainability and other design factors](prioritize-trust-calibration-over-maximization.md)
+- [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 
 ## Examples
 -

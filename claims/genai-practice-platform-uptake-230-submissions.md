@@ -48,3 +48,5 @@ Platform analytics from a mid-semester voluntary deployment in a core electrical
 - [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [The strongest survey item was active thinking rather than guessing (95% agreement), while only 42% preferred the GenAI system over the existing problem booklet](item-level-agreement-q1-active-thinking-q6-booklet-preference.md) — related
+- [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — related
+- [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related

@@ -52,3 +52,4 @@ Reflexive thematic analysis of semi-structured interviews with 17 undergraduate 
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
+- [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related

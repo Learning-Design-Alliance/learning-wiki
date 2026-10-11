@@ -60,3 +60,4 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
+- [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related

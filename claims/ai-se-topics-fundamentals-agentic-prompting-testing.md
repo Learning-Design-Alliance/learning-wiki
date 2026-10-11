@@ -46,3 +46,4 @@ Qualitative coding of 211 topic entries from 18 courses with public topic inform
 - [Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes](ai-se-courses-objectives-collaboration-building-evaluation.md) — related
 - [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](ai-required-work-high-grade-weights-proctored-rare.md) — related
 - [Two GPT-4-based models showed strong semantic alignment in topic labels and descriptions](gpt4-models-strong-semantic-alignment-topic-labels.md) — related
+- [Existing ML educational tools rarely integrate intermodal transfer, computational thinking, and explanatory thinking in one resource](ml-tools-rarely-integrate-three-didactic-facets.md) — related

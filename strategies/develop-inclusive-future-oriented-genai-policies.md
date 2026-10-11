@@ -49,6 +49,7 @@ The article recommends that higher education leadership move beyond widely embra
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
+- [Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories](classify-ai-tools-by-governance-mechanism.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Forced-choice comparative attributions collected once after all three tasks from
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related

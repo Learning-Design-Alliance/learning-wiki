@@ -67,3 +67,7 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
+- [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related

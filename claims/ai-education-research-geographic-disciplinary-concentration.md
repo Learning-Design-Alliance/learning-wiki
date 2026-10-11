@@ -47,3 +47,5 @@ Descriptive statistics across the 22 included studies. The review reports region
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — related
 - [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — reports the opposite
+- [Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors](ai-pl-review-geographic-spread.md) — related
+- [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related

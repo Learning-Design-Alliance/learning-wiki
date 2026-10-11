@@ -55,6 +55,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Evaluate GenAI declaration frameworks empirically and pair them with institutional guidance on which tools are in scope](evaluate-genai-declarations-and-scope-guidance.md)
 - [Use a six-question drafting and audit framework for GenAI assessment rules covering task rules, defaults, disclosure, contribution, verification, and hierarchy](six-question-genai-policy-audit-framework.md)
+- [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Role expectations for a group-facing AI agent are anchored in early encounters rather than renegotiated throughout collaboration](early-exposure-anchors-agent-role-expectations.md) — related
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
+- [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related

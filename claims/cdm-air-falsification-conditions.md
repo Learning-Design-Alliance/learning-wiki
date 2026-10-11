@@ -44,3 +44,4 @@ Section 5.3 of the conceptual article specifies four disconfirmation conditions:
 - [Capability and PBC must be separated by a priori discriminant-validity criteria including HTMT below .85](capability-belief-discriminant-validity-criteria.md) — related
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — a broader claim this one bears on
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — a broader claim this one bears on
+- [Five testable predictions (H1-H5) are specified with falsification conditions but await empirical validation](five-predictions-await-reader-and-creative-studies.md) — related

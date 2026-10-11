@@ -48,3 +48,4 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — possibly the same claim (merge candidate)
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
+- [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related

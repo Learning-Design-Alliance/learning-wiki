@@ -39,6 +39,7 @@ The article recommends treating LLM-generated 7C collaboration assessments as st
 ## Related Strategies
 
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related
 - [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
 - [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related
+- [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related

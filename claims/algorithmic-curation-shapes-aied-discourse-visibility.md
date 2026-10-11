@@ -49,3 +49,4 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
 - [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related
+- [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related

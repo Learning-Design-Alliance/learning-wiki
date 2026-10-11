@@ -174,3 +174,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — well-chunked examples keep self-explanation demands within capacity
 - [Cognitive load management](../claims/cognitive-load-management.md) — prompts add generative load, so total load must stay within capacity
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
+- [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — a narrower finding that bears on this claim

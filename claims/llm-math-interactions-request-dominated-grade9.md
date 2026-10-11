@@ -49,3 +49,4 @@ Descriptive analysis of the conversational corpus from 112 Grade-9 students chat
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related
+- [Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests](planning-most-frequent-category-777.md) — related

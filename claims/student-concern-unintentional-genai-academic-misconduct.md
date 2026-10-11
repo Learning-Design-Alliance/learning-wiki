@@ -48,3 +48,4 @@ Survey finding from the mixed-methods study of 149 first-year business undergrad
 - [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](self-reported-cheating-rates-college-high-school.md) — related
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
+- [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related

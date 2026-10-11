@@ -39,7 +39,8 @@ The article recommends that future productivity research place more emphasis on 
 - Understanding when and where GenAI tools improve real-world developer productivity
 
 ## Related Strategies
-- 
+
+- [Sequence future adult-learning evaluation from usability observation to assistance-condition comparison with supervised independent assessment](praxis-future-evaluation-sequence.md)
 
 ## Examples
 -

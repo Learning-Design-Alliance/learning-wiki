@@ -122,3 +122,5 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — a narrower finding that bears on this claim
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — a narrower finding that bears on this claim
+- [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
+- [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related

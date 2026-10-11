@@ -52,3 +52,4 @@ Theoretical argument, not a tested result: the authors reason from prior work th
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
 - [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — a narrower finding that bears on this claim
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — a broader claim this one bears on
+- [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — related

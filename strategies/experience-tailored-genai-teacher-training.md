@@ -45,6 +45,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
+- [Develop adaptive and discipline-specific GenAI feedback solutions](adaptive-discipline-specific-genai-feedback-solutions.md)
 
 ## Examples
 -

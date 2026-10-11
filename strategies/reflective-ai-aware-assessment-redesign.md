@@ -45,6 +45,7 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
+- [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Stated comparison in the Limitations section, benchmarking against the fine-tune
 ## Related Claims
 - [EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting](edubehaviors-matches-direct-llm-prompting-talkmoves.md) — related
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
+- [A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity](small-labeled-data-plateaus-evaluator.md) — related

@@ -48,3 +48,4 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
 - [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
+- [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related

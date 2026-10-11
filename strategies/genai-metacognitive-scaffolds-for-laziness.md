@@ -40,7 +40,8 @@ This strategy recommends that GenAI academic search systems "embed metacognitive
 - [Metacognitive Laziness Three Types](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 
 ## Examples
 -

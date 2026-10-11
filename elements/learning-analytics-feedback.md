@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -49,7 +49,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](../claims/modest-in-semester-engagement-genai-feedback-tool.md) [~W] — attached 2026-10-11 from Jin et al. (2025), which proposed "GenAI-powered learning analytics feedback tool with ChatGPT explanation features and dashboard visualizations".
 
 ## Related Elements
 

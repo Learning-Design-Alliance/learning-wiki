@@ -44,6 +44,7 @@ The article proposes a "Collaborative Human-AI Revision Design" that systematica
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Process Writing Workshop](process-writing-workshop.md)
 - [Peer Revision](peer_revision.md)
+- [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 
 ## Examples
 -

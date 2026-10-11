@@ -51,3 +51,4 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — related

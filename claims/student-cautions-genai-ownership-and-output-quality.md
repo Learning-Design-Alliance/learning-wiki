@@ -52,3 +52,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related

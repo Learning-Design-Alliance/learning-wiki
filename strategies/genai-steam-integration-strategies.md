@@ -48,6 +48,7 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
+- [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 
 ## Examples
 -

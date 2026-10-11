@@ -55,3 +55,6 @@ Qualitative analysis of video-recorded interviews with 5 Algebra 1 teachers who 
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Design-thinking practices with AI are uneven: iterative prompting is common while feedback collection and structured needs assessment are least developed](uneven-design-practices-feedback-gap.md) — related
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — a broader claim this one bears on
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
+- [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related
+- [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related

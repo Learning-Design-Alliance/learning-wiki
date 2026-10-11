@@ -48,3 +48,4 @@ The review describes predictive analytics as a significant development in learni
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
+- [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](ai-predictive-analytics-early-intervention.md) — possibly the same claim (merge candidate)

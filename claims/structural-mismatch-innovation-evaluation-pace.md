@@ -48,3 +48,4 @@ The article's framing statement, offered as an analytical diagnosis rather than 
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — a narrower finding that bears on this claim
 - [AI agents can now navigate and complete tasks within learning management systems](ai-agents-navigate-and-complete-lms-tasks.md) — related
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related
+- [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — a narrower finding that bears on this claim

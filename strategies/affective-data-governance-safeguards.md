@@ -41,7 +41,8 @@ Whenever AI-supported teacher-development systems involve affective, behavioral,
 - institutional trust
 
 ## Related Strategies
-- 
+
+- [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
 
 ## Examples
 -

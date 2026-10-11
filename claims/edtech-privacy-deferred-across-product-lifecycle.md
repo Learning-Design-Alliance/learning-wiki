@@ -47,3 +47,4 @@ Qualitative grounded-theory analysis of 12 semi-structured interviews with EdTec
 - [Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy](weak-privacy-feedback-loops-edtech.md) — related
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [Twelve semi-structured interviews with university students and lecturers identified twelve knowledge-based design requirements for tutoring GSRs across three knowledge types](twelve-kbd-requirements-gsr-higher-education.md) — related

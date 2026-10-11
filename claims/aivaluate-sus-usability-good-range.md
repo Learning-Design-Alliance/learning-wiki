@@ -47,3 +47,4 @@ SUS questionnaires with four bespoke experience items were completed immediately
 - [Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments](aivaluate-lower-anxiety-than-face-to-face-viva.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related

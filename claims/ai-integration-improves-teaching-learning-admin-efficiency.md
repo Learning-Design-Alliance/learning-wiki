@@ -56,3 +56,5 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.](staff-see-genai-opportunities-teaching-enhancement.md) — a narrower finding that bears on this claim
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
+- [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related

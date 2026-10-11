@@ -49,3 +49,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](divided-views-star-rating-display.md) — related
 - [Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool](concept-catalyst-outputs-inspire-practice-reflection.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
+- [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related

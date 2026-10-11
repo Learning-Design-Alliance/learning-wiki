@@ -43,3 +43,4 @@ Methodological specification in Section 4.3.3 of the conceptual article. Failure
 ## Related Claims
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — a narrower finding that bears on this claim
 - [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — related
+- [Five testable predictions (H1-H5) are specified with falsification conditions but await empirical validation](five-predictions-await-reader-and-creative-studies.md) — related

@@ -47,3 +47,4 @@ Case-study analysis of three multilingual international students (Pengxi, Haoyu,
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
 - [After PAIRR, most students prefer combined peer and AI feedback over either source alone](pairr-builds-confidence-in-ai-while-affirming-human-feedback.md) — related
+- [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related

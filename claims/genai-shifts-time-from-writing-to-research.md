@@ -47,3 +47,4 @@ Self-reported time-allocation shares from the post-learning survey in the random
 - [Revisions made no reliable difference to total time spent with the lesson](revisions-no-effect-time-with-lesson.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
+- [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related

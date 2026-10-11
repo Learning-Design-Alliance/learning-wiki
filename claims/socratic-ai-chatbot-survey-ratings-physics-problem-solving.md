@@ -45,3 +45,4 @@ Post-activity Qualtrics survey (20 Likert items) completed by 150 first-year STE
 ## Related Claims
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — reports the opposite
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
+- [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related

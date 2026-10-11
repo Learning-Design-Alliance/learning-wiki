@@ -50,3 +50,5 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
+- [The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)](ai-id-challenge-pedagogical-alignment.md) — related
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related

@@ -79,3 +79,7 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Students most valued code reviews for motivating deeper learning (58 of 94), while their main complaints were TA inconsistency (31 of 92) and scheduling difficulties (20 of 92)](cs1-cr-qualitative-perceptions-themes.md) — related
 - [Topic modeling can be used to examine thematic development in emerging research fields](topic-modeling-tracks-thematic-development-emerging-fields.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
+- [Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use](experts-judge-ai-plans-applicable-after-correction.md) — related
+- [Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%](hitl-workflow-reduces-human-scoring-workload-50-percent.md) — related
+- [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
+- [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — a narrower finding that bears on this claim

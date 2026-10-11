@@ -55,3 +55,6 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — a narrower finding that bears on this claim
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](ai-pbl-enhances-educator-student-collaboration.md) — related
+- [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
+- [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on

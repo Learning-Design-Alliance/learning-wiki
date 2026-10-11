@@ -47,3 +47,4 @@ Summative usability study (Phase 3) with seven UAE-based special-education pract
 - [In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration](ai-visual-generation-main-barrier-prototype.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related

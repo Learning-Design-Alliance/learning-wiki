@@ -69,3 +69,4 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
 - [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related
+- [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — related

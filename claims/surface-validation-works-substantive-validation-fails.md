@@ -45,3 +45,5 @@ The article reports Vicente and Matute's (2023) experiment: participants exposed
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
+- [AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations](ai-as-support-not-substitute-for-judgment.md) — reports the opposite
+- [Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI](critical-evaluation-of-ai-outputs-increased-unevenly.md) — related

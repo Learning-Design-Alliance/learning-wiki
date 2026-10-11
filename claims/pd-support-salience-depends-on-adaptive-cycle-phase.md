@@ -51,3 +51,4 @@ This is a two-case comparative study with no control condition and no standardiz
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
 - [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
+- [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related

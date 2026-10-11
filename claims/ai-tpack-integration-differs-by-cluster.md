@@ -65,3 +65,4 @@ Same artifact analysis: Cluster 2's "pragmatic enhancement" meant integration de
 - [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](cognitive-affective-profiles-explain-design-behaviors.md) — related
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](behavior-alone-insufficient-predict-ai-tpack.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related

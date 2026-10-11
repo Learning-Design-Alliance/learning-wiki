@@ -52,3 +52,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related

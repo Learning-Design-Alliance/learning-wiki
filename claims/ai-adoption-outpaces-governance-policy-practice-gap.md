@@ -54,3 +54,4 @@ Cross-study finding from the review's Theme 3 synthesis, attributed to Bates et 
 - [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — a narrower finding that bears on this claim
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
 - [The GenAI higher-education literature invokes responsibility frequently but almost never assigns accountability to AI or names a responsible bearer](responsibility-invoked-but-bearer-unnamed.md) — related
+- [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related

@@ -68,3 +68,4 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [Students rated the usability of the AIvaluate assessment in the SUS 'good' range](aivaluate-sus-usability-good-range.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related

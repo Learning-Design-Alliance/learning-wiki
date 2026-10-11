@@ -75,6 +75,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - Peer Instruction — a common structure for the synchronous application session in virtual flipped courses
 - Asynchronous Discussion Protocols — an alternative application layer when synchronous attendance is impractical
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
+- [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

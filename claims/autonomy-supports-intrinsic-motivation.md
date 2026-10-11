@@ -132,3 +132,6 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related
+- [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — a narrower finding that bears on this claim
+- [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — a narrower finding that bears on this claim
+- [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related

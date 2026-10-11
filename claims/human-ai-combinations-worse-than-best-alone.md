@@ -62,4 +62,4 @@ The article reports, citing Vaccaro et al. (2024), task-type moderation: "perfor
 
 
 ## Related Claims
--
+- [Meta-analysis finds human–AI combinations perform worse than the best of human or AI alone, moderated by relative competence](human-ai-combinations-underperform-best-alone.md) — possibly the same claim (merge candidate)

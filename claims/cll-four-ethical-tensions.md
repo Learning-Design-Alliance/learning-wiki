@@ -50,3 +50,4 @@ Findings from the CLL section of the thematic analysis. Teachers reported the tr
 - [Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work](trust-first-goal-foster-care-students.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — a broader claim this one bears on
+- [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related

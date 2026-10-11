@@ -47,3 +47,4 @@ Language-transfer analysis comparing direction of transfer on matched chemistry 
 - [LLM embedding-based SRL classifiers trained on one language reliably classify SRL categories in the other language within the same instructional domain](llm-srl-classifiers-transfer-across-languages-within-domain.md) — related
 - [Cross-language SRL classifier transfer shows about 0.1 AUC degradation relative to within-language performance, except for realizing errors](srl-transfer-degradation-tenth-auc-within-domain.md) — related
 - [Cross-language SRL misclassifications arise from subject-specific terminology that differs from commonplace translation, especially in the enact category](srl-transfer-errors-subject-specific-terminology.md) — related
+- [Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages](bilingual-pairs-cross-lingual-technique-transfer.md) — related

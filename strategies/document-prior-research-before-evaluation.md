@@ -37,7 +37,8 @@ The article recommends that organizations systematically document previous resea
 - Grounding evaluation planning in documented prior research and community-needs understanding
 
 ## Related Strategies
-- 
+
+- [Sequence future adult-learning evaluation from usability observation to assistance-condition comparison with supervised independent assessment](praxis-future-evaluation-sequence.md)
 
 ## Examples
 -

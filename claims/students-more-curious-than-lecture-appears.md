@@ -47,3 +47,4 @@ Observational classroom study in a junior-level electromagnetics engineering phy
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
+- [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related

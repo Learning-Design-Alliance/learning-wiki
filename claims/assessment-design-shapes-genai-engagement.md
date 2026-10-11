@@ -44,3 +44,4 @@ The article argues, within its literature synthesis, that assessment is more tha
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related
+- [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related

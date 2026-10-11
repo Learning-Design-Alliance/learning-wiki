@@ -33,7 +33,7 @@ sources:
 # Longitudinal achievement growth analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 22 claims (19 for, 3 mixed) · 10 studies (9 associational, 1 theoretical), `q1`–`q2` · 0 of 10 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (20 for, 3 mixed) · 11 studies (10 associational, 1 theoretical), `q1`–`q3` · 0 of 11 report an effect size · 23 claims rest on one study
 
 ## Description
 This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time. The article argues that "Longitudinal data analysis is critical to understanding how academic achievement for DHH students progresses over time and where they may need additional support on their academic journey to achieve at the level of their hearing peers." It grounds support decisions in multi-year growth evidence rather than single snapshots.
@@ -47,6 +47,7 @@ This principle holds that educators and researchers should use longitudinal data
 - **The learning productivity measurement system as a framework for using student and school descriptive indicators of learning progress**: The article presents a measurement framework that moves from the conditional growth index toward a learning productivity measurement system for describing learning progress. Its title frames this as "From the conditional growth index to the learning productivity measurement system", indicating a system that organizes student and school descriptive indicators of learning progress into a coherent measurement approach for interpreting growth over time. (The effective use of student et al. (2015))
 - **Value-added academic productivity indicator estimating each school's contribution to student learning from longitudinal test scores**: The Consortium's academic productivity research uses a value-added approach in which, "Using Iowa Tests of Basic Skills (ITBS) data, the productivity indicator estimates each school's contribution, or value-added, to the learning of students enrolled at that school." A more refined statistical model developed with Steve Raudenbush assumes each student has an academic growth trajectory shaped by latent growth parameters and exposure to instruction in a given class and school, permitting estimation of student growth curves and time trends for classroom and school effects. The agenda proposes extending this to classroom-level analysis and comparing it against NCLB adequate-yearly-progress bench (Sebring (2003))
 - **Track English learners as kindergarten-entry cohorts over time rather than as a point-in-time snapshot to avoid selection bias from reclassification**: The report argues that studying only current ELs distorts the picture of EL progress, because the highest-achieving ELs are reclassified out of the EL pool and newcomers enter it later. It instead follows "all California public school students who began receiving EL services starting in kindergarten" through all subsequent years, including years after reclassification. The authors state that "We can more clearly gauge the progress of EL students using this longitudinal, tracking-over-years approach." (Novicoff et al. (2024))
+- **Do not assume linear within-year growth when estimating learning from achievement data**: Analyses that estimate how much students learn during the school year — for school-year-length policy, summer-loss studies, or gap research — should test rather than assume that within-year growth is linear. The article's own finding is that "assuming linear within-year growth is often not justified, particularly in reading," so linear-growth assumptions can distort such estimates, especially in reading. (Megan Kuhfeld (2020))
 
 ### Claims
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](../claims/dhh-students-continue-building-skills-no-elementary-plateau.md) [+M]
@@ -71,6 +72,7 @@ This principle holds that educators and researchers should use longitudinal data
 - [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](../claims/2001-math-decline-confirmed-by-rasch-analysis.md) [~W]
 - [K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs](../claims/k-cohort-el-3rd-grade-achievement-improved-shrinking-gaps.md) [+M]
 - [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](../claims/proficiency-reclassification-gap-ltels.md) [+M]
+- [Within-school-year achievement growth is often not linear, particularly in reading](../claims/within-year-growth-often-nonlinear-reading.md) [+M]
 
 ## Related Research Methods
 -
@@ -88,6 +90,7 @@ This principle holds that educators and researchers should use longitudinal data
 - The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/
 - Sebring, Penny Bender. (2003). Research Agenda 2004-2008. Consortium on Chicago School Research. https://www.consortium-chicago.org/publications
 - Novicoff, S., Reardon, S. F., & Johnson, R. C. (2024). California's English learners and their long-term learning outcomes. Learning Policy Institute. https://doi.org/10.54300/636.224
+- Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
 
 # Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System
 

@@ -43,4 +43,4 @@ The article reports, citing Bastani et al. (2025), a randomized field experiment
 
 
 ## Related Claims
--
+- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — a narrower finding that bears on this claim

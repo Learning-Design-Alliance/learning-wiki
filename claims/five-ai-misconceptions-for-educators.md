@@ -49,3 +49,4 @@ This is an author position statement in the misconceptions brief, offered with n
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — reports the opposite
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
+- [AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations](ai-as-support-not-substitute-for-judgment.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -52,6 +52,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [+M]
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](../claims/rl-sequencing-beats-fixed-oral-curriculum.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+- [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](../claims/ai-personalization-benefits-performance-motivation.md) [+W] — attached 2026-10-11 from Ikram M et al. (2026), which proposed "Education 5.0: a learner-centered paradigm integrating generative AI with humanistic values and human-AI collaboration"; tests this page's relationship.
 
 ## Related Theories
 

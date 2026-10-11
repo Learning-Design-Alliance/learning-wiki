@@ -48,3 +48,4 @@ Evaluation of GPT-4 redaction against corrected human ground truth on 3,505 foru
 - [Fine-tuned GPT-4o-mini achieves the highest recall (0.9589) among tested PII detection models on the CRAPII dataset](fine-tuned-gpt4o-mini-highest-recall-crapii.md) — related
 - [GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion](gpt4-redaction-performance-varies-by-course-content.md) — related
 - [GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions](gpt4-over-redaction-of-non-pii-names-and-locations.md) — a narrower finding that bears on this claim
+- [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related

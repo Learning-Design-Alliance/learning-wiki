@@ -49,6 +49,8 @@ The review recommends that educators craft assignments incorporating generative 
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use](design-projects-for-evaluating-ai-outputs.md)
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
+- [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
+- [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 
 ## Examples
 -

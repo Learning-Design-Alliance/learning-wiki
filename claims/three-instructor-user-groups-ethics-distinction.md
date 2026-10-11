@@ -45,3 +45,4 @@ Cluster analysis of the instructor sample (n = 256) from the questionnaire study
 
 ## Related Claims
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related

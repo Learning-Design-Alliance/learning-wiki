@@ -76,3 +76,7 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — a narrower finding that bears on this claim
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
+- [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
+- [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related

@@ -38,7 +38,8 @@ The article recommends that team-based discovery learning "operates more optimal
 - writing comprehensive research proposals
 
 ## Related Strategies
-- 
+
+- [Pre-author simplified question variants rather than generating them on the fly](pre-author-simplified-question-variants.md)
 
 ## Examples
 -

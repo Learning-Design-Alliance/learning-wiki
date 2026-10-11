@@ -47,3 +47,4 @@ Descriptive account of the CLICKSTREAM prototyping process, in which learning sc
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related
 - [In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment](raw-agreement-kappa-paradox-classroom-video.md) — related
+- [Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D](context-type-c-d-not-operationally-distinguished.md) — related

@@ -77,3 +77,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
 - [Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier](low-urgency-rank-agreement.md) — related
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
+- [Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity](jaccard-agreement-multilabel-codebook-052.md) — related

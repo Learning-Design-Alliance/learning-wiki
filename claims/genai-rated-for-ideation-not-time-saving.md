@@ -65,3 +65,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — reports the opposite
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related

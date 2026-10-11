@@ -44,6 +44,7 @@ The article's discussion recommends that universities first avoid assuming lower
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
+- [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 
 ## Examples
 -

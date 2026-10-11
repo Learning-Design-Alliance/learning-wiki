@@ -53,3 +53,4 @@ In the 60-school cluster RCT (1,396 students), subgroup and school-characteristi
 - [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — a narrower finding that bears on this claim
+- [ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context](its-benefits-vary-by-design-context.md) — related

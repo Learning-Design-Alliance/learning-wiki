@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (61 for, 17 mixed, 6 against) · 67 studies (19 associational, 13 review, 11 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 67 report an effect size · 76 claims rest on one study
+> **Evidence** · 85 claims (61 for, 17 mixed, 7 against) · 68 studies (19 associational, 13 review, 12 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 68 report an effect size · 77 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -117,6 +117,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Self-regulated learning and critical AI evaluation promote effective AI use](../claims/srl-and-critical-evaluation-promote-effective-ai-use.md) [+M] — learners who differ on it differ in outcomes
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](../claims/ci-higher-self-regulation-no-coreg-differences.md) [+M] — instruction changes it
 - [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](../claims/partial-mediation-direct-effect-genai-literacy-srlb.md) [+M] — instruction changes it
+- [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](../claims/helpcoach-no-self-regulation-gain.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

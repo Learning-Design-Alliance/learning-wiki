@@ -52,3 +52,4 @@ Systematic literature review of studies on AI ethics in education and academic m
 - [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](substitutive-duplicative-offloading-outcomes.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
+- [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
