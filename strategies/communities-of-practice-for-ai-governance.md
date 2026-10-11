@@ -78,6 +78,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well](educative-shift-genai-integrity-policy.md)
 - [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 - [Embed automated question categorisation in learning management systems and develop ethical guidelines for AI in formative assessment](lms-embedded-question-categorisation-ethical-guidelines.md)
+- [Pursue ethical AI feedback use as a collective effort across multiple stakeholders in and beyond higher education](collective-stakeholder-effort-ethical-ai.md)
+- [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 
 ## Examples
 -

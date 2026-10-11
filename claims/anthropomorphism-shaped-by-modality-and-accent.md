@@ -50,3 +50,4 @@ Synthesis of drawing and survey findings across the four conditions in the 33-te
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
 - [Role expectations for a group-facing AI agent are anchored in early encounters rather than renegotiated throughout collaboration](early-exposure-anchors-agent-role-expectations.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related

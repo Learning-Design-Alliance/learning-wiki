@@ -1,0 +1,46 @@
+---
+type: claim
+title: Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations
+description: Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations
+id: learning-disability-feedback-lowered-expectations
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: ld-results
+    title: ld-results
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+
+## Subclaims
+`q2 i?` For students identified as having a learning disability, generated feedback focused on word- and sentence-level remediation and relied on simplified vocabulary, positioning these students as needing simplification rather than substantive writing instruction. [→ ld-results](#ld-results)
+
+## Evidence
+
+### ld-results
+
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+
+`q2 · i?` · `causal · r2`
+
+Lexical comparison of learning-disability-prompted versus baseline feedback for the same essays; Table 3 shows marked-condition words such as try, help, simpler, shorter, and inclusive pronouns (you, we, let's), against more nuanced evaluative language when no disability was specified. No effect size is printed.
+
+> "For students identified as having a learning disability, generated feedback focused on word- and sentence-level remediation and relied on simplified vocabulary."
+
+## Discussion
+
+
+## Related Claims
+- [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](downward-shift-benchmark-dependence.md) — related
+- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
+- [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related

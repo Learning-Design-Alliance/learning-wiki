@@ -46,3 +46,4 @@ Descriptive analysis of declared tool use in the case study cohort (31, 31, and 
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — related
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
 - [GenAI performance on the same OOP assessments improved substantially compared with the previous year's evaluation](genai-longitudinal-improvement-oop-assessments.md) — related
+- [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related

@@ -45,3 +45,4 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](condition-subject-main-effects-no-interaction.md) — a broader claim this one bears on
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
+- [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related

@@ -65,3 +65,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a broader claim this one bears on
 - [The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results](students-unconfident-first-inquiry-results.md) — related
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](verbalizing-overconfidence-consistency-local-failures.md) — related
+- [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related

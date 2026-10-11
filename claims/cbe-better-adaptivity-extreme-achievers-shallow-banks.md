@@ -50,3 +50,4 @@ Simulation results comparing adaptivity (delta values) and SEM of instructional 
 - [The CBE and COLO engines met content specifications and recovered true scores well for the nine simulated MAP Growth tests](cbe-colo-comparable-content-validity-theta-recovery.md) — related
 - [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — related
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related
+- [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related

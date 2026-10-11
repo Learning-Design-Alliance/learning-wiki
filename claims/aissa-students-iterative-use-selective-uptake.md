@@ -69,3 +69,4 @@ From the same interview study, the article reports selective uptake of feedback:
 - [Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance](aicofe-initial-deployment-positive-perceptions.md) — a broader claim this one bears on
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — a broader claim this one bears on
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related

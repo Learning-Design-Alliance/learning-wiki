@@ -66,6 +66,7 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Role-Play](acting-role-play.md) — low-fidelity simulation using human participants as the environment
 - [Deliberate Practice](../principles/deliberate-practice.md) — simulation provides the controlled, repeatable conditions deliberate practice requires
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
+- [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

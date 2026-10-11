@@ -50,3 +50,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
+- [Empirical research on the ethical implications of teachers using AI for feedback remains scarce](empirical-gap-ethics-ai-feedback.md) — related

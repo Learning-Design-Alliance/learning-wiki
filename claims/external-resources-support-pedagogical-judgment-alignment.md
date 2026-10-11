@@ -47,3 +47,4 @@ Qualitative discourse analysis of two comparative case-study debrief episodes (N
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](tft-teacher-instruction-improvement-targets.md) — related
+- [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related

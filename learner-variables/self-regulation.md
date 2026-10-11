@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (61 for, 17 mixed, 7 against) · 68 studies (19 associational, 13 review, 12 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 68 report an effect size · 77 claims rest on one study
+> **Evidence** · 95 claims (68 for, 19 mixed, 8 against) · 72 studies (19 associational, 15 review, 14 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 72 report an effect size · 87 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -118,6 +118,16 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](../claims/ci-higher-self-regulation-no-coreg-differences.md) [+M] — instruction changes it
 - [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](../claims/partial-mediation-direct-effect-genai-literacy-srlb.md) [+M] — instruction changes it
 - [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](../claims/helpcoach-no-self-regulation-gain.md) [-M] — instruction changes it
+- [AI applications support self-regulated learning regulation but not motivational regulation](../claims/ai-supports-srl-not-motivation-regulation.md) [+M] — instruction changes it
+- [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](../claims/ai-practice-apps-improve-music-learning-outcomes.md) [+M] — instruction changes it
+- [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](../claims/metacognitive-feedback-reduces-reminder-bias.md) [+M] — instruction changes it
+- [In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task](../claims/feedback-reduces-absolute-metacognitive-bias-exp1.md) [+M] — instruction changes it
+- [In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task](../claims/feedback-reduces-pretask-metacognitive-bias.md) [~M] — instruction changes it
+- [In Experiment 2, absolute metacognitive bias decreased linearly across the four additive intervention groups, and the full intervention group was significantly less biased than control](../claims/exp2-linear-reduction-absolute-metacognitive-bias.md) [+M] — instruction changes it
+- [In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit](../claims/prediction-alone-ineffective-performance-feedback-sufficient.md) [~M] — instruction changes it
+- [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](../claims/exp2-signed-metacognitive-bias-not-replicated.md) [-M] — instruction changes it
+- [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant](../claims/metacognitive-feedback-disrupts-repeated-answer-offloading.md) [+M] — instruction changes it
+- [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](../claims/metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

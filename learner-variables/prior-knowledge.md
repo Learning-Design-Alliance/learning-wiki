@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (37 for, 21 mixed, 9 against) · 56 studies (18 causal, 12 review, 9 associational, 7 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 56 report an effect size · 59 claims rest on one study
+> **Evidence** · 68 claims (38 for, 21 mixed, 9 against) · 57 studies (18 causal, 12 review, 9 associational, 7 theoretical, 6 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 57 report an effect size · 60 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -100,6 +100,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](../claims/procedural-prior-predicts-conceptual-post.md) [~M] — learners who differ on it differ in outcomes
 - [Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)](../claims/gpt-output-effect-depends-on-prior-knowledge-and-domain.md) [~M] — an instructional effect differs with it
 - [Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement](../claims/learner-profiles-predict-proactive-ai-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Representation-alignment tension between expert externalization and novice comprehension](../claims/representation-alignment-tension-expert-novice.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

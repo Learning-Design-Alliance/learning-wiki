@@ -81,12 +81,14 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 7. **Assess transfer.** Look for unprompted strategy use in new tasks, not just compliance during scaffolded ones.
 
 ## Related Strategies
+
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — the general I-do/we-do/you-do arc that self-regulation scaffolding follows
 - [Self-Assessment](../elements/self-assessment.md) — the monitoring skill learners must internalize for regulation to transfer
 - [Goal-Setting with Students](../strategies/goal-setting-with-students.md) — the planning phase made collaborative rather than imposed
 - [Emotion Check-Ins](../strategies/emotion-check-ins.md) — building awareness of emotional states as a precondition for managing them
 - [Self-Monitoring Checklists](self-monitoring-checklists.md) — a concrete scaffold that later becomes the learner's own tool
 - [Goal-Setting Conferences](goal-setting-conferences.md) — structures the planning phase of the self-regulation cycle
+- [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](independent-practice-cycles-for-ai-regulation.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — a well-validated curriculum model in which teachers model planning strategies for writing, students practice with graphic organizers and self-statements ("What do I do first?"), and supports fade as students internalize the process (see [Graham & Harris's SRSD materials](https://srsdresearch.org)).

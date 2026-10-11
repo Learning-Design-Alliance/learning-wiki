@@ -53,3 +53,4 @@ Systematic literature review following PRISMA guidelines, searching multiple dat
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — a narrower finding that bears on this claim
 - [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](ai-pbl-adaptive-personalized-engagement.md) — possibly the same claim (merge candidate)
 - [All reviewed studies aiming to improve AI literacy or adjacent constructs reported their methodology enhanced the targeted construct](all-studies-enhanced-targeted-construct.md) — related
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related

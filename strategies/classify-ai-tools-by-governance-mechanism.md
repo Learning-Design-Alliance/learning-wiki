@@ -43,6 +43,7 @@ The article applies its framework to four published tools as a transfer test and
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [When integrating GenAI, deliberately weigh control-oriented structures against designs that promote learner agency and creativity](weigh-control-versus-agency-in-genai-integration.md)
 
 ## Examples
 -

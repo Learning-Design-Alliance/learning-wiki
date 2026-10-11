@@ -1,0 +1,52 @@
+---
+type: claim
+title: Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)
+description: Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)
+id: answer-offloading-associated-lower-unaided-performance-exploratory
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: sebastian-maier-2026
+    resource: "https://arxiv.org/abs/2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 3
+---
+
+# Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r3` · `q2`
+
+## Subclaims
+`q2 i?` A 10 percentage point increase in answer offloading was associated with 32% lower odds of answering a test item correctly (OR = 0.68). [→ Sebastian Maier 2026](#sebastian-maier-2026)
+
+## Evidence
+
+### Sebastian Maier 2026
+
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+
+`q2 · i?` · `causal · r3`
+
+Exploratory item-level logistic mixed-effects model (3,348 items from 558 participants) predicting unaided-test correctness from participants' answer-offloading rate, adjusting for condition, perceived confidence, and test items. The association is observational, not a causal effect of offloading.
+
+> "A 10 percentage point increase in answer offloading was associated with 32% lower odds of answering a test item correctly (OR= 0.68, 95% CI[0.62, 0.74],𝑧=− 8.75,𝑝<. 001)"
+
+## Discussion
+
+
+## Related Claims
+- [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
+- [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related
+- [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — related
+- [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant](metacognitive-feedback-disrupts-repeated-answer-offloading.md) — related
+- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — related
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — related

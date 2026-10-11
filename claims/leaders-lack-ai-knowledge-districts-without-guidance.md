@@ -48,3 +48,4 @@ The brief cites a recent survey of superintendents, reporting that "92% of super
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
+- [Student generative AI use rose sharply while institutional support lagged, per a 2025 survey the article cites](student-genai-use-92-percent-institutional-support-lag.md) — related

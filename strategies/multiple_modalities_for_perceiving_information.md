@@ -64,6 +64,8 @@ Pairing words with relevant pictures or narration improves learning compared wit
 - Activating prior knowledge — preparing learners before a complex multimodal presentation reduces the load of interpreting a new representation
 - Accessible vocabulary and syntax — the textual counterpart to modality accessibility; both remove unnecessary processing barriers
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
+- [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
+- [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated physics and chemistry simulations combining visual manipulation with optional guided-inquiry activities; widely used for dynamic processes that static text cannot show

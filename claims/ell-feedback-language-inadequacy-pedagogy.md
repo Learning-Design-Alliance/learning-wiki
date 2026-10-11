@@ -1,0 +1,46 @@
+---
+type: claim
+title: Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning
+description: Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning
+id: ell-feedback-language-inadequacy-pedagogy
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: ell-results
+    title: ell-results
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+
+## Subclaims
+`q2 i?` For students identified as English language learners, generated feedback focused heavily on grammar, mechanics, and form, narrowing feedback to surface-level corrections rather than higher-order concerns of argument and reasoning. [→ ell-results](#ell-results)
+
+## Evidence
+
+### ell-results
+
+Mei Tan, Lena Phalen, and Dorottya Demszky. 2026. Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. In LAK 2026: 16th International Learning Analytics and Knowledge Conference (LAK 2026). ACM, New York, NY, USA. https://doi.org/10.1145/3785022.3785113
+
+`q2 · i?` · `causal · r2`
+
+Lexical comparison of feedback generated with ELL-designated prompts versus baseline prompts for the same essays; Table 3 lists top significant words (e.g., formal, spelling, correct, tense) with |z| > 1.96 shared across multiple models. When ELL status was unspecified, feedback was more often oriented toward ideas and structure. No effect size is printed for this qualitative pattern.
+
+> "For students identified as English language learners (ELL), generated feedback focused heavily on grammar, mechanics, and form. As shown in Table 3, models made judgments about ELL students’ grasp of language and the “correctness” of their English"
+
+## Discussion
+
+
+## Related Claims
+- [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — a broader claim this one bears on
+- [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](race-prompts-cultural-stereotype-feedback.md) — related
+- [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related

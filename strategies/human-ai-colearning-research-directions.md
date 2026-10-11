@@ -48,6 +48,7 @@ If the observed reversal reflects genuine cognitive reappraisal, the article rec
 - [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
+- [Rethink the music curriculum around DAW literacy, AI literacy, rights and economics knowledge, and defended ensemble practice](music-curriculum-four-rethink-directions.md)
 
 ## Examples
 -

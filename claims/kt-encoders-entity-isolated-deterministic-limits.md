@@ -45,3 +45,4 @@ The authors' interpretive framing of the field: they state that despite question
 ## Related Claims
 - [Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies](adaptive-g-ukt-learned-topology-interpretable.md) — related
 - [Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes](adaptive-g-ukt-competitive-performance-sparse-regimes.md) — related
+- [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — related

@@ -48,3 +48,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 ## Related Claims
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
+- [Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats](moocs-low-completion-embodied-music-learning.md) — related

@@ -57,3 +57,4 @@ Systematic literature review of recent studies on AI ethics in education. The re
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — a narrower finding that bears on this claim
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
+- [The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment](aligned-genai-policy-two-benefits.md) — a narrower finding that bears on this claim

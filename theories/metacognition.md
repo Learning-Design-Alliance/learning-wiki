@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 6 studies (3 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 7 studies (4 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -48,6 +48,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](../claims/feedback-effects-on-offloading-mixed.md) [~W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Nelson and Narens's dynamic metacognitive model applied to cognitive offloading: object level and meta level with monitoring and control"; tests this page's relationship.
 - [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](../claims/speedup-illusion-ai-assisted-time-underestimation.md) [+W] — attached 2026-10-10 from Sunny Yu et al. (2026), which proposed "Asymmetric miscalibration account of cognitive offloading to AI (the speedup illusion framework)".
 - [Students' self-assessed question specificity was not significantly correlated with their observed specificity](../claims/students-miscalibrate-question-specificity.md) [~W] — attached 2026-10-11 from Hyoungwook Jin et al. (2026), which proposed "The pathway to targeted help-seeking: three metacognitive skills"; tests this page's relationship.
+- [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](../claims/experiential-delayed-mrc-increase.md) [+W] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Temporal decoupling of metacognitive knowledge and regulation under experiential AI-assisted learning".
+- [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](../claims/experiential-beats-instructional-immediate-aie-mkc.md) [+M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Temporal decoupling of metacognitive knowledge and regulation under experiential AI-assisted learning".
 
 ## Related Theories
 

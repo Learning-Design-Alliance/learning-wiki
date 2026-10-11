@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (69 for, 18 mixed, 9 against) · 90 studies (27 associational, 22 causal, 17 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 90 report an effect size · 89 claims rest on one study
+> **Evidence** · 99 claims (70 for, 18 mixed, 11 against) · 93 studies (27 associational, 24 causal, 18 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 93 report an effect size · 92 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -130,6 +130,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](../claims/ai-tutor-engagement-motivation-higher.md) [+M] — instruction changes it
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](../claims/extrinsic-goals-associated-with-cheating.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](../claims/self-efficacy-negative-ability-not-correlated-cheating.md) [+M] — learners who differ on it differ in outcomes
+- [AI applications support self-regulated learning regulation but not motivational regulation](../claims/ai-supports-srl-not-motivation-regulation.md) [-M] — instruction changes it
+- [Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance](../claims/intrinsic-motivation-gains-not-significant-all-modalities.md) [-M] — instruction changes it
+- [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](../claims/motivation-prompt-enthusiasm-pedagogy.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

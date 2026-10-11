@@ -52,3 +52,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
 - [Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven](four-session-engagement-types-genai-tutor.md) — related
+- [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related

@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; and overwhelming commentary on every weakness. Feedback is most useful when understood, so teachers should comment in complete sentences or detailed phrases that are clear, specific, and concrete, prioritize a few features of the text, and articulate their feedback philosophies and expectations to learners.
@@ -39,7 +39,8 @@ Teachers should avoid responding in ways that cause frustration: unclear or cryp
 - sustained motivation and interest in writing
 
 ### Claims
-- 
+
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](../claims/ai-feedback-higher-perceived-quality-value.md) [+W] — attached 2026-10-11 from Chloe Qianhui Zhao et al. (2026), which proposed "Design feedback as structured, progressively disclosed, and context-enhanced to reduce extraneous cognitive load".
 
 ## Related Principles
 

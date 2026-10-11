@@ -43,6 +43,7 @@ The article's discussion recommends that educational practice address both prote
 - [Include AI literacy in the technology component of TPACK to address bias, hallucinations, and critical thinking with generative AI](ai-literacy-in-tpack-technology-component.md)
 - [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
 - [Reduce cheating holistically by enhancing perceived assessment purpose, fostering self-efficacy, and increasing perceived costs of cheating](three-pronged-holistic-cheating-prevention.md)
+- [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 
 ## Examples
 -

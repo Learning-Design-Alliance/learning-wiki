@@ -1,0 +1,48 @@
+---
+type: claim
+title: Error rates per completed problem-solving step did not significantly differ between conditions
+description: Error rates per completed problem-solving step did not significantly differ between conditions
+id: no-difference-error-rate-log
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: rief-2026
+    resource: "https://arxiv.org/abs/2609.02611"
+    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611"
+    author: Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Error rates per completed problem-solving step did not significantly differ between conditions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+
+## Subclaims
+`q2 i?` Error rate per completed step was statistically comparable across conditions. [→ Rief 2026](#rief-2026)
+
+## Evidence
+
+### Rief 2026
+
+Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+
+`q2 · i?` · `causal · r2`
+
+Exploratory log-data analysis from all 252 participating students found error rates of M=0.46 (Cognitive) versus M=0.47 (Mindful) per completed step, not significantly different (W=7257, p=.606); equivalence was not tested.
+
+> "Error rate did not significantly differ between groups withM= 0.46 (SD= 0.38) for the Cognitive andM= 0.47 (SD= 0.45) for the Mindful group (Mann-Whitney-U,W= 7257,p= .606)."
+
+## Discussion
+
+
+## Related Claims
+- [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
+- [The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step](ai-fallibility-warning-no-performance-effect.md) — possibly the same claim (merge candidate)
+- [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related

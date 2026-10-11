@@ -42,6 +42,7 @@ Based on the observed differentiated trajectories and the time-lag effect in low
 - [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
 - [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
+- [Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision](tailor-feedback-strategy-by-question-type.md)
 
 ## Examples
 -

@@ -1,0 +1,58 @@
+---
+type: strategy
+id: subject-sensitive-ai-governance-integrating-epistemic-literacy
+title: Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance
+description: "The article recommends moving beyond restrictive governance toward \"a framework that formally integrates overlapping operational and epistemic workflow competencies, emphasizing the need for subject-sensitive guidance..."
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+sources:
+  - id: martin-lnenicka-and-petr-coufal-2026
+    resource: "https://doi.org/10.1186/s40594-026-00637-8"
+    title: "Martin Lnenicka and Petr Coufal. (2026). Navigating AI in STEM: what secondary students actually do with generative AI-driven tools. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00637-8"
+    author: Martin Lnenicka and Petr Coufal
+---
+
+# Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article recommends moving beyond restrictive governance toward "a framework that formally integrates overlapping operational and epistemic workflow competencies, emphasizing the need for subject-sensitive guidance that ensures AI enhances rather than displaces disciplinary rigor". Because perceived restrictions co-occur with poor rule clarity and clandestine use, the strategy calls for clear, discipline-specific guidelines that foster productive scaffold use rather than blanket prohibition, and for cultivating epistemic literacy so responsible integration depends less on access than on critical evaluation skills.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Formal, documented guidelines for acceptable AI use per subject, since guidance currently often relies on implicit norms of individual instructors
+#### Constraints
+- Cross-sectional associations cannot establish that governance shapes behavior; reverse causality, where clandestine use shapes perceptions of ambiguity, is equally plausible per the article
+
+### Target Learners
+- secondary students in STEM subjects
+- teachers in business-oriented secondary schools
+
+### Target Learning Goals
+- responsible and epistemically vigilant AI use
+- disciplinary rigor in STEM problem solving
+
+### Affordances
+- Dual Ai Literacy Interdependent Workflow Phases
+
+## Related Strategies
+
+- [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
+- [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
+- [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Move beyond generic AI policies to method-based ethical policies and process-oriented assessment](method-based-ethical-policies-process-assessment.md)
+- [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
+- [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+
+## Examples
+-
+
+## Key Sources
+- Martin Lnenicka and Petr Coufal. (2026). Navigating AI in STEM: what secondary students actually do with generative AI-driven tools. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00637-8

@@ -46,6 +46,7 @@ The Montebello project added a language column to the 5E template so teachers id
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 - [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
 - [Scaffolding Structure and Function in PBL](scaffolding_structure_and_function_in_pbl.md)
+- [Phase-aligned teaching applications for LLM-supported learning across five phases](phase-aligned-llm-teaching-applications.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Benchmark-level TZA breakdown (Table 2): general model Lower-target accuracy rea
 - [The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward](divergent-lexical-mutation-strategies.md) — related
 - [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](llm-upward-cognitive-shift-asymmetry.md) — a broader claim this one bears on
 - [Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward](tza-higher-versus-lower-bloom-targets.md) — related
+- [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related

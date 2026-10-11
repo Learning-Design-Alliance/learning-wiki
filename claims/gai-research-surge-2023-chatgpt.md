@@ -48,3 +48,4 @@ Descriptive bibliometric analysis of the review's 197-article corpus: 54% of art
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — a narrower finding that bears on this claim
+- [Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research](llm-chatbots-most-common-ai-online-he.md) — related

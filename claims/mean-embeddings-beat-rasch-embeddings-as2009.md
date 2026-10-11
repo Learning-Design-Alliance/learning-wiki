@@ -47,3 +47,4 @@ Observation from the ablation study on AS2009: swapping AKT's Rasch embeddings f
 - [KTST performance gains over baselines using the expanded representation are most pronounced on datasets with high knowledge-component-to-question ratios](ktst-gains-largest-high-kc-ratio-datasets.md) — related
 - [Learnable ALiBi with query equal to key in cross-attention is the best-performing attention configuration for KTSTs](learnable-alibi-best-attention-ktst-ablation.md) — related
 - [KTST models achieve state-of-the-art AUC results on pyKT benchmark datasets except Statics2011](ktst-state-of-the-art-auc-pykt-benchmark.md) — related
+- [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](mbp-kt-attention-recency-to-long-range.md) — related

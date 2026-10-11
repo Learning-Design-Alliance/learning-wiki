@@ -24,7 +24,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 13 studies (5 quant-synthesis, 3 theoretical, 2 causal, 2 review, 1 associational), `q1`–`q4` · 6 of 13 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 14 studies (5 quant-synthesis, 3 theoretical, 2 causal, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 14 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -108,6 +108,7 @@ Do not combine these into one strength or rank them: two are single lessons or c
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (abstract)
+- [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](../claims/genai-automation-shifts-constructive-alignment-toward-compliance.md) [~W] — attached 2026-10-11 from McInnes et al. (2026), which proposed "Reclaim constructive alignment as a reflective, human-centred practice rather than automating it through GenAI".
 
 ## Illustrative design instance and observation record
 

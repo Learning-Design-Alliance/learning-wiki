@@ -45,6 +45,7 @@ The Teacher Interaction Layer lets educators delimit what the virtual tutor may 
 
 - [Curating Resources](curating_resources.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Use a non-generative AI chatbot with a pre-programmed, human-curated knowledge base to answer student questions with pre-approved responses](non-generative-chatbot-knowledge-base-strategy.md)
 
 ## Examples
 -

@@ -62,6 +62,7 @@ Multisensory presentation works because separate processing channels for visual 
 - [Multimedia Learning](../principles/cognitive-load-management.md) — the design principles governing audio-visual combinations
 - [Chunking](../principles/chunking.md) — manages the per-channel load that multisensory presentation adds
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
+- [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated, hand-drawn video explanations pair spoken reasoning with evolving visuals, followed by practice.

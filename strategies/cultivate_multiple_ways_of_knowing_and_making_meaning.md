@@ -67,6 +67,7 @@ Multiple representations strengthen learning by giving learners redundant, compl
 - [Building Empathy](../principles/building-empathy.md) — a core outcome of engaging multiple cultural perspectives
 - [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 - [Use inclusive visual maps of a discourse field to expose educators to multiple perspectives before making pedagogical and curricular choices](map-discourse-before-pedagogical-choice.md)
+- [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](curiosity-cases-and-simple-examples-lower-barriers.md)
 
 ## Examples
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — the multiple-means-of-representation / -action-and-expression framework operationalizes this strategy systemwide.

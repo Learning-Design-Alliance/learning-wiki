@@ -59,9 +59,11 @@ The strategy combines two well-supported mechanisms: individual think time befor
 6. Pairs present to another small group; peers respond with feedback at the task level — what worked in the story, what was unclear [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the underlying participation routine; collaborative storytelling extends it across a full product cycle
 - [Jigsaw](jigsaw.md) — an alternative structure for distributing interdependent work across learners
 - [Story Retelling](story-retelling.md) — a receptive counterpart focused on comprehending rather than composing narratives
+- [Allow students to practise storytelling in their preferred language to support creative expression](preferred-language-storytelling-practice.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the rehearsal phase converts the written draft into fluent oral storytelling

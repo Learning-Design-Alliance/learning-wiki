@@ -45,3 +45,4 @@ One-on-one constructivist teaching experiments with two preservice middle school
 ## Related Claims
 - [Students transferred cube-based permutation reasoning to permutation tasks not involving cubes](cube-reasoning-transfers-to-non-cube-permutation-tasks.md) — related
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers](216-scenarios-filtered-to-24-priority.md) — related

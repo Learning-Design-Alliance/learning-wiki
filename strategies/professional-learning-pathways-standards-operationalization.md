@@ -50,6 +50,7 @@ The article recommends embedding the standards into structured professional lear
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration](sustained-accompaniment-for-digital-integration.md)
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
+- [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 
 ## Examples
 -

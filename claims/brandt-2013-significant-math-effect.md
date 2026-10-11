@@ -51,3 +51,4 @@ Cluster randomized controlled trial in 39 rural, high-poverty Missouri schools, 
 - [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](emints-math-effect-015-strong.md) — possibly the same claim (merge candidate)
 - [eMINTS shows no differences in reading outcomes compared with traditional control schools](emints-no-reading-differences.md) — related
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — reports the opposite

@@ -52,6 +52,8 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
+- [Reposition educational developers as active pedagogical collaborators in constructive alignment rather than technology implementers](educational-developers-as-pedagogical-collaborators.md)
+- [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 
 ## Examples
 -

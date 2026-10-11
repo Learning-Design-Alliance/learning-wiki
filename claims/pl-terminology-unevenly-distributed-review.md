@@ -47,3 +47,4 @@ Systematic review results section reporting term usage across the final corpus o
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
 - [Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare](ai-pl-review-qualitative-dominance.md) — related
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
+- [Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates](cybernetics-to-ai-terminology-shaped-debates.md) — related

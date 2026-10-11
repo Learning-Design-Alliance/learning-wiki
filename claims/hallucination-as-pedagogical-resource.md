@@ -50,3 +50,4 @@ Theoretical argument in the Confabulations section: learners lack the background
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
+- [The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust](ai-navigation-requires-guiding-principles.md) — related

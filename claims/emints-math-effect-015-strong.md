@@ -47,3 +47,4 @@ Program evaluation comparing eMINTS schools with traditional control schools acr
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — possibly the same claim (merge candidate)
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](martin-2009-indeterminate-effects.md) — related
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — reports the opposite

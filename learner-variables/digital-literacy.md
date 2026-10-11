@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (21 for, 2 mixed, 4 against) · 28 studies (8 causal, 8 associational, 4 review, 3 qualitative, 3 design, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (22 for, 2 mixed, 4 against) · 29 studies (8 causal, 8 associational, 4 review, 4 design, 3 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 26 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -60,6 +60,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](../claims/training-gains-across-experience-levels-largest-for-novices.md) [+M] — an instructional effect differs with it
 - [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](../claims/ai-literacy-recalibrates-rather-than-increases-trust.md) [+M] — instruction changes it
 - [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](../claims/structured-ai-workflow-dcts-gains-efl.md) [+M] — instruction changes it
+- [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](../claims/insight-training-increases-perceived-ease-of-use-ai.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

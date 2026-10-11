@@ -49,3 +49,4 @@ Descriptive statistics on technology selections across projects (Figure 5, N=666
 - [Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems](aied-2025-majority-papers-use-llms.md) — related
 - [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
+- [Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research](llm-chatbots-most-common-ai-online-he.md) — related

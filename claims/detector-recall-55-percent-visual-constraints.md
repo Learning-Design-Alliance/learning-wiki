@@ -46,3 +46,4 @@ Ground-truth validation using stratified random sampling of one full video per t
 - [Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded](computer-led-exploration-shaped-detectable-events.md) — a broader claim this one bears on
 - [The pose-based detector surfaced 317 teacher–group interaction events across 21 student groups, averaging 15.10 events per group with mean duration 32.73 seconds](detector-surfaced-317-interaction-events.md) — related
 - [Mixed-effects models showed significant shifts in pose keypoints emphasized by the detector before-to-during and before-to-after interactions, while no audio features changed significantly](keypoint-shifts-significant-audio-null.md) — related
+- [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — related

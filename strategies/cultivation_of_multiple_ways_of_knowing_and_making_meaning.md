@@ -64,6 +64,7 @@ Presenting concepts through multiple representations and inviting learners to co
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — multiple means of representation and expression as accessibility infrastructure
 - [Case-Based Learning](case-based-learning.md) — using varied cases as multiple entry points into a concept
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](indigenous-non-indigenous-collaborative-pedagogy.md)
+- [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](curiosity-cases-and-simple-examples-lower-barriers.md)
 
 ## Related Elements
 - [Choice Boards](../elements/choice-boards.md) — operationalizes multiple demonstration formats

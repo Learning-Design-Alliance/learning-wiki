@@ -21,6 +21,7 @@ A prototype web-based learning-graph platform developed by Smadar Szekely and co
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Initial learnity-graph prototype demonstrating exploration of evolving learning graphs**: The authors provide "an example of an initial infrastructure demonstrating how the learnity-graph concept may be realized in practice" at https://learnity-graph.vercel.app. The system enables exploration of opportunities and challenges of representing learning as evolving graphs, including personalization, development tracking, learning recommendation, and issues of structure, standardization, and interpretation. It is offered as an early illustration, not a validated system. (Smadar Szekely et al. (2018))
+- **Learnity graph design considerations: granularity, relationship types, and orthogonal structural dimensions**: The article enumerates design considerations for constructing learnity graphs. Nodes vary in granularity, with some learnities emerging "from the integration of multiple learnities into higher-level competencies"; edges capture prerequisite dependencies, interdisciplinary interactions, specialization pathways, and compositional integration; and layers represent depth of development while subgraphs represent context such as academic, professional, or self-directed learning. These dimensions should be orthogonal and provide complementary perspectives on development. (Smadar Szekely et al. (2018))
 
 ### Claims
 

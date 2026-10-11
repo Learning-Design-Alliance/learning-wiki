@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 15,611 |
-| Evidence entries | 18,270 |
-| Distinct studies | 4,456 |
-| Claims resting on one study | 15,279 (98%) |
+| Claims | 15,894 |
+| Evidence entries | 18,607 |
+| Distinct studies | 4,537 |
+| Claims resting on one study | 15,556 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 881 of 4,456 (20%) |
+| Studies reporting an effect size | 893 of 4,537 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 58 | 489 | 156 | 364 | 1,067 |
+| causal | 60 | 504 | 161 | 366 | 1,091 |
 | quant-synthesis | 25 | 84 | 38 | 122 | 269 |
-| review | 39 | 256 | 111 | 110 | 516 |
-| associational | 27 | 538 | 251 | 248 | 1,064 |
-| qualitative | 91 | 237 | 69 | 76 | 473 |
-| design | 45 | 411 | 150 | 31 | 637 |
-| theoretical | 54 | 252 | 72 | 52 | 430 |
+| review | 39 | 258 | 112 | 110 | 519 |
+| associational | 27 | 540 | 257 | 249 | 1,073 |
+| qualitative | 94 | 245 | 69 | 78 | 486 |
+| design | 45 | 433 | 155 | 31 | 664 |
+| theoretical | 55 | 255 | 72 | 53 | 435 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 704 (16%) | 2,786 (63%) | 850 (19%) | 116 (3%) |
+| 715 (16%) | 2,847 (63%) | 859 (19%) | 116 (3%) |
 
-**Studies per claim:** 0: 0, 1: 15,279, 2: 272, 3: 54, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 15,556, 2: 278, 3: 54, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-164 claims are cited both ways.
+165 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -133,17 +133,17 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 375 | 324 | 2 | 0 |
+| [principles](principles/index.md) | 375 | 325 | 2 | 0 |
 | [elements](elements/index.md) | 1,080 | 800 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 5,335 | 2,158 | 7 | 0 |
+| [strategies](strategies/index.md) | 5,378 | 2,158 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,118 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 51 | 0 |
-| [designs](designs/index.md) | 557 | 304 | 1 | 0 |
-| [products](products/index.md) | 1,367 | 956 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 307 | 254 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 51.5 | 0 |
+| [designs](designs/index.md) | 584 | 317 | 1 | 0 |
+| [products](products/index.md) | 1,398 | 970 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 320 | 263 | 1 | 0 |
 
 ## Toward pooled estimates
 

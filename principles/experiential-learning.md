@@ -19,7 +19,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 25 studies (8 causal, 8 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 25 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 26 studies (9 causal, 8 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 6 of 26 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,8 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Parent Education Experiential Evaluations Positive](../claims/parent-education-experiential-evaluations-positive.md) [+W]
+- [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](../claims/experiential-beats-instructional-immediate-aie-mkc.md) [+M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Prioritize hands-on experiential activities over lecture-based instruction when cultivating metacognitive awareness of AI-assisted learning".
+- [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](../claims/five-week-convergence-aie-mkc.md) [~M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Prioritize hands-on experiential activities over lecture-based instruction when cultivating metacognitive awareness of AI-assisted learning".
 
 ## Objective and learner-valued goal
 
@@ -138,6 +140,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Foster hands-on student practice of the full responsible AI use cycle across authentic contexts](../strategies/hands-on-responsible-ai-use-cycle-students.md)
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
+- [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).

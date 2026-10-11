@@ -48,3 +48,4 @@ Targeted trace-level analysis reported in the discussion section (pointing to Ap
 - [LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions](error-simulation-accurate-but-longer-solutions-harder.md) — related
 - [LLM-generated ideas diverge from lesson ideas in grounding, misconception substance, vocabulary, uncertainty markers, and analogy use](llm-idea-divergence-patterns-qualitative.md) — related
 - [Candidate selection is a second bottleneck: an oracle ranker over proposed candidates substantially raises proportional match, and plausibility checks reject some valid distractors](candidate-selection-loss-oracle-ranker.md) — related
+- [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related

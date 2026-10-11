@@ -50,3 +50,4 @@ Interaction Analysis case study of Group 1 in the Black-accent condition. The gr
 - [A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer](british-accent-agent-framed-as-technological-helper.md) — related
 - [Teachers drawing Black- and Indian-accented agents predominantly depicted them as human, while British-accented agents were drawn as technology](accent-shapes-drawn-agent-form-human-vs-technology.md) — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
+- [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related
