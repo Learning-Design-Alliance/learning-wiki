@@ -47,3 +47,4 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 - [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — a broader claim this one bears on
 - [Attention can move within the visual field without eye movements, selecting among simultaneous inputs](attention-mobility-visual-field.md) — related
 - [Native versus non-native instructor status was a minor factor in students' perceived quality interaction](native-instructor-status-minor-factor.md) — related
+- [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related

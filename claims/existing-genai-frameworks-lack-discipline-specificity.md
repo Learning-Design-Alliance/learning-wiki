@@ -54,3 +54,4 @@ The article's review of recent sector frameworks (traffic light systems, the two
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
+- [The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign](lack-of-practical-genai-assessment-redesign-literature.md) — a broader claim this one bears on

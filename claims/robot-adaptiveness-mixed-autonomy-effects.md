@@ -65,3 +65,4 @@ The review reports that a social robot deployed as an online learning companion 
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — a broader claim this one bears on
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related
+- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related

@@ -62,3 +62,5 @@ Likert-scale responses (Q2) from the post-tasks reflection questionnaire adminis
 - [Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs](smaller-edits-after-injected-bugs.md) — related
 - [Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies](prompting-strategies-differ-by-bug-source.md) — related
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related
+- [CS1 students tend to agree it is easier to solve problems by writing natural language prompts than by writing code (mean 3.80 on a five-point scale)](students-perceive-prompting-easier-than-coding.md) — related
+- [Students most frequently reported that prompt-based tasks were Easier/Simpler/Faster and supported analyzing and solving problems, in thematic analysis of 200 reflections](themes-prompting-easier-problem-solving.md) — related

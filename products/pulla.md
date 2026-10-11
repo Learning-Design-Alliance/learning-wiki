@@ -1,0 +1,31 @@
+---
+type: product
+id: pulla
+title: Pulla
+description: Pulla is a web-based programming assessment and learning-analytics tool made by Daniel Prol et al.
+product_kind: software
+status: draft
+generated:
+  by: "process:settle-candidates"
+  at: 2026-10-11
+---
+
+# Pulla
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Pulla is a web-based programming assessment and learning-analytics tool made by Daniel Prol et al. that extends CodeCheck with behavioral tracing, instructor dashboards, and on-demand AI analysis for Parsons problems.
+
+## Components
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+### Claims
+- [Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering](../claims/pulla-deployment-surfaced-recurring-difficulty-patterns.md) [+M]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944

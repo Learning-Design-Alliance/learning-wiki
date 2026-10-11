@@ -49,3 +49,4 @@ The paper reports, citing Rupp et al. (2009b), initial research on process-data 
 - [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](easy-highly-specific-tasks-shrink-wd-range.md) — related
 - [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related
 - [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](task-complexity-and-difficulty-dominate-wd-variance.md) — related
+- [A sensitivity analysis indicates the content-derived information density metrics are robust to reasonable operationalizations](sensitivity-analysis-content-metrics-robust.md) — related

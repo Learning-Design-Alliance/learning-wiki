@@ -66,6 +66,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
+- [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the primary vehicle for diversifying whose scholarship and voices students encounter

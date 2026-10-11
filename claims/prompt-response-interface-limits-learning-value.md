@@ -48,3 +48,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Prompt engineering is the most prevalent customization method in AI writing education research](prompt-engineering-dominant-ai-writing-customization.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
+- [The article argues traditional learning formats have six limitations that make them ill-suited for interactive, evolving skills like prompt engineering](traditional-learning-formats-six-limitations-prompt-engineering.md) — related

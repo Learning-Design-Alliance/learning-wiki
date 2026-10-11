@@ -49,3 +49,4 @@ Qualitative analysis of workshop metaphor artefacts. Participants strongly agree
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — related
 - [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
+- [Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks](student-ai-role-shortcut-versus-collaborator.md) — related

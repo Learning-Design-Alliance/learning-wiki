@@ -47,6 +47,7 @@ The article issues three strategic recommendations for institutions integrating 
 - [Renew writing assessment and integrity practice through AI-literacy instruction, process-focused assessment design, and contextual detector training](genai-literacy-and-process-focused-assessment-renewal.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Move beyond generic AI policies to method-based ethical policies and process-oriented assessment](method-based-ethical-policies-process-assessment.md)
+- [Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation](detection-supplementary-governance-layer.md)
 
 ## Examples
 -

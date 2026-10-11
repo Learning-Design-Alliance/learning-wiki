@@ -61,3 +61,4 @@ In an extended in-class experiment, 37 students studied the same content present
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
+- [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related

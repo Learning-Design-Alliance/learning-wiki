@@ -64,6 +64,7 @@ Representation is not decorative: who appears in examples, whose knowledge is tr
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — the language-level complement to content-level representation
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
+- [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 
 ## Related Elements
 - [Case Studies](../elements/case-studies.md) — the primary vehicle for embedding multiple perspectives in authentic problems

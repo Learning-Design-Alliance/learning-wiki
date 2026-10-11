@@ -41,6 +41,7 @@ The article recommends deploying the adapted, quantized 4B model as an offline b
 - [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 - [Deploy fine-tuned compact local 8B LLMs as free classroom and home story generators with adult human oversight and safety filtering](local-compact-llm-story-generation-with-oversight.md)
+- [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 
 ## Examples
 -

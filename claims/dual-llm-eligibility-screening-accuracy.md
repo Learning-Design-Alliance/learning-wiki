@@ -44,3 +44,4 @@ Validation of the review's own AI-assisted full-text eligibility screening (Qwen
 
 ## Related Claims
 - [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
+- [Full-text screening was more time-consuming than data extraction, with novice researchers needing two to three hours to screen the first ten studies](full-text-screening-more-time-consuming-than-extraction.md) — related

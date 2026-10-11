@@ -45,6 +45,8 @@ The article recommends institutional-level responses to staff survey findings: c
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy](institutional-genai-policy-and-awareness-strategy.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
+- [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
+- [Design GenAI governance and cross-role contact around integrity disputes, the principal site of sustained faculty-student contact](genai-governance-cross-role-contact-design.md)
 
 ## Examples
 -

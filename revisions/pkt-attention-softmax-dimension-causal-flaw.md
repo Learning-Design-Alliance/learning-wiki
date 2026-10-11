@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/pkt-attention-softmax-dimension-causal-flaw.md
+---
+
+# Revision history: [claims/pkt-attention-softmax-dimension-causal-flaw](../claims/pkt-attention-softmax-dimension-causal-flaw.md)
+
+### 2026-10-11 · ingest · process:wiki-ingest
+Ingested from arxiv-2605.04727 (Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols) via eval_harness.py + ingest_extractions.py

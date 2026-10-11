@@ -45,3 +45,4 @@ Interaction-log analysis in the same 14-day crossover study compared AI-assisted
 ## Related Claims
 - [GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability](stylometric-feature-differences-gpt-vs-human.md) — possibly the same claim (merge candidate)
 - [AI-generated questions instead of draft text significantly reduce actors' cognitive burden during character journaling](generative-refusal-reduces-cognitive-burden-journaling.md) — related
+- [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related

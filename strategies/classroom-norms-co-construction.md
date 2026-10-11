@@ -58,9 +58,11 @@ Co-constructed norms convert compliance into commitment: learners follow rules t
 5. Schedule a mid-term norm check-in ([Check-In](../elements/check-in.md)) to revise norms that aren't working
 
 ## Related Strategies
+
 - [Restorative Practices](restorative-practices.md) — norms co-construction is the preventive tier of restorative approaches
 - [Cooperative Learning](cooperative-learning.md) — group norms are a precondition for effective cooperative structures
 - [Discussion Protocols](discussion-protocols.md) — protocols operationalize the discourse norms the class agrees on
+- [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — elementary teachers and students co-create "Hopes and Dreams" and matching classroom rules each fall ([https://www.responsiveschools.org](https://www.responsiveschools.org))

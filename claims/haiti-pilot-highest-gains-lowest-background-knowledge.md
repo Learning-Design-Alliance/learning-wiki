@@ -48,3 +48,4 @@ Descriptive pattern reported in the Learning Outcomes section of the pre-/post-i
 ## Related Claims
 - [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](haiti-blended-pilot-significant-gains-lowest-baseline.md) — a narrower finding that bears on this claim
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
+- [Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](prompt-coach-largest-gains-on-baseline-blind-spots.md) — a narrower finding that bears on this claim

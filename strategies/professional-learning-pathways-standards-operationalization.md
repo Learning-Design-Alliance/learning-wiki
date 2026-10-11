@@ -51,6 +51,7 @@ The article recommends embedding the standards into structured professional lear
 - [Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration](sustained-accompaniment-for-digital-integration.md)
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
+- [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 
 ## Examples
 -

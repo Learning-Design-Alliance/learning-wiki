@@ -51,3 +51,4 @@ Theoretical argument in the Confabulations section: learners lack the background
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust](ai-navigation-requires-guiding-principles.md) — related
+- [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — a narrower finding that bears on this claim

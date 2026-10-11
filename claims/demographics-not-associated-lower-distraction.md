@@ -67,3 +67,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite

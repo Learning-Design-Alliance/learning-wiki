@@ -45,3 +45,4 @@ Interview finding from the 32-apprentice qualitative study: unlike traditional p
 ## Related Claims
 - [Apprentices saw RTAPs as a better return on investment than other pathways, yet low salaries still posed financial hardship](rtap-affordability-roi-but-low-salary-hardship.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
+- [Hands-on engagement, mentoring support, and peer discussion were central to sustaining team cohesion and methodological rigor during an SR](hands-on-engagement-mentoring-peer-discussion-central.md) — related

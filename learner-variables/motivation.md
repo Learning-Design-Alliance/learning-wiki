@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (71 for, 18 mixed, 11 against) · 94 studies (28 associational, 24 causal, 18 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 94 report an effect size · 93 claims rest on one study
+> **Evidence** · 111 claims (77 for, 21 mixed, 13 against) · 98 studies (28 associational, 27 causal, 18 review, 8 qualitative, 6 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 16 of 98 report an effect size · 104 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -134,6 +134,17 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance](../claims/intrinsic-motivation-gains-not-significant-all-modalities.md) [-M] — instruction changes it
 - [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](../claims/motivation-prompt-enthusiasm-pedagogy.md) [+M] — an instructional effect differs with it
 - [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](../claims/positive-performance-effort-expectancy-ai-pre-service-teachers.md) [+M] — instruction changes it
+- [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](../claims/ai-feedback-88-percent-self-efficacy-increase.md) [+M] — instruction changes it
+- [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](../claims/remind-calibrated-bully-outcome-expectations.md) [+M] — instruction changes it
+- [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](../claims/favorability-moderates-format-benefit-low-self-efficacy.md) [~M] — an instructional effect differs with it
+- [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](../claims/example-based-course-increases-journaling-intrinsic-motivation.md) [+W] — instruction changes it
+- [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](../claims/remind-strategy-choice-descriptive-differences.md) [+M] — learners who differ on it differ in outcomes
+- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](../claims/its-practice-no-self-efficacy-gain.md) [+M] — learners who differ on it differ in outcomes
+- [REMind did not significantly change children's expectations that defending would help the victim feel better](../claims/remind-victim-outcome-expectations-not-significant.md) [-M] — instruction changes it
+- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](../claims/lower-baseline-self-efficacy-greater-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](../claims/three-way-interaction-condition-self-efficacy-favorability-learning.md) [~M] — an instructional effect differs with it
+- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](../claims/course-increases-perceived-competence-journaling.md) [~M] — instruction changes it
+- [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](../claims/journaling-assistant-no-intrinsic-motivation-effect.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

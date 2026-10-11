@@ -47,3 +47,4 @@ Layer 1 verification executed as a scripted pass producing six reports scored ag
 - [Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam](three-learners-passed-ncp-aai-knowledge-base-only.md) — related
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
+- [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](repair-and-source-gating-feedback-completeness.md) — related

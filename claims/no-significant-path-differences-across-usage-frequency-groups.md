@@ -71,3 +71,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](asr-usage-frequency-reflection-not-motivation.md) — related
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related
 - [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — reports the opposite
+- [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related

@@ -66,3 +66,4 @@ Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21,
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
+- [Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety](indirect-appraisal-paths-dominate-support-anxiety-association.md) — related

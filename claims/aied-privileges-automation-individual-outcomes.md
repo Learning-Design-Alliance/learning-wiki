@@ -51,3 +51,4 @@ Theoretical argument from the paper's framing of the field. The author asserts t
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related
 - [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](individualized-instruction-receded-ai-era.md) — related
+- [Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks](student-ai-role-shortcut-versus-collaborator.md) — related

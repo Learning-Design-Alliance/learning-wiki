@@ -70,3 +70,4 @@ The human-grounded audit comparing provenance quality between main research-ques
 - [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
+- [Representative gridworld teaching tools lack live Bellman substitution, decision-provenance logging, and full trace export](gridworld-tools-lack-decision-trace-export.md) — related

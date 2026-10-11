@@ -59,8 +59,10 @@ Questions function as prequestions and retrieval prompts that direct attention a
 5. Close with a reflective question that prompts learners to articulate what they learned ([Individual Reflection](../elements/individual-reflection.md))
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — prequestions serve this function by surfacing what learners already know before new content
 - [Case-based Learning](../patterns/case-based-learning.md) — a pattern-level instantiation where cases carry the questions
+- [Non-prescriptive GAI feedback via sequenced guiding questions calibrated to cognitive challenge](non-prescriptive-guiding-question-feedback.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — opening questions work by connecting to existing knowledge

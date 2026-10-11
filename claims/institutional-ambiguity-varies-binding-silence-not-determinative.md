@@ -45,3 +45,4 @@ Institutional comparison of ambiguity and governance-layer indicators across the
 ## Related Claims
 - [Guidance supplies the operative rule in over a third of classifications and resolves most cases where binding instruments are silent on GenAI](guidance-resolves-binding-silence-on-genai.md) — related
 - [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
+- [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related

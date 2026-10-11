@@ -45,3 +45,4 @@ Overarching-trends analysis across both coded themes for all 49 participants: "a
 ## Related Claims
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training](prompt-engineering-training-improves-perceived-gen-ai-interactions.md) — related
+- [Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies](perception-polarisation-tau-negative-0819.md) — related

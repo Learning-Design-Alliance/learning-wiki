@@ -47,3 +47,5 @@ Qualitative thematic analysis of artefacts from three co-design workshops with e
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — a narrower finding that bears on this claim
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — a narrower finding that bears on this claim
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — a narrower finding that bears on this claim
+- [Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment](addiction-metaphors-ai-use.md) — related
+- [Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks](student-ai-role-shortcut-versus-collaborator.md) — related

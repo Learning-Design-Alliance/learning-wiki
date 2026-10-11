@@ -50,3 +50,4 @@ Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Z
 - [Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates](ta-engagement-measurement-methods.md) — related
 - [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
+- [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related

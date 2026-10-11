@@ -39,6 +39,7 @@ Because classroom teachers rarely seek out research, the report recommends reach
 ## Related Strategies
 
 - [Use newsflashes—succinct email blasts announcing new research findings—to inform decision makers, stakeholders, and practitioners](newsflash-research-dissemination-strategy.md)
+- [Facilitate educator networks and knowledge-sharing hubs for educational AI](educator-networks-knowledge-sharing-ai.md)
 
 ## Examples
 -

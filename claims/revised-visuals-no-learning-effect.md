@@ -52,3 +52,4 @@ ANOVA on post-lesson test scores (maximum 27 points) using data from all 62 part
 - [Revisions made no reliable difference to total time spent with the lesson](revisions-no-effect-time-with-lesson.md) — related
 - [Revised visuals reduce cognitive processing of lesson text for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-processing-text-prior-knowledge-interaction.md) — related
 - [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-processing-math-visuals-interaction.md) — related
+- [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related

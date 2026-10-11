@@ -43,6 +43,7 @@ Based on identified gaps, the review recommends that future reviews use "broader
 ## Related Strategies
 
 - [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
+- [Adopt a conservative abstract-screening strategy with a 'maybe' category and keyword exclusion filters to prevent premature exclusion](conservative-abstract-screening-maybe-category.md)
 
 ## Examples
 -

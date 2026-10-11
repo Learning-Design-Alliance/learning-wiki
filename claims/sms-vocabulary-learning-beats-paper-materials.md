@@ -47,3 +47,4 @@ The one entry is a review's two-sentence report of a single 30-student, two-grou
 ## Related Claims
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](sms-vocabulary-retention-reading-comprehension-efl.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
+- [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related

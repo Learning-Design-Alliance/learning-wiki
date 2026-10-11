@@ -44,3 +44,4 @@ Open peer review reports accompanying version 1; all three reviewers recommend a
 
 ## Related Claims
 - [Empirical studies of published research judged large proportions of published educational research seriously or completely flawed](published-research-judged-seriously-flawed.md) — related
+- [Hands-on engagement, mentoring support, and peer discussion were central to sustaining team cohesion and methodological rigor during an SR](hands-on-engagement-mentoring-peer-discussion-central.md) — related

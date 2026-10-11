@@ -75,3 +75,4 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
 - [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
 - [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](scaffolding-varies-by-request-and-assignment.md) — related
+- [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related

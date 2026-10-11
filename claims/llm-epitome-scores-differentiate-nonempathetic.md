@@ -51,3 +51,4 @@ LLM-based annotation of 237 collected conversations (76 Non-Empathetic, 80 Stand
 - [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
 - [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
+- [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related

@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 7 studies (4 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 9 studies (6 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 3 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -50,6 +50,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students' self-assessed question specificity was not significantly correlated with their observed specificity](../claims/students-miscalibrate-question-specificity.md) [~W] — attached 2026-10-11 from Hyoungwook Jin et al. (2026), which proposed "The pathway to targeted help-seeking: three metacognitive skills"; tests this page's relationship.
 - [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](../claims/experiential-delayed-mrc-increase.md) [+W] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Temporal decoupling of metacognitive knowledge and regulation under experiential AI-assisted learning".
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](../claims/experiential-beats-instructional-immediate-aie-mkc.md) [+M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Temporal decoupling of metacognitive knowledge and regulation under experiential AI-assisted learning".
+- [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Metacognitive dependence: a descriptive framework for perceived–behavioral reliance mismatch in AI-assisted decisions"; tests this page's relationship.
+- [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](../claims/calibration-negatively-associated-overreliance.md) [+W] — attached 2026-10-11 from Ren S (2026), which proposed "Metacognitive dependence: a descriptive framework for perceived–behavioral reliance mismatch in AI-assisted decisions".
 
 ## Related Theories
 

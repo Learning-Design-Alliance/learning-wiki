@@ -46,3 +46,4 @@ Illustrative scenario analysis under the Governance pillar, not an empirical mea
 - [Static percentile screening cut points carried across norm sets can under-identify students who remain below grade level](static-percentile-cutpoints-underidentify-post-renorming.md) — related
 - [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](alert-reframing-branches-engagement-structure.md) — related
 - [Simulation allows the expense and effect of a policy change to be evaluated before implementation](simulation-evaluates-policy-change-before-implementation.md) — a broader claim this one bears on
+- [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](sequential-risk-policy-concentrates-failures.md) — related

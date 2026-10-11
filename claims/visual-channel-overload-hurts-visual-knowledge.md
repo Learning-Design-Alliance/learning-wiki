@@ -49,3 +49,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
+- [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related

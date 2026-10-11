@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 16 studies (6 associational, 5 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 17 studies (7 associational, 5 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 12 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -66,6 +66,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](../claims/genai-srl-six-factor-structure-l2-writing.md) [+W] — attached 2026-10-11 from Xiaoqi Wang et al. (2026), which proposed "GenAI-SRL framework: six interacting regulatory dimensions for GenAI-mediated L2 writing".
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](../claims/genai-srl-dimensions-correlate-perceived-writing-gains.md) [~M] — attached 2026-10-11 from Xiaoqi Wang et al. (2026), which proposed "GenAI-SRL framework: six interacting regulatory dimensions for GenAI-mediated L2 writing".
 - [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](../claims/teacher-self-regulated-reflection-with-ai.md) [+W] — attached 2026-10-11 from Hochberg N et al. (2026), which proposed "Dual-layer relationship: teacher reflective regulation and critical AI literacy mediate learner-facing agency and capability design".
+- [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](../claims/request-dominance-monitoring-evaluate-absent.md) [-W] — attached 2026-10-11 from Rania Abdelghani et al. (2026), which proposed "Turn-level coding framework combining SRL, help-seeking, and mathematical modeling codes with LLM-specific constructs of epistemic vigilance and agency over the AI".
 
 ## Related Theories
 
@@ -79,11 +80,13 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-regulated learning as the priority outcome of remote independent work](self-regulated-learning-homework-priority.md)
 
 ## Examples
+
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Self-monitoring](../principles/self-monitoring.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Immediate Feedback](../principles/immediate-feedback.md)
 - [Self-Regulation Questionnaire (SRQ)](../elements/self-regulation-questionnaire.md) — a scored instrument built directly on the Miller & Brown seven-step model described above
+- [Place GenAI entry after the learner's initial task attempt rather than before it](../strategies/genai-entry-after-attempt-in-srl-cycle.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

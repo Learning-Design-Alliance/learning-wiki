@@ -45,3 +45,4 @@ The review reports this second-hand from Son's (2024) synthesis, attributing the
 - [The competency model of AI literacy functions as a Freirean banking model, training users to adapt rather than transform](competency-model-as-banking-model.md) — related
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — reports the opposite
+- [Most GenAI educational applications operate at SAMR's lowest level, substitution, replicating rather than transforming practice](genai-apps-samr-substitution-level.md) — related

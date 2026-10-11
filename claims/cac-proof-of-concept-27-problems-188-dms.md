@@ -44,3 +44,4 @@ Proof-of-concept implementation with Small Language Models on the OLI_Biology da
 
 ## Related Claims
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](fan-effect-kb-growth-retrieval-degradation.md) — related
+- [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](camelot-jr-solver-solves-arbitrary-configurations.md) — related

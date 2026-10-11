@@ -45,3 +45,6 @@ Findings from the mixed-methods survey of 149 students about the implemented AI-
 ## Related Claims
 - [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — a broader claim this one bears on
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [Students identify exploring GenAI applications across contexts as a second priority area for curriculum development](genai-applications-across-contexts-priority.md) — related
+- [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — related
+- [Students identify understanding and optimising GenAI functionality as a first priority area for curriculum development](genai-functionality-priority-area.md) — related

@@ -53,3 +53,4 @@ Educator survey documentation, though educator outcomes were not a primary focus
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies](360-filmmakers-challenge-production-skills-gains.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
+- [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](divergence-structure-versus-autonomy-in-projects.md) — related

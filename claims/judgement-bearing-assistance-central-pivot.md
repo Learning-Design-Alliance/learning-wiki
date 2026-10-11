@@ -44,3 +44,4 @@ Conceptual distinction drawn in the review's conceptual analysis of epistemic de
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — related
 - [University AI policies score higher on delegation boundaries than on evidence standards](boundary-evidence-asymmetry-ai-policy-audit.md) — related
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
+- [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Descriptive country-level mapping of the 39 included studies (RQ1, Fig. 3). The 
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — related
+- [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related

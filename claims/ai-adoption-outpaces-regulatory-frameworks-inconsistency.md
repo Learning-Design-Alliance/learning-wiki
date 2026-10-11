@@ -59,3 +59,4 @@ Systematic literature review of recent studies on AI ethics in education. The re
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment](aligned-genai-policy-two-benefits.md) — a narrower finding that bears on this claim
 - [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](compliance-effort-delayed-its-rollout.md) — a narrower finding that bears on this claim
+- [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related

@@ -46,3 +46,4 @@ The article's central argument from its critical discourse analysis of grey lite
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](genai-automation-shifts-constructive-alignment-toward-compliance.md) — a narrower finding that bears on this claim
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
+- [In higher education, the purported Silicon Valley revolution is undermined by detrimental effects on academic integrity and erosion of evidence-based pedagogical practices, compounded by the prevailing crisis of higher education](gai-undermines-academic-integrity-and-evidence-based-pedagogy.md) — related

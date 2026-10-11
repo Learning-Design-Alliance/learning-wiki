@@ -49,3 +49,6 @@ Baseline evaluation of LR and XGBoost on OULAD using 10-fold nested cross-valida
 - [Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%](percentile-heuristics-overpredict-weekly-engagement.md) — related
 - [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
 - [Models can predict best-fit majors from student records, not only pass or fail within a chosen major, enabling cross-program success questions](cross-program-major-fit-prediction.md) — related
+- [Integer-programming recourse generates compact, model-valid, SHACL-conformant intervention plans at scale on OULAD](ip-recourse-compact-plans-at-scale.md) — related
+- [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](nonlinear-models-modest-auc-gains-over-logistic-baseline.md) — related
+- [A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons](oulad-calibrated-logistic-regression-strong-prediction.md) — related

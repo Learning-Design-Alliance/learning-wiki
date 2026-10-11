@@ -40,7 +40,8 @@ The authors recommend using the full-length scale at course start to profile eac
 - [Genai Srl Six Dimension Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ Because regulation of cognition developed more slowly than knowledge under exper
 - [Promoting Self-Directed Learning Strategies](promoting_self-directed_learning_strategies.md)
 - [Teach Metacognitive Strategies](teach-metacognitive-strategies.md)
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
+- [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 
 ## Examples
 -

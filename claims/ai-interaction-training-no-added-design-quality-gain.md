@@ -46,3 +46,4 @@ Within-subjects comparison of the AI-access condition against the AI-plus-traini
 - [AI chatbot access improves the quality of teachers' learning designs in higher education](ai-access-improves-learning-design-quality.md) — related
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
+- [Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone](teacher-training-improves-numeracy-gains-aied-u-no-additional.md) — related

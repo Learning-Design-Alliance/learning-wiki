@@ -43,4 +43,4 @@ The author's informal observation comparing the oldest and newest basic speech t
 
 
 ## Related Claims
--
+- [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related

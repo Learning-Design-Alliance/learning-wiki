@@ -1,0 +1,53 @@
+---
+type: claim
+title: Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines
+description: Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines
+id: ai-transformative-capacity-guidelines
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: adam-palmquist-2025
+    resource: "https://doi.org/10.1007/s40692-025-00354-1"
+    title: "Adam Palmquist, Helga Dis Isfold Sigurdardottir, Hege Myhre. (2025). Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review. Journal of Computers in Education. https://doi.org/10.1007/s40692-025-00354-1"
+    author: Adam Palmquist, Helga Dis Isfold Sigurdardottir, Hege Myhre
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` The C1 synthesis concludes that AI can reshape educational methodologies and that guidelines are needed balancing technological capabilities with ethical and pedagogical considerations. [→ Adam Palmquist 2025](#adam-palmquist-2025)
+
+## Evidence
+
+### Adam Palmquist 2025
+
+Adam Palmquist, Helga Dis Isfold Sigurdardottir, Hege Myhre. (2025). Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review. Journal of Computers in Education. https://doi.org/10.1007/s40692-025-00354-1
+
+`q2 · i?` · `review · r2`
+
+The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim (2022), and Shabana et al. (2022) on intelligent tutor systems and adaptive sequencing. The review reports these studies 'illustrate AI's transformative capacity'; no effect sizes are printed.
+
+> "Together, these studies illustrate AI's transformative capacity to reshape educational methodologies and point to the need for guidelines that balance technological capabilities with ethical and pedagogical considerations."
+
+## Discussion
+
+
+## Related Claims
+- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — a narrower finding that bears on this claim
+- [Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes](three-themes-ai-sec-review.md) — possibly the same claim (merge candidate)
+- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
+- [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — a narrower finding that bears on this claim
+- [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — a narrower finding that bears on this claim
+- [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related

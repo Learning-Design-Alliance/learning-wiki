@@ -45,3 +45,4 @@ Descriptive end-of-year survey of NAMI On Campus Club participants (Table 1, n =
 ## Related Claims
 - [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related
 - [Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies](360-filmmakers-challenge-production-skills-gains.md) — related
+- [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
