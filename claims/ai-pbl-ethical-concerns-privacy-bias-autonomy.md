@@ -52,3 +52,4 @@ The review's thematic analysis of the 50 included studies identifies persistent 
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — a narrower finding that bears on this claim

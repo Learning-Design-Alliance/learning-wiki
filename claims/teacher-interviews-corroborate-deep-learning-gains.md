@@ -46,3 +46,4 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science](adaptive-ai-stem-deep-learning-gains-sixth-grade.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Qualitative educator interviews corroborate and explain the quantitative path findings](educator-interviews-explain-ai-learning-mechanisms.md) — a broader claim this one bears on

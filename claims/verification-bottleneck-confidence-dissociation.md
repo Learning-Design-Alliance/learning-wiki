@@ -49,3 +49,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
 - [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — related
 - [Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them](surface-validation-works-substantive-validation-fails.md) — related
+- [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related

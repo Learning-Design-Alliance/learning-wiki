@@ -48,3 +48,4 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
+- [Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference](originality-borderline-efl-accuracy-trend.md) — related

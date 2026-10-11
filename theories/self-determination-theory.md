@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (2 review, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 7 studies (2 review, 2 theoretical, 1 causal, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 6 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -62,6 +62,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](../claims/chatgpt-competence-experience-efl-undergraduates.md) [+W] — attached 2026-10-10 from Annamalai N et al. (2026), which proposed "AI-mediated motivational ecology: an extension of Self-Determination Theory in which basic psychological needs are partly met through AI interaction".
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](../claims/chatgpt-perceived-relatedness-support.md) [~W] — attached 2026-10-10 from Annamalai N et al. (2026), which proposed "AI-mediated motivational ecology: an extension of Self-Determination Theory in which basic psychological needs are partly met through AI interaction".
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](../claims/chatgpt-autonomy-self-directed-learning.md) [+W] — attached 2026-10-10 from Annamalai N et al. (2026), which proposed "AI-mediated motivational ecology: an extension of Self-Determination Theory in which basic psychological needs are partly met through AI interaction".
+- [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](../claims/perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) [+W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
+- [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](../claims/competence-predicts-autonomous-motivation-not-autonomy-support.md) [~W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
 
 ## Related Theories
 
@@ -80,6 +82,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md)
 
 ## Examples
+
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Learner Choice](../principles/autonomy.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
@@ -87,6 +90,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Identity-Centered e-Textile Making](../designs/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
 - [Epistemic Games](../patterns/epistemic-games.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
+- [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

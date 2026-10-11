@@ -45,3 +45,4 @@ Joint orchestration evaluation on the 195-question real corpus. The lexicon-base
 ## Related Claims
 - [Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection](llm-detection-variability-across-corpus.md) — related
 - [Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone](pattern-plus-llm-fallback-no-gain.md) — reports the opposite
+- [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related

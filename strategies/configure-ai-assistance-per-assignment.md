@@ -42,7 +42,8 @@ The article recommends treating AI access as a configurable dial rather than a b
 - [Three Views Product Process Interaction Writing](../research-methods/three-complementary-views-of-ai-integrated-writing-product-process-and-interaction.md)
 
 ## Related Strategies
-- 
+
+- [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 
 ## Examples
 -

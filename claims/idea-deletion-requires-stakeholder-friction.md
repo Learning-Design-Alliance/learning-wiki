@@ -48,3 +48,4 @@ Idea-deletion coding across the 45-participant experiment: three Interactive Eng
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
 - [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](constructive-conflict-guidance-increases-reconsideration.md) — related
 - [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](stepwise-conflict-guidance-reduces-idea-addition.md) — related
+- [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related

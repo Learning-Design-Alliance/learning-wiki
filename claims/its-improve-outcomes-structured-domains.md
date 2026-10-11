@@ -49,3 +49,4 @@ The review reports, citing Holmes et al. and Woolf, that ITS can improve learnin
 - [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — a broader claim this one bears on
+- [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — related

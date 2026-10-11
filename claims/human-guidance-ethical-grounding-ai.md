@@ -83,3 +83,6 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
+- [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — a narrower finding that bears on this claim
+- [AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill](ai-design-integration-judgement-agency.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

@@ -61,9 +61,11 @@ VR training is most defensible where physical or situational fidelity matters: i
 6. Follow with real or high-fidelity [practice](../elements/practice.md) to confirm transfer.
 
 ## Related Strategies
+
 - [Simulation-based training](simulation-based-training.md) — the broader family; VR is the immersive end of the fidelity spectrum
 - [Role-play](acting-role-play.md) — low-tech embodied rehearsal sharing the same active-performance logic
 - [Case-based learning](case-based-learning.md) — alternative for decision-making goals where physical fidelity is unnecessary
+- [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 
 ## Examples
 - **Fundamentals of Laparoscopic Surgery (FLS)** — VR laparoscopic simulators with proficiency-based progression; the Seymour et al. (2002) trial showed VR-trained residents performed surgery 29% faster with fewer errors ([JAMA trial](https://jamanetwork.com/journals/jama/fullarticle/195478)).

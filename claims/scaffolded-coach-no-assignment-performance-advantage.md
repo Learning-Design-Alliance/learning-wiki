@@ -51,3 +51,5 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](unrestricted-chatgpt-worse-exam-scores.md) — reports the opposite
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](ai-hints-aligned-exam-performance-only.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
+- [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
+- [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related

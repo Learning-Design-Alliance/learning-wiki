@@ -64,3 +64,4 @@ The report's analysis of CTE offerings found breadth often took priority over de
 ## Related Claims
 - [CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students](wa-cte-dc-enrollment-rose-high-minority-schools.md) — related
 - [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
+- [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related

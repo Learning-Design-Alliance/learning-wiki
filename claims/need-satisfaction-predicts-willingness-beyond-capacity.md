@@ -47,3 +47,4 @@ Partial correlation analyses in Cycle 2 controlling for all baseline measures, w
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — a broader claim this one bears on
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [The study's findings are context-specific and do not demonstrate AI literacy or learning gains because no baseline measure was collected](no-baseline-literacy-gains-context-specific-findings.md) — related

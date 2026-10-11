@@ -48,3 +48,4 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
+- [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related

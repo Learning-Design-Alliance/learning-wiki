@@ -50,3 +50,4 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related
+- [The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each](ai-equalizing-effect-through-content-and-writing.md) — related

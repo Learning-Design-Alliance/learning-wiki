@@ -49,3 +49,4 @@ Descriptive analysis of task durations derived from Tobii interval markers (n=28
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones](ai-speedup-limited-to-difficult-tasks.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related

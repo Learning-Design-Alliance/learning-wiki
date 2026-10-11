@@ -63,6 +63,7 @@ VR's distinctive contribution is *embodied, consequence-free practice* in enviro
 - [Role-Play](acting-role-play.md) — low-tech embodiment of the same principle of enacted practice
 - [Flipped Classroom](flipped-classroom.md) — VR sessions can serve as the application layer after preparatory study
 - [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
+- [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core activity VR enables at scale and without risk

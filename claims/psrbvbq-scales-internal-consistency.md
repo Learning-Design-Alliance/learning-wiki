@@ -47,3 +47,4 @@ Reliability (item) analysis on the same sample of 322 middle school teachers, wi
 - [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](psrbvbq-three-factor-structure-romanian-teachers.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related

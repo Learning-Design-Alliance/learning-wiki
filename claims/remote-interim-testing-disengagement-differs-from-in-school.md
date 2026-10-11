@@ -56,3 +56,4 @@ The page's abstract reports a comparison study of disengagement on an adaptive i
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
+- [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](in-person-proctored-higher-hesi-than-remote.md) — related

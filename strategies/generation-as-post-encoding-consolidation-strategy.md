@@ -42,6 +42,7 @@ The article recommends that during initial vocabulary acquisition, teachers use 
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
 - [Spaced Scheduling](spaced-scheduling.md)
 - [Distributed Practice](distributed-practice.md)
+- [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](genai-learning-research-agenda-process-assessments.md)
 
 ## Examples
 -

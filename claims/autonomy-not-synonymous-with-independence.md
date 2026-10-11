@@ -48,3 +48,4 @@ Conceptual argument from the article's autonomy section, presenting SDT's positi
 - [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related
 - [IE and SDT share common roots in humanistic psychology's rejection of behaviorism](ie-sdt-common-humanistic-roots.md) — related
+- [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — related

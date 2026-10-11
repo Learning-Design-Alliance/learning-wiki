@@ -48,3 +48,4 @@ This is the authors' stated motivation, offered without supporting data on this 
 - [Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches](remote-learning-evidence-scant-2020.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a narrower finding that bears on this claim
+- [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — a narrower finding that bears on this claim

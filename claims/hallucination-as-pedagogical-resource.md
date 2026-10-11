@@ -48,3 +48,4 @@ Theoretical argument in the Confabulations section: learners lack the background
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

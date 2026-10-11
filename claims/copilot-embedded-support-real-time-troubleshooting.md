@@ -47,3 +47,5 @@ Case observation reported at the March 2025 ribbon cutting: a student on only hi
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — related
+- [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — related
+- [Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work](multi-step-ai-operations-creativity-association.md) — related

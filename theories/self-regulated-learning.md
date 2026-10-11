@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 14 studies (5 causal, 5 associational, 2 review, 2 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 16 studies (6 associational, 5 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 11 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -63,6 +63,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](../claims/agentic-designs-delayed-ai-free-transfer.md) [~W] — attached 2026-10-10 from Ates (2026), which proposed "Process model of GenAI-supported feedback: designs distribute evaluative work and act directly and indirectly through uptake and self-regulated learning".
 - [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](../claims/hs-trajectory-predicts-unaided-posttest.md) [+W] — attached 2026-10-10 from Abdelghani et al. (2026), which proposed "Epistemic proactivity (EP): the extent to which learners retain responsibility for regulating and advancing their own knowledge-building while using AI"; tests this page's relationship.
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](../claims/within-session-hs-shifts-toward-closure-srl-increases.md) [~W] — attached 2026-10-10 from Abdelghani et al. (2026), which proposed "Epistemic proactivity (EP): the extent to which learners retain responsibility for regulating and advancing their own knowledge-building while using AI".
+- [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](../claims/genai-srl-six-factor-structure-l2-writing.md) [+W] — attached 2026-10-11 from Xiaoqi Wang et al. (2026), which proposed "GenAI-SRL framework: six interacting regulatory dimensions for GenAI-mediated L2 writing".
+- [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](../claims/genai-srl-dimensions-correlate-perceived-writing-gains.md) [~M] — attached 2026-10-11 from Xiaoqi Wang et al. (2026), which proposed "GenAI-SRL framework: six interacting regulatory dimensions for GenAI-mediated L2 writing".
+- [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](../claims/teacher-self-regulated-reflection-with-ai.md) [+W] — attached 2026-10-11 from Hochberg N et al. (2026), which proposed "Dual-layer relationship: teacher reflective regulation and critical AI literacy mediate learner-facing agency and capability design".
 
 ## Related Theories
 

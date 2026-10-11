@@ -49,3 +49,4 @@ collaboration."
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related

@@ -48,3 +48,4 @@ The brief's student-gaps section asserts an equity problem: "Many students are s
 ## Related Claims
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — a narrower finding that bears on this claim
+- [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — a narrower finding that bears on this claim

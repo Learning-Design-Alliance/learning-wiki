@@ -64,6 +64,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Flipped Classroom](flipped-classroom.md) — VR practice sessions can occupy the in-class active slot
 - [Spaced Practice](../principles/spaced-learning.md) — repeated short VR sessions outperform massed immersion
 - [Use AI-enabled immersive virtual environments to enrich project-based learning in vocational design education](ai-ive-pbl-vocational-design-strategy.md)
+- [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

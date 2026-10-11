@@ -46,3 +46,4 @@ Semi-structured interviews with the 17 participants were coded for positive, neg
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
 - [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](low-proficiency-intelligibility-barrier-asr.md) — related
+- [Chinese EFL learners' positive perceptions of GenAI-based pronunciation feedback are positively associated with their English pronunciation self-efficacy](genai-pronunciation-feedback-associated-with-pronunciation-self-efficacy.md) — related

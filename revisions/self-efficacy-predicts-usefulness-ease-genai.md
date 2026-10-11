@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/self-efficacy-predicts-usefulness-ease-genai.md
+---
+
+# Revision history: [claims/self-efficacy-predicts-usefulness-ease-genai](../claims/self-efficacy-predicts-usefulness-ease-genai.md)
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from aied-guillen-curriculum-genai-teacher-competence-2026 (Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence) via eval_harness.py + ingest_extractions.py

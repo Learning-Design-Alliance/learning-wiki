@@ -48,6 +48,7 @@ The article's practical implications recommend that universities avoid treating 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
+- [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 
 ## Examples
 -

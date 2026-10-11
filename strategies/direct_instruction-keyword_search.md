@@ -60,7 +60,9 @@ Search is a procedural skill with a large novice search space: unguided, novices
 6. **Fade support.** Move learners to independent searching on their own questions, with feedback shifting from query mechanics to strategy and source evaluation.
 
 ## Related Strategies
+
 - Direct instruction of keyword search is a specific application of explicit teaching of procedural skills; it pairs naturally with worked-example and modeling approaches for any invisible expert process.
+- [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
 
 ## Examples
 - **The Big6 information literacy framework** (Eisenberg & Berkowitz) — a widely adopted K–12 curriculum that explicitly teaches task definition, information-seeking strategies, and source evaluation as sequenced steps ([https://thebig6.org](https://thebig6.org)).

@@ -89,3 +89,5 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — a narrower finding that bears on this claim
 - [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — a narrower finding that bears on this claim
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — related
+- [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode](active-to-constructive-largest-leap.md) — related
+- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related

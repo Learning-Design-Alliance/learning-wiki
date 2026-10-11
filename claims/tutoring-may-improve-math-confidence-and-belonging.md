@@ -56,3 +56,4 @@ Description of the evaluation design across the eight programs: the studies asse
 - [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related
 - [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related
+- [After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged](ampt-other-attitudes-unchanged.md) — related

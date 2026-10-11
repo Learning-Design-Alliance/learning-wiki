@@ -20,6 +20,7 @@ A Computer Science higher-education framework developed by Nicholas Micallef for
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Frame GenAI declarations as reflective instruments rather than compliance artefacts, using granularity, task specificity, intensity, prompt transparency, and reflection over punishment**: The framework is guided by five principles that "collectively shift declarations from compliance artefacts to reflective instruments": granularity over a binary yes/no; task specificity; intensity as well as presence (Minor, Moderate, Extensive); prompt-level transparency via brief explanations and example prompts; and reflection over punishment, framing the declaration "as a description of process, not an admission of guilt". The last principle responds directly to empirical evidence that students avoid declaring GenAI use when they perceive the form as a penalty mechanism. (Nicholas Micallef (2026))
 
 ### Claims
 - [Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work](../claims/binary-genai-declarations-fail-to-capture-use-diversity.md) [+W]

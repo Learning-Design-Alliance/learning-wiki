@@ -48,3 +48,4 @@ Cross-conversation comparison of the three chat logs (software, software/hardwar
 - [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](students-offload-critical-thinking-ai-debugging.md) — related
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](llm-assistant-boosts-debugging-confidence.md) — related
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
+- [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related

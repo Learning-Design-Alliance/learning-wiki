@@ -37,9 +37,11 @@ The article closes with avenues for future work on dialogueKT. First, "we can jo
 - Personalization, teacher support, and training AI-based tutors from estimated student knowledge states
 
 ## Related Strategies
+
 - [Dialogue Knowledge Tracing Framework](../theories/dialogue-knowledge-tracing-framework.md)
 - [Llmkt Llm Based Knowledge Tracing](../elements/llmkt-llm-based-knowledge-tracing.md)
 - [Personalization](../principles/personalization.md)
+- [Future student-simulation work should extend beyond turn-level math dialogue and address history-selection and faithfulness gaps](extend-student-simulation-beyond-turn-level-math.md)
 
 ## Examples
 -

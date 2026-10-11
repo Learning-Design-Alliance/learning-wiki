@@ -70,3 +70,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
+- [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related

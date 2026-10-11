@@ -46,6 +46,7 @@ The paper recommends that developers of educational AI treat the purpose of AI i
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
+- [Embed pedagogical guardrails in the generation pipeline to counter cognitive offloading from friction-minimizing generative AI](pedagogical-guardrails-against-cognitive-offloading.md)
 
 ## Examples
 -

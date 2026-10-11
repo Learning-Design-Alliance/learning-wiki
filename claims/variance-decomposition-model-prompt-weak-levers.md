@@ -48,3 +48,4 @@ Fully crossed random-effects variance decomposition (Table 1) of squared misalig
 - [Prompt type interacts with coding dimension in error rates: definitions and instructions can impair detection of listing](prompt-dimension-interaction-error-rates.md) — related
 - [Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots](anova-prompt-temperature-effects-llm-llm-alignment.md) — related
 - [LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness](coding-dimension-listing-easier-than-correct-defining.md) — related
+- [In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment](raw-agreement-kappa-paradox-classroom-video.md) — related

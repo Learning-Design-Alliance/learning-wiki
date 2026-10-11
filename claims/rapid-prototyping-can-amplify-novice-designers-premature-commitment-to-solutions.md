@@ -61,3 +61,4 @@ A chapter situating design thinking in the design research field, from which it 
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — reports the opposite
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
+- [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — related

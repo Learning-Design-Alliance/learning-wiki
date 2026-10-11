@@ -46,3 +46,4 @@ Bootstrap conditional indirect effect analysis (5,000 resamples) on the 1,198-st
 - [Professional commitment positively moderates the effect of psychological capital on learning engagement](professional-commitment-moderates-psycap-engagement.md) — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related

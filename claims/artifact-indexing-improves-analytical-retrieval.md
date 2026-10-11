@@ -64,3 +64,4 @@ For the 10 direct queries whose terms appear in transcripts, retrieval found rel
 ## Related Claims
 - [Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality](artifact-grounded-responses-rated-higher.md) — related
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related

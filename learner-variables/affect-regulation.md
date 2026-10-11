@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (47 for, 8 mixed, 5 against) · 53 studies (13 review, 12 causal, 10 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 10 of 53 report an effect size · 59 claims rest on one study
+> **Evidence** · 66 claims (49 for, 11 mixed, 6 against) · 57 studies (14 review, 13 causal, 12 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 12 of 57 report an effect size · 65 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -93,6 +93,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](../claims/career-adaptability-mediation-ai-anxiety-career-decisions.md) [+M] — learners who differ on it differ in outcomes
 - [AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations](../claims/ai-overviews-mixed-effects-academic-search.md) [~M] — instruction changes it
 - [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](../claims/faster-slower-groups-affective-transition-differences.md) [+M] — learners who differ on it differ in outcomes
+- [AI anxiety attenuates the positive association between AI literacy and trust in AI](../claims/ai-anxiety-moderates-literacy-trust-link.md) [~M] — an instructional effect differs with it
+- [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](../claims/ai-ta-condition-no-effect-other-perceptions.md) [-M] — instruction changes it
+- [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](../claims/challenge-emotions-mediation-genai-literacy-srlb.md) [+W] — learners who differ on it differ in outcomes
+- [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](../claims/serial-mediation-agency-challenge-emotions-srlb.md) [+W] — learners who differ on it differ in outcomes
+- [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](../claims/mixed-anxiety-remote-proctored-exams.md) [~W] — instruction changes it
+- [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](../claims/moderated-mediation-anxiety-serial-path.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

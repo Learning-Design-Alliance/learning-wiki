@@ -47,3 +47,4 @@ Analysis of Student A's chat log debugging the improperly biased CE amplifier (P
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
 - [An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections](llm-provides-accurate-hardware-information.md) — related
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
+- [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related

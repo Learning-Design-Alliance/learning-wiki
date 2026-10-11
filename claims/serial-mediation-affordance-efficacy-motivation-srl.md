@@ -57,3 +57,5 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — a narrower finding that bears on this claim
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
+- [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related

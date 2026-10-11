@@ -64,3 +64,5 @@ Qualitative false-negative example (Fig. 6, problem 6-C-b): the leftmost arrow w
 ## Related Claims
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
+- [All evaluated GenAI systems scored noticeably lower on graphics-related questions requiring interpretation of JavaFX output](genai-weak-visual-reasoning-javafx-questions.md) — related
+- [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related

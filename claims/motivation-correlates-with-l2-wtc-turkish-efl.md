@@ -51,3 +51,4 @@ Correlational analysis of questionnaire data from 106 preparatory students at U�
 - [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](wtc-variables-positively-correlated-overall-wtc.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
 - [Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination](turkish-efl-learners-generally-extrinsically-motivated.md) — related
+- [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related

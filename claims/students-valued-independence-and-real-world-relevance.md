@@ -53,3 +53,4 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

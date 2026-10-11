@@ -45,3 +45,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 ## Related Claims
 - [Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential](ann-utaut-predictors-lms-acceptance-vocational.md) — related
 - [The four acceptance profiles differ substantially in behavioral intention to use ChatGPT](profiles-differ-in-behavioral-intention.md) — related
+- [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related

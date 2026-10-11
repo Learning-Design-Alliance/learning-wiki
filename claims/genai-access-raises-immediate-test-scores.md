@@ -51,3 +51,4 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — reports the opposite
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
 - [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related
+- [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related

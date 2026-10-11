@@ -52,3 +52,5 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
 - [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — related
+- [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
+- [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related

@@ -45,3 +45,4 @@ Qualitative analysis of SME feedback on FN cases from the expert evaluation. SME
 ## Related Claims
 - [A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1](reasoning-model-detection-false-alarm-tradeoff.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
+- [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related

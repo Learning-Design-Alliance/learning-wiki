@@ -87,3 +87,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [People are well-calibrated about their own independent completion times](accurate-independent-completion-time-predictions.md) — a narrower finding that bears on this claim
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](verbalizing-overconfidence-consistency-local-failures.md) — related
+- [Guided-LLM students showed the strongest self-assessment calibration, with the highest well-calibrated rate and strongest self-assessment–performance correlations](guided-llm-self-assessment-calibration-alignment.md) — a narrower finding that bears on this claim

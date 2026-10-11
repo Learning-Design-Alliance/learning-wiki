@@ -65,3 +65,4 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - [Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).](teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) — related
+- [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related

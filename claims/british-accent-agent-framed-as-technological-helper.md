@@ -49,3 +49,4 @@ Interaction Analysis case study of Group 10's video-recorded session in the Brit
 - [An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions](indian-accent-agent-integrated-as-trusted-peer.md) — related
 - [Agent accent condition showed no statistically significant differences in teachers' ratings of the agent's proficiency, etiquette, or personality](no-significant-accent-differences-casux-subscales.md) — related
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
+- [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](human-ai-discourse-functional-differences.md) — related

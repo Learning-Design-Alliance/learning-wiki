@@ -49,3 +49,4 @@ Grounded-coding finding from the Delphi panel: "Panelists strongly agreed that h
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- [Les citations bibliographiques produites par ChatGPT sont inexistantes ou incorrectes dans 23 % des cas, compromettant le circuit de validation scientifique](chatgpt-hallucinated-citations-23-percent.md) — related

@@ -70,3 +70,6 @@ Authors' explanation of the low performance, not a tested result: "student behav
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
 - [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related
 - [A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues](tutor-prompt-outperforms-base-prompt-mathdial.md) — related
+- [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
+- [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
+- [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related

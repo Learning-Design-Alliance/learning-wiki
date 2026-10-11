@@ -45,3 +45,4 @@ Authors' interpretation in Sect. 1.5 (Prior work), comparing this structured che
 ## Related Claims
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](clt-instructional-design-raises-retention-transfer-thermodynamics.md) — related
+- [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — related

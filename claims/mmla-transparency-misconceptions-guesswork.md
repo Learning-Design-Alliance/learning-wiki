@@ -66,3 +66,4 @@ Same transparency theme on motivation to learn: 13 of 14 students wanted more de
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](mmla-tiered-data-access-preferences.md) — related
 - [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

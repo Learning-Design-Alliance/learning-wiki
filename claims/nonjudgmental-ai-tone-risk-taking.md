@@ -49,3 +49,4 @@ Interview and log data across cases; teachers described the adaptive prompting s
 - [Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students](productive-struggle-motivation-explaining-brain-rules.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](genai-tutors-struggle-infer-student-knowledge.md) — related
+- [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related

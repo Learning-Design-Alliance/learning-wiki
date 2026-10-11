@@ -52,3 +52,5 @@ The paper reports, citing Fan et al.'s study, that the SRL cycle is vulnerable t
 - [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](self-reports-fail-to-predict-llm-regulation.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](widening-gap-novice-genai-metacognition.md) — related
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — related
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related

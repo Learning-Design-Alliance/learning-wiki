@@ -47,3 +47,4 @@ Individual cognitive walkthroughs with five of eight active users, analyzed them
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
+- [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](question-specificity-rises-over-socratic-ai-dialogue.md) — related

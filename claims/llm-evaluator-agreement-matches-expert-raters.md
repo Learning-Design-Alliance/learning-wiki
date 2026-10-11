@@ -49,3 +49,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
+- [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related

@@ -51,3 +51,4 @@ In Student C's chat log debugging the probe-setting problem (P6) with an unknown
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs](students-use-images-capturing-circuits-chat-debugging.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
+- [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — a broader claim this one bears on

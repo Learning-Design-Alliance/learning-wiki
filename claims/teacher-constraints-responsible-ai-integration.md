@@ -55,3 +55,5 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related
 - [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
+- [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related

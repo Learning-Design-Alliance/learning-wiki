@@ -48,3 +48,4 @@ Qualitative analysis of one episode beginning at minute 33:20 with a red-framed 
 - [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](alert-reframing-branches-engagement-structure.md) — related
 - [Strategic non-intervention informed by class-level emotional trends coincided with stabilization of students' engagement structures without reorganization](class-level-trends-inform-strategic-non-intervention.md) — related
 - [Three simultaneous negative-emotion alerts prompted a collective reframing of the task that coincided with branching of multiple students' engagement structures at once](simultaneous-alerts-prompt-collective-branching.md) — related
+- [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related

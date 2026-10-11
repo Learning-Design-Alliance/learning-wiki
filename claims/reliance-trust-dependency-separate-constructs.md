@@ -67,3 +67,5 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — related
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
+- [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
+- [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related

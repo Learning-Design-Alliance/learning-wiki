@@ -50,3 +50,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
 - [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
+- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related

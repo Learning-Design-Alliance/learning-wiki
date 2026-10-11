@@ -48,3 +48,4 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 - [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
+- [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related

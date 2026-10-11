@@ -61,3 +61,4 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related

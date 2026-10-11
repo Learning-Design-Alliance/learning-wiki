@@ -52,6 +52,7 @@ The article presents self-determination theory as an explanatory framework in wh
 ## Examples
 
 - [Retention initiatives should satisfy all three basic psychological needs across the whole campus environment](../principles/satisfy-all-three-needs-campus-wide-retention.md)
+- [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
 
 ## Key Sources
 - Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4

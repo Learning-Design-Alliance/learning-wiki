@@ -39,6 +39,7 @@ The article recommends that AI literacy interventions be evaluated with behavior
 ## Related Strategies
 
 - [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
+- [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 
 ## Examples
 -

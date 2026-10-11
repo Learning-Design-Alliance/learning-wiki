@@ -45,3 +45,4 @@ Authors' interpretation from the case-study audit addressing their first researc
 ## Related Claims
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
+- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related

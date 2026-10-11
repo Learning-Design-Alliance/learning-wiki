@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (55 for, 16 mixed, 6 against) · 63 studies (16 associational, 13 review, 11 causal, 9 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 14 of 63 report an effect size · 69 claims rest on one study
+> **Evidence** · 84 claims (61 for, 17 mixed, 6 against) · 67 studies (19 associational, 13 review, 11 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 67 report an effect size · 76 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -110,6 +110,13 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](../claims/llm-math-interactions-request-dominated-grade9.md) [+W] — instruction changes it
 - [Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.)](../claims/widening-gap-novice-genai-metacognition.md) [+W] — an instructional effect differs with it
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](../claims/within-session-hs-shifts-toward-closure-srl-increases.md) [~W] — instruction changes it
+- [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](../claims/challenge-emotions-mediation-genai-literacy-srlb.md) [~M] — instruction changes it
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](../claims/genai-metacognitive-laziness-and-autonomy.md) [+M] — instruction changes it
+- [GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates](../claims/genai-literacy-positive-srlb-special-education-undergraduates.md) [+M] — instruction changes it
+- [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](../claims/learning-agency-mediation-genai-literacy-srlb.md) [+M] — instruction changes it
+- [Self-regulated learning and critical AI evaluation promote effective AI use](../claims/srl-and-critical-evaluation-promote-effective-ai-use.md) [+M] — learners who differ on it differ in outcomes
+- [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](../claims/ci-higher-self-regulation-no-coreg-differences.md) [+M] — instruction changes it
+- [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](../claims/partial-mediation-direct-effect-genai-literacy-srlb.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

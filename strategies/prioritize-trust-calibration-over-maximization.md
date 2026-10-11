@@ -37,7 +37,8 @@ The review recommends that research on AI design factors focus on fostering appr
 - appropriate and calibrated reliance on AI-enabled systems
 
 ## Related Strategies
-- 
+
+- [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
 
 ## Examples
 -

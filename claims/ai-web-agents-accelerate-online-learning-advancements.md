@@ -43,4 +43,4 @@ The authors' forward-looking interpretation, offered without a direct test of th
 
 
 ## Related Claims
--
+- [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](ai-partners-evidence-but-more-work-needed.md) — related

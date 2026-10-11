@@ -49,6 +49,7 @@ The article recommends that institutions govern generative AI use by redesigning
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 - [Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them](genai-disruption-assessment-redesign-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design](genai-integration-feedback-literacy-reflective-course-design.md)
 
 ## Examples
 -

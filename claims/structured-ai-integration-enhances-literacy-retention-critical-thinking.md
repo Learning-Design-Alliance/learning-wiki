@@ -52,3 +52,4 @@ This is the article's own concluding statement about its course-based study of A
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
+- [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related

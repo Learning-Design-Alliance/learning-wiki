@@ -78,3 +78,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — possibly the same claim (merge candidate)
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
+- [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related

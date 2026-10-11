@@ -49,3 +49,4 @@ Conceptual argument in the Discussion: the article claims broader relevance for 
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

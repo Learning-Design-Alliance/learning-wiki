@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (61 for, 15 mixed, 9 against) · 80 studies (25 associational, 18 causal, 16 review, 7 qualitative, 5 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 13 of 80 report an effect size · 78 claims rest on one study
+> **Evidence** · 91 claims (65 for, 17 mixed, 9 against) · 86 studies (27 associational, 21 causal, 16 review, 7 qualitative, 5 quant-synthesis, 5 design, 5 theoretical), `q1`–`q4` · 15 of 86 report an effect size · 84 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -119,6 +119,12 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](../claims/genai-learning-motivation-g081.md) [+M] — instruction changes it
 - [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](../claims/prepost-shifts-innovation-motivation-self-directed-learning.md) [+M] — instruction changes it
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](../claims/genai-motivation-effect-larger-university-than-school.md) [+M] — an instructional effect differs with it
+- [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](../claims/females-broader-gains-career-interest-narrow-gap.md) [+M] — instruction changes it
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](../claims/genai-metacognitive-laziness-and-autonomy.md) [+M] — instruction changes it
+- [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](../claims/intensive-ai-use-carryover-requires-task-engagement.md) [~M] — an instructional effect differs with it
+- [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](../claims/question-driven-ai-journaling-raises-motivation-confidence.md) [+M] — instruction changes it
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](../claims/se-mov-positive-predict-sdl.md) [+M] — learners who differ on it differ in outcomes
+- [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](../claims/shallow-engagement-not-dominant-mode.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

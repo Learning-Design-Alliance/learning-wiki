@@ -48,3 +48,4 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 ## Related Claims
 - [Engage-to-Unlock participants completed passage evaluation faster and with higher accuracy-per-time efficiency than both AI-access comparison conditions](engage-to-unlock-faster-more-efficient-evaluation.md) — related
 - [AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged](genai-shifts-time-from-writing-to-research.md) — related
+- [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related

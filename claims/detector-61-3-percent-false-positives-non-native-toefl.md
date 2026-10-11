@@ -50,3 +50,4 @@ The review reports Liang et al.'s controlled benchmark of seven detectors on aut
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — a broader claim this one bears on
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
+- [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — related

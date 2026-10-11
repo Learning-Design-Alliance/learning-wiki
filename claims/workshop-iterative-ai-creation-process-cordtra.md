@@ -48,3 +48,4 @@ CORDTRA diagram analysis of recorded workshop sessions (six of eight sessions co
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related

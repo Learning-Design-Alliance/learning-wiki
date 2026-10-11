@@ -129,3 +129,6 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — a narrower finding that bears on this claim
+- [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
+- [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related

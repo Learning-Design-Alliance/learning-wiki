@@ -47,3 +47,4 @@ Online questionnaire conducted 2023-24 with 100 respondents, 52% from AI, Roboti
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
 - [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
+- [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related

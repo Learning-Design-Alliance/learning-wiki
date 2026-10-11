@@ -92,6 +92,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 
 - [VR radiopharmaceutical administration training module with clinically measured radiation field visualization](../elements/vr-radiopharmaceutical-administration-module-radiation-visualization.md)
 - [Three-part strategy for responsible AI use in education: empower reasoning, foster emotional well-being, and provide institutional support](../strategies/three-principles-responsible-ai-use-education.md)
+- [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](../strategies/ai-as-guided-support-tool-build-verification.md)
+- [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](../strategies/four-design-principles-epistemic-agency-ai.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

@@ -58,3 +58,7 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
+- [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
+- [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related

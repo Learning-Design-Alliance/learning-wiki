@@ -42,6 +42,7 @@ The review derives design implications for future AI decision-support systems in
 ## Related Strategies
 
 - [Explore hybrid assessment models combining AI conversational agent-based and face-to-face formats, with long-term study of effects on performance and well-being](hybrid-ai-and-face-to-face-assessment-models.md)
+- [Use five conceptual propositions to guide research and professional development on teachers' diagnostic skills in AI-supported formative assessment](five-propositions-teacher-diagnostic-skills-ai-research.md)
 
 ## Examples
 -

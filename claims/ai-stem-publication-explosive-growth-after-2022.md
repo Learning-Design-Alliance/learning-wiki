@@ -46,3 +46,4 @@ Bibliometric trend analysis of annual publication counts (Figure 2) over the 201
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — possibly the same claim (merge candidate)
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
 - [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
+- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related

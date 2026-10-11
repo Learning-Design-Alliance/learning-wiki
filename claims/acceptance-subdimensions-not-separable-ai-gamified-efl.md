@@ -44,3 +44,5 @@ Cross-sectional survey of 401 EFL students at a Kazakhstani university; full-sam
 
 ## Related Claims
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](ai-use-positive-adaptation-associations.md) — related
+- [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
+- [GenAI literacy, learning agency, challenge emotions, and SRLB are empirically distinguishable constructs, though the four-factor model's absolute fit was less than optimal](four-construct-distinctiveness-genai-srl-model.md) — related

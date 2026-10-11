@@ -49,3 +49,5 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](prompt-strategies-foreground-different-pedagogical-themes.md) — related
+- [Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility](ai-opportunities-and-verification-burden.md) — related
+- [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related

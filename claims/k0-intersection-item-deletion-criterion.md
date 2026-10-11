@@ -47,3 +47,4 @@ Figure 1 plots item difficulty values and percentage discriminating values again
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
+- [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related

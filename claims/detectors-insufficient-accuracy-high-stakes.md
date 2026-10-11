@@ -53,3 +53,5 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — related
+- [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — a narrower finding that bears on this claim
+- [Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class](detectors-fail-hybrid-authorship-texts.md) — a narrower finding that bears on this claim

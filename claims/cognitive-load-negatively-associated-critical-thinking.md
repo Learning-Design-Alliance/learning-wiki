@@ -46,3 +46,4 @@ Pearson correlations in the same 480-student survey. Critical thinking correlate
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](srl-moderates-cognitive-load-critical-thinking.md) — related
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
+- [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related

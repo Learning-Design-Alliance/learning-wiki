@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -41,7 +41,9 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - Deeper learning through higher modes of cognitive engagement with instructional materials
 
 ### Claims
-- 
+
+- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](../claims/icap-modes-across-ai-literacy-studies.md) [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes".
+- [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode](../claims/active-to-constructive-largest-leap.md) [+W] — attached 2026-10-11 from A Hingle (2024), which proposed "ICAP framework: Interactive-Constructive-Active-Passive hierarchy of learning modes"; tests this page's relationship.
 
 ## Related Theories
 

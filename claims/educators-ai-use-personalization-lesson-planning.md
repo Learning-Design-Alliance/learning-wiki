@@ -71,3 +71,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies](ai-applications-mostly-affect-learning-process-outcomes.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning](ai-roles-across-instructional-stages.md) — related
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related

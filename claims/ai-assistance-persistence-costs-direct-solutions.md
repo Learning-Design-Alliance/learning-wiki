@@ -53,3 +53,4 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — related
 - [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](genai-learning-gain-persists-one-week.md) — reports the opposite
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related
+- [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related

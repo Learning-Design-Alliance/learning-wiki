@@ -51,3 +51,4 @@ Finding from the thematic analysis of institutional and scholarly documents, rep
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
+- [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — related

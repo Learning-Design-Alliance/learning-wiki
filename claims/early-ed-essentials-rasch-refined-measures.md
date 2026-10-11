@@ -49,3 +49,4 @@ Measurement development analysis using the Rasch IRT model (Winsteps, Version 3.
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — related
 - [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](cultivate-learning-condition-measures-strong-reliability.md) — related
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](recalibrated-5essentials-measures-reliability.md) — related
+- [The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis](genai-literacy-items-single-construct-rasch-fit.md) — related

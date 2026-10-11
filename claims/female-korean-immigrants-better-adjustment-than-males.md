@@ -48,3 +48,4 @@ General linear model analysis (Table 7) of the 79-subject sample found gender si
 - [Length of residence in the United States does not predict psychosocial development of adult Korean immigrants](length-of-residence-does-not-predict-immigrant-psychosocial-development.md) — related
 - [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related
+- [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related

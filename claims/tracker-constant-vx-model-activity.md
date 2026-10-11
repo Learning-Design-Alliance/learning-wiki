@@ -47,3 +47,4 @@ Suggested workshop activity for novice students who may not appreciate constant 
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on
 - [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — related
+- [The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion](prompt-specificity-shapes-physical-coherence.md) — related

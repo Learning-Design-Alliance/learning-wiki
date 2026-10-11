@@ -56,3 +56,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — a broader claim this one bears on
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Effective AI use positively influences sustainable learning performance](effective-ai-use-improves-sustainable-learning-performance.md) — related

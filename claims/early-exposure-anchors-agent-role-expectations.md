@@ -48,3 +48,4 @@ Cross-case interpretation from the three video case studies in the 33-teacher st
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
 - [An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions](indian-accent-agent-integrated-as-trusted-peer.md) — a narrower finding that bears on this claim
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
+- [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](ai-partners-evidence-but-more-work-needed.md) — related

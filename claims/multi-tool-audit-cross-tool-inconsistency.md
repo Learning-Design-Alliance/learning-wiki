@@ -52,3 +52,4 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
+- [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — related

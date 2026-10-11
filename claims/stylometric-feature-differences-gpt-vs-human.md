@@ -45,3 +45,4 @@ Paired t-tests and point-biserial correlations on document-level median feature 
 ## Related Claims
 - [SHAP analysis identifies Hapax Ratio as the most influential stylometric feature in Random Forest predictions, followed by NSR, Noun Ratio, Adverb Ratio, and TTR](shap-hapax-ratio-most-influential-feature.md) — related
 - [Random Forest using nine interpretable stylometric features detects GPT-assisted student writing with held-out ROC-AUC of 0.870 and F1 of 0.842](stylometric-features-detect-gpt-assisted-writing-rf-auc-0870.md) — related
+- [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](ai-questions-deepen-reflective-writing-quality.md) — possibly the same claim (merge candidate)

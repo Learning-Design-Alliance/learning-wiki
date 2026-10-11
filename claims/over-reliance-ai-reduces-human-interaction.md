@@ -49,3 +49,4 @@ The review warns of over-reliance on AI technologies, arguing dialogue, collabor
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
 - [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — a broader claim this one bears on

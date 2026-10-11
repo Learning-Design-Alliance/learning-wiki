@@ -45,3 +45,5 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 ## Related Claims
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — possibly the same claim (merge candidate)
 - [Research on AI applications in science and chemistry education increased between 2021 and 2024, with 11 of 18 reviewed studies published in 2024](ai-science-chemistry-studies-increase-2021-2024.md) — possibly the same claim (merge candidate)
+- [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
+- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related

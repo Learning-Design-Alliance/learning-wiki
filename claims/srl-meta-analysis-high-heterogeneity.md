@@ -52,3 +52,4 @@ Heterogeneity test across the 21 included studies, reported in Table 2. The sign
 - [Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties](targeted-k6-interventions-positive-short-term-effects.md) — related
 - [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — a narrower finding that bears on this claim
 - [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
+- [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related

@@ -51,6 +51,7 @@ The article recommends designing inquiry activities by specifying goals first an
 - [Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra](../elements/stellar-populations-inquiry-activity.md)
 - [Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion](../strategies/burning-fuel-thinking-tool-stellar-lifetimes.md)
 - [Design science education materials through curriculum-aligned teaching-learning sequences specifying driving questions, competency-based objectives, scientific practices and student activities](../strategies/curriculum-aligned-tls-design-recipe.md)
+- [Integrate GenAI around a defined educational problem with explicit guardrails, not around the novelty of the tool](../strategies/integrate-genai-around-defined-educational-problem.md)
 
 ## Key Sources
 - Rafelski, M., Foley, M., Graves, G. J., Kretke, K. A., Mills, E., Nassir, M., & Patel, S. (2010). Teaching Astronomy with an Inquiry Activity on Stellar Populations. ASP Conference Series. https://arxiv.org/abs/1009.5404

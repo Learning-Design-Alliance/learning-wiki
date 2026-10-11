@@ -46,6 +46,7 @@ The report's fourth use case describes how Indian Prairie SD's governance was gr
 - [Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles](ai-specific-accountability-systems-playbook.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
+- [Complement AI tutoring with group recitations or instructor guidance rather than treating it as a replacement for human instruction](complement-ai-tutoring-with-human-instruction.md)
 
 ## Examples
 -

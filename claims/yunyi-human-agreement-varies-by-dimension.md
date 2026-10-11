@@ -64,3 +64,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [Each of the 12 human raters' scores correlates significantly with AEEGS scores, with coefficients ranging from 0.604 to 0.864](aeegs-pearson-correlations-range-0604-0864.md) — related
 - [Automated judging aligns strongly with three domain experts (r = 0.82 for role fidelity) but exhibits a conservative bias, scoring ethical deviation 0.08 points lower than humans](automated-judge-human-alignment-conservative-bias.md) — related
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
+- [LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies](dimension-specific-scoring-reasoning-strongest-terminology-weakest.md) — a narrower finding that bears on this claim

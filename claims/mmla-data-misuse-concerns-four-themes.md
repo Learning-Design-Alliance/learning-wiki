@@ -55,3 +55,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

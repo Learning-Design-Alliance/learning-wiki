@@ -47,3 +47,4 @@ Interview quote from participant P02 in the field study's visualization theme, d
 ## Related Claims
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a broader claim this one bears on
+- [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related

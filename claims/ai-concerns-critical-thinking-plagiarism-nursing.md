@@ -65,3 +65,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](staff-concerns-genai-integrity-skill-erosion.md) — a broader claim this one bears on
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related

@@ -49,3 +49,4 @@ PRISMA-based systematic review methodology section: two independent reviewers sc
 - [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Blinded dual evaluation of artworks reached almost perfect inter-rater agreement (kappa = 0.92)](inter-rater-kappa-092-art-scoring.md) — related
+- [A meta-systematic review of AI in higher education found that 51.5% of articles lacked any reliability metrics or coding protocols](aied-studies-lack-reliability-reporting.md) — related
