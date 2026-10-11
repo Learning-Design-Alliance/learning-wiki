@@ -756,7 +756,7 @@
 <h1 id="open-source-modular-ai-math-tutoring-platform">Open-source modular AI math tutoring platform<a class="headerlink" href="#open-source-modular-ai-math-tutoring-platform" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 2 claims (1 for, 1 mixed) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>An open-source modular platform developed by Jarosław A. Chudziak and colleagues for AI-powered personalized mathematics tutoring, integrating conversational tutoring, retrieval, task generation, symbolic solving, plotting, and course-graph tools.</p>
@@ -764,14 +764,20 @@
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 <ul>
 <li><strong>AITutor: an LLM-based iPad tutoring app translating pedagogical mechanisms into UI features</strong>: AITutor is a React Native/Expo iPad app with a Python/FastAPI backend that orchestrates LLM calls, curriculum-constrained prompting, retrieval over digitized course materials, and telemetry logging. Rather than "treating the AI as an open-ended chatbot, we constrained the interaction, translating pedagogical mechanisms into explicit UI features." Its features are layered worked examples (overview, orientation, explanation, final-answer checkpoint, exam-format layer), step-linked visual grounding, a contextual follow-up dock, and a delayed retrieval/wrong-book loop. (From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Rea)</li>
+<li><strong>MathBuddy: multimodal emotion-aware LLM math tutoring system</strong>: MathBuddy is an emotionally aware LLM-powered math tutor that, per the authors, "dynamically models the student's emotions and maps them to relevant pedagogical strategies, making the tutor-student conversation a more empathetic one." It captures emotions from conversational text (a fine-tuned DistilBERT classifier) and from webcam facial expressions (face-api.js, reporting 76% accuracy and 71% F1 on its test set), aggregates both modalities into Positive/Neutral/Negative, and prompts the LLM tutor accordingly. The system has a TypeScript frontend with chat interface, webcam input, and visual workspace, and a Python REST backend for inference. Code, dataset, and demo video are publicly released. (Debanjana Kar et al. (2025))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/emotion-on-longer-positive-facial-expressions/">In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition</a> [+M]</li>
+<li><a href="../../claims/multimodal-emotion-aggregation-60-percent-accuracy/">MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class</a> [~M]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484</li>
 <li>Harry Feng, Yuan Tian, and Erica Zhao. 2026. From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments. https://arxiv.org/abs/2607.01692</li>
+<li>Debanjana Kar, Leopold Böss, Dacia Braca, Sebastian Dennerlein, Nina Hubig, Philipp Wintersberger, and Yufang Hou. (2025). MathBuddy: A Multimodal System for Affective Math Tutoring. https://arxiv.org/abs/2508.19993</li>
 </ul>
 <details class="info">
 <summary>Page metadata</summary>
