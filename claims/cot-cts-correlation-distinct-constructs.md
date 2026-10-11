@@ -48,3 +48,4 @@ Validity analysis of the measurement model in the 533-student sample; Table 7 re
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
 - [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
+- [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](llm-substitution-negative-critical-thinking-correlation.md) — related

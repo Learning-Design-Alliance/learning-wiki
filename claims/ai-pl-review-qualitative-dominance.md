@@ -42,3 +42,4 @@ Descriptive frequency analysis of the 31 included Scopus-indexed articles (Figur
 
 ## Related Claims
 - [Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus](pl-terminology-unevenly-distributed-review.md) — related
+- [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite

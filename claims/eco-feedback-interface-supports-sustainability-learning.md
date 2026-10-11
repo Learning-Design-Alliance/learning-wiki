@@ -47,3 +47,4 @@ Reflexive thematic analysis (Braun and Clarke's approach) of open-ended survey r
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related
 - [Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions](carbon-saving-recognition-increases-eco-mode-selection.md) — related
 - [Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness](low-stated-long-term-adoption-of-eco-feedback-llm.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related

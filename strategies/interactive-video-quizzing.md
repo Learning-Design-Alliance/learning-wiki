@@ -64,6 +64,7 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 - [Flipped Classroom](flipped-classroom.md) — interactive quizzing makes pre-class video accountability feasible
 - [Segmenting](segmenting.md) — question pauses double as segmentation, controlling cognitive load
 - [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
+- [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
 
 ## Examples
 - **[Edpuzzle](https://edpuzzle.com)** — teachers overlay multiple-choice and open-ended questions on existing videos and track per-student watch and response data.

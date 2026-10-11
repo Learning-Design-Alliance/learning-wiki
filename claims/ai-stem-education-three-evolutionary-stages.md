@@ -56,3 +56,4 @@ Bibliometric time-zone evolution analysis of the 242-document corpus in VOSviewe
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
 - [Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus](pl-terminology-unevenly-distributed-review.md) — related
 - [Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates](cybernetics-to-ai-terminology-shaped-debates.md) — related
+- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related

@@ -59,3 +59,5 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — a narrower finding that bears on this claim
+- [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
+- [The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.](genai-platforms-challenge-higher-education-assessment.md) — related

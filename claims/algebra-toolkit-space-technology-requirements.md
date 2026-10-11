@@ -44,3 +44,4 @@ Descriptive resource table entry describing the meeting-space resource in this R
 
 ## Related Claims
 - [Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation](algebra-toolkit-educator-time-requirements.md) — related
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

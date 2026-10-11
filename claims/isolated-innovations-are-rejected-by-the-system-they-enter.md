@@ -87,3 +87,4 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — a narrower finding that bears on this claim
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
+- [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related

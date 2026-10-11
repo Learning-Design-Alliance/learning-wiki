@@ -63,3 +63,4 @@ Summarizing all three excerpts, the authors write that events are described "in 
 
 ## Related Claims
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
+- [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related

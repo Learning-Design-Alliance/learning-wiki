@@ -37,7 +37,8 @@ The article's implications section gives health-IT teams a four-part recipe for 
 - ensuring grounded AI answers patients consistently and covers their information needs
 
 ## Related Strategies
-- 
+
+- [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
 
 ## Examples
 -

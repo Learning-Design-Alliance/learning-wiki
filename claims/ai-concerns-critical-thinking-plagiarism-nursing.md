@@ -69,3 +69,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — a broader claim this one bears on
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
+- [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related

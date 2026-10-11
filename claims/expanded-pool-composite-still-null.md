@@ -47,3 +47,4 @@ Sensitivity analysis adding a composite mean of 12 dependent cross-factor correl
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers](prior-experience-moderates-sr-ob-profiles.md) — related
+- [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related

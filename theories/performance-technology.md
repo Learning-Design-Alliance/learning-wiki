@@ -54,9 +54,11 @@ Rossett and Schafer (2007) offer a concrete taxonomy for one of these non-instru
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md) — an instructional intervention that HPT would only recommend once cause analysis rules out non-instructional causes
 
 ## Examples
+
 - Gilbert's (1978) Behavioral Engineering Model as a feedback/cause-analysis tool
 - Electronic Performance Support Systems (EPSS) and job aids as non-instructional interventions
 - Communities of practice and knowledge management systems as infrastructural, non-instructional supports
+- [Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model](../strategies/organizational-readiness-preventive-student-success.md)
 
 ## Key Sources
 - Gilbert, T. F. (1978). *Human competence: Engineering worthy performance*. McGraw-Hill.

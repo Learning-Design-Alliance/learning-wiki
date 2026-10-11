@@ -90,3 +90,5 @@ After building an offline evaluation dataset for the Tutor Me request classifier
 - [Under FSM metrics, GPT-3.5-Turbo outperforms GPT-4o-Mini, reversing that model's higher rank on coding-oriented leaderboards](fsm-gpt35-outperforms-gpt4o-mini-reversal.md) — a narrower finding that bears on this claim
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
 - [Including agent role descriptions improves the classroom Manager Agent's decision precision](role-descriptions-improve-manager-agent.md) — related
+- [The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy](adapted-4b-outpaces-cloud-baselines-on-lexical-semantic-measures.md) — related
+- [SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones](set-nlp-expansion-without-technological-substitution.md) — related

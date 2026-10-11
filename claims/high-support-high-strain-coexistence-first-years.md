@@ -47,3 +47,4 @@ Descriptive statistics from the 551-student cross-sectional survey show a coexis
 - [Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators](five-dimensions-ai-fatigue-grounded-theory.md) — related
 - [Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification](cognitive-overload-most-reported-ai-fatigue-dimension.md) — a narrower finding that bears on this claim
 - [AI usage pressure attenuates the indirect association of course development satisfaction with psychological adjustment through AI proficiency (moderated mediation index = −0.051)](ai-usage-pressure-attenuates-indirect-association.md) — related
+- [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related

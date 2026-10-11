@@ -46,6 +46,7 @@ The article's recommendations for professional development design are threefold:
 - [Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use](supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 
 ## Examples
 -

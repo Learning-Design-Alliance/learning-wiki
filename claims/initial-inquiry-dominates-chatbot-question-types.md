@@ -65,3 +65,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — reports the opposite
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
+- [In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages](question-autocompletion-scaffolds-knowledge-based-questions.md) — related

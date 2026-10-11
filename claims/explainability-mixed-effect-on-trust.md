@@ -69,3 +69,4 @@ The review attributes countervailing findings to the same cited studies: explana
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related
 - [Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes](instructors-lack-confidence-investigating-ai-use.md) — related
+- [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](calibration-gap-configuration-dependent.md) — related

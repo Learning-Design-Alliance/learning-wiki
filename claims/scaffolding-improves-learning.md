@@ -108,3 +108,5 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
 - [Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — a narrower finding that bears on this claim
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a narrower finding that bears on this claim

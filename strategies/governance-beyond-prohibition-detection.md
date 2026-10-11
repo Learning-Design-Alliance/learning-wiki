@@ -63,6 +63,8 @@ The article recommends that effective institutional governance extend beyond pro
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 - [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

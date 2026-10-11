@@ -48,3 +48,4 @@ Three-wave time-lagged survey of Chinese university students analyzed with PLS-S
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — related
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — reports the opposite
+- [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — related

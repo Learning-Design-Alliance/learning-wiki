@@ -64,3 +64,4 @@ Bivariate correlation reported in the discussion of the moderation result for th
 ## Related Claims
 - [AI literacy is directly and positively associated with continued ChatGPT use among existing users](ai-literacy-direct-continued-chatgpt-use.md) — related
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
+- [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related

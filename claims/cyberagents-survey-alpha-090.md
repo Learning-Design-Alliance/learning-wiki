@@ -53,3 +53,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](eeebi-instrument-preliminary-promise.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
+- [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related

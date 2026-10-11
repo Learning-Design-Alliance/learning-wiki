@@ -50,3 +50,5 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [The cognitive load module encodes cross-domain learning burden into student state representations as a low-to-high load gradient](cognitive-load-module-shapes-representation-space.md) — related
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](moderate-difficulty-granularity-window-optimal.md) — related
 - [Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation](skg-dpm-complementary-ablation-deeptutor.md) — related
+- [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
+- [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related

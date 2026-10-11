@@ -47,3 +47,6 @@ Descriptive geographical analysis of the review's corpus: because some studies i
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — reports the opposite
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
 - [Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors](ai-pl-review-geographic-spread.md) — related
+- [Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America](genai-children-creativity-research-geographic-concentration.md) — related
+- [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — a narrower finding that bears on this claim
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related

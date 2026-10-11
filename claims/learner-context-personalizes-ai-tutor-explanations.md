@@ -46,3 +46,4 @@ Demonstration experiment (Vignette 1, Figure 1) contrasting AI tutor output for 
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](chatgpt-hint-error-rate-self-consistency.md) — related
+- [The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus](persona-constraint-alters-llm-analytical-focus.md) — a narrower finding that bears on this claim

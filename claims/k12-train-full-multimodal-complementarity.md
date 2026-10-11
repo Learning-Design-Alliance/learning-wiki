@@ -66,3 +66,4 @@ K12Vista evaluation across five subjects and three question formats (Table 8), d
 - [SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style](k12-train-cross-subject-transfer.md) — related
 - [Under a matched 2,300-sample SFT budget, K12-Train-Text outperforms eight mainstream instruction-tuning corpora on GaokaoBench and EduEval across two base models](k12-train-text-outperforms-instruction-corpora.md) — related
 - [Current LLMs lack robust curriculum cognition: even the best model reaches only 57.1% exact match on K12-Bench, with prerequisite and neighbor tasks hardest](llms-lack-curriculum-cognition-k12-bench.md) — related
+- [Education-oriented tuning improves authentic K-12 problem solving, with OmniEdu-27B's MDK12-Bench open-question correctness rising from 62.08% to 78.77%](omniedu-k12-problem-solving-gains.md) — related

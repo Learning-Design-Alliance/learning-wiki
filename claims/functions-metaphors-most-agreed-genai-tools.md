@@ -48,3 +48,4 @@ Qualitative analysis of workshop metaphor artefacts. Participants strongly agree
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — related
+- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related

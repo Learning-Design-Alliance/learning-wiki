@@ -68,3 +68,4 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](llm-substitution-negative-critical-thinking-correlation.md) — related

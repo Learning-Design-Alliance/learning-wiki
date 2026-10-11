@@ -49,3 +49,4 @@ Discussion-section analysis of the 30 verified hallucinated references. The arti
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
 - [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
+- [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related

@@ -78,3 +78,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related

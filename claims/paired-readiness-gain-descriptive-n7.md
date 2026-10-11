@@ -45,3 +45,4 @@ Descriptive pre/post comparison in the Customized Co-Creation Layer using six sc
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [Entering faculty were characterized by uncertainty rather than opposition: mean AI perception was 3.22 on a five-point scale and mean self-rated fluency was 1.89 on a six-point scale](faculty-starting-points-uncertainty-low-fluency.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
+- [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related

@@ -52,3 +52,4 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
+- [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related

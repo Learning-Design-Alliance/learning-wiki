@@ -53,3 +53,4 @@ The article's review of recent sector frameworks (traffic light systems, the two
 - [Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified](flat-interest-across-seven-ai-assessment-strategies.md) — related
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
+- [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related

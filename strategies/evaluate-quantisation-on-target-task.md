@@ -40,6 +40,7 @@ The article recommends that practitioners deploying fine-tuned LLM scoring syste
 
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Six empirically grounded hypotheses for educational AI design](six-hypotheses-educational-ai-design.md)
+- [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 
 ## Examples
 -

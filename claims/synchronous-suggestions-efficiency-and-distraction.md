@@ -72,3 +72,4 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
+- [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related

@@ -59,3 +59,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](notebook-ebook-engagement-dropped-distance-learning.md) — related
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
+- [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related

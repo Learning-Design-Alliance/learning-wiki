@@ -50,3 +50,4 @@ Quality evaluation of 442 natural language feedback instances using GPT-4.1 as a
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
 - [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](stage1-no-significant-difference-peer-ai-feedback-quality.md) — related

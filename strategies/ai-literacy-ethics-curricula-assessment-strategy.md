@@ -52,6 +52,8 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

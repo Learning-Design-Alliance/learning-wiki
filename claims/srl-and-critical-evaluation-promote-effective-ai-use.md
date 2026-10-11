@@ -48,3 +48,4 @@ PLS-SEM analysis of the three-wave matched sample (n = 623) tested the hypothesi
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
+- [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related

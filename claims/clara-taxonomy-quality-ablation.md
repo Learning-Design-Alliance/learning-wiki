@@ -65,3 +65,4 @@ Dimension-level ablation study (Table 10) removing one of COG, LAN, or SEL at a 
 - [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — a broader claim this one bears on
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — related
 - [Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment](cogevolution-ablation-module-contributions.md) — related
+- [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related

@@ -46,6 +46,7 @@ The paper recommends that researchers studying AI-enhanced DLPs go beyond aggreg
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
 
 ## Examples
 -

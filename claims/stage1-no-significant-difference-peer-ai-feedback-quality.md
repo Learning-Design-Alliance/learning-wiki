@@ -1,0 +1,48 @@
+---
+type: claim
+title: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
+description: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
+id: stage1-no-significant-difference-peer-ai-feedback-quality
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: li-2026
+    resource: "https://doi.org/10.14742/ajet.11467"
+    title: "Li, X., Zhang, Y., & Liu, T. (2026). Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education. Australasian Journal of Educational Technology, 42(4), 129–146. https://doi.org/10.14742/ajet.11467"
+    author: "Li, X., Zhang, Y., & Liu, T."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+
+## Subclaims
+`q3 i?` Quantitative analyses indicated no significant difference between peer group and ChatGPT-4o feedback quality during the first assessment stage. [→ Li 2026](#li-2026)
+
+## Evidence
+
+### Li 2026
+
+Li, X., Zhang, Y., & Liu, T. (2026). Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education. Australasian Journal of Educational Technology, 42(4), 129–146. https://doi.org/10.14742/ajet.11467
+
+`q3 · i?` · `causal · r1`
+
+Mixed methods study comparing 13 undergraduate peer groups (39 students) with ChatGPT-4o; quantitative analysis found "no significant difference during the first assessment stage". No effect size is printed, so impact is not coded.
+
+> "Quantitative analyses indicated no significant difference during the first assessment stage; however, in the second stage, ChatGPT-4o provided feedback that was significantly higher in constructiveness, accuracy and concreteness."
+
+## Discussion
+
+
+## Related Claims
+- [In the second assessment stage, ChatGPT-4o feedback was significantly higher than peer group feedback in constructiveness, accuracy and concreteness](stage2-chatgpt-feedback-higher-constructiveness-accuracy-concreteness.md) — related
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
+- [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related

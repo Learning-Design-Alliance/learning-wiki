@@ -80,6 +80,7 @@ The strategy works because it converts an invisible influence into an object of 
 - Considering the Opposite — a specific debiasing prompt that asks learners to generate reasons their initial judgment might be wrong
 - Structured Decision Rubrics — the structural counterpart: changing the task so bias has less room to operate
 - [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
+- [Counter-design practices for deliberate AI engagement](counter-design-ai-offloading-practices.md)
 
 ## Examples
 - **Prejudice habit-breaking intervention (Devine et al., 2012)** — a multi-week program combining bias education, counter-stereotype practice, and daily habit monitoring, producing implicit-bias reductions lasting eight weeks.

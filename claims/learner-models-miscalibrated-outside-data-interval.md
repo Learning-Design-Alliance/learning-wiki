@@ -66,3 +66,4 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 - [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](dkt-long-term-information-and-faster-burn-in.md) — related
 - [DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting](dynemb-outperforms-dkt-and-bmf-baselines.md) — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
+- [A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held](moe-candidate-mixed-fidelity-result.md) — related

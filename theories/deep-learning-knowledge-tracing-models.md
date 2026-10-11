@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -37,9 +37,11 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - Monitoring students' evolving knowledge states on knowledge concepts and predicting performance on future exercises
 
 ### Claims
+
 - [Deep Learning Knowledge Tracing Outperforms But Lacks Interpretability](../claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) [~W]
 - [Attentive Knowledge Tracing Benefits From Repeated Interactions](../claims/attentive-knowledge-tracing-benefits-from-repeated-interactions.md) [~W]
 - [Xai Interpretation Of Dkt Enhances Trust](../claims/xai-interpretation-of-dkt-enhances-trust.md) [+W]
+- [Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a fully data-driven PyTorch DKT in predictive accuracy across training ratios and sequence lengths](../claims/responsible-dkt-outperforms-baselines-predictive-accuracy.md) [+M] — attached 2026-10-11 from Hooshyar et al. (2026), which proposed "Responsible-DKT: a neural-symbolic deep knowledge tracing framework injecting symbolic educational knowledge into sequential neural architectures".
 
 ## Related Theories
 

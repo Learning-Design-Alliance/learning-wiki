@@ -72,3 +72,4 @@ Follow-up results section: low-education treated participants "stilllagbehindthe
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — reports the opposite
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
 - [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
+- [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — reports the opposite

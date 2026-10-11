@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 8 studies (2 review, 2 associational, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 2 of 8 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 9 studies (3 associational, 2 review, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 2 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -65,6 +65,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](../claims/perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) [+W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](../claims/competence-predicts-autonomous-motivation-not-autonomy-support.md) [~W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
 - [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](../claims/three-sdt-motivational-profiles-ai-learning.md) [+W] — attached 2026-10-11 from Liang et al. (2026), which proposed "SDT-based five-indicator operationalization of AI learning motivation".
+- [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](../claims/sdt-needs-positive-learning-motivation-agentic-ai.md) [+W] — attached 2026-10-11 from Dhanya Pramod et al. (2026), which proposed "Integrated GDCT–SDT–SPT framework for agentic AI-supported online learning"; tests this page's relationship.
 
 ## Related Theories
 

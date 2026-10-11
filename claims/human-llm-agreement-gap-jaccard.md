@@ -80,3 +80,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity](jaccard-agreement-multilabel-codebook-052.md) — related
 - [Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps](claim-opposing-cosine-similarity-codebook-excerpt.md) — related
 - [An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes](llama3-substantial-kappa-sentiment-labeling-quotes.md) — a narrower finding that bears on this claim
+- [Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus](human-human-screening-agreement-low-coverage-overlap.md) — related

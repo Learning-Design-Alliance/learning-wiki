@@ -42,6 +42,7 @@ The article's forward-looking recommendations for institutions adopting AI tools
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
 - [Institutions should adopt a balanced AI-integration approach including AI literacy courses and instructional guidelines](balanced-ai-integration-ai-literacy-courses.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 
 ## Examples
 -

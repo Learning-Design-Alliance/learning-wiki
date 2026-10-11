@@ -53,6 +53,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 - [Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement](ai-literacy-guidance-productive-ai-use.md)
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
+- [Require students to justify AI-assisted solutions and compare AI-generated with self-developed code](justify-and-compare-ai-assisted-solutions.md)
 
 ## Examples
 -

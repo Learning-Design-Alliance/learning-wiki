@@ -48,3 +48,4 @@ The chapter reports, citing prior work, that early LLM-based educational systems
 - [Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems](aied-2025-majority-papers-use-llms.md) — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related
+- [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related

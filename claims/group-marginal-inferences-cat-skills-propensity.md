@@ -47,3 +47,4 @@ Group-level marginal inference over the causal EM-derived FSCMs compatible with 
 - [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](pn-ps-counterfactuals-help-and-skill-effects.md) — related
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related
+- [The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low](autonomy-teacher-support-compensatory-interaction-digital-skills.md) — related

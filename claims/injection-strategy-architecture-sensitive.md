@@ -46,3 +46,4 @@ Supplementary experiment (Appendix B.2, Figure 6) comparing Input, Output and Du
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — reports the opposite
 - [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
 - [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](mbp-kt-attention-recency-to-long-range.md) — related
+- [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower early- and mid-sequence errors and the lowest prediction inconsistency rates across sequence lengths](responsible-dkt-temporal-reliability.md) — related

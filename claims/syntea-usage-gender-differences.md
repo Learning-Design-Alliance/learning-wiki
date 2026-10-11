@@ -50,3 +50,4 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related

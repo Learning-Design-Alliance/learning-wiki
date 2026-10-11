@@ -1,0 +1,51 @@
+---
+type: claim
+title: "Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings"
+description: "Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings"
+id: pepper-three-pedagogical-roles
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: martinez-roig-2026
+    resource: "https://doi.org/10.1007/s44322-026-00072-1"
+    title: "Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). Exploring the implementation of the Pepper social robot in formal education: a scoping review. Journal of New Approaches in Educational Research, 15, 22. https://doi.org/10.1007/s44322-026-00072-1"
+    author: "Martinez-Roig, R., Aragonés-González, M., & Cazorla, M."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` Across the 13 studies, Pepper functioned as a tutor or teaching assistant in six studies (46.2%), as a learning partner or tutored agent in four (30.8%), and as a social mediation agent in inclusive contexts in three (23.1%). [→ Martinez-Roig 2026](#martinez-roig-2026)
+
+## Evidence
+
+### Martinez-Roig 2026
+
+Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). Exploring the implementation of the Pepper social robot in formal education: a scoping review. Journal of New Approaches in Educational Research, 15, 22. https://doi.org/10.1007/s44322-026-00072-1
+
+`q2 · i?` · `review · r2`
+
+Thematic categorical analysis of the 13 included studies, reported in the review's results on technological implementation and the robot's role. The review counts the three role configurations and cites Donnermann et al. (2022) as the higher-education tutoring example.
+
+> "In six studies (46.2%), Pepper functioned as a tutor or teaching assistant, performing tasks such as guidance, support or structured feedback, as described in the study by Donnermann et al. ( 2022) in higher education."
+
+## Discussion
+
+
+## Related Claims
+- [Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently](pepper-benefits-motivation-engagement-social-skills.md) — related
+- [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
+- [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
+- [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related

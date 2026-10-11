@@ -50,3 +50,4 @@ Post-task self-report perceptions in Experiment-2 (confidence, helpfulness, idea
 - [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — reports the opposite
+- [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related

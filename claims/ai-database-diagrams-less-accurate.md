@@ -44,3 +44,4 @@ Rubric & Grading Redesign room discussion of redesigning assignments and rubrics
 
 ## Related Claims
 - [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related
+- [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](generative-ai-weakens-artifact-evidentiary-relation.md) — related

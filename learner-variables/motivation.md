@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (70 for, 18 mixed, 11 against) · 93 studies (27 associational, 24 causal, 18 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 93 report an effect size · 92 claims rest on one study
+> **Evidence** · 100 claims (71 for, 18 mixed, 11 against) · 94 studies (28 associational, 24 causal, 18 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 94 report an effect size · 93 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -133,6 +133,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [AI applications support self-regulated learning regulation but not motivational regulation](../claims/ai-supports-srl-not-motivation-regulation.md) [-M] — instruction changes it
 - [Intrinsic motivation improved in all three storytelling modalities, with no group reaching statistical significance](../claims/intrinsic-motivation-gains-not-significant-all-modalities.md) [-M] — instruction changes it
 - [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](../claims/motivation-prompt-enthusiasm-pedagogy.md) [+M] — an instructional effect differs with it
+- [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](../claims/positive-performance-effort-expectancy-ai-pre-service-teachers.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

@@ -89,3 +89,4 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — related
+- [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related

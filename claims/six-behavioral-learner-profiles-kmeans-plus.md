@@ -66,3 +66,4 @@ Stability analysis over 10 independent K-Means++ runs with different random seed
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related

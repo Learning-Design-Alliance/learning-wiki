@@ -44,3 +44,4 @@ Zero-shot, answer-only evaluation of five open-source LLMs and five proprietary 
 
 ## Related Claims
 - [K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary](k12-train-full-multimodal-complementarity.md) — related
+- [OmniEdu-27B achieves the best overall curriculum-grounding performance among evaluated models, raising K12-Bench EM from 52.11% to 63.12%](omniedu-27b-best-curriculum-grounding-k12-bench.md) — reports the opposite

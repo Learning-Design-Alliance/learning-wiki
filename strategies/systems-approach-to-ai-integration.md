@@ -48,6 +48,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 
 ## Examples
 -

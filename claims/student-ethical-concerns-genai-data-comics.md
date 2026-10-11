@@ -54,3 +54,4 @@ Thematic analysis of Study Part 5 ethical-implication responses from 60 particip
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
+- [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](students-recognise-genai-benefits-and-limitations.md) — related

@@ -44,3 +44,4 @@ Blind A/B study with 18 raters, each completing 12 comparisons of an Adaptive ve
 
 ## Related Claims
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
+- [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related

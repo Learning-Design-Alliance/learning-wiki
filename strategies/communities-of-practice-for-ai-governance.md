@@ -80,6 +80,9 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Embed automated question categorisation in learning management systems and develop ethical guidelines for AI in formative assessment](lms-embedded-question-categorisation-ethical-guidelines.md)
 - [Pursue ethical AI feedback use as a collective effort across multiple stakeholders in and beyond higher education](collective-stakeholder-effort-ethical-ai.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
+- [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

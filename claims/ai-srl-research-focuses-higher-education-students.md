@@ -49,3 +49,4 @@ Stakeholder analysis of the review's 84 included studies (2018–2024) found tha
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
 - [Elementary students given access and scheduled time for an AI literacy platform use it minimally, with nearly half never using it](low-take-up-ai-literacy-platform-access-only.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — related

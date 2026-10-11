@@ -42,6 +42,7 @@ The review's design implications prescribe that systems support "claim-level pro
 ## Related Strategies
 
 - [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
+- [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
 
 ## Examples
 -

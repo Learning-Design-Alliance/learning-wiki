@@ -55,8 +55,10 @@ Teaching learners to ask structured provenance questions converts an amorphous d
 5. Ask learners to write a one-paragraph verdict (share / don't share / needs verification) with justification, transferring the protocol to independent judgment.
 
 ## Related Strategies
+
 - Lateral Reading — the expert fact-checking move that complements on-page questioning; teach them together
 - [Case Studies](../elements/case-studies.md) — real viral misinformation cases give the questions authentic stakes
+- [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 
 ## Examples
 - **WNYC *On the Media*'s "Breaking News Consumer's Handbook"** ([onthemedia.org](https://www.wnycstudios.org/podcasts/otm)) — a one-page set of guidelines for vetting breaking news, usable as the classroom handout.

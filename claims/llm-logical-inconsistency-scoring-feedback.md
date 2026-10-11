@@ -48,3 +48,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [All four evaluated LLMs produce strongly bimodal item-level score distributions on bash exams, and rubric-enhanced prompts amplify the near-perfect-score peak](llm-bash-score-distributions-bimodal-v2-amplifies.md) — related
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold](llm-assessment-needs-no-ground-truth-or-threshold.md) — related
+- [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related

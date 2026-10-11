@@ -89,3 +89,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
 - [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](coaching-meta-analysis-instruction-effects-p12.md) — related
+- [Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch](three-challenges-parent-child-math-tutoring.md) — a narrower finding that bears on this claim

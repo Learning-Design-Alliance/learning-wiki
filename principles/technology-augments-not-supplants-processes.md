@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (25 for, 3 mixed, 1 against) · 18 studies (5 qualitative, 4 causal, 4 theoretical, 3 review, 1 associational, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (27 for, 3 mixed, 1 against) · 20 studies (5 qualitative, 5 theoretical, 4 causal, 3 review, 2 design, 1 associational), `q1`–`q4` · 2 of 20 report an effect size · 31 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -88,6 +88,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](../claims/its-applications-augment-not-transform.md) [+W] — attached 2026-10-11 from Ogunsakin IB et al. (2026), which proposed "Deploy ITSs as human-guided instructional resources with teacher mediation, not as autonomous replacements for teachers".
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](../claims/ai-thinking-partners-support-problem-exploration.md) [+W] — attached 2026-10-11 from Jinhee Kim et al. (2026), which proposed "Design PF-supporting AI to ask questions and foster comparison rather than supply correct solutions".
 - [Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)](../claims/gpt-output-effect-depends-on-prior-knowledge-and-domain.md) [~M] — attached 2026-10-11 from Markos Stamatakis et al. (2026), which proposed "Integrate LLM-generated answers into assessment and study settings carefully, since their effect on performance depends on task domain and learners' prior knowledge"; tests this page's relationship.
+- [Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized](../claims/ai-overreliance-pitfalls-chemistry-experimentation.md) [+W] — attached 2026-10-11 from Reyes et al. (2026), which proposed "Balance the power of AI with the irreplaceable aspects of human-driven scientific exploration in chemistry education"; tests this page's relationship.
+- [The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking](../claims/reflection-gate-distinguishes-low-effort-defenses.md) [+W] — attached 2026-10-11 from Ran Bi et al. (2026), which proposed "The AI should never write for the student: preserve cognitive effort in AI-assisted writing tools".
 
 ## Related Principles
 

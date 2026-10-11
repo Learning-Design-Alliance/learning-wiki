@@ -47,3 +47,4 @@ Within-subjects experiment (26 dyads); t-test on feedback uptake, operationalize
 - [Proactive multimodal feedback significantly reduces debugging time on task compared to control](propact-feedback-reduces-debugging-time.md) — related
 - [No order effect of condition sequence on any dependent measure in the within-subjects design](propact-no-order-effect-dependent-variables.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related

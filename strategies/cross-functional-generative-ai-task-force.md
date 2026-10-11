@@ -51,6 +51,7 @@ The report's second use case shows Indian Prairie School District establishing a
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 
 ## Examples
 -

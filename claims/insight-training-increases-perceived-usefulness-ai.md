@@ -46,3 +46,4 @@ Pilot pre-post evaluation of the INSIGHT training with paired-samples t-tests on
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
 - [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
+- [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related

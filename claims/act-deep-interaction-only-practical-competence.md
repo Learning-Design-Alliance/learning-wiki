@@ -69,3 +69,4 @@ Figures 2 and 3 plot predicted outcomes by DEEP score for ACT Composite scores o
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — related
 - [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
+- [The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low](autonomy-teacher-support-compensatory-interaction-digital-skills.md) — related

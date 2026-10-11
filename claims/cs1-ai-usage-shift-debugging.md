@@ -52,3 +52,4 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — related
+- [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related

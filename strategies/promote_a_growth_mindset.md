@@ -90,6 +90,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 - [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
+- [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

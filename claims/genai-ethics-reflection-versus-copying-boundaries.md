@@ -82,3 +82,4 @@ Student account in the ethics theme describing discussing new concepts with AI. 
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a broader claim this one bears on
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — related
 - [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related
+- [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related

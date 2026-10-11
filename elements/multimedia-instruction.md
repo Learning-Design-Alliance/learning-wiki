@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (10 for) · 15 studies (8 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 5 of 15 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 16 studies (8 causal, 4 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 6 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -46,6 +46,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [+M]
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+M]
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
+- [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](../claims/generated-textbook-videos-easier-to-follow-than-plain-text.md) [+W] — attached 2026-10-11 from Siddhanth Sridhar et al. (2026), which proposed "Dynamic Learning Solutions pipeline: PDF-to-video educational explanation system"; tests this page's relationship.
 
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)

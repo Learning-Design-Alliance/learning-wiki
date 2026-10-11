@@ -50,3 +50,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [High- and low-performing students did not differ significantly on the midterm-exam ENA network dimensions despite detected network differences](midterm-ena-no-significant-difference.md) — related
 - [High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension](final-exam-ena-x-dimension-significant.md) — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
+- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](video-views-declined-across-quarter.md) — related

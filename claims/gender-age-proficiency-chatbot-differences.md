@@ -72,3 +72,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related

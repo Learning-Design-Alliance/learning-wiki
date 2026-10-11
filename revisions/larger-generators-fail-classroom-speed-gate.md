@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/larger-generators-fail-classroom-speed-gate.md
+---
+
+# Revision history: [claims/larger-generators-fail-classroom-speed-gate](../claims/larger-generators-fail-classroom-speed-gate.md)
+
+### 2026-10-11 · ingest · process:wiki-ingest
+Ingested from arxiv-2610.02510 (On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor) via eval_harness.py + ingest_extractions.py

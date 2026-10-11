@@ -47,3 +47,4 @@ Calibration analysis computing gaps as self-assessment minus matched no-help per
 - [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
 - [Behavior-defined Guided-LLM students showed an exploratory pattern of stronger no-help quiz performance, with the strongest separation in Quiz 4](guided-llm-no-help-quiz-advantage-exploratory.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
+- [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related

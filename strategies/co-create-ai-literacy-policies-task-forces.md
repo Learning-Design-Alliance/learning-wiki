@@ -50,6 +50,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 - [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](dbir-ucd-privacy-preserving-lc-validation.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 
 ## Examples
 -

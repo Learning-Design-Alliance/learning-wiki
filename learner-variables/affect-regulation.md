@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (52 for, 11 mixed, 7 against) · 60 studies (14 causal, 14 review, 12 associational, 7 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 69 claims rest on one study
+> **Evidence** · 72 claims (54 for, 11 mixed, 7 against) · 61 studies (14 causal, 14 review, 12 associational, 8 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 61 report an effect size · 71 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -103,6 +103,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](../claims/ai-assistant-mode-inflates-math-self-efficacy.md) [+M] — instruction changes it
 - [The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone](../claims/no-condition-difference-state-ma.md) [-M] — instruction changes it
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
+- [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](../claims/nd-coping-self-selected-roles-self-disclosure.md) [+W] — learners who differ on it differ in outcomes
+- [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](../claims/nd-coping-failure-avoidance-public-presentations.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

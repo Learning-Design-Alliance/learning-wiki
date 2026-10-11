@@ -49,3 +49,4 @@ Spearman correlation analysis of session-level logs from a 60-minute in-person l
 - [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](dwell-time-attention-checks-versus-task-performance.md) — related
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](novel-post-acceptance-behavioral-metrics.md) — related
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related
+- [Mean struggle time before acceptance is 15.6% higher among true attrition users but does not reach statistical significance](struggle-time-increase-not-significant-cp-attrition.md) — related

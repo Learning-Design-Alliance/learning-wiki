@@ -45,3 +45,4 @@ The review's RQ6 gap analysis across the 23 studies identifies four gap dimensio
 ## Related Claims
 - [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — a narrower finding that bears on this claim
 - [Study findings are limited to one state, a low-stakes assessment, and a sample lacking student-level socioeconomic, special education, and English learner covariates](growth-timespan-study-scope-limitations.md) — related
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — a narrower finding that bears on this claim

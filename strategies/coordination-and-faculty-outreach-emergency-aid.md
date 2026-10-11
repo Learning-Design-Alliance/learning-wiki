@@ -42,6 +42,7 @@ Practitioners recommended cross-department coordination and administrative strea
 - [Cross-division convenings and joint review sessions to strengthen a state education agency's internal collaboration on multilingual policy](cross-division-collaboration-cde-multilingual-support.md)
 - [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 - [Define emergencies with flexibility and trust rather than rigid proof-based criteria](flexible-trust-centered-emergency-definitions.md)
+- [Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model](organizational-readiness-preventive-student-success.md)
 
 ## Examples
 -

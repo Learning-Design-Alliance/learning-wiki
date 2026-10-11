@@ -66,3 +66,5 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](depth-predicts-task-quality.md) — related
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
+- [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
+- [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related

@@ -53,3 +53,4 @@ Findings from the TBLT section of the thematic analysis. Teachers reported scaff
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
 - [For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods](curriculum-fit-determines-trust-investment.md) — related
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related

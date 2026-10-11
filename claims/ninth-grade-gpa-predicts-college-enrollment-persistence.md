@@ -53,3 +53,4 @@ Analysis of CPS records linked to National Student Clearinghouse data (2008-10 c
 - [CPS graduates with higher ACT scores had higher overall and four-year enrollment rates, and at least an ACT score of 18 gave at least a 50 percent probability of four-year enrollment](act-scores-predict-college-enrollment-cps.md) — related
 - [CPS graduates' grades predicted college enrollment: graduates needed at least a 2.5 GPA for close to a 50 percent likelihood of enrolling in a four-year college](gpa-predicts-college-enrollment-cps.md) — a narrower finding that bears on this claim
 - [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related
+- [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related

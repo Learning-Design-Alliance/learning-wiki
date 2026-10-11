@@ -48,3 +48,5 @@ Narrative synthesis of the 22 included studies' use cases. The review identifies
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Educators use AI more for generative and content-oriented tasks than for evaluative or automated tasks](ai-usage-generative-over-evaluative.md) — reports the opposite
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
+- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — a broader claim this one bears on
+- [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — a narrower finding that bears on this claim

@@ -54,6 +54,8 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 - [Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy](institutional-genai-policy-and-awareness-strategy.md)
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
+- [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 
 ## Examples
 -

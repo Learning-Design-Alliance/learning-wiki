@@ -46,3 +46,4 @@ Qualitative analysis of parameter evolution (Section 6.4, Figure 5) on two test 
 - [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — reports the opposite
 - [MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons](ms-bkt-estimates-fluctuate-less-than-bkt.md) — related
 - [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
+- [The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates](non-mastery-rules-stronger-prediction-role.md) — related

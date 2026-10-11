@@ -58,8 +58,10 @@ Multimodal composition leverages the fact that words and pictures are processed 
 6. Reflect: learners articulate what each mode contributed and what it constrained
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — analyzing others' multimodal texts builds the critical vocabulary learners need for their own compositions
 - [Chunking](../principles/chunking.md) — segmenting multimodal content manages the high processing demands of combined modes
+- [Design composite STEAM tasks that jointly evidence technical fluency, ethical reasoning, collaborative practice and design iteration](composite-tasks-jointly-evidence-technical-ethical-collaborative-design.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — composition is applied knowledge-building, not reproduction

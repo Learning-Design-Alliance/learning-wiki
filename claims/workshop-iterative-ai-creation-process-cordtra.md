@@ -49,3 +49,4 @@ CORDTRA diagram analysis of recorded workshop sessions (six of eight sessions co
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
+- [In most included studies, AI tool use is preceded by a preparatory phase, but its configuration varies between technology-first and content-first approaches](preparatory-phase-precedes-ai-use-variable-configuration.md) — related

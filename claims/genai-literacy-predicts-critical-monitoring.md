@@ -43,3 +43,4 @@ Hierarchical multiple regression on survey data (N = 818 for this model) predict
 ## Related Claims
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related
+- [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — related

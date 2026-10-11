@@ -83,3 +83,4 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — a broader claim this one bears on
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
+- [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related

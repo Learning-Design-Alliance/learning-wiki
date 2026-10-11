@@ -46,3 +46,4 @@ Evaluation of five supervised classifiers on 1,027 cleaned SISTC student records
 - [Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset](simple-classifiers-beat-tree-based-cheating-risk.md) — related
 - [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — related
 - [In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk](visa-nationality-failed-subjects-dropout-features.md) — related
+- [Logistic regression performs poorly (mean accuracy 0.4243) and SVM moderately (0.7374) on physiological exam-outcome prediction](logistic-regression-poor-svm-moderate-physiological-exam-prediction.md) — related

@@ -68,6 +68,8 @@ A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers thro
 
 ## Examples
 
+- [Career-centric reverse academic planning: start from a career aspiration and map backward to courses, credentials, and experiences using skills taxonomies](../strategies/career-centric-reverse-academic-planning.md)
+
 ## Key Sources
 - Wiggins, G., & McTighe, J. (1998). *Understanding by design*. Association for Supervision and Curriculum Development.
 - Tyler, R. W. (1974). *Basic principles of curriculum and instruction*. University of Chicago Press. (Original work published 1949)

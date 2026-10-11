@@ -53,3 +53,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
