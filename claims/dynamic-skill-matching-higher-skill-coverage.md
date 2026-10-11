@@ -46,3 +46,4 @@ Comparison of three assignment scenarios (algorithm, instructor manual, random) 
 - [Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds](algorithm-reduces-instructor-workload-milliseconds.md) — related
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](student-team-formation-priorities-survey.md) — related
+- [LearnOpt's skill-weighted objective produces a modest but real reordering of recommended topics over a mastery-conditioned frequency baseline](learnopt-skill-weighted-optimization-reordering.md) — related

@@ -46,6 +46,7 @@ The article recommends that AI literacy education be built into first-year curri
 - [Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups](ai-literacy-curricular-integration-nursing.md)
 - [Sequence the legal translation curriculum from human from-scratch translation to AI-assisted workflows, with strategic AI literacy from the outset](curriculum-sequencing-human-translation-before-ai-workflows.md)
 - [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
+- [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 
 ## Examples
 -

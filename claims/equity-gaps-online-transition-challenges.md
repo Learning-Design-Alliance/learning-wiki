@@ -79,3 +79,4 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work](bipoc-more-likely-report-workplace-racial-discrimination.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

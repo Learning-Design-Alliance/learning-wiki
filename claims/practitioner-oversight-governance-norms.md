@@ -74,3 +74,5 @@ Multi-select prompting-technique item from the same survey; respondents selected
 - [AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration](ai-biased-inaccurate-outputs-require-critical-evaluation.md) — possibly the same claim (merge candidate)
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — a narrower finding that bears on this claim

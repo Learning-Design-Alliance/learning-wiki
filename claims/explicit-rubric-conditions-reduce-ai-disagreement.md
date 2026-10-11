@@ -68,3 +68,4 @@ Focused regrading of only the OE1 Q2 submissions with large Round I AI–officia
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
 - [Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints](mid-level-icap-categories-most-ambiguous.md) — related
 - [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related
+- [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related

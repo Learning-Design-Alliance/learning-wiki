@@ -48,6 +48,7 @@ The study recommends a package of implementation practices for educational chatb
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Use a non-generative AI chatbot with a pre-programmed, human-curated knowledge base to answer student questions with pre-approved responses](non-generative-chatbot-knowledge-base-strategy.md)
 
 ## Examples
 -

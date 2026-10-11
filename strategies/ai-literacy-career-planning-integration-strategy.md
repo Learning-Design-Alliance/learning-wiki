@@ -48,6 +48,7 @@ The article recommends that institutions "prioritise enhancing students' career 
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI](ai-literacy-up-and-stress-down-reduce-ai-dependence.md)
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
+- [Rethink the music curriculum around DAW literacy, AI literacy, rights and economics knowledge, and defended ensemble practice](music-curriculum-four-rethink-directions.md)
 
 ## Examples
 -

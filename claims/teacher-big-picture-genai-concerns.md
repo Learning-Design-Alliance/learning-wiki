@@ -75,3 +75,5 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
+- [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
+- [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related

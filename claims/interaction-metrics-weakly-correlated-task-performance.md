@@ -65,3 +65,5 @@ In the same correlation analysis, failed attention check rate and task performan
 - [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](dwell-time-attention-checks-versus-task-performance.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool](tab-accept-rate-strongly-associated-failed-attention-checks.md) — related
+- [Knowledge-aware Editing Distance correlates most strongly with human editing duration among evaluated metrics](ked-strongest-correlation-editing-duration.md) — related
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related

@@ -65,3 +65,4 @@ Authors' analytical claim about the dependence of GenAI substitution on task cog
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related

@@ -49,3 +49,4 @@ Expert rating study of the Bespoke corpus: 25 domain-matched reviewers each scor
 - [Overall quality was similar across durations and across the 21-lecture held-out set unused during system development](bespoke-quality-stable-across-durations-and-held-out-lectures.md) — related
 - [Industry-targeted videos scored only slightly higher on personalization depth than generic-audience videos (0.32 points; modeled increment 0.25, p = 0.11), an effect not resolved under reviewer clustering](bespoke-industry-personalization-increment-small-nonsignificant.md) — related
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related
+- [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md) — related

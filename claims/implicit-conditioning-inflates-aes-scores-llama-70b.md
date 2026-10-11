@@ -63,3 +63,4 @@ Same AES experiment: GPT-mini and GPT-nano showed no significant score shifts fr
 
 ## Related Claims
 - [Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation](explicit-education-cues-readability-adaptation.md) — related
+- [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related

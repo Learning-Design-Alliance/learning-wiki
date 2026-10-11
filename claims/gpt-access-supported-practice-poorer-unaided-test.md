@@ -56,3 +56,5 @@ Narrative review attribution: the article reports a peer-reviewed field experime
 - [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
+- [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
+- [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — reports the opposite

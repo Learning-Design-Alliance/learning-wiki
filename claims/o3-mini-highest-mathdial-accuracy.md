@@ -45,3 +45,4 @@ Model-selection evaluation testing problem-solving accuracy of various LLMs with
 ## Related Claims
 - [With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models](reasoning-mllms-higher-accuracy-image-required-math.md) — related
 - [In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor](eduguard-pilot-learning-gain-overreliance.md) — related
+- [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related

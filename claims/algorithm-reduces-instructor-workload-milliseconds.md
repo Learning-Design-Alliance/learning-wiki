@@ -45,3 +45,4 @@ Authors' report in the Results and Discussion section on the practical cost of m
 ## Related Claims
 - [A dynamic skill-weighted matching algorithm achieves higher percentage of skills fulfilled than manual and random assignment across both evaluated semesters](dynamic-skill-matching-higher-skill-coverage.md) — related
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related
+- [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — related

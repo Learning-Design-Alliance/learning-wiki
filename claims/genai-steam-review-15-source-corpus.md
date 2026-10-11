@@ -46,3 +46,4 @@ Narrative review reporting its own PRISMA-style selection: 107 records identifie
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
 - [Structured literature synthesis retained 7 studies and policy documents from approximately 173 initial records](literature-synthesis-retained-seven-studies.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
+- [The review screened 207 citations to 63 selected citations from 32 countries using a two-pronged critical review approach](ai-online-review-63-citations-32-countries.md) — related

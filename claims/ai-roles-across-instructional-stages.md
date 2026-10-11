@@ -46,3 +46,4 @@ Phenomenological qualitative phase: thematic analysis of semi-structured Zoom in
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration](state-ai-guidance-opportunities-safe-exploration.md) — related
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related

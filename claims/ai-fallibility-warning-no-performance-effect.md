@@ -47,3 +47,4 @@ Same classroom regression analysis of problem-solving log data: "The groups did 
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — a broader claim this one bears on
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — possibly the same claim (merge candidate)
+- [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — possibly the same claim (merge candidate)

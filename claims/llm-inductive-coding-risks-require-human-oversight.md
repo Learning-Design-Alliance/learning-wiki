@@ -102,3 +102,4 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — related
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related

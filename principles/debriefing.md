@@ -160,6 +160,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Debrief](../elements/debrief.md) — the element page, with design decisions on structure, feedback, who explains, length and timing
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — the repeated loop of experience, prompted debrief, stated principle and changed attempt
 - [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](../strategies/advance-data-reports-with-debrief-protocols.md)
+- [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](../strategies/simulated-class-deliberate-practice-late-placement.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

@@ -43,4 +43,4 @@ ITT analysis of term GPA (including and excluding the focal course) and next-ter
 
 
 ## Related Claims
--
+- [Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA](chatbot-null-gpa-and-credits.md) — related

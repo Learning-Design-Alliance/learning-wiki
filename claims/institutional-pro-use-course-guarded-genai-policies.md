@@ -48,3 +48,4 @@ Document analysis of 98 computer science syllabi from 54 R1 universities, coded 
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
 - [Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines](course-syllabi-anthropomorphize-genai.md) — related
 - [Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools](specific-tools-named-in-syllabi-not-institutional.md) — related
+- [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related

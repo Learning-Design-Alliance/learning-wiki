@@ -132,3 +132,6 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
 - [Viewers seek visual complexity as well as its reduction, so immediate perceptual closure is not needed in all graphic images](viewers-seek-complexity-not-immediate-closure.md) — related
 - [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — related
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
+- [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
+- [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related

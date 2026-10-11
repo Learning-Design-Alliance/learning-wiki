@@ -45,3 +45,4 @@ Threshold sensitivity experiment with Mistral-7B at a fixed 30K dataset (Table 4
 ## Related Claims
 - [Each AgenticMath component contributes performance gains, with the review-revise loop playing a particularly important role](agenticmath-ablation-all-modules-contribute.md) — related
 - [Raising the answer-confidence threshold reduces the number of retained MCQs but substantially improves their quality](answer-confidence-threshold-trades-quantity-for-quality.md) — related
+- [Instances occurred where the Teacher LLM directly provided the final answer, bypassing the intended cognitive process, and can be programmatically filtered](collaborative-cheating-teacher-provides-answer.md) — related

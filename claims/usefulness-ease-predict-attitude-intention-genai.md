@@ -52,3 +52,4 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](pcv-primary-driver-pu.md) — related
 - [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
+- [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related

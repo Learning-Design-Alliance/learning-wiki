@@ -66,3 +66,5 @@ The review reports, citing Grinschgl et al. (2020), a pattern-copy task in which
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
+- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — related
+- [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related

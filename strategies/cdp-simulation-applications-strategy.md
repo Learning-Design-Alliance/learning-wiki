@@ -40,7 +40,8 @@ The article recommends several operational uses of profile-conditioned simulatio
 - [Cognitive Diagnostic Profiling Framework](../research-methods/cognitive-diagnostic-profiling-cdp.md)
 
 ## Related Strategies
-- 
+
+- [Grow the MCD item bank during operation using online calibration embedded alongside scored items](online-calibration-item-bank-growth.md)
 
 ## Examples
 -

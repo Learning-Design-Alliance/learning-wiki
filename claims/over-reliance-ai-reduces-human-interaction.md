@@ -51,3 +51,5 @@ The review warns of over-reliance on AI technologies, arguing dialogue, collabor
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — a broader claim this one bears on
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — related
+- [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related

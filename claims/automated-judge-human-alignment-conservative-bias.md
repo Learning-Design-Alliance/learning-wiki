@@ -52,3 +52,4 @@ A human validation study had three domain experts independently score a stratifi
 - [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](slm-judges-show-severe-leniency-bias.md) — reports the opposite
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — related
 - [AI scoring shows a systematic conservative bias, under-grading writing so 15.3% (2024) and 16.5% (2025) of human-passing tests would fail under AI scoring](ai-scoring-systematic-under-grading-bias-pass-fail.md) — related
+- [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related

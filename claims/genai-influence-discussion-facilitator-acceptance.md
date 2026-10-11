@@ -48,3 +48,4 @@ The article states the study reports findings on the agent's "influence on team 
 - [The study examined student perceptions of the genAI agent and its integration into team processes](student-perceptions-genai-agent-team-processes.md) — related
 - [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) — related
 - [The genAI tool's integration into each student team was an intentional pedagogical technique targeting factors contributing to groupthink in rapidly formed teams](genai-integration-intentional-pedagogical-technique.md) — related
+- [Studies are underway to examine the learning benefits of pedagogical partnership in information studies curricula](studies-underway-learning-benefits-pedagogical-partnership.md) — related

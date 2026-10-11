@@ -45,3 +45,4 @@ Criterion validity analysis in the main study psychometric evaluation: one-way A
 ## Related Claims
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — a broader claim this one bears on
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related
+- [Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups](ai-ibi-multivariate-group-effect-positive-correlations.md) — related

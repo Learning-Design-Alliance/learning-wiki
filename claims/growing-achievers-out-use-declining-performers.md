@@ -67,3 +67,4 @@ Differences in Initial Inquiry behavior were significant, H(3) = 10.50, p = .015
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Higher-achieving graduate students were less likely to abstain entirely from StatBot use](higher-final-grades-less-likely-zero-use.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related

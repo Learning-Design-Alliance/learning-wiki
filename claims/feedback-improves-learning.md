@@ -139,3 +139,4 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
+- [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](feedback-type-shifts-engagement-by-question-type.md) — a narrower finding that bears on this claim

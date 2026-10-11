@@ -73,6 +73,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 **[Duolingo](https://www.duolingo.com)** — Fully independent language study with adaptive difficulty, streaks, and immediate feedback compensating for the absence of an instructor.
 
 **Independent research projects (e.g., International Baccalaureate Extended Essay)** — Sustained independent inquiry with a supervisor providing scheduled check-ins; the milestone structure is what keeps multi-month independent work on track.
+- [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

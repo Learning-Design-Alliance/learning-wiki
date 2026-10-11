@@ -56,3 +56,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Expert annotators show high agreement on intervention appropriateness ratings](expert-annotator-high-agreement.md) — related
 - [The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected subsample](ta-ground-truth-one-rater-per-item-error-rate.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related

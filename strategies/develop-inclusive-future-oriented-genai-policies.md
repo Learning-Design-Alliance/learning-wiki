@@ -50,6 +50,7 @@ The article recommends that higher education leadership move beyond widely embra
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
 - [Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories](classify-ai-tools-by-governance-mechanism.md)
+- [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 
 ## Examples
 -

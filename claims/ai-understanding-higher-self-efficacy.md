@@ -47,3 +47,4 @@ The paper attributes to Bećirović et al. the finding that students with better
 - [Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores](self-taught-model-understanding-highest-scores.md) — related
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
+- [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related

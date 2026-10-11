@@ -55,3 +55,4 @@ The guide's own account of its literature search and screening: a search for alg
 - [No rigorous causal studies of specific turnaround practices existed at the time of the guide](no-rigorous-causal-studies-turnaround-practices.md) — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
 - [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](wwc-advising-evidence-base-21-studies.md) — related
+- [The review screened 207 citations to 63 selected citations from 32 countries using a two-pronged critical review approach](ai-online-review-63-citations-32-countries.md) — related

@@ -44,3 +44,4 @@ Correlational analysis across the nine evaluated models in the results section (
 
 ## Related Claims
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related
+- [The solving–pedagogy correlation is statistically fragile: leave-one-out Pearson correlations range from 0.251 to 0.887, rising to 0.887 when Qwen2.5-Math-7B-Instruct is removed](leave-one-out-fragility-solving-pedagogy-correlation.md) — related

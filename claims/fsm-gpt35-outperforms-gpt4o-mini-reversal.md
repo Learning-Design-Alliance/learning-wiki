@@ -46,3 +46,4 @@ Results-section comparison across the six generated-model corpus. The authors at
 - [FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated](fsm-eval-discriminates-model-quality.md) — related
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — a broader claim this one bears on
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
+- [The OpenAI gpt-4o reference model outperformed all quantised models on human-rated coherence, fluency, relevance and cultural appropriateness, serving as an upper benchmark](gpt-4o-reference-outperformed-quantised-models-human-ratings.md) — related

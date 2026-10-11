@@ -63,3 +63,5 @@ Null results for two rubric dimensions in the same historical-cohort comparison:
 ## Related Claims
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
 - [Subtask creativity scores correlate significantly with the main task total, supporting summed scoring](creact-subtask-main-task-correlations.md) — related
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
+- [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related

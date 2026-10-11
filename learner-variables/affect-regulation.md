@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (50 for, 11 mixed, 6 against) · 58 studies (14 review, 13 causal, 12 associational, 7 qualitative, 6 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 12 of 58 report an effect size · 66 claims rest on one study
+> **Evidence** · 70 claims (52 for, 11 mixed, 7 against) · 60 studies (14 causal, 14 review, 12 associational, 7 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 69 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -100,6 +100,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](../claims/mixed-anxiety-remote-proctored-exams.md) [~W] — instruction changes it
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](../claims/moderated-mediation-anxiety-serial-path.md) [~M] — an instructional effect differs with it
 - [LLM-based scoring produces fewer false negatives than Deep Tutor, reducing student frustration from correct explanations judged incorrect](../claims/llm-scoring-fewer-false-negatives-than-deep-tutor.md) [+M] — instruction changes it
+- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](../claims/ai-assistant-mode-inflates-math-self-efficacy.md) [+M] — instruction changes it
+- [The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone](../claims/no-condition-difference-state-ma.md) [-M] — instruction changes it
+- [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

@@ -54,3 +54,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion](costume-design-supports-robot-structure-learning.md) — related
 - [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — a narrower finding that bears on this claim
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related

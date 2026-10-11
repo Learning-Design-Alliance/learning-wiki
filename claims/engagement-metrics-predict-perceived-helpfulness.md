@@ -65,3 +65,4 @@ Combined-model coefficients (Table 4) for pedagogical dimensions; the quote repo
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
 - [MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment](misconception-tutor-higher-relscore-all-assignments.md) — related
+- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](usefulness-associated-actionability-accuracy.md) — related

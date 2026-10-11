@@ -47,3 +47,4 @@ Benchmark evaluation on GeoVAD-Bench comparing final-answer accuracy under three
 - [Step-level credit assignment added to Interleave-RL raises the reasoning score from 46.3% to 66.3% on GeoVAD-Bench](step-level-credit-assignment-boosts-reasoning.md) — related
 - [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](step-linked-visualization-externalizes-reasoning.md) — related
 - [Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation](process-metrics-separate-correct-incorrect-solutions.md) — related
+- [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — related

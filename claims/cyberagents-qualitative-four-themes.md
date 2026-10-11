@@ -48,3 +48,4 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related

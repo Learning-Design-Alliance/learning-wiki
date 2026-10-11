@@ -47,3 +47,5 @@ The presentation contrasts EdTech AI messaging, which it says "over-emphasizes i
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
+- [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](ai-cannot-capture-social-emotional-dynamics.md) — related
+- [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related

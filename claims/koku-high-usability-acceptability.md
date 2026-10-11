@@ -50,3 +50,4 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related

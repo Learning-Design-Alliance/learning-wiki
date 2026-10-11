@@ -67,6 +67,7 @@ Simulation works because it enables high-volume, low-stakes [practice](../elemen
 - [Case-Based Learning](case-based-learning.md) — the lower-fidelity, discussion-based cousin; simulation adds enactment
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
+- [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 
 ## Examples
 - **[Flight simulators](https://www.faa.gov/training_testing/training/sim)** — FAA-certified full-motion simulators are the canonical case; airline pilots log most initial type-rating hours in simulation before flying a real aircraft.

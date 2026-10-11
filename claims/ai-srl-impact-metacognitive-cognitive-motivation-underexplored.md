@@ -51,3 +51,4 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) — related
 - [Underexplored PEA configurations center on participation support, AI literacy, and content generation, with two theme-level combinations absent from the corpus](underexplored-pea-configurations-participation-literacy-content-generation.md) — related
+- [Among 73 reviewed AIHE studies, 42 (57.5%) examined student engagement, with cognitive engagement the most frequently investigated dimension](aihe-review-engagement-dimension-distribution.md) — related

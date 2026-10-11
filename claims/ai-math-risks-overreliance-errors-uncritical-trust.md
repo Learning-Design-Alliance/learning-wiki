@@ -109,3 +109,7 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — a narrower finding that bears on this claim
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — a narrower finding that bears on this claim
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — a narrower finding that bears on this claim
+- [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — a narrower finding that bears on this claim
+- [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related

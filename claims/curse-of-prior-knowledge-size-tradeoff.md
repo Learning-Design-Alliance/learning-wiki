@@ -1,0 +1,46 @@
+---
+type: claim
+title: "Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence"
+description: "Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence"
+id: curse-of-prior-knowledge-size-tradeoff
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: hyeongdon-moon-2026
+    resource: "https://arxiv.org/abs/2605.07040"
+    title: "Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040"
+    author: Hyeongdon Moon, Carolyn Rosé, and John Stamper
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q1`
+
+## Subclaims
+`q1 i?` The authors report that if the model is too large, the SLM answers correctly on its own without needing the proposed cognitive structure, while if too small, its coherence in following rigid instructions breaks down, defining the core trade-off between explicit control and scalable coverage. [→ Hyeongdon Moon 2026](#hyeongdon-moon-2026)
+
+## Evidence
+
+### Hyeongdon Moon 2026
+
+Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040
+
+`q1 · i?` · `design · r2`
+
+Authors' challenge analysis from the proof of concept (Section 6.1), describing the 'curse of prior knowledge'. They state this "defines the core trade-off in CAC between explicit control and scalable coverage". No effect sizes are printed.
+
+> "If the model is too large, the SLM answers correctly on its own without needing the proposed cognitive structure; conversely, if the model is too small, its coherence in following rigid instructions breaks down."
+
+## Discussion
+
+
+## Related Claims
+- [An SLM executor under tight constraints can drive a Cognitive Agent through formatted outputs and logit-based action selection, yielding partial rather than full explainability](slm-executor-partial-explicit-control.md) — related

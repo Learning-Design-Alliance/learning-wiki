@@ -50,3 +50,4 @@ In the Carter, Sabers, Cushing, Pinnegar, and Berliner (1987) simulation of taki
 - [Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important](experts-discern-importance-of-classroom-events.md) — related
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
 - [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related
+- [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related

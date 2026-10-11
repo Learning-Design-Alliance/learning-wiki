@@ -62,6 +62,7 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 - [Multimedia Learning Principles](../principles/cognitive-load-management.md) — the design rules (redundancy, contiguity, modality) that govern when multi-sensory presentation helps
 - [Annotating](../principles/annotating.md) — a text-based way to add a visual-organizational channel to reading
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
+- [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
 
 ## Examples
 - **Orton-Gillingham literacy instruction** (https://www.orton-gillingham.com) — phonics taught simultaneously through visual (letter shape), auditory (sound), and kinesthetic (tracing in sand) channels; the classic multi-sensory application for dyslexic learners.

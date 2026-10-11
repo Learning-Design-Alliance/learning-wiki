@@ -41,6 +41,7 @@ The article recommends that AIED evaluation move beyond binary LLM access by mea
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 - [Configure the level of AI assistance per assignment according to learning objectives](configure-ai-assistance-per-assignment.md)
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
+- [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
 
 ## Examples
 -

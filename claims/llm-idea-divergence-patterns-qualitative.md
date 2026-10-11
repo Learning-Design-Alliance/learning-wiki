@@ -64,3 +64,4 @@ Table 2 reports divergence-theme percentages across LLMs (n = 294 clusters): bro
 ## Related Claims
 - [On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design](llms-solve-first-error-injection-edi.md) — related
 - [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related
+- [GPT responses reliably incorporated broad ideas from instructions but resisted precise control](gpt-broad-ideas-incorporated-precise-control-lacking.md) — related

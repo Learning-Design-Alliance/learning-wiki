@@ -47,3 +47,4 @@ The article argues from its synthesis that GenAI can facilitate teaching by gene
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — related
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
+- [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — a narrower finding that bears on this claim

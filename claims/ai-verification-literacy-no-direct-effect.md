@@ -47,3 +47,4 @@ In the SEM of 533 students, AI verification literacy predicted only metacognitiv
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related
+- [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related

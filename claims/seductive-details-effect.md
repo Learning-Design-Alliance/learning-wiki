@@ -185,3 +185,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](rewards-undermine-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions
 - [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — a narrower finding that bears on this claim
+- [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — a narrower finding that bears on this claim

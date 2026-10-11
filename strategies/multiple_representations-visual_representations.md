@@ -58,9 +58,11 @@ Pairing words with meaningful graphics improves learning because verbal and visu
 6. Follow with an activity requiring learners to translate between representations (e.g., produce a graph from a description) ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — a structural visual presented before content primes integration of subsequent representations
 - [Analogies](../elements/analogies.md) — a verbal representation that maps an unfamiliar domain onto a familiar visual or experiential one
 - [Chunking](../principles/chunking.md) — governs how much multi-representational content can be presented at once
+- [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — physics and chemistry simulations pairing dynamic visuals with adjustable parameters and short verbal prompts; learners see multiple linked representations (graph, motion, symbolic values) update simultaneously.

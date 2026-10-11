@@ -68,3 +68,4 @@ Item-level variance comparison across all conditions shown in Figure 4. The arti
 - [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
 - [At the test level, only Claude with interview or demographic prompts improved alignment on the relative autonomy index](test-level-rai-only-claude-improved.md) — related
 - [LLMs use fewer extreme grades than human examiners, with grade-dependent opposing biases compressing grades toward the middle](llm-central-tendency-grade-compression.md) — related
+- [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — a narrower finding that bears on this claim

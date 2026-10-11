@@ -82,3 +82,4 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
 - [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](attenuated-calibration-tool-linked-self-efficacy.md) — related
+- [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related

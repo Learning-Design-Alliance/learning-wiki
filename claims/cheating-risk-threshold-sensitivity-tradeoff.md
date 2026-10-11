@@ -48,3 +48,4 @@ Threshold analysis of the Logistic Regression LOOCV held-out predictions (Fig. 3
 - [Recommended MAP Growth screening cut scores yield sensitivity, specificity, and lower-bound AUC of at least 0.8 for most grades and terms](map-growth-screening-accuracy-08-criteria.md) — related
 - [The classifier's dominant error was labelling Low Stress students as Moderate Stress, a bias the authors judge safe because over-assignment yields extra support while the dangerous high-as-low error was uncommon](confusion-matrix-low-to-moderate-misclassification-safe-direction.md) — related
 - [The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance](eduguard-verifier-threshold-sensitivity.md) — related
+- [Diversity regularization λ = 0.30 was selected from a sensitivity analysis as balancing recommendation relevance and content diversity](diversity-regularization-lambda-030.md) — related

@@ -47,3 +47,5 @@ Analysis splitting correctness & errors QA into generic (45.0%), binary (50.4%),
 - [The performance gap between erroneous and non-erroneous student images persists after images are digitally redrawn to remove noise](error-gap-persists-after-image-cleanup.md) — related
 - [VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem](vlms-underperform-on-erroneous-student-math-responses.md) — related
 - [FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data](fsm-eval-aligns-with-human-interactivity-judgments.md) — related
+- [VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment](vlm-grounding-failure-region-activity-binding.md) — related
+- [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — a broader claim this one bears on

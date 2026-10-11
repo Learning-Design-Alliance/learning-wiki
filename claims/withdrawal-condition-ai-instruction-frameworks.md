@@ -49,3 +49,4 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — possibly the same claim (merge candidate)
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — related
 - [Actors internalized the AI's questioning style, self-generating similar questions after the tool was removed](questioning-habits-internalized-after-ai-removal.md) — a narrower finding that bears on this claim
+- [The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs](llm-fallacy-empirical-validation-agenda.md) — related

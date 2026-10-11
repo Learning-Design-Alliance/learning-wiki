@@ -54,3 +54,4 @@ Theoretical review section (§3) categorizing error sources. The article states 
 - [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](overgeneralization-errors-indicate-rule-use.md) — related
 - [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — a narrower finding that bears on this claim
+- [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related

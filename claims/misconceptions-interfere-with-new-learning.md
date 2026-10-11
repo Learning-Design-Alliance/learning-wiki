@@ -92,3 +92,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks](llm-tabular-data-contamination-motivation.md) — related
+- [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related

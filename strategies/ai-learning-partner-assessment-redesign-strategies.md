@@ -46,6 +46,7 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
 - [Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well](educative-shift-genai-integrity-policy.md)
+- [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 
 ## Examples
 -

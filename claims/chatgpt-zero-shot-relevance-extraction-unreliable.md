@@ -54,3 +54,4 @@ Preliminary zero-shot analysis using ChatGPT as the first-stage summarization/re
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related
 - [Llama3 quote extraction failed and sentiment outputs required substantial post-processing, with 20% of Reflection 1 labels unmatched by the human coder](llama3-post-processing-burden-prompt-sensitivity.md) — related
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — related
+- [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related

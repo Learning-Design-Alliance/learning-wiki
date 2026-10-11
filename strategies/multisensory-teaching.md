@@ -58,9 +58,11 @@ Multisensory instruction is best understood through dual coding: pairing verbal 
 5. Assess through the target modality of eventual use (e.g., reading text, not tracing letters) to confirm transfer.
 
 ## Related Strategies
+
 - [Concrete–Representational–Abstract](../strategies/concrete-representational-abstract.md) — the math-specific sequence that operationalizes multisensory progression and then fades it
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — multisensory entry points work best when anchored to existing knowledge
 - [Accommodations](../elements/accommodations.md) — for learners with sensory or motor impairments, modality choices become accessibility decisions rather than encoding enhancements
+- [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
 
 ## Examples
 - **Orton-Gillingham approach** (and derivatives like [Wilson Reading System](https://www.wilsonlanguage.com) and [SPIRE](https://www.schoolspecialty.com/spire)) — learners see a letter, say its sound, and trace it in sand or on a textured surface simultaneously; the approach underpins most structured literacy interventions for dyslexia.

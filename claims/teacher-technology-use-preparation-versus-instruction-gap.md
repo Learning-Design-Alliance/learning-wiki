@@ -69,3 +69,4 @@ Descriptive analysis of teacher expectations by school type (Figure 9). The repo
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
 - [Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction](schools-teacher-technology-training-insufficient.md) — related
 - [Coaches report using technology with teachers far more than teachers report receiving it, especially for supporting student technology use](coach-teacher-technology-use-perception-gap.md) — related
+- [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related

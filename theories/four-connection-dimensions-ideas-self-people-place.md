@@ -54,6 +54,7 @@ The framework organizes connection into four essential dimensions: connection to
 - [Real World_Math_Connections](../strategies/real-world_math_connections.md)
 - [Connecting Background Knowledge To Content](../strategies/connecting_background_knowledge_to_content.md)
 - [Making Connections](../strategies/making_connections.md)
+- [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](../strategies/curiosity-cases-and-simple-examples-lower-barriers.md)
 
 ## Key Sources
 - Anton, G., Mills, K., Jacob, S., Chou, N., McNeil, K., & Wegemer, C. (2026, July). Powerful learning: Fostering agency, purpose, and curiosity through connection: Cultivating future-ready knowledge, skills, and dispositions. Digital Promise. https://doi.org/10.51388/20.500.12265/307

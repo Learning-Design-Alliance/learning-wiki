@@ -44,3 +44,4 @@ Controlled counterfactual sensitivity-testing experiment in which six LLMs perfo
 
 ## Related Claims
 - [Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects](implicit-cues-unpredictable-effects-open-ended-tasks.md) — a narrower finding that bears on this claim
+- [Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback](prompted-attributes-increase-marked-pedagogy-concentration.md) — a narrower finding that bears on this claim

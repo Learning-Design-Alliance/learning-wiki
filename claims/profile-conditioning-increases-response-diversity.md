@@ -44,3 +44,4 @@ Response-pattern diversity counts reported in the Discussion for the simulation 
 
 ## Related Claims
 - [Cognitive Diagnostic Profiling raises distribution-level overlap between simulated and human examinee ability distributions, with the informative condition highest for seven of eight configurations](cdp-improves-distribution-level-alignment.md) — related
+- [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — related

@@ -45,3 +45,5 @@ Empirical cost measurement subsection (4.1.1) reporting training step duration, 
 ## Related Claims
 - [Fine-tuning CLST on KTLP-formatted data improved predictive performance across all datasets, with gains growing with training students](fine-tuning-improves-clst-auc.md) — related
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
+- [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md) — related
+- [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — related

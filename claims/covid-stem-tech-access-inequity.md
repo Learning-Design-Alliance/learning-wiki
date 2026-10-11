@@ -62,3 +62,4 @@ Weighted chi-square analyses of the national survey of 620 STEM students compare
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
+- [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

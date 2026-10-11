@@ -21,7 +21,7 @@ sources:
 # Evidence-Centered Design
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development. The article describes how the framework identifies layers and models: "These models are then glued together by (4) the assembly model and (5) the presentation model that make the assessment deliverable." Domain modeling drives the whole process, laying out the assessment argument in narrative terms before formal models are built. The authors adopt ECD as a natural bridge between the demand for high fidelity of epistemic games and the demand for rich assessment data.
@@ -31,8 +31,11 @@ ECD is a principled assessment design framework that structures the rationales, 
 - **Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models**: ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development. The article describes how the framework identifies layers and models: "These models are then glued together by (4) the assembly model and (5) the presentation model that make the assessment deliverable." Domain modeling drives the whole process, laying out the assessment argument in narrative terms before formal models are built. The authors adopt ECD as a natural bridge between the demand for high fidelity of epistemic games and the demand for rich assessment data. (Rupp et al. (2010))
 - **Evidence Centered Design as a principled approach to rubric development**: The article applies Evidence Centered Design (Mislevy, Almond, & Lukas, 2003) as a principled assessment development approach. As the article states, "Ze XVed an eYidence-cenWeUed deVign aSSURach (MiVleY\, AlmRnd, & LXkaV, 2003) WR deYelRS Whe UXbUicV", because the approach helps ensure clear connections between what is observed in assignments and student work and what is inferred about them. The process involved articulating claims, defining assessment targets, considering what evidence would imply targets are met, and considering tasks that would bring about the evidence; each decision in the development pathway needed adequate justification. (Iwatani et al. (2021))
 - **ECD-based framework treating GenAI as a design variable with three sequential governance stances**: The framework applies Evidence-Centered Design's three models—student, evidence, and task—as sequential decision criteria for GenAI governance in STEM assessment. It analyzes how GenAI reshapes each model and, as the abstract states, "specifies when to restrict, scaffold, or require GenAI use in STEM assessment." Decisions are organized across two branches (AI interaction competency is or is not the target construct) with a construct revision loop, and the authors note that "Governance decisions are not static" and require ongoing reassessment as capabilities evolve. (Gao et al. (2026))
+- **Evidence-centered design as the framework linking MCD learning objectives to observable response evidence**: The article frames MCD development within evidence-centered design (ECD), in which "the student models specify the knowledge an assessment makes claims about, and the evidence models specify the link between observed responses and those claims." ECD comprises five models (student, evidence, task, assembly, and delivery); this paper focuses on the student models (the 14 LOs) and evidence models (the Q-matrix and DINA model). The authors treat DINA fit and classification accuracy as validity evidence for the student models, testing whether the LOs defined a priori are measurable and separable in student responses. (Vy Le et al. (2026))
 
 ### Claims
+- [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](../claims/dina-fit-fci-emcs-good-fmce-marginal.md) [+M]
+- [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](../claims/qmatrix-validation-low-change-rate.md) [+M]
 
 ## Related Research Methods
 -
@@ -43,6 +46,7 @@ ECD is a principled assessment design framework that structures the rationales, 
 <!-- merged 2026-10-10 from theories/ecd-framework-models-epistemic-games ("Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Iwatani, E., Means, B., Seylar, J., and Hardy, A. (2021). Rubrics on historical thinking skills for assignments and student work: Initial validity evidence. Digital Promise. https://doi.org/10.51388/20.500.12265/112
 - Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment.
+- Vy Le, Jayson M. Nissen, Jason W. Morphew, Hua Hua Chang, and Ben Van Dusen. (2026). Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics. https://arxiv.org/abs/2609.09584
 
 # Evidence-Centered Design framework structures assessment design through student, task, evidence, assembly, and presentation models
 

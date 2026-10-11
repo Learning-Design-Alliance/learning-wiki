@@ -46,3 +46,4 @@ Qualitative findings from the Phase 3 think-aloud study with seven practitioners
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration](ai-visual-generation-main-barrier-prototype.md) — related
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related

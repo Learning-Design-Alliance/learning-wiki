@@ -46,3 +46,4 @@ Between-group comparison on an adapted six-dimension NASA-TLX (mental demand, ti
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](gats-no-immediate-experience-effects.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related

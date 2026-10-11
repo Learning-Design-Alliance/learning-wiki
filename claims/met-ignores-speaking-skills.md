@@ -45,3 +45,4 @@ The article states that after 1992 the MET added listening, reading comprehensio
 ## Related Claims
 - [Communicative Approach introduced to China in the 1990s was initially not very communicative](clt-china-1990s-initial-weak-adoption.md) — related
 - [College English writing instruction for non-English majors in China faces reduced class hours, no dedicated writing course, and test-driven assessment](college-english-writing-instruction-problems-china.md) — related
+- [Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al.](china-listening-exam-widened-rural-urban-gap.md) — related

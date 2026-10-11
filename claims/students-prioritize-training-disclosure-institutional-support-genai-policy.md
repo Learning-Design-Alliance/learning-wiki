@@ -45,3 +45,4 @@ Hybrid inductive-deductive thematic analysis (Cohen's Kappa .84) of individual p
 ## Related Claims
 - [Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another](genai-policy-interconnected-system-seven-themes.md) — a broader claim this one bears on
 - [Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity](reflection-stakeholder-perspectives-two-thirds.md) — related
+- [The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment](aligned-genai-policy-two-benefits.md) — related

@@ -76,6 +76,7 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 **[Medical residency debriefing](https://www.nejm.org/doi/full/10.1056/NEJMra1906804)** — Post-case individual reflection on clinical decisions, often followed by [coaching](coaching.md) discussion, is standard in professional medical education.
 
 **[Portfolio assessment](https://www.aacu.org/initiatives/value)** — Capstone e-portfolios require reflective annotations connecting artifacts to learning outcomes, combining reflection with [Self-Assessment](self-assessment.md).
+- [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
 
 ## Key Sources
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.

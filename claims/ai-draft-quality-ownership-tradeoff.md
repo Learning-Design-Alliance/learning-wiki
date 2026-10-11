@@ -49,3 +49,4 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 - [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
+- [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related

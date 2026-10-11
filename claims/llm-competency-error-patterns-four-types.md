@@ -75,3 +75,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — a narrower finding that bears on this claim
+- [Dominant logical fallacies in LLM mathematical explanations shift from family to family and across prompting modes](llm-math-explanation-fallacies-vary-by-family.md) — related

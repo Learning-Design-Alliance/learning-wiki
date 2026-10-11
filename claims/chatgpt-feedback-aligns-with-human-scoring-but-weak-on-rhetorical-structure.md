@@ -47,3 +47,4 @@ Mixed-methods comparison in which 30 first-year EAP students each submitted two 
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading](chatgpt-grading-within-10-percent-human.md) — related
+- [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — related

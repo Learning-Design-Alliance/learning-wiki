@@ -48,3 +48,4 @@ Quantitative analysis of validator agent failure counts across three refinement 
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — a narrower finding that bears on this claim
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
 - [Validator agent reliability is highest for realism and lowest for authenticity in human evaluation](validator-reliability-highest-realism-lowest-authenticity.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related

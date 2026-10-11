@@ -54,3 +54,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related
+- [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related

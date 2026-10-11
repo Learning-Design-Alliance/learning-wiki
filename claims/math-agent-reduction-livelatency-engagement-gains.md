@@ -63,3 +63,4 @@ Live experiment with two variations for skipping the Math Agent on non-math conv
 
 ## Related Claims
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
+- [Including agent role descriptions improves the classroom Manager Agent's decision precision](role-descriptions-improve-manager-agent.md) — related

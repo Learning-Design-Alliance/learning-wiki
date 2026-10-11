@@ -47,3 +47,4 @@ Live experiment removing the Math Agent's verbose guidance section, hypothesizin
 - [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](student-context-personalization-improves-tutor-metrics.md) — related
 - [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](math-agent-reduction-livelatency-engagement-gains.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
+- [Instances occurred where the Teacher LLM directly provided the final answer, bypassing the intended cognitive process, and can be programmatically filtered](collaborative-cheating-teacher-provides-answer.md) — related

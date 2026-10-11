@@ -66,3 +66,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
 - [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
 - [Prompting technique distribution shifts in teams, driven by students reporting no technique at all](prompting-technique-disengagement-in-teams.md) — related
+- [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — reports the opposite

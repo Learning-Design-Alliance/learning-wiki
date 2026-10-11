@@ -47,3 +47,4 @@ Verifier threshold sensitivity analysis on BILearn-CS reported in Table 6 across
 - [Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity](cheating-risk-threshold-sensitivity-tradeoff.md) — related
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
 - [Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations](source-anchoring-reduces-hallucination-instruction-data.md) — related
+- [Diversity regularization λ = 0.30 was selected from a sensitivity analysis as balancing recommendation relevance and content diversity](diversity-regularization-lambda-030.md) — related

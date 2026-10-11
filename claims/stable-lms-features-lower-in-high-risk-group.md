@@ -44,3 +44,4 @@ Fold-wise feature-selection stability analysis across the 52 LOOCV training fold
 
 ## Related Claims
 - [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — a broader claim this one bears on
+- [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related

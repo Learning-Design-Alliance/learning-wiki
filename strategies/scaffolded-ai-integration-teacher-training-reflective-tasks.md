@@ -49,6 +49,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
 - [Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design](genai-integration-feedback-literacy-reflective-course-design.md)
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
+- [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
 
 ## Examples
 -

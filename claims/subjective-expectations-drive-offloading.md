@@ -49,3 +49,4 @@ Experimental study (Dunn & Risko, 2016) manipulating word rotation and layout fr
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — related
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — a narrower finding that bears on this claim

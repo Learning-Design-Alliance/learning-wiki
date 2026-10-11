@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (14 for, 6 mixed, 3 against) · 25 studies (9 causal, 7 review, 3 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 25 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (16 for, 6 mixed, 3 against) · 27 studies (10 causal, 7 review, 3 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 27 report an effect size · 22 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -56,6 +56,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](../claims/role-design-improves-gai-perceptions-raises-cognitive-load.md) [+M] — instruction changes it
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](../claims/no-cognitive-load-differences-across-offloading-profiles.md) [-W] — instruction changes it
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](../claims/chatgpt-flatter-mental-effort-trajectory.md) [~M] — instruction changes it
+- [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](../claims/second-agent-increases-cognitive-load-writing.md) [+M] — instruction changes it
+- [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](../claims/llm-consolidated-report-cognitive-load-lowest.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

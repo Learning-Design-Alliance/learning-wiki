@@ -48,3 +48,4 @@ Blind expert evaluation of judicial-exam doctrinal essays on a 0-3 scale across 
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
 - [LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard](cdpk-accuracy-range-28-89-closed-models-lead.md) — related
 - [LLM performance in the legal domain depends strongly on task type, varying systematically from adversarial argumentation through doctrinal exposition to goal-oriented legal drafting.](llm-legal-performance-depends-on-task-type.md) — related
+- [Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline](gemini-exceeds-human-mean-scivis-literacy-open-source-below.md) — related

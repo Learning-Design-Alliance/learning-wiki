@@ -53,3 +53,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary](learnopt-llm-tagging-kappa.md) — related
