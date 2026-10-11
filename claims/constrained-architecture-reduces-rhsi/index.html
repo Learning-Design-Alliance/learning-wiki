@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="a-constrained-architecture-combining-prerequisite-enforcement-and-a-minimum-cognitive-demand-floor-substantially-reduces-reward-hacking-lowering-rhsi-from-0317-mo-to-0102-st">A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)<a class="headerlink" href="#a-constrained-architecture-combining-prerequisite-enforcement-and-a-minimum-cognitive-demand-floor-substantially-reduces-reward-hacking-lowering-rhsi-from-0317-mo-to-0102-st" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code> · <code>i3</code> large</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i3</code> SmartTutor Full (ST) achieves a mean per-seed RHSI of 0.095±0.028, significantly lower than EO (d=−1.45) and MO (d=−1.50) at Bonferroni-corrected levels. <a href="#oluseyi-olukolaa-2026">→ Oluseyi Olukolaa 2026</a>
+<code>q2 i?</code> ST's C3 violation rate of 5.8% is substantially lower than EO (70.8%), MO (58.0%), and MAS (39.1%). <a href="#oluseyi-olukolaa-2026-2">→ Oluseyi Olukolaa 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="oluseyi-olukolaa-2026">Oluseyi Olukolaa 2026<a class="headerlink" href="#oluseyi-olukolaa-2026" title="Permanent link">&para;</a></h3>
+<p>Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237</p>
+<p><code>q2 · i3</code> · <code>causal · r2</code></p>
+<p>Simulation of the SmartTutor Full (ST) condition with C1 action masking and C3 demand floor (δmin=0.4) enforced online, 30 sessions. Per-seed Welch t-tests with Bonferroni correction show large effect sizes (d=−1.45, d=−1.50) favoring ST on RHSI.</p>
+<blockquote>
+<p>"ST's mean per-seed RHSI (0.095±0.028) is significantly lower than both EO (t(29) =−5.62,p&lt;.0001,d=−1.45) and MO (t(30) =−5.80,p&lt;.0001,d=−1.50; Table 7)."</p>
+</blockquote>
+<h3 id="oluseyi-olukolaa-2026-2">Oluseyi Olukolaa 2026 (2)<a class="headerlink" href="#oluseyi-olukolaa-2026-2" title="Permanent link">&para;</a></h3>
+<p>Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Constraint violation rates computed from session logs across the four main conditions. ST also achieves the lowest C2 violation rate (21.4%) and a competitive C4 violation (34.5%), suggesting architectural constraints jointly improve safety across soft constraint dimensions.</p>
+<blockquote>
+<p>"ST's C3 violation rate of 5.8% is substantially lower than all unconstrainedconditions: EO (70.8%), MO (58.0%), and MAS (39.1%)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../rhsi-ordering-parameter-robustness/">The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45</a> — related</li>
+<li><a href="../engagement-optimized-rl-tutor-reward-hacking/">An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate</a> — related</li>
+<li><a href="../multi-objective-reward-insufficient-reward-hacking/">A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)</a> — related</li>
+<li><a href="../c3-ablation-policy-collapse/">Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>constrained-architecture-reduces-rhsi</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>oluseyi-olukolaa-2026</code>, <code>oluseyi-olukolaa-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

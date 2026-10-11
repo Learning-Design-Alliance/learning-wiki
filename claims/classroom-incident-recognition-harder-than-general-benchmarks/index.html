@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54% - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="classroom-incident-recognition-is-substantially-harder-than-established-general-action-recognition-benchmarks-with-posec3d-dropping-from-over-94-accuracy-to-7054">Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54%<a class="headerlink" href="#classroom-incident-recognition-is-substantially-harder-than-established-general-action-recognition-benchmarks-with-posec3d-dropping-from-over-94-accuracy-to-7054" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> PoseC3D, reported to achieve over 94% accuracy on NTURGBD and FineGym, reaches only 70.54% on the classroom incident dataset, which the authors attribute to viewpoint variation, subject diversity, noisy pose trajectories, and fine-grained differences between safety-related actions. <a href="#paritosh-parmar-2026">→ Paritosh Parmar 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="paritosh-parmar-2026">Paritosh Parmar 2026<a class="headerlink" href="#paritosh-parmar-2026" title="Permanent link">&para;</a></h3>
+<p>Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Cross-benchmark comparison in the synthetic-dataset results section: the same PoseC3D model scores over 94% on established benchmarks but only 70.54% on the classroom incident dataset. The authors state the task "remains far from solved"; accuracies only, no effect size.</p>
+<blockquote>
+<p>"PoseC3D [11] has been reported to achieve over 94% accuracy on established benchmarks such as NTURGBD [26] and FineGym [37], but reaches only 70.54% accuracy on our classroom incident dataset."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../distilled-kinematic-model-outperforms-pose-baselines-synthetic-classroom-incidents/">A distilled multi-order kinematic model outperforms pose-based baselines on a synthetic classroom incident dataset while using one-tenth as many parameters as PoseC3D</a> — related</li>
+<li><a href="../zero-shot-synthetic-to-real-classroom-incident-transfer/">Models trained on synthetic classroom incident data transfer zero-shot to real-world footage, with the proposed method best at 63.41% though a synthetic-to-real domain gap remains</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>classroom-incident-recognition-harder-than-general-benchmarks</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54%</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54%</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>paritosh-parmar-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
