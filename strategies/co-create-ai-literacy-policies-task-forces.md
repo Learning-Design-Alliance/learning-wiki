@@ -49,6 +49,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
+- [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](dbir-ucd-privacy-preserving-lc-validation.md)
 
 ## Examples
 -

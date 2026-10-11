@@ -63,6 +63,7 @@ Culturally responsive texts raise engagement and comprehension by connecting new
 - [Building Empathy](../principles/building-empathy.md) — windows texts are a primary vehicle for perspective-taking goals
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
+- [Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests](multiple-concise-llm-perspectives-learner-selection.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the instructional vehicle for core texts

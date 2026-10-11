@@ -48,3 +48,4 @@ Attitudinal pre/post MPEX data (Table III) collected in both years; favorable pe
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md)
 - [Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)](student-survey-favorable-toward-lab-technology.md)
+- [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related

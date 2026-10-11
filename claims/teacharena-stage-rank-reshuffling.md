@@ -46,3 +46,5 @@ Evaluation of 17 frontier models on the TEACHARENA leaderboard (Table 6), a benc
 ## Related Claims
 - [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related
 - [The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models](long-chain-workflows-lowest-stage3-family.md) — related
+- [Content knowledge and pedagogical knowledge dissociate in frontier LLMs; Claude-Opus-4.5 shows a 19.8 percentage point gap (66.3% content vs. 86.1% pedagogical)](content-pedagogical-knowledge-dissociation-llms.md) — related
+- [Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge](skills-independent-of-knowledge-scores-llms.md) — a narrower finding that bears on this claim

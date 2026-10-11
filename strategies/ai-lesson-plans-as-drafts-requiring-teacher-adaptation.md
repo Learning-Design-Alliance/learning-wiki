@@ -43,6 +43,8 @@ The article recommends that educators treat AI-generated lesson plans as startin
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Use automated collaboration assessments as scaffolds for reflection rather than ground truth](collaboration-assessments-as-reflection-scaffolds.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Use LLM-generated lessons within a human-AI collaborative workflow where educators review and refine AI drafts](human-ai-collaborative-lesson-refinement-workflow.md)
+- [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 
 ## Examples
 -

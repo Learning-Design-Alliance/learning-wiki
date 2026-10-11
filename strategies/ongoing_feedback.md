@@ -66,6 +66,7 @@ Ongoing feedback operationalizes [Assessment for Learning](../principles/assessm
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)
 - [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
 - [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
+- [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision is the practice that converts feedback into learning

@@ -88,3 +88,4 @@ Table 13 ablation introducing total count features; the authors report these "su
 - [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
 - [Of 213 rules induced in Study 1, 16 appeared to add information beyond regression in the training set but 5 seemed to be false alarms on the test set](study1-rules-additional-information-and-false-alarms.md) — related
+- [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — related

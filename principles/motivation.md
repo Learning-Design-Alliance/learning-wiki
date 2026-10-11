@@ -173,6 +173,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 ## Examples
 
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](../strategies/intrinsic-motivation-share-science-with-students.md)
+- [Reduce cheating holistically by enhancing perceived assessment purpose, fostering self-efficacy, and increasing perceived costs of cheating](../strategies/three-pronged-holistic-cheating-prevention.md)
 
 ### Illustrative
 

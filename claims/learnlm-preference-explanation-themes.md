@@ -1,0 +1,50 @@
+---
+type: claim
+title: Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers
+description: Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers
+id: learnlm-preference-explanation-themes
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: learnlm-team-2024
+    resource: "https://arxiv.org/abs/2412.16429"
+    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429"
+    author: LearnLM Team, Google
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
+---
+
+# Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+
+## Subclaims
+`q2 i?` In thematic analysis of role-played learners' preference explanations, explanations favoring LearnLM were more likely to contain the themes keeps_on_topic, challenges_learner, and gives_away_answers, while explanations favoring other models more often touched on clarity, info_amount, and conversation_style. [→ LearnLM Team 2024](#learnlm-team-2024)
+
+## Evidence
+
+### LearnLM Team 2024
+
+LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429
+
+`q2 · i?` · `qualitative · r2`
+
+Qualitative thematic analysis of a random subsample of 203 of the 1024 collected preference explanations (Table 1), with system identities censored during coding. The text reports explanations favoring LearnLM "was more likely to contain the themeskeeps_on_topic, challenges_learner, and gives_away_answers"; the most consistent themes overall were is_engaging (72), conversation_style (67), and gives_away_answers (50).
+
+> "When participants reported preferring LearnLM over the other model, their explanation was more likely to contain the themeskeeps_on_topic, challenges_learner, and gives_away_answers."
+
+## Discussion
+
+
+## Related Claims
+- [Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories](learnlm-expert-preference-over-flagships.md) — related
+- [Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet](learnlm-roleplayer-preferences-gpt4o-only.md) — related
+- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
+- [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](learnlm-roleplayer-weaker-gpt4o-experience.md) — related

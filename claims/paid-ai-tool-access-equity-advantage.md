@@ -55,3 +55,4 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — a broader claim this one bears on
+- [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related

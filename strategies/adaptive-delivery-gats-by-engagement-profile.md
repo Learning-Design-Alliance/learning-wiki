@@ -40,6 +40,7 @@ The article recommends moving beyond a single representation for all learners: "
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](adaptive-recommendations-engagement-profiles-k8.md)
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 - [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
+- [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 
 ## Examples
 -

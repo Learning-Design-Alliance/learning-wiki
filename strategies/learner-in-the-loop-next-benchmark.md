@@ -40,6 +40,7 @@ The article recommends that because static single-turn question answering reache
 
 - Elbench Benchmark Element
 - [Balanced Assessment System](balanced_assessment_system.md)
+- [Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures](extend-educational-llm-benchmarks-human-in-loop-multiturn.md)
 
 ## Examples
 -

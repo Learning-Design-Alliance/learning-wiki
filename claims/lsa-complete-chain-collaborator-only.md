@@ -63,3 +63,4 @@ LSA for the Replacement Tool group found a highly constrained sequential structu
 
 ## Related Claims
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
+- [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related

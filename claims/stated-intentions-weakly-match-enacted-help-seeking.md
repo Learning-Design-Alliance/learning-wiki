@@ -45,3 +45,4 @@ Comparison of students' pre-chat multi-select intent selections with their subse
 ## Related Claims
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
 - [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
+- [Student-agent interaction produced far more help-seeking but a non-uniform cognitive distribution dominated by lower-order engagement (54.52%), unlike the balanced distribution of student-instructor interaction](agent-context-lower-order-dominance.md) — related

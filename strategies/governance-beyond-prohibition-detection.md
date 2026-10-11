@@ -58,6 +58,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design](genai-integration-feedback-literacy-reflective-course-design.md)
 - [Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories](classify-ai-tools-by-governance-mechanism.md)
 - [Protect AI-mediated assessment through isolated environments, clear guidelines, resilience assessments, and teaching prompt-processing awareness](protect-ai-grading-from-prompt-injection-strategies.md)
+- [Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement](ai-literacy-guidance-productive-ai-use.md)
 
 ## Examples
 -

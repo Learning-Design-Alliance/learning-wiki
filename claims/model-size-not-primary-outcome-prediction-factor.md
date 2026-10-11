@@ -48,3 +48,4 @@ Comparative analysis of the six evaluated models' accuracies on the 310-case ben
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [CDPK performance scales with model size, with a sharp Pareto-frontier drop-off below around 8B parameters](cdpk-scales-with-model-size-dropoff-below-8b.md) — reports the opposite
 - [Larger Llama Guard models outperform smaller ones on education-prompt classification, with the 8B model best in accuracy, recall, and F1](llama-guard-scaling-trend-education-classification.md) — reports the opposite
+- [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related

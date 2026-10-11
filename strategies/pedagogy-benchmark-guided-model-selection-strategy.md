@@ -45,6 +45,7 @@ The authors recommend that EdTech product developers use their leaderboards as "
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Evaluate and mitigate sentiment bias across sensitive attributes before deploying LLM forum support](evaluate-mitigate-llm-sentiment-bias-before-deployment.md)
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
+- [Deploy fine-tuned compact local 8B LLMs as free classroom and home story generators with adult human oversight and safety filtering](local-compact-llm-story-generation-with-oversight.md)
 
 ## Examples
 -

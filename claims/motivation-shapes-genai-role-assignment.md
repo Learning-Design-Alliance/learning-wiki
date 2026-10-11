@@ -52,3 +52,4 @@ Chi-square test of independence on 120 interaction logs coded for motivation and
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
+- [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related

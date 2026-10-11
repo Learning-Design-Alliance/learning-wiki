@@ -41,6 +41,7 @@ The article recommends formulating assessment criteria in observable and verifia
 - [Use joint AI processing of report sets to identify recurring difficulties and guide collective feedback and teaching priorities](ai-cross-report-pattern-identification-for-teaching.md)
 - [Rubrics](rubrics.md)
 - [Mitigate extraction errors by requiring high-resolution PDFs, equation-editor equations, and legible graph axes, units, and legends](report-submission-practices-to-support-ai-evidence-retrieval.md)
+- [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
 
 ## Examples
 -

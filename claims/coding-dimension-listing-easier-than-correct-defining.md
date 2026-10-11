@@ -69,3 +69,4 @@ In the binomial mixed-effects error model (N = 8040 observations from 39 student
 - [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies](dimension-specific-scoring-reasoning-strongest-terminology-weakest.md) — a narrower finding that bears on this claim
+- [The LLM evaluator score discriminates between simulated-student motivation profiles](llm-evaluator-discriminates-student-profiles.md) — related

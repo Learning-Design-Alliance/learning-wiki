@@ -47,3 +47,4 @@ Ensemble evaluation in Sec. 5.3 comparing pedagogy-expertise-weighted ensembles 
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
 - [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](stacking-ensemble-best-finetuning-f1.md) — related
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — reports the opposite
+- [Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation](ensemble-majority-vote-modest-gains-no-degradation.md) — reports the opposite

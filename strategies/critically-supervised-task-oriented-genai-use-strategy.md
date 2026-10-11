@@ -49,6 +49,7 @@ The article's practical implications recommend that universities avoid treating 
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
+- [Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement](ai-literacy-guidance-productive-ai-use.md)
 
 ## Examples
 -

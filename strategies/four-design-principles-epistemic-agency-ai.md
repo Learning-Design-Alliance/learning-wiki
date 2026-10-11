@@ -46,6 +46,8 @@ Based on the tension between system efficiency and regulatory engagement, the ar
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Three-part strategy for responsible AI use in education: empower reasoning, foster emotional well-being, and provide institutional support](three-principles-responsible-ai-use-education.md)
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
+- [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
+- [Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition](scaffold-agents-toward-higher-order.md)
 
 ## Examples
 -

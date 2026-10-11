@@ -45,3 +45,5 @@ Technical evaluation comparing three LLM classifiers against human-annotated dat
 ## Related Claims
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
+- [Gemini-3-flash achieved the highest rubric-item accuracy, ranging from 89% on Course 2 to over 99% on Course 1](gemini-3-flash-highest-rubric-item-accuracy.md) — related
+- [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](gemini-flash-reliable-feedback-focus-annotator.md) — related

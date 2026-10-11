@@ -47,3 +47,5 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 - [Research on AI applications in science and chemistry education increased between 2021 and 2024, with 11 of 18 reviewed studies published in 2024](ai-science-chemistry-studies-increase-2021-2024.md) — possibly the same claim (merge candidate)
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
+- [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
+- [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — a narrower finding that bears on this claim

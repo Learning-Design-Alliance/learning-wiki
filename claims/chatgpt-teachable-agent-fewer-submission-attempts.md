@@ -47,3 +47,5 @@ Descriptive log data from the backend auto-judging platform: "the experimental g
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [Teaching a ChatGPT agent does not significantly improve code correctness compared with writing code independently from videos](chatgpt-teachable-agent-no-correctness-gain.md) — related
 - [Teaching a ChatGPT agent does not significantly change students' test anxiety](chatgpt-teaching-test-anxiety-no-difference.md) — related
+- [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
+- [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related

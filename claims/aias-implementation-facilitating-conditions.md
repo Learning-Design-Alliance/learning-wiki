@@ -52,3 +52,4 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
 - [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
+- [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related

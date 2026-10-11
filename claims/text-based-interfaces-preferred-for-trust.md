@@ -46,3 +46,4 @@ The review reports two interface-design studies in healthcare contexts (average 
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
 - [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — a broader claim this one bears on
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
+- [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related

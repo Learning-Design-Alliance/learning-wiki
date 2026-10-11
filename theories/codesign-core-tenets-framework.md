@@ -59,6 +59,7 @@ The article defines co-design as "a process in which different stakeholders come
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](../strategies/edtech-process-communication-co-development.md)
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](../strategies/implementation-scaffolding-change-management.md)
+- [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](../strategies/dbir-ucd-privacy-preserving-lc-validation.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Goldschmidt, L., and Bennett, K. (2026). Designing student success systems intentionally: How Warwick Public Schools and Panorama bridge the gap with co-designed technical solutions. Digital Promise. https://doi.org/10.51388/20.500.12265/303

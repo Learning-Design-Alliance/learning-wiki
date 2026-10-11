@@ -59,3 +59,4 @@ At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3
 - [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
+- [An LLM-based educational agent-enriched learning context improved task performance in most experimental classes but not all, with one experimental class underperforming the control on the complex task](dbagent-improves-achievement-mostly.md) — related

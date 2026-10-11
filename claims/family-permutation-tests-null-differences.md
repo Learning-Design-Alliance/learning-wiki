@@ -48,3 +48,4 @@ Family-level uncertainty analysis using item-level permutation tests (3-vs-3 mod
 - [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
 - [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](mllms-refuse-without-required-figures.md) — related
 - [Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)](chinese-models-safety-refusal-gap.md) — related
+- [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — related

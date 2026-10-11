@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (67 for, 18 mixed, 9 against) · 89 studies (27 associational, 22 causal, 17 review, 8 qualitative, 5 quant-synthesis, 5 design, 5 theoretical), `q1`–`q4` · 15 of 89 report an effect size · 87 claims rest on one study
+> **Evidence** · 96 claims (69 for, 18 mixed, 9 against) · 90 studies (27 associational, 22 causal, 17 review, 8 qualitative, 6 theoretical, 5 quant-synthesis, 5 design), `q1`–`q4` · 15 of 90 report an effect size · 89 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -128,6 +128,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](../claims/mismatch-genai-outputs-student-expectations-reduced-engagement.md) [~M] — instruction changes it
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](../claims/ai-personalization-benefits-performance-motivation.md) [+M] — instruction changes it
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](../claims/ai-tutor-engagement-motivation-higher.md) [+M] — instruction changes it
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](../claims/extrinsic-goals-associated-with-cheating.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](../claims/self-efficacy-negative-ability-not-correlated-cheating.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

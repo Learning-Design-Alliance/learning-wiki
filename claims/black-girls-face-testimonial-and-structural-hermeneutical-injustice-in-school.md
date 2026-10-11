@@ -90,3 +90,4 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment](girls-injustice-neglected.md) — related
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — a broader claim this one bears on
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens](indirect-discrimination-logic-applied-to-integrity-rules.md) — related

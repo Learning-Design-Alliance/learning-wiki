@@ -72,3 +72,4 @@ Survey evidence the review cites for persistence in grading practice: instructor
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
 - [Pilot quantitative application produced indicative 100-point academic integrity indicator reports for two institutions with sector comparisons](pilot-indicator-reports-two-institutions-100-point-metric.md) — related
 - [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — related
+- [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related

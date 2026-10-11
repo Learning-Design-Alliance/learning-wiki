@@ -47,3 +47,4 @@ Third evaluated technique, tested in divergent thinking response scoring; the ar
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — reports the opposite
 - [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](stacking-ensemble-best-finetuning-f1.md) — a broader claim this one bears on
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — reports the opposite
+- [Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation](ensemble-majority-vote-modest-gains-no-degradation.md) — a narrower finding that bears on this claim

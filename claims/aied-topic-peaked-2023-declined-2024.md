@@ -55,3 +55,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
 - [The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements](ai-anxiety-distinct-from-automation-anxiety.md) — related
+- [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related

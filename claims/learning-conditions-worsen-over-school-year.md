@@ -45,3 +45,4 @@ Repeated-measures comparison of October vs. February condition ratings from the 
 ## Related Claims
 - [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](condition-improvement-predicts-grade-improvement.md) — related
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
+- [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related

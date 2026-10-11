@@ -1,0 +1,48 @@
+---
+type: claim
+title: LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone
+description: LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone
+id: llm-misconception-analysis-reveals-insights-beyond-performance-data
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: parker-2025
+    resource: "https://arxiv.org/abs/2605.00294"
+    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294"
+    author: "Parker, M. J., & Zavala-Cerna, M. G."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` GPT-4 analysis combining quiz questions, most common incorrect answers, and lecture transcripts produces misconception hypotheses linked to how material was taught. [→ Parker 2025](#parker-2025)
+
+## Evidence
+
+### Parker 2025
+
+Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294
+
+`q2 · i?` · `design · r2`
+
+Qualitative demonstration using an Immunology checkpoint blockade example and a Physiology acid-base example. "This relationship between student answers and instructional material would not be apparent without providing the model with the content as context", showing misconceptions tied to specific instructional framing.
+
+> "This relationship between student answers and instructional material would not be apparent without providing the model with the content as context"
+
+## Discussion
+
+
+## Related Claims
+- [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related
+- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related

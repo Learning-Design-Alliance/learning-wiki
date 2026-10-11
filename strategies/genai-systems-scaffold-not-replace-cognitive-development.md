@@ -41,6 +41,7 @@ The article's design implications section recommends that GenAI-assisted learnin
 ## Related Strategies
 
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
+- [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
 
 ## Examples
 -

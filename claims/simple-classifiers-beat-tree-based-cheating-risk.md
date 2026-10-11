@@ -52,3 +52,4 @@ Out-of-sample comparison of four classifiers (linear, probabilistic, bagging-bas
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — reports the opposite
 - [Logistic Regression and linear-kernel SVM achieve the highest accuracy (99%) among five classifiers predicting student withdrawal/cancellation at SISTC](lr-linear-svm-highest-accuracy-dropout-prediction.md) — related
 - [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
+- [NLP models classify factual (knowledge transmitter) learner questions well but face challenges distinguishing higher-order facilitator and co-learner questions](nlp-models-excel-factual-struggle-higher-order-questions.md) — related

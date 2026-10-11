@@ -57,3 +57,4 @@ Observational analysis of teacher value-added estimates under multiple model spe
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students](context-adjusted-ratings-raise-black-teacher-rankings.md) — related
 - [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related
+- [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related

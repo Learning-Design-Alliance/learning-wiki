@@ -52,3 +52,5 @@ In the four-factor ANOVA on Fisher Z-transformed correlations, prompt type (5 le
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
+- [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — related
+- [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related

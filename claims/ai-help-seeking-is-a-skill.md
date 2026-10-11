@@ -64,3 +64,4 @@ The review reports Sheese et al.'s 12-week deployment with 52 students and more 
 ## Related Claims
 - [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- [Student-agent interaction produced far more help-seeking but a non-uniform cognitive distribution dominated by lower-order engagement (54.52%), unlike the balanced distribution of student-instructor interaction](agent-context-lower-order-dominance.md) — related

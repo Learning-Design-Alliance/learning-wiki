@@ -67,3 +67,4 @@ Student suggestion quoted in the teacher-role theme, manifesting a contradiction
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - [Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work](binary-genai-declarations-fail-to-capture-use-diversity.md) — related
+- [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related

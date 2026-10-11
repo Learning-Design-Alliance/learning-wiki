@@ -46,3 +46,4 @@ Concordance coding of obligation expressions (must, should, need to, responsible
 - [In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group](genai-abstracts-ai-dominant-actor-providers-invisible.md) — related
 - [Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts](students-associated-with-epistemic-predicates.md) — related
 - [The GenAI higher-education literature invokes responsibility frequently but almost never assigns accountability to AI or names a responsible bearer](responsibility-invoked-but-bearer-unnamed.md) — related
+- [Educators report needing training, resources, and institutional support to introduce educational change](educators-need-training-resources-institutional-support-for-change.md) — related

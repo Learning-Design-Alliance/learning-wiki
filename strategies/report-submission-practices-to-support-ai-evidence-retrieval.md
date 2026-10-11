@@ -45,6 +45,7 @@ Because extraction errors in equations, figures, tables, and graphs can generate
 - [Design rubric criteria and model instructions in observable, verifiable terms with citable evidence requirements](observable-verifiable-rubric-criteria-with-citable-evidence.md)
 - [Three-stage hybrid workflow: API batch review, identification of doubtful cases, focused conversational teacher review](three-stage-hybrid-ai-assessment-workflow.md)
 - [Strategy-detail-verify educator review of generated representation variants](strategy-detail-verify-card-review.md)
+- [Mitigate transcription failures through image-quality supports: quality review before submission, preview transcriptions, and multiple submission modes](image-quality-mitigations-handwritten-grading.md)
 
 ## Examples
 -

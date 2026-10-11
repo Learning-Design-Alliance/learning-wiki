@@ -49,3 +49,5 @@ In the automatic evaluation study, Gemini-2.5-Pro evaluated the same 64 MCQs und
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
+- [In the blind judicial-exam evaluation, Gemini 2.5 Pro scored 21/24, above the top human benchmark of 18/24, while the other LLMs scored substantially lower.](gemini-exceeds-human-judicial-exam-doctrinal-analysis.md) — related
+- [Humans are more certain when judging that facilitation is not needed than when judging it is](humans-certain-when-not-facilitating.md) — related

@@ -54,3 +54,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](ai-interaction-competencies-observable-scorable.md) — a broader claim this one bears on
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related

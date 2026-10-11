@@ -61,3 +61,4 @@ Hierarchical regression predicting GenAI shortcut reliance (N = 819; R2 = .078),
 - [Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance](profile-differences-usage-behaviors.md) — related
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related

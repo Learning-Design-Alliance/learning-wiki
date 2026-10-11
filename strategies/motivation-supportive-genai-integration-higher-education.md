@@ -37,7 +37,8 @@ The article's practical implication is that educators, instructional designers, 
 - sustainable student engagement and meaningful learning with GenAI tools
 
 ## Related Strategies
-- 
+
+- [Prioritize autonomous motivation and scaffold concept-focused AI support tailored to learner trajectories rather than providing uniform access alone](prioritize-autonomous-motivation-concept-focused-ai-support.md)
 
 ## Examples
 -

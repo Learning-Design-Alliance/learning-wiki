@@ -52,3 +52,4 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
 - [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](scripts-improve-skills-prescriptive-scripts-harm-motivation.md) — a narrower finding that bears on this claim
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related

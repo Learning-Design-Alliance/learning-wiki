@@ -50,3 +50,4 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 - [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related
 - [Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring](assessment-plans-outcome-based-dominant.md) — related
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related
+- [Student-agent interaction produced far more help-seeking but a non-uniform cognitive distribution dominated by lower-order engagement (54.52%), unlike the balanced distribution of student-instructor interaction](agent-context-lower-order-dominance.md) — related

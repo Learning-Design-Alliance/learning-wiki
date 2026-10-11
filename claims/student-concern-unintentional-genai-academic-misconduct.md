@@ -49,3 +49,4 @@ Survey finding from the mixed-methods study of 149 first-year business undergrad
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
+- [Adapting situational crime prevention techniques in an Australian business capstone reportedly reduced misconduct cases from 183 to 27 within a year](situational-crime-prevention-reduced-misconduct-183-to-27.md) — related

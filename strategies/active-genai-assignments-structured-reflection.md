@@ -51,6 +51,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
 - [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
 - [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
+- [Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement](ai-literacy-guidance-productive-ai-use.md)
 
 ## Examples
 -

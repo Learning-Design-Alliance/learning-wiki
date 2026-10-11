@@ -46,3 +46,4 @@ Proportions of items at each Baker (2001) discrimination level, reported in Tabl
 - [AI-generated exam questions were somewhat easier than standardized-test questions, with average difficulty βAI = −0.45 versus βSTD = 0.35](ai-exam-items-easier-than-standardized.md) — related
 - [For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5](ai-exams-informative-below-average-ability.md) — related
 - [AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence](ai-items-slightly-more-discriminating.md) — related
+- [Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item](ngss-benchmark-items-high-difficulty-low-discrimination.md) — reports the opposite

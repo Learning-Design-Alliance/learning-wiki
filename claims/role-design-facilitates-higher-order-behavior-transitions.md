@@ -46,3 +46,4 @@ Behavioral interaction data from the quasi-experiment with 58 graduate students 
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
 - [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
 - [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
+- [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related

@@ -47,3 +47,4 @@ Paired-sample t-tests comparing proportions of each SEDA-adapted code between hu
 - [Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation](dr-highest-semantic-similarity-ci-lower.md) — related
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer](british-accent-agent-framed-as-technological-helper.md) — related
+- [For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk](grade4-teacher-superior-all-4f-categories.md) — related

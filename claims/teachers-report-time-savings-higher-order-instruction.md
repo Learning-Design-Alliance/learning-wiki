@@ -47,3 +47,5 @@ Teacher post-surveys (n=5) in the multiple-case study; teachers reported the fee
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — a broader claim this one bears on
 - [Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time](equatio-time-saver-workflow.md) — related
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
+- [Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient](culturaied-perceived-strengths-efficiency.md) — related
+- [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related

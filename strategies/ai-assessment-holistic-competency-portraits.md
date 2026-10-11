@@ -39,6 +39,7 @@ In the assessment scenario, experts rejected AI as merely faster grading: "they 
 ## Related Strategies
 
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
+- [Embed automated question categorisation in learning management systems and develop ethical guidelines for AI in formative assessment](lms-embedded-question-categorisation-ethical-guidelines.md)
 
 ## Examples
 -

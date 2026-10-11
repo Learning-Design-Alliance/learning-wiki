@@ -47,3 +47,4 @@ Prompt-variant experiment in the Method section on the same model and test set. 
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — related
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](query-robustness-paraphrase-keyword-perturbation.md) — related
 - [Prompt-based scoring prompts developed on one year's test generalize to the next year's edition with only minor adjustments](prompt-scoring-generalizes-across-test-editions.md) — related
+- [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — related

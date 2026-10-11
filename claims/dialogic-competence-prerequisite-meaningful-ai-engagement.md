@@ -51,3 +51,4 @@ Authors' interpretation from the broad evaluation of qualitative data across thr
 - [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — related
 - [Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge](kt1-design-frictions-programming-tutorials-ai-guessing.md) — related
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
+- [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — a narrower finding that bears on this claim
