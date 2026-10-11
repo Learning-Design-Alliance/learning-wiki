@@ -50,3 +50,4 @@ Judgment in Table 1 of the qualitative evaluation, assessed against Pica et al.'
 - [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
 - [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](khanmigo-practicality-partially-supported.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
+- [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](learning-support-preferences-differ-by-expertise.md) — related

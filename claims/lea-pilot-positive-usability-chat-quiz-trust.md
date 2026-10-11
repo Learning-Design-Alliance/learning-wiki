@@ -65,3 +65,4 @@ Descriptive survey results from the same eight-participant pilot: learning outco
 - [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](lea-simulation-evaluation-results.md) — related
 - [Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty](simulation-overestimated-tutor-adaptiveness.md) — related
 - [A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify](quiz-repetition-bug-simulation-blind-spot.md) — related
+- [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related

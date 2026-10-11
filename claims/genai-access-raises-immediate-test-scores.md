@@ -59,3 +59,4 @@ Intent-to-treat estimate from a proctored, in-person randomized experiment (211 
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — a narrower finding that bears on this claim
+- [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](ai-human-tutoring-beat-control-gre-gains.md) — a narrower finding that bears on this claim

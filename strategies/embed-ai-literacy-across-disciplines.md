@@ -50,6 +50,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
 - [Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum](breadcrumb-strategy-ai-native-skills.md)
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
+- [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 
 ## Examples
 -

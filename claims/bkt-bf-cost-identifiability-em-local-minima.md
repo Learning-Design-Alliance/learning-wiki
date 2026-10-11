@@ -55,3 +55,4 @@ Definitional/interpretive statement in the introduction about the two main BKT t
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed](bayesian-dina-converges-sparse-data.md) — related
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
+- [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time](stanbkt-methods-comparable-predictive-performance-assistments-2020.md) — related

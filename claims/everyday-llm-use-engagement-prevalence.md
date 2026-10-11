@@ -47,3 +47,4 @@ Observational analysis of 128,569 naturalistic conversations from WildChat, LMSY
 - [Coding-oriented conversations show higher cognitive and constructive engagement than writing-oriented conversations across all three corpora](coding-vs-writing-constructive-engagement.md) — related
 - [Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns](adjacent-turn-support-engagement-coupling.md) — related
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
+- [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related

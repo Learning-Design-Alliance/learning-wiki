@@ -48,3 +48,4 @@ StudyChat-only comparison against two coded feature sets: 8 broad dialogue-act c
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
+- [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related

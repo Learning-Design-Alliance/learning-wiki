@@ -65,3 +65,4 @@ Chi-square and Kruskal–Wallis checks of prerequisite Python course grades acro
 - [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](five-genai-usage-profiles-oop-course.md) — related
 - [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — related
 - [Reported GenAI use frequency shows only weak negative associations with OOP assessment performance](weak-negative-genai-use-performance-correlations.md) — related
+- [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related

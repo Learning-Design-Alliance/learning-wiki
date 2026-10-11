@@ -68,3 +68,4 @@ Item-level correlations between training and six APPS/ATTS items, with r values 
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
 - [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](label-condition-moderates-empathy-predictors.md) — related
 - [Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not](training-confidence-predict-dyslexia-knowledge-not-experience.md) — related
+- [Participants with prior communication-training experience achieved higher overall 3E scores than those without](prior-training-higher-3e-scores.md) — related

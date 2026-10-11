@@ -66,3 +66,4 @@ Per-level comparison of Gemini 3.0 Pro's assigned grades under the two prompt va
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign](rubric-structure-part-of-assessment-construct.md) — related
+- [gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly](grader-llm-correctness-comparison-socrates.md) — related

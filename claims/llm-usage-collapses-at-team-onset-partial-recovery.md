@@ -45,3 +45,4 @@ Post-task survey data from 96 consenting undergraduates in two sections of an up
 ## Related Claims
 - [Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering](verification-degrades-in-team-contexts.md) — related
 - [Error timing and stakes shape trust in AI systems: later errors may be more damaging, early errors may matter more, and trust recovers quickly after good post-error performance, with high-stakes errors causing abrupt collapse](error-timing-and-stakes-shape-trust.md) — related
+- [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](llm-usage-trends-across-assignments.md) — related

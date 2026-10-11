@@ -54,3 +54,4 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 - [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
 - [Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance](sim-to-real-strategy-shift-feynman-to-coach.md) — related
+- [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related

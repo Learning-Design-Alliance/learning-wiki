@@ -51,3 +51,4 @@ Platform analytics from a mid-semester voluntary deployment in a core electrical
 - [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — related
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related

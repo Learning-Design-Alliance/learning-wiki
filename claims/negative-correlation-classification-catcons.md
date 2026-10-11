@@ -46,3 +46,4 @@ Interpretability analysis (RQ4) correlating Bloom-level classification accuracy 
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Higher knowledge-identification accuracy is associated with improved knowledge coverage in LLM-generated questions under Chain-of-Thought prompting](positive-correlation-identification-coverage.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
+- [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related

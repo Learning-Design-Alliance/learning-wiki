@@ -49,3 +49,4 @@ Thematic categorical analysis of the 13 included studies, reported in the review
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
+- [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related

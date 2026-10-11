@@ -67,3 +67,6 @@ Cluster comparison on the eight Likert perception statements (Table III); statem
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — reports the opposite
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [No significant differences in AI-free assessment performance across GenAI usage clusters in an OOP course](no-performance-differences-across-genai-clusters.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — reports the opposite
+- [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
+- [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related

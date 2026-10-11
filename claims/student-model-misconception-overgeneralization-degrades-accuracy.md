@@ -47,3 +47,4 @@ Instruction-tuning experiments across Llama-3.1-8B-Instruct, Phi-4-4B-Mini, and 
 - [LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions](error-simulation-accurate-but-longer-solutions-harder.md) — related
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
 - [On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design](llms-solve-first-error-injection-edi.md) — related
+- [Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction](example-problems-degrade-llm-teaching.md) — related

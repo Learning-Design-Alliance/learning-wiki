@@ -47,3 +47,4 @@ Participation inequality measured via Gini coefficients and mean/median ratios o
 - [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](ai-agent-validation-rate-within-human-range.md) — related
 - [Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community](procedural-posts-higher-engagement-ai-agents.md) — related
 - [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related
+- [Corpus reuse in the deployed support system is concentrated on a single process step: three certificate/offer-letter entries account for 56.8% of 871 resolutions, with a Gini of 0.586 across entries](corpus-reuse-concentrated-single-process-step-gini-0-586.md) — related

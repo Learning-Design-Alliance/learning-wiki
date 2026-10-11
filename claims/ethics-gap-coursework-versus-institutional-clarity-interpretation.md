@@ -53,3 +53,5 @@ This is the authors' own interpretation offered as a possible explanation ("migh
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use](awareness-behaviour-gap-genai-integrity.md) — related
 - [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related
+- [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
+- [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md) — related

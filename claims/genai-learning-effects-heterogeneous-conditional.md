@@ -66,3 +66,4 @@ The review attributes to Kumar et al.'s systematic review of 72 primary studies 
 - [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — related
 - [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related

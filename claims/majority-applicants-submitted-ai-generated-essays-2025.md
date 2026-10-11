@@ -48,3 +48,4 @@ Observational analysis of 7,462 applications across six admissions cycles, using
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](perceived-ai-use-lowers-staff-quality-ratings.md) — related
 - [Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors](admissions-officers-detect-ai-essays-auc-070.md) — related
+- [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related

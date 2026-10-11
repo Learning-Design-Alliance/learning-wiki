@@ -52,3 +52,6 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts](students-associated-with-epistemic-predicates.md) — related
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related
+- [Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use](ai-belief-behavior-mismatch-writing.md) — related
+- [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related
+- [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related

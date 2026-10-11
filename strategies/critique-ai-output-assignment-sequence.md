@@ -46,6 +46,7 @@ A strategy from the Evaluating & Fixing AI-Produced Work room in which the objec
 - [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
+- [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 
 ## Examples
 -

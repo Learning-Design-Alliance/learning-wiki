@@ -53,3 +53,6 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — related
 - [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related
+- [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
+- [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
+- [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — related

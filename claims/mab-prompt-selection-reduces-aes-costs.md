@@ -51,3 +51,4 @@ Simulation-style experiment on the IELTS Task 2 subset using Google Gemini 2.5, 
 - [MAB assignment increases the Type I (false positive) error rate above the nominal alpha level](mab-assignment-increases-type-i-error-rate.md) — related
 - [MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments](mab-assignment-higher-average-student-rewards.md) — related
 - [MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes](mab-assignment-reduces-experimental-power.md) — related
+- [Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705](psyscore-irt-initialization-ablation-qwk-drop.md) — related

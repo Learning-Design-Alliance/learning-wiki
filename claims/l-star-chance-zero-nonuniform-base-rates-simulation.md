@@ -46,3 +46,4 @@ First simulation study: 24 sets of 50,000 randomly generated sequences of 21 sta
 - [Theoretical ranges differ sharply: L with self-transitions removed is bounded below by −1 (individual base rates) or −2 (averaged), while L* is bounded by −k+1 (individual) or has no finite lower bound (averaged)](l-and-l-star-theoretical-value-ranges.md) — related
 - [When self-transitions are excluded, the L statistic's chance value becomes 1/(n−1)² for a state space with n affective states, so past L results excluding self-transitions were likely misinterpreted](l-chance-value-nonzero-self-transitions-excluded.md) — related
 - [Simulations with two dominant base rates also show L* at chance centered at zero](l-star-chance-zero-two-dominant-base-rates.md) — related
+- [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](detection-failure-uniform-not-tied-to-individual-differences.md) — related

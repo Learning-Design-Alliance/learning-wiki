@@ -51,3 +51,4 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — related
+- [Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

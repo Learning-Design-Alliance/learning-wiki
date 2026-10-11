@@ -49,3 +49,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — reports the opposite
 - [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](student-feedback-7-83-ocr-llm-instructions.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
+- [Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high](perceived-deep-learning-benefits-declined-over-term.md) — related

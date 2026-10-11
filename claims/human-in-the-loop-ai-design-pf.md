@@ -50,3 +50,5 @@ Within the human-AI collaboration theme of the focus group findings, participant
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
+- [Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements](conditional-trust-feedback-utility-versus-evaluative-authority.md) — related
+- [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related

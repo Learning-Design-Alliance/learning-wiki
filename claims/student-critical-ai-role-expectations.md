@@ -76,3 +76,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related
+- [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related

@@ -51,3 +51,4 @@ Solver comparison within the Model Validation section, using the hmmsclbl C/C++ 
 - [Alternative Spectral BKT configurations (2 states with 4 bigrams; 8 states with 16 4-grams) did not improve over the 4-state, 3-gram configuration](spectral-bkt-alternative-configurations-no-improvement.md) — related
 - [Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation](bkt-fits-raging-skies-process-data.md) — related
 - [A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed](bayesian-dina-converges-sparse-data.md) — related
+- [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time](stanbkt-methods-comparable-predictive-performance-assistments-2020.md) — related

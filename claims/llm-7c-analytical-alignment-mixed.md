@@ -65,3 +65,4 @@ Per-dimension Mann-Whitney U comparisons of judge-rated behavioral alignment fou
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically](blind-verification-no-overall-human-preference.md) — related
+- [Blinded expert annotators misclassified 83.7% of LLM-generated errors as human-written](blinded-annotators-misclassify-83-7-percent-of-llm-errors-as-human.md) — related

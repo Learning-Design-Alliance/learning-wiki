@@ -69,3 +69,4 @@ The review attributes to Shoufan's study that "students valued ChatGPT’s expla
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — a broader claim this one bears on
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for](assumed-background-audience-signals.md) — related

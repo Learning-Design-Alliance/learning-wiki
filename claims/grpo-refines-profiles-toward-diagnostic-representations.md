@@ -46,3 +46,4 @@ Qualitative head-to-head case study (Table 3) comparing GPT-generated and GRPO-r
 - [Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation](rl-stages-needed-faithful-student-simulation.md) — related
 - [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
 - [Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories](qa-dialogue-histories-complementary-views.md) — related
+- [DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance](dapo-over-grpo-pedagogical-rl.md) — related

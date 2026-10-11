@@ -57,3 +57,4 @@ Bibliometric time-zone evolution analysis of the 242-document corpus in VOSviewe
 - [Terminology for personalized learning is used unevenly, with personalized learning, adaptive learning, and intelligent tutoring dominating the 2019–2025 corpus](pl-terminology-unevenly-distributed-review.md) — related
 - [Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates](cybernetics-to-ai-terminology-shaped-debates.md) — related
 - [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
+- [Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration](three-keyword-clusters-ai-medical-education.md) — related

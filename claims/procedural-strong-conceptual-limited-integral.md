@@ -47,3 +47,4 @@ The review reports this result, citing Serhan (2015), who investigated students'
 - [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) — related
 - [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](starbird-intuitive-integral-five-configurations.md) — related
 - [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](abusive-generalization-semiotic-conflicts.md)
+- [Declarative knowledge dominates students' GenAI concept maps; only 9 of 64 maps integrate declarative, procedural, and conditional knowledge](declarative-dominance-integrated-knowledge-rare.md) — related

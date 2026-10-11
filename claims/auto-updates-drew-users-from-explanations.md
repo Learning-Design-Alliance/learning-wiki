@@ -47,3 +47,4 @@ Qualitative observation from the pilot workshop (n=7). The article also reports 
 - [An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding](flowchart-supports-code-orientation-navigation.md) — related
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
 - [In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead](pilot-llm-unreliable-fill-in-blank.md) — related
+- [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](soft-barrier-shifts-users-toward-editing.md) — related

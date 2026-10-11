@@ -71,3 +71,5 @@ Same interview study, Theme One minor theme on inconsistent application. Partici
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
 - [Institutional ambiguity varies sharply across universities, and binding silence does not determine ambiguity](institutional-ambiguity-varies-binding-silence-not-determinative.md) — related
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
+- [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related
+- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related

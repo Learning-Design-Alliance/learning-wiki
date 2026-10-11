@@ -47,3 +47,4 @@ The results section's summary of system output: for each query the pipeline retr
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — a broader claim this one bears on
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — a narrower finding that bears on this claim
 - [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](generated-textbook-videos-easier-to-follow-than-plain-text.md) — related
+- [The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence](grounded-multimodal-diagram-questions.md) — related

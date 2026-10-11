@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 25 studies (9 causal, 6 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 26 studies (9 causal, 6 review, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -90,6 +90,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](../claims/questioning-benefit-decays-with-impasse-depth.md) [+W] — attached 2026-10-11 from Ahtisham et al. (2026), which proposed "Design LLM tutors for graduated, state-sensitive assistance that adapts support to impasse persistence rather than treating answer withholding as a fixed policy"; tests this page's relationship.
 - [After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error](../claims/repeating-scripted-question-lowers-recovery.md) [+W] — attached 2026-10-11 from Ahtisham et al. (2026), which proposed "Design LLM tutors for graduated, state-sensitive assistance that adapts support to impasse persistence rather than treating answer withholding as a fixed policy"; tests this page's relationship.
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](../claims/cognitive-noncognitive-integration-adapts-ai-explanations.md) [+W] — attached 2026-10-11 from Nwogo et al. (2026), which proposed "Use a transparent rule-based performance-scoring formula combining academic scores with non-cognitive attributes to keep adaptive educational decisions interpretable and accountable".
+- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](../claims/constraints-selectively-affect-inefficient-strategies.md) [~M] — attached 2026-10-11 from Haley Noh et al. (2026), which proposed "Apply system constraints selectively to inefficient learner task-selection strategies rather than uniformly"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -67,3 +67,4 @@ Experiment 1 analysis of the proportion of items reaching criteria of 0, 1, 2, o
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
+- [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold](socratic-more-attempts-many-never-reach-mastery.md) — related

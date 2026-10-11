@@ -49,3 +49,4 @@ Structural equation modeling in AMOS 24 with a second-order GenAI dependence con
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related
 - [Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity](ai-readiness-predicts-greater-creativity-concern.md) — reports the opposite
+- [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — reports the opposite

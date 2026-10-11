@@ -40,6 +40,7 @@ When labeled data for a specialized evaluation task is scarce, the authors gener
 ## Related Strategies
 
 - [Generate synthetic negative explanations with a small language model to balance imbalanced educational scoring datasets](synthetic-negative-examples-llm-dataset-balancing.md)
+- [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
 
 ## Examples
 -

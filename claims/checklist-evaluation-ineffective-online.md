@@ -103,3 +103,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
 - [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](persistent-incorrect-trust-cue-beliefs.md) — related
 - [Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address](humanizer-frontstage-leakage.md) — related
+- [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related

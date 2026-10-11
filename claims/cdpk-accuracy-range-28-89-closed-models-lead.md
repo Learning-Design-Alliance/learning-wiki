@@ -48,3 +48,5 @@ Benchmark evaluation of 97 LLMs on the 899 tested CDPK questions using a fixed f
 - [Estimated human baseline on the CDPK benchmark is approximately 50%, based on aggregate Chilean teacher exam results](estimated-human-baseline-50-percent-cdpk.md) — related
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
 - [In the blind judicial-exam evaluation, Gemini 2.5 Pro scored 21/24, above the top human benchmark of 18/24, while the other LLMs scored substantially lower.](gemini-exceeds-human-judicial-exam-doctrinal-analysis.md) — related
+- [The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%](eduqwen-32b-sota-cdpk-benchmark.md) — related
+- [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related

@@ -43,6 +43,7 @@ This strategy recommends that GenAI academic search systems "embed metacognitive
 
 - [Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI](theory-comparison-prompts-counter-ai-overreliance.md)
 - [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
+- [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 
 ## Examples
 -

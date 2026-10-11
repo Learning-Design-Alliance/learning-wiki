@@ -50,3 +50,4 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
+- [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related

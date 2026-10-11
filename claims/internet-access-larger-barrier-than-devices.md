@@ -56,3 +56,4 @@ The LEA survey found that "Access to reliable Internet connection was a larger b
 - [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related
 - [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

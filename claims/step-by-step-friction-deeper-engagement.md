@@ -66,3 +66,4 @@ Participant interview quote from the lab study (P6) on the effect of removing th
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — a broader claim this one bears on
 - [Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first](three-interaction-patterns-flowcode.md) — related
+- [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](soft-barrier-shifts-users-toward-editing.md) — related

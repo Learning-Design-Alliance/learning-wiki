@@ -51,3 +51,4 @@ Simulation results shown in Figure 4 comparing average reward per step for MAB v
 - [An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits](optimistic-prior-mitigates-mab-power-loss.md) — related
 - [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](mab-prompt-selection-reduces-aes-costs.md) — related
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related
+- [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related

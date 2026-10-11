@@ -44,3 +44,4 @@ Lexical comparison of learning-disability-prompted versus baseline feedback for 
 - [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](downward-shift-benchmark-dependence.md) — related
 - [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related
+- [SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks](sped-adaptive-shifts-tutor-behavior-codebooks.md) — related

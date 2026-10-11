@@ -62,3 +62,4 @@ Theme summary from Section 4.2 of the speed-dating study; teachers reacted negat
 - [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related
 - [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related
 - [Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness](data-sharing-hesitation-versus-teacher-access.md) — related
+- [Emotion was the rarest essay theme, raised ambivalently by a minority of students](emotion-rarest-essay-theme.md) — related

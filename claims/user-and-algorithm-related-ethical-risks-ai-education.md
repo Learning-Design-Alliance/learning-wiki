@@ -86,3 +86,5 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
+- [Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use](ai-belief-behavior-mismatch-writing.md) — related
+- [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related

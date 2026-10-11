@@ -47,3 +47,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [The four acceptance profiles differ substantially in behavioral intention to use ChatGPT](profiles-differ-in-behavioral-intention.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
+- [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related

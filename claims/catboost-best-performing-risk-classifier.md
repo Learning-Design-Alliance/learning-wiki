@@ -51,3 +51,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — reports the opposite
 - [Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset](simple-classifiers-beat-tree-based-cheating-risk.md) — reports the opposite
 - [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
+- [k-nearest neighbours achieves the highest recall of the tested models, making it better suited when identifying which students know a topic matters](knn-highest-recall-for-identifying-students.md) — related

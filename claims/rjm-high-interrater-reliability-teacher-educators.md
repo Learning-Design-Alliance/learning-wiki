@@ -54,3 +54,4 @@ Mixed-method study of eight teacher educators: two raters independently coded 95
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization](categorization-expert-validation-gwet-ac1.md) — related

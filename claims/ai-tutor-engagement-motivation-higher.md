@@ -50,3 +50,4 @@ Five-point Likert perception ratings after each lesson in the crossover RCT (Fig
 - [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](supplynet-higher-engagement-than-baseline.md) — related

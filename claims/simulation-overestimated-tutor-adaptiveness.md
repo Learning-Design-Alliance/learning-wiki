@@ -65,3 +65,6 @@ Reflexive thematic analysis of open-text pilot responses identified Tutor Mode s
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
 - [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](lea-simulation-evaluation-results.md) — reports the opposite
 - [A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify](quiz-repetition-bug-simulation-blind-spot.md) — related
+- [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
+- [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](socratic-test-pilot-beyond-recall.md) — related
+- [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — reports the opposite

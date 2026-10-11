@@ -45,3 +45,4 @@ Analysis of instructional modalities across the reviewed studies (RQ1, Fig. 5). 
 ## Related Claims
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — related
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
+- [Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of unplugged approaches](thematic-outcomes-unplugged-ai-literacy-pd.md) — related

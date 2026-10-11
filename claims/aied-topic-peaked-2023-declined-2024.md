@@ -61,3 +61,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related
 - [Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025](242-ldt-syntheses-2011-2025-steady-increase.md) — related
 - [GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn](genai-discourse-three-phase-evolution.md) — related
+- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related

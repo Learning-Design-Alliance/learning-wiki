@@ -52,3 +52,4 @@ Chi-square tests across four role groups (127 replacement-tool, 59 enhancement-t
 - [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related
+- [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related

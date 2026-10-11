@@ -48,3 +48,4 @@ AI-coded deductive SRL scheme applied to all 808 student turns using Gemini 2.5 
 ## Related Claims
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — possibly the same claim (merge candidate)
+- [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](meta-procedural-requests-socratic-ai-tutor.md) — a narrower finding that bears on this claim

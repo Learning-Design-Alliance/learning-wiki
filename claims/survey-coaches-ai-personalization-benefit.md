@@ -45,3 +45,4 @@ Descriptive analysis of the landscape scan survey administered August-September 
 ## Related Claims
 - [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related
 - [Personalizing learning (22%) and teacher assistance (25%) dominated project topics, with only 27.5% of solutions on market](rfi-project-topics-personalization-teacher-assistance.md) — related
+- [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related

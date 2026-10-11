@@ -42,6 +42,7 @@ Beyond training, the authors propose two implementable uses: assigning simulated
 - [Use simulated student sections as a scalable supplement to teacher training and lesson preparation](simulated-role-play-teacher-training-supplement.md)
 - [Role Play](role-play.md)
 - [Have students develop and train AI agents and simulations in the domains they are learning, with validation and scaffolding](students-train-ai-agents-and-simulations-strategy.md)
+- [Use unlearning-based simulated students as scalable practice environments for teacher professional development](unlearning-simulation-teacher-professional-development.md)
 
 ## Examples
 -

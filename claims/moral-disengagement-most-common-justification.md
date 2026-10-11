@@ -47,3 +47,4 @@ Open qualitative card sort of free-text survey responses by two coders with cons
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
 - [Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply](minority-act-on-ethical-concerns-job-applications.md) — related
+- [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related

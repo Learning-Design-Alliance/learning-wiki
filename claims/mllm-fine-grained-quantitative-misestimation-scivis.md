@@ -47,3 +47,4 @@ Qualitative error analysis of model rationales (Section 4.4). In Item 41, Gemini
 - [Some MLLM failures occur when a higher-level SciVis interpretation is grounded in an unsupported visual encoding rather than the encoding specified by the visualization and caption](mllm-encoding-mapping-error-unsupported-grounding.md) — related
 - [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
 - [VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment](vlm-grounding-failure-region-activity-binding.md) — a broader claim this one bears on
+- [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related

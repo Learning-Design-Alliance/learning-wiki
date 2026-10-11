@@ -85,3 +85,4 @@ Design-family charting of included reports. The review cautions these labels des
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — related
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
+- [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related

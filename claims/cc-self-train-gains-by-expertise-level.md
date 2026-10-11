@@ -48,3 +48,4 @@ Subgroup analysis of the pilot by self-reported experience level (beginner n= 9,
 ## Related Claims
 - [The largest self-efficacy effect sizes in the pilot appeared on advanced features such as setting up hooks and creating skills](cc-self-train-largest-gains-advanced-features.md) — related
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — a broader claim this one bears on
+- [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](learning-support-preferences-differ-by-expertise.md) — related

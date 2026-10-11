@@ -47,3 +47,4 @@ Survey-based comparison of role framing (Assistant, Peer, Expert, Did not use) a
 - [Prompting technique distribution shifts in teams, driven by students reporting no technique at all](prompting-technique-disengagement-in-teams.md) — related
 - [Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool](motivation-shapes-genai-role-assignment.md) — related
 - [Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering](verification-degrades-in-team-contexts.md) — related
+- [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related

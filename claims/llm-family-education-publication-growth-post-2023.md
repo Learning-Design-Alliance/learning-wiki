@@ -50,3 +50,4 @@ Corpus overview of the 53 included studies reports that "Publication increased s
 - [Research on AI applications in science and chemistry education increased between 2021 and 2024, with 11 of 18 reviewed studies published in 2024](ai-science-chemistry-studies-increase-2021-2024.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related
+- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related

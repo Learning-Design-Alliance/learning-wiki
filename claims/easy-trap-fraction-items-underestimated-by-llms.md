@@ -70,3 +70,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - [On the PRM800K validation dataset, detection rates dropped by 10.5 percentage points when final answers were correct, consistent with the correct answer trap extending beyond the Eedi data](cat-extends-to-prm800k-validation.md) — related
 - [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](cat-failures-concentrate-in-two-question-types.md) — related
 - [Standard ML interventions do not improve hidden-misconception detection beyond the fine-tuned classifier baseline](standard-ml-interventions-no-detection-gain.md) — related
+- [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related

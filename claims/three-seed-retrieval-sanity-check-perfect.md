@@ -45,3 +45,4 @@ Numerical retrieval evaluation reported in the Results section over only three s
 ## Related Claims
 - [Across three neural-network lectures, evidence and confidence checks retained 1,022 of 1,155 raw concept mentions (88.48%) and 312 of 400 raw relationship mentions (78.00%), yielding 172 canonical concepts and 282 graph relationships with 90.38% endpoint coverage](evidence-grounded-kg-extraction-yield-three-lectures.md) — related
 - [Generated answers sometimes added correct background knowledge not explicitly supported by retrieved evidence, an unsupported-answer behavior the authors flag as requiring faithfulness evaluation](answers-add-unsupported-background-knowledge.md) — related
+- [Fine-tuned SLMs retrieve the correct concept within a top-K shortlist but have limited top-1 accuracy](slm-topk-shortlist-limited-top1-accuracy.md) — related

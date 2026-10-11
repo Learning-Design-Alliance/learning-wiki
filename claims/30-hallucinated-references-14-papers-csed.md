@@ -50,3 +50,4 @@ Manual verification of 464 candidates (225 from SET A author-field errors, 239 u
 - [Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025](fabricated-references-co-occur-with-admissions-growth.md) — related
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
 - [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](repair-and-source-gating-feedback-completeness.md) — related
+- [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related

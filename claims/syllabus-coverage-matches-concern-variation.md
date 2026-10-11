@@ -46,3 +46,4 @@ Authors' interpretive argument in the Discussion linking observed concern variat
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
+- [In a graduate CS course offering, mediated topic priorities aligned with instructor concerns (top-5 overlap 3/5; Spearman ρ = 0.80)](mediation-layer-priorities-align-instructor-concerns.md) — related

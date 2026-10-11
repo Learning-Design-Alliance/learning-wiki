@@ -51,3 +51,4 @@ Controlled between-subjects classroom study (N=113 undergraduates in a discrete 
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
+- [Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems](genai-scaffolding-training-improves-revision-performance.md) — related

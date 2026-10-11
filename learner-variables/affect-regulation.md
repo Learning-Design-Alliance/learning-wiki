@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (55 for, 11 mixed, 7 against) · 62 studies (14 causal, 14 review, 13 associational, 8 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 62 report an effect size · 72 claims rest on one study
+> **Evidence** · 74 claims (56 for, 11 mixed, 7 against) · 63 studies (14 causal, 14 review, 14 associational, 8 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 13 of 63 report an effect size · 73 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -106,6 +106,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](../claims/nd-coping-self-selected-roles-self-disclosure.md) [+W] — learners who differ on it differ in outcomes
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](../claims/nd-coping-failure-avoidance-public-presentations.md) [+W] — learners who differ on it differ in outcomes
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](../claims/support-and-appraisals-negatively-predict-ai-learning-anxiety.md) [+M] — instruction changes it
+- [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](../claims/socratic-test-pilot-lower-stress.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

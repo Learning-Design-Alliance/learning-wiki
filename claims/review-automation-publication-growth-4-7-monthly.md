@@ -46,3 +46,4 @@ Corpus analysis of 888 review-automation papers; publication counts plotted from
 - [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — related
+- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related

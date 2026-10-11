@@ -52,6 +52,8 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well](educative-shift-genai-integrity-policy.md)
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Rethink the music curriculum around DAW literacy, AI literacy, rights and economics knowledge, and defended ensemble practice](music-curriculum-four-rethink-directions.md)
+- [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
+- [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
 
 ## Examples
 -

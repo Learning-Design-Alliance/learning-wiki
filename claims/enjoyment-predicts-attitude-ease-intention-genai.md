@@ -48,3 +48,4 @@ PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample 
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
+- [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related

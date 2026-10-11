@@ -40,7 +40,8 @@ Based on the observed associations, the article recommends that "universities co
 - [Cvt Tam Support Model Ai Learning Anxiety](../theories/expectancy-value-theory.md)
 
 ## Related Strategies
-- 
+
+- [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
 
 ## Examples
 -

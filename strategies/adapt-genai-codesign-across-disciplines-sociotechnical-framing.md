@@ -42,7 +42,8 @@ The authors offer a forward-looking design recommendation for instructors adapti
 - [Guided Inquiry Perspectival Student Voice Genai Model](../designs/guided-inquiry-perspectival-student-voice-genai-model.md)
 
 ## Related Strategies
-- 
+
+- [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
 
 ## Examples
 -

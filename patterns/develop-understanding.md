@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 28 studies (11 causal, 7 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 28 report an effect size · 2 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 29 studies (11 causal, 7 quant-synthesis, 6 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 3 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,7 @@ Do not rank this pattern against explain-then-practise or discovery lessons from
 Claims this page cited before the 2026-10-05 rewrite and not used as core evidence above.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — two narrative reviews and an experiment on working-memory capacity, read from abstracts. It bears on how much a single explanation in step 2 can present at once for a `novice`, and its discussion says imposed chunking stops helping once learners can chunk unaided; it does not test lessons.
+- [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](../claims/checkpoints-and-definitions-improved-clarity.md) [+W] — attached 2026-10-11 from Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students t, which proposed "Socratic prompt structure with pauses, checkpoints, hints before solutions, and hard stopping points"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

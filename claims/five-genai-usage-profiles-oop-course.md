@@ -66,3 +66,4 @@ Kruskal–Wallis tests confirmed the clusters differed on each clustering variab
 - [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — related
 - [No significant differences in AI-free assessment performance across GenAI usage clusters in an OOP course](no-performance-differences-across-genai-clusters.md) — related
 - [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related
+- [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related

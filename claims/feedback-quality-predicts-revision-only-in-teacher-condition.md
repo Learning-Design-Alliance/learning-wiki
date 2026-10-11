@@ -86,3 +86,4 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](prompt-revision-increased-feedback-specificity.md) — related

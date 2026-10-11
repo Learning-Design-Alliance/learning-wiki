@@ -71,3 +71,4 @@ The review reports countervailing findings in the same category, including that 
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — a narrower finding that bears on this claim
 - [Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control](no-diagnostic-accuracy-difference.md) — related
 - [The genAI-enabled patient presented pertinent positive findings consistently with the ePBLM but deviated on non-essential content](genai-accurate-pertinent-findings-nonessential-deviations.md) — related
+- [Overall 3E, Empower, and Empathize scores were higher in the second AI-patient encounter, but the uncontrolled design precludes attributing this to training](session2-3e-scores-higher-uncontrolled.md) — a narrower finding that bears on this claim

@@ -62,4 +62,4 @@ Methodological rationale in Section 4.2: the authors reject simple truncation be
 
 
 ## Related Claims
--
+- [During development testing, Taklif.AI guardrails rejected roughly 12% of interests, 8% of input documents, and 3% of generated assignments](guardrails-rejection-rates-development-testing.md) — related

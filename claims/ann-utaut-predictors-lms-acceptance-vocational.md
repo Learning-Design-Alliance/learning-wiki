@@ -49,3 +49,4 @@ ANN analysis of questionnaire data from 387 vocational school students (training
 - [Academic GPA, associate degree program and high school type have negligible influence on vocational students' LMS acceptance](demographics-negligible-lms-acceptance.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks](ann-appraisals-strongest-anxiety-predictors.md) — related
+- [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related

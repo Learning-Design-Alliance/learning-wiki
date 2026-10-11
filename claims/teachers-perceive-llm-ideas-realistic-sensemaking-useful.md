@@ -66,3 +66,4 @@ Teachers appreciated suggestions like asking for evidence, reframing questions, 
 - [91% of LLM-simulated ideas fell within grade-level knowledge scope, but within-scope proportions were significantly lower for elementary and middle school than high school](llm-ideas-knowledge-scope-91-percent-lower-grades-lag.md) — related
 - [Only 69% of LLM-simulated ideas met the target grade's language level, with elementary grades faring worst and Llama-4 performing best](llm-ideas-language-level-69-percent-elementary-worst.md) — related
 - [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
+- [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](llm-simulated-students-surpass-rule-based-systems.md) — related

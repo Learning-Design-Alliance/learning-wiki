@@ -57,9 +57,11 @@ Naming the negative voice is a form of cognitive reappraisal that requires minim
 5. Revisit the labels at natural stress points (before assessments, after feedback) through journals or check-ins so the practice consolidates.
 
 ## Related Strategies
+
 - Growth-oriented reframing routines — naming is the noticing step; reframing is the response step
 - Test-anxiety reduction techniques — the voice often peaks before assessments, where the label is most useful
 - Journaling and reflection routines — recurring writing gives the named voice a consistent outlet
+- [Diagnostic and repair strategy in constructivist therapy: locate where the synthetic position sits and return it to an ordinary voice](therapy-repair-synthetic-position-location.md)
 
 ## Examples
 - A middle-school teacher introduces "Cranky Kirsten" during a fractions unit; students write Kirsten's typical complaints in their math journals, then answer her with evidence from their own past work.

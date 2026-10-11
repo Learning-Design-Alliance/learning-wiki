@@ -50,6 +50,7 @@ As part of its third contribution, the paper recommends that implementations of 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [Design AI mediators with negotiable intervention, participant-controlled synthesis, and transparent role transitions that preserve human ownership of team decisions](negotiable-transparent-ai-mediation-design.md)
 
 ## Examples
 -

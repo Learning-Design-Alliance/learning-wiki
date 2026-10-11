@@ -1,0 +1,48 @@
+---
+type: claim
+title: The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility
+description: The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility
+id: ai-demonstrations-split-on-course-utility
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: shuang-geng-2026
+    resource: "https://arxiv.org/abs/2607.28710"
+    title: "Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710"
+    author: Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+
+## Subclaims
+`q2 i?` Among 60 demo-section respondents, 28 attended all nine demonstrations, most reported slight or moderate engagement, and feedback split between direct course utility (10) and lacking course utility (11), with the dominant suggestion being to increase course utility (13). [→ Shuang Geng 2026](#shuang-geng-2026)
+
+## Evidence
+
+### Shuang Geng 2026
+
+Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, and Emma Lejeune. (2026). Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results. https://arxiv.org/abs/2607.28710
+
+`q2 · i?` · `causal · r1`
+
+Post-survey demonstration feedback from 60 demo-section respondents, coded with the adjudicated machine pipeline. Attendance was self-reported (28 of 60 attended all nine); "The most frequent like was direct course utility (10) and the most frequent dislike was lacked course utility (11)".
+
+> "The most frequent like was direct course utility (10) and the most frequent dislike was lacked course utility (11), with redundancy for students who already knew the material close behind (7)."
+
+## Discussion
+
+
+## Related Claims
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
+- [Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements](conditional-trust-feedback-utility-versus-evaluative-authority.md) — related
+- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](video-views-declined-across-quarter.md) — related

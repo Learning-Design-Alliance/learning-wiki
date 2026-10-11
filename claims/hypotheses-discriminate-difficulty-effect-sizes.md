@@ -48,3 +48,4 @@ Numerical evaluation of top hypotheses on three benchmarks (Table 1), reporting 
 - [The benefit of high- versus low-contrast sampling depends on the dataset](contrast-strength-benefit-is-dataset-dependent.md) — related
 - [Editing questions according to a hypothesis shifts measured difficulty in the expected direction](hypothesis-guided-editing-shifts-difficulty-causally.md) — related
 - [Adding generated hypotheses as features improves black-box difficulty predictors](hypothesis-features-improve-difficulty-predictors.md) — related
+- [LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels](llm-difficulty-labels-track-structural-item-features.md) — related

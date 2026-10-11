@@ -66,3 +66,4 @@ Same correlational intent-enactment analysis, reporting null associations for le
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — a broader claim this one bears on
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
+- [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related

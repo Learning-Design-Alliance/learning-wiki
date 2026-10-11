@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (48 for, 17 mixed, 2 against) · 52 studies (17 associational, 10 design, 9 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 52 report an effect size · 66 claims rest on one study
+> **Evidence** · 68 claims (48 for, 17 mixed, 3 against) · 53 studies (17 associational, 11 design, 9 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 53 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions](../claims/llm-self-detection-task-dependent.md) [+W] — attached 2026-10-11 from Juho Leinonen (2026), which proposed "Do not treat LLM-based detection as a standalone evidence source for academic integrity decisions"; tests this page's relationship.
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](../claims/rubric-revision-improves-machine-alignment.md) [+W] — attached 2026-10-11 from Pei-Yu Tseng et al. (2026), which proposed "Rubric revision pattern: separate construct from surface cues, specify valid evidence, make scoring logic operational, and make adjacent boundaries explicit".
 - [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](../claims/assessment-twins-triangulate-evidence-mitigate-threats.md) [+W] — attached 2026-10-11 from Jasper Roe et al. (2026), which proposed "Respond to GenAI assessment threats with validity-focused redesign that prioritises pedagogy rather than surveillance or prohibition"; tests this page's relationship.
+- [AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses](../claims/ai-mid-range-scoring-degradation-u-shape.md) [-W] — attached 2026-10-11 from Abigail Victoria Gurin Schleifer et al. (2026), which proposed "Deploy automated scoring as a first pass that auto-handles extreme-quality responses and routes predicted mid-range responses to a human rater"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

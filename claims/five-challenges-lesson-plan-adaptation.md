@@ -47,3 +47,4 @@ Qualitative formative study: a system use experiment with a structured lesson pl
 - [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](adapted-stories-reduces-preparation-burden.md) — related
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
+- [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related

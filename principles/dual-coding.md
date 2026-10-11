@@ -137,6 +137,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Explaining Their Thinking](self-explanation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
 
 ## Examples
+
 - A geography lesson pairs concise text with an annotated map so spatial relationships do not have to be inferred only from prose.
 - A procedural lesson uses step visuals with short captions to show both the order and purpose of each action.
 - [Concept map](../elements/concept-map.md), [graphic organizer](../elements/graphic-organizers.md), [representational drawing](../elements/representational-drawing.md) and [visual imagery](../elements/visual-imagery.md) — elements that carry a visual of the idea
@@ -146,6 +147,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - **Annotated diagrams**: Learners label a process, system, or text structure and add notes about why the parts matter.
 - **Data visualizations**: Learners convert raw data into graphs or charts and interpret what the visual shows.
 - **Sketch-to-explain routines**: Before solving a complex problem, learners draw the situation, sequence, or relationship structure first.
+- [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](../strategies/success-cues-labelling-hybrid-documentation.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.

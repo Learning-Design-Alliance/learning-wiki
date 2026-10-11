@@ -47,3 +47,4 @@ Controlled evaluation with n = 20 conversations per condition comparing AURA's w
 - [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md) — related
 - [Higher-skill trainees elicit faster-climbing AVP disclosure trajectories, directionally supporting skill sensitivity, though the formal interaction test is underpowered](avp-skill-sensitivity-directional.md) — related
+- [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — related

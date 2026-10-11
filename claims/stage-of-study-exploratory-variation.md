@@ -64,3 +64,4 @@ Exploratory GPA-by-cohort interaction models comparing undergraduate and postgra
 ## Related Claims
 - [GPA band remains a significant negative predictor of active AI engagement, positive affect, perceived learning impact, and AI-related disengagement when controlling for age, gender, and year category](regression-gpa-predictor-controls.md) — related
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — related
+- [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — related

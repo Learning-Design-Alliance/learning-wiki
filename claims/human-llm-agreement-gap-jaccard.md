@@ -83,3 +83,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus](human-human-screening-agreement-low-coverage-overlap.md) — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related
+- [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related

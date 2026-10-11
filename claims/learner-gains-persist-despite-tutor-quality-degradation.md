@@ -71,3 +71,4 @@ Decoupling analysis (§5.3) using Pearson correlations between learner-side and 
 - [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](study-oriented-modes-upper-bound-reference.md) — related
 - [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
+- [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related

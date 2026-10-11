@@ -39,7 +39,9 @@ The article recommends that platforms exposing Bespoke's compiled artifacts (obj
 - maintaining MOOC-comparable production and pedagogical quality of generated lecture videos before learner release
 
 ## Related Strategies
+
 - Bespoke Lecture Video Generation Pipeline
+- [Use overlapping multi-slide windows and deck-level reconciliation rather than per-slide generation](overlapping-windows-deck-reconciliation-strategy.md)
 
 ## Examples
 -

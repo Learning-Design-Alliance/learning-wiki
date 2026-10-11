@@ -65,6 +65,7 @@ Team contracts address the two most common failure modes of [Collaborative Learn
 - [Role assignment](../strategies/role-assignment.md) — a contract often operationalizes roles; assigned roles alone are a lighter-weight alternative
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 - [Scaffold the transition into team work with explicit team-level AI norms and coding-inclusive team entry points](explicit-ai-scaffolding-at-team-formation.md)
+- [Design AI mediators with negotiable intervention, participant-controlled synthesis, and transparent role transitions that preserve human ownership of team decisions](negotiable-transparent-ai-mediation-design.md)
 
 ## Examples
 - **Project-based courses (e.g., PBLWorks exemplar projects)** — teams draft a "group contract" in week one covering roles, meeting schedules, and conflict resolution; PBLWorks publishes [contract templates](https://www.pblworks.org) used across K–12 project-based learning.

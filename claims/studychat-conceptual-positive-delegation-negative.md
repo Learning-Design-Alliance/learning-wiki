@@ -48,3 +48,5 @@ Interpretation of individually significant traits from the pooled incremental re
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
 - [Reported GenAI use frequency shows only weak negative associations with OOP assessment performance](weak-negative-genai-use-performance-correlations.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester](conceptual-questions-editing-positive-exam-outcomes.md) — related
+- [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — related

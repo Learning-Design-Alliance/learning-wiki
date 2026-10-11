@@ -44,6 +44,7 @@ The article recommends an agentic educational architecture that includes the tea
 - [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
 - [Embed pedagogical guardrails in the generation pipeline to counter cognitive offloading from friction-minimizing generative AI](pedagogical-guardrails-against-cognitive-offloading.md)
+- [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 
 ## Examples
 -

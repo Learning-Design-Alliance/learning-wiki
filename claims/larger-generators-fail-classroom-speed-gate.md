@@ -45,3 +45,4 @@ Server-local bake-off round 1 on Node A with fixed retrieval, context length 819
 ## Related Claims
 - [Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review](round2-candidates-pass-speed-gate.md) — related
 - [Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models](cogevol-single-pass-latency-and-cost.md) — related
+- [In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal](faster-ai-replies-linked-engagement-practice-gains.md) — related

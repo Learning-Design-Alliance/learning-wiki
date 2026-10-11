@@ -1,0 +1,47 @@
+---
+type: claim
+title: "Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings"
+description: "Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings"
+id: human-evaluation-prefers-prototype-refine-simulations
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: tao-wu-2025
+    resource: "https://arxiv.org/abs/2505.19997"
+    title: "Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997"
+    author: Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` In human evaluation, the proposed method consistently receives higher 1–5 ratings than the second-best setting for every model. [→ Tao Wu 2025](#tao-wu-2025)
+
+## Evidence
+
+### Tao Wu 2025
+
+Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu. (2025). Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents. https://arxiv.org/abs/2505.19997
+
+`q2 · i?` · `design · r2`
+
+Human evaluation in Section 5.4: 10 undergraduate students with solid Python programming skills rated each simulated solution on a 1–5 scale, each solution rated by two independent evaluators and averaged. Table 4 reports, for example, Prototype Mapping + Refine 3.08 versus Prototype Mapping + IO 2.88 for LLaMA-3.3-70B-Instruct.
+
+> "As shown in Table 4, our method consistently receives higher human evaluation scores than the baseline across all model settings."
+
+## Discussion
+
+
+## Related Claims
+- [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
+- [Expert evaluation finds larger, more capable LLM backbones produce higher-quality multi-domain graphs, with GPT-5 pro rated best](llm-backbone-graph-quality-expert-evaluation.md) — related

@@ -61,3 +61,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related
 - [Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA](rasch-infit-rater-selection-increases-reliability.md) — related
+- [Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization](categorization-expert-validation-gwet-ac1.md) — related
