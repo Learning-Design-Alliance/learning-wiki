@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="under-single-pass-deployment-fscot-prompting-yields-the-strongest-agreement-with-teacher-mean-scores-for-music-analysis-essay-scoring-r-0795-icc-21-0657">Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)<a class="headerlink" href="#under-single-pass-deployment-fscot-prompting-yields-the-strongest-agreement-with-teacher-mean-scores-for-music-analysis-essay-scoring-r-0795-icc-21-0657" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code> · <code>i3</code> large</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i3</code> Among Fs+CoT, RAG, and SC under Run1, Fs+CoT achieved the strongest agreement with teacher mean scores, with the highest Pearson r, Krippendorff's alpha, and QWK and the lowest RMSE. <a href="#baicheng-lin-2026">→ Baicheng Lin 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="baicheng-lin-2026">Baicheng Lin 2026<a class="headerlink" href="#baicheng-lin-2026" title="Permanent link">&para;</a></h3>
+<p>Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783</p>
+<p><code>q2 · i3</code> · <code>design · r2</code></p>
+<p>Comparison of three GPT-4o-mini prompting strategies against teacher mean scores for 300 undergraduate music-analysis responses, reported in Results Table 1. Fs+CoT led with "r = 0.795, ICC (2,1) = 0.657"; RAG and SC followed at r = 0.669 and 0.545.</p>
+<blockquote>
+<p>"Fs+CoT achieved the strongest agreement with teacher mean scores (r = 0.795, ICC (2,1) = 0.657), followed by RAG (r=0.669) and Self-Consistency (SC) (r = 0.545)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../dimension-specific-scoring-reasoning-strongest-terminology-weakest/">LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies</a> — related</li>
+<li><a href="../median3r-aggregation-minor-effect-ordering-preserved/">Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies</a> — related</li>
+<li><a href="../strategy-specific-bias-profiles/">Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)</a> — related</li>
+<li><a href="../sc-repeatable-but-weaker-agreement/">Self-Consistency is the most reproducible strategy across repeated runs yet shows weaker agreement with teacher mean scores (ICC (2,1) = 0.537)</a> — related</li>
+<li><a href="../rag-systematic-leniency-overscoring/">RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>fscot-strongest-teacher-agreement-run1</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>baicheng-lin-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="grpo-training-shifts-profiles-from-broad-summaries-toward-diagnostic-behaviorally-grounded-representations-that-better-support-simulation">GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation<a class="headerlink" href="#grpo-training-shifts-profiles-from-broad-summaries-toward-diagnostic-behaviorally-grounded-representations-that-better-support-simulation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q1</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q1 i?</code> In a qualitative case study, the GRPO-refined profile preserves KC-level knowledge state while adding fine-grained misconception, dialogue-act, and linguistic-style evidence, with a higher ground-truth turn log-likelihood reward (-1.953 vs -2.056 for the GPT profile). <a href="#zhangqi-duan-2026">→ Zhangqi Duan 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="zhangqi-duan-2026">Zhangqi Duan 2026<a class="headerlink" href="#zhangqi-duan-2026" title="Permanent link">&para;</a></h3>
+<p>Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051</p>
+<p><code>q1 · i?</code> · <code>design · r2</code></p>
+<p>Qualitative head-to-head case study (Table 3) comparing GPT-generated and GRPO-refined profiles for the same student history. The article states GRPO training shifts the profile "from a broad summary toward a more diagnostic, behaviorally grounded representation".</p>
+<blockquote>
+<p>"These changes suggest that RL is ef- fective, with the reward, i.e., average log-likelihood of the ground-truth student turn conditioned on the GRPO-refined profile being−1.953 compared to −2.056 for the GPT profile."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../rl-stages-needed-faithful-student-simulation/">Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation</a> — related</li>
+<li><a href="../llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates/">In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.</a> — related</li>
+<li><a href="../qa-dialogue-histories-complementary-views/">Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>grpo-refines-profiles-toward-diagnostic-representations</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>zhangqi-duan-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
