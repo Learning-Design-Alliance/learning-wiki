@@ -52,3 +52,4 @@ Randomized controlled experiment with a final sample of 95 undergraduates (33 sl
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
+- [Training on AI interaction strategies does not further improve AI-assisted learning design quality](ai-interaction-training-no-added-design-quality-gain.md) — related

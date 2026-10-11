@@ -46,3 +46,4 @@ Negative-binomial GLMM on revision counts capped at the empirical 99th percentil
 - [Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows](enacted-feedback-higher-uptake-than-directed-self-directed.md) — related
 - [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](event-flow-selection-versus-optional-assistance-use.md) — related
 - [The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions](ripple-feedback-workflow-dataset-scale.md) — related
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related

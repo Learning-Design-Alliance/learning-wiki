@@ -46,3 +46,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Reported outcomes of AI-supported university physics education are mixed and context-dependent, and the evidence does not support a conclusion that AI is uniformly effective](ai-physics-outcomes-mixed-context-dependent.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related

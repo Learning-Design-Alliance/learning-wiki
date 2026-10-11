@@ -45,3 +45,4 @@ Early results from the Access to Success Initiative, in which 20 systems of high
 ## Related Claims
 - [Georgia State's Panther Retention Grant program was followed by 82% of recipients graduating or remaining enrolled one year later](panther-retention-grant-82-percent-persistence.md) — related
 - [Enrollment stratification amplifies the national gap: Pell students are concentrated at lower-SAT, lower-graduation-rate institutions](pell-enrollment-stratification-sat-quartiles.md) — related
+- [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

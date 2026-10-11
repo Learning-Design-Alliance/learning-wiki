@@ -73,3 +73,5 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
 - [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
+- [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related

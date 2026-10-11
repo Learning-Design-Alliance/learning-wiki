@@ -85,3 +85,5 @@ Ablation experiment (Table 3) with the w/o Evo-Update variant reports Mistake Pr
 - [CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948](cogevolution-mistake-precision-beats-kt-baseline.md) — related
 - [CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)](cogevolution-learning-curve-power-law-fit.md) — related
 - [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related
+- [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
+- [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related

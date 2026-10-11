@@ -45,3 +45,4 @@ Latent profile analysis on combined SR and OB factors in the full sample (N = 28
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](expanded-pool-composite-still-null.md) — related
 - [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related
+- [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related

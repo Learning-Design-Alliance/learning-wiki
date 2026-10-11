@@ -47,6 +47,7 @@ Add reflection assignments at multiple points in the semester in which students 
 - [Strategy Identification & Reflection](strategy-identification-reflection.md)
 - [Five-Stage Problem-Solving Model](five-stage_problem-solving_model.md)
 - [Connecting Struggles to Strategies](connecting_struggles_to_strategies.md)
+- [Three-part reflective lesson on LLM use: hands-on problem solving with and without LLMs, instruction on LLM internals, and discussion of educational-impacts research](three-part-reflective-llm-lesson.md)
 
 ## Examples
 -

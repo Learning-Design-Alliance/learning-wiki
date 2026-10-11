@@ -73,3 +73,4 @@ Student long-term-effects sub-theme from the interviews. A participant described
 - [Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment](faculty-greater-ethical-boundary-strictness-than-students.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — a narrower finding that bears on this claim
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
+- [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related

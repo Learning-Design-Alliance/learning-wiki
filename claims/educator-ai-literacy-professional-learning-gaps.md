@@ -79,3 +79,5 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
 - [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
+- [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — a broader claim this one bears on

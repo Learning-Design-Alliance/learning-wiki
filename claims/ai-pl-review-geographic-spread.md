@@ -44,3 +44,4 @@ Descriptive country-frequency analysis of the included articles (Figure 4). The 
 - [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — related
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
 - [Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers](country-specific-genai-concern-profiles-qatar-india.md) — related
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — reports the opposite

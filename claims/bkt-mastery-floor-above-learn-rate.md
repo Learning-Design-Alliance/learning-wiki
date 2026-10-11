@@ -52,3 +52,4 @@ Analytical derivation (Section 4.1 and Appendix A) of the BKT posterior and limi
 - [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](educlaw-bench-simulator-calibration.md) — related
+- [The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates](non-mastery-rules-stronger-prediction-role.md) — related

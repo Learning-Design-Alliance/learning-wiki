@@ -46,3 +46,4 @@ Anonymous voluntary end-of-module surveys rating the statement that the provided
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
+- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](video-views-declined-across-quarter.md) — related

@@ -72,3 +72,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [Among 828 manually coded matched references, the most common issue was ACM metadata mismatch (229 cases), followed by author-field errors (225 cases)](acm-metadata-mismatch-most-common-error.md) — related
 - [All 18 evaluated LLMs score macro F1 below 0.5 in diagnosing students' cognitive skills from handwritten math work](llms-f1-below-05-cognitive-skill-diagnosis.md) — related
 - [MathCog: a benchmark of 3,036 teacher-annotated diagnostic verdicts over 639 handwritten student responses to 110 math problems with Evident/Vague evidence labels](mathcog-benchmark-dataset.md) — related
+- [Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing](thematic-categories-sentence-misinterpretation.md) — related

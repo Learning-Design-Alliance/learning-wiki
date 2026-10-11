@@ -52,3 +52,4 @@ Head-to-head comparison of the two LoRA-adapted open-weight models on the 360-es
 - [Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone](model-family-beats-parameter-count-for-tutoring-quality.md) — a broader claim this one bears on
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — related
 - [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related

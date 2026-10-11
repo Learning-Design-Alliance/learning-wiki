@@ -48,3 +48,4 @@ Exploratory exam-level correlations across 11 parallel-class exams mixing solved
 - [The negative AI-difficulty–performance correlation is stable across exposure-discount values 0 to 0.40, and is strongest with no adjustment](exposure-discount-sensitivity-stable-correlation.md) — related
 - [AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate](ai-difficulty-non-attempt-rate-correlation.md) — related
 - [The same review ruler supports longitudinal cross-semester problem tracking for one teacher's Data Structures and Algorithms B course](longitudinal-dsa-review-ruler-tracking.md) — related
+- [Reported GenAI use frequency shows only weak negative associations with OOP assessment performance](weak-negative-genai-use-performance-correlations.md) — related

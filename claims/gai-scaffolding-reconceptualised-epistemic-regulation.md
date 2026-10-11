@@ -47,3 +47,4 @@ Theoretical argument in the Reflection component section. The authors contrast t
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — a narrower finding that bears on this claim
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
+- [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — a broader claim this one bears on

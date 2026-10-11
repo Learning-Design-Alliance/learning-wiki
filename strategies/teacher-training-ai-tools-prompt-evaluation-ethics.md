@@ -51,6 +51,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
+- [Train teachers in effective AI chatbot interaction strategies before AI-assisted learning design](train-teachers-ai-interaction-strategies-learning-design.md)
 
 ## Examples
 -

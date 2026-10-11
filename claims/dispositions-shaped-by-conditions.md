@@ -59,3 +59,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading](community-presentation-created-accountability-pressure.md) — related
 - [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — related
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — a narrower finding that bears on this claim
+- [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related

@@ -48,3 +48,4 @@ Observational analysis of six-year graduation rates for the 2007 first-time, ful
 - [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — a narrower finding that bears on this claim
 - [The average within-institution Pell/non-Pell completion gap is only 5.7 percentage points, far smaller than the 14-point national gap](pell-institutional-gap-5-7-points.md) — related
 - [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — related
+- [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

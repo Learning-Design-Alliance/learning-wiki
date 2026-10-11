@@ -52,3 +52,4 @@ Extensive empirical comparison of three model families on nine real-world tutori
 - [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](sakt-underperforms-dkt-all-datasets.md) — related
 - [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
 - [BKT with generalizable multidimensional student and problem effects matches DKT on some real-world datasets, and multidimensional abilities improve upon unidimensional ones on some datasets](bkt-irt-matches-dkt-some-datasets.md) — related
+- [A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held](moe-candidate-mixed-fidelity-result.md) — related

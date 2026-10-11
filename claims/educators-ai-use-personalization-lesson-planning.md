@@ -75,3 +75,5 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related
 - [Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools](turkish-prompts-yield-poorer-edbl-alignment-than-english.md) — related
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related
+- [Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement](ai-used-for-research-not-assessment-pre-service-teachers.md) — related
+- [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related

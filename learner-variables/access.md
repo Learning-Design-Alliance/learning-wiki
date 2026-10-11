@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (44 for, 9 mixed, 4 against) · 44 studies (22 associational, 7 review, 6 qualitative, 4 causal, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 44 report an effect size · 54 claims rest on one study
+> **Evidence** · 60 claims (46 for, 10 mixed, 4 against) · 46 studies (22 associational, 7 review, 6 qualitative, 5 causal, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 2 of 46 report an effect size · 57 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -90,6 +90,9 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](../claims/blv-score-access-memorization-default.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](../claims/contextual-barriers-persistence-theme.md) [+M] — learners who differ on it differ in outcomes
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](../claims/infrastructure-inequities-disrupt-proctored-assessments.md) [+M] — learners who differ on it differ in outcomes
+- [AI chatbot access improves the quality of teachers' learning designs in higher education](../claims/ai-access-improves-learning-design-quality.md) [+M] — learners who differ on it differ in outcomes
+- [AI chatbot access lowers teachers' perceived cognitive effort during learning design](../claims/ai-access-lowers-cognitive-effort-learning-design.md) [+M] — learners who differ on it differ in outcomes
+- [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](../claims/llm-access-homogenises-creative-output.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

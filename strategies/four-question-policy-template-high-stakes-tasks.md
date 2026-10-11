@@ -43,6 +43,7 @@ The article recommends operationalizing stewardship through a short public templ
 ## Related Strategies
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Formative friction: require goal statements, alternative comparison, and justification before high-stakes delegation, kept proportionate and accessible](formative-friction-proportionate-accessible.md)
 
 ## Examples
 -

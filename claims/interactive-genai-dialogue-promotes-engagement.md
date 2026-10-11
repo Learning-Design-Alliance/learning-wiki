@@ -48,3 +48,4 @@ Cross-site finding from focus groups, surveys, and School C observations; the in
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](assessment-design-shapes-genai-engagement.md) — related
+- [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related

@@ -69,3 +69,4 @@ The human-grounded audit comparing provenance quality between main research-ques
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
 - [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
+- [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related

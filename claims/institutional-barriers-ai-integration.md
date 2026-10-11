@@ -53,3 +53,5 @@ Multi-select survey item on institutional challenges among 72 respondents: ethic
 - [Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users](survey-ai-barriers-power-community-nearly-universal.md) — related
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
+- [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — a broader claim this one bears on

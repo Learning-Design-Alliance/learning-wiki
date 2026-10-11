@@ -59,9 +59,11 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 6. Re-ask the same or parallel questions later in the session or after a delay to exploit spaced retrieval [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Socratic questioning](../elements/socratic-questioning.md) — a sustained dialectical variant where follow-up questions drive the whole exchange
 - [Cold calling](cold-call.md) — a distribution technique that raises accountability for answering
 - [Retrieval practice](../strategies/retrieval-practice.md) — the broader family of memory-strengthening techniques that question answering instantiates
+- [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
 
 ## Examples
 - **Recitation in Direct Instruction** — high-frequency choral and individual questioning with immediate feedback is a signature feature of [Direct Instruction](../patterns/direct-instruction.md) scripts

@@ -47,3 +47,4 @@ Cross-sectional multicenter survey (N=243) of students in Spain and Ireland usin
 - [The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences](gender-gap-emerges-only-in-technology-pathway.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
+- [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related

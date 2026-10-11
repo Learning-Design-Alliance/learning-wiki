@@ -50,3 +50,5 @@ PRISMA-based systematic review methodology section: two independent reviewers sc
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Blinded dual evaluation of artworks reached almost perfect inter-rater agreement (kappa = 0.92)](inter-rater-kappa-092-art-scoring.md) — related
 - [A meta-systematic review of AI in higher education found that 51.5% of articles lacked any reliability metrics or coding protocols](aied-studies-lack-reliability-reporting.md) — related
+- [In this review's full-text eligibility stage, dual-LLM consensus reached 92.2% accuracy against a 60-record gold sample, with residual errors being false excludes (4/38)](dual-llm-eligibility-screening-accuracy.md) — related
+- [Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus](human-human-screening-agreement-low-coverage-overlap.md) — reports the opposite

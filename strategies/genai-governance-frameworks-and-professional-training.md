@@ -44,6 +44,7 @@ The article recommends institutional-level responses to staff survey findings: c
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy](institutional-genai-policy-and-awareness-strategy.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

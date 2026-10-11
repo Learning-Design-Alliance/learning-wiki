@@ -40,7 +40,8 @@ The dialogue's contributors converge on institutional actions: developing inclus
 - Algorithmic Colonialingualism
 
 ## Related Strategies
-- 
+
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a narrower finding that bears on this claim
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
 - [The quality and intensity of the high school curriculum is reported to be the single most important factor in college success](curriculum-quality-intensity-most-important-college-success.md) — reports the opposite
+- [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related

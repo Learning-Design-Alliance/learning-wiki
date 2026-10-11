@@ -48,3 +48,4 @@ Gender comparison (Figure 4a) in a sample that was 80.44% female. The article st
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related

@@ -60,9 +60,11 @@ Multimodal composition treats learners as designers of meaning, drawing on the m
 6. Reflect: learners explain their design decisions, making mode reasoning explicit
 
 ## Related Strategies
+
 - Digital storytelling — the most common single-mode-dominant variant, centering voiceover and imagery
 - Video essay assignments — disciplinary analysis expressed through edited media
 - Podcast production — audio-first composition emphasizing script and pacing
+- [Design composite STEAM tasks that jointly evidence technical fluency, ethical reasoning, collaborative practice and design iteration](composite-tasks-jointly-evidence-technical-ethical-collaborative-design.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — composition is the application phase where understanding is externalized in a new form

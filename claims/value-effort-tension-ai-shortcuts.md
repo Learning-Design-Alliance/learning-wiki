@@ -66,3 +66,4 @@ The same section reports the split in how students acted on their values: seven 
 - [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related

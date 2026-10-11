@@ -50,3 +50,4 @@ Cross-case comparison within the thematic synthesis of 155 studies, identifying 
 - [AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally](ai-service-delivery-improves-responsiveness-satisfaction.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
+- [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related

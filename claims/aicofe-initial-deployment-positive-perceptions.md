@@ -48,3 +48,4 @@ Author-reported conclusion from the Conclusions section; no statistics, sample s
 - [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — related
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related
+- [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related

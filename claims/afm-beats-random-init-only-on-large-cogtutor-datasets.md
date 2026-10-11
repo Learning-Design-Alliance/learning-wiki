@@ -47,3 +47,4 @@ RMSE comparison of the dafm-afm baseline against random-init across the five pri
 - [An expert-initialized Q-matrix refined by dAFM outperforms a Q-matrix learned from the ground-up in nearly all cases](expert-refined-qmatrix-beats-ground-up-learning.md) — related
 - [Fine-tuning the AFM model including its Q-matrix improves test-set prediction in four of five datasets and is the best model in eight of ten experiments](dafm-fine-tuned-improves-prediction-over-afm.md) — related
 - [Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability](individualized-ability-no-benefit-dafm.md) — related
+- [The framework generalizes under automatically generated Q-matrices without requiring expert annotation](automatic-qmatrix-extraction-generalization.md) — related

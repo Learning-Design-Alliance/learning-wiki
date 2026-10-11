@@ -48,3 +48,4 @@ Semi-structured December 2019 interviews with lighthouse project leaders. Motiva
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
+- [End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments](faculty-reflection-series-outcomes.md) — related

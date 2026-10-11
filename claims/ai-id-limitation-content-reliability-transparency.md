@@ -51,3 +51,4 @@ Thematic synthesis of limitations (Table 7). The review notes Parsons & Curry (2
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related
+- [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — related

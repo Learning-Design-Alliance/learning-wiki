@@ -43,6 +43,7 @@ The paper closes by identifying "ethical considerations and future research dire
 - Joyful Assessment Framework
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 
 ## Examples
 -

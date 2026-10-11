@@ -70,3 +70,5 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related
 - [University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language](university-ai-policies-weak-directive-language.md) — related
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
+- [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related

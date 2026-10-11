@@ -49,3 +49,4 @@ The briefs synthesize survey and policy data to characterize institutional readi
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — a narrower finding that bears on this claim
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim

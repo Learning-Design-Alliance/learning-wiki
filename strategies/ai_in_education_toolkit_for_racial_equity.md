@@ -70,6 +70,7 @@ Algorithmic systems in education systematically encode and amplify racial dispar
 - [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 - [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
+- [Audit educational LLM deployments for differential treatment before serving marginalized learners](audit-llm-tutors-for-paternalistic-bias.md)
 
 ## Examples
 - **[AI in Education Toolkit for Racial Equity](https://www.racialequityedtech.org)** — the toolkit itself, offering stage-by-stage actions for edtech developers and guidance for districts evaluating products.

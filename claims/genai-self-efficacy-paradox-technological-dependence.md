@@ -48,3 +48,4 @@ The article reports, citing Zhang and Xu, a study of university students in whic
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
+- [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related

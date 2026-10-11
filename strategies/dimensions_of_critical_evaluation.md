@@ -58,9 +58,11 @@ Explicitly naming and contrasting the dimensions prevents the common failure mod
 6. **Revisit and fade support** across subsequent assignments, shifting from guided analysis to independent evaluation.
 
 ## Related Strategies
+
 - [Lateral Reading](lateral-reading.md) — the professional fact-checker technique that operationalizes the reliability dimension by checking external sources
 - [Sourcing](sourcing.md) — attending to author and publication details, the core of the bias/perspective and reliability dimensions
 - [Corroboration](corroboration.md) — cross-checking claims across sources to evaluate accuracy
+- [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 
 ## Examples
 - A media literacy class analyzes news articles on the same event from outlets with different editorial positions, using the four dimensions to explain why an article can be accurate yet biased, or relevant yet unreliable.

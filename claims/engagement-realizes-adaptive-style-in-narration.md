@@ -44,3 +44,4 @@ Same five-topic ablation (n=5 topics); the adaptive-dimension judge median falls
 
 ## Related Claims
 - [Removing the engagement contract reduces judged engagement, adaptive scores, readability, and engagement-move counts in pedagogical video generation](engagement-contract-ablation-reduces-pck-scores.md) — related
+- [LLaMA shows a persona-conditioned vocabulary collapse for the Roma minority persona, with TTR falling 0.018 points below its own cross-persona mean](llama-ttr-collapse-roma-persona.md) — related

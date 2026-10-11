@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -53,6 +53,7 @@ Self-assessment is the element in which learners judge their own work, understan
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [+W]
 - [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- [Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university](../claims/reflection-builds-responsibility-and-confidence-transition.md) [+W] — attached 2026-10-11 from Pedlow et al. (2026), which proposed "GenAI-focused reflective self-assessment instrument for commencing university students".
 
 ## Related Elements
 - [Reflection](reflection.md)

@@ -47,3 +47,4 @@ Extensive simulation study comparing estimation of symptom networks with Bayesia
 - [Bayesian GLASSO shows good coverage of uncertainty for strength and closeness centrality, but uncertainty in betweenness centrality is estimated less well](bayesian-glasso-coverage-strength-closeness-not-betweenness.md) — related
 - [Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close](frequentist-glasso-higher-sensitivity-network-estimation.md) — related
 - [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — related
+- [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related

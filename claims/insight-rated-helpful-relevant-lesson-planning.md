@@ -47,3 +47,4 @@ Post-training descriptive ratings on a five-item scale (α = .83) in the pilot e
 - [Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning](ai-roles-across-instructional-stages.md) — related
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived usefulness of AI-based technologies](insight-training-increases-perceived-usefulness-ai.md) — related
+- [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — possibly the same claim (merge candidate)

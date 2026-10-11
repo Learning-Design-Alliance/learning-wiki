@@ -70,3 +70,4 @@ Discussion of the same cross-sectional survey; descriptive means show perceived 
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](baseline-motivation-outweighs-demographics-ai-benefits.md) — related
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
+- [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related

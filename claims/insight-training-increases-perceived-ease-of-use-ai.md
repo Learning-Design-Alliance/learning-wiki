@@ -51,3 +51,5 @@ Paired-samples t-test on the SAELKIS PEOU subscale in the same pilot pre-post ev
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
 - [Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students](proficiency-group-acceptance-differences.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — related
+- [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related

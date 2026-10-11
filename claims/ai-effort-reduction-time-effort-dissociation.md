@@ -63,3 +63,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — reports the opposite
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
+- [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related

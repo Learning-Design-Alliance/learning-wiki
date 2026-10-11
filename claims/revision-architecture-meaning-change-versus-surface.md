@@ -47,3 +47,4 @@ Revision coding across the three cycles in the two-class quasi-experiment, shown
 - [Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records](reflective-uptake-fewer-misunderstandings.md) — related
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — a broader claim this one bears on
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
+- [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related

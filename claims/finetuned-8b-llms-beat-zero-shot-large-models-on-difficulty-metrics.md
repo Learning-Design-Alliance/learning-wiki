@@ -65,3 +65,5 @@ Authors' summary of the quantitative evaluation of stories generated across the 
 - [Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines](epi2diff-best-across-four-difficulty-benchmarks.md) — related
 - [Rewarded SFT produces the most stable outputs among the SFT designs, nearly free of hallucinations and story-irrelevant material](rewarded-sft-most-stable-outputs.md) — related
 - [SFT with simulated children's reading errors yields higher LM-PPL than other experiments, driven by brevity and post-story irrelevant content](simulated-errors-experiment-higher-lm-ppl.md) — related
+- [The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy](adapted-4b-outpaces-cloud-baselines-on-lexical-semantic-measures.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related

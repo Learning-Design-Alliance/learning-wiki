@@ -45,6 +45,7 @@ The article recommends that rather than presenting a generic explanation repeate
 
 - [Rich Library: Multimodal Resources](rich_library-multimodal_resources.md)
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
+- [Prioritize relevance, concision, and learner-interest alignment in scalable AI instructional video, selectively reintroducing human presence](prioritize-relevance-concision-over-human-likeness.md)
 
 ## Examples
 -

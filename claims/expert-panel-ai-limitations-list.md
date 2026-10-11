@@ -53,3 +53,4 @@ Expert-panel discussion at a facilitated online convening; the report records th
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
+- [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related

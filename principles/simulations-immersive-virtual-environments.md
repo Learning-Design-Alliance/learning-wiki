@@ -83,10 +83,12 @@ Simulations and immersive environments work when they let learners rehearse mean
 - [Guided Practice](guided-practice.md) — novice learners often need supported runs before independent performance.
 
 ## Examples
+
 - **Clinical decision simulator**: Learners diagnose, prioritize, and respond to a changing patient scenario.
 - **Virtual workplace rehearsal**: Learners practice safety, customer interaction, or troubleshooting in a modeled environment.
 - **Civic or historical simulation**: Learners make decisions within a constrained system and analyze outcomes.
 - [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Use AI-based simulations as low-risk environments for practising and making visible teacher noticing](../strategies/ai-simulations-low-risk-noticing-practice.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

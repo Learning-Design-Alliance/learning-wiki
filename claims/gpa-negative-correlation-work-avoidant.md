@@ -48,3 +48,4 @@ Correlation analysis (Table 3) among 48 students: work avoidant vs. GPA r=-.403,
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related
 - [Students in a project-based software development course are predominantly mastery-oriented, with mastery and combined mastery/ego-social the dominant profiles](mastery-dominant-orientation-project-based-software-course.md) — related
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — a broader claim this one bears on
+- [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related

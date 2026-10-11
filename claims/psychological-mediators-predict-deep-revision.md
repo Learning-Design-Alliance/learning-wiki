@@ -52,3 +52,4 @@ In the same PLS-SEM structural model (N = 327), Perceived Competence was also a 
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](sdt-path-strengths-effort.md) — a broader claim this one bears on
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
+- [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related

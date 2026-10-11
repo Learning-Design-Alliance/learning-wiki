@@ -73,3 +73,4 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
 - [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
+- [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related

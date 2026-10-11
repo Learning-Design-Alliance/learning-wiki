@@ -49,6 +49,8 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
+- [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
+- [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 
 ## Examples
 -

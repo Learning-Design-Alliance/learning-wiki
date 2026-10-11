@@ -41,6 +41,7 @@ Based on feedback that students increasingly use tools such as ChatGPT during pr
 
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Use MAPS-based reflection questions to prepare students to critique AI-generated physics solutions](maps-reflection-questions-prepare-ai-solution-critique.md)
 
 ## Examples
 -

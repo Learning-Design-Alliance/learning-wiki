@@ -41,6 +41,7 @@ This strategy is the authors' forward-looking recommendation from their comparat
 ## Related Strategies
 
 - [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
+- [Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act](gdpr-compliant-its-deployment-measures.md)
 
 ## Examples
 -

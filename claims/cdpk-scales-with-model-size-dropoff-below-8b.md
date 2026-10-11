@@ -53,3 +53,4 @@ Numerical analysis of CDPK accuracy against parameter count for open-weight mode
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — reports the opposite
 - [Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs](llm-scale-does-not-predict-tutor-safety.md) — related
 - [Model size did not correspond to higher scores in secondary science; small open-weight models outperformed significantly larger ones](model-size-did-not-predict-ngss-science-performance.md) — reports the opposite
+- [Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law](adaptation-gains-grow-with-model-capacity.md) — a narrower finding that bears on this claim

@@ -85,3 +85,4 @@ Mixed-model results for other-repetitions and negative feedback; negative feedba
 - [Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used](strategy-profiles-l2-other-repetition-l1-clarification.md) — related
 - [All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent](no-comprehension-checks-child-efl-nom.md) — related
 - [Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks](unfocused-tasks-more-confirmation-and-clarification-strategies.md) — related
+- [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related

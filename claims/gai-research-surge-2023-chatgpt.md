@@ -49,3 +49,4 @@ Descriptive bibliometric analysis of the review's 197-article corpus: 54% of art
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — a narrower finding that bears on this claim
 - [Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research](llm-chatbots-most-common-ai-online-he.md) — related
+- [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related

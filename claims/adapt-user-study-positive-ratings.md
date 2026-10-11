@@ -44,3 +44,4 @@ Mixed-methods user study with 12 participants (7 male, 5 female; average 12.83 y
 
 ## Related Claims
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
+- [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related

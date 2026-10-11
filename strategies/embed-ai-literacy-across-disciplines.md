@@ -47,6 +47,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
+- [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
 
 ## Examples
 -

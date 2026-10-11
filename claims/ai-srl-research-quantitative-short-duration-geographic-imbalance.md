@@ -47,3 +47,7 @@ The review's publication-characteristics analysis found "In total, 71% of studie
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied](ai-srl-studies-lack-srl-theory-zimmerman-most-used.md) — related
 - [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — related
+- [Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America](genai-children-creativity-research-geographic-concentration.md) — related
+- [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — a narrower finding that bears on this claim
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
+- [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite

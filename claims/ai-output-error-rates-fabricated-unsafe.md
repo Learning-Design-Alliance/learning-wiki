@@ -51,3 +51,6 @@ The paper cites two audits as evidence that AI errors exist in research and ever
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
+- [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
+- [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related

@@ -42,6 +42,7 @@ The article recommends that teachers, parents, and children use fine-tuned local
 ## Related Strategies
 
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
+- [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 
 ## Examples
 -

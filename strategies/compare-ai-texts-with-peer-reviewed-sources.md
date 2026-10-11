@@ -44,6 +44,7 @@ This strategy positions AI use inside a critical-comparison activity: learners e
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs](structured-integration-critical-evaluation-ai-physics.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Embed GenAI-focused reflection within self-assessment as a pedagogical strategy for ethical inquiry](embed-genai-reflection-within-self-assessment.md)
 
 ## Examples
 -

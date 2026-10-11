@@ -48,3 +48,4 @@ Qualitative thematic analysis (Braun and Clarke six-phase approach, NVivo-suppor
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race](pedagogical-burnout-detection-policing.md) — related
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

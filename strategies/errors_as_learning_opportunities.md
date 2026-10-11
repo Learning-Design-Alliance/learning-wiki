@@ -60,9 +60,11 @@ Errors carry diagnostic information: a wrong answer reveals a partially formed s
 6. Follow with a similar task so learners apply the corrected understanding immediately.
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — error analysis is a formative use of student response data
 - [Growth Mindset Framing](growth-mindset-framing.md) — the motivational frame that makes error exploration safe
 - [Case-Based Learning](../patterns/case-based-learning.md) — analyzing flawed reasoning in context parallels case discussion
+- [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](misconception-aware-contrastive-remediation-videos.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the mechanism through which error information reaches the learner

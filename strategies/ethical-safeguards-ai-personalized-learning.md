@@ -43,6 +43,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
+- [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 
 ## Examples
 -

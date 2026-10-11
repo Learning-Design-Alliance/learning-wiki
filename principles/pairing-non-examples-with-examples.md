@@ -75,10 +75,12 @@ Pairing non-examples with examples strengthens learning because contrast makes c
 - [Evaluating Sources](evaluating-sources.md) — source evaluation often relies on distinguishing valid from invalid or misleading examples.
 
 ## Examples
+
 - **Incorrect worked examples in algebra**: Learners compare a correct solution with a plausible but wrong one and explain the difference.
 - **Real versus fake source comparison**: Learners identify which source characteristics make one text credible and another misleading.
 - **Category boundary sort**: Learners sort cases into examples and non-examples, then justify the classification.
 - **Procedure contrast**: Learners compare a correct sequence of steps with an incorrect or incomplete one.
+- [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](../strategies/misconception-aware-contrastive-remediation-videos.md)
 
 ## Key Sources
 - Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3663](https://doi.org/10.1002/acp.3663)

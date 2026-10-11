@@ -45,3 +45,4 @@ Keyword co-occurrence network analysis using VOSviewer with fractional counting 
 ## Related Claims
 - [Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage](twitter-discourse-more-practice-oriented-than-policy-media.md) — related
 - [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
+- [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related

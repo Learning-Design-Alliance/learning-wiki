@@ -56,3 +56,6 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
 - [The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements](ai-anxiety-distinct-from-automation-anxiety.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
+- [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
+- [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
+- [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related

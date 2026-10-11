@@ -45,6 +45,7 @@ The article argues that because faculty and administrative staff use AI while al
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 
 ## Examples
 -

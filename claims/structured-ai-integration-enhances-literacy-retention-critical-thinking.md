@@ -53,3 +53,4 @@ This is the article's own concluding statement about its course-based study of A
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
+- [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related

@@ -67,3 +67,4 @@ Across 118 JoLs in the no-agent condition, confidence correlated negatively and 
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](jol-consistency-and-rating-evolution.md) — related
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
 - [Students' self-assessed question specificity was not significantly correlated with their observed specificity](students-miscalibrate-question-specificity.md) — related
+- [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related

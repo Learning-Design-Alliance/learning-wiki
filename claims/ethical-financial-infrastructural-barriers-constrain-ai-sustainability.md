@@ -48,3 +48,5 @@ Thematic synthesis finding across the 155 included studies in the barriers/susta
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
+- [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — related
+- [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related

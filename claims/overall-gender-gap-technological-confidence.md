@@ -50,3 +50,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
+- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related

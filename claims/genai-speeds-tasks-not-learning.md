@@ -56,3 +56,4 @@ The presenters assert this principle in their 'Questions about Learning with Gen
 - [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — a narrower finding that bears on this claim
 - [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
 - [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — related
+- [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related

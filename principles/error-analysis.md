@@ -131,9 +131,11 @@ Correct procedures, conceptual understanding, recall of a correction and comfort
 - [Foster Growth Mindset](growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
 
 ## Examples
+
 - **Erroneous Examples in Math**: Showing a student a hypothetical peer's calculation error and asking them to find and fix it.
 - **[Khan Academy Hints](https://www.khanacademy.org)** — Uses error-driven feedback where hints are tailored to specific common mistakes the learner makes.
 - **"Surprise" Quizzes**: Asking students to predict an outcome before a demonstration; the surprise of a wrong prediction triggers the hypercorrection effect.
+- [Misconception-aware contrastive remediation videos triggered by incorrect quiz answers](../strategies/misconception-aware-contrastive-remediation-videos.md)
 
 ## Key Sources
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)

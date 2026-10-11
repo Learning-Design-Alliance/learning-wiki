@@ -39,6 +39,7 @@ The authors outline future iterations of the instructional assistant: interactiv
 ## Related Strategies
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 
 ## Examples
 -

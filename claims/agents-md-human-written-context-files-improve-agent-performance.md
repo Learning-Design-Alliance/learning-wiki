@@ -43,4 +43,4 @@ The article reports this in Module 11's coverage of context engineering, citing 
 
 
 ## Related Claims
--
+- [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](cache-dominant-82-9-percent-tokens.md) — related

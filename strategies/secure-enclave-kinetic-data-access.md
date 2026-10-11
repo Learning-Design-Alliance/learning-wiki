@@ -38,6 +38,7 @@ The article recommends engineering better data access through secure enclaves: t
 ## Related Strategies
 
 - [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](dbir-ucd-privacy-preserving-lc-validation.md)
+- [Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act](gdpr-compliant-its-deployment-measures.md)
 
 ## Examples
 -

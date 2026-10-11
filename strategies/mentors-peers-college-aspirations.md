@@ -42,6 +42,7 @@ Recommendation 3 describes how high schools can help students build college-goin
 - [Engage Positive Role Models](engage_positive_role_models.md)
 - [Replace Negative Influences with Positive Ones](replace_negative_influences_with_positive_ones.md)
 - [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](college-explorer-with-goal-setting-and-parent-conferences.md)
+- [Career-centric reverse academic planning: start from a career aspiration and map backward to courses, credentials, and experiences using skills taxonomies](career-centric-reverse-academic-planning.md)
 
 ## Examples
 -
