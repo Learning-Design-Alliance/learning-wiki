@@ -45,3 +45,4 @@ Descriptive statistics (means and SDs) on the perception subscale, assessed only
 - [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
 - [GenAI-condition students rated their PBL tutorial significantly higher after the tutorial than they rated their previous ePBLM-based experiences, especially clinical accuracy](genai-virtual-patient-higher-perceived-tutorial-quality.md) — related
+- [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](mixed-student-perception-lata.md) — related

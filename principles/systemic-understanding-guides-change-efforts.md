@@ -18,7 +18,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The digest's central recommendation is that practitioners "must strive to guide all our change efforts with a systemic understanding of the context" in which they undertake them. Nevertheless, depending on the circumstance or as implementation progresses, it may be most effective to focus interventions on a particular component of the framework at a time. The sequence of models is explicitly not fixed.
@@ -41,6 +41,7 @@ The digest's central recommendation is that practitioners "must strive to guide 
 
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](../claims/tool-effectiveness-depends-on-context-configuration.md) [+W] — attached 2026-10-07 from Gilbert (1999), which proposed "Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign".
 - [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](../claims/magic-bullet-risk-selection-without-needs-assessment.md) [+W] — attached 2026-10-09 from Hale et al. (2017), which proposed "Start continuous improvement with the problem, not the solution".
+- [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](../claims/adaptive-shift-precedes-technical-restorative-success.md) [+W] — attached 2026-10-11 from Trout (2021), which proposed "Ramp up for a year or more on adaptive, relational, and structural work before formal technical restorative practices training"; tests this page's relationship.
 
 ## Related Principles
 - 

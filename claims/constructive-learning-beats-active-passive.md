@@ -91,3 +91,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — related
 - [The largest learning gain in the ICAP hierarchy occurs when moving from the Active to the Constructive mode](active-to-constructive-largest-leap.md) — related
 - [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related
+- [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related

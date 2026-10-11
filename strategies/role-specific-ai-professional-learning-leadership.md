@@ -53,6 +53,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Pair digital-infrastructure funding with blended-learning support and AI literacy training for students](pair-infrastructure-funding-with-ai-literacy-training-and-blended-support.md)
 - [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
 - [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
+- [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 
 ## Examples
 -

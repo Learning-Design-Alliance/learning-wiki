@@ -47,6 +47,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Use observable pedagogical variables as metadata to support teachers' explicit selection and integration of digital resources](metadata-variables-support-teacher-resource-selection.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Structure AI-assisted grading to shift TA effort from routine low-judgment decisions toward conceptually rich responses](shift-ta-effort-to-conceptually-rich-responses.md)
+- [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 
 ## Examples
 -

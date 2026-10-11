@@ -55,3 +55,4 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — related
 - [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — a narrower finding that bears on this claim
 - [Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class](detectors-fail-hybrid-authorship-texts.md) — a narrower finding that bears on this claim
+- [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [Expert annotators show high agreement on intervention appropriateness ratings](expert-annotator-high-agreement.md) — a narrower finding that bears on this claim
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related
+- [Model self-confidence gauges LLM confidence in probability estimates and helps identify when machine-generated scoring outputs are trustworthy](llm-self-confidence-identifies-trustworthy-scoring-outputs.md) — related

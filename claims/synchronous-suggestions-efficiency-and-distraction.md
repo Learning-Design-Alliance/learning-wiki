@@ -1,0 +1,73 @@
+---
+type: claim
+title: Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
+description: Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
+id: synchronous-suggestions-efficiency-and-distraction
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: michael-yin-2026
+    resource: "https://arxiv.org/abs/2605.24729"
+    title: "Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). \"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729"
+    author: Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
+  - id: michael-yin-2026-2
+    resource: "https://arxiv.org/abs/2605.24729"
+    title: "Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). \"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729"
+    author: Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+
+## Subclaims
+`q2 i?` Participants perceived synchronous suggestions as making writing more efficient by merging editing into the writing pass. [→ Michael Yin 2026](#michael-yin-2026)
+`q2 i?` Participants found immediate synchronous suggestions distracting and disruptive of their writing flow. [→ Michael Yin 2026 (2)](#michael-yin-2026-2)
+
+## Evidence
+
+### Michael Yin 2026
+
+Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). "It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729
+
+`q2 · i?` · `causal · r?`
+
+In the qualitative thematic analysis of interviews after the main writing task, participants in synchronous conditions described efficiency gains, e.g. "it's more efficient... get all of the editing out of the way as you're writing".
+
+> "it's more efficient... get all of the editing out of the way as you're writing"(P37)"
+
+### Michael Yin 2026 (2)
+
+Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). "It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729
+
+`q2 · i?` · `causal · r1`
+
+Interview data from the same user study showed synchronous pop-up suggestions disrupted flow; one participant said "If [AI suggestions] pops in, it's kind of distracting to see what it is saying".
+
+> ""If [AI suggestions] pops in, it's kind of distracting to see what it is saying"— P22"
+
+## Discussion
+
+
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
+## Related Claims
+- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
+- [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
+- [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related
+- [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
+- [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
+- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related

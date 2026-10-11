@@ -56,3 +56,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
+- [Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent](gsr-user-knowledge-personalization-requirements.md) — related

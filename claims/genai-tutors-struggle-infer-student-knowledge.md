@@ -45,3 +45,4 @@ The review's own synthesis of emerging evidence, citing two studies, that genera
 ## Related Claims
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
+- [Effective tutoring behavior emerges from the dynamic interaction of self-, user-, and context-knowledge rather than from isolated knowledge](gsr-knowledge-type-interdependencies.md) — related

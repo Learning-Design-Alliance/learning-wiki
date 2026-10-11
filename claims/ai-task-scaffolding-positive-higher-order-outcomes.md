@@ -51,3 +51,4 @@ Structural equation modeling of survey data from 533 Ghanaian university student
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](sem-genai-dependence-positive-paths-creativity.md) — related
 - [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related

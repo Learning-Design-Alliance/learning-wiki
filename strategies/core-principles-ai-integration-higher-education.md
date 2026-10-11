@@ -57,6 +57,8 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 - [Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence](design-ai-integrated-ethical-business-education-models.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
+- [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 
 ## Related Principles
 - 

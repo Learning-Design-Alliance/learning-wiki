@@ -48,3 +48,4 @@ Ablation study on one data split (Table 2) varying training stages and profile i
 - [Knowledge and behavior profile components provide complementary signals: removing either hurts metrics tied to the other](knowledge-behavior-profile-complementary-signals.md) — related
 - [ProfileRL outperforms prompting and fine-tuning baselines on turn-level student simulation, with statistically significant gains on Acts, Correctness, and Errors](profilerl-outperforms-student-simulation-baselines.md) — related
 - [Removing the DPO objective reduces examination accuracy by 1.11 percentage points and degrades annotated pedagogical quality](dpo-training-contributes-accuracy-and-pedagogical-tone.md) — related
+- [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) — related

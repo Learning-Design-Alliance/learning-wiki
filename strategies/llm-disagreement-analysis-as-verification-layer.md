@@ -39,6 +39,7 @@ The article recommends running an LLM redaction pass alongside human de-identifi
 ## Related Strategies
 
 - [Use an operationally separate honest broker to perform linkage and de-identification](honest-broker-role-separation-workflow.md)
+- [Two-pass LLM validation with solution-key comparison and focused manual review of divergent pages](two-pass-llm-validation-grading-workflow.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
 - [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related
 - [Text mining of 69 Scopus documents on ChatGPT in programming education identifies four dominant research themes](text-mining-four-themes-chatgpt-programming-education.md) — related
+- [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related

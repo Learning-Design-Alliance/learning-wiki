@@ -45,3 +45,4 @@ Transcript analysis of student–chatbot dialogues from the same 150-student ses
 ## Related Claims
 - [Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter](question-specificity-correlates-expected-grade.md) — related
 - [Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection](chatbot-used-as-study-aid-not-socratic-reflection.md) — related
+- [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related

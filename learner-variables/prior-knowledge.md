@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (35 for, 17 mixed, 7 against) · 51 studies (15 causal, 11 review, 8 associational, 7 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 51 report an effect size · 51 claims rest on one study
+> **Evidence** · 65 claims (36 for, 20 mixed, 9 against) · 54 studies (16 causal, 12 review, 9 associational, 7 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 54 report an effect size · 57 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -92,6 +92,12 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Connective density in student-written essay segments was negatively correlated with prior knowledge and not with number of prompts](../claims/connective-density-correlates-prior-knowledge-not-prompts.md) [+M] — learners who differ on it differ in outcomes
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](../claims/volume-based-offloading-profiles-prior-knowledge-authorship.md) [+M] — learners who differ on it differ in outcomes
 - [Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge](../claims/fluent-authority-trust-miscalibration.md) [~W] — an instructional effect differs with it
+- [%KBR correlated with prior knowledge only among high-prior students, not among low-prior students](../claims/kbr-prior-correlation-only-high-prior.md) [~M] — learners who differ on it differ in outcomes
+- [GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study](../claims/gpa-prior-knowledge-do-not-moderate-llm-gains.md) [-M] — an instructional effect differs with it
+- [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](../claims/low-prior-high-kbr-match-high-prior-peers.md) [~M] — an instructional effect differs with it
+- [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses](../claims/prior-knowledge-does-not-predict-kbr.md) [-M] — learners who differ on it differ in outcomes
+- [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](../claims/prior-knowledge-trust-calibration-moderators.md) [+M] — an instructional effect differs with it
+- [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](../claims/procedural-prior-predicts-conceptual-post.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

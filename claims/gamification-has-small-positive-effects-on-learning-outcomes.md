@@ -70,3 +70,4 @@ gamified vocabulary practice.
 - [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](element-1107-three-deficiencies-method-of-instruction.md) — related
 - [Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study](gameful-assessments-higher-student-satisfaction.md) — a narrower finding that bears on this claim
 - [The corrected effect size for online tutoring plus game was g = +.47 (95% CI (+.23, +.70)), larger than the g = .26 reported for face-to-face elementary math tutoring](corrected-effect-size-047-online-tutoring.md) — related
+- [Academic LMS gamification centers on the PBL triad and relies heavily on extrinsic motivation](lms-gamification-pbl-triad-extrinsic-motivation.md) — related

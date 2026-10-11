@@ -41,7 +41,8 @@ Based on identified gaps, the review recommends that future reviews use "broader
 - long-term effects of AI support
 
 ## Related Strategies
-- 
+
+- [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
 
 ## Examples
 -

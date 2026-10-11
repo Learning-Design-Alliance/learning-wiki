@@ -42,6 +42,7 @@ The article positions learning analytics as supporting, not replacing, human rev
 ## Related Strategies
 
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
+- [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
 
 ## Examples
 -

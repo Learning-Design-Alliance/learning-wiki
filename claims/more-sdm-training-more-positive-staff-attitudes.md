@@ -48,3 +48,4 @@ Correlational analysis of survey data from 303 staff in 35 of the 40 pilot schoo
 - [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](role-awareness-attributable-to-team-membership.md) — related
 - [Most staff (70.2%) doubted their school's resources were adequate for the SDM, and perceived resource inadequacy was strongly associated with less positive attitudes toward the model](perceived-resource-inadequacy-lowers-sdm-attitudes.md) — related
 - [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related
+- [Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers](no-formal-training-lower-positive-genai-beliefs.md) — related

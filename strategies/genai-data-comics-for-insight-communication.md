@@ -42,7 +42,8 @@ The article recommends exploring data comics, co-created with GenAI, as a scalab
 - comprehension of data insights
 
 ## Related Strategies
-- 
+
+- [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
 
 ## Examples
 -

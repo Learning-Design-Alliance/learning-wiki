@@ -46,3 +46,4 @@ Exploratory analysis connecting survey results to dialogue features in the same 
 - [Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter](question-specificity-correlates-expected-grade.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](students-rarely-ask-specific-questions.md) — related

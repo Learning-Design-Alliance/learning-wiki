@@ -45,3 +45,4 @@ The review reports, citing Ng (2024) and Fig. 2.2, that "benchmark results on ta
 ## Related Claims
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
+- [React-ADDIE, integrating the ADDIE framework with ReAct-style reasoning, achieves the highest benchmark performance (86.49), outperforming pure theory-based agents and technique-only baselines](react-addie-highest-isd-benchmark-performance.md) — a narrower finding that bears on this claim

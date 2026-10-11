@@ -46,3 +46,4 @@ Descriptive geographical analysis of the review's corpus: because some studies i
 - [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — reports the opposite
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — reports the opposite
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
+- [Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors](ai-pl-review-geographic-spread.md) — related

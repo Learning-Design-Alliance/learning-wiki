@@ -65,3 +65,4 @@ Correlations between factor score and demographic variables in the same survey. 
 - [In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association](practice-codes-correlate-strongest-with-orientation-factor.md) — related
 - [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
+- [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related

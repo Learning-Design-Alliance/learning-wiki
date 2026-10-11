@@ -72,3 +72,5 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning](ai-roles-across-instructional-stages.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related
+- [Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools](turkish-prompts-yield-poorer-edbl-alignment-than-english.md) — related

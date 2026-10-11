@@ -49,3 +49,4 @@ The presentation reports this second-hand, citing Lauren Leffer's piece "Humans 
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
+- [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](critical-technical-gap-k12-ml-activities.md) — related

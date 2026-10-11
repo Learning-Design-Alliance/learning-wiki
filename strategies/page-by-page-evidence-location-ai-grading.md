@@ -37,7 +37,8 @@ In Round II the AI was asked to grade submissions page by page and record where 
 - Accurate and auditable AI-assisted scoring of lengthy handwritten physics work
 
 ## Related Strategies
-- 
+
+- [Two-pass LLM validation with solution-key comparison and focused manual review of divergent pages](two-pass-llm-validation-grading-workflow.md)
 
 ## Examples
 -

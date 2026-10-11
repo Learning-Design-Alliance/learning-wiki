@@ -50,3 +50,4 @@ Conceptual analysis of cognitive offloading risks (Section 5.4). The authors arg
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](substitutive-duplicative-offloading-outcomes.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
+- [LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs](gai-scaffolding-reconceptualised-epistemic-regulation.md) — a narrower finding that bears on this claim

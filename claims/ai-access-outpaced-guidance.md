@@ -67,3 +67,6 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
 - [Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy](genai-use-driven-by-usefulness-not-policy.md) — related
+- [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
+- [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related
+- [University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language](university-ai-policies-weak-directive-language.md) — related

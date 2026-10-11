@@ -86,3 +86,4 @@ Audit finding from the Results section: C1 scored 0% at zero, 21% at one, and 79
 - [Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure](detailed-disclosure-increases-confidence-data-collected.md) — related
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
+- [University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language](university-ai-policies-weak-directive-language.md) — related

@@ -80,11 +80,13 @@ Flipped learning works because it reallocates scarce, socially rich classroom ti
 5. Close with individual or group [Reflection](../elements/reflection.md) connecting the applied work back to the pre-class concepts
 
 ## Related Strategies
+
 - [Blended Learning](../patterns/blended-learning.md) — flipped learning is a specific, time-swap form of blending online and face-to-face modes
 - [Peer Instruction](peer-instruction.md) — a common in-class activity structure used inside flipped classrooms
 - [Active Learning](../principles/active-learning.md) — the in-class half of the flip depends on these techniques to produce gains
 - [Just-in-Time Teaching](just-in-time-teaching.md) — uses pre-class responses to shape the day's lesson
 - [Problem-Based Learning](problem-based-learning.md) — an alternative use of freed class time
+- [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 
 ## Examples
 - **[Clintondale High School](https://flippedhighschool.com) (Michigan)** — flipped its entire curriculum school-wide; failure rates dropped substantially (reported ~33% in some subjects) in the first year.

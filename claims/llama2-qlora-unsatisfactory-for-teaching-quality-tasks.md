@@ -45,3 +45,4 @@ Model-choice comparison across BERT, DistilBERT, XLNet, RoBERTa, and Llama2-7B f
 ## Related Claims
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
+- [IKS-Instruct fine-tuning is necessary for IKS pedagogical capability: a compact 7B fine-tune reaches a median judge score of 6.39, within 0.15 of a general-purpose reference, while the base model scores near zero on IKS-specific dimensions](iks-instruct-finetuning-necessary-for-iks-pedagogical-capability.md) — related

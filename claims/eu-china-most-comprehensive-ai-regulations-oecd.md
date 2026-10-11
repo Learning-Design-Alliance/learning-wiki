@@ -48,3 +48,4 @@ Comparative policy analysis of 11 AI regulatory documents coded by two independe
 - [US AI regulation shifted dramatically in early 2025: the AI Bill of Rights and Executive Order 14110 were revoked and replaced by a deregulation-focused executive order](us-ai-policy-shift-deregulation-2025.md) — related
 - [The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics](eu-emotion-recognition-ban-limits-la-applications.md) — related
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
+- [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related

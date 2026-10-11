@@ -41,6 +41,7 @@ The report recommends that future research broaden scope to include detailed des
 ## Related Strategies
 
 - [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
+- [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
 
 ## Examples
 -

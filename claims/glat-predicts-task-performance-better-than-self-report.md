@@ -44,3 +44,4 @@ Criterion evidence from the GLAT validation study (Jin et al., 2025) as reported
 
 ## Related Claims
 - [Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum](assessment-instruments-gap-stages-0-1-4.md) — related
+- [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related

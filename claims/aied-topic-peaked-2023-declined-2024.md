@@ -54,3 +54,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
+- [The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements](ai-anxiety-distinct-from-automation-anxiety.md) — related

@@ -46,3 +46,4 @@ Planned contrasts on Task 2 accuracy-per-minute measures in the N=398 between-pa
 - [Engage-to-Unlock improved error-classification accuracy over Standard Chatbot but showed no significant advantage in overall judgment accuracy or complete diagnosis](engage-to-unlock-error-classification-advantage.md) — related
 - [Time-matched unlocking did not reproduce the engagement state that triggered unlocks: most Time-Matched Unlock participants received access before meeting the discourse criteria](time-matched-unlock-does-not-reproduce-engagement-state.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
+- [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related

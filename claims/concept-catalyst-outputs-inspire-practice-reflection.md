@@ -69,3 +69,4 @@ Author interpretation from the Discussion of the same study: most teachers began
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](woz-study-positive-teacher-feedback-concept-catalyst-framework.md) — a broader claim this one bears on
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](teacher-self-regulated-reflection-with-ai.md) — related
+- [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation](ai-warmups-activate-prior-knowledge-solution-generation.md) — related

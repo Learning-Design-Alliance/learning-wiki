@@ -51,6 +51,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ The article's conceptual analysis enumerates three challenge domains, citing pri
 - [Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research](ai-epistemic-dependence-diffuse-accountability.md) — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
+- [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related

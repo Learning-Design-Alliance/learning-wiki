@@ -1,0 +1,53 @@
+---
+type: claim
+title: Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment
+description: Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment
+id: ai-enhances-adult-learner-autonomy
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: moderate
+sources:
+  - id: jinhee-kim-2026
+    resource: "https://doi.org/10.1007/s11423-026-10621-2"
+    title: "Jinhee Kim, Xi Lin, Seongryeong Yu, Rita Detrick. (2026). Adult learners' perspectives of AI applications in supporting andragogy. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10621-2"
+    author: Jinhee Kim, Xi Lin, Seongryeong Yu, Rita Detrick
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
+---
+
+# Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
+
+## Subclaims
+`q2 i?` Adult learners expect AI to offer multiple pathways, adaptable learning spaces, monitoring dashboards for metacognitive reflection, and analytics-based self-assessment while they retain control over reflection and judgment. [→ Jinhee Kim 2026](#jinhee-kim-2026)
+
+## Evidence
+
+### Jinhee Kim 2026
+
+Jinhee Kim, Xi Lin, Seongryeong Yu, Rita Detrick. (2026). Adult learners' perspectives of AI applications in supporting andragogy. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10621-2
+
+`q2 · i?` · `qualitative · r3`
+
+In the same interview study's autonomy theme, participants described AI providing multiple pathways to the same goal (P3), flexible spaces balancing independent study and collaboration (P12), and dashboards revealing learning patterns (P10); one wanted AI that "shows me where I stand without judging me" (P11).
+
+> "ALs also expect AI to enhance their autonomy by offering choices, creating flexible learning spaces, and promoting metacognitive awareness."
+
+## Discussion
+
+
+## Related Claims
+- [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](lad-dominant-system-type-lecturer-decision-support.md) — related
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related

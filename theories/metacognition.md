@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 6 studies (3 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 5 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -47,6 +47,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](../claims/subjective-expectations-drive-offloading.md) [+W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Nelson and Narens's dynamic metacognitive model applied to cognitive offloading: object level and meta level with monitoring and control"; tests this page's relationship.
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](../claims/feedback-effects-on-offloading-mixed.md) [~W] — attached 2026-10-10 from Yufei Guo et al. (2026), which proposed "Nelson and Narens's dynamic metacognitive model applied to cognitive offloading: object level and meta level with monitoring and control"; tests this page's relationship.
 - [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](../claims/speedup-illusion-ai-assisted-time-underestimation.md) [+W] — attached 2026-10-10 from Sunny Yu et al. (2026), which proposed "Asymmetric miscalibration account of cognitive offloading to AI (the speedup illusion framework)".
+- [Students' self-assessed question specificity was not significantly correlated with their observed specificity](../claims/students-miscalibrate-question-specificity.md) [~W] — attached 2026-10-11 from Hyoungwook Jin et al. (2026), which proposed "The pathway to targeted help-seeking: three metacognitive skills"; tests this page's relationship.
 
 ## Related Theories
 

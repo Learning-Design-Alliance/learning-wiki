@@ -71,3 +71,4 @@ Findings from the same WoZ interview study, in the diversity/efficiency results 
 - [Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification](concept-catalyst-scaffold-quality-relevant-but-needs-editing.md) — related
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](woz-study-positive-teacher-feedback-concept-catalyst-framework.md) — related
 - [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
+- [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related

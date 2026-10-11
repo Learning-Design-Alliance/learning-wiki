@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (31 for, 5 mixed, 3 against) · 43 studies (14 causal, 8 quant-synthesis, 7 review, 5 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 43 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (33 for, 5 mixed, 3 against) · 44 studies (15 causal, 8 quant-synthesis, 7 review, 5 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 44 report an effect size · 37 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -72,6 +72,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](../claims/gaze-assistance-smaller-attention-transition.md) [+M] — instruction changes it
 - [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](../claims/step-linked-visualization-externalizes-reasoning.md) [+M] — instruction changes it
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](../claims/propact-feedback-increases-jva-post-intervention.md) [+M] — instruction changes it
+- [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](../claims/synchronous-suggestions-efficiency-and-distraction.md) [+M] — instruction changes it
+- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](../claims/agentic-cursor-evokes-surveillance-and-eeriness.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

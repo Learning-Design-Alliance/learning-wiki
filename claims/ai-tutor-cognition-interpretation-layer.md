@@ -44,3 +44,4 @@ A conceptual design claim from Section 5.2, not an empirical test. The article s
 
 ## Related Claims
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — reports the opposite
+- [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related

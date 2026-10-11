@@ -52,3 +52,5 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
+- [Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use](heterogeneous-ai-use-profiles-extractive-modal-pattern.md) — a narrower finding that bears on this claim
+- [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related

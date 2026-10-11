@@ -50,3 +50,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [Practitioners who adopt AI assistance show reduced independent performance compared to their baseline](ai-adoption-reduced-independent-practitioner-performance.md) — related
 - [Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them](surface-validation-works-substantive-validation-fails.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
+- [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — related

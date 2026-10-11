@@ -51,3 +51,4 @@ The article reports, citing Prather et al., an eye-tracking and think-aloud stud
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [Dual-threshold instability: accelerated breakdown when internal generative engagement and genAI reliability both fall below task demands](dual-threshold-instability-hybrid-cognition.md) — related
+- [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — possibly the same claim (merge candidate)

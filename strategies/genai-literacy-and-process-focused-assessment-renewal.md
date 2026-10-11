@@ -41,7 +41,9 @@ Rather than relying on detectors as gatekeeping mechanisms, the article recommen
 - transparent authorship practices
 
 ## Related Strategies
-- 
+
+- [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
+- [Institutional recommendations: shift from detection to process-oriented assessment, transparent AI-use protocols, and revised integrity policies](institutional-gai-process-assessment-recommendations.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Pre–post survey of 46 conference workshop participants (pre n = 42, post n = 4
 - [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](global-change-holistic-and-local-analysis-challenge.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related

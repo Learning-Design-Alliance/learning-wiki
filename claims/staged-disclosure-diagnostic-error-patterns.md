@@ -47,3 +47,4 @@ Manual inspection of randomly sampled trajectories illustrating five divergence 
 - [Students mostly used the workflow as an early-stage scaffold, and 73.4% of target-level changes after early-stage exits incorporated the hidden target without explicit correction being disclosed](early-stage-exit-incorporation.md) — related
 - [Feedback comprehension showed the strongest bivariate association with revision quality, and indirect associations through actionability and comprehension remained positive after adjustment](comprehension-strongest-link-revision-quality.md) — related
 - [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](staged-feedback-survey-perceptions.md) — related
+- [In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use](llm-agent-response-quality-evaluation.md) — related

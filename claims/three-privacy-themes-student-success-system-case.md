@@ -49,3 +49,4 @@ Inductive open coding of nine interviews with eight individuals plus 53 institut
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent](gsr-user-knowledge-personalization-requirements.md) — related

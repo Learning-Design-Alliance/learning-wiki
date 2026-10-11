@@ -48,6 +48,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 - [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
+- [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 
 ## Examples
 -

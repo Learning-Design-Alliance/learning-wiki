@@ -66,9 +66,11 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Cognitive Load Reduction (CLT + Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Examples
+
 - A math platform raises problem complexity after consistent accuracy and lowers it after repeated errors
 - A language app adjusts item difficulty based on recent response patterns
 - An instructor offers increasingly open-ended prompts as learners demonstrate competence
+- [Design adaptive teachable agents that promote sustained knowledge-building responses so learners of any prior knowledge can benefit](../strategies/adaptive-teachable-agents-sustained-knowledge-building.md)
 
 ## Key Sources
 - Corbalan, G., Kester, L., & van Merriënboer, J. J. G. (2008). Selecting learning tasks: Effects of adaptation and shared control on learning efficiency and task involvement. *Contemporary Educational Psychology, 33*(4), 733-756. [https://doi.org/10.1016/j.cedpsych.2008.02.003](https://doi.org/10.1016/j.cedpsych.2008.02.003)

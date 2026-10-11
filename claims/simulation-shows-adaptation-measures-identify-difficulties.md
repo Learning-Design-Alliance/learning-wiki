@@ -45,3 +45,4 @@ Simulation study applying the three measures to adaptive, multistage, and fixed 
 ## Related Claims
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
 - [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](adaptive-learning-engine-of-personalization.md) — related

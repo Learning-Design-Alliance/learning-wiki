@@ -62,3 +62,4 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
 - [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
 - [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related
+- [Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)](offloading-mediation-lower-independent-hot.md) — related

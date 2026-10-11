@@ -93,3 +93,4 @@ The review reports Qushem et al.'s (2022) finding on dosage when the tutoring sy
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](self-efficacy-with-sustained-effort-better-achievement.md) — related
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
 - [Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days](educlaw-bench-plateau-within-days.md) — related
+- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — related

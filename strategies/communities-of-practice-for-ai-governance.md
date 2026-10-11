@@ -74,6 +74,9 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](dialogic-spaces-genai-negotiation.md)
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
+- [Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories](classify-ai-tools-by-governance-mechanism.md)
+- [Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well](educative-shift-genai-integrity-policy.md)
+- [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 
 ## Examples
 -
