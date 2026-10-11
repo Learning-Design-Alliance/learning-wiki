@@ -52,3 +52,4 @@ LOOCV evaluation (52 folds, fold-specific preprocessing and Mann-Whitney U featu
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](cross-semester-auc-decline-without-retraining.md) — related
 - [Logistic Regression and linear-kernel SVM achieve the highest accuracy (99%) among five classifiers predicting student withdrawal/cancellation at SISTC](lr-linear-svm-highest-accuracy-dropout-prediction.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related

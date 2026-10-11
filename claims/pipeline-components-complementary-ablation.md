@@ -111,3 +111,4 @@ Baseline D generates books from 200 failed TOCs, evaluated with the same judge a
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
 - [NCERT-tailored RAG preprocessing and figure-aware indexing improve retrieval precision over a generic-chunking baseline, per the authors' assertion](ncert-tailored-rag-improves-retrieval-precision.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](ablation-metadata-embeddings-largest-accuracy-drop.md) — related

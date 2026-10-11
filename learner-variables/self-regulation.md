@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (68 for, 19 mixed, 8 against) · 72 studies (19 associational, 15 review, 14 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 72 report an effect size · 87 claims rest on one study
+> **Evidence** · 96 claims (69 for, 19 mixed, 8 against) · 73 studies (20 associational, 15 review, 14 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 73 report an effect size · 88 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -128,6 +128,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](../claims/exp2-signed-metacognitive-bias-not-replicated.md) [-M] — instruction changes it
 - [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant](../claims/metacognitive-feedback-disrupts-repeated-answer-offloading.md) [+M] — instruction changes it
 - [Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance](../claims/metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) [+M] — instruction changes it
+- [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](../claims/request-dominance-monitoring-evaluate-absent.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

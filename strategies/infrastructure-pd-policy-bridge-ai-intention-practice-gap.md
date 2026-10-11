@@ -44,6 +44,7 @@ The article recommends that effective AI integration in science education requir
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 
 ## Examples
 -

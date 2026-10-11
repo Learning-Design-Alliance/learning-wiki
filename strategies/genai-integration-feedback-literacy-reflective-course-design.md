@@ -46,6 +46,7 @@ The article draws a practical implication for universities: because the associat
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
+- [Design GenAI governance and cross-role contact around integrity disputes, the principal site of sustained faculty-student contact](genai-governance-cross-role-contact-design.md)
 
 ## Examples
 -

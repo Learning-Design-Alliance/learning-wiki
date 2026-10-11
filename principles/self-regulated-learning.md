@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 19 studies (5 causal, 5 quant-synthesis, 3 review, 3 associational, 3 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 22 studies (8 causal, 5 quant-synthesis, 3 review, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +73,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](../claims/srl-uneven-only-execution-monitoring-predicts-gains.md) [~M] — attached 2026-10-10 from Chen C et al. (2026), which proposed "Align teacher feedback with automated feedback in timing and individuation to support planning and emotional regulation".
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](../claims/msr-mediation-ai-interaction-outcomes.md) [+W] — attached 2026-10-10 from Davor I et al. (2026), which proposed "Design AI-supported learning so that students actively regulate and scaffold their engagement rather than offload cognition"; tests this page's relationship.
 - [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](../claims/srl-strategies-associated-lower-digital-distraction.md) [+W] — attached 2026-10-10 from Shi et al. (2025), which proposed "Embed explicit self-regulation training and self-control tools in online courses to foster lower digital distraction".
+- [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](../claims/reflection-reduces-incorrect-ai-advice-acceptance.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Insert a brief pre-decision metacognitive reflection prompt after AI consultation to promote discriminative reliance on AI advice"; tests this page's relationship.
+- [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](../claims/reflection-selective-not-blanket-ai-rejection.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Insert a brief pre-decision metacognitive reflection prompt after AI consultation to promote discriminative reliance on AI advice"; tests this page's relationship.
+- [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Insert a brief pre-decision metacognitive reflection prompt after AI consultation to promote discriminative reliance on AI advice"; tests this page's relationship.
+- [APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration](../claims/apca-improves-self-assessment-accuracy-overconfidence.md) [~W] — attached 2026-10-11 from Dai (2026), which proposed "Embed AI writing tools within instructional support structures rather than treating them merely as instant feedback sources"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

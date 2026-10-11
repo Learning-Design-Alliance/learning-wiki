@@ -51,3 +51,4 @@ The review's methodological appraisal of the 75 included papers reports "substan
 - [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — a broader claim this one bears on
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — a broader claim this one bears on
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
+- [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related

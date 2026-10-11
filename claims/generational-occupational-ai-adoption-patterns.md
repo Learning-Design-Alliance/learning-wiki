@@ -47,3 +47,4 @@ The brief reports, as a narrative review statement without printed statistics, t
 - [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption](early-career-employment-decline-ai-exposed-occupations.md) — related
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related

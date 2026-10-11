@@ -65,3 +65,5 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — related
+- [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
+- [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related

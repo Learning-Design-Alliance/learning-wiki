@@ -83,3 +83,4 @@ Student account in the ethics theme describing discussing new concepts with AI. 
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — related
 - [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
+- [Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit](human-epistemic-accountability-boundary-conditions.md) — a broader claim this one bears on

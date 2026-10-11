@@ -81,3 +81,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
 - [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — a broader claim this one bears on
+- [GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices](four-unit-genai-support-ecosystem.md) — related

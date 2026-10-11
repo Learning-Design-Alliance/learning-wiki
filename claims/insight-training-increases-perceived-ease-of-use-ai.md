@@ -53,3 +53,4 @@ Paired-samples t-test on the SAELKIS PEOU subscale in the same pilot pre-post ev
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — related
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related
+- [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related

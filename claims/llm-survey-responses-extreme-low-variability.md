@@ -69,3 +69,4 @@ Item-level variance comparison across all conditions shown in Figure 4. The arti
 - [At the test level, only Claude with interview or demographic prompts improved alignment on the relative autonomy index](test-level-rai-only-claude-improved.md) — related
 - [LLMs use fewer extreme grades than human examiners, with grade-dependent opposing biases compressing grades toward the middle](llm-central-tendency-grade-compression.md) — related
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — a narrower finding that bears on this claim
+- [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related

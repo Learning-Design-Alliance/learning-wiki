@@ -67,3 +67,5 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized](ai-overreliance-pitfalls-chemistry-experimentation.md) — a broader claim this one bears on
+- [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — related
+- [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related

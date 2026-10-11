@@ -45,3 +45,4 @@ In the semantic similarity judgment task following the PLDT, each of ten studied
 ## Related Claims
 - [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — related
 - [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a broader claim this one bears on
+- [Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy](shot-selection-originality-similarity-tradeoff.md) — related

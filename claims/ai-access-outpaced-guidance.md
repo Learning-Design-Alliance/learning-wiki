@@ -72,3 +72,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language](university-ai-policies-weak-directive-language.md) — related
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — reports the opposite

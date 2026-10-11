@@ -52,3 +52,5 @@ Same PLS-SEM survey study (n = 548); the structural path from AI-TPACK to scienc
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related
+- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related

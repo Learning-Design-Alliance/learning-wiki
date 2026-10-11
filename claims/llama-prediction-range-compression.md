@@ -50,3 +50,4 @@ Prediction frequency distribution analysis (Table 6) on the 360-essay held-out t
 - [LoRA adaptation adds only 0.6M trainable parameters on an 86.4M frozen backbone, keeping methods lightweight relative to LLM-based scoring](lora-parameter-efficiency-drawing-scoring.md) — related
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — related
 - [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — related
+- [Fine-tuned PLMs exhibit label compression toward mid-scale QoF scores, never predicting extreme labels 1 and 7](plm-label-compression-qof-extremes.md) — related

@@ -67,3 +67,4 @@ Participant quote (P14) within the divergent-attitudes theme. Academics recognis
 - [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](faculty-four-ai-attitude-profiles.md) — a broader claim this one bears on
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related

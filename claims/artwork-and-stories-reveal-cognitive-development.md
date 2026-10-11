@@ -47,3 +47,4 @@ Authors' interpretation in the Implications section, drawing on Protherough's (1
 - [For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification](literacy-development-parallels-cognitive-stage-in-first-graders.md) — a narrower finding that bears on this claim
 - [Concrete-operational/schematic-stage students were reading chapter books while preoperational/preschematic students were not or were nonreaders](cognitive-art-stage-alignment-predicts-chapter-book-reading.md)
 - [Artists in extended drawing serials develop abstract, lasting conceptualizations about their art](drawing-serials-foster-abstract-artistic-myths.md) — related
+- [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — a narrower finding that bears on this claim

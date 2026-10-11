@@ -47,6 +47,7 @@ The article recommends that professional development move beyond tool demonstrat
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
+- [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 
 ## Examples
 -

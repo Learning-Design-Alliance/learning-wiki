@@ -49,3 +49,5 @@ Document analysis applying 15 fixed vignettes to the public policy environments 
 - [Process-only AI assistance produces more indeterminate classifications than uses retaining AI-generated text](process-only-assistance-more-indeterminate-than-retained-text.md) — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
+- [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
+- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related

@@ -66,6 +66,7 @@ Engaged time on appropriately challenging tasks is one of the most consistent co
 - [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
 - [Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation](immediate-ai-comparison-after-manual-estimation-pacing.md)
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
+- [A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance](five-moment-q-learning-lesson-plan.md)
 
 ## Examples
 - **Direct Instruction (Engelmann)** — tightly scripted lesson pacing with rapid teacher–student exchanges and choral responses, engineered to maximize academic learning time per minute; see the [Direct Instruction](../patterns/direct-instruction.md) pattern.

@@ -53,3 +53,4 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](capability-oriented-design-dimension.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
+- [Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time](teachers-positive-llm-robot-system-feedback.md) — reports the opposite

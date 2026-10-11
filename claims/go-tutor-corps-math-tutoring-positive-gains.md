@@ -48,3 +48,4 @@ Quasi-experimental analysis within a larger multi-site evaluation, matching 177 
 - [Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6](tsi-virtual-tutoring-ela-effect-0-48.md) — related
 - [Symphony Math students made greater math achievement gains than district peers (effect size +0.30)](symphony-math-star-math-gains-030.md) — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
+- [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related

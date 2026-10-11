@@ -70,3 +70,5 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
 - [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related
+- [Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities](cognitive-dependency-discourse-faculty-driven.md) — related
+- [In higher education, the purported Silicon Valley revolution is undermined by detrimental effects on academic integrity and erosion of evidence-based pedagogical practices, compounded by the prevailing crisis of higher education](gai-undermines-academic-integrity-and-evidence-based-pedagogy.md) — related

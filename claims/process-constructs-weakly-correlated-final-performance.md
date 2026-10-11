@@ -47,3 +47,4 @@ withaggregateﬁnalperformance."
 ## Related Claims
 - [Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions](authorship-distinct-performance-dimension.md) — related
 - [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related
+- [Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience](prompt-baseline-quality-not-scaled-with-experience.md) — related

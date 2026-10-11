@@ -50,3 +50,4 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — a broader claim this one bears on
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
+- [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related

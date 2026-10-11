@@ -60,3 +60,4 @@ At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [An LLM-based educational agent-enriched learning context improved task performance in most experimental classes but not all, with one experimental class underperforming the control on the complex task](dbagent-improves-achievement-mostly.md) — related
+- [Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone](teacher-training-improves-numeracy-gains-aied-u-no-additional.md) — related

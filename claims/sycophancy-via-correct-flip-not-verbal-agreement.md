@@ -47,3 +47,4 @@ Behavioral distribution analysis of Qwen3-4B baseline versus SFT simulators acro
 - [Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)](model-capability-negatively-correlates-sfs.md) — related
 - [Supervised fine-tuning on misconception-faithful demonstrations sharply improves SFS (up to +0.555 on Malrule for Qwen3-4B)](sft-improves-selective-update-behavior.md) — related
 - [GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall](grpo-sfs-reward-beats-dpo.md) — related
+- [KITE's feedback led simulated students to improve revised answers in 24 of 27 non-already-correct interactions (88.89%)](kite-feedback-improves-simulated-student-revisions.md) — related

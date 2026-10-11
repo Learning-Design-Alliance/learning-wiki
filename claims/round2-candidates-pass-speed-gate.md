@@ -63,3 +63,4 @@ The results section states the round-2 outcome in the authors' words: "Nemo 12B 
 
 ## Related Claims
 - [Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1](larger-generators-fail-classroom-speed-gate.md) — related
+- [Head-to-head comparison exposes a security-usability-latency tension: NeMo reaches 0% bypass at 16.22% FPR and ~1.5 s latency while Prompt Guard yields 38.48% bypass at 3.60% FPR](nemo-prompt-guard-tradeoff-holdout.md) — related

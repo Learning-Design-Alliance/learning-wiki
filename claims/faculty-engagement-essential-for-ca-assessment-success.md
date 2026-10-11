@@ -47,3 +47,4 @@ Cross-case qualitative finding (RQ2-3) from documents, interviews, and cognitive
 - [CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education](ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — related
+- [RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure](rail-ed-integrative-failure-modes.md) — related

@@ -56,3 +56,5 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related
 - [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](five-genai-usage-profiles-oop-course.md) — a narrower finding that bears on this claim
+- [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
+- [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related

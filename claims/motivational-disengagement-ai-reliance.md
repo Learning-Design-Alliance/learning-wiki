@@ -49,3 +49,5 @@ Frequency counts from the grounded theory coding of student accounts. Representa
 - [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](attentional-drift-pace-impatience-restless-switching.md) — related
 - [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related
 - [Students with a better understanding of how AI systems work show higher academic self-efficacy](ai-understanding-higher-self-efficacy.md) — related
+- [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
+- [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related

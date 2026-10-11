@@ -48,3 +48,5 @@ Known-groups validity analysis via multinomial logistic regression in the main s
 - [Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule](four-types-llm-reliance-typology-distribution.md) — related
 - [Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions](evt-beliefs-predict-reliance-intensity.md) — a broader claim this one bears on
 - [Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology](reliance-type-predicts-writing-process-outcomes.md) — related
+- [AI literacy shows a small positive association with ethical scenario classification accuracy](ai-literacy-small-positive-association-ethical-judgment.md) — related
+- [Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario](glat-predicts-scenario-accuracy-binomial-model.md) — related

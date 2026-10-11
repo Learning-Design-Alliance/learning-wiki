@@ -86,3 +86,4 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
 - [LLM-assisted sentiment labeling processed quotes roughly two to three times faster than human labeling and ran continuously without cognitive fatigue](llm-sentiment-labeling-efficiency-gain.md) — related
+- [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — a narrower finding that bears on this claim

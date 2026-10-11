@@ -47,3 +47,4 @@ Preliminary ablation comparing the full CyberAGENTS framework (n=74 interactions
 - [Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation](skg-dpm-complementary-ablation-deeptutor.md) — related
 - [LLM-as-judge evaluation scored CyberAGENTS highest on domain grounding (4.46) and agent role fidelity (4.35)](cyberagents-llm-judge-high-domain-grounding.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](ablation-metadata-embeddings-largest-accuracy-drop.md) — related

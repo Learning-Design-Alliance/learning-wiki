@@ -65,3 +65,4 @@ Same bootstrapped mediation model; the indirect effect on intention to use had "
 - [Perceived academic dishonesty is not directly related to ChatGPT use frequency or intention to use](pad-no-direct-effect-chatgpt-usage.md) — related
 - [Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT](pad-positively-related-perceived-risk.md) — related
 - [Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates](perceived-risk-negative-chatgpt-use-frequency-intention.md) — related
+- [Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits](information-risk-negative-emotional-daily-leisure.md) — related

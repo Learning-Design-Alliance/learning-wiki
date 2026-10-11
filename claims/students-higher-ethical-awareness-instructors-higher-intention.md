@@ -52,3 +52,4 @@ Questionnaire study of students (n = 226) and instructors (n = 256) in European 
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
 - [Students rate ethical awareness and responsible use highest and academic integrity lowest, with responsibility for defending ethical appropriateness the lowest-rated item](student-survey-ethical-ai-profile-academic-integrity-lowest.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
+- [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related

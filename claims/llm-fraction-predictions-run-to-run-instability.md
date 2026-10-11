@@ -47,3 +47,4 @@ Flip-rate analysis across five runs (Figure 3) shows "fraction items produced hi
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
+- [Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement](human-review-complexity-improves-difficulty-static.md) — related

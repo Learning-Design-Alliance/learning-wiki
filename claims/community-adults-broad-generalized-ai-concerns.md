@@ -48,3 +48,4 @@ Descriptive analysis of the pre-session survey completed by 37 of 54 attendees a
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy](student-ai-adoption-and-concerns-surveys.md) — related
+- [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related

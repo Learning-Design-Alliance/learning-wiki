@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (17 for, 6 mixed, 3 against) · 28 studies (11 causal, 7 review, 3 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 28 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (19 for, 6 mixed, 3 against) · 30 studies (12 causal, 7 review, 4 associational, 3 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 2 of 30 report an effect size · 25 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -59,6 +59,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](../claims/second-agent-increases-cognitive-load-writing.md) [+M] — instruction changes it
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](../claims/llm-consolidated-report-cognitive-load-lowest.md) [+M] — instruction changes it
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](../claims/ai-interaction-training-slightly-increases-cognitive-load.md) [+W] — instruction changes it
+- [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](../claims/extraneous-load-predicts-lower-post-test.md) [+M] — learners who differ on it differ in outcomes
+- [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](../claims/ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

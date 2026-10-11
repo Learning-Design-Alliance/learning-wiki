@@ -62,3 +62,4 @@ A teacher's observation reported in the interviews about speech tool limitations
 - [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — related
 - [Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)](rfi-technology-types-llm-most-common.md) — related
 - [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related
+- [Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time](teachers-positive-llm-robot-system-feedback.md) — related

@@ -59,3 +59,5 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
 - [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
 - [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related
+- [Research syntheses in 11 top LDT journals have increased steadily since the first identified publication in 2015, totaling 242 published reviews by June 2025](242-ldt-syntheses-2011-2025-steady-increase.md) — related
+- [GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn](genai-discourse-three-phase-evolution.md) — related

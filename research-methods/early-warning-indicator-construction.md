@@ -19,7 +19,7 @@ sources:
 # Early-warning indicator construction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (2 associational, 1 qualitative, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 5 studies (2 associational, 2 design, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability. Predictiveness alone is insufficient — researchers must also show which indicators are less predictive and therefore poor targets — and even rigorously predictive indicators fail if they are not understandable, simple, and applicable in schools, since complexity that becomes a barrier to action undermines use. Indicators should be available in real time or at the right time, should have a direct causal linkage so that improving them changes the ultimate outcome, and must be malleable, meaning educators can move them with known strategies. The paper grounds the framework in the assumption that indicators' predictive power is practical rather than deterministic: indicators estimate likely outcomes to trigger support, with the goal that the predicted outcome does not correspond with the student's actual outcome.
@@ -34,6 +34,7 @@ A Consortium report cited in the paper outlines five characteristics of effectiv
 - **Leading indicators of distress versus lagging indicators of failure**: The report distinguishes two kinds of school-quality signals. Indicators of distress are "characteristics that occur early in a school's decline suggesting a school that is struggling to achieve or maintain high levels of quality," while indicators of failure are "output data points that occur later in a school's decline to measure how a school performed." Distress indicators are harder to measure but easier to influence; failure indicators are easier to measure but require more substantive interventions. (Aimee Evan et al. (2021))
 - **Predictive-model approach using school and child welfare agency data to flag near-term academic risk**: The report describes an approach for developing a predictive model that identifies students likely to have near-term academic problems, including absenteeism, suspensions, poor grades, and low performance on state tests. It is intended for administrators, researchers, and student support staff in local education agencies who want to identify at-risk students early. The model draws on data shared between schools and child welfare agencies. (Julie Bruch et al. (2020))
 - **Districts implementing early warning systems should consider composite indicators and weigh the true-positive/false-positive tradeoff**: The report recommends that districts using early warning systems focus on composite indicators combining attendance, credits, Fs, and GPA, because simple composites identified more than three quarters of eventual off-track students before high school entry. It also advises that "districts might consider trying to minimize false-positives in order to conserve resources" or, alternatively, "erring on the side of casting a broader net," since flagged students may still face elevated academic risk. (Snipes et al. (2016))
+- **Risk-adaptive, evidence-constrained framework linking prediction, capacity-aware decision, and grounded feedback generation**: The article introduces a five-stage framework connecting observation, prediction, decision, generation, and evaluation for personalized programming feedback. Calibrated risk guides intervention timing under fixed feedback capacity, bounded task and code evidence grounds diagnostic statements, and an "Evidence-Gated Progressive Assistance" policy orders support from self-checks through concept reminders to localized hints and focused review. The framework keeps predictive validity, policy value, and feedback quality as distinct evaluation endpoints while using the same temporally ordered evidence. (Shihao Wang (2026))
 
 ### Claims
 - [The Freshman OnTrack indicator is more predictive of graduation than eighth-grade test scores, SES, race/ethnicity, gender, and school mobility combined, and raising it raises graduation rates](../claims/freshman-ontrack-predictive-and-causal-indicator.md) [+M]
@@ -43,6 +44,9 @@ A Consortium report cited in the paper outlines five characteristics of effectiv
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](../claims/composite-indicators-identify-more-with-false-positive-tradeoff.md) [+M]
 - [Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator](../claims/academic-indicators-outperform-attendance-true-positive.md) [+M]
+- [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](../claims/persistent-failure-moderate-discrimination-student-disjoint.md) [+M]
+- [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](../claims/repair-and-source-gating-feedback-completeness.md) [+M]
+- [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](../claims/sequential-risk-policy-concentrates-failures.md) [+M]
 
 ## Related Research Methods
 -
@@ -56,6 +60,7 @@ A Consortium report cited in the paper outlines five characteristics of effectiv
 - Aimee Evan, Hannah Sullivan, and Laura Groth (2021). Identifying Indicators of Distress in Charter Schools: Tools to Support Authorizer Data Collection. Bethesda, MD: Manhattan Strategy Group. https://ncsrc.info
 - Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks. Regional Educational Laboratory Mid-Atlantic. https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks
 - Snipes, J., & Tran, L. (2016). Early indicators and academic mindsets in the Clark County School District. San Francisco, CA: REL West @ WestEd. http://relwest.wested.org/
+- Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
 
 # Early-warning and college-readiness indicator construction
 

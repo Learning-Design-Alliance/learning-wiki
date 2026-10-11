@@ -50,3 +50,6 @@ Descriptive analysis of the conversational corpus from 112 Grade-9 students chat
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related
 - [Planning was the most frequently coded category (777; 14.8%), with Discourse Continuity (561; 10.7%) reflecting multi-turn reformatting requests](planning-most-frequent-category-777.md) — related
+- [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
+- [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
+- [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — possibly the same claim (merge candidate)

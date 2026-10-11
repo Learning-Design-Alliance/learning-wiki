@@ -44,3 +44,4 @@ The review's comparative synthesis across its five categories finds that "equity
 
 ## Related Claims
 - [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — related
+- [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related

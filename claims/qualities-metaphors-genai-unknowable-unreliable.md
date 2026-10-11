@@ -49,3 +49,4 @@ Qualitative analysis of workshop metaphors. Participants were unsettled by the "
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
+- [Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment](addiction-metaphors-ai-use.md) — related

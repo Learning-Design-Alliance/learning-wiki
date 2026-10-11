@@ -49,3 +49,4 @@ Within-subjects comparison of cognitive-effort measures across conditions withou
 - [AI chatbot access improves the quality of teachers' learning designs in higher education](ai-access-improves-learning-design-quality.md) — related
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
+- [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — reports the opposite

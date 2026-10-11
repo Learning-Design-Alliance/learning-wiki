@@ -130,3 +130,6 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
 - [End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments](faculty-reflection-series-outcomes.md) — related
 - [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — related
+- [GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices](four-unit-genai-support-ecosystem.md) — related
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — a narrower finding that bears on this claim

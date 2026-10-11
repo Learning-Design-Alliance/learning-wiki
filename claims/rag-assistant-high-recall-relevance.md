@@ -43,4 +43,4 @@ RAGAS evaluation of the prototype's RAG assistant on 52 question-answer pairs de
 
 
 ## Related Claims
--
+- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related

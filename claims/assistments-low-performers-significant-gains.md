@@ -49,3 +49,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — a narrower finding that bears on this claim
 - [A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03)](vcg-baseline-equivalence-assistments-vplc-study.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — a broader claim this one bears on
+- [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related

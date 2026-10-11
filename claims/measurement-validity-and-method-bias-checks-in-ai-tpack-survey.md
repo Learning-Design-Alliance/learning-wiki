@@ -59,3 +59,4 @@ Measurement model assessment in PLS-SEM evaluated reliability and validity for a
 
 ## Related Claims
 - [Common-method variance is retained as an unresolved alternative explanation for the general factor, with Harman's test suggestive](common-method-variance-unresolved-explanation.md) — reports the opposite
+- [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related

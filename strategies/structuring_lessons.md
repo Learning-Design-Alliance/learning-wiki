@@ -60,8 +60,10 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 6. **Close with consolidation.** End with summarization, application, or a preview linking to the next lesson ([Assessment](../elements/assessment.md) for formative checking).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../principles/activation.md) — the opening phase of a structured lesson depends on it
 - [Clear Structure](../principles/clear-structure.md) — the presentation-level principle this strategy enacts at lesson scale
+- [A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance](five-moment-q-learning-lesson-plan.md)
 
 ## Examples
 - **Rosenshine's Principles of Instruction** — a research-derived lesson template (daily review, small-step presentation, guided practice, checks for understanding) widely used in UK and US school improvement programs ([Rosenshine, 2012](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)).

@@ -77,3 +77,6 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
+- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
+- [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related

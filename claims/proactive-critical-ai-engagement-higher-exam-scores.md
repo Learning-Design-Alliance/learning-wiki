@@ -53,3 +53,4 @@ Behavior-outcome comparison within the randomized controlled trial of 318 univer
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
+- [The whitepaper reports, citing He et al., that Cursor adoption was associated with a persistent increase in static analysis warnings and code complexity despite short-term velocity gains](cursor-adoption-warnings-complexity-persistent-increase.md) — related

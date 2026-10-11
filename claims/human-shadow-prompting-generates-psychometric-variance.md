@@ -47,3 +47,4 @@ Task 2 analysis comparing summed psychometric score distributions between human-
 - [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
 - [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — a broader claim this one bears on
 - [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related
+- [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related

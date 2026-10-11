@@ -65,6 +65,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
+- [Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation](detection-supplementary-governance-layer.md)
 
 ## Examples
 -

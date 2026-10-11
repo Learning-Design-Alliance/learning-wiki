@@ -46,3 +46,4 @@ Qualitative annotation of sentiment-peak months in the longitudinal Twitter anal
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements](ai-anxiety-distinct-from-automation-anxiety.md) — related
+- [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related

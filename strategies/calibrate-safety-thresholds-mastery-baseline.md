@@ -37,7 +37,8 @@ The article proposes a practitioner procedure for setting constraint thresholds 
 - Detecting sustained mastery stagnation and uncoupled engagement without flagging well-behaved policies
 
 ## Related Strategies
-- 
+
+- [Differentiated enrollment thresholds for school autonomy based on territorial fragility](fragility-differentiated-enrollment-thresholds.md)
 
 ## Examples
 -

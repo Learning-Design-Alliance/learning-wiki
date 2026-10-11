@@ -53,6 +53,7 @@ The article's three practical implications for AI-supported writing instruction.
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
+- [Embed explicit AI ethics instruction early and use scenario-based, guidance-oriented teaching](early-embedded-ai-ethics-instruction-strategy.md)
 
 ## Examples
 -

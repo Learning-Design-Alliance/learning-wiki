@@ -83,6 +83,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
+- [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
+- [Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation](detection-supplementary-governance-layer.md)
 
 ## Examples
 -

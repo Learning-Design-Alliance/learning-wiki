@@ -46,3 +46,5 @@ Spearman correlation in the 468-student survey (Table 1); the mediation model's 
 - [Perceived academic dishonesty is not directly related to ChatGPT use frequency or intention to use](pad-no-direct-effect-chatgpt-usage.md) — related
 - [Perceived risk mediates the relationship between perceived academic dishonesty and ChatGPT usage (indirect-only mediation)](perceived-risk-mediation-pad-chatgpt.md) — related
 - [Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates](perceived-risk-negative-chatgpt-use-frequency-intention.md) — related
+- [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related
+- [Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits](information-risk-negative-emotional-daily-leisure.md) — related

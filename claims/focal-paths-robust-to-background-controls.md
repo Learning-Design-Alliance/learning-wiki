@@ -62,3 +62,4 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
+- [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — possibly the same claim (merge candidate)

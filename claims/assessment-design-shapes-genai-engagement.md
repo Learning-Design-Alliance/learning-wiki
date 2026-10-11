@@ -46,3 +46,4 @@ The article argues, within its literature synthesis, that assessment is more tha
 - [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
+- [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related

@@ -45,3 +45,4 @@ Inspection of scaffolding-module concept graphs across the five evaluation topic
 ## Related Claims
 - [Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge](kt1-design-frictions-programming-tutorials-ai-guessing.md) — related
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related
+- [GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training](gnn-training-homogenizes-concept-representations.md) — related

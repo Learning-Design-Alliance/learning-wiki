@@ -46,3 +46,4 @@ Independent-samples t-test on post-test scores in a quasi-experimental pre-test-
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
+- [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related

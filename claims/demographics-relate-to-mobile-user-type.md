@@ -49,3 +49,4 @@ Multinomial logistic regression with the four latent classes as dependent variab
 - [EFL university students report varied preferences for music, drawing, photography, acting, internet use, mobile-phone use, cooking and travelling while studying English](efl-students-report-varied-style-related-preferences.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — possibly the same claim (merge candidate)

@@ -56,6 +56,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
+- [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 
 ## Examples
 -

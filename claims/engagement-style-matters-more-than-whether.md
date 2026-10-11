@@ -70,3 +70,4 @@ The review attributes to Makransky et al. (2025) that a chatbot prompting studen
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — a narrower finding that bears on this claim
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](strategic-offloading-intentional-transformative-learning.md) — related

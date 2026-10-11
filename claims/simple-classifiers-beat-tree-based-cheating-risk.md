@@ -56,3 +56,4 @@ Out-of-sample comparison of four classifiers (linear, probabilistic, bagging-bas
 - [In a student project on laser-drilled hole diameter detection, GPR significantly outperformed MLP in detection accuracy and training speed](gpr-outperformed-mlp-hole-diameter-detection.md) — related
 - [Logistic regression performs poorly (mean accuracy 0.4243) and SVM moderately (0.7374) on physiological exam-outcome prediction](logistic-regression-poor-svm-moderate-physiological-exam-prediction.md) — reports the opposite
 - [Random forest achieves the highest mean test accuracy (0.9590) of all models compared for predicting exam grade categories from physiological signals](random-forest-highest-accuracy-physiological-exam-prediction.md) — reports the opposite
+- [The selected MLP outperformed gradient boosting for persistent-failure prediction in paired student bootstrap comparison](mlp-outperformed-gradient-boosting-persistent-failure.md) — related

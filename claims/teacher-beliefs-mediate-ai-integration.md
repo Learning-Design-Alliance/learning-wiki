@@ -48,3 +48,5 @@ Narrative review attribution: the article reports, citing Kazmaci et al. (2025) 
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — related
 - [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) — related
+- [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
+- [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](ai-use-in-green-energy-teaching-predicts-integration-ability.md) — related

@@ -49,3 +49,4 @@ Case description of the Spring 2026 workshop series in the University of Colorad
 - [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](algebra-toolkit-space-technology-requirements.md) — related
 - [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
+- [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) — related

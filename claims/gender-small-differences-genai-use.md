@@ -64,3 +64,4 @@ Comparison of early-stage undergraduates (Years 1–2) with more advanced studen
 - [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](genai-gender-differences-perceived-gains.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
 - [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — reports the opposite
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related

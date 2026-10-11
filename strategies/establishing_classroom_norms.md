@@ -64,6 +64,7 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 - [Check-ins](../principles/check-ins.md) — a routine that rehearses participation norms in low-stakes form
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
+- [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.

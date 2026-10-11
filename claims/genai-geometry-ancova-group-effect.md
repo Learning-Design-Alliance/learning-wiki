@@ -45,3 +45,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions](prompted-ai-raises-overall-post-test-score.md) — related
+- [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related

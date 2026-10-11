@@ -49,3 +49,4 @@ A single anecdotal test reported in the dialogue: a paper written without AI was
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
+- [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](ai-detectors-reported-unreliable-biased.md) — related

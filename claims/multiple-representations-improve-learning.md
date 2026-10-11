@@ -89,3 +89,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](multiplatform-activity-range-engaged-diverse-learners.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related
+- [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related

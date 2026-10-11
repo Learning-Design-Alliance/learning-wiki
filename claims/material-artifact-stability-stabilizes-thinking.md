@@ -57,3 +57,4 @@ Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side p
 - [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related
 - [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — related
 - [Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine](grid-overlay-reifies-anchor-shifts-routine.md) — a narrower finding that bears on this claim
+- [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md) — related

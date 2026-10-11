@@ -49,6 +49,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Structure AI-assisted grading to shift TA effort from routine low-judgment decisions toward conceptually rich responses](shift-ta-effort-to-conceptually-rich-responses.md)
 - [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
+- [Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators](automated-reflection-preliminary-feedback-educator-final.md)
 
 ## Examples
 -

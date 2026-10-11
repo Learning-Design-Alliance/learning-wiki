@@ -69,3 +69,4 @@ Authors' interpretation of the Table 14 ablation: KC inputs reduce available inf
 - [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.](engagement-covariates-improve-deep-knowledge-tracing.md) — related
 - [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related
+- [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — related

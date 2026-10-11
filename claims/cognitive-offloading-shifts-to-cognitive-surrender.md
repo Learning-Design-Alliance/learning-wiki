@@ -49,3 +49,4 @@ Theoretical argument in the article's introduction, citing prior research on AI 
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
+- [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](strategic-offloading-intentional-transformative-learning.md) — related

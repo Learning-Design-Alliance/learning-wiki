@@ -47,6 +47,7 @@ Based on the finding that data use depends on both teacher characteristics and s
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
+- [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 
 ## Examples
 -

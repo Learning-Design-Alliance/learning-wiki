@@ -49,3 +49,4 @@ Interview data from the single-participant case study. Daniel agreed the assista
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — a broader claim this one bears on
 - [Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging](hardware-debugging-takes-multiple-prompts.md) — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related
+- [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](ai-feedback-88-percent-self-efficacy-increase.md) — related

@@ -49,3 +49,4 @@ Automated multi-agent experiments comparing a single-strategy baseline (Role Dri
 - [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
 - [RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6](rpla-failure-onset-second-half-of-dialogue.md) — related
 - [Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction](passive-sbd-defense-distillation-dependent.md) — related
+- [RL training reduces missed red flag rates by approximately one third under adversarial conditions, mitigating premature closure](residencyrl-reduces-missed-red-flags.md) — related

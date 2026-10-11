@@ -50,6 +50,7 @@ The article's practical implications recommend that universities avoid treating 
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 - [Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership](ai-literacy-epistemic-calibration-assessment-strategy.md)
 - [Treat AI literacy as educational support by teaching students to question AI responses, attempt problems first, and avoid substituting AI output for engagement](ai-literacy-guidance-productive-ai-use.md)
+- [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 
 ## Examples
 -

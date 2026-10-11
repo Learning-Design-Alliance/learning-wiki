@@ -52,3 +52,4 @@ Survey finding from the 120-respondent instrument: about half of faculty disagre
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
