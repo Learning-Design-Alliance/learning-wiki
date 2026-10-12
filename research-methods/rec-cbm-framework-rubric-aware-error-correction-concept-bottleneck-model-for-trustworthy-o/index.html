@@ -756,7 +756,7 @@
 <h1 id="rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-open-ended-grading">REC-CBM framework: rubric-aware error-correction concept bottleneck model for trustworthy open-ended grading<a class="headerlink" href="#rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-open-ended-grading" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>REC-CBM is a concept bottleneck model for open-ended grading that integrates three components: a rubric-aware concept encoder that learns concept-specific representations over responses using a concept query bank, an ordinal pairwise calibration objective that preserves ranking structure among rubric dimensions, and a latent concept error-correction module that denoises concept predictions before final grade prediction while preserving interpretability. The framework uses two-stage training: Stage I learns rubric-aligned concept predictors, and Stage II fits latent-correction parameters on frozen concept outputs. The article states this design "preserves the interpretable bottleneck while cor-recting concept-level noise before grade prediction."</p>
@@ -764,12 +764,14 @@
 <!-- How each source describes or uses the method -->
 <ul>
 <li><strong>REC-CBM framework: rubric-aware error-correction concept bottleneck model for trustworthy open-ended grading</strong>: REC-CBM is a concept bottleneck model for open-ended grading that integrates three components: a rubric-aware concept encoder that learns concept-specific representations over responses using a concept query bank, an ordinal pairwise calibration objective that preserves ranking structure among rubric dimensions, and a latent concept error-correction module that denoises concept predictions before final grade prediction while preserving interpretability. The framework uses two-stage training: Stage I learns rubric-aligned concept predictors, and Stage II fits latent-correction parameters on frozen concept outputs. The article states this design "preserves the interpretable bottleneck while cor-recting concept-level noise before grade prediction." (Chengshuai Zhao et al. (2025))</li>
+<li><strong>Route automated grading predictions through human-interpretable rubric-level concepts so educators can inspect, verify, and intervene</strong>: In high-stakes educational assessment, raw accuracy alone is insufficient; instructors need to understand why a score was produced and how to intervene on questionable judgments. Routing grading predictions through human-interpretable rubric-level concepts provides a mechanistic guarantee of transparency, decomposing the final grade into rubric-level concept predictions that educators can examine or modify. The article states this enables educators to "inspect, verify, and intervene on reasoning," supporting intervention and auditing and promoting pedagogical usefulness through concept-level outputs aligned with feedback categories. (Chengshuai Zhao et al. (2025))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/rec-cbm-best-task-accuracy-f1-every-backbone/">REC-CBM attains the best task accuracy and macro-F1 within every backbone block across three datasets, improving grading performance over black-box and CBM baselines</a> [+M]</li>
 <li><a href="../../claims/rec-cbm-ablation-components-complementary/">Removing any single REC-CBM component degrades task accuracy on at least two of three datasets, with RACE removal most damaging</a> [+M]</li>
 <li><a href="../../claims/rec-cbm-intervention-faithfulness-asymmetry/">Corrupting rubric evidence flips predicted grade while correcting it preserves or improves grade, demonstrating the bottleneck is actionable</a> [+M]</li>
+<li><a href="../../claims/rec-cbm-decision-trace-reconstructible-bottleneck/">REC-CBM produces a human-readable decision trace tied to named rubric dimensions, reconstructible from the bottleneck</a> [+M]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
