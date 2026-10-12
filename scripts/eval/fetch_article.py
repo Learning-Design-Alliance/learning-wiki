@@ -204,6 +204,93 @@ def _fetch_pmc_via_aws(entry: dict) -> str:
     return text
 
 
+# Hosts that only list or redirect to the publisher's page: never a copy of the text.
+_NOT_A_COPY = ("doaj.org", "doi.org", "dx.doi.org")
+
+
+def _openalex_work(doi: str) -> "dict | None":
+    """One work's OpenAlex record (single-work lookups are not metered, list queries are)."""
+    import urllib.parse
+    params = {"select": "doi,ids,locations,open_access", "mailto": "contact@learningdesignalliance.org"}
+    try:
+        resp = _get(f"https://api.openalex.org/works/doi:{urllib.parse.quote(doi)}?"
+                    + urllib.parse.urlencode(params))
+        return resp.json()
+    except (FetchError, requests.RequestException, compliance.ComplianceError, ValueError):
+        return None
+
+
+def _open_copy_urls(work: dict) -> list:
+    """Candidate URLs for an open copy, best first: repositories (arXiv, OSF, institutional),
+    then any other location's open PDF. An OSF page renders by JavaScript, so its plain
+    /download link is used instead."""
+    from urllib.parse import urlparse
+    repo, other = [], []
+    for loc in work.get("locations") or []:
+        if not loc.get("is_oa"):
+            continue
+        url = loc.get("pdf_url") or loc.get("landing_page_url")
+        if not url or urlparse(url).netloc.lower() in _NOT_A_COPY:
+            continue
+        host = urlparse(url).netloc.lower()
+        if host.endswith("osf.io"):
+            url = url.rstrip("/").split("?")[0]
+            url = url if url.endswith("/download") else url + "/download"
+        elif host.endswith("arxiv.org") and "/abs/" in url:
+            url = url.replace("/abs/", "/pdf/")
+        is_repo = (loc.get("source") or {}).get("type") == "repository"
+        (repo if is_repo else other if loc.get("pdf_url") else []).append(url)
+    seen, out = set(), []
+    for u in repo + other:
+        if u not in seen:
+            seen.add(u)
+            out.append(u)
+    return out
+
+
+def _fetch_copy(url: str) -> str:
+    """One open-copy URL. PMC's own PDF links answer automated clients with a challenge page,
+    so a PMC URL goes through the PMC open-access dataset instead; a figshare page is
+    rendered by JavaScript, so its file comes from figshare's public API."""
+    import re as _re
+    m = _re.search(r"pmc\.ncbi\.nlm\.nih\.gov/(?:articles/)?(PMC\d+)", url) or \
+        _re.search(r"ncbi\.nlm\.nih\.gov/pmc/articles/(PMC\d+)", url)
+    if m:
+        return _fetch_pmc_via_aws({"id": m.group(1), "pmcid": m.group(1)})
+    m = _re.search(r"figshare\.com/articles/(?:[^/]+/)*?(\d{6,})(?:/|$)", url)
+    if m:
+        files = _get(f"https://api.figshare.com/v2/articles/{m.group(1)}").json().get("files") or []
+        for f in files:
+            if f.get("name", "").lower().endswith(".pdf") and f.get("download_url"):
+                r = _get(f["download_url"])
+                return _extract_pdf_text(r.content)
+        raise FetchError(f"figshare item {m.group(1)} has no PDF file")
+    return _fetch_web(url)
+
+
+def fetch_open_copy(doi: str) -> str:
+    """The text of an open copy of a DOI's work, found through OpenAlex: PMC's open-access
+    subset first, then a repository or other open PDF. Used when the publisher's own page
+    cannot be read (a JavaScript page, a 403, or robots.txt). Every request still goes through
+    compliance.guard, so a host whose robots.txt disallows us is skipped, not worked around."""
+    work = _openalex_work(doi)
+    if not work:
+        raise FetchError(f"no OpenAlex record for {doi}")
+    errors = []
+    pmcid = (work.get("ids") or {}).get("pmcid")
+    if pmcid:
+        try:
+            return _fetch_pmc_via_aws({"id": pmcid.rstrip("/").split("/")[-1], "pmcid": pmcid.rstrip("/").split("/")[-1]})
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"PMC: {e}"[:80])
+    for url in _open_copy_urls(work):
+        try:
+            return _fetch_copy(url)
+        except Exception as e:  # noqa: BLE001 - a broken PDF or a refusal on one copy: try the next
+            errors.append(f"{url}: {e}"[:120])
+    raise FetchError(f"no readable open copy of {doi}" + (f" ({'; '.join(errors[:3])})" if errors else ""))
+
+
 def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     """Fetch (or load from cache) the full text for one manifest entry."""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -222,7 +309,16 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
             resp = _get(fetch_url)
             text = _extract_pdf_text(resp.content)
         elif source == "web":
-            text = _fetch_web(fetch_url)
+            try:
+                text = _fetch_web(fetch_url)
+            except (FetchError, requests.RequestException, compliance.ComplianceError) as e:
+                # A DOI whose publisher page cannot be read may have an open copy elsewhere.
+                if not entry.get("doi"):
+                    raise
+                try:
+                    text = fetch_open_copy(entry["doi"])
+                except FetchError as e2:
+                    raise FetchError(f"{e}; {e2}") from e
         elif source == "pubmed":
             text = _fetch_pmc_via_aws(entry)
         else:
