@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Meta-analysis beyond education found human-AI integration performed worse than the better performer alone in 58% of studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A meta-analysis of over a hundred experimental studies beyond educational fields found that in 58% of reviewed studies, human-AI integration performance was lower than the better performer alone. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The chapter cites Vaccaro et al.'s meta-analysis of over a hundred experimental studies beyond educational fields as synergistic performance evidence, showing synergic interactions are not naturally achieved. No effect size is printed.
 

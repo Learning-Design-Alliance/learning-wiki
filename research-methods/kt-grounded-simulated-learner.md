@@ -20,6 +20,7 @@ The simulated learner couples two components: a knowledge tracing model (AKT) th
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **KT-grounded simulated learner: coupling an AKT knowledge tracing model with LLM role-play for persistent simulated students**: The simulated learner couples two components: a knowledge tracing model (AKT) that maintains a per-KC belief map trained on real student interaction data, and an LLM that role-plays the student and generates free-response attempts. The AKT model is "trained on real XES3G5M learners" and "maintains a per-KC belief map" that is updated at each observation. The LLM student generates answers conditioned on the KT belief state, and "graded probe outcomes are fed back into fθ, so KT and LLM stay coupled across D=30 virtual days." This design addresses the known failure of pure LLM-simulated students to reproduce real students' ability distributions, misconception dynamics, or authenticity under tutoring. (Lee et al. (2026))
+- **Pair LLMs with explicit learner-state representations and transition rules for longitudinal simulation**: For modeling learning trajectories, the article recommends hybrid architectures that pair an LLM with an explicit learner-state representation and a defined transition rule, such as knowledge tracing, proficiency variables, misconception graphs, or cognitive models. It argues that "Longitudinal simulation benefits from explicit learning mechanisms rather than context-window prompting alone", because prompt-only approaches yield abrupt novice-to-expert jumps and unstable competence across turns. This makes trajectories interpretable and calibratable and failures diagnosable. (Zhihao Yuan et al. (2026))
 
 ### Claims
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](../claims/educlaw-bench-simulator-calibration.md) [+M]
@@ -29,3 +30,4 @@ The simulated learner couples two components: a knowledge tracing model (AKT) th
 
 ## Key Sources
 - Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+- Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473

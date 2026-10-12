@@ -15,18 +15,22 @@ sources:
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: fu-l-2026-2
     resource: "https://doi.org/10.3389/fpsyg.2026.1900061"
     title: "Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061"
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Trust dimensions showed moderate-to-high means that increased slightly across waves, and intrinsic motivation increased moderately while extrinsic motivation remained relatively stable. [→ Fu L 2026](#fu-l-2026)
@@ -38,7 +42,7 @@ sources:
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive statistics across the three waves (Table 1, N = 450); fairness perceptions showed similar upward trajectories and all Cronbach's α values exceeded 0.81.
 
@@ -48,7 +52,7 @@ Descriptive statistics across the three waves (Table 1, N = 450); fairness perce
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.003 and scalar transition ΔCFI = −0.006, both below the 0.010 threshold.
 

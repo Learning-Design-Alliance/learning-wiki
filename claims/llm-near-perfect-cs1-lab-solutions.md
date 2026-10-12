@@ -15,12 +15,14 @@ sources:
     author: Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Frontier LLMs produced near-perfect solutions to CS1 labs, with mean hidden-instructor-test scores of 98.93–99.99% across model–year combinations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across LLM–year combinations, mean instructor-test scores for generated solutions ranged from 98.93% to 99.99%, far above student means of 76.37–88.03%, and LLM full-pass rates ranged from 86.97% to 99.95%. [→ Runlong Ye 2026](#runlong-ye-2026)
@@ -31,7 +33,7 @@ sources:
 
 Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Retrospective grading of 90,000 LLM attempts (three frontier models, 1,000 per lab per cohort year) and 29,970 student submissions against each year's hidden instructor pytest suite. The article reports LLM means of "98.93% to 99.99%" versus student means of 76.37%, 80.76%, and 88.03% (Table 1).
 

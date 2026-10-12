@@ -15,12 +15,14 @@ sources:
     author: Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students' recognition did not differ between AI-generated and NLE MCQs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Correct and incorrect recognition showed no significant difference between generative AI and NLE MCQs. [→ Vogt P 2026](#vogt-p-2026)
@@ -31,7 +33,7 @@ sources:
 
 Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F. (2026). Can students identify AI? – A cross-sectional quantitative study about AI recognition in tablet-based MCQ assessment among fifth-year undergraduate medical students at Saarland University, Germany. BMC Medical Education. https://doi.org/10.1186/s12909-026-10410-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Welch's t-tests comparing recognition of AI (n = 21 items) versus NLE (n = 18 items) items in the exam of 119 students. The article reports "no significant difference" for correct and incorrect recognition; a complementary mixed-effects model gave OR = 1.43, 95% CI 0.88–2.34, p = 0.147. No effect size printed.
 

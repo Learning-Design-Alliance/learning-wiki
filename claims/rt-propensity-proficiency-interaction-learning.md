@@ -13,16 +13,20 @@ sources:
     title: interaction-1
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: interaction-2
     title: interaction-2
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` There is a significant RT propensity × prior proficiency interaction predicting learning rate (β = 0.11, p = .004), with longer RT propensities associated with steeper opportunity slopes among higher-proficiency students and weakly negative among lower-proficiency students. [→ interaction-1](#interaction-1)
@@ -34,7 +38,7 @@ sources:
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Linear regression on student-level parameters from the eight algebra tutoring deployments (794 students), predicting iAFM learning-rate slopes from RT propensity, prior proficiency, and their interaction. The article reports the interaction at "𝛽= 0.11" and interprets slower propensities as constructive processing for higher-proficiency students.
 
@@ -44,7 +48,7 @@ Linear regression on student-level parameters from the eight algebra tutoring de
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Sensitivity analysis re-estimating the interaction model after excluding flagged influential cases (98/787, 12.5%). The interaction "remained significant (𝛽= 0.147, p = .014)", addressing the influence of a small cluster of slow-responding students with low learning rates.
 

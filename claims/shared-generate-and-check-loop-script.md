@@ -15,18 +15,22 @@ sources:
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: léonard-boussioux-2026-2
     resource: "https://arxiv.org/abs/2609.38183"
     title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183"
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` All seven chat-driven builders' sessions match the canonical generate-and-check loop more often than a shuffled within-person null (conformance 0.21–0.80; z = +2.8 to +6.2), and the strongest recurring motif appears about 1.89 times more often than a first-order Markov null predicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)
@@ -38,7 +42,7 @@ sources:
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Process-layer analysis of nine screen-recorded think-aloud build sessions coded at one-second resolution (28,818 coded seconds; 54 prompt cycles). Loop conformance was tested against a within-person null of 1,000 shuffled sequences; motif mining used a per-person first-order Markov null. Between-session pointwise agreement is modest, so the shared object is the loop, not a schedule.
 
@@ -48,7 +52,7 @@ Process-layer analysis of nine screen-recorded think-aloud build sessions coded 
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Waiting-economics decomposition of generation intervals across the recorded sessions. The article reports 61% dead waiting, 20% peeking, 13% productive fill, and 6% idle, and notes productive fill rises from 9% in the first half of a person's intervals to 17% in the second half.
 

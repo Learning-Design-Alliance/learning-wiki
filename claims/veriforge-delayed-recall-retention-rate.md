@@ -15,18 +15,22 @@ sources:
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: ruqi-sun-2026-2
     resource: "https://arxiv.org/abs/2608.09698"
     title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Participants recalled more domain-specific terms from the VeriForge condition (M=8.04 vs M=5.75; p=.008, r=.891). [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Exploratory delayed recall task one week after the main session, with two researchers independently coding domain-specific terms; inter-rater reliability ICC(A,1)=.880 baseline, .790 VeriForge. The printed effect size is r=.891. These tests were not FDR-corrected.
 
@@ -48,7 +52,7 @@ Exploratory delayed recall task one week after the main session, with two resear
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Retention-rate analysis from the same delayed recall task, printed effect size r=.883; the authors note the larger denominator under VeriForge makes this comparison more conservative, consistent with deeper encoding rather than mere increased exposure.
 

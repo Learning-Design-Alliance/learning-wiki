@@ -15,12 +15,14 @@ sources:
     author: Laura Tubino, Chie Adachi
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a university-wide pilot, student interactions with an AI automated feedback tool were interpreted as affording development of students' feedback literacy capabilities. [→ Laura Tubino 2022](#laura-tubino-2022)
@@ -31,7 +33,7 @@ sources:
 
 Laura Tubino, Chie Adachi. (2022). Developing feedback literacy capabilities through an AI automated feedback tool. ASCILITE 2022 Conference Proceedings. https://doi.org/10.14742/apubs.2022.39
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 A reflective report of a University-wide T&L pilot project with an AI tool for automated feedback; the authors frame a discourse on AI use "to promote and further develop students' feedback literacy capabilities". No effect sizes or test statistics are printed; the support is interpretive rather than experimental.
 

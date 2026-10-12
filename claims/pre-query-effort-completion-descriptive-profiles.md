@@ -13,12 +13,14 @@ sources:
     title: w1-2
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cold Start learners completed the task at high rates (97%) despite no observable programming attempt, whereas Struggling learners invested the most time (165 s average) and errors (2.5) but completed at the lowest rate (67%). [→ w1-2](#w1-2)
@@ -29,7 +31,7 @@ sources:
 
 David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, and Yan Chen. 2026. TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education. https://arxiv.org/abs/2608.26184
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive characteristics of Window 1 profiles from the outcome-guided clustering of deployment data: Cold Start (n=31, 97% completion), Oriented (n=100, 92%), Struggling (n=21, 165 s average pre-query time, 4.2 terminal runs, 2.5 errors, 67% completion).
 

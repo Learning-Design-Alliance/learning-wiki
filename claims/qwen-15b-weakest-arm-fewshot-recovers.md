@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The small open-weights Qwen2.5-1.5B model is the weakest arm in both languages, with Spanish thematic weighted F1 of 0.31 zero-shot rising to 0.63 with few-shot
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The open-weights Qwen2.5-1.5B arm is weakest on both languages; on Spanish four-class thematic classification, zero-shot wF1 is 0.31 and rises to 0.63 with few-shot examples. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Descriptive result from the Spanish durability benchmark on the 233-comment held-out set. The article reports the small open-weights model as "the weakest arm, especially zero-shot on the four-class thematic task, where wF1 is 0.31 and rises to 0.63 with few-shot", while running at zero API cost on-premise.
 

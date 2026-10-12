@@ -40,7 +40,7 @@ The article proposes a staged hybrid feedback workflow for L2 writing instructio
 - syntactic and lexical development
 
 ### Affordances
-- [Sct Scaffolding Zpd Feedback Account](../theories/sct-scaffolding-zpd-feedback-account.md)
+- [Sct Scaffolding Zpd Feedback Account](../theories/zpd-gap-independent-versus-assisted-problem-solving.md)
 
 ## Related Strategies
 

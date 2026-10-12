@@ -15,12 +15,14 @@ sources:
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` ARCS motivation correlated more strongly with intention and use (r ≈ 0.61–0.68) than UTAUT3 predictors did (r ≈ 0.49–0.63). [→ Xin Tian 2026](#xin-tian-2026)
@@ -31,7 +33,7 @@ sources:
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Preliminary correlational analysis (Table 2) of the 842-respondent Lesotho survey; all correlations were positive and significant (p < 0.01), with UTAUT3 predictors correlating at r ≈ 0.49–0.59 with intention and r ≈ 0.52–0.63 with use behavior.
 

@@ -15,12 +15,14 @@ sources:
     author: Paul Savala
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the test set TRACE course prediction reached P=0.5076, R=0.4090, F1=0.4432, far above a random-selection precision of approximately 0.014. [→ Paul Savala 2026](#paul-savala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Evaluation of the auxiliary course-prediction task on the held-out test set. The article reports "P= 0.5076,R= 0.4090,F1 = 0.4432" and notes random selection of 5 courses from the 360-course catalog would yield precision of approximately 0.014, indicating substantial predictive signal despite imperfect predictions.
 

@@ -15,18 +15,22 @@ sources:
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: xin-tian-2026-2
     resource: "https://doi.org/10.1186/s41239-026-00613-w"
     title: "Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w"
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The MGRM-IRT analysis showed strong item discrimination (mean a = 1.91–2.47), excellent fit (CFI = 0.93, TLI = 0.95, RMSEA = 0.001), and marginal reliability of 0.88–0.92. [→ Xin Tian 2026](#xin-tian-2026)
@@ -38,7 +42,7 @@ sources:
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multidimensional graded response IRT calibration on the 842-respondent survey data; the article reports the printed fit indices verbatim, plus item loadings of 0.65–0.88 and marginal reliability coefficients of 0.88–0.92 exceeding the 0.70 benchmark.
 
@@ -48,7 +52,7 @@ Multidimensional graded response IRT calibration on the 842-respondent survey da
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Two-stage reflective–reflective PLS-SEM higher-order construct assessment (Table 7) in the same survey; the HOC showed α = 0.829, ρc = 0.886, and AVE = 0.661, which the authors say supports Keller's multidimensional-yet-unified motivation theory.
 

@@ -13,12 +13,14 @@ sources:
     title: main-effect-1
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the full practice period, RT propensity has no reliable main effect on learning rate (β = −0.02, p = .534), whereas prior proficiency positively predicts learning rate (β = 0.10, p = .009). [→ main-effect-1](#main-effect-1)
@@ -29,7 +31,7 @@ sources:
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Regression analysis predicting student learning-rate slopes from the iAFM using RT propensity and prior proficiency, on student-level parameters from the eight tutoring deployments. The article reports no reliable RT main effect and a positive proficiency effect; equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Synergy is more likely in simpler content generation tasks and when humans exceed AI performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` According to the cited meta-analysis, synergy is more anticipated in simpler content generation tasks, hardly achieved in complex abstract decision-making tasks, and accomplished only when humans exceed AI performance. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter attributes this contextual factor to Vaccaro et al.'s meta-analysis, adding that the same study shows synergy is more likely accomplished if and only if humans exceed AI performance, not vice versa. No effect size is printed.
 

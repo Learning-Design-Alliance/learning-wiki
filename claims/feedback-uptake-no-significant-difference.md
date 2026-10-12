@@ -15,12 +15,14 @@ sources:
     author: Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Tutors' feedback uptake did not differ significantly between automated and learner feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of the seven perception dimensions, only feedback uptake showed no significant difference between the two feedback sources. [→ Yeon Su Park 2026](#yeon-su-park-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the same Wilcoxon signed-rank comparison of 36 tutors' Likert responses across seven dimensions, the study reports that "feedback uptake showed no significant difference" between automated and learner feedback. Equivalence was not tested; no effect size is printed.
 

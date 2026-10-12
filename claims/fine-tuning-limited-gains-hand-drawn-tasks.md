@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Performance improvements from fine-tuning mainly come from DSReal and DSSyn, while performance on the hand-drawn DSCraft dataset remains low. [→ Chao Wen 2026](#chao-wen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Main-results analysis across dataset types: DSCraft contains hand-drawn renderings of the same 102 DSReal tasks. The article reports fine-tuned models' performance "on DSCraft re- mains low" (e.g., Qwen2-VL-72B-TURTLE at 6.86% symbolic versus 35.29% on DSReal). No effect size is printed.
 

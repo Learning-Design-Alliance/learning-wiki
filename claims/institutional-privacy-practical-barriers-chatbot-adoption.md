@@ -15,12 +15,14 @@ sources:
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Eight teachers emphasized that classroom adoption depended on factors beyond instructional value, including district approval processes, privacy vetting, infrastructure, and time for experimentation. [→ Riahi 2026](#riahi-2026)
@@ -31,7 +33,7 @@ sources:
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Focus-group thematic analysis identified institutional requirements (e.g., a "very intense approval process"), privacy vetting, internet and device availability, school networks blocking access, limited class periods, and need for experimentation time as adoption constraints.
 

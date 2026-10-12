@@ -15,12 +15,14 @@ sources:
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educator dialogue and student narratives repositioned AI from an answer provider that replaces independent thinking to a tutor scaffolding conceptual understanding while leaving learning in students' hands. [→ Jennie Ren 2026](#jennie-ren-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative trio-ethnography: the student consistently portrayed AI as a learning resource for understanding Java syntax and concepts rather than requesting complete answers, which the article says "strongly confirmed this refined interpretation". No effect sizes reported.
 

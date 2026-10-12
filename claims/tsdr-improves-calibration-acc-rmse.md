@@ -15,12 +15,14 @@ sources:
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On Linux and Database, where AUC gains plateau, TSDR frequently reduces RMSE and improves ACC, including a 1.70% RMSE reduction for SparseKT on Linux. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Secondary-metric analysis (RQ1, Table 1) of ACC and RMSE across the nine benchmark datasets. The article reports TSDR "frequently reduces RMSE and improves ACC" with a "1.70% reduction for SparseKT on Linux."
 

@@ -15,12 +15,14 @@ sources:
     author: Hansol Lee
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Teacher support mainly contributed to motivation while effects on cognitive outcomes were limited, and students' independent thinking tended to be more promoted without teacher support. [→ Hansol Lee 2026](#hansol-lee-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hansol Lee. (2026). Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00461-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Wu and Yang (2022), that "teacher support mainly contributed to students' motivation" with limited cognitive effects, and that independent thinking and problem solving "tended to be more promoted in conditions without teacher support."
 

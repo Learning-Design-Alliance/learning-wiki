@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development: the gap between independent and assisted problem solving
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper presents Vygotsky's zone of proximal development as the construct at the centre of his sociocultural account of development. It quotes the canonical definition: the zone is "the difference between a child's 'actual developmental level as determined by independent problem solving' and the 'potential development as determined through problem solving under adult guidance or in collaboration with more capable peers'". The paper frames the ZPD as a connecting concept linking the social origins of mental functioning to assessment and instruction, noting it implies an alternative to static intelligence assessment and an account of how development occurs through interaction with more sophisticated partners.
@@ -37,7 +37,8 @@ The paper presents Vygotsky's zone of proximal development as the construct at t
 - intellectual development through social interaction with more capable partners
 
 ### Claims
-- 
+
+- [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](../claims/heterogeneous-scaffolds-sct-framework.md) [+W] — attached 2026-10-12 from Tang J et al. (2026), which proposed "Sociocultural account of feedback as scaffolding aligned to the Zone of Proximal Development".
 
 ## Related Theories
 

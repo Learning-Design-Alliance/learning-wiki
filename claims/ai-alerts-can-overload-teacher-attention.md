@@ -15,12 +15,14 @@ sources:
     author: Hansol Lee
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Real-time alerts about critical moments helped teachers understand multiple groups' progress, but could overload attention or disrupt natural observation flow in some cases. [→ Hansol Lee 2026](#hansol-lee-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hansol Lee. (2026). Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00461-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Swidan et al. (2019), a dual effect of real-time alerts: they "could help teachers understand the progress of multiple groups" while in some cases overloading attention or diverting focus from teachers' own observation. More AI signals did not necessarily yield better awareness.
 

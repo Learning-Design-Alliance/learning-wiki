@@ -15,12 +15,14 @@ sources:
     author: Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student submissions matched the LLM-generated reference bank more often in later cohorts, with 2025 incidence 1.76–2.12 times the 2021 rate, persisting among full-pass submissions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student–LLM match incidence was 1.06–1.19 times its 2021 rate in 2023 and 1.76–2.12 times that rate in 2025, with every annotated incidence comparison at BH-adjusted q < .001. [→ Runlong Ye 2026](#runlong-ye-2026)
@@ -31,7 +33,7 @@ sources:
 
 Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational cohort comparison of 29,970 final student submissions against 90,000 LLM attempts using MOSS with starter code excluded (Figure 2, Table 4). The article treats the interval tests as model-based descriptive annotations because of dependency in the data.
 

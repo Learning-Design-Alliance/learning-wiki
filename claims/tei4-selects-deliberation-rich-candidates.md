@@ -13,12 +13,14 @@ sources:
     title: schoenfeld-tei-1
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Starting from the Base R1 candidate pool, TEI@4 raises Explore from 20.3% to 31.1% (+10.8pp) and lowers General by −11.7pp, while Verify is roughly preserved (16.0→16.9%). [→ schoenfeld-tei-1](#schoenfeld-tei-1)
@@ -29,7 +31,7 @@ sources:
 
 Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Schoenfeld phase analysis of thinking-trace paragraphs (Table 9, GPT-4o-mini paragraph classifier at temperature 0): "TEI@4raises Explore by +10.8pp (20.3%→ 31.1%)". Aligned GRPO instead drops Verify to 5.6% and raises General to 73.2%. No effect size printed.
 

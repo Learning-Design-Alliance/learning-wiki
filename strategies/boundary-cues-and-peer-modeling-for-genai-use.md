@@ -38,7 +38,7 @@ This strategy operationalizes the contextual-support construct the article ident
 - verification as a normalized academic behavior
 
 ### Affordances
-- [Genai Collaboration Process Model](../theories/genai-collaboration-process-model.md)
+- Genai Collaboration Process Model
 
 ## Related Strategies
 

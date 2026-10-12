@@ -15,18 +15,22 @@ sources:
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: lin-2026-2
     resource: "https://arxiv.org/abs/2608.08852"
     title: "Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852"
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Raters identified the intended learner of shortlisted-system videos well above the 33.3% chance baseline, and the gap held in a mixed-effects logistic regression. [→ Lin 2026](#lin-2026)
@@ -38,7 +42,7 @@ sources:
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Persona-identification study: 69 Prolific raters chose which of three candidate personas a video was made for (chance 33.3%). Experimental-group videos (ten shortlisted systems) were identified "well above this baseline"; the static-retrieval baseline sat at chance. A mixed-effects logistic regression with random intercepts for video and rater confirmed the gap.
 
@@ -48,7 +52,7 @@ Persona-identification study: 69 Prolific raters chose which of three candidate 
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison against the human-video topline (eight Creative Commons videos with researcher-assigned best-fit personas): no statistically significant difference from the experimental group; equivalence was not tested.
 

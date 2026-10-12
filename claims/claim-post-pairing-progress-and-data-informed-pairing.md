@@ -15,18 +15,22 @@ sources:
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: kexin-bella-yang-2026-2
     resource: "https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
     title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both teachers and students ranked “Save progress and resume” highest and “Stop when teacher asks” lowest for smooth transitions. [→ Kexin Bella Yang 2026](#kexin-bella-yang-2026)
@@ -38,7 +42,7 @@ sources:
 
 Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Ranking results from Challenge 6 on smooth transitions between collaborative and individual activities. The article reports "Both teachers and students favored “Save progress and resume".
 
@@ -48,7 +52,7 @@ Ranking results from Challenge 6 on smooth transitions between collaborative and
 
 Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Ranking results from Challenge 7 on evaluating collaboration for future pairing. The article states "Teachers ranked “Both teachers and students rate”" as their favorite, while "Students rate" was least favored by both groups.
 

@@ -15,12 +15,14 @@ sources:
     author: Angxuan Chen, Jiyou Jia
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` High- and low-literacy groups differed significantly on the primary dimension of the ENA space (U = 683.50, p < .001, r = .35). [→ Angxuan Chen 2026](#angxuan-chen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Statistical comparison of projected ENA scores for 162 students split by median GenAI Literacy Test score into HG (n = 89) and LG (n = 73). The test "confirmed significant differences between the two groups" with r = .35, a medium effect. The design is associational, not causal.
 

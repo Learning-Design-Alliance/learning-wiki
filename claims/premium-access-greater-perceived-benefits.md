@@ -15,12 +15,14 @@ sources:
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Premium users reported greater use for finding information and brainstorming and higher perceived benefits, with the largest difference for completing tasks beyond current expertise (rrb = 0.46). [→ Manikonda 2026](#manikonda-2026)
@@ -31,7 +33,7 @@ sources:
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 FDR-corrected Mann–Whitney U item comparisons in the N=118 survey, premium versus free-only access. The article reports "completing tasks beyond current expertise (rrb = 0.46)" as the largest difference, followed by academic-work quality (0.40).
 

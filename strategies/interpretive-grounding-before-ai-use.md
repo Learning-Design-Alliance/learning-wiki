@@ -41,7 +41,7 @@ A pedagogical implication the article draws for SSH education in AI-mediated con
 - Individual authorial voice
 
 ### Affordances
-- [Developmental Critical Model Ai Ssh](../theories/developmental-critical-model-ai-ssh.md)
+- [Developmental Critical Model Ai Ssh](../designs/developmental-critical-model-ai-ssh.md)
 
 ## Related Strategies
 - 

@@ -13,12 +13,14 @@ sources:
     title: Tang J 2026
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the second task, teacher feedback on content and argumentation (M = 1.11) significantly exceeded AI-assisted peer feedback (M = 0.40), t(59) = −2.68, P = .010. [→ Tang J 2026](#tang-j-2026)
@@ -29,7 +31,7 @@ sources:
 
 Tang J, Li P, Luo R (2026) Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University. PLoS One 21(6): e0345976. https://doi.org/10.1371/journal.pone.0345976
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Independent-samples t-test on second-task feedback items per student in the two classes; the article reports the difference as significant with no effect size in this sentence. Teacher feedback total fell to 169 items with higher-order elements at 46.15% of total, while the experimental class's content suggestions "sharply decreased" and technical-detail feedback increased.
 

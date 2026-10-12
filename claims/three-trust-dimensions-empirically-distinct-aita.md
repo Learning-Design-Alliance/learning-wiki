@@ -15,12 +15,14 @@ sources:
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The three trust dimensions (ability, benevolence, integrity) are empirically distinct at the item level in students' responses about AI teaching assistants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A correlated three-factor trust model fit far better than a one-factor model, and a chi-square difference test decisively favored the three-factor structure. [→ Fu L 2026](#fu-l-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Threshold-independent nested-model test on the Time 1 trust item set (15 items, N = 450, no missing data); the three-factor model fit well (CFI = 0.996, RMSEA = 0.018, factor correlations r = 0.19–0.20) while the one-factor model fit markedly worse (CFI = 0.365, RMSEA = 0.219).
 

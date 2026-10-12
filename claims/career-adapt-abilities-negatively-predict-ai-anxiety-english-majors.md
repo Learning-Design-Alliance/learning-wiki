@@ -13,12 +13,14 @@ sources:
     title: Wang X 2026
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Career adapt-abilities significantly and negatively predict AI anxiety among English majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Career adapt-abilities negatively correlate with AI anxiety (r = -0.324, p < 0.001) and negatively predict it in regression (β = -0.245, p < 0.001). [→ Wang X 2026](#wang-x-2026)
@@ -29,7 +31,7 @@ sources:
 
 Wang X (2026) The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered. Front. Psychol. 17:1767791. https://doi.org/10.3389/fpsyg.2026.1767791
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional survey of 444 English majors at four comprehensive universities in Sichuan, China, using the Career Adapt-Abilities Scale, Core Self-Evaluation Scale, and AI Anxiety Scale. Correlation analysis found career adapt-abilities "negatively correlated with AI anxiety (r = −0.324, p < 0.001)".
 

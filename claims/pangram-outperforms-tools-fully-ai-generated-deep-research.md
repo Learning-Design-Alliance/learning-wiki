@@ -15,18 +15,22 @@ sources:
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: marijke-van-vlasselaer-2026-2
     resource: "https://doi.org/10.1007/s40979-026-00226-w"
     title: "Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w"
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # On fully AI-generated papers produced with ChatGPT Deep Research, Pangram achieved 65% strict accuracy while Turnitin, GPTZero and Copyleaks classified essentially all papers as false negatives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pangram was the only tool that performed well on fully AI-generated papers, with strict accuracy of 65% and inclusive accuracy of 97.5%. [→ Marijke Van Vlasselaer 2026](#marijke-van-vlasselaer-2026)
@@ -38,7 +42,7 @@ sources:
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Classification accuracy analysis of the synthetic dataset (n = 40 fully AI-generated papers generated with ChatGPT Deep Research mode, ground truth = 100% AI), scored against predefined accuracy scales from Weber-Wulff et al. The article reports "a strict accuracy of 65% and an inclusive accuracy of 97.5%" for Pangram.
 
@@ -48,7 +52,7 @@ Classification accuracy analysis of the synthetic dataset (n = 40 fully AI-gener
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same classification accuracy analysis of the 40 fully AI-generated papers. The article reports Turnitin classified "100% of the Fully AI generated papers as False Negatives" and Copyleaks had 75% False Negatives and 25% Partially False Negatives; no effect size is printed.
 

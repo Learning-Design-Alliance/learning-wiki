@@ -13,12 +13,14 @@ sources:
     title: Vega-Baudrit JR and Rivera Álvarez A 2026
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GenAI answers in chemistry can be grammatically polished and persuasive while violating chemical constraints such as mass or charge balance, units, mechanisms, spectra, or safety. [→ Vega-Baudrit JR and Rivera Álvarez A 2026](#vega-baudrit-jr-and-rivera-alvarez-a-2026)
@@ -29,7 +31,7 @@ sources:
 
 Vega-Baudrit JR and Rivera Álvarez A (2026) Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model. Front. Educ. 11:1918707. https://doi.org/10.3389/feduc.2026.1918707
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of benchmark studies in general chemistry, acid-base calculations, laboratory reporting, academic answers, and organic reaction mechanisms, reporting that "explanatory sophistication does not guarantee chemical validity". No effect sizes are printed; the claim characterizes documented error patterns.
 

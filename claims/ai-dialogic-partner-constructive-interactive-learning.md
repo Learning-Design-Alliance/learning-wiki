@@ -15,18 +15,22 @@ sources:
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: rummel-2026-2
     resource: "https://arxiv.org/abs/2609.09856"
     title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Generative AI can act as a 'sparring partner' stimulating critical engagement and helping learners develop and test their own ideas rather than simply consuming information (as argued by Kasneci et al., 2023). [→ Rummel 2026](#rummel-2026)
@@ -38,7 +42,7 @@ sources:
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Attributed position reported in the constructive-use section: the article cites Kasneci et al. (2023) describing generative AI as a "sparring partner" that stimulates critical engagement. This is the reviewed work's argument as the article presents it, not a new empirical result.
 
@@ -48,7 +52,7 @@ Attributed position reported in the constructive-use section: the article cites 
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' interpretation in the interactive-use section: dialogue-partner uses of AI (citing Song et al., 2025 and Goda et al., 2025) move beyond passive or active engagement by situating the learner in ongoing conversation. Conceptual mapping, no data reported.
 

@@ -15,18 +15,22 @@ sources:
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: léonard-boussioux-2026-2
     resource: "https://arxiv.org/abs/2609.38183"
     title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183"
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Business sector only weakly explains which visual archetype a vibe-coded site receives, and sector is not significantly associated with per-site originality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The association between business sector and archetype assignment is real but modest (adjusted mutual information 0.20 for nine sector groups, 0.26 for 31 fine-grained types; both exceed a permutation null at p < .001). [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)
@@ -38,7 +42,7 @@ sources:
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Artifact-layer analysis relating the 73 sites' business sectors (Table 1) to their archetype assignments. The article reports adjusted mutual information of "0.20between the nine sector groups" and 0.26 for fine-grained types, both exceeding a permutation null, and notes every large archetype spans several sectors.
 
@@ -48,7 +52,7 @@ Artifact-layer analysis relating the 73 sites' business sectors (Table 1) to the
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same artifact-layer corpus, testing sector differences in per-site originality. The Kruskal–Wallis test is not significant (p = .064); the medians reported (82%, 82%, 70%, 72%) are descriptive. The article notes businesses closest to the model's training material received the most interchangeable designs.
 

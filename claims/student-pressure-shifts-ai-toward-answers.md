@@ -15,12 +15,14 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` When students directly requested answers, the likelihood of the AI providing a direct answer rose 13.6 percentage points (26.1% vs. 12.5%; r = 0.14, p<.001). [→ Alex Liu 2026](#alex-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Analysis of AI behavioral adherence under explicit student pressure (e.g., requests to just tell the answer or rewrite work). The article reports r = 0.14, p<.001, a small printed correlation, and notes the AI maintained scaffolded interaction in the majority of cases.
 

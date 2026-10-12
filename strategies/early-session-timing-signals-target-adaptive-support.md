@@ -38,7 +38,7 @@ The article recommends that timing-based signals be used to identify early risk 
 - detecting emerging disengagement and low persistence; targeting adaptive support when effort is most diagnostic
 
 ### Affordances
-- [Response Time Propensities Construct](../theories/response-time-propensities-construct.md)
+- [Response Time Propensities Construct](../research-methods/response-time-effort-rte.md)
 
 ## Related Strategies
 

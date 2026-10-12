@@ -37,8 +37,8 @@ The article closes by positioning AI literacy differently from the other interve
 - Building a working model of language models and targeted verification habits
 
 ### Affordances
-- [Swiss Cheese Layered Trust Defense](../theories/swiss-cheese-layered-trust-defense.md)
-- [Ability Motivation Verify Typology](../theories/ability-motivation-verify-typology.md)
+- Swiss Cheese Layered Trust Defense
+- Ability Motivation Verify Typology
 
 ## Related Strategies
 

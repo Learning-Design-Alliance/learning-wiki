@@ -15,18 +15,22 @@ sources:
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: griffin-pitts-2026-2
     resource: "https://arxiv.org/abs/2604.01114"
     title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i?` In a regression, trust was a strong negative predictor of appropriate reliance (b = -3.65, p < .001, R2 = .173). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -38,7 +42,7 @@ sources:
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Ordinary least squares regression in the Results section predicting appropriate reliance from post-task trust among 432 undergraduates. The article reports "b=−3.65" with p < .001 and R2 = .173; no standardized effect size is printed, so impact is null.
 
@@ -48,7 +52,7 @@ Ordinary least squares regression in the Results section predicting appropriate 
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i3`
+`q3 · i3` · `associational · r1`
 
 Pearson correlations reported in the Results section of the same 432-participant study: "r=−.42" for appropriate reliance and "r=−.38" for task accuracy, both p < .001. A correlation of .42 exceeds the .37 threshold for a large effect.
 

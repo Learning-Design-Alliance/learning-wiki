@@ -15,12 +15,14 @@ sources:
     author: Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In binary and source-specific comparisons, no significant differences in perceived curricular alignment were observed. [→ Vogt P 2026](#vogt-p-2026)
@@ -31,7 +33,7 @@ sources:
 
 Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F. (2026). Can students identify AI? – A cross-sectional quantitative study about AI recognition in tablet-based MCQ assessment among fifth-year undergraduate medical students at Saarland University, Germany. BMC Medical Education. https://doi.org/10.1186/s12909-026-10410-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Kruskal–Wallis comparison of student-perceived curricular alignment across ChatGPT, Google Gemini and NLE items in the exam study. The binary AI vs NLE comparison was also non-significant (U = 188, p = 0.978; mixed-effects OR = 1.04, 95% CI 0.385–2.81, p = 0.938).
 

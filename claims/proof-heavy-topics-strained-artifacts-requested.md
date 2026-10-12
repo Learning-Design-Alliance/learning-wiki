@@ -15,18 +15,22 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: jin-guo-liu-2026-2
     resource: "https://arxiv.org/abs/2606.23315"
     title: "Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315"
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Free-text complaints concentrated on reductions, NP-completeness, PSPACE, and an overloaded week, described as too terse. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -38,7 +42,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Free-text survey comments from the end-of-term survey (N=18), analyzed qualitatively. Complaints "concentrate on later proof-heavy topics"; the authors link this to cognitive-load and proof-scaffolding work. No effect sizes printed.
 
@@ -48,7 +52,7 @@ Free-text survey comments from the end-of-term survey (N=18), analyzed qualitati
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Improvement-ranking items from the same survey (N=18). "11 of 18 for more worked examples" and 11 for a practice-problem bank; the authors conclude the next iteration should improve artifacts before weakening the weekly gate.
 

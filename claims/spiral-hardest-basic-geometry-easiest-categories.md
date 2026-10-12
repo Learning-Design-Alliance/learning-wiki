@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the six task categories, models perform best on Basic Geometry, while Spiral is consistently the most challenging category for all models. [→ Chao Wen 2026](#chao-wen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Fine-grained analysis of symbolic success rates across task categories (Figure 5a) for representative VLMs including o3, GPT-5, GPT-4o, and Qwen2-VL-72B variants. The article found "Spiral is consistently the most challenging category", attributing this to long-horizon sequential control; Composite tasks were not uniformly harder than single-transformation tasks. No effect size is printed.
 

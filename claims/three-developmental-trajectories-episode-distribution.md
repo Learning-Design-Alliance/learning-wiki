@@ -15,12 +15,14 @@ sources:
     author: Voicu, C.-G.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 42 observed episodes, 15 were classified as AI-dependent, 16 as AI-enhanced, and 11 as AI-critical, corresponding to 35.71%, 38.10%, and 26.19% respectively. [→ Voicu 2026](#voicu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Abductive coding of the 42-episode observational corpus (Table 2, Figure 3) classified episodes by degree of learner elaboration, verification, reformulation, and critical engagement. The article reports that "fully critical engagement remains less frequent" while hybrid and partially scaffolded AI use is most common.
 

@@ -15,12 +15,14 @@ sources:
     author: Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In some scientific reasoning settings, LLM-based judges show preference-matching accuracy on the order of about 65% relative to expert human preferences, threatening evaluation of open-ended simulated-student behavior. [→ Zhihao Yuan 2026](#zhihao-yuan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The review reports, citing Zhao et al. (2025), a broader non-verifiability crisis in which automated evaluators may fail to distinguish a student who is productively struggling from a simulator that is convincingly hallucinating. The cited study's design is not described in this article.
 

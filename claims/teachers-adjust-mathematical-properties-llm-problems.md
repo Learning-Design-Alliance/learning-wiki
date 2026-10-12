@@ -15,12 +15,14 @@ sources:
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No instances of teachers identifying mathematical errors in final versions were seen, but teachers made 25 moves requesting mathematical clarification or vocabulary adjustment and critiqued number choice in 16 cases. [→ Walkington 2025](#walkington-2025)
@@ -31,7 +33,7 @@ sources:
 
 Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of teacher prompting moves found no identified mathematical errors in final problem versions, though teachers made 25 prompt moves requesting mathematical clarification or vocabulary adjustment and critiqued the LLM's number choice in 16 cases. Additionally, 18 student comments described lack of clarity of the mathematics.
 

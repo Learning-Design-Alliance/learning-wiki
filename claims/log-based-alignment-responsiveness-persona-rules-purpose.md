@@ -15,18 +15,22 @@ sources:
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: riahi-2026-2
     resource: "https://arxiv.org/abs/2609.29993"
     title: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993"
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Log-based evaluation showed chatbot alignment was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bot-level evaluation of 27 unique chatbots across four criteria found responsiveness was the strongest dimension (88.9% pass, Avg = 3.67) and purpose alignment the weakest (59.3% pass, Avg = 3.00). [→ Riahi 2026](#riahi-2026)
@@ -38,7 +42,7 @@ sources:
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Log-based evaluation of 27 unique chatbot configurations using a four-criterion rubric (Responsiveness, Purpose, Rules, Persona) rated on a four-point ordinal scale and collapsed to pass/fail. Full dataset comprised 1,160 criterion-level evaluations.
 
@@ -48,7 +52,7 @@ Log-based evaluation of 27 unique chatbot configurations using a four-criterion 
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Bot-level evaluation found purpose alignment weakest, followed by rule adherence (70.4%, Avg = 3.26) and persona (81.5%, Avg = 3.48), suggesting a gap between general conversational performance and fidelity to teacher-defined configurations.
 

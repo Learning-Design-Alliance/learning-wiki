@@ -15,12 +15,14 @@ sources:
     author: "Binkowski, K. P., & Hopkins, A."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In STAT1170, a large introductory statistics unit enrolling approximately 1200 undergraduate students per session, AI-enabled elements were introduced aiming to support engagement and conceptual understanding while positioning AI as complementing rather than replacing statistical reasoning. [→ Binkowski 2026](#binkowski-2026)
@@ -31,7 +33,7 @@ sources:
 
 Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Case-study description of AI-enabled curriculum innovations in STAT1170, including AI-assisted statistical poster assessment, AI-enhanced pre-recorded lectures, and a university-provided AI "Virtual Peer" chatbot offering on-demand study support based on unit materials. The authors state these interventions "aim to support engagement and conceptual understanding"; no outcome data are reported.
 

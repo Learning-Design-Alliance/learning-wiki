@@ -1,0 +1,30 @@
+---
+type: research-method
+id: multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors
+title: Multi-turn synthetic-dialogue evaluation protocol for AI tutors
+description: A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated.
+status: draft
+generated:
+  by: "process:settle-candidates"
+  at: 2026-10-12
+---
+
+# Multi-turn synthetic-dialogue evaluation protocol for AI tutors
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
+
+## Description
+A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated. The article introduces "a novel multi-turn evaluation protocol that combines a fine-tuned student model and a fine-tuned tutor model to generate a large number of synthetic dialogues." Each evaluation point corresponds to 100 simulated conversations (10 repetitions across 10 student models) to limit variability and ensure reproducibility.
+
+## Accounts
+<!-- How each source describes or uses the method -->
+- **Multi-turn evaluation protocol combining a fine-tuned student model with single-shot LLM judging**: A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated. The article introduces "a novel multi-turn evaluation protocol that combines a fine-tuned student model and a fine-tuned tutor model to generate a large number of synthetic dialogues." Each evaluation point corresponds to 100 simulated conversations (10 repetitions across 10 student models) to limit variability and ensure reproducibility. (Janos Perczel et al. (2025))
+
+### Claims
+
+## Related Research Methods
+-
+
+## Key Sources
+- Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087

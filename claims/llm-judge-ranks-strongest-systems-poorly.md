@@ -15,12 +15,14 @@ sources:
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: 1
+    kind: design
+    rigour: 3
 ---
 
 # The LLM-judge separates weak submissions but its ranking of the strongest systems has almost no agreement with crowd ranking (Spearman ρ = −0.17)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The judge's ranking of the ten shortlisted systems correlates negatively with the crowd's Elo ranking (ρ = −0.17); the eventual winner ranked fourth under the judge while the judge's top two finished eighth and tenth with the crowd. [→ Lin 2026](#lin-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i1`
+`q2 · i1` · `design · r3`
 
 Comparison of Layer 1 judge ranking against Layer 2 crowd Elo ranking for the ten shortlisted systems, showing "almostno agreement" (ρ = −0.17). The mismatch is not measurement noise: judge scores were stable across repeated runs (median within-cell SD 0.14), and tsunumon's 90% Elo interval overlapped neither Team 67's nor Kuro's.
 

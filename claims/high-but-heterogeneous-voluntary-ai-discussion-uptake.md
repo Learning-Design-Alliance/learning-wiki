@@ -15,12 +15,14 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Classroom-level participation rates averaged 85.0% (median 88.9%) among implemented TASD activities, with substantial variation across teachers and discussions (1–98 conversations per discussion). [→ Alex Liu 2026](#alex-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive adoption analysis from platform logs across 39 classrooms and 77 implemented activities. The article reports average participation of 85.0% and notes participation ranged from 1 to 98 conversations within given TASD activities, with English Language Arts the largest deployment (708 conversations, 48%).
 

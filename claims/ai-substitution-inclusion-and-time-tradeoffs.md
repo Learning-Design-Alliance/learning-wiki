@@ -15,18 +15,22 @@ sources:
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: rummel-2026-2
     resource: "https://arxiv.org/abs/2609.09856"
     title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Substituting school assignments with generative AI might promote inclusion and participation among students who would otherwise struggle due to special needs or language barriers. [→ Rummel 2026](#rummel-2026)
@@ -38,7 +42,7 @@ sources:
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' reasoned conjecture in the substitution section: while unlikely to foster high cognitive engagement, AI substitution of assignments "might nonetheless promote inclusion and participation" for struggling students. Presented as a hypothetical opportunity, not a tested result.
 
@@ -48,7 +52,7 @@ Authors' reasoned conjecture in the substitution section: while unlikely to fost
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' stated trade-off on the substitution opportunity: freeing time for searching, reading, synthesizing, and revising comes with the risk that "Reliance on AI for basic functions risks diminishing the acquisition of foundational skills". A theoretical caveat, not an empirical finding.
 

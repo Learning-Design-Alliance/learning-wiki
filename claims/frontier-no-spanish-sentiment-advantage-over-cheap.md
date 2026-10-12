@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # On Spanish sentiment, the 2026 frontier model shows no advantage over the cheap model, with Haiku zero-shot at 0.923 versus Opus zero-shot at 0.884 and the head-to-head McNemar favoring Haiku
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On the Spanish held-out set, Claude Opus 4.8 shows no sentiment advantage over the cheaper Claude Haiku 4.5; the descriptive head-to-head favors Haiku. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive paired comparison of prompted LLM arms on the 233-comment Spanish held-out set. The article reports Haiku zero-shot sentiment weighted F1 of 0.923 versus Opus zero-shot at 0.884, with McNemar counts "𝑏=13, 𝑐=4 in Haiku’s favor"; no significance is claimed.
 

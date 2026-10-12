@@ -15,18 +15,22 @@ sources:
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: dang-2026-2
     resource: "https://arxiv.org/abs/2610.07097"
     title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a two-cohort difference-in-differences design (170 students, 340 marks), access to verified AI materials was associated with a 2.34-mark advantage (p = 0.045 HC1; p = 0.013 clustered). [→ Dang 2026](#dang-2026)
@@ -38,7 +42,7 @@ sources:
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Difference-in-differences analysis of examination marks in a compulsory first-year economics course, one treated course-half in 2024/25 against a contemporaneous untreated half and a pre-intervention cohort (85 students per cell; 340 observations). The article reports the estimate as 0.33 standard deviations of the pre-intervention Part 2 distribution, an intention-to-treat effect of "access".
 
@@ -48,7 +52,7 @@ Difference-in-differences analysis of examination marks in a compulsory first-ye
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Decomposition of the difference-in-differences estimate in the same OLS analysis: the treated half's mean rose non-significantly, and the article states the estimate "describes protection from a decline rather than a rise". H1 receives qualified support pending the sensitivity results.
 

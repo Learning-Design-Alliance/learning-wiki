@@ -15,12 +15,14 @@ sources:
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fifteen teachers explicitly requested hybrid systems that support automated generation from prompts followed by manual, object-level refinement. [→ Zhengxu Li 2026](#zhengxu-li-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Interview findings from the 24-teacher mixed-methods study: "15 teachers explicitly requested systems that support automated generation from prompts followed by manual, object-level refinement". Pre-gen received the highest mean score on Q9 (ideation). No effect size printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The experimental group's pre-to-post reduction in compression rate deviation substantially exceeded the control group's change (Cohen's d = −1.52), and gains transferred to an unscaffolded one-minute post-test. [→ Yibo Meng 2026](#yibo-meng-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Randomised controlled study (T1 pre-test, T2 10-minute intervention, T3 post-test) with 40 lay community members in Tibet; experimental n=20, control n=20. The between-group change-score contrast gave "Cohen's𝑑=− 1.52"; an ANCOVA controlling for T1 mirrored it (F(1,37)=54.64, partial η²=.596).
 

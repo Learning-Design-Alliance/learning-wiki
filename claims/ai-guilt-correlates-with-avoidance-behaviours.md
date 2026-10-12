@@ -15,18 +15,22 @@ sources:
     author: Diane Vassallo
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: diane-vassallo-2026-2
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
     title: "Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3"
     author: Diane Vassallo
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Guilt correlated with limiting use due to uneasiness (r = .62), avoiding AI for peer-reviewed work (r = .51), avoiding disclosure to colleagues (r = .50), and emotional responses influencing use (r = .48), all p < .001. [→ Diane Vassallo 2026](#diane-vassallo-2026)
@@ -38,7 +42,7 @@ sources:
 
 Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlation analysis of the 109-respondent survey found "the strongest correlations emerged between guilt and limiting use due to uneasiness" (r = .62), avoiding AI for peer-reviewed work (r = .51), and avoiding disclosure to colleagues (r = .50), all p < .001.
 
@@ -48,7 +52,7 @@ Correlation analysis of the 109-respondent survey found "the strongest correlati
 
 Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The same correlation analysis found formal disclosure in academic outputs showed no significant relationship with guilt (r = .08, p = .398); equivalence was not tested. Seeking co-author permission showed a weak, non-significant correlation (r = .18, p = .062).
 

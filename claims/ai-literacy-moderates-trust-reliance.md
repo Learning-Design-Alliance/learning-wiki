@@ -15,18 +15,22 @@ sources:
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: griffin-pitts-2026-2
     resource: "https://arxiv.org/abs/2604.01114"
     title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The trust × AI literacy interaction was negative (b = -1.03, p = .014). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -38,7 +42,7 @@ sources:
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderation regression in the Results section (Table 2) with standardized trust and AI literacy among 432 participants; the interaction coefficient was b = -1.03, p = .014. No standardized effect size is printed.
 
@@ -48,7 +52,7 @@ Moderation regression in the Results section (Table 2) with standardized trust a
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The Results section describes the interaction pattern plotted in Figure 4a with 95% confidence bands; conditional slopes were approximately -3.59, -4.62, and -5.65 at -1 SD, the mean, and +1 SD AI literacy. No effect size is printed.
 

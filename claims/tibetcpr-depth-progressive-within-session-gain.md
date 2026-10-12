@@ -15,12 +15,14 @@ sources:
     author: Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A linear mixed-effects model on per-minute depth accuracy found a highly significant Group×Minute interaction (β=+0.030 per minute, p<.001). [→ Yibo Meng 2026](#yibo-meng-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Minute-by-minute analysis of the 10-minute T2 phase with a linear mixed-effects model (Group, centred Minute, interaction, random intercept per participant). The printed "𝛽=+ 0.030per minute" is an unstandardised slope, so no standardised effect size is reported.
 

@@ -15,12 +15,14 @@ sources:
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # The team's open-track submissions with added features surpassed all other shared task submissions on all three languages, with RMSE near 0.7
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The open_max and finetuned_llms_plus submissions achieved the best open-track results on Chinese, German, and Spanish, with mean RMSE of 0.699, close to the reported statistical optimum of 0.277. [→ Adam Nohejl 2026](#adam-nohejl-2026)
@@ -31,7 +33,7 @@ sources:
 
 Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
 
-`q2 · i?`
+`q2 · i?` · `design · r?`
 
 Open-track results (Section 5.1, Table 2) report RMSE by L1 for the submissions: open_max mean 0.699, finetuned_llms_plus mean 0.699, finetuned_llms mean 0.710, against an open-track baseline mean of 1.133. The article notes the RMSE of approximately 0.7 is "relatively close to the statistical optimum of 0.277."
 

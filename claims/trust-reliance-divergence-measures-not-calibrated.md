@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` False ChatGPT information changed reported trust without measured acceptance or rejection of a specific recommendation, and reliance scales not tied to output correctness cannot classify reliance as calibrated. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Amaro et al. (2024), a user study showing false ChatGPT information changed reported trust without measuring subsequent acceptance or rejection. It adds that Hou et al.'s reliance scale "cannot by itself classify reliance as calibrated" because patterns are not tied to correct or incorrect AI suggestions.
 

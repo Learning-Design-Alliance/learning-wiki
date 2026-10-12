@@ -13,12 +13,14 @@ sources:
     title: tei4-vs-dtr4-1
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TEI@4 raises ΔSol from .180 to .184, lowers Leak from .583 to .572, and improves R_total from .272 to .280, while DTR@4 moves these only marginally (+.000/−.002/+.002). [→ tei4-vs-dtr4-1](#tei4-vs-dtr4-1)
@@ -29,7 +31,7 @@ sources:
 
 Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Main results comparison (Table 2, Section 4.2) among training-free rows on the DeepSeek-R1-8B base across 1,000 in-domain BigMath scenarios. Differences are small in absolute terms; no effect size printed.
 

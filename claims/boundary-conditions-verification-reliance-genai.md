@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prior knowledge, gender, proficiency, task stakes, verification costs, accountability, task verifiability, AI system/configuration, and multidimensional AI literacy are identified as boundary conditions, though the mappings are analytic expectations rather than established moderator effects. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's discussion maps candidate moderators onto measurement targets, citing Dávila et al. (2025) on prior knowledge and gender as moderators of advice weighting and Rheu and Cho (2025) on dimension-specific AI-literacy effects. It states these "are analytic expectations rather than established moderator eﬀects".
 

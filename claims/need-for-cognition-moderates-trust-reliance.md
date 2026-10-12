@@ -15,18 +15,22 @@ sources:
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: griffin-pitts-2026-2
     resource: "https://arxiv.org/abs/2604.01114"
     title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Need for cognition moderated the trust–appropriate reliance association (b = -0.99, p = .040). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -38,7 +42,7 @@ sources:
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Moderation regression in the Results section (Table 2) with standardized trust and need for cognition among 432 participants; interaction b = -0.99, p = .040. No standardized effect size is printed.
 
@@ -48,7 +52,7 @@ Moderation regression in the Results section (Table 2) with standardized trust a
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The Results section reports conditional trust slopes from the need-for-cognition moderation model, plotted in Figure 4b with 95% confidence bands. No standardized effect size is printed.
 

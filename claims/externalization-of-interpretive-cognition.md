@@ -15,12 +15,14 @@ sources:
     author: Voicu, C.-G.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students increasingly delegate thematic identification, contextual explanation, and comparative analysis to AI systems, reducing engagement with ambiguity, complexity, and textual nuance. [→ Voicu 2026](#voicu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Result of the abductive analysis of the 42-episode observational corpus, reported in Section 4.1 as one of three macro-transformations. The article states such outputs "reduce opportunities to engage with ambiguity, complexity, and textual nuance" and may encourage shallow reading practices.
 

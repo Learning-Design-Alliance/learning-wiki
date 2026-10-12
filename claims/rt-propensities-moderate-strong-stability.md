@@ -13,12 +13,14 @@ sources:
     title: stability-1
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Response-time propensities show moderate to strong within-student stability across practice session slices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student-level response-time propensity estimates are stable across session quartiles, with early-to-late correlations around r = .55, supporting an individual-differences interpretation. [→ stability-1](#stability-1)
@@ -29,7 +31,7 @@ sources:
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-slice correlation analysis of student random-effect estimates from the response-time propensity model, fit to step-level logs from eight algebra tutoring deployments (794 students). The article reports early-to-late stability of "𝑟=. 55(Q1–Q4)" and the strongest adjacent-slice association at Q3–Q4.
 

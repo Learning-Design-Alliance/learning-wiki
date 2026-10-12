@@ -39,7 +39,7 @@ The author proposes running a model like TRACE continuously as student grade dat
 - early identification of students needing intervention before problems arise
 
 ### Affordances
-- [Trace Transformer Architecture](../theories/trace-transformer-architecture.md)
+- [Trace Transformer Architecture](../research-methods/trace-transformer-for-academic-course-grade-estimation.md)
 
 ## Related Strategies
 - 

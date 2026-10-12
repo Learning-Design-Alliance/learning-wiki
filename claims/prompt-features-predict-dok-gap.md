@@ -15,18 +15,22 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: alex-liu-2026-2
     resource: "https://arxiv.org/abs/2604.16738"
     title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prompts specifying explicit task endpoints (β=−0.22, p<.001) were associated with smaller DOK gaps. [→ Alex Liu 2026](#alex-liu-2026)
@@ -38,7 +42,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 OLS regression of DOK gap on prompt characteristics (N = 1,362, robust SEs clustered by discussion; R² = 0.21). The article reports the finish-line coefficient β=−0.22, p<.001, an unstandardized coefficient with no printed effect size.
 
@@ -48,7 +52,7 @@ OLS regression of DOK gap on prompt characteristics (N = 1,362, robust SEs clust
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same OLS model (Table 5). The article reports the explain-reasoning coefficient β=+0.20, p<.001, and cautions the positive coefficient may reflect residual association after controlling for target DOK rather than a negative effect of epistemic framing.
 

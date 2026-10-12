@@ -15,12 +15,14 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Aggregate course evaluations moved modestly against the 2023 offering and written comments split, with a share of the cohort critiquing the instructor's own AI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Against Spring 2023, the overall summative median was 3.8 against 3.9, the instructor-contribution median 3.8 against 4.1, and the challenge-and-engagement index 4.2 against 5.1, with the college decile rank falling from four to two. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Aggregate anonymous IASystem course evaluations for the 46-student Spring 2026 section, compared descriptively with the same course by the same instructor in Spring 2023. The author reports these as context rather than as an effect of any single change, since the comparison is uncontrolled and the cohorts differ.
 

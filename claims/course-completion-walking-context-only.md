@@ -15,12 +15,14 @@ sources:
     author: Yuanzhe Dong, Jie Cao, Shuman Wang
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students completed the course and achieved robot walking, but no learning gains are reported; the paper's evidence is limited to expert perspectives on the initial design. [→ Yuanzhe Dong 2026](#yuanzhe-dong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The article's own statement of evidence scope: implementation context only, with student outcome data deferred to a separate study. The quote confirms "their performance and learning data are reserved for a separate study." No learning measurements are reported here.
 

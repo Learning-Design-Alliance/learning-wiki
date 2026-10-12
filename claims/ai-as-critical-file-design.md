@@ -15,12 +15,14 @@ sources:
     author: Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Withholding answers and constraining the AI to return questions maintains productive struggle and forces the user to decide the direction of revision, elevating the user from Maker to Manager. [→ Riichiro Mizoguchi 2026](#riichiro-mizoguchi-2026)
@@ -31,7 +33,7 @@ sources:
 
 Riichiro Mizoguchi, Tomoki Aburatani, Kento Koike, Machi Shimmei. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering —Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI—. arXiv preprint. https://arxiv.org/abs/2608.05545
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 A design argument stated in the related-work section of this position paper, not an experimentally tested result. The authors argue the constraint answers the warning of critical digital pedagogy and places the design within hybrid intelligence designs where the human side retains the authority to decide.
 

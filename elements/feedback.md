@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 37 claims (22 for, 12 mixed, 3 against) · 48 studies (18 quant-synthesis, 15 causal, 9 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 19 of 48 report an effect size · 19 claims rest on one study
+> **Evidence** · 38 claims (23 for, 12 mixed, 3 against) · 49 studies (18 quant-synthesis, 15 causal, 9 review, 3 associational, 2 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 19 of 49 report an effect size · 20 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -86,6 +86,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](../claims/awe-improve-precision-fluency-grammatical-proficiency.md) [+W] — attached 2026-10-10 from Gres et al. (2026), which proposed "Automated Writing Evaluation (AWE) tools: Grammarly, Quillbot and DeepL Write"; tests this page's relationship.
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](../claims/ai-multimodal-feedback-equivalent-learning-gains.md) [~M] — attached 2026-10-11 from Chloe Qianhui Zhao et al. (2026), which proposed "Real-time AI-facilitated multimodal feedback system integrating structured text, retrieved slide pages, and streaming audio narration"; tests this page's relationship.
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](../claims/ai-feedback-higher-perceived-quality-value.md) [+M] — attached 2026-10-11 from Chloe Qianhui Zhao et al. (2026), which proposed "Real-time AI-facilitated multimodal feedback system integrating structured text, retrieved slide pages, and streaming audio narration".
+- [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](../claims/ai-feedback-tool-supports-feedback-literacy-development.md) [+W] — attached 2026-10-12 from Laura Tubino (2022), which proposed "AI automated feedback tool piloted university-wide for student feedback".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

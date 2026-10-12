@@ -15,12 +15,14 @@ sources:
     author: "Wong, S. S. H., & Qiu, S. X."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Both the human-only and general-AI groups declined in originality from the product improvement task to the more complex product invention task (d = −0.31 and d = −1.05 respectively), while the regulated-AI group sustained their originality (d = 0.08). [→ Wong 2026](#wong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wong, S. S. H., & Qiu, S. X. (2026). Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10118-7
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Within-group simple effects from the mixed ANOVA on originality across the two creative tasks. "both the human-only and general-AI groups declined in their originality" while "the regulated-AI group sustained their originality across both tasks." The product invention task was described as relatively more complex, requiring creation of a new product rather than improving an existing one.
 

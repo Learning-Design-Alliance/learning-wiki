@@ -15,18 +15,22 @@ sources:
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: peilin-zhan-2026-2
     resource: "https://arxiv.org/abs/2605.05958"
     title: "Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958"
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Analytically, the DR estimator's bias is bounded by the product of propensity and imputation errors, and its generalization bound contains a variance term scaling with squared imputation error
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Lemma 1 proves the DR estimator is unbiased if either the propensity model or the imputation model is accurate, with bias bounded by the product of the two models' errors. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -38,7 +42,7 @@ sources:
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analytical derivation (Lemma 1, Section 4.3) with proof sketch in the article and full proofs in Appendix F. The article states the bias bound confirms the double robustness property and yields second-order error decay when both models are learned with expressive estimators.
 
@@ -48,7 +52,7 @@ Analytical derivation (Lemma 1, Section 4.3) with proof sketch in the article an
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analytical derivation (Theorem 1, Section 4.4) using the Azuma-Hoeffding inequality over the sequential interaction structure. The article states inaccuracy in the imputation model loosens the bound and leads to unstable training, motivating the temporal smoothness constraint.
 

@@ -15,18 +15,22 @@ sources:
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: heidi-taveter-and-marina-lepp-2026-2
     resource: "https://arxiv.org/abs/2607.24757"
     title: "Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757"
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers using the tool in a 160-student introductory programming course appreciated the visual overview of activity types and clearly marked pauses, and reported that the tool helped identify largely copied solutions and incorrect or incomplete log files. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)
@@ -38,7 +42,7 @@ sources:
 
 Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Teacher pilot in the Introduction to Programming course with 160 students and five teachers, with feedback gathered through informal teacher-led reviews and written comments. The article reports that "Teachers particularly appreciated the initial visual overview of different activity types and the clearly marked pauses" and that the tool helped identify cases where solutions were largely copied. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ Teacher pilot in the Introduction to Programming course with 160 students and fi
 
 Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Iterative refinement during the same pilot: corrections were typically completed within a few days of feedback. Implemented changes included 15x and 30x replay speeds, red coloring of solving times below 10 minutes, and performance improvements for student-by-student review; a time-window selection suggestion was not yet implemented.
 

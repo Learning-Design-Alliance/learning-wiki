@@ -15,12 +15,14 @@ sources:
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Hedonic motivation (β = 0.210) and habit (β = 0.220) were particularly strong predictors of behavioral intention, and habit also had a substantial direct effect on use behavior (β = 0.210). [→ Xin Tian 2026](#xin-tian-2026)
@@ -31,7 +33,7 @@ sources:
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 PLS-SEM structural results from the Lesotho survey (n = 842) report hedonic motivation and habit as the largest intention predictors, each with printed f2 = 0.061, and habit's use-behavior path with f2 = 0.061, per Table 8.
 

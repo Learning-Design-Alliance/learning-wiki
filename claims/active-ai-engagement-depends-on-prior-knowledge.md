@@ -15,18 +15,22 @@ sources:
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: rummel-2026-2
     resource: "https://arxiv.org/abs/2609.09856"
     title: "Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856"
     author: "Rummel, N., Nachtigall, V., & Panadero, E."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The more experienced learners are in academic writing, the more thoroughly they revise an AI-generated text (as reported from Radtke & Rummel, 2025). [→ Rummel 2026](#rummel-2026)
@@ -38,7 +42,7 @@ sources:
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Second-hand finding reported in the active-use section: the article attributes to Radtke and Rummel (2025) that writing experience relates positively to depth of revision of AI-produced text. The reviewed study's design is not described here; no effect size is printed.
 
@@ -48,7 +52,7 @@ Second-hand finding reported in the active-use section: the article attributes t
 
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). “With a Thermomix You Lose the Ability to Cook”: A Kitchen Machine Analogy for Applications of Generative AI in Education. https://arxiv.org/abs/2609.09856
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Second-hand intervention finding reported in the active-use section: the article attributes to Woo et al. a prompt-engineering intervention in which prompt-refining practice was followed by higher self-efficacy (descriptive) and significantly greater AI-concept knowledge. No statistics are printed in this article.
 

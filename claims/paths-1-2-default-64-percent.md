@@ -15,12 +15,14 @@ sources:
     author: Zahra, F. T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Paths 1 and 2 together accounted for 64% of coded interactions, consistent with the typology's prediction that Strategic Dialogue is unlikely to be students' default mode. [→ Zahra 2025](#zahra-2025)
@@ -31,7 +33,7 @@ sources:
 
 Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of the 50-message primary sample from open-ended AI access with general guidance but no explicit Path 3 protocols. The article reports "64% of student-AI interactions" in Paths 1 and 2; no effect size is printed.
 

@@ -37,7 +37,7 @@ The article's practical response to proxy collapse pairs weekly AI-free coding q
 - explaining and defending computational artifacts in the language of the discipline; calibrated reliance on AI
 
 ### Affordances
-- [Five Pillar Tool Invariant Computational Framework](../theories/five-pillar-tool-invariant-computational-framework.md)
+- Five Pillar Tool Invariant Computational Framework
 
 ## Related Strategies
 

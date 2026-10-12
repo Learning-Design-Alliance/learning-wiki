@@ -15,12 +15,14 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The build-a-language-model-from-scratch strand was not delivered: team projects absorbed the class time it needed, leaving only an optional reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` When class time ran short in the back half of the quarter, the time set aside for the LLM-from-scratch strand went to the team projects, and what survived of the strand was an optional reading. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Gap between the course as designed and as taught in the single Spring 2026 offering. Evaluation comments registered the cost, with students naming the build-from-scratch work as what they most wanted and did not get, including a request to actually be taught how to make an LLM in class.
 

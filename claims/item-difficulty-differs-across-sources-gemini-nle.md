@@ -15,12 +15,14 @@ sources:
     author: Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Item difficulty differed significantly across ChatGPT, Google Gemini and NLE items, with a pairwise difference between Google Gemini and NLE items. [→ Vogt P 2026](#vogt-p-2026)
@@ -31,7 +33,7 @@ sources:
 
 Vogt P, Wolf N, Jordan S, Volz-Willems S, Jäger J, Dupont F. (2026). Can students identify AI? – A cross-sectional quantitative study about AI recognition in tablet-based MCQ assessment among fifth-year undergraduate medical students at Saarland University, Germany. BMC Medical Education. https://doi.org/10.1186/s12909-026-10410-8
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Post-hoc exploratory Kruskal–Wallis analysis of item difficulty across ChatGPT (Mdn = 0.890), Google Gemini (Mdn = 0.730) and NLE (Mdn = 0.930) items. The omnibus test gave "ε2 = 0.177"; only the Gemini–NLE pairwise contrast was significant. No standardised effect size in d/r terms is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` All three external citations in the Gemini-generated ethics materials failed verification: one misattributed a claim to Chan and Hu, one attached a nonexistent framework to real 2024 OSPI guidance, and one could not be verified at all. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The instructor's post-hoc verification of the three citations embedded in the Gemini-generated ethics exercises. He reports that a survey by Chan and Hu was cited for a finding it does not make, that a Washington OSPI H-AI-H framework does not exist in the actual guidance, and that a Cornell item could not be found.
 

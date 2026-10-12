@@ -15,18 +15,22 @@ sources:
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: dang-2026-2
     resource: "https://arxiv.org/abs/2610.07097"
     title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Quantile difference-in-differences shows a gain of 11.0 marks at the 10th percentile (95% interval 5.0 to 13.0), 5.0 marks at the 20th, and estimates near zero from the 30th percentile upward. [→ Dang 2026](#dang-2026)
@@ -38,7 +42,7 @@ sources:
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quantile difference-in-differences at deciles with 95% intervals from 1,000 student-level bootstrap resamples, reported in the distributional results and Fig. 2b. Only the 10th-percentile estimate is bounded away from zero.
 
@@ -48,7 +52,7 @@ Quantile difference-in-differences at deciles with 95% intervals from 1,000 stud
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quintile decomposition of the average effect in the same distributional analysis, supporting hypothesis H2 that gains concentrate in the lower tail and attenuate toward the upper tail.
 

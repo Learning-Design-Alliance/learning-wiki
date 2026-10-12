@@ -15,12 +15,14 @@ sources:
     author: Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` LLM-based simulators exhibit a competence paradox rooted in prior-knowledge entanglement: prompted novices still reason with expert priors, so errors resemble superficial deviations from expert reasoning rather than stable, diagnosis-relevant misconceptions. [→ Zhihao Yuan 2026](#zhihao-yuan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the formalization section: the article argues the competence paradox is rooted in an irreducible prior-knowledge entanglement problem, since mainstream LLMs are trained to be broadly capable and self-correcting. No empirical evaluation is offered; the authors state the claim is not validated through direct pedagogical interaction.
 

@@ -15,18 +15,22 @@ sources:
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: stephan-vonschallen-2026-2
     resource: "https://arxiv.org/abs/2607.22345"
     title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Intrinsic motivation was descriptively higher in the KBD condition but did not differ significantly. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -38,7 +42,7 @@ sources:
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Welch t-test on the Interest/Enjoyment subscale of the Intrinsic Motivation Inventory; the KBD group was "descriptively higher" but the difference "did not reach statistical significance".
 
@@ -48,7 +52,7 @@ Welch t-test on the Interest/Enjoyment subscale of the Intrinsic Motivation Inve
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, SD = 1.00) had descriptively higher perceived competence than the KBD group (M = 4.56, SD = 1.41), but "no significant difference was found".
 

@@ -37,7 +37,7 @@ The article recommends that generative educational tools support multiple forms 
 - producing numerically correct, classroom-ready visual materials for mathematics instruction
 
 ### Affordances
-- [Control Timing Design Space Ai Visual Authoring](../theories/control-timing-design-space-ai-visual-authoring.md)
+- [Control Timing Design Space Ai Visual Authoring](../designs/control-timing-design-space-ai-visual-authoring.md)
 
 ## Related Strategies
 - 

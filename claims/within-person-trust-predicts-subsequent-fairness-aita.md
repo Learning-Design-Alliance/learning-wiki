@@ -15,12 +15,14 @@ sources:
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Within-person increases in student trust in AI teaching assistants predict subsequent within-person increases in perceived fairness, with ability trust the strongest antecedent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` All nine within-person cross-lagged paths from trust dimensions at Time 1 to fairness dimensions at Time 2 were statistically significant after partitioning out between-person trait variance. [→ Fu L 2026](#fu-l-2026)
@@ -32,7 +34,7 @@ sources:
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Three-wave RI-CLPM of N = 450 undergraduates surveyed at Weeks 0, 4, and 8. All nine trust-to-fairness within-person paths survived BH-FDR correction (adjusted q ≤ 0.030); "Ability Trust exhibited the strongest within-person effects (β = 0.11–0.14, all p ≤ 0.005)". Trust dimensions explained 14.2–17.6% of within-person fairness variance at Time 2.
 

@@ -13,12 +13,14 @@ sources:
     title: tei-selection-1
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # TEI@N inference-time selection raises the improvement rate on pre-incorrect math scenarios from 59.0% to 81.9% at N=8 over Greedy on a frozen DeepSeek-R1-8B base
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At N=8, TEI@N reaches an 81.9% improvement rate versus Greedy's 59.0% (+22.9pp) on pre-incorrect scenarios, with no training and no external judge. [→ tei-selection-1](#tei-selection-1)
@@ -29,7 +31,7 @@ sources:
 
 Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Block-grouped selection experiment on the pre-incorrect subset of 1,000 in-domain BigMath tutoring scenarios (n=363 pre-incorrect), 20 random repeats per N, DeepSeek-R1-8B base. "TEI@𝑁 reaches81.9%versus Greedy59 .0%(+22.9pp)"; no effect size printed.
 

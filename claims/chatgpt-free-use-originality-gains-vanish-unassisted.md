@@ -15,12 +15,14 @@ sources:
     author: "Wong, S. S. H., & Qiu, S. X."
     q: 3
     i: 0
+    kind: causal
+    rigour: 3
 ---
 
 # Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` On the product improvement task with ChatGPT available, the general-AI group produced more original solutions than the human-only group (d = 0.79), but on the subsequent unassisted product invention task the general-AI group did not differ from the human-only group (d = 0.04). [→ Wong 2026](#wong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wong, S. S. H., & Qiu, S. X. (2026). Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10118-7
 
-`q3 · i0`
+`q3 · i0` · `causal · r3`
 
 A 3 (Learning Group) × 2 (Creative Task) mixed ANOVA on originality scores from 196 university students randomly assigned to human-only, general-AI, or regulated-AI groups. The general-AI group "produced more original solutions than both the human-only" and regulated-AI groups on the assisted task. However, "the general-AI group did not differ from the human-only group in their originality after the intervention, p = 1.00, d = 0.04."
 

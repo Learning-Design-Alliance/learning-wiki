@@ -15,12 +15,14 @@ sources:
     author: Jaidka K and Cai M.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A global survey of over 48,000 people across 47 countries found two thirds reporting regular AI use while less than half were willing to trust it, suggesting reliance reflects convenience more than confidence. [→ Jaidka K and Cai M 2026](#jaidka-k-and-cai-m-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jaidka K and Cai M. (2026). Why we believe chatbots: trust calibration as a design problem. Front. Psychol. 17:1935527. https://doi.org/10.3389/fpsyg.2026.1935527
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article cites a global survey of over 48,000 people across 47 countries showing that "two thirds reported using AI regularly, while less than half were willing to trust it." The authors use this dissociation to argue that the AI trust paradox label may equate reliance with trust. No effect size is printed.
 

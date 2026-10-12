@@ -15,12 +15,14 @@ sources:
     author: Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a qualitative interview study with 14 participants, all completed the tasks and the tools received very positive SEQ task-difficulty and UEQ-S user-experience assessments. [→ Julián Méndez 2026](#julian-mendez-2026)
@@ -31,7 +33,7 @@ sources:
 
 Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Preregistered qualitative study: 14 participants (3 female, 11 male) in semi-structured think-aloud interviews solved seven tasks on a faulty Datalog program. "All participants completed all the tasks within the time limit", and SEQ/UX assessments were very positive; no effect sizes are reported.
 

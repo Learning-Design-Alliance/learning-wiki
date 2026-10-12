@@ -15,12 +15,14 @@ sources:
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The structural model explained 50.5% of variance in behavioral intention and 46.0% in use behavior, with ARCS motivation showing a large effect on use behavior (f2 = 0.351) versus small UTAUT3 effects (f2 ≈ 0.01–0.06). [→ Xin Tian 2026](#xin-tian-2026)
@@ -31,7 +33,7 @@ sources:
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Explanatory-power analysis in the structural model evaluation section reports R2 of 0.505 for behavioral intention and 0.460 for use behavior, described as moderate to substantial explanatory power, with the printed "f 2 = 0.351" for ARCS motivation.
 

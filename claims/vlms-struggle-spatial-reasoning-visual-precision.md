@@ -15,18 +15,22 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: chao-wen-2026-2
     resource: "https://arxiv.org/abs/2606.03626"
     title: "Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626"
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All models struggle with spatial reasoning — reasoning about relative positions, distances, angles, and sizes of patterns in the image. [→ Chao Wen 2026](#chao-wen-2026)
@@ -38,7 +42,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Systematic manual failure analysis on DSReal for GPT-4o, Qwen2-VL-72B, and Qwen2-VL-72B-TURTLE, attributing each failure case to a failure type. The analysis found "all models struggle with spatial reasoning"; the authors suggest this might be due to scarcity of training data capturing spatial relationships. No effect size is printed.
 
@@ -48,7 +52,7 @@ Systematic manual failure analysis on DSReal for GPT-4o, Qwen2-VL-72B, and Qwen2
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same manual failure analysis on DSReal: models can often replicate the intended image from a high-level perspective but fail low-level visual accuracy, such as ignoring tiny details like angles and relative positions. No effect size is printed.
 

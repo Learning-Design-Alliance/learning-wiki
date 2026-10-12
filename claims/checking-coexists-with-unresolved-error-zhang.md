@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a think-aloud study of 15 students completing two tasks with plausible LLM falsehoods, seven students failed Task 1 despite self-checking or external cross-checking (46.7%; Wilson 95% CI, 24.8%–69.9%). [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Think-aloud case study of 15 students using ChatGPT (GPT-3.5, Oct–Dec 2023) on two academic tasks with known plausible falsehoods; LLM self-checking and external cross-checking were observed and final accuracy scored. The review reports "Seven students failed Task 1 despite self-checking or external cross-checking".
 

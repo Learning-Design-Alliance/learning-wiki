@@ -15,12 +15,14 @@ sources:
     author: Hansol Lee
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers adjusted intervention timing by considering task nature and students' self-regulation capacity, with the interval between difficulty and intervention offering independent problem-solving opportunities. [→ Hansol Lee 2026](#hansol-lee-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hansol Lee. (2026). Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00461-1
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Cohn et al. (2025), that the moment of difficulty and the moment to intervene are distinct, and the interval between them "could provide students with opportunities to solve problems independently." Conversely, stagnation or accumulated anxiety sometimes prompted immediate intervention.
 

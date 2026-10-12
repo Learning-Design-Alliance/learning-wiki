@@ -15,18 +15,22 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alex-liu-2026-2
     resource: "https://arxiv.org/abs/2604.16738"
     title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 37.7% of conversations showed students performing below target DOK, with a mean DOK gap of +0.39 (SD = 0.81). [→ Alex Liu 2026](#alex-liu-2026)
@@ -38,7 +42,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of demonstrated versus targeted DOK across 1,362 linked conversations coded by LLM with human validation. The article reports "37.7% of conversations showed students performing below target DOK" and a mean gap of +0.39 (SD = 0.81).
 
@@ -48,7 +52,7 @@ Analysis of demonstrated versus targeted DOK across 1,362 linked conversations c
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Stratified analysis by teacher target DOK level (Table 4). The article reports 46.0% under-target for DOK 3 targets (N=824) and a negative mean gap of −0.58 for DOK 1 targets (N=67), indicating students exceeded recall targets.
 

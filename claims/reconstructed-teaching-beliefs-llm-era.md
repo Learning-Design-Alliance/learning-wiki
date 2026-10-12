@@ -15,12 +15,14 @@ sources:
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educators reconsidered assessment designs evaluating reasoning in addition to final code, explicit debugging instruction focused on the reasoning behind errors, and active learning practices such as live coding, active recall, and code-output prediction. [→ Jennie Ren 2026](#jennie-ren-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of educator reflective reconstruction (Stage 3): the student's difficulty explaining why AI-generated code worked while personal code failed prompted reconsideration of debugging instruction, assessment, and active learning opportunities. No effect sizes reported.
 

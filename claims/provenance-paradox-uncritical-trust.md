@@ -15,18 +15,22 @@ sources:
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ruqi-sun-2026-2
     resource: "https://arxiv.org/abs/2608.09698"
     title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a controlled deception experiment, only 1 of 12 participants detected the source-card mismatch; the remaining 11 accepted it without hesitation. [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Controlled deception in the within-subjects study: the source passage on the second Knowledge Card was replaced with an unrelated passage while keeping the AI-generated description unchanged, creating a detectable mismatch. The test measured evidence inspection, not hallucination detection.
 
@@ -48,7 +52,7 @@ Controlled deception in the within-subjects study: the source passage on the sec
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Exploratory RQ3 survey measures excluded from FDR correction. The authors attribute the compressed trust difference to both conditions sharing the same source-attributed retrieval backend.
 

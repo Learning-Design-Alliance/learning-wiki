@@ -15,24 +15,30 @@ sources:
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: manikonda-2026-2
     resource: "https://arxiv.org/abs/2609.18676"
     title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: manikonda-2026-3
     resource: "https://arxiv.org/abs/2609.18676"
     title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Academic benefit was positively associated with early reliance (β=.301, p<.001) and academic task support (β=.294, p=.008). [→ Manikonda 2026](#manikonda-2026)
@@ -45,7 +51,7 @@ sources:
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple linear regression on the full sample of 118 respondents with all predictors entered simultaneously, standardized variables, HC3 standard errors. "early reliance (β=.301,p < .001)" was the largest significant predictor of academic benefit.
 
@@ -55,7 +61,7 @@ Multiple linear regression on the full sample of 118 respondents with all predic
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same adjusted regression models (N=118, HC3 standard errors). Negative impact was "positivelyassociatedwithearlyreliance(β=.402,p=.004)" and attitudinal change (β=.386).
 
@@ -65,7 +71,7 @@ Same adjusted regression models (N=118, HC3 standard errors). Negative impact wa
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same adjusted regression models (N=118). Cognitive reliance had the largest coefficient for positive impact ("β=.495, p<.001"); discouraged instructor policy was associated with lower positive impact (β=−.138, p=.017).
 

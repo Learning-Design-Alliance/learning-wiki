@@ -13,12 +13,14 @@ sources:
     title: Vega-Baudrit JR and Rivera Álvarez A 2026
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The reviewed literature shows stronger evidence for short-term performance, perceptions, products, and feasibility than for delayed transfer or durable conceptual change. [→ Vega-Baudrit JR and Rivera Álvarez A 2026](#vega-baudrit-jr-and-rivera-alvarez-a-2026)
@@ -29,7 +31,7 @@ sources:
 
 Vega-Baudrit JR and Rivera Álvarez A (2026) Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model. Front. Educ. 11:1918707. https://doi.org/10.3389/feduc.2026.1918707
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis across its representative evidence matrix, which also states that comparative and longitudinal designs remain limited and that outcome measures often emphasize perception or immediate product quality. No pooled effect estimate was computed.
 

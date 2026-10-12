@@ -15,12 +15,14 @@ sources:
     author: Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Perceived task difficulty with the tools was rated much easier than imagined difficulty without them, with gaps of at least 2.5 SEQ points on every task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average SEQ ratings for solving tasks with the tools were at least 2.5 points easier than participants' imagined difficulty without the tools, with the largest differences on tasks 3 (3.57), 6 (3.14), and 7 (3.07). [→ Julián Méndez 2026](#julian-mendez-2026)
@@ -31,7 +33,7 @@ sources:
 
 Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Descriptive comparison of two SEQ ratings per task (with the tools vs. imagined without) from the 14-participant interview study; the article reports "the largest differences on tasks 3 (3.57), 6 (3.14), and 7 (3.07)". No statistical test or effect size is printed.
 

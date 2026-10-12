@@ -15,12 +15,14 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Explicit no-direct-answers guardrails in teacher prompts reduced the AI's final-answer provision rate by 8.5 percentage points (16.2% to 7.7%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When teachers included explicit no-direct-answers constraints, the AI's answer provision rate dropped from 16.2% to 7.7%. [→ Alex Liu 2026](#alex-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Stratified examination of AI safeguard-related behaviors by teacher-authored guardrails across pilot conversations. The article reports the rate "dropped from 16.2% to 7.7%, a reduction of 8.5 percentage points"; contextual review found violations typically followed extended scaffolding attempts.
 

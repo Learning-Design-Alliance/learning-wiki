@@ -15,12 +15,14 @@ sources:
     author: Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Both the SS and TT formats showed significantly higher ARCS motivation than the TS format (SS b = 0.068, p = .013; TT b = 0.100, p < .001). [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Main effects from the linear mixed-effects model for ARCS motivation (N = 222 first-year high school students, three formats viewed in one session). Table III prints SS b = 0.068, p = .013 and TT b = 0.100, p < .001 with TS as reference; no standardized effect size is printed for this contrast.
 

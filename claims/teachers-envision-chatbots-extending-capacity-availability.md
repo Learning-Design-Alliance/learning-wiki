@@ -15,12 +15,14 @@ sources:
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers perceived chatbots as extending instructional support availability when they could not assist every student, and as reducing planning and feedback workload. [→ Riahi 2026](#riahi-2026)
@@ -31,7 +33,7 @@ sources:
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Focus-group thematic analysis identified two complementary ways teachers envisioned augmentation: providing students additional access to support (e.g., "a little mini teacher while I work with the kids that are really lost") and redistributing planning, feedback, and instructional workload.
 

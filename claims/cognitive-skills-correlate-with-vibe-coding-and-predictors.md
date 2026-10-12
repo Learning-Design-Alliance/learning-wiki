@@ -13,12 +13,14 @@ sources:
     title: cog-corr
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cognitive ability correlates with vibe coding (r = 0.352, p < .001), CS achievement (r = 0.417, p < .001), and writing (r = 0.365, p < .001). [→ cog-corr](#cog-corr)
@@ -29,7 +31,7 @@ sources:
 
 Sverrir Thorgeirsson, Theo B. Weidmann, and Zhendong Su. 2026. Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). https://doi.org/10.1145/3772318.3791666
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the N = 100 cross-sectional correlation matrix (Table 3a), the cognitive-ability row reads "Cog.0.417(p<.001)" for CS achievement, and the writing row shows the writing–cognition correlation of 0.365 (p < .001); the vibe row shows 0.352 (p < .001) for cognition. Only Pearson r and p-values are printed.
 

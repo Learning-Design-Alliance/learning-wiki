@@ -15,12 +15,14 @@ sources:
     author: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Agreement between chatbot preference and perceived learning attribution was low (39%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Agreement between which system participants preferred and which they credited with learning was 39%, indicating preference drivers do not always match perceived instructional value. [→ Isabel Molnar 2026](#isabel-molnar-2026)
@@ -31,7 +33,7 @@ sources:
 
 Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Secondary analysis of the 41-instructor user study comparing preference and learning-attribution responses. The article reports "Agreement between preference and learning attribution was low (39%)" and interprets this as a mismatch between preference drivers and perceived instructional value.
 

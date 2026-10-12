@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The chapter characterises GenAI models as exceeding simple-reflex capabilities, mainly model-based with goal-based alignment, partially fitting utility-based and learning agents, while noting categorisation is difficult without specifics of a given model and task. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Definitional/descriptive analysis adapting Russell and Norvig's agent framework to GenAI: the chapter argues GenAI maintains prior contextual understanding (model-based), executes actions per user prompts (goal-based), and can improve via deliberate fine-tuning, but not autonomously. The chapter states it is difficult to categorise without model specifics.
 

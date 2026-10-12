@@ -15,12 +15,14 @@ sources:
     author: Germán Arroyo, Luis López, and Juan Carlos Torres
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Session intensity and duration distributions flagged physically impossible persistence as severe statistical outliers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Accounts in the extreme regions of the intensity-versus-duration distribution, such as continuous sessions spanning 24+ hours without a 30-minute break, were flagged as severe statistical outliers consistent with automated behavior. [→ Germán Arroyo 2026](#german-arroyo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Session intensity analysis (Figure 4b) of the pilot cohort, defining intensity as the ratio of recorded explicit actions to reconstructed session duration. The article reports that such extreme profiles "are physically impossible for human operators and are consistent with continuous server-side execution, browser macros, or automated 'stay-alive' scripts hitting the platform APIs."
 

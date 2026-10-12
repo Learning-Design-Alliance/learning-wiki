@@ -15,12 +15,14 @@ sources:
     author: "Dang, C. T., & Nguyen, A."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In interviews and feedback from 36 students, accounts followed a sequence of scepticism, reassurance from the named-verifier label, and use patterns; the label prompted scrutiny rather than replacing it. [→ Dang 2026](#dang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Sequential explanatory qualitative strand: brief informal interviews and feedback from 36 students purposively selected for variation in prior performance, analysed inductively from contemporaneous field notes. Students' trust attached to the known GTA ("I don’t trust an AI. But I do trust my GTA"), and students with second-language, commute or paid-work constraints described being relieved of fact-checking.
 

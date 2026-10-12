@@ -15,18 +15,22 @@ sources:
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: peilin-zhan-2026-2
     resource: "https://arxiv.org/abs/2605.05958"
     title: "Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958"
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On six synthetic datasets with MNAR degree gamma from 0.0 to 0.999, TSDR consistently yields improvements across the entire spectrum as baselines degrade. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -38,7 +42,7 @@ sources:
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Simulation study (RQ2, Figure 3) on six synthetic datasets with controllable MNAR mechanism, gamma in {0, 0.2, 0.4, 0.6, 0.8, 0.999}, all six backbones with and without TSDR. The article reports TSDR "consistently yields improvements across the entire spectrum."
 
@@ -48,7 +52,7 @@ Simulation study (RQ2, Figure 3) on six synthetic datasets with controllable MNA
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Simulation study (RQ2) RMSE analysis across MNAR degrees. The article reports TSDR "is highly effective at reducing error when MNAR is low, although this advantage diminishes slightly beyondγ >0.8."
 

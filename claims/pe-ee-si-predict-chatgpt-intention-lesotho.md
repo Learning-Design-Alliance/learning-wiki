@@ -15,12 +15,14 @@ sources:
     author: Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Performance expectancy (β = 0.127), effort expectancy (β = 0.139), and social influence (β = 0.099) each significantly positively predicted behavioral intention to use ChatGPT. [→ Xin Tian 2026](#xin-tian-2026)
@@ -31,7 +33,7 @@ sources:
 
 Xin Tian, Musa Adekunle Ayanwale, Rethabile Rosemary Molefi, Preeti Manchanda, Nurgün Gençel and Barakat Olabisi Ogunjoun. (2026). Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00613-w
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapping with 10,000 resamples) tested hypothesized UTAUT3 paths. The article reports the three cognitive–social paths as supported, with small effect sizes (f2 = 0.019, 0.026, 0.011) and the printed "β = 0.127, t = 3.765, p < 0.001" for performance expectancy.
 

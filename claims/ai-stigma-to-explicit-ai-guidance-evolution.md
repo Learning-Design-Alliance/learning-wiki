@@ -15,12 +15,14 @@ sources:
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Through trio-ethnographic dialogue, two computing educators' interpretations of student AI use shifted from viewing nondisclosure as an emerging AI stigma to recognizing instructional ambiguity, then to emphasizing explicit guidance on productive AI use. [→ Jennie Ren 2026](#jennie-ren-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of three recorded trio-ethnographic conversations (two educators, one undergraduate CS student) found this interpretive evolution; the article reports "an emergingAI stigma" reframed as shaped by instructional ambiguity, then explicit guidance. No effect sizes are reported.
 

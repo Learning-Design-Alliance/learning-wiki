@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In one reviewed study, feedback co-produced by teachers and AI showed quality comparable to manual feedback and statistically significant learning gains, with significant reductions in feedback production time and perceived workload. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this secondhand, citing Reza et al.'s study of AI praxically supporting teachers in producing feedback for students. The chapter also notes participants complained about AI randomness and reengineering prompts to shape pedagogically aligned results.
 

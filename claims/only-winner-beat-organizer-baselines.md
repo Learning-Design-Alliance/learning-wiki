@@ -15,12 +15,14 @@ sources:
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Only the challenge winner clearly beat the organizer baselines; most shortlisted systems have not yet improved on a commercial generator or well-chosen human-made video
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the Layer 2 crowd protocol, all three organizer baselines placed between first and second against the first-, second-, and fifth-ranked systems. [→ Lin 2026](#lin-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Crowd evaluation of the cascaded pipeline, NotebookLM commercial generator, and static retrieval framework against ranked systems (Table 2, wins out of 9 comparisons); all three baselines placed in slots 1–2. The judge scored the static retrieval framework lowest, but its penalties came mostly from missing or partly covering the requested topic, not factual errors.
 

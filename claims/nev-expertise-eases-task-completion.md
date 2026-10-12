@@ -15,12 +15,14 @@ sources:
     author: Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Regarding RQ2, participants with higher expertise had an easier time completing tasks and using the tools; the most experienced participant identified the program's graph structure during Task 1, while less experienced participants needed interviewer hints. [→ Julián Méndez 2026](#julian-mendez-2026)
@@ -31,7 +33,7 @@ sources:
 
 Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative observation from the 14-participant interview study addressing RQ2 on subject literacy: "the participants with higher expertise had an easier time both completing the tasks and using the tools". No quantitative measure is reported for this contrast.
 

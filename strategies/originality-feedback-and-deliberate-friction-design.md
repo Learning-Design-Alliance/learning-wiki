@@ -37,7 +37,7 @@ The article anchors design implications to specific documented mechanisms rather
 - maintaining design originality and collective diversity when producing artifacts with generative AI
 
 ### Affordances
-- [Authored Ignorance Framework](../theories/authored-ignorance-framework.md)
+- Authored Ignorance Framework
 
 ## Related Strategies
 

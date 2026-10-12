@@ -15,12 +15,14 @@ sources:
     author: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 41 higher education instructors comparing two chatbot versions, the baseline was preferred overall (21 vs. 13) while the fine-tuned model was more often credited with learning (18 vs. 13). [→ Isabel Molnar 2026](#isabel-molnar-2026)
@@ -31,7 +33,7 @@ sources:
 
 Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Remote user study in August 2025 with 41 higher education instructors (22 faculty, 19 TAs or instructional staff), each exploring the same teaching challenge with both systems for up to 10 minutes per counterbalanced condition. "While the baseline model was preferred overall (21 vs. 13), participants more often attributed learning to the fine-tuned model (18 vs. 13)."
 

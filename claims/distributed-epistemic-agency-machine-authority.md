@@ -15,12 +15,14 @@ sources:
     author: Voicu, C.-G.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students tend to attribute authority to algorithmic outputs, treating them as reliable sources of knowledge, with expressions such as "the AI says" reflecting a shift toward machine authority and displacement of evaluative responsibility. [→ Voicu 2026](#voicu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Third macro-transformation reported in Section 4.3, drawing on distributed cognition theory. The article reports this redistribution of authority is "accompanied by a displacement of responsibility, as learners may relinquish the task of evaluation, leading to epistemic outsourcing."
 

@@ -15,12 +15,14 @@ sources:
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teachers adjusted problem topics as the most common refinement move
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of the 179 teacher moves used to refine 46 personalized problems, 48 involved adjusting the problem's topic, 16 involved adjusting to fit local geographical context, and 17 involved changing names of people. [→ Walkington 2025](#walkington-2025)
@@ -31,7 +33,7 @@ sources:
 
 Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Thematic analysis of teacher prompting moves in the PPB logs found that topic adjustment was the most common code under the authenticity theme. Teachers also made 16 prompts asking the LLM to adjust to fit their local geographical context and 17 moves asking to change names of people, often to the names of students in their class.
 

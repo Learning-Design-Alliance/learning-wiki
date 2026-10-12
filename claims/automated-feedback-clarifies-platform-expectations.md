@@ -15,12 +15,14 @@ sources:
     author: Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Tutors valued automated feedback for providing clear guidelines on the gig platform's expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In open-ended responses, tutors said automated feedback's clear guidelines on platform expectations helped them understand performance standards and adapt their teaching. [→ Yeon Su Park 2026](#yeon-su-park-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Inductive thematic analysis (Braun and Clarke's method) of open-ended survey responses from 36 tutors; tutors "valued the automated feedback for providingclear guidelines on the gig platform's expectations", citing this clarity as useful for meeting platform requirements (P3, P20, P19, P24, P28).
 

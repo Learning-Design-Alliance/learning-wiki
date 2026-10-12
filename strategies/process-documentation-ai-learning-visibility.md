@@ -38,7 +38,7 @@ Because submitted code provides limited evidence of what students did after rece
 - distinguishing meaningful AI-supported learning from answer copying
 
 ### Affordances
-- [Trio Ethnography Interpretive Evolution](../theories/trio-ethnography-interpretive-evolution.md)
+- [Trio Ethnography Interpretive Evolution](../research-methods/trio-ethnography.md)
 
 ## Related Strategies
 

@@ -15,12 +15,14 @@ sources:
     author: Paul Savala
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A TRACE variant with major removed achieved MSE 0.0360 vs 0.0392 and MAE 0.1327 vs 0.1339, marginally better than the full model. [→ Paul Savala 2026](#paul-savala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Feature-ablation analysis in which a TRACE variant was trained with student major removed from the input. The article reports "marginally improved performance" and interprets major as largely recoverable from early course selections, adding redundancy and overfitting risk.
 

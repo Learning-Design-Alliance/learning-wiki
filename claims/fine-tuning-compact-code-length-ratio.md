@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Fine-tuning is associated with more compact generated code, with the fine-tuned Qwen2-VL-72B maintaining a length ratio near 1.0 while the base model's failed outputs become substantially longer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On DSReal, Qwen2-VL-72B's outputs become substantially longer in failure cases (length ratio 4.01) than successful cases (1.52), while the fine-tuned Qwen2-VL-72B-TURTLE maintains a length ratio close to 1.0 across all cases. [→ Chao Wen 2026](#chao-wen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Code length analysis on DSReal computing length ratio (model-generated lines divided by reference-solution lines, comments and blank lines removed) for GPT-4o, Qwen2-VL-72B, and Qwen2-VL-72B-TURTLE. The article reports the base model's failure-case ratio of 4.01 versus 1.52 on successes, and that the fine-tuned model "maintains a length ratio close to 1.0 across all cases". No effect size is printed.
 

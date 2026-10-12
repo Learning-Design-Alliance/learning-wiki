@@ -15,12 +15,14 @@ sources:
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The association between early reliance and negative impact strengthens as evaluation literacy increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The early reliance × evaluation literacy interaction was significant for negative impact (β=.307, p<.001); early reliance was not associated with negative impact at lower evaluation literacy (b=.025, p=.861) but was at average (b=.357, p=.004) and higher (+1SD; b=.688, p<.001) evaluation literacy. [→ Manikonda 2026](#manikonda-2026)
@@ -31,7 +33,7 @@ sources:
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Interaction extension of the negative-impact regression model, N=118, HC3 standard errors. The interaction ("β=.307,p < .001") remained significant under course-clustered inference (p<.001); simple slopes are reported at −1SD, mean, and +1SD evaluation literacy.
 

@@ -15,12 +15,14 @@ sources:
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All four tools classified 100% of human texts correctly as True Negatives (scores between 0 and 20%). [→ Marijke Van Vlasselaer 2026](#marijke-van-vlasselaer-2026)
@@ -31,7 +33,7 @@ sources:
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Classification accuracy analysis of the 40 human-written papers (ground truth = 0% AI) in the synthetic dataset. The article reports all four tools classified "100% of human texts correctly as ‘True Negatives’"; no effect size is printed.
 

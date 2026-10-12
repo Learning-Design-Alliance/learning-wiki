@@ -15,12 +15,14 @@ sources:
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The visualizer's flagging mechanisms flagged all tested logs from cases already known to involve plagiarism while still requiring student-level review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In validation testing, all logs from cases already known to involve plagiarism were flagged by the application, and detailed student-level views enabled identification of the relevant cases. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Developer-led validation with diverse Thonny logs from previous courses, including logs from known plagiarism cases. The article reports that "All of these cases were flagged by the application", and that examining flagged entities through student-level views enabled identification of the relevant cases. No effect size or count of plagiarism cases is printed.
 

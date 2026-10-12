@@ -15,12 +15,14 @@ sources:
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Friedman tests revealed no significant differences between tools on eight of the ten questionnaire items, including ease of use, mental effort, educational fit, and reuse intention. [→ Zhengxu Li 2026](#zhengxu-li-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null results from the 24-teacher within-subject questionnaire study: "no significant differences between tools on eight of the ten questionnaire items". Equivalence was not tested; only non-significance is reported. No effect size printed.
 

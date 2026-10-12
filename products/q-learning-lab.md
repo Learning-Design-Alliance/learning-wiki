@@ -20,6 +20,7 @@ Q-Learning Lab is a single-file, offline bilingual browser tool made by Jueng fo
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Learn–export–analyze loop: learners analyze a trace their own agent generated**: The tool's central design pattern is a learn–export–analyze loop: learners run their own agent, export the complete decision trace as CSV, and analyze it themselves, producing learning curves, value heatmaps, and visitation maps. Learners 'do not analyze a canned dataset' but data 'their own agent generated minutes earlier', making the analysis an act of reflection on their own experiment rather than an exercise on foreign data. (Jueng (2026))
 
 ### Claims
 - [The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average](../claims/q-learning-matches-value-iteration-ground-truth.md) [+M]

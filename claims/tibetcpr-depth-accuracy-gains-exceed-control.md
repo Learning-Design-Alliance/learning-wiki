@@ -15,12 +15,14 @@ sources:
     author: Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # TibetCPR training produced depth-accuracy gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The experimental group's pre-to-post gain in the proportion of compressions within the 50–60 mm range was substantially larger than the control change (Cohen's d = 3.66). [→ Yibo Meng 2026](#yibo-meng-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Randomised controlled study with 40 participants; depth accuracy was the proportion of compressions in the 50–60 mm guideline range. Experimental accuracy rose from M=0.277 to M=0.558 while control was essentially unchanged; ANCOVA gave F(1,37)=203.17, partial η²=.846.
 

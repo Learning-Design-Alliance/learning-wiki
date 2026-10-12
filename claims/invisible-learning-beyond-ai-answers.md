@@ -15,12 +15,14 @@ sources:
     author: Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The student described learning activities after receiving AI-generated help (taking notes, practicing, recreating solutions) that remained largely invisible to instructors, complicating but not fully invalidating the copy-and-paste interpretation. [→ Jennie Ren 2026](#jennie-ren-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jennie Ren, Jordan H. McDowell, and Kyrie Zhixuan Zhou. (2026). Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education. https://arxiv.org/abs/2607.22463
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the Stage 2 student interview, the student described reading code, analyzing logic, taking notes, practicing independently, and verifying understanding after AI-generated assistance. The article notes similar submissions may result from different learning trajectories.
 

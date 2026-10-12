@@ -15,12 +15,14 @@ sources:
     author: J. Vykopal, P. Čeleda, M. Horák, V. Švábenský
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the authors' experience, trainees consistently wanted more time for debriefing than the schedule allocated, wanting to compare decisions with other teams and hear the reasoning behind scenario design. [→ J. Vykopal 2026](#j-vykopal-2026)
@@ -31,7 +33,7 @@ sources:
 
 J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Lesson from the reflection phase, derived from the authors' structured trainee feedback and instructor focus groups across the 25 exercises. The authors state that a structured debriefing connecting TTX data to actionable outputs would increase the probability of behavioral change.
 

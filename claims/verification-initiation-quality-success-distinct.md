@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Verification initiation, process quality, and success are distinct constructs that should not be collapsed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A strong verification process can remain inconclusive and a weak process can occasionally reach the correct answer, so initiation, process quality, and success must be measured separately. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Analytical argument in the review's verification section: initiation records whether a learner attempted to check, process quality concerns source independence, competence, claim coverage, and corroboration, and success concerns whether checking reached "a justiﬁed conclusion relative to an appropriate reference standard".
 

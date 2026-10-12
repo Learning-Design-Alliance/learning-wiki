@@ -15,18 +15,22 @@ sources:
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: peilin-zhan-2026-2
     resource: "https://arxiv.org/abs/2605.05958"
     title: "Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958"
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TSDR improves AKT by 5.06% on the Prob dataset and SparseKT by 4.76% on Assist17 in AUC. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -38,7 +42,7 @@ sources:
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark comparison (RQ1, Table 1) of TSDR-enhanced versus original models. The article reports "TSDR improves AKT by 5.06% on the Prob dataset and SparseKT by 4.76% on Assist17."
 
@@ -48,7 +52,7 @@ Benchmark comparison (RQ1, Table 1) of TSDR-enhanced versus original models. The
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark comparison (RQ1) on EdNet, whose design "enforces a mandatory 'bundle' completion policy" limiting selection bias, making missingness closer to random. The article reports "an AUC gain of approximately 1% on EdNet."
 

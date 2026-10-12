@@ -15,24 +15,30 @@ sources:
     author: Zahra, F. T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: zahra-2025-2
     resource: "https://arxiv.org/abs/2610.00338"
     title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338"
     author: Zahra, F. T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: zahra-2025-3
     resource: "https://arxiv.org/abs/2610.00338"
     title: "Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338"
     author: Zahra, F. T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative content analysis of 50 double-coded messages classified exchanges into the three typological paths, with R1 final classifications of 46% Path 1, 18% Path 2, and 36% Path 3. [→ Zahra 2025](#zahra-2025)
@@ -45,7 +51,7 @@ sources:
 
 Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative content analysis of 50 randomly sampled student-AI messages from a corpus of 580 produced by 14 undergraduates across seven assignments. The reported distribution is "46% of coded exchanges" for Path 1, 18% Path 2, 36% Path 3; no effect size is printed.
 
@@ -55,7 +61,7 @@ Qualitative content analysis of 50 randomly sampled student-AI messages from a c
 
 Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Two human coders independently coded all 50 user messages against a ten-label codebook; the article reports "68% (κ = .48)" path-level agreement, moderate by Landis and Koch. Coders agreed on Path 3 in 80% of cases (40/50). No effect size is printed.
 
@@ -65,7 +71,7 @@ Two human coders independently coded all 50 user messages against a ten-label co
 
 Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Supplementary triangulation computed a majority-vote distribution across R1, R2, and GPT-5, which the article says "closely mirrors R1's classifications" (46/18/36), offered as corroboration that proportions are not an artifact of a single coder.
 

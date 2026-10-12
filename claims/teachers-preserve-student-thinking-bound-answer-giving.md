@@ -15,12 +15,14 @@ sources:
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Approximately 12 teachers discussed the need to balance student access to AI support with teacher control, expressing concern that chatbots should scaffold thinking rather than complete work for students. [→ Riahi 2026](#riahi-2026)
@@ -31,7 +33,7 @@ sources:
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Focus-group thematic analysis found teachers translated this concern into specific behavioral expectations, such as configuring a science mentor to break problems down "without giving direct answers" and moving from tutor to coach as students became more experienced.
 

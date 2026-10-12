@@ -15,12 +15,14 @@ sources:
     author: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TeachingCoach consistently outperformed GPT-4o on expert ratings of clarity, respectful tone, encouragement of reflection, and acknowledgment of user input over 200 conversations. [→ Isabel Molnar 2026](#isabel-molnar-2026)
@@ -31,7 +33,7 @@ sources:
 
 Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Expert evaluation of 200 conversations on a 3-point scale across four dimensions. Table 1 reports TeachingCoach scoring 2.62, 2.55, 2.59, 2.56 on E1-E4 versus GPT-4o baseline at 2.01, 1.99, 1.68, 1.85; the article states "TeachingCoach consistently outperformed GPT-4o."
 

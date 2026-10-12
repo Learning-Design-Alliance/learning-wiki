@@ -15,12 +15,14 @@ sources:
     author: J. Vykopal, P. Čeleda, M. Horák, V. Švábenský
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Milestone logic transforms TTXs from facilitator-driven injects at predefined times into exercises that adapt to each team's pace, triggering different injects based on answers or tool use. [→ J. Vykopal 2026](#j-vykopal-2026)
@@ -31,7 +33,7 @@ sources:
 
 J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Lesson from the authors' practice in the specification phase, illustrated by triggering injects based on answers to specific questions or use of certain tools instead of fixed timing. This is the authors' design experience, not a tested comparison.
 

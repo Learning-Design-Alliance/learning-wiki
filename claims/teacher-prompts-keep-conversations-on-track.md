@@ -15,18 +15,22 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alex-liu-2026-2
     resource: "https://arxiv.org/abs/2604.16738"
     title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student-AI conversations under teacher-authored prompts largely stay on the intended task (71% fully on-track; fewer than 1% substantially off-track)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 71.0% of conversations remained fully on-track toward teacher-specified objectives and only 0.5% deviated substantially. [→ Alex Liu 2026](#alex-liu-2026)
@@ -38,7 +42,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 LLM-coded conversation-level task alignment across the pilot's student-AI conversations, with human validation on a stratified subset reaching 87% agreement on high-stakes codes. The article reports "71.0% of conversations remained fully on-track" and 0.5% substantially off-track.
 
@@ -48,7 +52,7 @@ LLM-coded conversation-level task alignment across the pilot's student-AI conver
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Secondary descriptive analysis of conversations exhibiting some deviation. The article reports shortcut/answer-seeking at 15.1% of all conversations, off-topic exchanges at 13.1%, and copy-paste-like inputs at 6.9%.
 

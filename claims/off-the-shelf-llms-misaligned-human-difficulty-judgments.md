@@ -15,12 +15,14 @@ sources:
     author: Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Even with difficulty labels grounded in real student field testing, off-the-shelf LLMs can be systematically misaligned with human difficulty judgments and struggle to reliably simulate lower-proficiency cognitive states. [→ Zhihao Yuan 2026](#zhihao-yuan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The review reports this large-scale evidence, citing Li et al. (2025c), in the content-evaluation section, as a caution that substituting an LLM for human pilots does not by itself solve item-difficulty calibration. The cited study's design is not described here.
 

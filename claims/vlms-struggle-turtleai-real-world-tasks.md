@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the real-world dataset DSReal, the top-performing model o3 achieves only a 40.2% symbolic success rate on tasks designed for students in grades 3-6. [→ Chao Wen 2026](#chao-wen-2026)
@@ -32,7 +34,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark evaluation of 20+ VLMs on TURTLEAI-DSReal (102 real-world tasks), reporting symbolic and embedding-based success rates with greedy decoding. The evaluation found "only a 40.2% symbolic success rate" for the best model, o3; on the full dataset the best base model reached 15.9% (o4-mini) and Qwen2.5-VL 6.80%. No effect size is reported.
 

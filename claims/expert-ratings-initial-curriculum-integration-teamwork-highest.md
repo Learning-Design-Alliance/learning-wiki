@@ -15,12 +15,14 @@ sources:
     author: Yuanzhe Dong, Jie Cao, Shuman Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a structured-interview expert review (n=5), integration of AI/robotics content and teamwork were the highest-rated dimensions (both M=4.60, SD=0.89), while assessment (M=3.60) and communication (M=3.40) were comparatively weaker. [→ Yuanzhe Dong 2026](#yuanzhe-dong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive summary of five-expert structured-interview ratings of the initial curriculum on eight dimensions using a five-point scale (1 = not adequate; 5 = excellent), reported with means and standard deviations in Fig. 4. The quote shows "bothM= 4.60,SD= 0.89" for the top dimensions. No inferential statistics were reported.
 

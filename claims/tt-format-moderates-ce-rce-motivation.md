@@ -15,12 +15,14 @@ sources:
     author: Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The interaction between the CE factor and the TT format was significant and positive for ARCS motivation (b = 0.162, p < .001, f = .17). [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
@@ -32,7 +34,7 @@ sources:
 
 Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 Linear mixed-effects model analysis of ARCS motivation from 222 first-year high school students viewing three formats, with participant intercepts as random effects. The article reports small-to-medium effect sizes (CE×TT f=.17; RCE×TT f=.15) and Marginal R2 = .095. Simple slopes shifted for CE from "negative in the TS format (−0.151) to near zero in the TT format (0.011)".
 

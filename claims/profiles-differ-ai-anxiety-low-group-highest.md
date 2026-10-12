@@ -13,12 +13,14 @@ sources:
     title: Wang X 2026
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` AI anxiety differed significantly across profiles (F = 14.695, p < 0.001, η2 = 0.062); the Low group scored highest (M = 3.429) and the High group lowest (M = 2.792). [→ Wang X 2026](#wang-x-2026)
@@ -29,7 +31,7 @@ sources:
 
 Wang X (2026) The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered. Front. Psychol. 17:1767791. https://doi.org/10.3389/fpsyg.2026.1767791
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 One-way ANOVA across the three latent profiles. The "Low Career Adapt-Abilities Group showed the highest AI anxiety (M = 3.429)" and the High group the lowest (M = 2.792, below the scale midpoint of 3); post hoc Low–High and Low–Moderate differences were significant.
 

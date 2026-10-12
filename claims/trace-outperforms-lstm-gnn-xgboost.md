@@ -15,12 +15,14 @@ sources:
     author: Paul Savala
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TRACE achieved MSE approximately 30% lower and MAE approximately 15% lower than two LSTM models, MSE/MAE 15%-20% lower than a GNN, and drastically outperformed XGBoost. [→ Paul Savala 2026](#paul-savala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison experiment on the same institutional dataset (Table 1: TRACE MSE 0.0392/MAE 0.1339; EncDecLSTM 0.0530/0.1608; UniLSTM 0.0544/0.1619; GNN 0.0495/0.1640; XGBoost 1.3317/0.8818). The text reports "a MSE approximately 30% lower than the LSTM models".
 

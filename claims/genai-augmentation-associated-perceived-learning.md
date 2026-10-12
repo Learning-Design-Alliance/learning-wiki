@@ -15,18 +15,22 @@ sources:
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
   - id: manikonda-2026-2
     resource: "https://arxiv.org/abs/2609.18676"
     title: "Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676"
     author: Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` SHAP rankings from a gradient-boosting classifier indicate greater perceived learning benefits when students perceive GenAI as improving work quality, creativity, organizing ideas, skill confidence, and discovering insights. [→ Manikonda 2026](#manikonda-2026)
@@ -38,7 +42,7 @@ sources:
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Exploratory ensemble analysis: a GradientBoostingClassifier was trained to predict whether students reported that GenAI improved learning, with SHAP values ranking feature contributions. "students report greater learning benefits when they perceive GenAI as augmenting their existing capabilities."
 
@@ -48,7 +52,7 @@ Exploratory ensemble analysis: a GradientBoostingClassifier was trained to predi
 
 Manikonda, L.; Si, M.; Munira, S.; Seneviratne, O.; Bennett, K. (2026). The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses. https://arxiv.org/abs/2609.18676
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Same SHAP feature-ranking analysis of the N=118 survey responses. The article reports "perceived learning benefits are lower when students experience GenAI as interfering with theircognitiveengagement".
 

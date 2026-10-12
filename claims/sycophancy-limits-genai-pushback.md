@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The chapter argues that post-training methods like RLHF and DPO arguably lead to emergent sycophancy, deteriorating models' ability to disagree with users, and that probabilistic GenAI models lack an internal epistemic stance for authentic push back. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument, not an empirical test: the chapter reasons that semantic relationship mining and probabilistic models limit authentic push back because there is no internal epistemic stance, and that push-back capacity is double-edged, risking disregard of valid feedback without governance mechanisms.
 

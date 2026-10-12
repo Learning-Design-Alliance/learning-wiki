@@ -15,12 +15,14 @@ sources:
     author: Angxuan Chen, Jiyou Jia
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low-literacy students' ENA networks are dominated by links between Abstract Generation Commands and Factual or Challenging Questions, described as a transactional approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The LG network showed strong AGC–FQ and AGC–CHQ connections, which the authors read as reliance on GenAI as a search engine or black-box generator. [→ Angxuan Chen 2026](#angxuan-chen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ENA model of the LG group's (n = 73) interaction logs from the abstract-writing task. The authors describe the pattern as a "transactional" approach and interpret CHQ links as reactions to confusion or hallucinations rather than strategic critique.
 

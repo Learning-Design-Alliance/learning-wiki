@@ -15,12 +15,14 @@ sources:
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Performance improved with base model size up to 32B parameters, and larger LLMs consistently outperformed smaller-sized MLMs, differing from prior LCP findings where smaller MLMs performed comparably to larger LLMs. [→ Adam Nohejl 2026](#adam-nohejl-2026)
@@ -31,7 +33,7 @@ sources:
 
 Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Conclusion-level summary of the fine-tuning experiments (Section 5.1, Table 2; Appendix E), where individual LLMs up to 32B (GLM-4-32B, Qwen2.5-32B, Ministral-3-14B) and MLMs were compared. The authors hypothesize the LLM advantage is due to the more complex nature of vocabulary difficulty prediction compared to LCP.
 

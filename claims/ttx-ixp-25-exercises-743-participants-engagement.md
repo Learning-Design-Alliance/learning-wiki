@@ -15,12 +15,14 @@ sources:
     author: J. Vykopal, P. Čeleda, M. Horák, V. Švábenský
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` From 2024 to 2026, 25 IXP-supported TTXs with 743 participants were run, and the authors observed increased engagement and collaboration among students and clearer visibility for instructors into team navigation of scenarios. [→ J. Vykopal 2026](#j-vykopal-2026)
@@ -31,7 +33,7 @@ sources:
 
 J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Innovative practice paper reporting the authors' own delivery of 25 exercises across university courses and extracurricular events, with post-exercise questionnaires and instructor focus groups (8 instructors). The authors "observed increased engagement and collaboration among students"; no effect sizes are printed.
 

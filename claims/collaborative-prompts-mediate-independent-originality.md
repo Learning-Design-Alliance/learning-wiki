@@ -15,12 +15,14 @@ sources:
     author: "Wong, S. S. H., & Qiu, S. X."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The regulated-AI group's more frequent use of collaborative prompts with ChatGPT mediated their later advantage over the general-AI group in independent originality on the unassisted task. [→ Wong 2026](#wong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wong, S. S. H., & Qiu, S. X. (2026). Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10118-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The article reports that collaborative prompt use "mediated their later advantage over the general-AI group in independent originality." This links the process-level difference in how learners interacted with ChatGPT to the outcome-level difference in unassisted creative performance. No mediation effect size or confidence interval is printed in the available text.
 

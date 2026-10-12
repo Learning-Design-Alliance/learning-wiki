@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The frozen BETO-2019 design and the modern e5-base encoder are numerically close on Spanish, with no descriptive separation on either task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the Spanish held-out set, frozen BETO-2019 embeddings and the modern multilingual e5-base encoder show no descriptive separation on thematic or sentiment classification. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Descriptive paired comparison of the two frozen-embedding arms under the identical protocol on the 233-comment Spanish held-out split. The article reports near-even McNemar counts (thematic 𝑏=29, 𝑐=28; sentiment 𝑏=12, 𝑐=17) and states "no significance test is run".
 

@@ -15,18 +15,22 @@ sources:
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: stephan-vonschallen-2026-2
     resource: "https://arxiv.org/abs/2607.22345"
     title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived alignment with responsible behavior significantly predicted motivation (β = .588) and acceptance (β = .512) in the path model. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -38,7 +42,7 @@ sources:
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Observed-variable structural equation path model with mean scores; fit indices were acceptable (χ2(2) = 2.197, CFI = .991, RMSEA = .059), and the KBD-to-responsible-behavior path was significant (β = .437, p = .017).
 
@@ -48,7 +52,7 @@ Observed-variable structural equation path model with mean scores; fit indices w
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The model explained 19.1% of variance in perceived responsible behavior, 34.6% in motivation, and 26.3% in acceptance; the authors state it "should be interpreted cautiously as exploratory due to the small sample size".
 

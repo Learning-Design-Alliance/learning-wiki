@@ -39,7 +39,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - pedagogically aligned GenAI adoption
 
 ### Affordances
-- [Five Levels Teacher Ai Teaming Framework](../theories/five-levels-teacher-ai-teaming-framework.md)
+- [Five Levels Teacher Ai Teaming Framework](../research-methods/five-level-diagnostic-taxonomy-of-humanai-teaming-defined-by-observable-affordances.md)
 
 ## Related Strategies
 

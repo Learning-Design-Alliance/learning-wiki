@@ -15,12 +15,14 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Nine of 18 students said they rarely or only sometimes thought first before asking AI, and seven of 18 said they rarely or only sometimes could tell when an AI explanation was wrong. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Self-regulation items from the end-of-term survey (N=18). The authors read these as reasons the teacher role cannot be handed to AI, supporting "a targeted teacher role: diagnosing confusion, marking crucial ideas, and explaining hard concepts". No effect sizes printed.
 

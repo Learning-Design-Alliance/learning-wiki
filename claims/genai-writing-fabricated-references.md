@@ -13,12 +13,14 @@ sources:
     title: Vega-Baudrit JR and Rivera Álvarez A 2026
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a ChatGPT-assisted biochemistry writing assignment, many model-supplied references were nonexistent or unusable, making explicit verification pedagogically necessary. [→ Vega-Baudrit JR and Rivera Álvarez A 2026](#vega-baudrit-jr-and-rivera-alvarez-a-2026)
@@ -29,7 +31,7 @@ sources:
 
 Vega-Baudrit JR and Rivera Álvarez A (2026) Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model. Front. Educ. 11:1918707. https://doi.org/10.3389/feduc.2026.1918707
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this implementation finding, citing Reddy et al. (2024), and notes the failure "is pedagogically useful only when verification is explicit and assessed". No effect size is printed.
 

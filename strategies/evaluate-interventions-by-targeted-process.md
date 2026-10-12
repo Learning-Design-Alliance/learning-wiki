@@ -39,7 +39,7 @@ The review recommends that educational interventions be evaluated for the specif
 - learning that persists without AI support
 
 ### Affordances
-- [Seven Measurement Targets Genai Critical Engagement](../theories/seven-measurement-targets-genai-critical-engagement.md)
+- [Seven Measurement Targets Genai Critical Engagement](../research-methods/seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs.md)
 
 ## Related Strategies
 

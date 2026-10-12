@@ -37,7 +37,7 @@ The article transfers misinformation-intervention logic to conversational AI: "E
 - Making evaluation happen by building it into the interaction
 
 ### Affordances
-- [Ability Motivation Verify Typology](../theories/ability-motivation-verify-typology.md)
+- Ability Motivation Verify Typology
 
 ## Related Strategies
 

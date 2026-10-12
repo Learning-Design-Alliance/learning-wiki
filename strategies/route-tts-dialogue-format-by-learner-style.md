@@ -37,7 +37,7 @@ The article recommends that, rather than delivering a single dialogue format uni
 - motivation and comprehension in AI-generated dialogue lessons
 
 ### Affordances
-- [Ati Framework Format Personalization](../theories/ati-framework-format-personalization.md)
+- Ati Framework Format Personalization
 
 ## Related Strategies
 - 

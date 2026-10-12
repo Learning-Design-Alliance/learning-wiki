@@ -15,12 +15,14 @@ sources:
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spoken verdicts are fast and generic, and originality is invoked in only 3.4% of 440 verdicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)
@@ -31,7 +33,7 @@ sources:
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Process-layer verdict-lexicon analysis of 440 spoken evaluative utterances from the recorded build sessions. The article reports originality was invoked in 3.4% of verdicts and characterizes the verdicts as fast, generic, and frequently absent, with even visibly flagged defects often shipping.
 

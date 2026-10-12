@@ -15,18 +15,22 @@ sources:
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alex-liu-2026-2
     resource: "https://arxiv.org/abs/2604.16738"
     title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teachers authoring student-AI dialogue prompts predominantly write highly specific tasks targeting higher-order thinking (92% at DOK 2–3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 80.9% of teacher-authored prompts provided detailed, concrete task descriptions rather than open-ended explorations. [→ Alex Liu 2026](#alex-liu-2026)
@@ -38,7 +42,7 @@ sources:
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of 94 teacher-authored prompts coded with LLM assistance and 100% human validation in the Spring 2025 pilot. The article reports "80.9% of prompts provided detailed, concrete task descriptions" against the three-level task specificity rubric.
 
@@ -48,7 +52,7 @@ Descriptive analysis of 94 teacher-authored prompts coded with LLM assistance an
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 DOK coding of the same 94 prompts under Webb's framework with full human validation. The article reports 48.9% at DOK 3, 42.6% at DOK 2, and 5.3% at DOK 1; a single prompt (1.1%) targeted DOK 4.
 

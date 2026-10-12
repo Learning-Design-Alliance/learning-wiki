@@ -15,12 +15,14 @@ sources:
     author: Germán Arroyo, Luis López, and Juan Carlos Torres
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Peak platform activity occurred during evening hours (15:00 to 20:00), Wednesdays showed the highest interaction concentration, and notable late-night activity appeared on Saturdays. [→ Germán Arroyo 2026](#german-arroyo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Class rhythm heatmap analysis (Figure 3) of the pilot cohort's temporal interaction density across hours of the day and days of the week. The temporal signatures suggest "a non-traditional student body that primarily engages with the platform outside of standard daytime hours—likely balancing academic coursework with professional commitments."
 

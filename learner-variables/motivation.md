@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (82 for, 23 mixed, 14 against) · 103 studies (28 associational, 27 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 18 of 103 report an effect size · 112 claims rest on one study
+> **Evidence** · 119 claims (82 for, 23 mixed, 14 against) · 103 studies (30 associational, 28 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 18 of 103 report an effect size · 112 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.

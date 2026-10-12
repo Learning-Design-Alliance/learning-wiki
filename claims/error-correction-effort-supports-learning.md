@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` In an error-correction paradigm with pre- and post-tests, findings suggest that effort during correction matters for learning, though the study did not examine naturalistic GenAI use. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The review reports, citing Olney and Cade (2025), a mechanistic error-correction study with pre- and post-tests in which participants corrected a virtual student. It notes the study "provides mechanistic evidence rather than direct evidence about contemporary university GenAI settings".
 

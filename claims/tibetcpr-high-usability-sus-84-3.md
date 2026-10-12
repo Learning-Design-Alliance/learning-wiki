@@ -15,12 +15,14 @@ sources:
     author: Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The 20 experimental-group participants gave an overall SUS score of 84.3 on the 0–100 scale, corresponding to an Excellent adjective rating. [→ Yibo Meng 2026](#yibo-meng-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Descriptive usability assessment using the System Usability Scale administered to the 20 experimental-group participants after the post-test. Item-level means clustered between 4.25 and 4.55 on the 1–5 scale; the score is descriptive, with no effect size reported.
 

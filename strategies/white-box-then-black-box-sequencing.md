@@ -37,7 +37,7 @@ Adopting Buchberger's principle from computer-algebra education, the article pre
 - conceptual working model of numerical methods sufficient to catch agent errors
 
 ### Affordances
-- [Five Pillar Tool Invariant Computational Framework](../theories/five-pillar-tool-invariant-computational-framework.md)
+- Five Pillar Tool Invariant Computational Framework
 
 ## Related Strategies
 

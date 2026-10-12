@@ -37,7 +37,7 @@ The paper proposes using the four-types vocabulary as a diagnostic question for 
 - Diagnosing where a system stimulates or suppresses learner metacognition
 
 ### Affordances
-- [Four Quadrants Function Agent Taxonomy](../theories/four-quadrants-function-agent-taxonomy.md)
+- Four Quadrants Function Agent Taxonomy
 
 ## Related Strategies
 

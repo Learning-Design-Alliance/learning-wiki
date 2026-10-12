@@ -15,18 +15,22 @@ sources:
     author: Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: yeon-su-park-2026-2
     resource: "https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382"
     title: "Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382"
     author: Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A substantial portion of lessons received no learner feedback, and when provided it was highly skewed toward positive ratings. [→ Yeon Su Park 2026](#yeon-su-park-2026)
@@ -38,7 +42,7 @@ sources:
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of score distributions across two sources: automated feedback from 327 of 360 lessons of the 36 participants, and learner feedback from 10,000 randomly sampled lessons by 6,256 learners over one month. Learner feedback was "highly skewed toward positive ratings" (Figures 2 and 3).
 
@@ -48,7 +52,7 @@ Comparison of score distributions across two sources: automated feedback from 32
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The same distributional comparison (Figure 3, right) shows the automated system's 5-level scores were "consistently available" and "showed a broader, more fine-grained distribution" than discrete learner ratings. Descriptive distributional result; no test statistic is printed.
 

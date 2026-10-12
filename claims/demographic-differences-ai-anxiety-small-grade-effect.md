@@ -13,12 +13,14 @@ sources:
     title: Wang X 2026
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Grade differences in AI anxiety were significant but small (F = 3.008, p = 0.018, η2 = 0.027); gender, place of origin, and AI usage habits showed no significant differences. [→ Wang X 2026](#wang-x-2026)
@@ -29,7 +31,7 @@ sources:
 
 Wang X (2026) The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered. Front. Psychol. 17:1767791. https://doi.org/10.3389/fpsyg.2026.1767791
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 t-tests and one-way ANOVAs across demographic variables. Sophomores (M = 3.038) had significantly lower AI anxiety than freshmen (M = 3.331) and seniors (M = 3.334); gender (p = 0.533), origin (p = 0.566), and AI usage habits (p = 0.708) were non-significant.
 

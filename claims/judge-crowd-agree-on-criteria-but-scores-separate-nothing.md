@@ -15,12 +15,14 @@ sources:
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learner adaptation and content coverage fill eight of the crowd's ten preference reasons and six of the judge's ten recorded criteria, yet the top systems' judge scores are nearly identical. [→ Lin 2026](#lin-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Prevalence-versus-salience analysis of the 320 preliminary videos comparing the judge's metric prevalence with the crowd's 145 written pairwise rationales. "The two broadly agree on what matters", but criteria the judge records on nearly every video, such as pure-calculation bias on 99.7% of videos, separate nothing.
 

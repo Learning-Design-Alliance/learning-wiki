@@ -13,12 +13,14 @@ sources:
     title: Tang J 2026
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The study's quantitative patterns support characterizing teacher feedback as an expert dynamic scaffold and AI-assisted peer feedback as a technology-mediated, socially collaborative scaffold, neither of which alone addresses the multidimensional ZPD. [→ Tang J 2026](#tang-j-2026)
@@ -29,7 +31,7 @@ sources:
 
 Tang J, Li P, Luo R (2026) Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University. PLoS One 21(6): e0345976. https://doi.org/10.1371/journal.pone.0345976
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The authors' sociocultural-theoretical interpretation of their quasi-experimental findings, framing teacher feedback as expert-provided dynamic scaffolding and AI-assisted peer feedback as "technology-mediated collaborative scaffolding" within Vygotsky's ZPD framework.
 

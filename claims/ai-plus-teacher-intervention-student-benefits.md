@@ -15,12 +15,14 @@ sources:
     author: Hansol Lee
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Combining AI-generated information with teacher intervention is associated with improved student performance, participation, confidence, and reduced anxiety in K-12 AI-based instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In studies with relatively clear empirical evidence, combining AI-generated information with teacher intervention was associated with improved student performance, participation, and affective outcomes. [→ Hansol Lee 2026](#hansol-lee-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hansol Lee. (2026). Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00461-1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing Dickler et al. (2021), that "students' science inquiry performance improved after teachers provided support based on Inq-Blotter alerts" and exceeded that of comparable students. The review also cites Lin et al. (2025) on increased participation and confidence and reduced anxiety from proactive intervention.
 

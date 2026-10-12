@@ -15,12 +15,14 @@ sources:
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Comparing 32 unique original IM curriculum problems to 156 final personalized versions, the PPB maintained relatively comparable reading levels on three of four measures and increased Flesch-Kincaid from 4.38 to 6.62, more aligned with grade 7. [→ Walkington 2025](#walkington-2025)
@@ -31,7 +33,7 @@ sources:
 
 Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive statistics using Coh-Metrix compared 32 unique original problems to 156 final personalized versions across four readability measures. Flesch-Kincaid averaged 4.38 (SD 2.47) for originals and 6.62 (SD 2.25) for personalized versions; word count, word concreteness, and second person pronouns were relatively comparable.
 

@@ -15,18 +15,22 @@ sources:
     author: Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: runlong-ye-2026-2
     resource: "https://arxiv.org/abs/2610.00863"
     title: "Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863"
     author: Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Most reported student–LLM matches involved short snippets, and raising the minimum match length rapidly reduced coverage, making it a key review-workload control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across cohorts, the median reported overlap spanned 8–9 lines and 97.0–99.4% of cross-matches contained fewer than 30 matched lines. [→ Runlong Ye 2026](#runlong-ye-2026)
@@ -38,7 +42,7 @@ sources:
 
 Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Distributional analysis of MOSS-reported matched-line counts for student–LLM cross-matches across the three cohorts, with docstrings retained as submitted or generated. The article reports the median and the share under 30 lines.
 
@@ -48,7 +52,7 @@ Distributional analysis of MOSS-reported matched-line counts for student–LLM c
 
 Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Post-processing sensitivity analysis (Figure 4) applying minimum match length filters to the same student–LLM match lists while keeping the MOSS algorithm unchanged, reporting retained shares of student files and LLM attempts by threshold.
 

@@ -15,18 +15,22 @@ sources:
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: griffin-pitts-2026-2
     resource: "https://arxiv.org/abs/2604.01114"
     title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` A quadratic trust term improved model fit (R2 = .185 vs. .173) and was significant (b = 0.56, p = .011). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -38,7 +42,7 @@ sources:
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Model-fit comparison in the Results section of the 432-participant regression study; the quadratic model's ΔR2 = .012 and both terms were significant. No standardized effect size is printed, so impact is null.
 
@@ -48,7 +52,7 @@ Model-fit comparison in the Results section of the 432-participant regression st
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 The Results section reports the shape of the quadratic fit shown in Figure 3b: the decline attenuated at higher trust and "the fitted curve did not reverse direction within the observed data". No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In component rankings, the self-paced+AI block ranked first and the 30-minute closed-book test second, ahead of mini-lectures and other components. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Component-ranking item from the same end-of-term survey (N=18). Students "ranked the self-paced+AI block first (mean rank 2.56)" and the test second; free-text comments included "Weekly exams push me to study". No effect sizes printed.
 

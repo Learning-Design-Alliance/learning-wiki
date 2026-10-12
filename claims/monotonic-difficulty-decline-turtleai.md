@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Success rates decrease monotonically from easy to medium to hard difficulty levels across all models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All models exhibit a clear monotonic trend, with success rates highest on easy tasks and decreasing on medium and hard tasks. [→ Chao Wen 2026](#chao-wen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Fine-grained analysis of symbolic success rates across the three labeled difficulty levels (Figure 5b) for representative VLMs. The article reports "a clear monotonic trend, with success rates highest on easy tasks and decreasing on medium and hard tasks", supporting the validity of the difficulty labeling. No effect size is printed.
 

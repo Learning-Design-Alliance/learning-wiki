@@ -15,12 +15,14 @@ sources:
     author: Diane Vassallo
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Thematic analysis of open-ended responses identified a temporal guilt trajectory in approximately 35% of responses, authenticity concerns in 25%, and skill atrophy anxiety in 30%. [→ Diane Vassallo 2026](#diane-vassallo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Reflexive thematic analysis of open-ended survey responses (90 participants, 82.6%, provided at least one substantive response) found "a temporal guilt trajectory appeared in approximately 35% of responses, where initial guilt diminished with continued use"; authenticity concerns appeared in 25% and skill atrophy anxiety in 30%.
 

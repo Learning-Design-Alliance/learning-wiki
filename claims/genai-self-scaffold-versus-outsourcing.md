@@ -13,12 +13,14 @@ sources:
     title: Vega-Baudrit JR and Rivera Álvarez A 2026
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GenAI use supports learning when students retain executive control, test ideas, and integrate outputs with their own models, but becomes unproductive when reasoning is outsourced or outputs exceed student understanding. [→ Vega-Baudrit JR and Rivera Álvarez A 2026](#vega-baudrit-jr-and-rivera-alvarez-a-2026)
@@ -29,7 +31,7 @@ sources:
 
 Vega-Baudrit JR and Rivera Álvarez A (2026) Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model. Front. Educ. 11:1918707. https://doi.org/10.3389/feduc.2026.1918707
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this finding, citing Haraldsrud and Odden (2025), as qualitative classroom evidence that augmentation depends on preserved learner agency. No effect size is printed; the review presents it as exploratory empirical evidence.
 

@@ -15,12 +15,14 @@ sources:
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students critiqued the broad grain size of teacher-in-the-loop personalization and personalization itself met resistance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 9 of 422 student response sets contained meta comments critiquing how personalization was implemented, including requests for student-chosen interests and objections to personalization itself. [→ Walkington 2025](#walkington-2025)
@@ -31,7 +33,7 @@ sources:
 
 Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Coding of students' open-ended feedback found 9 meta comments critiquing the personalization approach. One student suggested students should input their own interests; another objected to personalization itself, stating they did not want to like math. The authors note personalization is not universally desirable.
 

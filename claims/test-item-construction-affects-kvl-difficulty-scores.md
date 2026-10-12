@@ -15,12 +15,14 @@ sources:
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A trickiness feature, operationalized as the probability of an LLM answering the test item incorrectly, reveals that the construction of test items often affects the resulting difficulty scores. [→ Adam Nohejl 2026](#adam-nohejl-2026)
@@ -31,7 +33,7 @@ sources:
 
 Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of high-trickiness items (Section 6.3, Table 6) using GPT-4.1-mini response probabilities on L1 Spanish items such as instantly, motivational, and reform. The authors observe that KVL creators often intentionally avoided cognate L1 words, and the chosen L1 words strongly suggest different English words.
 

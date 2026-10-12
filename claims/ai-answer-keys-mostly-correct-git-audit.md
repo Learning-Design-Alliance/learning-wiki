@@ -15,12 +15,14 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 273 distinct answer-key question blocks, 263 (96.3%) had no post-release repair across subsequent commits. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive git-history audit of the repository's test and validation files, counting "273 distinct answer-key question blocks" and 10 semantic repairs. The authors call it operational evidence, not a controlled benchmark; no effect size printed.
 

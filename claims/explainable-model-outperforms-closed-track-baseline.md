@@ -15,12 +15,14 @@ sources:
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
+    kind: design
+    rigour: "?"
 ---
 
 # The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The explainable model achieved mean RMSE of 1.067 versus the closed-track baseline's 1.218, and the traditional-features-only variant performed on par with the baseline. [→ Adam Nohejl 2026](#adam-nohejl-2026)
@@ -31,7 +33,7 @@ sources:
 
 Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
 
-`q2 · i?`
+`q2 · i?` · `design · r?`
 
 Closed-track results (Section 5.2, Table 3) comparing submissions to the fine-tuned XLM-RoBERTa baseline: explainable mean RMSE 1.067, traditional 1.193, closed_max 0.921, baseline 1.218. The explainable model "outperforms the baseline by a relatively wide margin."
 

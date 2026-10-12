@@ -15,18 +15,22 @@ sources:
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: ruqi-sun-2026-2
     resource: "https://arxiv.org/abs/2608.09698"
     title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Perceived authorial domain competence was rated higher for VeriForge (M=4.58 vs M=3.58; r=.818) and remained significant after FDR correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Blind expert rating by two published authors of anonymized story snippets on 7-point scales across three verisimilitude-informed dimensions; printed effect size r=.818; single-rater absolute-agreement ICCs were moderate (ICC(A,1)=0.53–0.59).
 
@@ -48,7 +52,7 @@ Blind expert rating by two published authors of anonymized story snippets on 7-p
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Composite expert rating from the same blind evaluation (printed r=.770); both raters independently assigned higher scores to VeriForge snippets in the same 10 pairs despite moderate scoring variance. Word count did not differ (p=.532).
 

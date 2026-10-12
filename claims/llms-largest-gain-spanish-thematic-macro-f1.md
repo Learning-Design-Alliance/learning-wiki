@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Under the fixed protocol, hosted LLMs produce the largest gain on Spanish thematic classification, with thematic macro F1 rising from 0.46 (TF-IDF) to roughly 0.82-0.86 for the two hosted LLMs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the 233-comment Spanish held-out set, hosted LLM arms reach thematic macro F1 of roughly 0.82-0.86 versus 0.46 for TF-IDF and about 0.68 for frozen encoders. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive comparison across arms on the unified 233-comment Spanish held-out split (seed 20260616), all arms sharing the identical labeled subset, guide, and held-out set. The article reports the thematic macro F1 jump "from 0.46 for TF-IDF to about 0.68 for BETO and the encoder, then to roughly 0.82 to 0.86"; no significance is claimed.
 

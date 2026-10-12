@@ -15,18 +15,22 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: yusuf-pisan-2026-2
     resource: "https://arxiv.org/abs/2608.05175"
     title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175"
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students resented the visible delegation of grading and materials creation to AI, and that the AI scores moved no one's marks did not soften the objection. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -38,7 +42,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Descriptive analysis of anonymous end-of-quarter course evaluations from the 46-student Spring 2026 cohort. A student wrote that the instructor "used AI for everything, it felt like I was being taught by Claude," despite the in-class AI scores being advisory only.
 
@@ -48,7 +52,7 @@ Descriptive analysis of anonymous end-of-quarter course evaluations from the 46-
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The author's interpretation of the evaluation comments and the bill-of-rights submissions, which surfaced the same objection from the other direction: undisclosed or substitutive AI use reads as a transfer of work back onto the student. One student reported that disclosure of prompts read as permission to use AI similarly.
 

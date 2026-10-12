@@ -15,12 +15,14 @@ sources:
     author: Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The orchestration layer evaluates prompt-model permutations asynchronously, restraining overall computational latency to approximately O(max(ti)), where ti is the inference time of the slowest individual model iteration. [→ Rares-Alexandru Roșcan 2026](#rares-alexandru-roscan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Rares-Alexandru Roșcan, Gabriel Petre, Adrian-Marius Dumitran, Angela-Liliana Dumitran. (2026). MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator. arXiv. https://arxiv.org/abs/2604.08947
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Architectural analysis in Section 3.1 of the asynchronous concurrency model. The article notes the system's absolute responsiveness is strictly bounded by the highest latency in the queried batch, e.g., pairing a low-latency model with a heavy reasoning model throttles matrix resolution time.
 

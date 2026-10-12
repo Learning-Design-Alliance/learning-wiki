@@ -15,12 +15,14 @@ sources:
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a systematic review of 103 teacher-facing AI studies (2010-2025), operational teaming appeared in 62.5% of studies, transactional and situational each in 17.5%, praxical in 2.5%, and synergistic teaming was absent. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)
@@ -31,7 +33,7 @@ sources:
 
 Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Systematic review following Kitchenham guidelines: over 7000 Web of Science articles screened by two coders (Cohen's K = 0.82), four coders extracted data (Krippendorff's alpha = 0.69), and "Full extraction resulted in 103 studies." GenAI-powered tools represented 39% of included studies.
 

@@ -13,12 +13,14 @@ sources:
     title: Wang X 2026
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Core self-evaluation differed significantly across the three profiles (F = 57.593, p < 0.001, η2 = 0.207), a large effect with all pairwise differences significant. [→ Wang X 2026](#wang-x-2026)
@@ -29,7 +31,7 @@ sources:
 
 Wang X (2026) The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered. Front. Psychol. 17:1767791. https://doi.org/10.3389/fpsyg.2026.1767791
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 One-way ANOVA with latent profile classification as the independent variable. Means rose stepwise from Low (M = 3.327) to Moderate (M = 3.613) to High (M = 3.945); "η2 = 0.207" indicates profile membership explains about 20.7% of variance.
 

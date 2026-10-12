@@ -15,12 +15,14 @@ sources:
     author: Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across submitted systems, Content Accuracy and Pedagogical Logic scores exceed Engagement and Learner Adaptability scores, and Adaptability is lowest overall. [→ Lin 2026](#lin-2026)
@@ -31,7 +33,7 @@ sources:
 
 Lin, Yi-Cheng; Guo, Yu-Kai; Chen, Szu-Chi; Feng, Bo-Han; Hsu, Yun-Man; Hsieh, Hsiang; Lin, Yu-Jung; Wu, Yue-Ling; Dong, Jia-Kai; Cheng, An-Yu; Huang, Yu-Han; Ieong, Lok-Lam; Chen, Kuan-Yu; Tchouang, Ming-Douo; Sun, Shao-Hua; Lin, Che; Ding, Jian-Jiun; Lee, Hung-yi. (2026). Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents. arXiv. https://arxiv.org/abs/2608.08852
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Layer 1 LLM-judge scoring of 1,612 preliminary-round videos from 77 teams on four dimensions (1–5 scale). The judge's dimension scores show "Accuracy and Logic concentrate near the top of the scale" while Adaptability and Engagement spread lower; all-submission means were 4.31, 4.19, 3.77, and 3.86 (Table 1).
 

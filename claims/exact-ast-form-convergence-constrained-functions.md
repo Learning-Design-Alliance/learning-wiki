@@ -15,12 +15,14 @@ sources:
     author: Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # On tightly specified functions, LLMs converged on a few exact AST forms (1–14 per 1,000 files) while an open-ended function remained diverse, and source was associated with exact form for all five functions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Source and exact form were associated for all five functions (Pearson's χ2, BH-adjusted q < .001), with Cramér's V ranging from 0.30 for loopy_madness to 0.96 for is_square and sum_string. [→ Runlong Ye 2026](#runlong-ye-2026)
@@ -31,7 +33,7 @@ sources:
 
 Runlong Ye, Jing Fan, Angela Zavaleta Bernuy, Oscar Karnalim, Paul Denny, Juho Leinonen, and Michael Liut. (2026). Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming. https://arxiv.org/abs/2610.00863
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson's chi-square tests of independence on source-by-form contingency tables from full eligible-file counts, with Benjamini–Hochberg false-discovery control within the five-function family. Cramér's V ranged from 0.30 to 0.96.
 

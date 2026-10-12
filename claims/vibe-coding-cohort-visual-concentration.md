@@ -15,18 +15,22 @@ sources:
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: léonard-boussioux-2026-2
     resource: "https://arxiv.org/abs/2609.38183"
     title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183"
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Unsupervised clustering of DINOv3 embeddings recovers six visual archetypes absorbing 64 of 73 sites (88%), and effective-diversity indices put the number of distinct designs at roughly six to twelve. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)
@@ -38,7 +42,7 @@ sources:
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Artifact-layer analysis of 73 full-page homepage screenshots embedded with DINOv3, clustered via UMAP–HDBSCAN. The article reports "six visual archetypes, which absorb 64 of 73 sites (88%)"; across 60 sensitivity configurations the cluster count ranges from 3 to 12, so the partition is used descriptively.
 
@@ -48,7 +52,7 @@ Artifact-layer analysis of 73 full-page homepage screenshots embedded with DINOv
 
 Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pairwise cosine-similarity analysis of all 2,628 pairs among the 73 embedded homepages. The article reports the median nearest-neighbor score of "49 index points, compared with 22.8 for the average pair", and 14 of 73 sites (19%) have a nearest-neighbor score above 70.
 

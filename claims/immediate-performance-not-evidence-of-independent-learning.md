@@ -15,12 +15,14 @@ sources:
     author: Wei J and Shang Y
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Immediate task success does not establish learning that persists without AI support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across the focused evidence set, even stronger behavioral designs generally stop at immediate accuracy rather than delayed, unaided learning outcomes such as retention, transfer, or independent error detection. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)
@@ -31,7 +33,7 @@ sources:
 
 Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The review's analysis of its Table 1 studies: several observe an immediate answer, written product, acceptance decision, or quiz score, but such outcomes "do not establish retention or transfer". Independent learning is treated as an umbrella domain including retention, transfer, unaided performance, and independent error detection after AI support is withdrawn.
 

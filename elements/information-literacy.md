@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -39,6 +39,7 @@ Information literacy is the element in which learners identify information needs
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](../claims/distributed-epistemic-agency-machine-authority.md) [+W] — attached 2026-10-12 from Voicu (2026), which proposed "Critical AI Literacy (technical, epistemic, and ethical dimensions)".
 
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)

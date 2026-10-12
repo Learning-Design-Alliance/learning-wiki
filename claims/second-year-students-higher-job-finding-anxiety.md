@@ -15,12 +15,14 @@ sources:
     author: "Üstün, A. G., & Danacıoğlu, N."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Second-year students report higher job finding anxiety and AI anxiety than students in other academic years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Second-year students reported significantly higher job finding anxiety than first-year students (d=–.22), with small eta-squared effects (.007–.011). [→ Üstün 2026](#ustun-2026)
@@ -31,7 +33,7 @@ sources:
 
 Üstün, A. G., & Danacıoğlu, N. (2026). The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students’ Job Finding Anxiety. Participatory Educational Research, 13(2), 143-164. https://doi.org/10.17275/per.26.23.13.2
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 One-way ANOVA by academic year (job finding anxiety F=3.794, p=.010, η²=.010) with Tukey HSD post hoc tests in the 1,057-student survey. The study reports second-year students "reported significantly higher anxiety levels than first -year students ( d=–.22)".
 

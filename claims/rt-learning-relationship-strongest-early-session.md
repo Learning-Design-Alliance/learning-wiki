@@ -13,16 +13,20 @@ sources:
     title: slice-1
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: slice-2
     title: slice-2
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The RT propensity–learning relationship is strongest early in the class session and attenuates later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the earliest session quartile, RT propensity is modestly but significantly negatively correlated with learning rate (r = −0.12, p < .001), whereas later-slice correlations are smaller and not statistically reliable. [→ slice-1](#slice-1)
@@ -34,7 +38,7 @@ sources:
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Within-slice Pearson correlation analysis of student RT propensity and learning-rate parameters across four global time slices (Q1–Q4) of classroom tutoring sessions. Only the earliest slice shows a reliable association; later slices do not.
 
@@ -44,7 +48,7 @@ Within-slice Pearson correlation analysis of student RT propensity and learning-
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Slice-specific regressions with Benjamini–Hochberg adjustment predicting learning rate from RT propensity, prior proficiency, and their interaction. The moderation is significant in Q1, marginal in Q4, and absent in Q2 and Q3.
 

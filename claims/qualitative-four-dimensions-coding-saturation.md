@@ -15,12 +15,14 @@ sources:
     author: Fan Bu and Wei Li
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Open, axial, and selective coding of student interviews yielded 286 meaning units, 44 initial codes, and 11 axial categories integrated into the four focal constructs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative coding of semi-structured interviews produced 286 meaning units, 44 initial codes, and 11 axial categories integrated into four core dimensions. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study. Front. Psychol. 17:1861072. https://doi.org/10.3389/fpsyg.2026.1861072
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Qualitative phase using semi-structured interviews with Chinese undergraduates recruited via purposeful maximum-variation sampling, analyzed through open, axial, and selective coding. The article reports coder agreement on the calibration subset reached Cohen's κ = 0.85, and six additional saturation-check interviews produced no new core categories.
 

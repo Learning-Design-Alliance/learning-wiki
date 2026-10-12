@@ -15,12 +15,14 @@ sources:
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Primary mathematics teachers rate post-generation control significantly higher than pre- and mid-generation control on perceived numerical correctness of generated visuals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teachers' ratings of whether the image matched the number of objects differed reliably across paradigms, with post-generation control rated significantly higher than both pre-generation and mid-generation control. [→ Zhengxu Li 2026](#zhengxu-li-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-subject questionnaire results (Q6, 7-point Likert) from a study with 24 primary mathematics teachers who used all three paradigms. Friedman test showed reliable differences (Z = 24.83, p < .01); post-hoc tests showed "post-gen was rated significantly higher than pre-gen" and mid-gen. No effect size printed.
 

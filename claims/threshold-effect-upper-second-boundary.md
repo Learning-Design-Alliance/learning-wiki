@@ -15,12 +15,14 @@ sources:
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The share of marks below the upper-second classification boundary fell by 24.7 percentage points, with effects significant at every threshold from 23 to 31 marks and at none above
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the upper-second boundary (30 of 50 marks), the treated half's share below the boundary fell from 23.5% to 10.6% while the untreated half's rose from 7.1% to 18.8%, a difference-in-differences of −24.7 percentage points (p = 0.001). [→ Dang 2026](#dang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Threshold difference-in-differences from linear probability models with HC1 errors on the same 340 examination marks. At the lower-second boundary the estimate is −12.9 points (p = 0.008); at the first-class boundary −2.4 points (p = 0.828).
 

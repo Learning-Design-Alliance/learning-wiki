@@ -15,12 +15,14 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across twelve weekly tests, every weekly median reached at least the 100-point credit cap and 201 of 251 observations were at least 100 raw points. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Aggregate score record for all twelve weekly tests (weekly n = 18–24 by attendance), reported descriptively with the Figure 3 distribution. "201 (80.1%) were at least 100 raw points"; no inferential statistics printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The fine-tuned model supported learning through sustained engagement and reflective questioning but required more turns, while the baseline prioritized speed and breadth of suggestions. [→ Isabel Molnar 2026](#isabel-molnar-2026)
@@ -31,7 +33,7 @@ sources:
 
 Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative findings from the 41-instructor user study, drawn from surveys and 15-minute post-study interviews. Participants distinguished the models on conversational engagement, efficiency of interaction, and breadth of suggestions; "Overall the findings highlight a trade-off between depth and efficiency."
 

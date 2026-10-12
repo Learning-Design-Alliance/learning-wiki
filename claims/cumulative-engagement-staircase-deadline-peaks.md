@@ -15,12 +15,14 @@ sources:
     author: Germán Arroyo, Luis López, and Juan Carlos Torres
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Cohort activity climbed steadily before deadlines, peaking at 348 aggregate events on April 4th and a secondary surge of 205 events around April 9th, then dropping to baseline after submission. [→ Germán Arroyo 2026](#german-arroyo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Cumulative platform engagement analysis (Figure 4a) of the pilot cohort's longitudinal API event logs. Genuine engagement produced segmented, staircase-like trajectories with plateaus during offline periods, and the event logs mapped "the stress cycles and collective workload of a class" around assignment deadlines.
 

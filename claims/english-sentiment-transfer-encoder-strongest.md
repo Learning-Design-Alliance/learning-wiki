@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Sentiment classification transfers to English under the unchanged protocol, with a frozen multilingual encoder the strongest arm at wF1 0.73 and LLMs matching it only with few-shot prompting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the balanced English test split, the e5 encoder reaches weighted F1 0.73; LLMs reach parity only with few-shot prompting (0.72-0.73) while zero-shot sits near 0.67. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 English sentiment transfer experiment on the balanced 45,000-comment corpus; classical and encoder arms use the full 6,750-comment test split while LLM arms use a 1,500-comment cost-capped subset, so cross-rule values are not directly comparable. The article reports the encoder "strongest arm, at wF1 0.73".
 

@@ -13,16 +13,20 @@ sources:
     title: intro-coefs
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: partial-corr
     title: partial-corr
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` CS achievement significantly predicts vibe-coding performance (r = .39). [→ intro-coefs](#intro-coefs)
@@ -34,7 +38,7 @@ sources:
 
 Sverrir Thorgeirsson, Theo B. Weidmann, and Zhendong Su. 2026. Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). https://doi.org/10.1145/3772318.3791666
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Preregistered cross-sectional laboratory study of 100 tertiary students; the authors' summary of the primary result states that "both CS achievement (𝑟=. 39) and writing skills (𝑟=. 29) significantly predict vibe coding performance". No standardized effect size beyond the correlations is printed.
 
@@ -44,7 +48,7 @@ Preregistered cross-sectional laboratory study of 100 tertiary students; the aut
 
 Sverrir Thorgeirsson, Theo B. Weidmann, and Zhendong Su. 2026. Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). https://doi.org/10.1145/3772318.3791666
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Pearson partial correlations controlling for cognitive ability (Table 3b) show the CS–vibe association remains significant: "Vibe0.281(p= .005)0.186(p= .066)". The CS coefficient (0.281, p = .005) stays significant while writing's does not; only test statistics are printed, so no effect size is reported.
 

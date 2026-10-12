@@ -13,12 +13,14 @@ sources:
     title: Tang J 2026
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Teacher feedback total items (316) significantly exceeded AI-assisted peer feedback (185) in task 1, with significant differences in vocabulary errors (Cohen's d = 0.66) and technical details (d = 0.58). [→ Tang J 2026](#tang-j-2026)
@@ -29,7 +31,7 @@ sources:
 
 Tang J, Li P, Luo R (2026) Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University. PLoS One 21(6): e0345976. https://doi.org/10.1371/journal.pone.0345976
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Independent-samples t-tests comparing feedback items per student across the two classes (control n = 31, experimental n = 30) in the first writing task. Vocabulary errors: t(59) = −2.677, P = .010, "Cohen's d = 0.66"; technical details: t(59) = −2.620, P = .012, d = 0.58.
 

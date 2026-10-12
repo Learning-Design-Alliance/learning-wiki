@@ -15,12 +15,14 @@ sources:
     author: Germán Arroyo, Luis López, and Juan Carlos Torres
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The framework identified unbroken API interaction sequences exceeding 24 hours without a 30-minute break, perfectly linear cumulative growth without plateaus, and Z-score outliers with high completion but unusually low engagement time, consistent with automated or off-platform work. [→ Germán Arroyo 2026](#german-arroyo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Germán Arroyo, Luis López, and Juan Carlos Torres. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. https://arxiv.org/abs/2606.05929
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Anomaly analysis of the pilot cohort's intercepted API logs. The framework detected anomalous session persistence (outliers with continuous activity for periods exceeding 24 hours), absence of temporal plateaus in cumulative growth, and Z-score workflow decoupling. For the persistence outliers, the article states "the most plausible explanation is a browser macro or automated script interacting with the platform."
 

@@ -15,12 +15,14 @@ sources:
     author: Angxuan Chen, Jiyou Jia
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High-literacy students' ENA networks center on links among AI Improvement Commands, Clarification Questions, and Meta-Commands, described as a collaborative, epistemic approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The HG network showed strong AIC–CQ–MC connections, which the authors interpret as an iterative Sense-Making → Refinement cycle treating the AI as a co-author. [→ Angxuan Chen 2026](#angxuan-chen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ENA model of the HG group's (n = 89) interaction logs. The authors report HG students frequently combined refinement requests with concept-clarification questions (the CQ–AIC link) and read Meta-Commands as indicating higher metacognitive regulation.
 

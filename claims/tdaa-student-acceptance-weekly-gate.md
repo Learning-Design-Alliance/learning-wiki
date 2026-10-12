@@ -15,12 +15,14 @@ sources:
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` End-of-term survey respondents rated the lecture-free, AI-assisted format positively on fit, depth, speed, and expected retention. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 End-of-term voluntary survey (N=18) in the Spring 2026 run of DSAA 3071, a self-selected self-report measure. Respondents "averaged 5.61 on whether the format fit the subject" and 5.50 on learning more deeply; no effect sizes or inferential tests are printed.
 

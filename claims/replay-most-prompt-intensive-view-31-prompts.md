@@ -15,12 +15,14 @@ sources:
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among the visualizer's views, the programming-process replay required the largest number of prompts (31) to make it work reliably and consistently, display information correctly across tabs and logs, and account for edge cases. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)
@@ -31,7 +33,7 @@ sources:
 
 Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Developer-reported development accounting within the AI-assisted vibe coding workflow: of 207 total Lovable prompts, the replay view required 31, the most of any view, because of reliability, cross-tab consistency, point inspection, and edge-case handling. No effect size is applicable.
 

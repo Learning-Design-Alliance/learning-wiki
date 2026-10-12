@@ -15,12 +15,14 @@ sources:
     author: Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Tutors rated automated feedback significantly more negatively than learner feedback on understanding, accuracy, fairness, favorableness, evaluator qualification, and impact. [→ Yeon Su Park 2026](#yeon-su-park-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung and Juho Kim. (2026). Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle. The 2026 Workshop on Pedagogical Evaluation of Automated Feedback (PEAF2026). https://osf.io/zsc3b/overview?view_only=dcf09d1a9fe64765b013df02af6bc382
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Survey of 36 newly onboarded Ringle tutors (ages 18-32; M = 23.28, SD = 3.41) comparing perceptions of the two feedback sources on 7-point Likert items using Wilcoxon signed-rank tests; the study found tutors "rated automated feedback significantly more negatively than learner feedback" on six dimensions. No effect sizes are printed.
 

@@ -15,18 +15,22 @@ sources:
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: marijke-van-vlasselaer-2026-2
     resource: "https://doi.org/10.1007/s40979-026-00226-w"
     title: "Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w"
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # On hybrid and humanised AI papers, Pangram correctly identified AI content in 37 of 40 cases while GPTZero and Copyleaks performed poorly and Turnitin declined on humanised texts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pangram correctly identified AI content within the expected range in 37 of 40 cases for both hybrid and humanised categories (strict accuracy 92.5%; inclusive 95.0%). [→ Marijke Van Vlasselaer 2026](#marijke-van-vlasselaer-2026)
@@ -38,7 +42,7 @@ sources:
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Classification accuracy analysis of the 40 hybrid and 40 humanised papers in the synthetic dataset, scored against each paper's known ground-truth range of AI content. The article reports Pangram identified "AI content within the expected range in 37 of 40 cases for both categories".
 
@@ -48,7 +52,7 @@ Classification accuracy analysis of the 40 hybrid and 40 humanised papers in the
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same classification analysis for the comparison tools. The article reports Copyleaks at 30.0% (hybrid) and 22.5% (humanised), and Turnitin at 60.0% declining to 50.0% on humanised texts; no effect sizes are printed.
 

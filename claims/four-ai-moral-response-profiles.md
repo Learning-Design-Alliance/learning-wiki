@@ -15,12 +15,14 @@ sources:
     author: Diane Vassallo
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Exploratory k-means clustering of guilt and usage variables yielded a four-cluster solution differing significantly on AI Guilt Index (F(3,105) = 22.13, p < .001, η² = 0.39), research use (η² = 0.57) and teaching use (η² = 0.56). [→ Diane Vassallo 2026](#diane-vassallo-2026)
@@ -31,7 +33,7 @@ sources:
 
 Diane Vassallo. (2026). The AI Guilt Complex: Moral Emotions and Ethical Dilemmas in Academic Technology Adoption. Journal of Academic Ethics (2026) 24:53. https://doi.org/10.1007/s10805-026-09726-3
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Exploratory k-means cluster analysis in the 109-respondent survey produced four profiles: Comfortable Adopters (26.6%, lowest guilt, highest use), Guilty Non-Users (29.4%), Cautious Users (28.4%), and Morally Distressed Avoiders (15.6%, highest guilt, minimal use), with the ANOVA showing "significant differences between clusters on all variables" (η² = 0.39 on guilt).
 

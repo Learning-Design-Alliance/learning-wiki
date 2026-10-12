@@ -15,18 +15,22 @@ sources:
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: marijke-van-vlasselaer-2026-2
     resource: "https://doi.org/10.1007/s40979-026-00226-w"
     title: "Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w"
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pangram flagged 529 of 1,163 theses (45.5%) as containing AI-generated content. [→ Marijke Van Vlasselaer 2026](#marijke-van-vlasselaer-2026)
@@ -38,7 +42,7 @@ sources:
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Real-world exploratory application of Pangram to 1,163 master's theses submitted in academic year 2024–2025, with no ground truth available. The article reports "Pangram flagged 529 theses (45.5%)"; accuracy cannot be determined in this context.
 
@@ -48,7 +52,7 @@ Real-world exploratory application of Pangram to 1,163 master's theses submitted
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive statistics for the 529 flagged theses. The article reports an interquartile range of 32.0% (Q1 17.0%, Q3 49.0%) and that very high AI usage (>80%) was rare at 1.9%; these are descriptive values, not tested effects.
 

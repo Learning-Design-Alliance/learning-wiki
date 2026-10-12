@@ -39,7 +39,7 @@ Because latent profile analysis revealed pronounced heterogeneity, with over 40%
 - human–machine collaboration skills
 
 ### Affordances
-- [Resource Internalization Anxiety Pathway](../theories/resource-internalization-anxiety-pathway.md)
+- Resource Internalization Anxiety Pathway
 
 ## Related Strategies
 - 

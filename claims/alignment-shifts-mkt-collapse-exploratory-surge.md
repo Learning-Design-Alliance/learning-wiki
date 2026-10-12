@@ -13,12 +13,14 @@ sources:
     title: codebook-shift-1
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Under GRPO alignment, the MKT sentence rate collapses from 18.1% to 6.5% (a 64% relative drop), Interaction nearly triples (4.4% to 12.3%), and PIU climbs from 20.0% to 28.7%. [→ codebook-shift-1](#codebook-shift-1)
@@ -29,7 +31,7 @@ sources:
 
 Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Codebook category distribution (Table 8, sentence-multilabel %, four-category view) over 119,009 tutor sentences labelled by GPT-4o-mini at temperature 0: "the aligned model’s MKT rate collapses from18.1%to6 .5%". TEI@4 selection on the base leaves all four category rates within 1.7pp of Greedy. No effect size printed.
 

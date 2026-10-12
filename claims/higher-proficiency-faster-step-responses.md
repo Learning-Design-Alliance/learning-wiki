@@ -13,12 +13,14 @@ sources:
     title: proficiency-rt-1
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher prior proficiency is associated with faster step-level response-time propensities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prior proficiency is negatively associated with RT propensity: more proficient students tend to respond more quickly at the step level. [→ proficiency-rt-1](#proficiency-rt-1)
@@ -29,7 +31,7 @@ sources:
 
 Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis of student-level random-effect estimates from the iAFM and RT propensity models, shown in Figure 2 (left panel), based on the eight algebra tutoring deployments. The article attributes the pattern to a fluency account: stronger procedural knowledge yields shorter latencies without implying low effort.
 

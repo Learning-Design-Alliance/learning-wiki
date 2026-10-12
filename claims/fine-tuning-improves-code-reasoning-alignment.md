@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-tuning increases Qwen2-VL-72B's success rate on DSReal from 10.8% to 35.3%, mainly by reducing programming errors from 30.4% to 6.9%, while visual understanding and spatial reasoning errors remain largely unchanged. [→ Chao Wen 2026](#chao-wen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Failure-type distribution analysis on DSReal comparing base and fine-tuned Qwen2-VL-72B (Figure 6). The comparison showed fine-tuning "increases the success rate from 10.8% to 35.3%", driven by reduced programming errors; visual understanding and spatial reasoning errors remained largely unchanged. No effect size is printed.
 

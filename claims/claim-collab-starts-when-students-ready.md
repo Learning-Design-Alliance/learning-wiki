@@ -15,12 +15,14 @@ sources:
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` “When students are ready” was the top-ranked timing option for both teachers and students, while “Students decide” was least favored by students. [→ Kexin Bella Yang 2026](#kexin-bella-yang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Ranking data from Challenge 2 in the mixed-method PSD study. The article states that "When students are ready" was the top choice for both groups, and full student control was least favored by students.
 

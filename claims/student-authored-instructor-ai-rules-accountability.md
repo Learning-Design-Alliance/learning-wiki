@@ -15,18 +15,22 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: yusuf-pisan-2026-2
     resource: "https://arxiv.org/abs/2608.05175"
     title: "Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175"
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Handing students the task of articulating the rules under which AI is used, even a scaffolded task, produced a concrete accountability framework, and submitting to student-endorsed rules changed how AI was discussed in the room. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -38,7 +42,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Week-2 in-class exercise (The Algorithmic Professor?; 44 of 46 students present, nine group submissions) in which groups deliberated on instructor AI use and produced a Student Bill of AI Rights. The author reports the framework's usability as his own practitioner judgment, with no causal or learning-outcome claim.
 
@@ -48,7 +52,7 @@ Week-2 in-class exercise (The Algorithmic Professor?; 44 of 46 students present,
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Provenance analysis of the exercise: the Gemini-generated assignment instructed groups to produce a Student Bill of AI Rights and offered three example rights, which the groups then converged on. The author attributes the Beta-Test Rule name to the model rather than the students and calls this loop the finding.
 

@@ -15,12 +15,14 @@ sources:
     author: Fan Bu and Wei Li
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The direct path from contextual support to perceived transfer gains was not statistically significant, whereas the chained indirect pathway through trust calibration and collaborative regulation was significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The direct path from contextual support to perceived transfer gains was not statistically significant. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)
@@ -32,7 +34,7 @@ sources:
 
 Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study. Front. Psychol. 17:1861072. https://doi.org/10.3389/fpsyg.2026.1861072
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Structural equation modeling with indirect effects estimated via bootstrap resamples and 95% bootstrap confidence intervals, controlling for gender, year of study, disciplinary area, and weekly GenAI use. The article reports the direct path as "not statistically signiﬁcant" while the chained indirect pathway was significant; equivalence was not tested.
 

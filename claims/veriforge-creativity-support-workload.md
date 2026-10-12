@@ -15,18 +15,22 @@ sources:
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: ruqi-sun-2026-2
     resource: "https://arxiv.org/abs/2608.09698"
     title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` CSI Total was higher under VeriForge (M=81.47 vs M=69.31; r=.804) and remained significant after FDR correction; Exploration and Expressiveness subscales also survived correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Paired Wilcoxon signed-rank tests in the within-subjects study (N=12) with Benjamini–Hochberg FDR correction; CSI Total "remained significant after FDR correction" with printed effect size r=.804. Exploration (q=.022) and Expressiveness (q=.017) also survived; Value showed a positive trend that did not (q=.066).
 
@@ -48,7 +52,7 @@ Paired Wilcoxon signed-rank tests in the within-subjects study (N=12) with Benja
 
 Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 NASA-TLX weighted total from the same paired analysis showed a positive trend that did not survive correction (printed r=.611). The authors interpret equivalent Effort (p=.691) as "cognitive reallocation rather than reduction"; Immersion did not differ (p=.578).
 

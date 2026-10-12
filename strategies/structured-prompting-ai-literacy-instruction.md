@@ -40,7 +40,7 @@ The review treats prompting in chemistry as an epistemic act, not merely a techn
 - AI literacy including provenance checking and uncertainty recognition
 
 ### Affordances
-- [Verification Centered Johnstone 3P Genai Architecture](../theories/verification-centered-johnstone-3p-genai-architecture.md)
+- [Verification Centered Johnstone 3P Genai Architecture](../designs/verification-centered-johnstone-3p-genai-architecture.md)
 
 ## Related Strategies
 

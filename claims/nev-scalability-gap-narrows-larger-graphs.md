@@ -15,12 +15,14 @@ sources:
     author: Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # The with/without-tools difficulty gap narrowed as graph size grew, which the authors read as a positive indication of scalability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The SEQ difference between using and not using the tools decreased from task 3 to tasks 6 and 7 (larger graphs), which the authors interpret as a positive indication of scalability, while some participants expressed mixed sentiment about nev's scalability. [→ Julián Méndez 2026](#julian-mendez-2026)
@@ -31,7 +33,7 @@ sources:
 
 Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Tasks 6 and 7 used larger graphs (100 nodes/444 edges and 500 nodes/2284 edges) to assess scalability; the authors note "a reasonable reduction of the difference can be noted as the graph size increases". This is the authors' interpretation of descriptive data.
 

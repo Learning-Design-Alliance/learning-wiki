@@ -15,12 +15,14 @@ sources:
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-tuning models (Pixtral-12B-TURTLE, Qwen2-VL-7B-TURTLE, Qwen2-VL-72B-TURTLE) consistently improves symbolic success rates by over 10% over their base counterparts on TURTLEAI-DS. [→ Chao Wen 2026](#chao-wen-2026)
@@ -32,7 +34,7 @@ sources:
 
 Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Main results table comparing fine-tuned models (trained on TURTLEAI-Train, 738k samples) against base models across DSReal, DSCraft, DSSyn, and the full dataset. For example, Qwen2-VL-72B-TURTLE reached 35.29% symbolic success on DSReal versus 11.76% for the base model; the article reports "increasing symbolic success rates by over 10%". No effect size is printed.
 

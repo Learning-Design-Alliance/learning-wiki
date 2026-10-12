@@ -15,12 +15,14 @@ sources:
     author: Esteban U. Vega Barajas
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Star-derived English sentiment labels are a reasonable but imperfect proxy, agreeing with EduRABSA human labels at kappa 0.66 and 82% accuracy, with the neutral class weakest. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)
@@ -31,7 +33,7 @@ sources:
 
 Esteban U. Vega Barajas. (2026). A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol. https://arxiv.org/abs/2607.11873
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Validation of the star-to-sentiment labeling rule against EduRABSA's independently annotated review-level human sentiment labels, on the 3,000 RateMyProfessor teacher reviews within EduRABSA that share the star-rating scale of the assembled corpus. The article reports "Cohen’s kappa 0.66, with 82% accuracy" and notes "The neutral class is the weakest, because human-neutral reviews scatter across star levels".
 

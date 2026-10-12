@@ -13,12 +13,14 @@ sources:
     title: Tang J 2026
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In the first task the AI-assisted peer feedback class significantly outperformed the teacher feedback class on lexical diversity (F(1,59)=12.288, p < .001; group main effect ηp² = .200), but in the second task the group effect was non-significant (F(1,59)=1.084, p = .303). [→ Tang J 2026](#tang-j-2026)
@@ -29,7 +31,7 @@ sources:
 
 Tang J, Li P, Luo R (2026) Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University. PLoS One 21(6): e0345976. https://doi.org/10.1371/journal.pone.0345976
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Mixed repeated-measures ANOVA on Coh-Metrix 3.0 lexical diversity indicators (LDTTRc, LDMTLDa, LDVOCDa) across two tasks; first-task group main effect ηp² = .200 (large), second task ηp² = .022. The authors say the advantage was not "internalized into a stable lexical generation strategy".
 

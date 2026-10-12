@@ -15,18 +15,22 @@ sources:
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: fu-l-2026-2
     resource: "https://doi.org/10.3389/fpsyg.2026.1900061"
     title: "Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061"
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Procedural justice at Time 2 significantly predicted intrinsic motivation at Time 3 (β = 0.16) but not extrinsic motivation (β = 0.04, p = 0.310). [→ Fu L 2026](#fu-l-2026)
@@ -38,7 +42,7 @@ sources:
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 RI-CLPM within-person cross-lagged analysis (N = 450). The PJ→IM path survived BH-FDR correction (q = 0.012) while "the procedural justice → extrinsic motivation path (p = 0.310, q = 0.354)" remained non-significant under FDR control.
 
@@ -48,7 +52,7 @@ RI-CLPM within-person cross-lagged analysis (N = 450). The PJ→IM path survived
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Direct coefficient-difference test within the same RI-CLPM; the article states the difference "is directionally consistent with a stronger pathway to intrinsic motivation but does not itself reach conventional significance" and its confidence interval is wide relative to the point estimate.
 

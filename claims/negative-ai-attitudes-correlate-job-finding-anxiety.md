@@ -15,12 +15,14 @@ sources:
     author: "Üstün, A. G., & Danacıoğlu, N."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Job finding anxiety correlates moderately and positively with negative AI attitudes (r=.415) and more weakly with positive AI attitudes (r=.288). [→ Üstün 2026](#ustun-2026)
@@ -31,7 +33,7 @@ sources:
 
 Üstün, A. G., & Danacıoğlu, N. (2026). The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students’ Job Finding Anxiety. Participatory Educational Research, 13(2), 143-164. https://doi.org/10.17275/per.26.23.13.2
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Pearson correlations in the same 1,057-student correlational survey. The study reports the negative-attitudes correlation as "moderate and positive ( r=.415)" and the positive-attitudes correlation as "weaker, yet significant" at r=.288.
 

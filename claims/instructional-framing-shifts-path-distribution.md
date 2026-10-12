@@ -15,12 +15,14 @@ sources:
     author: Zahra, F. T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A reflection-structured assignment produced predominantly Strategic Dialogue content, offering preliminary, non-causal evidence that instructional framing may shift path distribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A second dataset of 57 messages from 10 students, drawn from an assignment structured around scaffolded reflection tasks, showed predominantly applicative and policy-critical content consistent with Path 3. [→ Zahra 2025](#zahra-2025)
@@ -31,7 +33,7 @@ sources:
 
 Zahra, F. T. (2025). Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking. Manuscript under blind review; framework first presented at EAAI-25, Philadelphia, PA. https://arxiv.org/abs/2610.00338
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Descriptive examination (not formally coded) of 57 messages from 10 students in the same course, from an assignment requiring hypotheses, policy implications, and applicative reasoning. The article states the contrast is "not a controlled comparison" and causal claims are unwarranted.
 

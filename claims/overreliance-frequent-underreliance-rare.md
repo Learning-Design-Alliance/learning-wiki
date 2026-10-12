@@ -15,18 +15,22 @@ sources:
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: griffin-pitts-2026-2
     resource: "https://arxiv.org/abs/2604.01114"
     title: "Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114"
     author: Griffin Pitts, Neha Rani, and Weedguet Mildort
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean appropriate reliance was 61.77% (SD = 10.78) and task accuracy 61.21% (SD = 10.93). [→ Griffin Pitts 2026](#griffin-pitts-2026)
@@ -38,7 +42,7 @@ sources:
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive statistics from the Results section of the 432-participant laboratory experiment with 14 Python output-prediction problems; these are descriptive means with no test statistic or effect size printed.
 
@@ -48,7 +52,7 @@ Descriptive statistics from the Results section of the 432-participant laborator
 
 Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. Preprint, accepted to AIED 2026. https://arxiv.org/abs/2604.01114
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Descriptive reliance measures from the same Results section: overreliance M = 86.03% (SD = 25.52) and underreliance M = 2.37% (SD = 8.27). These are descriptive percentages; no effect size is printed.
 

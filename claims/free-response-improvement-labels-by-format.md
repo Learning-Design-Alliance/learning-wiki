@@ -15,12 +15,14 @@ sources:
     author: Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the TT format, stiffness of speech (frequency 8) was the most common improvement label, with difficulty of content and abundance of difficult vocabulary also emerging; in the SS format, unnatural manner of speaking (frequency 14) was most common. [→ Fumie Watanabe 2026](#fumie-watanabe-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative coding (KJ method with LLM-assisted labeling, Cohen's κ = .952) of optional free-response comments from 49 students (22.1%) for TS, 44 (19.8%) for SS, and 46 (20.7%) for TT, yielding 26 distinct labels. In the SS format, "unnatural manner of speaking" (frequency 14) was the most common label.
 

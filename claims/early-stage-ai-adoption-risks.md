@@ -15,12 +15,14 @@ sources:
     author: "Binkowski, K. P., & Hopkins, A."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that universities failing to progress beyond Levels 0 or 1 risk a reactive mode producing fragmented teaching practices, growing misalignment between assessment and real-world practice, and missed opportunities to prepare students for AI-enabled professional environments. [→ Binkowski 2026](#binkowski-2026)
@@ -31,7 +33,7 @@ sources:
 
 Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the authors' analytical argument, not an empirical test: the article offers no data for this claim. It rests on sector observations that transformation is constrained by fragmented institutional responses and insufficient alignment of workload, incentives, and support structures.
 

@@ -15,12 +15,14 @@ sources:
     author: Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # SHAP analysis of the explainable model identifies production frequency and spelling difficulty as high-impact predictors of KVL difficulty, with spelling difficulty varying strongly by L1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Production frequency is a consistently high-impact feature across languages, overshadowing reception frequency, which ranks as the least important across L1s. [→ Adam Nohejl 2026](#adam-nohejl-2026)
@@ -31,7 +33,7 @@ sources:
 
 Adam Nohejl, Xuanxin Wu, Yusuke Ide, Maria Angelica Riera Machin, Yi-Ning Chang, Hitomi Yanaka. (2026). Sakura at BEA 2026 Shared Task 1: What Makes Vocabulary Difficult? https://arxiv.org/abs/2605.14257
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Global SHAP analysis (Section 6.2, Figure 1) of mean absolute SHAP values over the test data for the explainable model. The authors link the feature's importance to the KVL's focus on production, noting its importance "corresponds with the amount ofL1-specific data available."
 

@@ -15,12 +15,14 @@ sources:
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Students perceive a KBD-configured generative social robot tutor as more aligned with responsible tutoring behavior than an identical non-KBD control robot
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a two-group between-subjects experiment, the KBD condition rated the robot significantly higher on perceived responsible behavior than the control condition (d = 0.930). [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -31,7 +33,7 @@ sources:
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Welch two-sample t-test in the preregistered two-group between-subjects experiment (KBD n = 12, control n = 12) comparing the 9-item Perceived Responsible Behavior scale. The KBD group scored "significantly higher perceived alignment with responsible robot behavior than the control group", d = 0.930, p = .034.
 

@@ -15,12 +15,14 @@ sources:
     author: Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Applying TSDR to six KT baselines yields AUC improvements across diverse model architectures on nine real-world datasets. [→ Peilin Zhan 2026](#peilin-zhan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Peilin Zhan, Wei Chen, Weilin Chen, Shuyi Pan, Ruichu Cai. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. https://arxiv.org/abs/2605.05958
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Empirical benchmark study (RQ1, Table 1) applying TSDR to DKT, AKT, simpleKT, FoLiBiKT, SparseKT and DisKT on nine datasets with student-stratified 5-fold cross-validation, evaluated via AUC, ACC and RMSE. The article reports "TSDR yields improvements across diverse model architectures."
 

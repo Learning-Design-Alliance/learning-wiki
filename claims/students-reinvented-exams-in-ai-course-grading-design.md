@@ -15,12 +15,14 @@ sources:
     author: Yusuf Pisan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Of the groups whose proposed weighting was recorded, all but one introduced some form of proctored, handwritten, oral, or quiz-based assessment, and four placed roughly sixty to seventy percent of the grade on a proctored or handwritten component. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yusuf Pisan. (2026). Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights. https://arxiv.org/abs/2608.05175
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 In-class group exercise (the AI Grading Paradox, week 4; 36 present, seven submissions) in which groups stress-tested four grading models and designed their own ideal policy for an AI-required, exam-free course. The instructor reports, via the Gemini-generated summary, that "all but one introduced some form of proctored, handwritten, oral, or quiz-based assessment."
 

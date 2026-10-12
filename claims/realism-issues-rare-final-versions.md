@@ -15,12 +15,14 @@ sources:
     author: Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Realism issues were detected by agents during generation but were rare in final versions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers made 10 prompting moves explicitly flagging realism issues and 20 moves modifying quantity or unit, while only 6 student comments flagged realism issues in final problems. [→ Walkington 2025](#walkington-2025)
@@ -31,7 +33,7 @@ sources:
 
 Walkington, C., Beauchamp, T., Ikram, F., Koçyiğit Gürbüz, M., Xia, F., Lee, M., Lan, A. (2025). Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation. https://arxiv.org/abs/2604.12066
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Thematic analysis of teacher prompts and student feedback found that although the agents detected many issues with realism as problems were being written, there were few realism issues noted by teachers and students in the final versions. Teachers also made 20 prompting moves modifying quantity or unit, and 6 student comments flagged realism issues.
 

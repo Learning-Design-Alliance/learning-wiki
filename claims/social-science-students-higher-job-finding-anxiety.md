@@ -15,18 +15,22 @@ sources:
     author: "Üstün, A. G., & Danacıoğlu, N."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: üstün-2026-2
     resource: "https://doi.org/10.17275/per.26.23.13.2"
     title: "Üstün, A. G., & Danacıoğlu, N. (2026). The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students’ Job Finding Anxiety. Participatory Educational Research, 13(2), 143-164. https://doi.org/10.17275/per.26.23.13.2"
     author: "Üstün, A. G., & Danacıoğlu, N."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Social science students had significantly higher job finding anxiety than natural and applied field students (t=4.08, d=.25). [→ Üstün 2026](#ustun-2026)
@@ -38,7 +42,7 @@ sources:
 
 Üstün, A. G., & Danacıoğlu, N. (2026). The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students’ Job Finding Anxiety. Participatory Educational Research, 13(2), 143-164. https://doi.org/10.17275/per.26.23.13.2
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Independent samples t-test by field of study in the 1,057-student survey (job finding anxiety t=4.08, p<.001). The study reports social science students "had significantly higher average scores than those in natural and applied fields" with a small effect size, d=.25.
 
@@ -48,7 +52,7 @@ Independent samples t-test by field of study in the 1,057-student survey (job fi
 
 Üstün, A. G., & Danacıoğlu, N. (2026). The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students’ Job Finding Anxiety. Participatory Educational Research, 13(2), 143-164. https://doi.org/10.17275/per.26.23.13.2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same field-of-study t-test analysis; the Learning subdimension (t=1.5, p=.135) and total AI attitudes (t=1.05, p=.296) showed no significant difference between fields; equivalence was not tested.
 

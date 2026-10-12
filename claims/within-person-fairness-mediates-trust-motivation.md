@@ -15,12 +15,14 @@ sources:
     author: Fu L, Ouyang Z and Wu Q
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bias-corrected bootstrapping confirmed a significant longitudinal indirect path from trust (T1) through fairness (T2) to motivation (T3) at the within-person level. [→ Fu L 2026](#fu-l-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fu L, Ouyang Z and Wu Q (2026). How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study. Front. Psychol. 17:1900061. https://doi.org/10.3389/fpsyg.2026.1900061
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Longitudinal mediation within the RI-CLPM's within-person stratum, tested with the product-of-coefficients approach and bias-corrected bootstrapping with 5,000 resamples; the mediation model used equally weighted composite trust, fairness, and motivation scores rather than dimension-specific paths.
 

@@ -15,12 +15,14 @@ sources:
     author: Yuanzhe Dong, Jie Cao, Shuman Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative coding of five expert interviews yielded six cross-case themes: coherence (all five), cognitive load and delayed progress (four), resource demands (all five), unequal participation, reasoning beyond completion, and visible relevance (three). [→ Yuanzhe Dong 2026](#yuanzhe-dong-2026)
@@ -31,7 +33,7 @@ sources:
 
 Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Iterative qualitative coding of structured interviews with five purposively selected experts, summarized into six cross-case themes; counts indicate the number of experts expressing a theme. The quote records that "Four questioned the volume of terminology and prerequisites." No effect sizes apply.
 

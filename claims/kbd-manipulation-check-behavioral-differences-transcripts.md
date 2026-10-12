@@ -15,24 +15,30 @@ sources:
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: stephan-vonschallen-2026-2
     resource: "https://arxiv.org/abs/2607.22345"
     title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: stephan-vonschallen-2026-3
     resource: "https://arxiv.org/abs/2607.22345"
     title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Qualitative transcript analysis showed the KBD robot used Socratic questioning, slide-grounded sourced claims, and explained feedback far more often, while the control robot produced false statements and never cited sources
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachy Mini linked 81.5% of its claims to the lecture slides while the control robot never provided sources. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -45,7 +51,7 @@ sources:
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Qualitative content analysis of three KBD and three control interaction transcripts (655 coded segments; 164 KBD vs 163 control robot messages), coded by one researcher with consensus review by a second.
 
@@ -55,7 +61,7 @@ Qualitative content analysis of three KBD and three control interaction transcri
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Same transcript analysis: the authors report the control robot "made ten statements that were factually wrong" while Teachy Mini "did not provide any false information itself", though in five of 15 wrong-answer instances it should have corrected more assertively.
 
@@ -65,7 +71,7 @@ Same transcript analysis: the authors report the control robot "made ten stateme
 
 Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Same qualitative manipulation check: roles reversed across conditions — in the KBD condition students answered Socratic questions first, while in the control condition students mainly asked and the robot explained, which the authors call generally less effective.
 

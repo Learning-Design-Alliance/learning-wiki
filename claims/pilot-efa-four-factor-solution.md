@@ -15,12 +15,14 @@ sources:
     author: Fan Bu and Wei Li
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pilot EFA supported a four-factor solution and three items were removed for weak or ambiguous loadings. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)
@@ -31,7 +33,7 @@ sources:
 
 Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study. Front. Psychol. 17:1861072. https://doi.org/10.3389/fpsyg.2026.1861072
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pilot EFA (principal axis factoring with oblimin rotation) with an independent sample of 94 undergraduates from two universities outside the formal survey sample. The article reports the solution "supported a four-factor solution" and that removals left retained item loadings ranging from 0.58 to 0.83.
 

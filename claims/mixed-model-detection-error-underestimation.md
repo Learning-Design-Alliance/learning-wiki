@@ -15,18 +15,22 @@ sources:
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: marijke-van-vlasselaer-2026-2
     resource: "https://doi.org/10.1007/s40979-026-00226-w"
     title: "Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w"
     author: Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The overall model and both fixed effects and their interaction were significant (Wald χ²(15) = 7443.65, p<.001; interaction χ²(9) = 1582.33, p < .001). [→ Marijke Van Vlasselaer 2026](#marijke-van-vlasselaer-2026)
@@ -38,7 +42,7 @@ sources:
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Inferential analysis of prediction error on the 160-paper synthetic dataset: a linear mixed-effects model predicting error scores (ground truth minus tool score) with paper type as a between-subjects and tool as a within-subjects fixed effect. The article reports the printed Wald χ² statistics; no effect size is given.
 
@@ -48,7 +52,7 @@ Inferential analysis of prediction error on the 160-paper synthetic dataset: a l
 
 Marijke Van Vlasselaer, Filip Van Droogenbroeck and Bram Spruyt. (2026). Who wrote this? Evaluating the reliability of AI detection tools in higher education. International Journal for Educational Integrity. https://doi.org/10.1007/s40979-026-00226-w
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Post hoc estimated marginal means with 95% confidence intervals from the same mixed-effects model. The article reports Pangram was essentially unbiased for hybrid and humanised papers (errors of -0.81 and -1.12, not significantly different from zero) while the other tools showed significant underestimation.
 

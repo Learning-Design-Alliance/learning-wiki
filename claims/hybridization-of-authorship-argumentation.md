@@ -15,12 +15,14 @@ sources:
     author: Voicu, C.-G.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students increasingly produce texts blending human and AI-generated content, often without explicit awareness of the boundary between personal reasoning and algorithmic output, raising questions of intellectual ownership and academic integrity. [→ Voicu 2026](#voicu-2026)
@@ -31,7 +33,7 @@ sources:
 
 Voicu, C.-G. (2026). AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education. Journal of Digital Pedagogy, 5(1) 37-51. https://doi.org/10.61071/jdp.2665 .2665
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Second macro-transformation reported in Section 4.2 from the observational analysis. The article adds that AI-generated texts "tend to follow statistically dominant rhetorical structures, producing coherent yet often formulaic arguments" and that learners may incorporate fabricated or unverifiable references without evaluating accuracy.
 
