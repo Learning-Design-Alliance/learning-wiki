@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="gpt-4-generates-targeted-corrective-feedback-for-66-of-student-errors-but-35-of-hints-are-too-general-incorrect-or-give-away-the-answer">GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer<a class="headerlink" href="#gpt-4-generates-targeted-corrective-feedback-for-66-of-student-errors-but-35-of-hints-are-too-general-incorrect-or-give-away-the-answer" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code>–<code>r3</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> When prompted to diagnose the error first and then generate feedback, 66% of GPT-4's hints were targeted to the student's specific mistake. <a href="#reddig-2025">→ Reddig 2025</a>
+<code>q2 i?</code> Of the generated hints, 22.3% were general, 7.1% gave the exact answer, and 4.8% gave incorrect directions. <a href="#reddig-2025-2">→ Reddig 2025 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="reddig-2025">Reddig 2025<a class="headerlink" href="#reddig-2025" title="Permanent link">&para;</a></h3>
+<p>Reddig, J. M., Arora, A., &amp; MacLellan, C. J. (2025). Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-025-00505-6</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Human coding (two independent coders, Cohen's Kappa 0.768) of the hints GPT-4 generated for the diagnosed student errors from the Apprentice Tutors transaction data, categorizing each hint as Targeted, General, Gives Answer, or Incorrect; "66% of the generated feedback wasTargetedto the student".</p>
+<blockquote>
+<p>"Using this approach, 66% of the generated feedback wasTargetedto the student and speciﬁcally addressed the mistake."</p>
+</blockquote>
+<h3 id="reddig-2025-2">Reddig 2025 (2)<a class="headerlink" href="#reddig-2025-2" title="Permanent link">&para;</a></h3>
+<p>Reddig, J. M., Arora, A., &amp; MacLellan, C. J. (2025). Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-025-00505-6</p>
+<p><code>q2 · i?</code> · <code>design · r3</code></p>
+<p>Same coding study of GPT-generated hints: general hints restated the field's goal, 7.1% included the exact answer with explanatory feedback, and "Incorrect directions were given in 4.8% of the feedback", typically after a misdiagnosis.</p>
+<blockquote>
+<p>"We classiﬁed 22.3% of hints as General – that is, a general description of how to satisfy the ﬁeld."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../gpt4-diagnoses-its-errors-87-8-accuracy/">Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy</a> — related</li>
+<li><a href="../nl-feedback-quality-92-percent-helpful/">GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation</a> — related</li>
+<li><a href="../gpt4-diagnosis-accuracy-varies-by-error-type/">GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>gpt4-feedback-66-percent-targeted-35-percent-flawed</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>reddig-2025</code>, <code>reddig-2025-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
