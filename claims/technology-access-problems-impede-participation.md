@@ -79,3 +79,4 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
+- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](contextual-factors-increase-test-anxiety.md) — related

@@ -45,3 +45,4 @@ One of three one-way ANOVAs using self-efficacy profile as independent variable 
 ## Related Claims
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — possibly the same claim (merge candidate)
 - [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related

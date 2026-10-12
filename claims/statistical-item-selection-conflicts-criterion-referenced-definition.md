@@ -53,3 +53,4 @@ Theoretical argument in the section on norm-referenced scores from criterion-ref
 - [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related
 - [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related
 - [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related
+- [Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges](critical-thinking-rarely-defined-hci-ai-research.md) — a narrower finding that bears on this claim

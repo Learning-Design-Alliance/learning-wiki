@@ -64,3 +64,4 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — a narrower finding that bears on this claim
+- [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related

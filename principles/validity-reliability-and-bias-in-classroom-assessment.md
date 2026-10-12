@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (51 for, 17 mixed, 3 against) · 55 studies (18 associational, 11 design, 10 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 55 report an effect size · 70 claims rest on one study
+> **Evidence** · 72 claims (52 for, 17 mixed, 3 against) · 56 studies (19 associational, 11 design, 10 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 56 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](../claims/llm-grading-moderate-human-agreement-icc.md) [+W] — attached 2026-10-12 from Marcin Jukiewicz (2025), which proposed "Align LLM grader selection with pedagogical goals and maintain human oversight"; tests this page's relationship.
 - [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](../claims/llms-differ-liberal-restrictive-balanced-grading-styles.md) [+W] — attached 2026-10-12 from Marcin Jukiewicz (2025), which proposed "Align LLM grader selection with pedagogical goals and maintain human oversight"; tests this page's relationship.
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](../claims/ai-detection-unreliable-biased-high-stakes.md) [+W] — attached 2026-10-12 from Sangwa et al. (2025), which proposed "AI-aware assessment patterns shift evaluation toward process evidence and demonstration of judgment"; tests this page's relationship.
+- [GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions](../claims/llm-essay-scoring-reliability-stratification.md) [+W] — attached 2026-10-12 from Tongxi Liu et al. (2026), which proposed "Validate LLM scoring systems for reliability before classroom deployment and adopt predefined reliability thresholds for high-stakes use"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

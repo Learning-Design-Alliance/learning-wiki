@@ -73,3 +73,4 @@ Discussion of the same cross-sectional survey; descriptive means show perceived 
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Managers perceive the greatest AI potential in data analytics, document automation, and quality monitoring, and the least in personalization](application-potential-analytics-automation-monitoring.md) — related
+- [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related

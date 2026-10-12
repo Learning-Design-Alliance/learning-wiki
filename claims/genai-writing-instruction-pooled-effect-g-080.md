@@ -65,3 +65,4 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 - [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
 - [Sample size category (21–40 vs. >40 participants) does not significantly moderate GenAI writing effects](sample-size-nonsignificant-moderator-genai-writing.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
+- [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related

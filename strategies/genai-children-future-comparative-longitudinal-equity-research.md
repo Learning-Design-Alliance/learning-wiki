@@ -39,6 +39,7 @@ The review's forward-looking recommendation is that the field move beyond small 
 ## Related Strategies
 
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
+- [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 
 ## Examples
 -

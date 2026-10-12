@@ -45,3 +45,4 @@ Experiment 4 (revised rubric, rationale-first evaluation) scored the machine-gen
 ## Related Claims
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness](rationale-first-limited-gains-openness.md) — related
+- [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related

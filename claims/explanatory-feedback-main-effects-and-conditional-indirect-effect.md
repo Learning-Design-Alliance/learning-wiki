@@ -67,3 +67,4 @@ Conditional indirect effects from the PROCESS analysis (5000 bootstrap resamples
 - [Perceived fairness partially mediates the effect of decision-making agent on decision acceptance, accounting for 67.52% of the total effect](perceived-fairness-mediates-agent-acceptance.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
+- [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — a narrower finding that bears on this claim

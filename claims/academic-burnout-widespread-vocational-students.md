@@ -49,3 +49,4 @@ Burnout was measured with the revised MBI-GS covering emotional exhaustion, cyni
 - [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
+- [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](educator-affective-toll-ai-grading.md) — related

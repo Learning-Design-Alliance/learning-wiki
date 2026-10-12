@@ -67,3 +67,4 @@ Interview accounts from unrestricted-condition students who were "satisfied with
 - [Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use](peer-ai-use-social-comparison-devalues-effort.md) — related
 - [Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students](ai-alternative-demoralizes-effort-cost.md) — related
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on

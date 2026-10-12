@@ -42,3 +42,4 @@ PLS-SEM analysis of cross-sectional survey data from 412 undergraduate business 
 
 ## Related Claims
 - [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related
+- [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](actual-genai-use-tied-to-interest-and-usefulness.md) — related

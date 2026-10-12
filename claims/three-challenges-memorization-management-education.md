@@ -46,3 +46,4 @@ The article's abstract states this three-part diagnosis of traditional managemen
 - [The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges](genai-viable-means-management-education-reform.md) — related
 - [Basic speech textbooks have not incorporated contemporary rhetorical theory, remaining nearly unchanged across decades](basic-speech-texts-unchanged.md) — related
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related

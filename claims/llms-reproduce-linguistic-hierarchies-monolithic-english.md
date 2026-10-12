@@ -45,3 +45,4 @@ Expert contribution to the structured scholarly dialogue: a sociolinguist workin
 ## Related Claims
 - [Prompting experiments show LLMs perform badly at generating non-US national standard varieties and conflate Nigerian English with Nigerian Pidgin](llms-perform-badly-non-us-standard-varieties.md) — a narrower finding that bears on this claim
 - [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
+- [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — a narrower finding that bears on this claim

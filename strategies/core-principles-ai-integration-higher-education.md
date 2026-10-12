@@ -65,6 +65,8 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
 - [Design AI-supported VET environments that augment human judgment and strengthen learner agency rather than replicating human instruction (avoiding the Turing Trap)](avoid-turing-trap-augment-human-judgment-vet-ai.md)
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
+- [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
+- [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 
 ## Related Principles
 - 

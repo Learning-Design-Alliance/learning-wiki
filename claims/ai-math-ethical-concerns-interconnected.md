@@ -80,3 +80,4 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
+- [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related

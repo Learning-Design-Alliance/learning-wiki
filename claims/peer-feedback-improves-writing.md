@@ -82,3 +82,4 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](students-report-limited-feedback-on-assessments.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
 - [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
+- [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — a narrower finding that bears on this claim

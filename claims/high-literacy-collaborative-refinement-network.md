@@ -45,3 +45,4 @@ ENA model of the HG group's (n = 89) interaction logs. The authors report HG stu
 ## Related Claims
 - [Low-literacy students' ENA networks are dominated by links between Abstract Generation Commands and Factual or Challenging Questions, described as a transactional approach](low-literacy-transactional-generation-network.md) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — a broader claim this one bears on
+- [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related

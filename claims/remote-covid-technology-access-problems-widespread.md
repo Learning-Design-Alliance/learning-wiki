@@ -62,3 +62,4 @@ National probability-based KnowledgePanel survey of undergraduates whose in-pers
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
+- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](contextual-factors-increase-test-anxiety.md) — related

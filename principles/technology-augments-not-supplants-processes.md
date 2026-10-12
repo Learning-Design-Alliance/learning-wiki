@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (41 for, 5 mixed, 1 against) · 33 studies (9 qualitative, 8 theoretical, 6 review, 5 causal, 4 design, 1 associational), `q1`–`q4` · 2 of 33 report an effect size · 47 claims rest on one study
+> **Evidence** · 48 claims (42 for, 5 mixed, 1 against) · 34 studies (10 qualitative, 8 theoretical, 6 review, 5 causal, 4 design, 1 associational), `q1`–`q4` · 2 of 34 report an effect size · 48 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -106,6 +106,7 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](../claims/independent-work-before-llm-stronger-outputs.md) [+W] — attached 2026-10-12 from Mireia Vendrell (2026), which proposed "Eight design principles for integrating LLMs while preserving critical thinking".
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](../claims/genai-agency-supportive-patterns.md) [+W] — attached 2026-10-12 from Wang Guanhua et al. (2026), which proposed "Embed GenAI pedagogically as scaffolded, augmentation-oriented support rather than replacement-oriented direct-answer use".
 - [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](../claims/genai-agency-mechanism-clusters.md) [+W] — attached 2026-10-12 from Wang Guanhua et al. (2026), which proposed "Embed GenAI pedagogically as scaffolded, augmentation-oriented support rather than replacement-oriented direct-answer use".
+- [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](../claims/ai-partnership-novel-theoretical-empirical-reflection.md) [+W] — attached 2026-10-12 from Dalsgaard et al. (2026), which proposed "Cultivate, do not ban: teach students to use AI as a mediating tool for reflective thought within process-oriented assignments".
 
 ## Related Principles
 

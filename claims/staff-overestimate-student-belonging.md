@@ -45,3 +45,4 @@ Survey analysis comparing student and staff perceptions of belonging in both dis
 ## Related Claims
 - [Only about half of students in the two studied districts reported feeling safer in school when police are present, and many preferred confiding in a non-security adult](only-half-students-feel-safer-with-police-present.md) — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
+- [When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial](anonymous-grading-weakens-connection-and-feedback-benefit.md) — related

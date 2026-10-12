@@ -54,3 +54,6 @@ Descriptive country-level mapping of the 39 included studies (RQ1, Fig. 3). The 
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — related
 - [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related
 - [The United States leads publication volume (533) and citation influence on AI ethics in medical education, ahead of China (189) and England (95)](us-leads-ai-medical-education-publications.md) — related
+- [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
+- [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [The United States leads country contributions to AI-and-metacognition STEM research with 68 publications, followed by China with 37](usa-leads-country-contributions-ai-metacognition-stem.md) — related

@@ -48,3 +48,4 @@ Post-hoc exploratory Kruskal–Wallis analysis of item difficulty across ChatGPT
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE](perceived-alignment-does-not-differ-ai-vs-nle.md) — related
 - [Students' recognition did not differ between AI-generated and NLE MCQs](recognition-does-not-differ-ai-vs-nle.md) — related
+- [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related

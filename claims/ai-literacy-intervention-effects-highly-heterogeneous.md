@@ -1,0 +1,47 @@
+---
+type: claim
+title: "Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval"
+description: "Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval"
+id: ai-literacy-intervention-effects-highly-heterogeneous
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: suya-liu-2026
+    resource: "https://doi.org/10.1016/j.edurev.2026.100813"
+    title: "Suya Liu, Ziyan Lin, Oi Lam Ng, Yijian Yang, Yun Dai. (2026). AI literacy interventions in education: A meta-analysis of effects and moderators. Educational Research Review. https://doi.org/10.1016/j.edurev.2026.100813"
+    author: Suya Liu, Ziyan Lin, Oi Lam Ng, Yijian Yang, Yun Dai
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
+---
+
+# Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+
+## Subclaims
+`q3 i?` Substantial heterogeneity exists in AI literacy intervention effects, with 71.361% of variance at the between-study level and a 95% prediction interval from -0.292 to 1.966. [→ Suya Liu 2026](#suya-liu-2026)
+
+## Evidence
+
+### Suya Liu 2026
+
+Suya Liu, Ziyan Lin, Oi Lam Ng, Yijian Yang, Yun Dai. (2026). AI literacy interventions in education: A meta-analysis of effects and moderators. Educational Research Review. https://doi.org/10.1016/j.edurev.2026.100813
+
+`q3 · i?` · `quant-synthesis · r2`
+
+Heterogeneity assessment within the same three-level meta-analysis. All variance components were significant; the article reports variance shares of 5.144%, 23.495%, and 71.361% and a 95% prediction interval of [-0.292, 1.966], indicating effects "may vary considerably across studies and contexts".
+
+> "the Q test (Q (171) = 1896.404, p < .001), within-study variance (p < .001, Level 2), and between-study variance (p < .001, Level 3) were all statistically significant"
+
+## Discussion
+
+
+## Related Claims
+- [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — related
+- [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related

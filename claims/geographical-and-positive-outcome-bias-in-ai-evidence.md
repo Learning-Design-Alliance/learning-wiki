@@ -67,3 +67,4 @@ Reporting bias assessment based on analysis of publication trends and geographic
 - [Experts from multiple world regions affirmed the need and value of academic integrity indicators but queried prospects for dissemination and adoption](experts-affirm-indicator-value-query-adoption.md) — related
 - [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — a narrower finding that bears on this claim
 - [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
+- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related

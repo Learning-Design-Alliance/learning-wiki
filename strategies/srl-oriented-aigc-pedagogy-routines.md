@@ -54,6 +54,8 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
 - [Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning](cultivate-approach-goals-manage-ai-feedback-anxiety.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
+- [Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange](embed-habitual-ai-engagement-everyday-teaching.md)
+- [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
 
 ## Examples
 -

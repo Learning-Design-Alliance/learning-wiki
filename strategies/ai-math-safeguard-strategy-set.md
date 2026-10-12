@@ -39,6 +39,7 @@ The review consolidates the strategic approaches recommended by recent research 
 ## Related Strategies
 
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
+- [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](fair-feasible-ai-assessment-design-strategies.md)
 
 ## Examples
 -

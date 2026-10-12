@@ -70,3 +70,4 @@ ANOVA on 1-7 Likert difficulty self-ratings after the lesson. The elaborative-in
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Open-ended responses rank the review section and practice questions as the most-liked lesson features](open-ended-likes-review-and-practice-top.md) — related
 - [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related
+- [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related

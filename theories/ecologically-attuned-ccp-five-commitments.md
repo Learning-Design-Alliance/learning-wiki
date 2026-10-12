@@ -55,6 +55,7 @@ The article proposes an approach to critical communication pedagogy contextualiz
 - [Critique of language in CCP must include critique of humanism and humanist historicization](../principles/critique-language-includes-critique-of-humanism.md)
 - [Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy](../principles/expand-ccp-sphere-of-concern-to-more-than-human.md)
 - [Task students with proposing a neologism and a golden spike placement to expose the rhetoricity of historicizing the Anthropocene](../strategies/golden-spike-neologism-assignment.md)
+- [Cultivate AI literacy as relational rather than transactional work through reflective engagement with human-AI entanglement](../strategies/relational-ai-literacy-cultivation-strategy.md)
 
 ## Key Sources
 - Rife, T. S. (2025). Critical Communication Pedagogy at the End of the World. Journal of Communication Pedagogy. https://doi.org/10.31446/JCP.2025.1.07

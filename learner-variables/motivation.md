@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (93 for, 27 mixed, 15 against) · 116 studies (36 associational, 30 causal, 20 review, 10 qualitative, 7 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 21 of 116 report an effect size · 128 claims rest on one study
+> **Evidence** · 140 claims (96 for, 29 mixed, 15 against) · 121 studies (38 associational, 30 causal, 22 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 22 of 121 report an effect size · 133 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -169,6 +169,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The generative AI relevance intervention did not significantly increase students' interest in the math class](../claims/ai-relevance-intervention-no-interest-effect.md) [-M] — instruction changes it
 - [The indirect association through social motivation is model-dependent: negative in the unconditional model but positive and attenuating with higher perceived AI literacy in the moderated model](../claims/social-motivation-model-dependent-indirect-pathway.md) [~M] — learners who differ on it differ in outcomes
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](../claims/ada-significantly-raises-situational-interest.md) [+M] — instruction changes it
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](../claims/self-efficacy-negatively-predicts-ai-dependency.md) [+M] — learners who differ on it differ in outcomes
+- [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](../claims/gender-engagement-adaptive-platforms-mixed.md) [~M] — instruction changes it
+- [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](../claims/actual-genai-use-tied-to-interest-and-usefulness.md) [+M] — learners who differ on it differ in outcomes
+- [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](../claims/ai-motivation-effects-mixed-evidence.md) [~M] — instruction changes it
+- [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](../claims/trainer-expected-improve-peer-feedback-attitudes.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

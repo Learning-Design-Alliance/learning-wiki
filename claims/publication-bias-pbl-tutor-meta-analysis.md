@@ -70,3 +70,4 @@ The article contrasts the Egger's test result with an earlier vote count: "a vot
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
 - [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — reports the opposite
+- [Significant publication bias was detected in the TEFL technology literature, with Egger's test confirming funnel-plot asymmetry](publication-bias-tefl-technology-studies.md) — related

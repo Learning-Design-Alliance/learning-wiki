@@ -42,6 +42,7 @@ The article recommends carefully designing how uncertainty is communicated in AI
 ## Related Strategies
 
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
+- [Teach students to read AI critically and discuss the difference between fluency and thought](teach-critical-reading-of-ai-outputs.md)
 
 ## Examples
 -

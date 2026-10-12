@@ -44,7 +44,8 @@ The review recommends that teacher educators be supported institutionally and pr
 - [Genai Specific Tpk Framework](../theories/tpack.md)
 
 ## Related Strategies
-- 
+
+- [Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development](llm-adoption-requires-readiness-ethics-professional-development.md)
 
 ## Examples
 -

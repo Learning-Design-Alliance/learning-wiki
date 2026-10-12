@@ -43,6 +43,7 @@ Whenever AI-supported teacher-development systems involve affective, behavioral,
 ## Related Strategies
 
 - [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
+- [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 
 ## Examples
 -

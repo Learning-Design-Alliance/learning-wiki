@@ -50,3 +50,5 @@ The tournament evaluation found that despite the benefits of automated metrics, 
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [Trustworthiness metrics and visualizations surfaced previously overlooked pedagogical risks and enabled more deliberate reasoning about trade-offs between competing objectives](trustworthiness-tools-surface-risks-enable-tradeoff-reasoning.md) — related
 - [Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis](behavioral-metrics-flag-automated-anomalies.md) — related
+- [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — a narrower finding that bears on this claim
+- [NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%](mooc-nlp-grading-70-percent-time-reduction.md) — related

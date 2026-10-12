@@ -43,6 +43,7 @@ The article recommends deploying AI tutoring as students' first substantial enga
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
 - [Time Management In Instruction](time-management-in-instruction.md)
 - [Flipped Learning](flipped-learning.md)
+- [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
 
 ## Examples
 -

@@ -27,7 +27,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 21 studies (7 causal, 6 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 22 studies (7 causal, 6 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -72,6 +72,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [~W]
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](../claims/immediate-adaptive-test-results-enable-differentiation.md) [+W] — attached 2026-10-09 from Freeman (2014), which proposed "Use adaptive assessment results to differentiate instruction to current academic needs".
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](../claims/ai-teacher-feedback-equal-project-performance-gains.md) [~W] — attached 2026-10-12 from Grion et al. (2026), which proposed "Embed AI-generated feedback in a strong pedagogical architecture with assessment literacy and explicit criteria, so its source matters less than its context".
+- [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](../claims/rubric-ai-feedback-scaffolds-and-reduces-workload.md) [+W] — attached 2026-10-12 from Tzirides et al. (2025), which proposed "Embed educators' pedagogical elements (rubrics and knowledge bases) within AI tools so feedback aligns with instructional goals".
 
 ## Objective and learner-valued goal
 

@@ -47,3 +47,4 @@ Theoretical argument in the section on why detection-oriented approaches are mis
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related
 - [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](assessment-design-shapes-genai-engagement.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
+- [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related

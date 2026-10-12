@@ -48,3 +48,4 @@ Exploratory deductive coding of 49 first, unaided IB argumentative essays (media
 - [Agency erosion appeared in 88% of student essays, most often as erosion of independent effort](agency-erosion-in-88-percent-of-essays.md) — related
 - [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
 - [Emotion was the rarest essay theme, raised ambivalently by a minority of students](emotion-rarest-essay-theme.md) — related
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related

@@ -38,7 +38,8 @@ The article recommends that developers of new domain-tailored heuristics "combin
 - developing valid evaluation heuristics tailored to a specific professional learning domain
 
 ## Related Strategies
-- 
+
+- [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 
 ## Examples
 -

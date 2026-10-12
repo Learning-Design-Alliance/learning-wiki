@@ -64,3 +64,6 @@ The paper reports, citing a large randomised experiment in high school mathemati
 - [In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance](simulation-ai-assisted-students-score-increase.md) — reports the opposite
 - [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](ai-assistant-short-term-gains-harm-durable-learning.md) — possibly the same claim (merge candidate)
 - [GenAI literacy predicted immediate independent writing performance after AI removal for Visual Data Integration, Critical Thinking, and overall Composite Score](genai-literacy-predicts-independent-writing-performance.md) — related
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
+- [Staff observed increased student engagement, independence, and communication skills during the AI-supported project](staff-observed-increased-engagement-independence.md) — related

@@ -96,3 +96,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning](curiosity-driver-mistrust-barrier-llm-learning.md) — related
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
+- [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](genai-misconceptions-web-search-item.md) — related

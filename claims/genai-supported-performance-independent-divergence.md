@@ -65,3 +65,4 @@ Supervised Week 8 independent no-AI near-transfer essay scored blind by two rate
 - [Open collaboration exceeded bounded support in offloading at all four layers, with the largest differences at the idea and reasoning layers](open-collaboration-deeper-layer-offloading.md) — related
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
+- [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related

@@ -67,3 +67,4 @@ The Texas matched study's printed effect size on state test outcomes was "effect
 - [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](istation-tx-staar-reading-010.md) — related
 - [Content-Focused Coaching raises fourth and fifth graders' achievement by +0.29 compared to control groups](cfc-fourth-fifth-graders-effect-029.md) — related
 - [Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)](imagine-espanol-grades-2-6-english-reading-gains.md) — related
+- [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related

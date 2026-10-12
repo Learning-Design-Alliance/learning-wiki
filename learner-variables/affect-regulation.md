@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (58 for, 15 mixed, 7 against) · 66 studies (16 associational, 14 causal, 14 review, 8 qualitative, 7 design, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 15 of 66 report an effect size · 79 claims rest on one study
+> **Evidence** · 89 claims (63 for, 18 mixed, 8 against) · 70 studies (19 associational, 15 review, 14 causal, 8 qualitative, 7 design, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 15 of 70 report an effect size · 88 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -113,6 +113,15 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](../claims/moderated-mediation-indirect-effect-stronger-male-students.md) [~M] — learners who differ on it differ in outcomes
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](../claims/ai-simulation-anxiety-divergent.md) [~M] — instruction changes it
 - [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](../claims/technology-anxiety-positive-predictor-ai-literacy.md) [~M] — learners who differ on it differ in outcomes
+- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](../claims/contextual-factors-increase-test-anxiety.md) [+M] — instruction changes it
+- [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](../claims/familiarity-no-effect-test-anxiety.md) [-M] — instruction changes it
+- [Higher internet literacy is associated with lower test anxiety in online exams](../claims/internet-literacy-lower-test-anxiety.md) [+M] — instruction changes it
+- [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](../claims/learning-genai-anxiety-moderates-intention-procrastination.md) [~M] — an instructional effect differs with it
+- [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](../claims/learning-strategies-test-anxiety-effects.md) [~M] — instruction changes it
+- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M] — instruction changes it
+- [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](../claims/oral-assessments-anxiety-but-preferred.md) [~M] — instruction changes it
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](../claims/pre-actional-components-predict-actional-regulation.md) [+M] — instruction changes it
+- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

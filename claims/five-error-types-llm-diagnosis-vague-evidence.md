@@ -74,3 +74,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [MathCog: a benchmark of 3,036 teacher-annotated diagnostic verdicts over 639 handwritten student responses to 110 math problems with Evident/Vague evidence labels](mathcog-benchmark-dataset.md) — related
 - [Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing](thematic-categories-sentence-misinterpretation.md) — related
 - [Vision-assisted extraction identified chart type in all sampled images but showed ±5–10% numeric estimation error and two failure modes correctable via mandatory review](llm-chart-extraction-accuracy-failure-modes.md) — related
+- [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related

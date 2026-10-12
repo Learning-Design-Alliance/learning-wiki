@@ -61,9 +61,11 @@ Authentic audiences shift learners from performance-for-evaluation toward commun
 6. **Debrief and generalize.** After delivery, run a [Class Discussion](../elements/class-discussion.md) or reflection that connects the experience back to disciplinary concepts, so situational learning becomes transferable knowledge.
 
 ## Related Strategies
+
 - **Client-Based Capstone Projects** — the fullest expression: a term-length deliverable for an external partner with milestone reviews
 - **Publish-Your-Writing Workshops** — students submit work to real venues, from school blogs to peer-reviewed journals
 - **Service Learning** — community-identified needs supply both the audience and the purpose, coupling academic goals with civic outcomes
+- [Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships](real-context-action-tasks-engineering.md)
 
 ## Examples
 - **[PBLWorks (Buck Institute)](https://www.pblworks.org)** — Gold-standard project-based learning units culminating in public products presented to authentic audiences (experts, parents, community panels).

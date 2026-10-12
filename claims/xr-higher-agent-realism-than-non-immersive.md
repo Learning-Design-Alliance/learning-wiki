@@ -47,3 +47,4 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Learners in immersive media environments tend to treat pedagogical agents as real people, relying primarily on biologically primary communication patterns](casa-primary-communication-immersive-agents.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related

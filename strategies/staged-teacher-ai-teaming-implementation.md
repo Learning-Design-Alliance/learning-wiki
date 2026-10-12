@@ -50,6 +50,8 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 - [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
+- [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
+- [Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students](genai-ipsative-progress-tracking-strategy.md)
 
 ## Examples
 -

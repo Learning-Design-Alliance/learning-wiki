@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/reserve-llm-grading-for-structured-rubric-tasks.md
+---
+
+# Revision history: [strategies/reserve-llm-grading-for-structured-rubric-tasks](../strategies/reserve-llm-grading-for-structured-rubric-tasks.md)
+
+### 2026-10-12 · ingest · process:wiki-ingest
+Ingested from aied-jukiewicz-chatgpt-teacher-assessment-feedback-2026 (Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback) via eval_harness.py + ingest_extractions.py

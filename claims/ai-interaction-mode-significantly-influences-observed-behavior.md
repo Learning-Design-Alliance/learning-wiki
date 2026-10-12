@@ -67,3 +67,4 @@ Inter-rater reliability analysis of the behavioral observation matrix, with two 
 - [Tutor mode elicits more stress-related behaviors than Collaborator and Solver modes, which do not differ from each other](tutor-mode-elicits-more-stress-behaviors.md) — a narrower finding that bears on this claim
 - [Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed](engagement-index-null-and-unconfirmed-carryover.md) — related
 - [Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions](no-significant-eeg-differences-across-ai-modes.md) — related
+- [Staff observed increased student engagement, independence, and communication skills during the AI-supported project](staff-observed-increased-engagement-independence.md) — related

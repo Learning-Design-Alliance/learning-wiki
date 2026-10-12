@@ -47,3 +47,4 @@ The review's analysis of research designs across the 23 included studies reports
 - [Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding](only-four-ca-studies-apply-learning-theories.md) — related
 - [Methodological quality of reviewed quasi-experimental CA studies was mostly Moderate, with three rated Low and none rated High on the JBI checklists](jbi-quality-mostly-moderate-none-high.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
+- [Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction](dominant-methods-ai-engagement-research.md) — related

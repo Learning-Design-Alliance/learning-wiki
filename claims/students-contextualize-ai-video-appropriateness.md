@@ -50,3 +50,5 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
+- [Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations](ai-limitations-themes-early-childhood-science.md) — related
+- [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related

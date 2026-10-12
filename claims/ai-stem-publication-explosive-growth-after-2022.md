@@ -48,3 +48,4 @@ Bibliometric trend analysis of annual publication counts (Figure 2) over the 201
 - [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
 - [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
 - [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
+- [Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015](publication-growth-metacognition-stem-after-2015.md) — related

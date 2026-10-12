@@ -52,3 +52,4 @@ The review's publication-characteristics analysis found "In total, 71% of studie
 - [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite
 - [The article argues that prior GAI-supported SDL and SRL studies rely on post-task questionnaire data that may reflect superficial engagement rather than internalized competencies](gai-sdl-studies-posttask-questionnaire-limitation.md) — related
+- [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related

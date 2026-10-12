@@ -50,3 +50,4 @@ Regression Model 1 in a cross-sectional online questionnaire study of 276 univer
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — a broader claim this one bears on

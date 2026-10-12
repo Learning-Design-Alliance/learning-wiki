@@ -27,4 +27,4 @@ CGScholar AI Helper is a cloud-based web application made by CGScholar that prov
 -
 
 ## Key Sources
-- Tzirides, Anastasia Olga (Olnancy), Galla, Michele, Cope, Bill, & Kalantzis, Mary. (2025). Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education.
+- Tzirides, Anastasia Olga (Olnancy), Galla, Michele, Cope, Bill, & Kalantzis, Mary. (2025). Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education. [doi:10.35542/osf.io/s8hqe_v1](https://doi.org/10.35542/osf.io/s8hqe_v1)

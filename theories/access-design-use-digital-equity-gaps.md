@@ -49,6 +49,7 @@ Building on the US National Educational Technology Plan, the brief identifies "t
 
 - [Implement a systems change approach addressing five factors simultaneously for AI and digital equity](../strategies/systems-change-five-factors-ai-equity.md)
 - [Make nine 'big plays' across three focus areas — sustaining access infrastructure, upskilling the educator workforce, and upskilling students, families, and caregivers — in state digital equity and BEAD plans](../strategies/nine-big-plays-digital-equity.md)
+- [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](../strategies/fair-feasible-ai-assessment-design-strategies.md)
 
 ## Key Sources
 - A Look at AI Literacy, and AI and Digital Equity. (2024). Digital Promise. https://digitalpromise.org/2024/02/20/how-ai-for-education-can-address-digital-equity/

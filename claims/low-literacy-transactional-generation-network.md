@@ -45,3 +45,4 @@ ENA model of the LG group's (n = 73) interaction logs from the abstract-writing 
 ## Related Claims
 - [High-literacy students' ENA networks center on links among AI Improvement Commands, Clarification Questions, and Meta-Commands, described as a collaborative, epistemic approach](high-literacy-collaborative-refinement-network.md) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — a broader claim this one bears on
+- [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related

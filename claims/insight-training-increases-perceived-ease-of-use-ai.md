@@ -55,3 +55,4 @@ Paired-samples t-test on the SAELKIS PEOU subscale in the same pilot pre-post ev
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
+- [Instructional approach, AI technology type, assessment instrument, educational level, and publication year do not significantly moderate AI literacy intervention effects](five-moderators-non-significant-ai-literacy.md) — related

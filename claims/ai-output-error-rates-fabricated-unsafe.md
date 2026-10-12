@@ -58,3 +58,4 @@ The paper cites two audits as evidence that AI errors exist in research and ever
 - [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](checking-coexists-with-unresolved-error-zhang.md) — related
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
+- [A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status](healthcare-algorithm-bias-black-patients.md) — related

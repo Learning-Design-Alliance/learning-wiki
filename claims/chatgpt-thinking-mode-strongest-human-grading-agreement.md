@@ -46,3 +46,4 @@ Method-comparison study grading 32 anonymized essay submissions from a master's 
 - [Kimi shows reasonable but weaker agreement with human examiners than ChatGPT (weighted kappa 0.571)](kimi-reasonable-human-grading-agreement.md) — related
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — a broader claim this one bears on
 - [Gemini and Gemini Pro show the highest internal grading consistency across file upload volumes, with no clear monotonic lost-in-the-middle effect](gemini-highest-consistency-across-file-volumes.md) — related
+- [Agentic assessment systems report grading time reductions of 50–70% with 90–95% agreement with human graders](agentic-grading-time-reduction-agreement.md) — related

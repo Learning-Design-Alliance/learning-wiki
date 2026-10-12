@@ -46,3 +46,4 @@ Chi-square analysis of the association between prospective teachers' fields of s
 - [Prospective teachers can identify and script computational processes across all knowledge domains, including humanities and social sciences](ct-process-scripts-feasible-across-fields.md) — related
 - [Exploration simulations increased with teaching age level and were concentrated in secondary science subjects](exploration-simulations-rise-with-age-and-science.md) — possibly the same claim (merge candidate)
 - [Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration](most-prospective-teachers-produce-dynamic-simulations.md) — related
+- [Study orientation is significantly associated with publication type: computer science/AI-oriented work is disseminated disproportionately through conference papers](orientation-associated-with-publication-type-agentic-ai.md) — related

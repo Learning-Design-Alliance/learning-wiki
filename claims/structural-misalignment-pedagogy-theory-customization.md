@@ -48,3 +48,4 @@ Cross-tabulation and Sankey analysis (Figs. 8–10) of pedagogical goals, theore
 - [Prompt engineering is the most prevalent customization method in AI writing education research](prompt-engineering-dominant-ai-writing-customization.md) — related
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
 - [Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common](six-implementation-modes-customized-ai-writing.md) — related
+- [AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance](efficiency-sustainability-substitution-mechanism.md) — a broader claim this one bears on

@@ -64,3 +64,5 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
 - [Health and education topics rose in prominence across the 2021–2025 AI Index Reports, while sport and exercise themes appeared only indirectly](ai-index-health-education-rise-sport-absent.md) — related
 - [AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis](aied-2024-educators-prominent-stakeholders.md) — related
+- [Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025](agentic-ai-education-rapid-expansion-since-2025.md) — related
+- [Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015](publication-growth-metacognition-stem-after-2015.md) — related

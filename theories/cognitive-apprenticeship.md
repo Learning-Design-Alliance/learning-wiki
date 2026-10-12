@@ -12,10 +12,14 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
+
+## Claims
+
+- [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](../claims/most-improved-profile-integrated-ai-support-pattern.md) [+W] — attached 2026-10-12 from Kilinc et al. (2026), which proposed "Cognitive apprenticeship as a design and analytic framework for AI-delivered scaffolding"; tests this page's relationship.
 
 ## Related Theories
 

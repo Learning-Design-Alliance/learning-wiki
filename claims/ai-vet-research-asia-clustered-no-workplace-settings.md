@@ -66,3 +66,4 @@ The corpus mapping across learning environments found six classroom, eight onlin
 - [The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies](ai-vet-evidence-base-only-five-randomized-studies.md) — related
 - [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — related
 - [AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots](ai-wtc-research-rapid-growth-asian-concentration.md) — related
+- [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related

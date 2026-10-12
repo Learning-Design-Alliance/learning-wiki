@@ -84,3 +84,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [GenAI support is distributed across four interlocking units: teaching and learning centers, libraries, IT/security units, and academic integrity offices](four-unit-genai-support-ecosystem.md) — related
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — related
+- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related

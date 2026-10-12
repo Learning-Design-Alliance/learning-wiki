@@ -60,6 +60,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Calibrated disclosure templates scaled to risk of the permitted use](calibrated-disclosure-templates-genai.md)
 - [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 - [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
+- [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ AI-coded help-seeking typology over the 96 students with at least one REQUEST tu
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — related
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
+- [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related

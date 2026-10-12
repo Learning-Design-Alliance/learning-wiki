@@ -49,3 +49,4 @@ Observational analysis linking scored classroom assignments to ITBS gains in Chi
 - [Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments](classroom-composition-not-linked-assignment-quality.md) — related
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — related
 - [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](high-and-low-achievers-benefit-from-quality-assignments.md) — related
+- [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related

@@ -54,3 +54,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways](cobi-requires-professional-learning-for-integrity.md) — related
+- [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — reports the opposite

@@ -48,3 +48,4 @@ Analysis of research methods across the 39 included studies (RQ1, Fig. 4). The r
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — reports the opposite
 - [Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare](ai-pl-review-qualitative-dominance.md) — reports the opposite
 - [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
+- [Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction](dominant-methods-ai-engagement-research.md) — related

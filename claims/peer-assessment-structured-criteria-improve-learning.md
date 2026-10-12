@@ -68,3 +68,4 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](peer-self-assessment-improve-performance-equally.md) — related
+- [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related

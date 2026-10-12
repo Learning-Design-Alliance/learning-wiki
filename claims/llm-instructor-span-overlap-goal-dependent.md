@@ -87,3 +87,4 @@ Descriptive analysis of highlighted-span percentages per feedback giver (§4.1, 
 - [Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier](low-urgency-rank-agreement.md) — related
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md) — related

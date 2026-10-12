@@ -48,3 +48,4 @@ A corpus-level topic-modeling study analyzing 1,048 AIOL publications with BERTo
 - [Topic modeling can be used to examine thematic development in emerging research fields](topic-modeling-tracks-thematic-development-emerging-fields.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
+- [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
