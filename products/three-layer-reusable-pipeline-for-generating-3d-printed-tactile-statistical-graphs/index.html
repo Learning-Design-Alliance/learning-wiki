@@ -762,7 +762,9 @@
 <p>An open-source JavaScript pipeline by Lawrence Obiuwevwi et al. that generates 3D-printable tactile statistical graphs from typed data or chart images for blind and low-vision statistics learners.</p>
 <h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-
+<ul>
+<li><strong>Derive tactile graph parameters from tactile perception research rather than ad hoc choices</strong>: The pipeline's parameter derivation layer computes feature heights and spacings automatically from plate dimensions using established tactile perception findings, so every generated chart is readable by touch without per-chart manual tuning. Data features are set at 1.5 mm, three times the "0.5 mm height discriminability floor" from Lederman and Klatzky, and scatter-point separation is 3.5 mm, exceeding the 2–3 mm two-point discrimination threshold. Axis rails are taller than data features so a sweeping finger distinguishes structural boundaries from encoded data. (Lawrence Obiuwevwi et al. (2026))</li>
+</ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/tactile-pipeline-stl-under-60ms/">The pipeline generates print-ready binary STL files for all five chart types in under 60 ms on a 150×150 mm plate</a> [+M]</li>

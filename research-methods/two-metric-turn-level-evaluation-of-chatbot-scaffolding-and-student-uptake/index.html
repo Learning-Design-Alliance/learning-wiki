@@ -756,7 +756,7 @@
 <h1 id="two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake">Two-metric turn-level evaluation of chatbot scaffolding and student uptake<a class="headerlink" href="#two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 associational), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 2 studies (1 causal, 1 associational), <code>q2</code> · 0 of 2 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>An evaluation pipeline that scores both sides of student-chatbot interactions at the turn level. As the article defines them, "We define two turn-levels metrics:Chatbot Scaffoldingas how much scaffolding the chatbot provides andStudent Uptakeas how much the student takes up the scaffolding". GPT-5-mini acts as an ordinal classifier on a 1-5 scale per turn, with turn-level scores aggregated to per-chat means; uptake is mapped onto a signed -1 to +1 scale showing who drives the chat flow. It was applied across nine datasets totalling 9,490 valid chats.</p>
@@ -764,16 +764,20 @@
 <!-- How each source describes or uses the method -->
 <ul>
 <li><strong>Two-metric turn-level evaluation pipeline: Chatbot Scaffolding and Student Uptake</strong>: An evaluation pipeline that scores both sides of student-chatbot interactions at the turn level. As the article defines them, "We define two turn-levels metrics:Chatbot Scaffoldingas how much scaffolding the chatbot provides andStudent Uptakeas how much the student takes up the scaffolding". GPT-5-mini acts as an ordinal classifier on a 1-5 scale per turn, with turn-level scores aggregated to per-chat means; uptake is mapped onto a signed -1 to +1 scale showing who drives the chat flow. It was applied across nine datasets totalling 9,490 valid chats. (Neagu et al. (2026))</li>
+<li><strong>SE and CD: outcome-oriented evaluation metrics for closed-loop Socratic tutoring assessment</strong>: The article introduces two evaluation metrics for Socratic tutoring beyond surface fluency. Scaffolding Effectiveness (SE) measures the proportion of test questions where the tutor guides a simulated student to self-express the core concept without uttering any keyword in Ki, over up to four dialogue rounds. Conversation Depth (CD) measures the fraction of consecutive guide–student turn pairs whose Sentence-BERT embeddings have cosine similarity below 0.70, indicating semantic progression. The article notes "novelty alone does not guarantee successful scaffolding", so CD is reported with SE and leakage. The student simulator was validated against held-out real follow-ups with mean SBERT similarity 0.449±0.220. (Xiaokun Wang et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/llm-judge-pipeline-validated-against-human-raters/">The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters</a> [+M]</li>
+<li><a href="../../claims/grpo-without-directness-raises-socratic-scaffolding-effectiveness/">GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions</a> [+M]</li>
+<li><a href="../../claims/grpo-without-directness-highest-conversation-depth/">The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression</a> [+M]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., &amp; Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766</li>
+<li>Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996</li>
 </ul>
 <details class="info">
 <summary>Page metadata</summary>
