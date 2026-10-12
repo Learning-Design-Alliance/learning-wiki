@@ -67,7 +67,10 @@ def _extract_pdf_text(content: bytes) -> str:
     reader = PdfReader(io.BytesIO(content))
     pages = []
     for page in reader.pages:
-        pages.append(page.extract_text() or "")
+        try:
+            pages.append(page.extract_text() or "")
+        except Exception:  # noqa: BLE001 - one malformed font or stream must not lose the whole paper
+            pages.append("")
     text = "\n\n".join(pages)
     if len(text.strip()) < 500:
         raise FetchError("Extracted PDF text is suspiciously short (<500 chars) — "
