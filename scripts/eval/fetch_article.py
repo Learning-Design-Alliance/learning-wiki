@@ -59,6 +59,22 @@ def _get(url: str) -> requests.Response:
         return resp
 
 
+def _pdftotext_page(content: bytes, n: int) -> str:
+    """One page through poppler's pdftotext, for a page pypdf cannot read (a malformed font
+    descriptor, say). Empty when pdftotext is not installed or also fails."""
+    import shutil
+    import subprocess
+    import tempfile
+    if not shutil.which("pdftotext"):
+        return ""
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
+        f.write(content)
+        f.flush()
+        r = subprocess.run(["pdftotext", "-f", str(n), "-l", str(n), "-layout", f.name, "-"],
+                           capture_output=True, text=True, timeout=60)
+    return r.stdout if r.returncode == 0 else ""
+
+
 def _extract_pdf_text(content: bytes) -> str:
     try:
         from pypdf import PdfReader
@@ -66,11 +82,11 @@ def _extract_pdf_text(content: bytes) -> str:
         raise FetchError("pypdf not installed. Run: pip install -r requirements-eval.txt")
     reader = PdfReader(io.BytesIO(content))
     pages = []
-    for page in reader.pages:
+    for n, page in enumerate(reader.pages, 1):
         try:
             pages.append(page.extract_text() or "")
         except Exception:  # noqa: BLE001 - one malformed font or stream must not lose the whole paper
-            pages.append("")
+            pages.append(_pdftotext_page(content, n))
     text = "\n\n".join(pages)
     if len(text.strip()) < 500:
         raise FetchError("Extracted PDF text is suspiciously short (<500 chars) — "
