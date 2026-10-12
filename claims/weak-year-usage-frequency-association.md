@@ -44,3 +44,4 @@ Secondary correlational analysis in the quantitative results of the n = 416 surv
 
 ## Related Claims
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related
+- [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related

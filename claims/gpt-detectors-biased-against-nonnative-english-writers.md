@@ -53,3 +53,4 @@ In the Ethics rationale, the deck cites Liang et al. (2023), reporting that "GPT
 - [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](ai-detectors-reported-unreliable-biased.md) — related
 - [Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives](humanizers-frame-evasion-as-rational-self-defense.md) — related
 - [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — possibly the same claim (merge candidate)
+- [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — related

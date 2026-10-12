@@ -41,6 +41,7 @@ The article recommends a simulated class as a low-stakes setting for deliberate 
 
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
+- [Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies](supervised-practicum-ai-focused-pedagogies.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ The review's synthesis of benchmark studies in general chemistry, acid-base calc
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related
+- [GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses](genai-default-output-multistructural-pedagogically-thin.md) — related

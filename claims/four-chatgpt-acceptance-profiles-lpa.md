@@ -45,3 +45,4 @@ Latent profile analysis of z-standardized PU, PEOU, AT, SI, and FC scores from 1
 ## Related Claims
 - [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
 - [The four acceptance profiles differ substantially in behavioral intention to use ChatGPT](profiles-differ-in-behavioral-intention.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

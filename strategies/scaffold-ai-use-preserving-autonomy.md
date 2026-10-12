@@ -45,6 +45,7 @@ The paper recommends that educators and instructional designers "scaffold AI use
 ## Related Strategies
 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Theme profiling of T01 Learning Quality & Cognitive Dependency (13,421 records, 
 - [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
+- [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — possibly the same claim (merge candidate)

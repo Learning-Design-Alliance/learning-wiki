@@ -52,3 +52,6 @@ Narrative review attribution: the article reports, citing Mariñoso et al. (2025
 - [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — a broader claim this one bears on
+- [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — a narrower finding that bears on this claim
+- [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related

@@ -46,3 +46,4 @@ The review attributes this position to Stolpe et al. (2026) and their Discipline
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — a narrower finding that bears on this claim
+- [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related

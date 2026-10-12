@@ -94,3 +94,7 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
 - [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — related
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
+- [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related

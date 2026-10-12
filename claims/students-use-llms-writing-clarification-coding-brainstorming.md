@@ -48,3 +48,4 @@ Online questionnaire conducted 2023-24 with 100 respondents, 52% from AI, Roboti
 - [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
 - [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
+- [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related

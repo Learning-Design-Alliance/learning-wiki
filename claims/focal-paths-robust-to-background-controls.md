@@ -65,3 +65,4 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — possibly the same claim (merge candidate)
 - [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — related
 - [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related
+- [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related

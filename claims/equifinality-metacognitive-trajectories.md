@@ -50,3 +50,4 @@ Authors' interpretive analysis in the Developmental Trajectories discussion sect
 - [The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI](frequent-switchers-best-performance.md) — a narrower finding that bears on this claim
 - [Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent](three-developmental-trajectories-episode-distribution.md) — related
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
+- [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related

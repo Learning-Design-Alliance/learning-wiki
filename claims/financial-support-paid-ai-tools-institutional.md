@@ -49,3 +49,4 @@ RQ4 findings from the focus groups report that "Over one-third of participants e
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — a broader claim this one bears on
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
 - [Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement](low-sustained-gai-engagement-staff.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related

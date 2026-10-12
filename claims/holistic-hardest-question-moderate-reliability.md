@@ -46,3 +46,4 @@ Holistic-rubric results from the same three-iteration faculty-versus-GPT-4 compa
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](model-answer-in-prompt-lowered-reliability.md) — related
 - [Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations](oeq-scoring-discrepancies-mostly-one-point.md) — related
+- [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related

@@ -54,6 +54,7 @@ The article's implementable procedure: students draft an essay, submit it to Cha
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 - [Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions](prompt-analyse-revise-classroom-exercise.md)
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
+- [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](scaffolded-llm-argumentation-assignment-cycle.md)
 
 ## Examples
 -

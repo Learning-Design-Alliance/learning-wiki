@@ -44,3 +44,4 @@ Operator-level analysis (§5.2) of selection frequency and downstream success ra
 
 ## Related Claims
 - [Curiosity gains depend on operator sequencing: how operators are ordered across turns, not only which operator is applied, shapes curiosity induction](operator-sequencing-affects-curiosity-gains.md) — related
+- [Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning](curiosity-driver-mistrust-barrier-llm-learning.md) — related

@@ -176,3 +176,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — a narrower finding that bears on this claim
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related

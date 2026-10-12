@@ -46,3 +46,4 @@ Generalized linear mixed model predicting isomorphic exam performance from coded
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — related
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](clicker-vote-patterns-null-on-homework-explanations.md) — related
+- [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — related

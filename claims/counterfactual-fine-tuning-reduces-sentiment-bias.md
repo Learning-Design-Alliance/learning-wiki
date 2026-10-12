@@ -49,3 +49,4 @@ The study fine-tuned GPT-2, Gemma, and LLaMA3 with both original and GPT-4-gener
 - [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related
 - [Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation](aicofe-llm-finetuning-training-results.md) — related
 - [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — related
+- [GPT-generated tutor feedback is predominantly positive or neutral in sentiment](gpt-feedback-predominantly-positive-sentiment.md) — related

@@ -47,6 +47,7 @@ The paper's core implementable recipe: students select a task relevant to the st
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
 - [Use structured exercises requiring students to compare, critique, and justify against AI-generated code](compare-critique-ai-generated-code-exercises.md)
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md)
+- [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](reflection-tables-journals-debates-cultivate-ai-intuition.md)
 
 ## Examples
 -

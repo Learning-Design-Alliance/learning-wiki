@@ -48,3 +48,4 @@ Layer 1 verification executed as a scripted pass producing six reports scored ag
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](repair-and-source-gating-feedback-completeness.md) — related
+- [GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses](genai-default-output-multistructural-pedagogically-thin.md) — related

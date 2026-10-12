@@ -45,3 +45,4 @@ ENA comparison of Week 2 and Week 3 group chat discourse networks shows the scaf
 ## Related Claims
 - [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — related
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — a broader claim this one bears on
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — a broader claim this one bears on

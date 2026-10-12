@@ -67,3 +67,6 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
 - [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related
+- [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
+- [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — a narrower finding that bears on this claim
+- [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related

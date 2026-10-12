@@ -68,3 +68,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

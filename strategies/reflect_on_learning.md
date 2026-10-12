@@ -87,6 +87,7 @@ Reflection works because it forces retrieval and elaboration — both robust con
 - [Self-Assessment](../elements/self-assessment.md) — reflection focused specifically on judging one's own performance against criteria
 - [Learning Journals](learning-journals.md) — the sustained written form of this strategy
 - [Exit Tickets](exit-ticket.md) — the brief, high-frequency form
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](pre-action-review-and-sentence-starters-for-cobi.md)
 
 ## Examples
 - **"I used to think… now I think…"** routine (Project Zero, Harvard Graduate School of Education, [visiblethinkingrz](https://pz.harvard.edu/thinking-routines)) — a sentence-starter protocol that makes conceptual change explicit

@@ -65,3 +65,4 @@ Confirmatory test of H3b on unaided final-test performance in the same experimen
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
 - [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](reward-reduced-assistant-use-feedback-changed-use-composition.md) — related
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related

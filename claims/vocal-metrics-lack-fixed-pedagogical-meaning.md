@@ -45,3 +45,4 @@ Conceptual argument in the framework section: measurable performance features su
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related
 - [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — related
+- [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — a broader claim this one bears on

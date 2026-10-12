@@ -50,3 +50,4 @@ T-test comparisons by gender (Table 2) among 33 males and 15 females; the work-a
 - [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

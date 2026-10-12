@@ -157,6 +157,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 **Teacher preparation practica:** Teach a lesson, review it with a mentor against specific observation prompts, name the pedagogical principle involved, and redesign the next lesson to test it.
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
+- [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](../strategies/reflection-tables-journals-debates-cultivate-ai-intuition.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

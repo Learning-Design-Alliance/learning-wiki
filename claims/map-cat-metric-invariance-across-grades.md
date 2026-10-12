@@ -48,3 +48,4 @@ MGCFA nested-model comparisons (no constraint, equal loadings, equal loadings pl
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
 - [13%–15% of MAP Growth items per subject were flagged as significantly drifted by the Robust Z procedure, with no clear pattern among flagged items](map-growth-robust-z-flags-13-15-percent-items.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related

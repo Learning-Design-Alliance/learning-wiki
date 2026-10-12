@@ -76,6 +76,7 @@ Position development works because it forces learners to retrieve, organize, and
 **Harvard Business School case method** — students commit to a position on a case before class, then defend and revise it under cold-calling and peer challenge; see [Case-Based Learning](case-based-learning.md).
 
 **[IB Theory of Knowledge](https://www.ibo.org/programmes/diploma-programme/core/theory-of-knowledge/)** — students write a sustained position essay on a knowledge question, evaluated on argument quality and counterclaim treatment rather than conclusion.
+- [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](../strategies/scaffolded-llm-argumentation-assignment-cycle.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

@@ -78,6 +78,7 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 6. Fade the scaffolds: shift from provided checkpoints to learner-initiated monitoring as self-assessment accuracy improves.
 
 ## Related Strategies
+
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the theoretical framework; monitoring is its central cyclical phase
 - [Retrieval Practice](../strategies/retrieval-practice.md) — the most accurate self-monitoring vehicle, since testing reveals gaps that review hides
 - [Check-Ins](../elements/check-in.md) — lightweight embedded monitoring prompts in live or asynchronous settings
@@ -85,6 +86,7 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - [Goal Setting](../elements/goal-setting.md) — supplies the standard that monitoring is measured against
 - [Help Seeking](help-seeking.md) — the productive action that accurate monitoring should trigger
 - [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
+- [Teacher supports for self-regulated GenAI feedback engagement](teacher-supports-self-regulated-genai-feedback.md)
 
 ## Examples
 - **Calibration in introductory psychology**: students predict exam scores before each quiz and graph prediction vs. actual across the term, visibly improving judgment accuracy.

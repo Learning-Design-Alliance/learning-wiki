@@ -50,3 +50,5 @@ Reflexive thematic analysis (Braun and Clarke, 2006) of four open-ended survey q
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — a narrower finding that bears on this claim
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
 - [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](verification-label-engagement-scrutiny.md) — related
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — a narrower finding that bears on this claim

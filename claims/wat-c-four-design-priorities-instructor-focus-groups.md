@@ -63,3 +63,4 @@ The article reports that the focus group insights "directly informed subsequent 
 
 ## Related Claims
 - [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](olr-conflicts-drive-course-changes.md) — related
+- [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related

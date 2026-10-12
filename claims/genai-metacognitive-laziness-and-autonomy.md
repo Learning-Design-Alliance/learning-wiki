@@ -72,3 +72,5 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — possibly the same claim (merge candidate)
+- [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — related

@@ -54,3 +54,5 @@ Qualitative thematic analysis of 112 student reflections from the 12-week course
 - [Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress](genai-augmentation-associated-perceived-learning.md) — related
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — related
 - [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related

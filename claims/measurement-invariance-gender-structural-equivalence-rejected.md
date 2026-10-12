@@ -47,3 +47,4 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 - [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](transformational-servant-leadership-negatively-associated-workplace-harassment.md) — related
 - [Teachers identifying as women or non-binary/third gender reported higher relationship management scores than men, while men reported higher well-being](gender-identity-relationship-management-wellbeing-differences.md) — related
 - [The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities](cross-cultural-invariance-dual-pathway-model.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related

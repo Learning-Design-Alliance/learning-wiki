@@ -62,3 +62,4 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — a narrower finding that bears on this claim
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — a narrower finding that bears on this claim

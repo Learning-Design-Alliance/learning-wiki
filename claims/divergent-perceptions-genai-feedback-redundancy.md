@@ -47,3 +47,4 @@ Thematic analysis of student perceptions, triangulated with usage trace data, fr
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
 - [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related
+- [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — reports the opposite

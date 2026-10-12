@@ -54,3 +54,4 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — related
 - [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — a narrower finding that bears on this claim
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
+- [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on

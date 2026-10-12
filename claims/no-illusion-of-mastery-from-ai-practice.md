@@ -48,3 +48,4 @@ Exit questionnaire in the Study 2 experiment (N=2,238). Participants who practic
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related
 - [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](speedup-illusion-ai-time-savings.md) — related
 - [No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta](no-perceived-learning-difference-across-modes.md) — related
+- [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related

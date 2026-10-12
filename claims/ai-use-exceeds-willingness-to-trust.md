@@ -46,3 +46,5 @@ The article cites a global survey of over 48,000 people across 47 countries show
 - [Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy](student-ai-adoption-and-concerns-surveys.md) — related
 - [First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample](high-support-high-strain-coexistence-first-years.md) — related
 - [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
+- [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related
+- [One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots](ukrainian-public-ai-awareness-baseline.md) — a narrower finding that bears on this claim

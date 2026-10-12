@@ -71,3 +71,6 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
 - [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](llm-simulated-students-surpass-rule-based-systems.md) — related
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
+- [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
+- [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a narrower finding that bears on this claim

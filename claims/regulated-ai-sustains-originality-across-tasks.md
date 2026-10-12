@@ -47,3 +47,4 @@ Within-group simple effects from the mixed ANOVA on originality across the two c
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](regulated-ai-outperforms-independent-originality.md) — related
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](collaborative-prompts-mediate-independent-originality.md) — related
 - [Dual-threshold instability: accelerated breakdown when internal generative engagement and genAI reliability both fall below task demands](dual-threshold-instability-hybrid-cognition.md) — related
+- [Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT](think-first-chatgpt-creativity-reversal.md) — related

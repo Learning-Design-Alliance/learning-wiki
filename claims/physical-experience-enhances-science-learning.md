@@ -79,3 +79,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
+- [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](ai-enables-authentic-contextualized-science-experiences.md) — related

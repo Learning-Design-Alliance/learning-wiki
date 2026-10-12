@@ -44,6 +44,7 @@ The article recommends that institutions use persona profiles as the basis for d
 
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
+- [Typology-differentiated AI adoption policy interventions for education systems](typology-differentiated-ai-adoption-policy-interventions.md)
 
 ## Examples
 -

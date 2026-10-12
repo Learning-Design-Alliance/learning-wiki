@@ -65,6 +65,7 @@ Instructions are the first cognitive task learners face; poorly structured direc
 - [Front-Loading Vocabulary](../strategies/front-loading-vocabulary.md) — pre-teaching terms that instructions depend on
 - [Routines and Signals](../strategies/routines-and-signals.md) — rehearsed routines reduce how much instruction is needed at all
 - [Sequencing familiar everyday tasks to teach order of instructions](sequencing-everyday-tasks-k2.md)
+- [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
 
 ## Examples
 - An elementary teacher prepares a picture-based checklist for a writing workshop, grouping all "drafting" tasks under one instruction set so directions are given once per phase rather than per student.

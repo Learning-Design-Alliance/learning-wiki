@@ -64,3 +64,4 @@ Focus group interview data. Participants reported that "the agents' questions pr
 - [An LLM facilitator agent maintains pace and coherence in structured group ethics discussions](llm-facilitator-pace-coherence.md) — related
 - [Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion](ethical-issue-awareness-greater-gain-than-reasoning.md) — related
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](checkpoints-and-definitions-improved-clarity.md) — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related

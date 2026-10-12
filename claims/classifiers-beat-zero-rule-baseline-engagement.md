@@ -53,3 +53,4 @@ Results section comparison of the three classifiers against the zero-rule baseli
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [An AST-only structural classifier substantially exceeds random baseline accuracy in predicting CogTax levels, with L1–L3 mutually confused and L4 perfectly precise](ast-baseline-taxonomy-level-classification.md) — related
+- [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related

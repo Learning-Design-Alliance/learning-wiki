@@ -46,6 +46,7 @@ The review treats prompting in chemistry as an epistemic act, not merely a techn
 
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Scenario A: designing and deconstructing AI prompts as an epistemic practice](scenario-prompt-design-deconstruction.md)
 
 ## Examples
 -

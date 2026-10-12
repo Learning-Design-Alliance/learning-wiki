@@ -75,6 +75,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 - [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
 - [Scaffold AI use without undermining student autonomy through structured prompts, ethical checklists, and reflection journals](scaffold-ai-use-preserving-autonomy.md)
+- [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 
 ## Examples
 -

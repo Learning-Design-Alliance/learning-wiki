@@ -48,3 +48,4 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
+- [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — reports the opposite

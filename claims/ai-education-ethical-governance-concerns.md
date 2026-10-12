@@ -53,3 +53,4 @@ Thematic synthesis (Section 4.4). The review reports that "Concerns frequently c
 - [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — possibly the same claim (merge candidate)
 - [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
+- [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — a narrower finding that bears on this claim

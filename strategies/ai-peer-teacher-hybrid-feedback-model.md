@@ -50,6 +50,7 @@ The article proposes a staged hybrid feedback workflow for L2 writing instructio
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 - [Ongoing Feedback](ongoing_feedback.md)
 - [Revision Cycles](revision-cycles.md)
+- [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 
 ## Examples
 -

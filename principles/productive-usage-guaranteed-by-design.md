@@ -18,7 +18,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 causal, 1 qualitative, 1 design), `q1`–`q2` · 1 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (2 causal, 1 qualitative, 1 design), `q1`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 Drawing on Norman's tool-design model, the article argues that effective designs make affordances salient and use productive constraints so that correct usage requires no textual direction. The authors state: "Effective designs use affordances and constraints to create tools where correct usage is guaranteed by design (Norman, 2002)." They illustrate with a door needing a push but affording pulling (poor design, requiring a PUSH sign) versus a handle-less plate (good design, no instruction needed), and apply the same logic to sim design, which should afford productive usage and constrain unproductive usage.
@@ -44,6 +44,7 @@ Drawing on Norman's tool-design model, the article argues that effective designs
 - [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](../claims/flexibility-supports-agency-productive-sequence.md) [+W]
 - [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](../claims/ablation-structural-components-lower-judge-scores.md) [+W] — attached 2026-10-10 from Hornung et al. (2026), which proposed "Bound generative agent flexibility with structured autonomy rather than static scripting in high-stakes agentic learning systems"; tests this page's relationship.
 - [A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)](../claims/constrained-architecture-reduces-rhsi.md) [+W] — attached 2026-10-11 from Oluseyi Olukolaa (2026), which proposed "Reward design alone may be insufficient to ensure pedagogically aligned behavior in educational RL; pair reward shaping with architectural constraints"; tests this page's relationship.
+- [Guardrails in the GPT Tutor largely eliminate the negative exam effect, though no positive exam effect is observed](../claims/gpt-tutor-exam-effect-null.md) [~M] — attached 2026-10-12 from Bastani Hamsa et al. (2025), which proposed "Deploy generative AI tutors with guardrails—hints instead of answers—whenever learning, not just task performance, is the goal"; tests this page's relationship.
 
 ## Related Principles
 - 

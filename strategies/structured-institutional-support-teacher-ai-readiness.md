@@ -40,6 +40,8 @@ The article recommends that educational institutions strengthen teacher confiden
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
+- [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
+- [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
 
 ## Examples
 -

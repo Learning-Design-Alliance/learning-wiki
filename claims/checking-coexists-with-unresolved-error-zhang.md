@@ -46,3 +46,4 @@ Think-aloud case study of 15 students using ChatGPT (GPT-3.5, Oct–Dec 2023) on
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
+- [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related

@@ -51,3 +51,4 @@ The review's C1 'Social and emotional implications' sub-theme, attributing the p
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
+- [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related

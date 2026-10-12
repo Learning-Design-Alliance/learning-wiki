@@ -46,3 +46,4 @@ Question D1 analysis (Fig. 5) of subject-specific homework AI use in the n = 416
 - [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related
 - [Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear](rule-clarity-depends-on-discipline.md) — related
 - [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
+- [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related

@@ -141,6 +141,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Foster hands-on student practice of the full responsible AI use cycle across authentic contexts](../strategies/hands-on-responsible-ai-use-cycle-students.md)
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
+- [Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition](../strategies/reflection-tables-journals-debates-cultivate-ai-intuition.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).

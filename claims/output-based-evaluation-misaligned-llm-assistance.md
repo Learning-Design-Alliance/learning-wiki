@@ -49,3 +49,4 @@ Theoretical argument in the implications section: the article argues that "outco
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](generative-ai-weakens-artifact-evidentiary-relation.md) — a narrower finding that bears on this claim
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related

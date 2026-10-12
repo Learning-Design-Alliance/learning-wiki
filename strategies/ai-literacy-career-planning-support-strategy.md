@@ -43,6 +43,7 @@ Based on its findings, the article recommends that universities offer programs t
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 - [Combine accurate AI labor-market information, employability-building activities, and growth-oriented career support for students facing AI employment threat](ai-threat-career-education-support-strategy.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
+- [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 
 ## Examples
 -

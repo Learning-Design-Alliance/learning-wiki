@@ -40,6 +40,7 @@ Drawing on the counter-design literature, PAUSE recommends concrete practices us
 ## Related Strategies
 
 - [Checking Your Blind Spot](checking_your_blind_spot.md)
+- [Describe AI instructional role and learner–AI interaction design in detail (prompts, scaffolds, modality, dialogue structures)](describe-ai-role-and-interaction-design-in-detail.md)
 
 ## Examples
 -

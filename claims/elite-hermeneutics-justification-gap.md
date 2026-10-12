@@ -46,3 +46,4 @@ Mean justification scores (1–10) from prompt P3 across the audit, shown in Fig
 - [Safety-aligned LLM tutors refuse educational requests asymmetrically, with low-resource students facing the highest refusal rates (76.7% vs 62.2%)](differential-refusal-low-tier-llm-tutors.md) — related
 - [LLaMA produces a fivefold higher victimization-to-politics vocabulary ratio for the Roma persona (≈0.15) than for elite peers (≈0.03)](agency-theft-victimization-framing.md) — related
 - [LLM history tutors reduce marginalized students' access to contested geopolitical framing, with the coup theory appearing in 2.6% of Low Tier responses versus 7.9% for the baseline](epistemic-gatekeeping-coup-gap.md) — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on

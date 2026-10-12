@@ -44,6 +44,7 @@ This strategy packages the article's three named activity types for integrating 
 ## Related Strategies
 
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
+- [Embed explicit AI-integrity practices such as ethics lessons, usage pledges, and AI-output marking into science instruction](ai-integrity-practices-science-classroom.md)
 
 ## Examples
 -

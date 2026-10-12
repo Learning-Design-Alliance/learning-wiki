@@ -87,3 +87,5 @@ Markov analysis for Cluster 3's browsing-anchored exploration: "Template Cloning
 - [Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5](behavioral-shift-goal-oriented-optimization.md) — related
 - [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related
 - [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](mm04-workflow-boundary-failures.md) — related
+- [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related
+- [Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level](three-behavioral-patterns-self-directed-modeling.md) — a broader claim this one bears on

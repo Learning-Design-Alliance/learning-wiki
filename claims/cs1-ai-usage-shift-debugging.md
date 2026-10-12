@@ -57,3 +57,4 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — related
 - [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
+- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related

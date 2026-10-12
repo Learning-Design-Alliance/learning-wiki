@@ -46,3 +46,4 @@ Thematic analysis of Activity 2 mock-up discussions found opposing and supportin
 - [Comparative dashboard features found less support among online students than recommendations and contact features](comparative-features-less-support-online-students.md) — related
 - [Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence](metaphoric-competence-central-to-language-use.md) — related
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
+- [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related

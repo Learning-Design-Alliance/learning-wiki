@@ -54,3 +54,5 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — related
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — a broader claim this one bears on

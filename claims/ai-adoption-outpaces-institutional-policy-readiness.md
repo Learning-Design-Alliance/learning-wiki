@@ -50,3 +50,4 @@ The briefs synthesize survey and policy data to characterize institutional readi
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — a narrower finding that bears on this claim
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim
+- [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — possibly the same claim (merge candidate)

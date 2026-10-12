@@ -50,6 +50,7 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 - [Prioritize autonomous motivation and scaffold concept-focused AI support tailored to learner trajectories rather than providing uniform access alone](prioritize-autonomous-motivation-concept-focused-ai-support.md)
 - [Cluster-specific engagement and personalization strategies for the six learner profiles](cluster-specific-engagement-strategies.md)
 - [Tailor GenAI chatbot onboarding, training, and support to identified adoption personas](persona-tailored-chatbot-onboarding-support.md)
+- [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Cross-sectional survey of 821 health sciences students at Turkish universities u
 - [Both scales showed acceptable-to-good confirmatory factor fit in this sample](aias-jsas-confirmatory-fit-health-students.md) — related
 - [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
 - [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related
+- [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](technology-anxiety-positive-predictor-ai-literacy.md) — related

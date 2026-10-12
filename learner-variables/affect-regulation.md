@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (58 for, 13 mixed, 7 against) · 64 studies (15 associational, 14 causal, 14 review, 8 qualitative, 7 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 14 of 64 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (58 for, 15 mixed, 7 against) · 66 studies (16 associational, 14 causal, 14 review, 8 qualitative, 7 design, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 15 of 66 report an effect size · 79 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -111,6 +111,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Emotion regulation partially mediates the negative association between AI anxiety and academic motivation](../claims/emotion-regulation-partially-mediates-ai-anxiety-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](../claims/gender-moderates-emotion-regulation-motivation-association.md) [~M] — learners who differ on it differ in outcomes
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](../claims/moderated-mediation-indirect-effect-stronger-male-students.md) [~M] — learners who differ on it differ in outcomes
+- [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](../claims/ai-simulation-anxiety-divergent.md) [~M] — instruction changes it
+- [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](../claims/technology-anxiety-positive-predictor-ai-literacy.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

@@ -51,3 +51,4 @@ Trustworthiness section of the qualitative study: two coders coded interview tra
 - [Blinded dual evaluation of artworks reached almost perfect inter-rater agreement (kappa = 0.92)](inter-rater-kappa-092-art-scoring.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Coding achieved satisfactory inter-coder reliability and the model reached theoretical saturation](coding-reliability-saturation-genai-literacy-model.md) — related
+- [Two human graders reached almost perfect agreement (QWK = 0.95), though one waterfall-model question showed only substantial agreement](human-graders-almost-perfect-agreement-qwk-095.md) — related

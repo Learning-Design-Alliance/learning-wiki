@@ -46,3 +46,4 @@ Descriptive paired-samples analyses of facial, vocal, and lexical emotion patter
 - [Adult learners using the closed-loop ITS improved significantly across all seven BARS presentation dimensions over a 30-day practice window (Cohen's d = 0.39–0.90)](its-prepost-gains-all-seven-bars-dimensions.md) — related
 - [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](no-textual-emotion-difference-emotion-on.md) — related
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
+- [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — related

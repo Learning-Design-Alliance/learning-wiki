@@ -64,3 +64,4 @@ Same FATE benchmark of commercial tutors (Table 3): the article reports "Actiona
 ## Related Claims
 - [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related
 - [An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning](question-specificity-classifier-accuracy.md) — related
+- [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](multi-llm-comparison-gemini-more-accurate.md) — related

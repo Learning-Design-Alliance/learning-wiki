@@ -67,3 +67,5 @@ Stability check splitting the sample into two equal subsamples and repeating k-m
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — related
 - [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
+- [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

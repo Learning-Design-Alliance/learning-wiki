@@ -45,3 +45,4 @@ The chapter reports, citing Stojanov et al., a latent profile analysis of 490 un
 ## Related Claims
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — a broader claim this one bears on
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

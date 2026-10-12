@@ -69,3 +69,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control](no-diagnostic-accuracy-difference.md) — related
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
+- [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related

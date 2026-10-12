@@ -45,3 +45,4 @@ The article attributes to prior work the demonstration that LLM pre-labels "can 
 ## Related Claims
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation](learnopt-pilot-recall-framing.md) — related
+- [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related

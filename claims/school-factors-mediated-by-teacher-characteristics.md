@@ -52,3 +52,4 @@ Latent one-level SEM with cluster robust standard errors (lavaan) on the same su
 - [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related

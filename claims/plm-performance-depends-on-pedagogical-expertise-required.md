@@ -71,3 +71,4 @@ Test-set results on 9,886 NCTE classroom segments rated on MQI variables, using 
 - [Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization](raters-ai-mean-differences-class-domains.md) — related
 - [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related
 - [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related
+- [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related

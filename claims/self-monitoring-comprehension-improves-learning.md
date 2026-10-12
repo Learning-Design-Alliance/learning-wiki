@@ -92,3 +92,4 @@ Open questions for future evidence passes: whether the benefit of monitoring lie
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — a narrower finding that bears on this claim
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](checkpoints-and-definitions-improved-clarity.md) — a narrower finding that bears on this claim
+- [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — a narrower finding that bears on this claim

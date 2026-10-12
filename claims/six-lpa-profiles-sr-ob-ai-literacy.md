@@ -46,3 +46,4 @@ Latent profile analysis on combined SR and OB factors in the full sample (N = 28
 - [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](expanded-pool-composite-still-null.md) — related
 - [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

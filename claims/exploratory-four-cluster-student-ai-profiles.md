@@ -59,3 +59,6 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
+- [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

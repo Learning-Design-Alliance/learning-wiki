@@ -56,3 +56,5 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related
 - [The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews](star-label-rule-kappa-066-82-percent.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
+- [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
+- [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related

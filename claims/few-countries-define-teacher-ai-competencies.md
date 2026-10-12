@@ -49,3 +49,4 @@ The publication states, without citing supporting data, that few countries have 
 - [Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance](leaders-lack-ai-knowledge-districts-without-guidance.md) — related
 - [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — a broader claim this one bears on
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
+- [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related

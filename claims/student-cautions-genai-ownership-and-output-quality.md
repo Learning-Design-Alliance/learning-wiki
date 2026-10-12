@@ -54,3 +54,6 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — a broader claim this one bears on
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related
+- [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related

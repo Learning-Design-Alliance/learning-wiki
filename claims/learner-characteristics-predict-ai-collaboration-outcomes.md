@@ -50,3 +50,4 @@ Robust main-effects model for revision performance (pseudo R² = 0.580) with gro
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](genai-training-comparable-load-marginal-intrinsic-increase.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
+- [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related

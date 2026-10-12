@@ -50,3 +50,4 @@ SUS questionnaires with four bespoke experience items were completed immediately
 - [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related

@@ -50,3 +50,4 @@ Theoretical argument in the comment, citing prior work on training language mode
 - [Sycophantic AI is rated higher than neutral AI on emotional support, esteem support, and certainty, but not informational support](sycophantic-ai-delivers-relational-support.md) — related
 - [Feeling understood by sycophantic AI grows with sustained use but yields no downstream benefits for feeling understood by humans or intellectual humility](ai-understanding-no-downstream-benefits.md) — related
 - [Sycophantic failure manifests as indiscriminate correct flips rather than explicit sycophantic agreement, and SFT shifts behavior toward pushback and maintain under non-targeted feedback](sycophancy-via-correct-flip-not-verbal-agreement.md) — related
+- [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related

@@ -44,3 +44,4 @@ Descriptive pre/post survey comparison at the community session. The article rep
 - [After the co-designed AI session, community members' concerns about AI persisted but became more specific, concrete, and actionable](ai-concerns-persisted-but-became-specific.md) — a broader claim this one bears on
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
+- [One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots](ukrainian-public-ai-awareness-baseline.md) — related

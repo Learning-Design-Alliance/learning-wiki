@@ -45,3 +45,5 @@ fsQCA of the same 320 cases identified three sufficient configurations: TBI+STT+
 - [The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI](frequent-switchers-best-performance.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise](fca-self-monitoring-gateway-multiple-pathways.md) — related
+- [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
+- [No barrier is necessary and no barrier configuration is sufficient for low AI readiness (fsQCA null result)](fsqca-no-necessary-or-sufficient-barrier-low-readiness.md) — related

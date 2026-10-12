@@ -44,3 +44,4 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

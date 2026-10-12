@@ -83,3 +83,4 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage](cot-effect-varies-model-stage-kc-planning.md) — related
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
 - [Self-refinement gains depend on model strength and on behavior-prediction quality](self-refinement-gains-depend-on-model-and-prediction-quality.md) — a broader claim this one bears on
+- [The two targeted ablations produce small, partially counter-directional effects: removing the construct map does not materially change the composite score (p = 0.34 on equivalence)](varia-ablation-null-effects.md) — related

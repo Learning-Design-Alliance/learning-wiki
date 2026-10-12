@@ -61,3 +61,4 @@ Reliability of the two coders' independent ratings before adjudication of the 66
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — reports the opposite
 - [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related
 - [Hypothesized indirect effects from technology acceptance to engagement through reflective use, PSE, and the serial RU–PSE path are not significant (null result)](indirect-effects-not-significant-survey.md) — related
+- [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related

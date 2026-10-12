@@ -42,6 +42,7 @@ The editorial's forward-looking recommendation is that intellectuals in higher e
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 
 ## Examples
 -

@@ -26,6 +26,7 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **OSF repository of prompts, codebooks, and code for LLM-assisted codebook development**: A released replication package hosting the code for the article's codebook development process together with all employed prompts and all codebooks produced by GPT across both studies. The article states: "The code for our codebook development process and all the employed prompts and codebooks produced by GPT are available for replication purposes at: https://osf.io/g3z4x". It supports researchers reproducing or extending the three-step human-AI workflow and the four prompting-strategy comparisons in new theoretical domains or datasets. (Zambrano et al. (2026))
+- **Open-source OSF repository of emotional micro-intervention resources under Creative Commons licence**: The author provides a set of implementation resources "under Creative Commons licence in a dedicated OSF storage" at https://osf.io/tuw2a/overview, alongside the article's appendix of extensive emotional micro-interventions. The appendix includes catalogs of teacher-expression reformulations, emotion tables (discovery and power, challenge and frustration, learning and collaboration, AI and paradigm shifts), and situation-specific feedback phrases. (François PARLANT (2025))
 
 ### Claims
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](../claims/gpt4o-theory-references-codebook-covers-srl-theories.md) [+W]
@@ -39,8 +40,8 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 
 ## Key Sources
 - Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x
-
 <!-- merged 2026-10-10 from elements/osf-gpt-codebook-replication-artifact ("OSF repository of prompts, codebooks, and code for LLM-assisted codebook development"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- François PARLANT. (2025). Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others). https://osf.io/tuw2a/overview
 
 # OSF repository of prompts, codebooks, and code for LLM-assisted codebook development
 

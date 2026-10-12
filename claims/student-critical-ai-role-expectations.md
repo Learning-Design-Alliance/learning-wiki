@@ -80,3 +80,9 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%](ai-mostly-assistant-draft-generator-not-co-designer.md) — related
 - [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — related
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related
+- [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
+- [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](students-critical-agentic-partners-with-ai-2030-scenarios.md) — a broader claim this one bears on
+- [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related

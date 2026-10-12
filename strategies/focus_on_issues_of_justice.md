@@ -65,6 +65,7 @@ Justice-focused projects draw their motivational power from authenticity and per
 - [Project-Based Learning](project-based-learning.md) — the general project architecture into which justice focus is a thematic commitment
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the pedagogical stance that makes justice projects legitimate and safe for all students
 - [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](community-prompts-authentic-audience-360-film.md)
+- [Students learn AI ethics through inquiry or design projects examining societal impact and bias](student-ai-inquiry-design-projects-ethics.md)
 
 ## Examples
 - **Mikva Challenge** (https://www.mikvachallenge.org) — Chicago-area students investigate community problems and run "action civics" campaigns addressing real policy issues with elected officials.

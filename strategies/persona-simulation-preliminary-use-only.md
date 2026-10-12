@@ -45,6 +45,7 @@ The article's responsible-use recommendation is to deploy LLM-based student simu
 - [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 - [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
+- [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 
 ## Examples
 -

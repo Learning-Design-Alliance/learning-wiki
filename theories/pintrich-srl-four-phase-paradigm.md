@@ -52,6 +52,7 @@ The article adopts self-regulated learning as a comprehensive framework includin
 ## Examples
 
 - [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](../strategies/teach-srl-strategies-less-proficient-efl-learners.md)
+- [Teacher supports for self-regulated GenAI feedback engagement](../strategies/teacher-supports-self-regulated-genai-feedback.md)
 
 ## Key Sources
 - Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4

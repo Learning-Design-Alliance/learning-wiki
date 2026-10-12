@@ -91,3 +91,4 @@ Same pairwise analysis: direct-solution users skipped more than controls (d = 0.
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt-access-supported-practice-poorer-unaided-test.md) — related
 - [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
+- [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related

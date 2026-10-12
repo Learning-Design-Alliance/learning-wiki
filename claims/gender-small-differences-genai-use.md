@@ -69,3 +69,4 @@ Comparison of early-stage undergraduates (Years 1–2) with more advanced studen
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
 - [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related
 - [Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes](instructor-policy-associated-small-effects.md) — related
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

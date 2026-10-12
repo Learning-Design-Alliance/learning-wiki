@@ -49,6 +49,7 @@ The article recommends that teachers treat LLM output as a starting point for co
 - [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
+- [Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output](ai-co-creation-of-emotional-micro-interventions.md)
 
 ## Examples
 -

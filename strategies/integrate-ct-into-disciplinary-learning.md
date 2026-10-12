@@ -47,6 +47,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction](ai-assistant-integrate-existing-instruction.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
+- [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
 
 ## Examples
 -

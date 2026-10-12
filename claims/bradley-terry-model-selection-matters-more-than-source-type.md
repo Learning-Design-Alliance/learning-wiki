@@ -79,3 +79,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [The ConvTutor–PedTutor helpfulness ordering is judge-contingent, reversing between the Opus and Sol judges on two of three tutor bases](helpfulness-ordering-judge-contingent.md) — a narrower finding that bears on this claim
 - [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — related
 - [LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality](llm-grader-precision-recall-tradeoffs-single-metric-insufficient.md) — related
+- [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related

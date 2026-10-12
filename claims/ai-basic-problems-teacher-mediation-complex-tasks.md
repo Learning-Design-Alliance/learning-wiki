@@ -47,3 +47,4 @@ Finding from the systematic review's synthesis of the 14 studies on AI intervent
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](ai-pbl-adaptive-personalized-engagement.md) — related
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related

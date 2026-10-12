@@ -49,3 +49,4 @@ Time-on-task analysis of session times in the randomized experiment, using Krusk
 - [Adaptive-condition students complete the posttest in significantly less time than Control students](adaptive-proactive-hints-less-posttest-time.md) — related
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — related
 - [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
+- [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related

@@ -68,3 +68,4 @@ Mother-tongue moderator analysis across the included studies; the author reports
 - [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related
 - [Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting](seven-nonsignificant-moderators-call-feedback.md) — related
+- [Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant](ai-effect-medium-class-size-highest.md) — related

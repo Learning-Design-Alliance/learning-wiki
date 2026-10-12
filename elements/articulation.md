@@ -74,6 +74,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 **Think-Aloud Problem Solving** — Instructors ask students to verbalize their solution process during [Practice](practice.md), then respond to the reasoning rather than only the answer.
 
 **Reciprocal Teaching** — Students take turns articulating predictions, questions, and summaries of a text, rotating the explainer role within small groups.
+- [Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement](../strategies/think-aloud-moderator-guide-ai-refinement.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

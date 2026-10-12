@@ -49,3 +49,5 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related
 - [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — reports the opposite
 - [Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes](social-science-students-higher-job-finding-anxiety.md) — related
+- [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
+- [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](technology-anxiety-positive-predictor-ai-literacy.md) — related

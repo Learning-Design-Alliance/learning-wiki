@@ -48,3 +48,4 @@ are needed to raise the p- value in order to have non-significant z-value."
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
+- [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — related

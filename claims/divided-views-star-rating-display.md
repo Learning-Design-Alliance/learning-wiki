@@ -69,3 +69,4 @@ Teacher 02 (School B) post-survey; he called the 4-star rating "basic," suggeste
 - [Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated](points-possible-improves-score-understanding.md) — related
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
+- [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](ai-feedback-progress-motivates-revision.md) — related

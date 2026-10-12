@@ -85,6 +85,8 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
 - [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](../strategies/five-part-prompt-framework-with-evaluation-cycle.md)
 - [Require students to arrive with their own reasoning, expose it to AI challenge, and account for what changed](../strategies/require-own-reasoning-expose-to-challenge-account-for-change.md)
+- [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](../strategies/scaffolded-llm-argumentation-assignment-cycle.md)
+- [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](../strategies/scenario-construct-critique-reframe-arguments.md)
 
 ## Key Sources
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)

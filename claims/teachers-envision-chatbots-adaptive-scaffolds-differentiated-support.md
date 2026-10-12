@@ -45,3 +45,4 @@ Focus-group interview thematic analysis during summer 2026 PD workshops with 27 
 ## Related Claims
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related

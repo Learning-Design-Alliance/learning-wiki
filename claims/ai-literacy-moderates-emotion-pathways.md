@@ -63,3 +63,4 @@ Bootstrapped moderated mediation indices (5,000 resamples) for the three emotion
 - [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](simple-slopes-ai-literacy-low-high.md) — possibly the same claim (merge candidate)
 - [Academics and students experienced both positive and negative emotions in relation to GenAI.](genai-assessment-positive-negative-emotions.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — a narrower finding that bears on this claim
+- [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related

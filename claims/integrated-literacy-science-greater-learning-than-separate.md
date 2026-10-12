@@ -48,3 +48,4 @@ This is the guide's own summary assertion in its closing section, offered withou
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
 - [Integrating science and literacy instruction benefits elementary students](integrated-science-literacy-instruction-benefits-elementary.md) — a broader claim this one bears on
 - [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](inquiry-science-contextualized-authentic-language.md) — related
+- [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](ai-enables-authentic-contextualized-science-experiences.md) — related

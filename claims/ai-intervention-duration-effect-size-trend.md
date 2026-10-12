@@ -46,3 +46,4 @@ The systematic review's synthesis of intervention duration across its 14 coded s
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — a broader claim this one bears on
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
 - [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related
+- [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — reports the opposite

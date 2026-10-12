@@ -1,0 +1,48 @@
+---
+type: claim
+title: AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association
+description: AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association
+id: professional-learning-no-moderation-allocation-association
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: weak
+sources:
+  - id: holster-2026
+    resource: "https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    author: Holster, J.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+
+## Subclaims
+`q2 i?` The moderation test is not significant (F(1, 48) = 2.06, p = .157); equivalence was not tested. [→ Holster 2026](#holster-2026)
+
+## Evidence
+
+### Holster 2026
+
+Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html
+
+`q2 · i?` · `associational · r2`
+
+Secondary supplementary analysis testing professional learning as a moderator of the within-teacher allocation association; the article reports "F(1, 48) = 2.06, p = .157" with no effect size, and treats the result as secondary.
+
+> "AI-related professional learning did not clearly moderate the within-teacher allocation association in the revised sample, F(1, 48) = 2.06, p = .157."
+
+## Discussion
+
+
+## Related Claims
+- [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related
+- [Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity](ai-literacy-no-moderation-direct-association.md) — related
+- [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related

@@ -39,6 +39,7 @@ The orchestration scenario envisions a teacher-AI partnership for socially rich 
 ## Related Strategies
 
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](pre-action-review-and-sentence-starters-for-cobi.md)
 
 ## Examples
 -

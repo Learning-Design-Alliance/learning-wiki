@@ -46,3 +46,4 @@ Setting comparison averaging across all 22 challenges in the survey. The report 
 - [Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd.](openscied-equity-challenges-swd-and-mls.md) — related
 - [OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity.](openscied-six-high-priority-need-areas.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
+- [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related

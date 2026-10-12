@@ -51,3 +51,4 @@ Observational sentiment analysis of the full 14,201-tweet corpus using a fine-tu
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
+- [AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis](aied-2024-educators-prominent-stakeholders.md) — related

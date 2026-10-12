@@ -53,3 +53,4 @@ Exploratory factor analysis (minimum residual estimation, oblique rotation) of 3
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [The Autonomy factor emerges as dominant in EFA, with an eigenvalue of 11.458 explaining 38.194% of variance](tails-autonomy-dominant-factor.md) — related

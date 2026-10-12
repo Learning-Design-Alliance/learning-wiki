@@ -44,3 +44,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — reports the opposite
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk](usage-frequency-associates-all-five-baseline-ai-perceptions.md) — related
+- [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related

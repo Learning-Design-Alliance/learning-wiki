@@ -65,3 +65,4 @@ Table 2.1 analysis by ability decile groups showed more grades represented for t
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](content-proximity-more-on-grade-items.md) — related
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](pilot-blueprint-fulfillment.md) — related
+- [A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity](glat-content-validity-pilot.md) — related

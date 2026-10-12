@@ -46,3 +46,4 @@ Quantification of point-value differences between graders reported in the Result
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations](holistic-hardest-question-moderate-reliability.md) — related
 - [Gaps between Cohen's κ and QWK indicate GradeOpt often assigned codes adjacent to human codes rather than entirely discrepant ones](kappa-qwk-gaps-adjacent-codes.md) — related
+- [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related

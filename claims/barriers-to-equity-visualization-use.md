@@ -64,3 +64,4 @@ Inductive coding of interview rationales identified 7 teachers whose equity beli
 ## Related Claims
 - [Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences](equity-visualizations-prompt-equity-reflections.md) — related
 - [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — related
+- [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related

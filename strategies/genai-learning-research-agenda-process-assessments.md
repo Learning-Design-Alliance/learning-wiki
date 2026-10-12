@@ -44,6 +44,7 @@ The article proposes a cognitive-psychology-informed research agenda for generat
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 - [Use five conceptual propositions to guide research and professional development on teachers' diagnostic skills in AI-supported formative assessment](five-propositions-teacher-diagnostic-skills-ai-research.md)
 - [Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs](existential-hope-research-agenda.md)
+- [Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes](measure-process-and-delayed-outcomes-ai-learning-research.md)
 
 ## Examples
 -

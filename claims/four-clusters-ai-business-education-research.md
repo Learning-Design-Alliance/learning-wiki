@@ -49,3 +49,4 @@ Bibliometric analysis of 213 peer-reviewed articles (2015–2024) from the Dimen
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
 - [Research on AI in instructional design is dominated by perception studies, with fewer evaluative and far fewer tool-development studies, indicating a formative field](ai-id-research-objectives-three-themes-formative.md) — related
+- [Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics](four-keyword-clusters-genai-higher-education-literature.md) — related

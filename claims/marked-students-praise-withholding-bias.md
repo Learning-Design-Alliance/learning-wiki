@@ -46,3 +46,4 @@ Cross-condition lexical comparison of feedback generated for the same 600 essays
 - [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](motivation-prompt-enthusiasm-pedagogy.md) — a narrower finding that bears on this claim
 - [Names alone elicit weaker, less consistent identity-marked feedback language than explicit attribute prompts](names-alone-elicit-weaker-marked-language.md) — related
 - [Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback](prompted-attributes-increase-marked-pedagogy-concentration.md) — related
+- [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related

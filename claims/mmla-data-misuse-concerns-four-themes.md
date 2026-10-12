@@ -59,3 +59,6 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent](gsr-user-knowledge-personalization-requirements.md) — related
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
+- [Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes](adult-learners-data-practice-concerns-g1.md) — related
+- [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](cobi-privacy-and-performance-monitoring-concerns.md) — related
+- [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

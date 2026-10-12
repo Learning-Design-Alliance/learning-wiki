@@ -50,3 +50,4 @@ Partial correlation analyses in Cycle 2 controlling for all baseline measures, w
 - [The study's findings are context-specific and do not demonstrate AI literacy or learning gains because no baseline measure was collected](no-baseline-literacy-gains-context-specific-findings.md) — related
 - [In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention (β = 0.02, p = .896)](satisfaction-mediates-agent-use.md) — related
 - [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
+- [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related

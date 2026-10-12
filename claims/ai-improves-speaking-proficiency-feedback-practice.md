@@ -44,3 +44,4 @@ Thematic synthesis of the communicative capacity pathway codes 28 studies to spe
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — related
 - [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — related
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related

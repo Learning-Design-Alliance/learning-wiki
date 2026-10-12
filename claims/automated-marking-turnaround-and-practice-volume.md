@@ -46,3 +46,4 @@ Passively collected platform system-log data over the 16-week term. The article 
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related
+- [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — a broader claim this one bears on

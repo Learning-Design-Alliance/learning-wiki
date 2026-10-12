@@ -45,6 +45,8 @@ The article's practical implication is that faculty development and AI integrati
 - [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
+- [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
+- [Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK](restructure-curriculum-cultivate-self-efficacy.md)
 
 ## Examples
 -

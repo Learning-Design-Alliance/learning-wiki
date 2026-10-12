@@ -58,3 +58,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Effective AI use positively influences sustainable learning performance](effective-ai-use-improves-sustainable-learning-performance.md) — related
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
+- [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](ai-enables-authentic-contextualized-science-experiences.md) — related

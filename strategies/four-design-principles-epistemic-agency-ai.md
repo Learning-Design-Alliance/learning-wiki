@@ -49,6 +49,7 @@ Based on the tension between system efficiency and regulatory engagement, the ar
 - [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
 - [Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition](scaffold-agents-toward-higher-order.md)
 - [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
+- [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 
 ## Examples
 -

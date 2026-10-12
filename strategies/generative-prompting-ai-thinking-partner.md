@@ -42,6 +42,7 @@ Generative prompting is a Contextual Use capacity in which learners employ itera
 ## Related Strategies
 
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
+- [Students should treat GenAI as a critical dialogue partner, using informed, iterative prompting rather than collecting ready-made answers](treat-genai-as-critical-dialogue-partner.md)
 
 ## Examples
 -

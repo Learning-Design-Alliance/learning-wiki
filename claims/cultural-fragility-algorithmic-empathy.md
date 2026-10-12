@@ -68,3 +68,5 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — related
 - [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related
 - [The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust](ai-navigation-requires-guiding-principles.md) — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — related

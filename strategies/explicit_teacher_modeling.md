@@ -66,6 +66,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the narration technique at the core of explicit modeling
 - [Gradual Release of Responsibility](gradual-release-of-responsibility.md) — the "I do, we do, you do" sequencing that fades modeling into independence
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
+- [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component

@@ -44,3 +44,4 @@ Human expert evaluation with 20 teachers rating all three systems; the article r
 
 ## Related Claims
 - [MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size](mas-cmd-higher-active-learning-rating-than-mas-roles.md) — related
+- [GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere](genai-grade-differences-wilcoxon.md) — related

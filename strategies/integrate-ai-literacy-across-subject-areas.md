@@ -48,6 +48,8 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 - [Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction](ai-assistant-integrate-existing-instruction.md)
 - [Integrate computational thinking across K-12 subject areas rather than treating it as computer-science-only](integrate-computational-thinking-across-k12-subjects.md)
+- [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
+- [Use a modular lesson structure to keep integrated AI curricula scalable under time constraints](modular-lesson-structure-scalable-integrated-ai-curriculum.md)
 
 ## Examples
 -

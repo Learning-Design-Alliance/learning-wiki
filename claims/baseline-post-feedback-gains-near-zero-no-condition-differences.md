@@ -47,3 +47,4 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](valid-test-cases-not-fewer-submissions.md) — related
 - [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related
+- [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related

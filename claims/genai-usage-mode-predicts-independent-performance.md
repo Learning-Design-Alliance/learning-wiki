@@ -53,3 +53,4 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each](ai-equalizing-effect-through-content-and-writing.md) — related
 - [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](majority-use-ai-for-direct-answers.md) — related
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — possibly the same claim (merge candidate)
+- [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — related

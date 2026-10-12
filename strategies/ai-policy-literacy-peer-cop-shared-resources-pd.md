@@ -49,6 +49,7 @@ The article's recommendations for professional development design are threefold:
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
+- [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
 
 ## Examples
 -

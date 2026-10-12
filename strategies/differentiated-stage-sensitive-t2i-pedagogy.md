@@ -40,7 +40,8 @@ Based on the finding that students with different competence levels and risk per
 - Extended Utaut Creative Competence T2I
 
 ## Related Strategies
-- 
+
+- [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 
 ## Examples
 -

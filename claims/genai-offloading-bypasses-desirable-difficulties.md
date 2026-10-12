@@ -47,3 +47,5 @@ Theoretical argument in this perspective article's section on cognitive offloadi
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — possibly the same claim (merge candidate)
+- [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — reports the opposite
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related

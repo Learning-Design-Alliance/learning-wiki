@@ -48,3 +48,5 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
+- [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
+- [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

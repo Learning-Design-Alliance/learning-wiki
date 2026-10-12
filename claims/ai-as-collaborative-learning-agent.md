@@ -48,3 +48,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
+- [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](students-critical-agentic-partners-with-ai-2030-scenarios.md) — related

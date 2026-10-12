@@ -48,3 +48,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related

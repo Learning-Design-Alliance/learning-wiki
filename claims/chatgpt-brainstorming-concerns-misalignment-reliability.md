@@ -52,3 +52,4 @@ Reflexive thematic analysis of the 5 interviewed Algebra 1 teachers' feedback on
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — related
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — a broader claim this one bears on
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related

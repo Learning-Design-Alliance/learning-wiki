@@ -51,3 +51,5 @@ Authors' conceptual interpretation in the framework development section, not a t
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - [Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses](marketing-educators-gai-use-tool-most-common.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
+- [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — possibly the same claim (merge candidate)

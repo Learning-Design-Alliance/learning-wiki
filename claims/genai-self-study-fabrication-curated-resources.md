@@ -73,3 +73,4 @@ The review reports this comparison among negative and null results showing the r
 - [Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations](source-anchoring-reduces-hallucination-instruction-data.md) — related
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related
+- [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related

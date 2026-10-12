@@ -47,3 +47,4 @@ Definitional statement from the theoretical framework section, grounded in Nelso
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources](monitoring-multiplicity-theoretical-gap.md) — related
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — related
+- [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related

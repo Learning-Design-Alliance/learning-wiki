@@ -67,3 +67,5 @@ Same mixed-model confirmatory test applied to Paas difficulty ratings. The inter
 ## Related Claims
 - [Confirmatory physiological tests found no significant tool×task interactions for pupil Δ or ln RMSSD, with substantial data loss limiting interpretation](physiological-load-signals-no-group-differences.md) — related
 - [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related
+- [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related
+- [GenAI access reduces perceived difficulty of the assisted reasoning task](genai-reduces-perceived-task-difficulty.md) — related

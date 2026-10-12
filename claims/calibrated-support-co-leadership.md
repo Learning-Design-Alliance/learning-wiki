@@ -82,3 +82,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related

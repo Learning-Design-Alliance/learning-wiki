@@ -49,3 +49,4 @@ Comparative policy analysis of 11 AI regulatory documents coded by two independe
 - [The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics](eu-emotion-recognition-ban-limits-la-applications.md) — related
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
+- [Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation](lrk-underrepresented-core-competency.md) — related

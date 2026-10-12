@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (42 for, 25 mixed, 9 against) · 66 studies (19 causal, 12 review, 10 associational, 9 theoretical, 7 design, 5 qualitative, 4 quant-synthesis), `q1`–`q4` · 12 of 66 report an effect size · 67 claims rest on one study
+> **Evidence** · 78 claims (43 for, 26 mixed, 9 against) · 67 studies (19 causal, 12 review, 10 associational, 9 theoretical, 7 design, 6 qualitative, 4 quant-synthesis), `q1`–`q4` · 12 of 67 report an effect size · 69 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -109,6 +109,8 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](../claims/trust-mixed-scrutiny-tracks-expertise.md) [~M] — an instructional effect differs with it
 - [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](../claims/nev-expertise-eases-task-completion.md) [+M] — learners who differ on it differ in outcomes
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](../claims/premium-access-greater-perceived-benefits.md) [+M] — an instructional effect differs with it
+- [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](../claims/prior-biology-predicts-ai-lessons-one-two-not-three-four.md) [~M] — learners who differ on it differ in outcomes
+- [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](../claims/transfer-associated-with-correct-cross-domain-explanations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

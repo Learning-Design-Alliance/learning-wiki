@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 9 studies (6 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q3` · 3 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 11 studies (6 causal, 3 qualitative, 1 review, 1 theoretical), `q2`–`q3` · 3 of 11 report an effect size · 11 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -52,6 +52,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](../claims/experiential-beats-instructional-immediate-aie-mkc.md) [+M] — attached 2026-10-11 from Pau Benazet i Montobbio et al. (2026), which proposed "Temporal decoupling of metacognitive knowledge and regulation under experiential AI-assisted learning".
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Metacognitive dependence: a descriptive framework for perceived–behavioral reliance mismatch in AI-assisted decisions"; tests this page's relationship.
 - [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](../claims/calibration-negatively-associated-overreliance.md) [+W] — attached 2026-10-11 from Ren S (2026), which proposed "Metacognitive dependence: a descriptive framework for perceived–behavioral reliance mismatch in AI-assisted decisions".
+- [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](../claims/novices-refine-prompts-trial-and-error.md) [+W] — attached 2026-10-12 from Nicola Brocca (2026), which proposed "Human-in-the-loop LLM workflow as a metacognitive framework for AI-assisted learning".
+- [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](../claims/output-evaluation-competence-gains.md) [+W] — attached 2026-10-12 from Nicola Brocca (2026), which proposed "Human-in-the-loop LLM workflow as a metacognitive framework for AI-assisted learning".
+- [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](../claims/regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) [+W] — attached 2026-10-12 from Li Shijin et al. (2026), which proposed "Reciprocal monitoring–control architecture with planning as prospective control and regulation as adaptive control".
 
 ## Related Theories
 

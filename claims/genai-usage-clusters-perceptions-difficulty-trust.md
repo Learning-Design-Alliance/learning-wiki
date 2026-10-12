@@ -70,3 +70,4 @@ Cluster comparison on the eight Likert perception statements (Table III); statem
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — reports the opposite
 - [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
+- [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related

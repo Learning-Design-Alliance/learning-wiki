@@ -46,3 +46,4 @@ The review's model-type analysis found "Six of the reviewed studies (31.58%) use
 - [Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies](information-functions-underreported-irt-studies.md) — related
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
+- [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related

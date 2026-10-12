@@ -46,3 +46,4 @@ Lexical comparison of unmotivated- versus motivated-prompted feedback for the sa
 ## Related Claims
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
 - [LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts](marked-students-praise-withholding-bias.md) — a broader claim this one bears on
+- [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related

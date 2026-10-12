@@ -51,6 +51,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 - [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
 - [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
+- [Calibrate AI writing support by providing contextual feedback, dialogic scaffolding, and initiative matched to learner needs and task complexity](calibrate-agent-initiative-to-learner-needs.md)
 
 ## Examples
 -

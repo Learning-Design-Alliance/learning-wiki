@@ -47,3 +47,4 @@ The authors' review of existing frameworks (Table 1) argues that frameworks such
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework](fragmented-ai-sdg-scholarship-research-gap.md) — a broader claim this one bears on
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related
+- [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related

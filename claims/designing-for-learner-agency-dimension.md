@@ -47,3 +47,4 @@ Qualitative strand of an embedded mixed-methods study of teachers in an eight-we
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Repeated negative alerts for one student prompted the teacher to revisit her and shift from explanation to inquiry, and reorganization of her engagement occurred only after this second intervention](repeated-alerts-prompt-iterative-instructional-revision.md) — related
+- [Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners](ai-fosters-scientific-identity-agency.md) — related

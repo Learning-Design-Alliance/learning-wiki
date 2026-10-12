@@ -56,3 +56,4 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — a broader claim this one bears on
 - [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related

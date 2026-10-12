@@ -50,3 +50,4 @@ Manual inspection of randomly sampled trajectories illustrating five divergence 
 - [In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use](llm-agent-response-quality-evaluation.md) — related
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
 - [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related

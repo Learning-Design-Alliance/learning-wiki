@@ -86,11 +86,13 @@ Two bodies of evidence bear on the practice. Norm setting is a standard componen
 8. **Review and revise on a schedule.** Mid-term, ask which norms the class has actually kept and amend the ones that were aspirational, which keeps the document honest.
 
 ## Related Strategies
+
 - [Classroom Norms Co-Construction](classroom-norms-co-construction.md) — the co-authoring process in detail
 - [Class Discussion Norms](class-discussion-norms.md) — the narrower set governing academic talk
 - [Classroom Climate Routines](classroom-climate-routines.md) — the recurring practices that maintain what norm setting establishes
 - [Classroom Routines and Procedures](classroom-routines-and-procedures.md) — the procedural counterpart: how things are done, rather than how people treat each other
 - [Check-In Routines](check-in_routines.md) — a regular practice that gives the relational norms something concrete to operate in
+- [Use the stakeholder-by-value norm matrix as actionable rules for implementing ethical AIED](stakeholder-value-norm-matrix-strategy.md)
 
 ## Examples
 

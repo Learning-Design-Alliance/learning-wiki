@@ -45,6 +45,7 @@ Because trust occupies the pivot of the modeled chain, the authors recommend tha
 - [Prioritize trust calibration over trust maximization when evaluating explainability and other design factors](prioritize-trust-calibration-over-maximization.md)
 - [Treat trust calibration as an explicit educational objective of ML education, pursued through ICE-T's three facets](trust-calibration-as-explicit-educational-objective.md)
 - [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
+- [Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it](preserve-critical-stance-while-reducing-debilitating-anxiety.md)
 
 ## Examples
 -

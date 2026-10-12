@@ -48,3 +48,4 @@ Bootstrap conditional indirect effect analysis (5,000 resamples) on the 1,198-st
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related
 - [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related
+- [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related

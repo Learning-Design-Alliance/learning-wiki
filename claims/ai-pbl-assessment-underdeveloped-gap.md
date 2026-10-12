@@ -51,3 +51,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
 - [Empirical research on the ethical implications of teachers using AI for feedback remains scarce](empirical-gap-ethics-ai-feedback.md) — related
+- [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related

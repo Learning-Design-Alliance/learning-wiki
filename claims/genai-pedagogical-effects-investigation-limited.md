@@ -47,3 +47,5 @@ The review's analysis of challenge-theme distribution by agent type (RQ2), obser
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming](review-operational-teaming-most-common-no-synergistic.md) — related
+- [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) — related
+- [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related

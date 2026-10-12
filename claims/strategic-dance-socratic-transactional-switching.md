@@ -47,3 +47,4 @@ Descriptive per-student timeline reconstruction aligning prompts and commits to 
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — a broader claim this one bears on
 - [Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection](chatbot-used-as-study-aid-not-socratic-reflection.md) — related
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
+- [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](large-prediction-window-real-time-intervention.md) — related

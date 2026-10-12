@@ -64,3 +64,4 @@ Correlational analysis of post-questionnaire ratings against EEG engagement. Per
 ## Related Claims
 - [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — related
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
+- [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related

@@ -40,7 +40,9 @@ The article proposes that teacher education institutions use the empirically ide
 - Diffusion User Typology Ai Acceptance
 
 ## Related Strategies
-- 
+
+- [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
+- [Typology-differentiated AI adoption policy interventions for education systems](typology-differentiated-ai-adoption-policy-interventions.md)
 
 ## Examples
 -

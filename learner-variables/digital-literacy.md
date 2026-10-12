@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (24 for, 3 mixed, 4 against) · 30 studies (9 associational, 8 causal, 4 review, 4 design, 3 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (26 for, 3 mixed, 6 against) · 33 studies (12 associational, 8 causal, 4 review, 4 design, 3 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 33 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -64,6 +64,10 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations](../claims/digital-skills-only-consistent-positive-predictor-ict-aspirations.md) [+M] — learners who differ on it differ in outcomes
 - [Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant](../claims/lda-moderate-discrimination-ict-aspiration-growth.md) [+M] — learners who differ on it differ in outcomes
 - [The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low](../claims/autonomy-teacher-support-compensatory-interaction-digital-skills.md) [~M] — instruction changes it
+- [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](../claims/ai-literacy-unrelated-to-ai-use-and-demographics.md) [-M] — learners who differ on it differ in outcomes
+- [Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles](../claims/resources-prospectively-differentiate-ai-profile-membership.md) [+M] — learners who differ on it differ in outcomes
+- [Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency and creative application](../claims/determinants-selective-across-ai-literacy-subdimensions.md) [-M] — learners who differ on it differ in outcomes
+- [Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance](../claims/digital-competence-predicts-ai-literacy-incrementally.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

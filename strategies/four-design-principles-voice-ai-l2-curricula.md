@@ -42,7 +42,8 @@ From the study's conclusions, the authors propose four concrete principles for i
 - [Ai Supported Monologue Complementary Affordances](../designs/ai-supported-monologue-complementary-affordances.md)
 
 ## Related Strategies
-- 
+
+- [Describe AI instructional role and learner–AI interaction design in detail (prompts, scaffolds, modality, dialogue structures)](describe-ai-role-and-interaction-design-in-detail.md)
 
 ## Examples
 -

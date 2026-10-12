@@ -46,3 +46,4 @@ Baseline equivalence analyses on the final analytic sample of 1,176 students; Ta
 - [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
 - [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
+- [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related

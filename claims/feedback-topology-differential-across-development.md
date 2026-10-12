@@ -47,3 +47,4 @@ Cross-cutting pattern analysis of the 24 priority scenarios in the results secti
 - [Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers](216-scenarios-filtered-to-24-priority.md) — related
 - [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related
 - [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related
+- [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related

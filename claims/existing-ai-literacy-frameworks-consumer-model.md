@@ -49,3 +49,4 @@ Theoretical analysis of four publicly available AI literacy frameworks spanning 
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
 - [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related

@@ -52,3 +52,6 @@ Epistemic network analysis of group chat logs from the Week 2 unguided task (13 
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — a broader claim this one bears on
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — related
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — possibly the same claim (merge candidate)
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
+- [Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners](ai-fosters-scientific-identity-agency.md) — related
+- [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related

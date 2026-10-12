@@ -55,3 +55,4 @@ Behavior-outcome comparison within the randomized controlled trial of 318 univer
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
 - [The whitepaper reports, citing He et al., that Cursor adoption was associated with a persistent increase in static analysis warnings and code complexity despite short-term velocity gains](cursor-adoption-warnings-complexity-persistent-increase.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
+- [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related

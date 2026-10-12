@@ -70,3 +70,5 @@ Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves](three-adaptation-profiles-ai-japanese-learning.md) — related
+- [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](ai-gbl-motivation-most-consistent-outcome.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related

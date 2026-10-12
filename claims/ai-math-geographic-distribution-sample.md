@@ -49,3 +49,4 @@ Descriptive geographic mapping of the 42 included studies (Results, RQ1, Figure 
 - [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — reports the opposite
 - [Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America](genai-children-creativity-research-geographic-concentration.md) — related
 - [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
+- [Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings](ai-vet-research-asia-clustered-no-workplace-settings.md) — related

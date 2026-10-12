@@ -76,3 +76,4 @@ Tool-type coding across the 73 studies identifies five categories; "generative A
 - [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](ai-directly-enhances-efl-wtc.md) — related
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — a broader claim this one bears on
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — a broader claim this one bears on
+- [Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings](ai-vet-research-asia-clustered-no-workplace-settings.md) — related

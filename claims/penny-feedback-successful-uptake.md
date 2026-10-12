@@ -50,3 +50,4 @@ Coded behavioural analysis of 63,328 events from the same 119-learner log datase
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
+- [Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks](customized-agents-higher-feedback-accuracy-specificity.md) — related

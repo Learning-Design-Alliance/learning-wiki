@@ -49,6 +49,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
+- [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
 
 ## Examples
 -

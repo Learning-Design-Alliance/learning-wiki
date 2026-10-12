@@ -43,6 +43,7 @@ The article recommends that the educational value of future AI assistants lies i
 ## Related Strategies
 
 - [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
+- [Design AI coaching systems to preserve user agency, recognize vulnerability, and stop sycophantic encouragement during maladaptive thought processes](ai-coach-safeguard-design-recommendations.md)
 
 ## Examples
 -

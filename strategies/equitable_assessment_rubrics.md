@@ -62,6 +62,7 @@ Well-designed rubrics make evaluation criteria transparent before students begin
 - Single-point rubrics — a streamlined variant that reduces ceiling-anchoring
 - Peer assessment with rubrics — extends the formative use beyond the instructor
 - [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
+- [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 
 ## Examples
 - Elementary (grades 3–5) writing rubrics aligned to grade-level standards, shared at assignment launch and used for peer review before drafting ends

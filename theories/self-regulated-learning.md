@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 17 studies (7 associational, 5 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 12 claims rest on one study
+> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 20 studies (8 associational, 6 causal, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 6 of 20 report an effect size · 15 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -67,6 +67,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](../claims/genai-srl-dimensions-correlate-perceived-writing-gains.md) [~M] — attached 2026-10-11 from Xiaoqi Wang et al. (2026), which proposed "GenAI-SRL framework: six interacting regulatory dimensions for GenAI-mediated L2 writing".
 - [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](../claims/teacher-self-regulated-reflection-with-ai.md) [+W] — attached 2026-10-11 from Hochberg N et al. (2026), which proposed "Dual-layer relationship: teacher reflective regulation and critical AI literacy mediate learner-facing agency and capability design".
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](../claims/request-dominance-monitoring-evaluate-absent.md) [-W] — attached 2026-10-11 from Rania Abdelghani et al. (2026), which proposed "Turn-level coding framework combining SRL, help-seeking, and mathematical modeling codes with LLM-specific constructs of epistemic vigilance and agency over the AI".
+- [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation](../claims/socratic-feedback-comprehension-monitoring-task-orientation.md) [~M] — attached 2026-10-12 from Han Xue et al. (2026), which proposed "Multidimensional framework for examining AI-generated feedback in self-directed learning".
+- [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](../claims/genai-qualitative-shift-requires-meta-level-interventions.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "AI-interaction literacy: the capacity to steer, evaluate, and learn from iterative GenAI interaction".
+- [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](../claims/dual-mediation-ai-efficacy-srl-opposite-patterns.md) [~W] — attached 2026-10-12 from Liu Xu et al. (2026), which proposed "Dual-drive dual-mediation model of AI support and pre-service teachers' innovative competence".
 
 ## Related Theories
 
@@ -87,6 +90,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Immediate Feedback](../principles/immediate-feedback.md)
 - [Self-Regulation Questionnaire (SRQ)](../elements/self-regulation-questionnaire.md) — a scored instrument built directly on the Miller & Brown seven-step model described above
 - [Place GenAI entry after the learner's initial task attempt rather than before it](../strategies/genai-entry-after-attempt-in-srl-cycle.md)
+- [Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes](../strategies/measure-process-and-delayed-outcomes-ai-learning-research.md)
+- [Teacher supports for self-regulated GenAI feedback engagement](../strategies/teacher-supports-self-regulated-genai-feedback.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

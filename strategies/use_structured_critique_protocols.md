@@ -61,9 +61,11 @@ Structure converts critique from opinion exchange into criterion-referenced anal
 6. Debrief the critique itself — which comments were most useful and why — to build evaluative skill over time ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
+
 - [Peer Review / Peer Feedback strategies](../elements/peer-feedback.md) — structured critique is the protocol layer over peer feedback
 - [Use Rubrics and Exemplars](../strategies/use-rubrics-and-exemplars.md) — supplies the criteria that make critique criterion-referenced
 - [Revision and Iteration cycles](../strategies/revision-cycles.md) — the follow-on step that makes critique formative
+- [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](scaffolded-llm-argumentation-assignment-cycle.md)
 
 ## Examples
 - **High Tech High (San Diego)** — project-based schools use gallery walks and critique protocols ("kind, specific, helpful") with multiple draft cycles before public exhibition of student work ([https://www.hightechhigh.org](https://www.hightechhigh.org)).

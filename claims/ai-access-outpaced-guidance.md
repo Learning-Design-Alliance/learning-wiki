@@ -77,3 +77,5 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — related
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
+- [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related
+- [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — possibly the same claim (merge candidate)

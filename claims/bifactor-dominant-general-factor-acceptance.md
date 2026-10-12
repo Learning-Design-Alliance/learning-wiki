@@ -50,3 +50,4 @@ Bifactor CFA on the full sample (N = 401) with ML estimation. The article report
 - [A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons](competing-model-comparisons-bifactor-favored.md) — possibly the same claim (merge candidate)
 - [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related
 - [The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency](five-factor-measurement-fit-and-replication.md) — reports the opposite
+- [The Autonomy factor emerges as dominant in EFA, with an eigenvalue of 11.458 explaining 38.194% of variance](tails-autonomy-dominant-factor.md) — related

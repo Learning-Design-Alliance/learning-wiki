@@ -51,3 +51,5 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related
 - [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related
 - [The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation](entanglement-distribution-reflects-institutional-accommodation.md) — related
+- [AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis](aied-2024-educators-prominent-stakeholders.md) — related
+- [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

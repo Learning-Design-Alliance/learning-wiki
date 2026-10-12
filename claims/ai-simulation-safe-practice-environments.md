@@ -1,0 +1,51 @@
+---
+type: claim
+title: Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap
+description: Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap
+id: ai-simulation-safe-practice-environments
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: jiang-hongzhan-2026
+    resource: "https://doi.org/10.2196/95167"
+    title: "Jiang Hongzhan, Wang Ziyan, Shen Wanting, Meng Meiqi, Yang Dan, Li Xuejing, Hao Yufang. (2026). AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review. Journal of Medical Internet Research. https://doi.org/10.2196/95167"
+    author: Jiang Hongzhan, Wang Ziyan, Shen Wanting, Meng Meiqi, Yang Dan, Li Xuejing, Hao Yufang
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
+---
+
+# Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+
+## Subclaims
+`q2 i?` Qualitative findings across 11 studies show learners valued safe, repeatable, low-pressure practice environments and reported enhanced confidence and reduced anxiety. [→ Jiang Hongzhan 2026](#jiang-hongzhan-2026)
+
+## Evidence
+
+### Jiang Hongzhan 2026
+
+Jiang Hongzhan, Wang Ziyan, Shen Wanting, Meng Meiqi, Yang Dan, Li Xuejing, Hao Yufang. (2026). AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review. Journal of Medical Internet Research. https://doi.org/10.2196/95167
+
+`q2 · i?` · `review · r3`
+
+Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud protocols, debriefing questions, open-ended feedback) identified pedagogical benefits including "enhanced confidence and reduced anxiety" and safe, repeatable, low-pressure practice environments.
+
+> "Pedagogical benefits included enhanced confidence and reduced anxiety [45525355], improved communication skills and clinical reasoning [4750525455], and provision of safe, repeatable, low-pressure practice environments [4552-54undefinedundefined]."
+
+## Discussion
+
+
+## Related Claims
+- [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — possibly the same claim (merge candidate)
+- [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
+- [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](ai-enables-authentic-contextualized-science-experiences.md) — related
+- [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
+- [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related

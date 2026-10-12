@@ -45,6 +45,7 @@ The article positions RACES as "an auxiliary scoring framework rather than a rep
 - [Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators](automated-reflection-preliminary-feedback-educator-final.md)
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts](supervised-llm-support-preliminary-legal-drafting.md)
+- [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 
 ## Examples
 -

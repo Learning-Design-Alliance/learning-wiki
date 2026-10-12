@@ -51,3 +51,5 @@ Cross-site finding from focus groups, surveys, and School C observations; the in
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — related
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
+- [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](ai-feedback-progress-motivates-revision.md) — related
+- [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — possibly the same claim (merge candidate)

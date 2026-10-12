@@ -44,3 +44,4 @@ Frequency-based co-occurrence analysis of the ten AILEs across the 39 reviewed s
 
 ## Related Claims
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
+- [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related

@@ -48,3 +48,4 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — a broader claim this one bears on
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related

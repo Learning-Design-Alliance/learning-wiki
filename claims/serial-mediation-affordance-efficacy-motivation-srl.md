@@ -59,3 +59,5 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
+- [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — related

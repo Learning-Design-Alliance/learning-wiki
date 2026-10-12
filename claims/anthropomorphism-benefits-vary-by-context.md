@@ -52,3 +52,4 @@ The review reports, citing Roesler et al. (2021), a meta-analysis finding anthro
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — reports the opposite
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related
 - [The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust](marginal-robot-task-interaction-trust.md) — a narrower finding that bears on this claim
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

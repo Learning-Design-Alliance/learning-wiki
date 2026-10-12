@@ -59,9 +59,11 @@ Self talk logging converts private, fleeting cognition into an inspectable artif
 5. Close the loop with [Check-ins](../elements/check-in.md) or instructor feedback on log entries, and use entries as [Assessment for Learning](../principles/assessment-for-learning.md) data to adjust instruction.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the oral, transient counterpart; logging adds persistence and reviewability
 - [Reflective Journals](reflective-journals.md) — broader reflective writing; self talk logging is narrower and more process-focused
 - [Goal Setting](../elements/goal-setting.md) — logged plans and self-instructions anchor goal-directed behavior
+- [Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement](think-aloud-moderator-guide-ai-refinement.md)
 
 ## Examples
 - **Meichenbaum's self-instructional training** — children first observe an adult verbalize task self-talk, then perform while speaking aloud, then whisper, then log internal speech; the logged private speech becomes the material for self-instruction.

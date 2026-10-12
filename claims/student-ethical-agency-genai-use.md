@@ -78,3 +78,6 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — related
+- [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
+- [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](eight-perceived-genai-roles-low-achievement.md) — related
+- [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related

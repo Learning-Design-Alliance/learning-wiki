@@ -58,9 +58,11 @@ Steelmanning leverages the finding that argumentation improves reasoning and con
 5. Debrief: what did the steelman change about the learner's original position, if anything?
 
 ## Related Strategies
+
 - [Debate](debate.md) — steelmanning is the preparation discipline that separates high-quality debate from slogan exchange
 - [Case Studies](../elements/case-studies.md) — multi-stakeholder cases provide natural material for steelman reconstruction
 - [Peer Review](../elements/peer-review.md) — restating an author's argument before critiquing it is steelmanning applied to feedback
+- [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](scenario-construct-critique-reframe-arguments.md)
 
 ## Examples
 - **Structured Academic Controversy** (Johnson & Johnson, University of Minnesota): students argue one side, switch sides and argue the other from assigned materials, then drop roles and synthesize — the side-switch is a formal steelman.

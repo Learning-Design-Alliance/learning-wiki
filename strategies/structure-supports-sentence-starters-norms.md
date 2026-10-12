@@ -37,7 +37,9 @@ The primer advises that teachers "must provide structure and support to promote 
 - Navigating social, cognitive, and emotional challenges of collaboration
 
 ## Related Strategies
+
 - [Minimal Teacher Moves Prompting Questions](minimal-teacher-moves-prompting-questions.md)
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](pre-action-review-and-sentence-starters-for-cobi.md)
 
 ## Examples
 -

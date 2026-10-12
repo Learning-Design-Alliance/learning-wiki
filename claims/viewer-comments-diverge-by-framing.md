@@ -50,3 +50,4 @@ Qualitative thematic analysis of 936 comments from 28 videos (nG1=56, nG2=306, n
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related

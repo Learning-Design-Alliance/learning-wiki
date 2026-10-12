@@ -68,3 +68,4 @@ Experiment 1 agreement analysis (Table 4): 9-ChatGPT agreement on the ChatGPT-ge
 - [AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency](ai-consistency-high-except-spelling-languagetool-replacement.md) — related
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
+- [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related

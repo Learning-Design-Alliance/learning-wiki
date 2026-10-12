@@ -50,6 +50,7 @@ Based on the model's findings, the authors recommend a set of institutional acti
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Institutions should adopt equity-informed GenAI policies, require AI-use disclosure, and educate reviewers on World Englishes variation](equity-informed-genai-policies-and-reviewer-education.md)
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
+- [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
 
 ## Examples
 -

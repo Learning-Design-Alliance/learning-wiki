@@ -45,3 +45,4 @@ Multigroup confirmatory models tested configural, metric, and scalar invariance 
 ## Related Claims
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — related
 - [The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels](genai-srl-measurement-invariance-gender.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related

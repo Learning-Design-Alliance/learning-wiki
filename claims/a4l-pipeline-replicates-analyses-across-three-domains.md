@@ -45,3 +45,4 @@ Replication demonstration reported in the Results section: payloads for the Jill
 ## Related Claims
 - [The pipeline's contingency table option applied identically across all three domains reproduced previous descriptive findings](a4l-contingency-table-option-matches-prior-findings-all-domains.md) — a narrower finding that bears on this claim
 - [Statistical power analysis for Welch's t-test originally developed for the VERA domain was extended to the SAMI domain through configuration alone](a4l-pipeline-extends-power-analysis-vera-to-sami.md) — a narrower finding that bears on this claim
+- [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — related

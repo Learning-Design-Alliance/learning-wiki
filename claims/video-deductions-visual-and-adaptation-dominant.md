@@ -63,3 +63,4 @@ Count-based factual-error metrics recorded separately from severity-scored dimen
 ## Related Claims
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — reports the opposite
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](bespoke-free-text-voice-reveal-layout-issues.md) — related
+- [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related

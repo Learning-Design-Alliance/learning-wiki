@@ -43,4 +43,4 @@ Survey comparison of two belief-based items between platform users (n = 19) and 
 
 
 ## Related Claims
--
+- [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related

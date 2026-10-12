@@ -70,3 +70,5 @@ From the same interview study, the article reports selective uptake of feedback:
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — a broader claim this one bears on
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
+- [Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance](explanatory-feedback-moderates-only-fairness-path.md) — related
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related

@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 9 studies (3 associational, 2 review, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 2 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 10 studies (4 associational, 2 review, 2 theoretical, 1 causal, 1 qualitative), `q2`–`q3` · 2 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -66,6 +66,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](../claims/competence-predicts-autonomous-motivation-not-autonomy-support.md) [~W] — attached 2026-10-11 from Ahmed A et al. (2026), which proposed "Integrated SDT–EVT–TAM framework for student engagement in GenAI-supported learning".
 - [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](../claims/three-sdt-motivational-profiles-ai-learning.md) [+W] — attached 2026-10-11 from Liang et al. (2026), which proposed "SDT-based five-indicator operationalization of AI learning motivation".
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](../claims/sdt-needs-positive-learning-motivation-agentic-ai.md) [+W] — attached 2026-10-11 from Dhanya Pramod et al. (2026), which proposed "Integrated GDCT–SDT–SPT framework for agentic AI-supported online learning"; tests this page's relationship.
+- [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](../claims/need-satisfaction-strongly-associated-learning-engagement.md) [+W] — attached 2026-10-12 from He Qian et al. (2026), which proposed "Self-determination theory as a framework linking GAI use, psychological need satisfaction, and learning engagement"; tests this page's relationship.
+- [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](../claims/comprehensive-need-satisfaction-configuration-principal.md) [+W] — attached 2026-10-12 from He Qian et al. (2026), which proposed "Self-determination theory as a framework linking GAI use, psychological need satisfaction, and learning engagement"; tests this page's relationship.
 
 ## Related Theories
 
