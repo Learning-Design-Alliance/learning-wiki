@@ -47,3 +47,5 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — a broader claim this one bears on
+- [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](synthesizer-expected-reduce-overload-support-affect.md) — related
+- [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related

@@ -58,6 +58,9 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Use the taxonomy as a self-assessment and strategic-planning roadmap for institutional AI adoption](taxonomy-as-ai-self-assessment-roadmap.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
+- [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
+- [Institutional safeguards for safe, transparent AI use in assessment](institutional-ai-safeguards-assessment.md)
+- [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 
 ## Examples
 -

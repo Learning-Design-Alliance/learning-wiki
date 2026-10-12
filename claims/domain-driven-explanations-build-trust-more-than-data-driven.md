@@ -46,3 +46,4 @@ Qualitative think-aloud analysis (11 teachers; insights reported only when obser
 - [Domain-driven explanations significantly increase teachers' understandability, trust, and acceptance compared to data-driven explanations](domain-driven-explanations-increase-understandability-trust-acceptance.md) — related
 - [Understandability alone is insufficient to establish trust for some teachers, who require real classroom experience](understandability-insufficient-trust-needs-classroom-experience.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related
+- [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — related

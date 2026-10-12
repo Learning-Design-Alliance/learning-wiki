@@ -47,3 +47,4 @@ Thematic synthesis of 34 review articles (RQ1) reporting the percentage of revie
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
 - [CAI-in-education review literature is concentrated in higher education and in language, health, and general education domains](cai-review-literature-higher-education-concentration.md) — related
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
+- [Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common](ai-motivation-studies-pedagogy-rarely-specified.md) — related

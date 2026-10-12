@@ -272,10 +272,11 @@ def _fetch_copy(url: str) -> str:
     so a PMC URL goes through the PMC open-access dataset instead; a figshare page is
     rendered by JavaScript, so its file comes from figshare's public API."""
     import re as _re
-    m = _re.search(r"pmc\.ncbi\.nlm\.nih\.gov/(?:articles/)?(PMC\d+)", url) or \
-        _re.search(r"ncbi\.nlm\.nih\.gov/pmc/articles/(PMC\d+)", url)
-    if m:
-        return _fetch_pmc_via_aws({"id": m.group(1), "pmcid": m.group(1)})
+    m = _re.search(r"pmc\.ncbi\.nlm\.nih\.gov/(?:articles/)?(?:PMC)?(\d+)", url) or \
+        _re.search(r"ncbi\.nlm\.nih\.gov/pmc/articles/(?:PMC)?(\d+)", url)
+    if m:   # PMC links are written with and without the "PMC" prefix
+        pmcid = "PMC" + m.group(1)
+        return _fetch_pmc_via_aws({"id": pmcid, "pmcid": pmcid})
     m = _re.search(r"figshare\.com/articles/(?:[^/]+/)*?(\d{6,})(?:/|$)", url)
     if m:
         files = _get(f"https://api.figshare.com/v2/articles/{m.group(1)}").json().get("files") or []

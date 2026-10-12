@@ -111,3 +111,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim
+- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](rl-adaptive-system-grade-engagement-gains.md) — a narrower finding that bears on this claim

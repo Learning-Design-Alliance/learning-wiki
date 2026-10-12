@@ -70,6 +70,8 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Involve HSE communities in design and refine technologies based on their feedback](involve-hse-communities-design-process.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
+- [Mitigation strategies pairing each AI-DSS challenge with a targeted countermeasure](ai-dss-challenge-mitigation-strategies.md)
+- [Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload](fair-feasible-ai-assessment-design-strategies.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

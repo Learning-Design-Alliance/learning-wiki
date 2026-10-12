@@ -71,3 +71,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](three-instructor-user-groups-ethics-distinction.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
+- [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related

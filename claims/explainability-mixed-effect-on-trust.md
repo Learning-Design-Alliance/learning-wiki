@@ -71,3 +71,4 @@ The review attributes countervailing findings to the same cited studies: explana
 - [Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes](instructors-lack-confidence-investigating-ai-use.md) — related
 - [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](calibration-gap-configuration-dependent.md) — related
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md) — related
+- [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — related

@@ -46,3 +46,4 @@ Random-effects meta-analysis (REML) pooling 16 effect size estimates from 14 stu
 ## Related Claims
 - [GenAI assistance shows no statistically significant pooled effect on programming learning outcomes (g = 0.14, 95% CI (-0.18, 0.47)), with substantial heterogeneity.](genai-assistance-no-significant-learning-outcome-effect.md) — related
 - [Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant.](study-setting-moderates-genai-productivity-gains.md) — related
+- [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related

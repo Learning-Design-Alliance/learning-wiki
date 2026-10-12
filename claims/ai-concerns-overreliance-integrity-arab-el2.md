@@ -70,3 +70,4 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — a narrower finding that bears on this claim
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
+- [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related

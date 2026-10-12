@@ -88,3 +88,5 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
 - [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](cobi-privacy-and-performance-monitoring-concerns.md) — related
 - [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
+- [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related

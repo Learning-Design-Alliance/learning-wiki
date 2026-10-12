@@ -43,4 +43,4 @@ Exploratory Kruskal–Wallis test of the distractor distribution index across Ch
 
 
 ## Related Claims
--
+- [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related

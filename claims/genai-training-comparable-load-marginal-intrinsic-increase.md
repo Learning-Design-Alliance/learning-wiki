@@ -45,3 +45,4 @@ Cognitive load measured with Klepsch et al.'s 8-item instrument after the collab
 ## Related Claims
 - [SRL skills and prior knowledge predict revision performance, while SRL predicts higher and prior knowledge lower cognitive load](learner-characteristics-predict-ai-collaboration-outcomes.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — possibly the same claim (merge candidate)
+- [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related

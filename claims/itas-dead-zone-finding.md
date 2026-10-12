@@ -64,3 +64,4 @@ Instructor action following the dead zone finding in the same pilot. The article
 ## Related Claims
 - [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
+- [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related

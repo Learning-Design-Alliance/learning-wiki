@@ -113,3 +113,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — reports the opposite
 - [In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance](simulation-ai-assisted-students-score-increase.md) — a narrower finding that bears on this claim
+- [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related

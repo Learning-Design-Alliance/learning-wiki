@@ -69,3 +69,4 @@ Same SEM of the 206-student survey. "higher baseline personal agency was associa
 - [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](baseline-motivation-outweighs-demographics-ai-benefits.md) — a narrower finding that bears on this claim
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](inattention-moderates-ai-benefit-associations.md) — related
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
+- [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related

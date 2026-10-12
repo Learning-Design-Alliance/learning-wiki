@@ -66,3 +66,4 @@ The article's interpretation of the education-related highly cited studies (e.g.
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [The most-cited publications on AI ethics in medical education center on explainable AI and ChatGPT's capability, led by Tjoa and Guan's survey (1,475 citations)](most-cited-works-capability-testing-not-governance.md) — related
+- [A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status](healthcare-algorithm-bias-black-patients.md) — related

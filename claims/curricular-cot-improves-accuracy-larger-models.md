@@ -84,3 +84,4 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
 - [Self-refinement gains depend on model strength and on behavior-prediction quality](self-refinement-gains-depend-on-model-and-prediction-quality.md) — a broader claim this one bears on
 - [The two targeted ablations produce small, partially counter-directional effects: removing the construct map does not materially change the composite score (p = 0.34 on equivalence)](varia-ablation-null-effects.md) — related
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related

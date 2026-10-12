@@ -46,3 +46,4 @@ Main-results analysis across dataset types: DSCraft contains hand-drawn renderin
 - [Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning](fine-tuning-improves-code-reasoning-alignment.md) — related
 - [Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts](fine-tuning-synthetic-data-improves-turtleai.md) — related
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](vlms-struggle-turtleai-real-world-tasks.md) — related
+- [The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues](astra-v2-generator-stricter-realism.md) — related

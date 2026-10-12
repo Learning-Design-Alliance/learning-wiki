@@ -46,3 +46,4 @@ Descriptive trend analysis of publication output in the review's corpus of 100 i
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
+- [Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015](publication-growth-metacognition-stem-after-2015.md) — related

@@ -20,7 +20,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 23 studies (8 causal, 8 quant-synthesis, 3 review, 3 qualitative, 1 design), `q1`–`q4` · 8 of 23 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 24 studies (8 causal, 8 quant-synthesis, 3 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 24 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -106,6 +106,7 @@ Do not rank authentic assessment against tests from these claims: none compares 
 Claims this page cited before the 2026-10-05 rewrite and not used above. Each keeps its old direction, capped by the claim's recorded evidence.
 
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with](../claims/checklist-evaluation-ineffective-online.md) [~M] — does not bear on this pattern. The earlier page cited it for "mechanical rubric application can substitute compliance for judgment", but the claim is about teaching students a checklist for judging websites in one library session (two quasi-experiments and a think-aloud study), not about rubrics used to assess performance. Kept for the record.
+- [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](../claims/authenticity-through-design-not-detection.md) [+W] — attached 2026-10-12 from Kickbusch et al. (2025), which proposed "AI-as-collaborator assessment patterns requiring critique, adaptation and verification of AI outputs".
 
 ## Illustrative design instance and observation record
 

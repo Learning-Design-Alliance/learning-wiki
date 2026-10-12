@@ -67,3 +67,4 @@ Same survey and mediation model; the article reports perceived risk negatively a
 - [Perceived risk mediates the relationship between perceived academic dishonesty and ChatGPT usage (indirect-only mediation)](perceived-risk-mediation-pad-chatgpt.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies](perception-polarisation-tau-negative-0819.md) — related
+- [AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect](ai-fear-differentiated-direct-indirect-pattern.md) — related

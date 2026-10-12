@@ -47,3 +47,4 @@ Authors' synthesis of the three themes through Source Credibility Theory. GROK w
 - [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — possibly the same claim (merge candidate)
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
+- [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](educator-feedback-trusted-more-than-ai-feedback.md) — related

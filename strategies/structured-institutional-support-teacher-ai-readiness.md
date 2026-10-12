@@ -42,6 +42,7 @@ The article recommends that educational institutions strengthen teacher confiden
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
 - [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
+- [Treat refusal diagnostically and provide non-AI pathways where AI use is not essential to the learning outcome](non-ai-pathways-and-diagnostic-refusal.md)
 
 ## Examples
 -

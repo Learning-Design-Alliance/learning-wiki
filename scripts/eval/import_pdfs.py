@@ -25,8 +25,9 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from scripts.eval import fetch_article as fa  # noqa: E402
 
-QUEUES = [ROOT / "eval/runs/queues/hub.ndjson", ROOT / "eval/runs/queues/aied.ndjson"]
 FAILED = ROOT / "eval/runs/queues/fetch-failed.ndjson"
+# Every queue file: the curated lists, the named syntheses, and any added later.
+QUEUES = sorted(q for q in (ROOT / "eval/runs/queues").glob("*.ndjson") if q != FAILED)
 DOI_RE = re.compile(r"\b(10\.\d{4,9}/[^\s\"<>]+)", re.I)
 
 

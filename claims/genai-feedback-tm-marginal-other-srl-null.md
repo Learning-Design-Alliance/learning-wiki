@@ -47,3 +47,4 @@ Same Mann–Whitney U analysis of standardised SRL proxy scores across the five 
 
 ## Related Claims
 - [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — related
+- [No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)](no-significant-satisfaction-feedback-interactions.md) — related

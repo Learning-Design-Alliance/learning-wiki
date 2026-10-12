@@ -17,7 +17,7 @@ sources:
 # Process Model of Self-Regulated Learning (Schmitz and Wiese)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The study is built on the process model of self-regulated learning by Schmitz and Wiese, an adaptation of Zimmerman's conception. "According to this model, learning is a process that can be divided into three phases: pre-action, action, and post-action." Phases recur cyclically across learning episodes through a feedback loop, and each phase needs different strategies; the web-based training devotes one lesson to each phase.
@@ -39,7 +39,9 @@ The study is built on the process model of self-regulated learning by Schmitz an
 - Self-regulated learning across daily learning episodes: goal setting, planning, strategy use, volition and reflection
 
 ### Claims
+
 - [Web Based Srl Training With Diary Raises Srl Knowledge And Self Efficacy Not Math](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [+M]
+- [Different forms of feedback within a single ALT play distinct, phase-specific roles in SRL, with directive feedback appearing helpful before but not after task engagement](../claims/phase-specific-roles-of-feedback-forms.md) [+W] — attached 2026-10-12 from Mathias Mejeh (2026), which proposed "Feedback as a phase-sensitive mechanism within SRL cycles".
 
 ## Related Theories
 - [Self Regulated Learning](self-regulated-learning.md)

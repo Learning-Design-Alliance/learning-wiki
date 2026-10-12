@@ -49,3 +49,4 @@ Mixed-methods comparison in which 30 first-year EAP students each submitted two 
 - [ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading](chatgpt-grading-within-10-percent-human.md) — related
 - [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — related
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
+- [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — related

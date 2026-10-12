@@ -92,6 +92,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed](educator-collaboration-sharing-genai-tool-insights.md)
 - [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
+- [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
+- [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 
 ## Examples
 -

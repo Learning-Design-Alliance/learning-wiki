@@ -61,8 +61,10 @@ Gamification works when game mechanics amplify the learning mechanics of practic
 7. Fade game scaffolds as competence grows, shifting motivation toward the task itself
 
 ## Related Strategies
+
 - [Spaced retrieval practice](spaced-retrieval-practice.md) — the underlying practice schedule gamification should serve
 - [Mastery-based progression](mastery-based-progression.md) — levels and unlocks are a gamified expression of mastery criteria
+- [Design guidelines for game-based and gamified robotics education: balance approaches across contexts, integrate hardware-software skills, and extend study horizons](robotics-gbl-gamification-design-guidelines.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — energy points, badges, and mastery levels layered onto practice exercises; progress mechanics reward accuracy over speed.

@@ -53,3 +53,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related

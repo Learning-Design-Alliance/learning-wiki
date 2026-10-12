@@ -78,3 +78,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
+- [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related

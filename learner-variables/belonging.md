@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (43 for, 6 mixed, 1 against) · 49 studies (13 review, 11 qualitative, 9 causal, 6 design, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 49 report an effect size · 46 claims rest on one study
+> **Evidence** · 51 claims (44 for, 6 mixed, 1 against) · 50 studies (13 review, 11 qualitative, 9 causal, 6 design, 5 associational, 5 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 47 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -83,6 +83,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](../claims/sdt-needs-positive-learning-motivation-agentic-ai.md) [+M] — learners who differ on it differ in outcomes
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](../claims/competence-strongest-predictor-relatedness-null.md) [-M] — learners who differ on it differ in outcomes
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](../claims/genai-team-interaction-safety-and-reduction.md) [~W] — instruction changes it
+- [When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial](../claims/anonymous-grading-weakens-connection-and-feedback-benefit.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

@@ -48,3 +48,4 @@ Content analysis of 24 empirical articles in the review's RQ1 disciplinary distr
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
 - [Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485](uneven-subject-distribution-485-answers.md) — related
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
+- [Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts](agentic-ai-research-concentrates-higher-education-cs.md) — related

@@ -62,3 +62,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
 - [Frequent GenAI use is associated with simultaneous confidence and efficiency gains and intensified technological dependence](genai-use-confidence-dependence-paradox.md) — related
+- [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related

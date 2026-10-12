@@ -57,3 +57,4 @@ Theoretical argument of the paper itself: across scientist, citizen, and student
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — a broader claim this one bears on
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — a narrower finding that bears on this claim
+- [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](ai-partnership-novel-theoretical-empirical-reflection.md) — related

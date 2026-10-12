@@ -55,3 +55,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
+- [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](continued-ai-conversations-linked-to-perceived-utility.md) — related

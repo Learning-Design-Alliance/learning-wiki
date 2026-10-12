@@ -55,3 +55,4 @@ Correlational analysis over both datasets (Section 4.2) motivating learning-gain
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
+- [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related

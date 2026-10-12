@@ -51,3 +51,4 @@ Grounded-coding finding from the Delphi panel: "Panelists strongly agreed that h
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
 - [Les citations bibliographiques produites par ChatGPT sont inexistantes ou incorrectes dans 23 % des cas, compromettant le circuit de validation scientifique](chatgpt-hallucinated-citations-23-percent.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim

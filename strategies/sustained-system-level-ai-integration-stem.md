@@ -42,6 +42,7 @@ The article recommends that institutions prioritize long-term integration of AI 
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
+- [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
 
 ## Examples
 -

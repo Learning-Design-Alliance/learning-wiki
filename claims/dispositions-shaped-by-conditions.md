@@ -61,3 +61,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — a narrower finding that bears on this claim
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — related
+- [Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity](normative-friction-equity-epistemic-integrity-interdependent.md) — related

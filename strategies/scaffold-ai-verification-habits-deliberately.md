@@ -43,6 +43,7 @@ Because increased AI use in this engineering mechanics cohort did not uniformly 
 - [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange](embed-habitual-ai-engagement-everyday-teaching.md)
 
 ## Examples
 -

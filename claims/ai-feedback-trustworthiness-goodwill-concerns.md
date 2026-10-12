@@ -52,3 +52,5 @@ Interview-based thematic analysis in the same 17-student case study. One partici
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related
+- [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
+- [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](educator-feedback-trusted-more-than-ai-feedback.md) — related

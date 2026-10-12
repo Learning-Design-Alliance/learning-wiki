@@ -48,3 +48,4 @@ Cross-case qualitative finding (RQ2-3) from documents, interviews, and cognitive
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — related
 - [RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure](rail-ed-integrative-failure-modes.md) — related
+- [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related

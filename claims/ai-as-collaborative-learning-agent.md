@@ -49,3 +49,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](students-critical-agentic-partners-with-ai-2030-scenarios.md) — related
+- [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related

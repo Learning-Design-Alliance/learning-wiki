@@ -26,7 +26,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 9 studies (3 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 4 claims rest on one study
 
 ## Description
 Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality. Their value is not novelty by itself. They are useful when they make otherwise inaccessible experiences visible, repeatable, safer, or more manipulable than the real setting would allow. Good simulations help learners coordinate knowledge, perception, and action under conditions that resemble authentic performance.
@@ -75,6 +75,7 @@ Simulations and immersive environments work when they let learners rehearse mean
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — simulations are stronger when facilitation targets the learner’s actual decision or performance breakdowns
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](../claims/simulation-near-transfer-robust-far-transfer-weak.md) [+W] — attached 2026-10-09 from Kelly McNeil et al. (2026), which proposed "Implementation grains for simulations: single lesson, multi-week unit, and schoolwide event, with larger doses producing deeper learning when well-supported"; tests this page's relationship.
+- [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](../claims/ai-enables-authentic-contextualized-science-experiences.md) [+W] — attached 2026-10-12 from Li (2025), which proposed "Complementary learning ecosystem combining virtual labs and simulations with generative AI assistants".
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

@@ -69,3 +69,4 @@ Comparison of how low construct clarity affected human versus LLM coders in the 
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - [Cross-model agreement on assertions is moderate (median 0.401) and higher among construct-derived than corpus-derived assertions](assertion-cross-model-agreement-moderate-median-0401.md) — related
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md) — related

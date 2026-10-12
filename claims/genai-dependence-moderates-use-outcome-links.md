@@ -62,3 +62,4 @@ Simple-slopes analysis at −1 SD, mean, and +1 SD of dependence (Figure 3). For
 - [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — related
 - [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — a narrower finding that bears on this claim
+- [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](transformative-feedback-attenuates-joy-regulation-link.md) — related

@@ -1,0 +1,69 @@
+---
+type: claim
+title: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
+description: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
+id: peer-feedback-soft-evaluative-judgement-statistics
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: xie-2025
+    resource: "https://doi.org/10.3390/bs15070884"
+    title: "Xie, X., Zhang, L. J., & Wilson, A. J. (2025). Comparing ChatGPT Feedback and Peer Feedback in Shaping Students' Evaluative Judgement of Statistical Analysis: A Case Study. Behavioral Sciences, 15(7), 884. https://doi.org/10.3390/bs15070884"
+    author: "Xie, X., Zhang, L. J., & Wilson, A. J."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
+  - id: xie-2025-2
+    resource: "https://doi.org/10.3390/bs15070884"
+    title: "Xie, X., Zhang, L. J., & Wilson, A. J. (2025). Comparing ChatGPT Feedback and Peer Feedback in Shaping Students' Evaluative Judgement of Statistical Analysis: A Case Study. Behavioral Sciences, 15(7), 884. https://doi.org/10.3390/bs15070884"
+    author: "Xie, X., Zhang, L. J., & Wilson, A. J."
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: "?"
+---
+
+# Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+
+## Subclaims
+`q2 i?` Peer feedback encouraged critical reflection, alternative explanations and co-regulated engagement in statistical analysis. [→ Xie 2025](#xie-2025)
+`q2 i?` Students limited their trust in peer feedback for final application because peers were beginners in statistics. [→ Xie 2025 (2)](#xie-2025-2)
+
+## Evidence
+
+### Xie 2025
+
+Xie, X., Zhang, L. J., & Wilson, A. J. (2025). Comparing ChatGPT Feedback and Peer Feedback in Shaping Students' Evaluative Judgement of Statistical Analysis: A Case Study. Behavioral Sciences, 15(7), 884. https://doi.org/10.3390/bs15070884
+
+`q2 · i?` · `qualitative · r2`
+
+Post-implementation survey response from Olivia, a peer feedback group participant in the case study, coded under encouraging critical reflection and in-depth understanding; peers "suggest alternative explanations" and highlight ambiguity.
+
+> "Peers can suggest alternative explanations, highlight areas of ambiguity, and recommend improvements in the presentation of findings"
+
+### Xie 2025 (2)
+
+Xie, X., Zhang, L. J., & Wilson, A. J. (2025). Comparing ChatGPT Feedback and Peer Feedback in Shaping Students' Evaluative Judgement of Statistical Analysis: A Case Study. Behavioral Sciences, 15(7), 884. https://doi.org/10.3390/bs15070884
+
+`q2 · i?` · `qualitative · r?`
+
+Interview response from Viki, a peer feedback participant, coded under limited contribution to rigorous statistical analysis; she reports peers are "all beginners in statistics".
+
+> "Most of the peers I know are also starting from scratch—we're all beginners in statistics, so I can't fully trust peer feedback when it comes to final application"
+
+## Discussion
+
+
+## Related Claims
+- [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — a broader claim this one bears on
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
+- [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) — related
+- [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — a broader claim this one bears on

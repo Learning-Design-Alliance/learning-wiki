@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (34 for, 5 mixed, 3 against) · 45 studies (15 causal, 8 quant-synthesis, 7 review, 6 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 45 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (35 for, 5 mixed, 3 against) · 46 studies (15 causal, 8 quant-synthesis, 8 review, 6 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 46 report an effect size · 39 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -75,6 +75,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](../claims/synchronous-suggestions-efficiency-and-distraction.md) [+M] — instruction changes it
 - [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](../claims/agentic-cursor-evokes-surveillance-and-eeriness.md) [+M] — instruction changes it
 - [Participant attention gravitated towards the agent embodying the intuitive-error hazard, exceeding the uniform baseline](../claims/attention-gravitates-to-legible-intuitive-error.md) [+M] — instruction changes it
+- [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](../claims/elaborate-feedback-raises-engagement-perceptions.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

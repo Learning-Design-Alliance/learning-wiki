@@ -84,3 +84,4 @@ Pairwise accuracy differences with 95% bootstrap confidence intervals in the bas
 - [After PET normalization, no statistically significant performance differences remain between user cohorts](pet-eliminates-significant-accessibility-disparities.md) — related
 - [Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort](pet-raises-accuracy-all-cohorts-largest-low-literacy-gain.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — related

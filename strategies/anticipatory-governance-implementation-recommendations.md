@@ -54,6 +54,7 @@ The review's practical recommendations translate its findings into implementable
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
+- [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 
 ## Examples
 -

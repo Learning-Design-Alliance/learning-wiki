@@ -98,3 +98,7 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
+- [AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI](ai-explanation-creation-expanded-not-novel-practices.md) — related
+- [Pilot students reported structural limitations of AI-SEE: AI-tool entry barriers, limited hands-on time, and partial disconnection between ethics instruction and routine engineering decisions](ai-see-reported-structural-limitations.md) — related
+- [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
+- [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — related

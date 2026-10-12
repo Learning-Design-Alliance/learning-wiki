@@ -50,3 +50,4 @@ Conceptual argument in Section 1.3, citing prior research on AI enhancing person
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%](ai-mostly-assistant-draft-generator-not-co-designer.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related
+- [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — related

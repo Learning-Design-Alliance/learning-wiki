@@ -45,6 +45,8 @@ The authors recommend training students on prompt engineering before deploying G
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Design teachable ChatGPT sessions with purposeful errors or lower-level models so learners practice error correction](purposeful-errors-lower-level-chatgpt-design.md)
 - [Integrate Gen-AI as a targeted instructional tool using medium-to-long-term (8–16 week) interventions, phased scaffolding, and guided prompts rather than direct answers](genai-targeted-integration-strategy.md)
+- [Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs](ai-chatbots-active-learning-biology.md)
+- [Introduce LLM tools at later stages of programming education, after students have acquired basic coding principles](introduce-llms-after-basic-coding-principles.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Robust mediation analysis tested whether the experimental condition (relative to
 - [Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone](teacher-training-improves-numeracy-gains-aied-u-no-additional.md) — related
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — related
+- [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related

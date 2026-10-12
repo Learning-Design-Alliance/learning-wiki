@@ -61,10 +61,12 @@ Problem-based scenarios leverage [Active Learning](../principles/active-learning
 6. **Debrief**: explicitly extract the target concepts from the story so learning outlives the make-believe frame; connect solutions back to the big ideas.
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — the same authentic-problem core without the narrative role-play frame; cases are typically past-tense, make-believe PBL is present-tense
 - [Simulation](../elements/simulation.md) — a more systematized version where the make-believe world has explicit rules and feedback loops
 - [Project-Based Learning](project-based-learning.md) — shares authentic products and sustained inquiry, but centers on creating an artifact rather than solving a posed problem
 - [Role-Play](role-play.md) — the enactment technique that supplies the make-believe frame
+- [Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships](real-context-action-tasks-engineering.md)
 
 ## Examples
 - **Problem-based medical education (McMaster, Maastricht)** — the canonical model: small groups diagnose simulated patients, identify learning needs, and research them between tutorials ([Hmelo-Silver, 2004](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)).

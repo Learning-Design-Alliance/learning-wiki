@@ -59,3 +59,4 @@ Kruskal–Wallis comparisons of the six report-level dimensions across the three
 
 ## Related Claims
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](llm-consolidated-report-cognitive-load-lowest.md) — related
+- [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related

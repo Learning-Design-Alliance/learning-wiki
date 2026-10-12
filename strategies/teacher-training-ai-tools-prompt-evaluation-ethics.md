@@ -54,6 +54,9 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Train teachers in effective AI chatbot interaction strategies before AI-assisted learning design](train-teachers-ai-interaction-strategies-learning-design.md)
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
+- [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
+- [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
+- [Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments](privacy-conscious-teacher-mediated-genai-feedback-workflow.md)
 
 ## Examples
 -

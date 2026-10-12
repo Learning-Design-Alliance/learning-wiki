@@ -58,3 +58,4 @@ Study 2 interviews with informal educators across six summer or after-school pro
 - [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
+- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](contextual-factors-increase-test-anxiety.md) — related

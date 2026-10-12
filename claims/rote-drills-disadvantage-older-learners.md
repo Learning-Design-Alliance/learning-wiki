@@ -46,3 +46,4 @@ In its classroom practices section, the digest states that oral drills and memor
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related

@@ -44,3 +44,4 @@ One-way ANOVA with latent profile classification as the independent variable. Me
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — a broader claim this one bears on
 - [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](profiles-differ-ai-anxiety-low-group-highest.md) — related
 - [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related
+- [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related

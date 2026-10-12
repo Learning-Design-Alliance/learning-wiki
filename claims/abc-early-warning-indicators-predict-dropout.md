@@ -52,3 +52,4 @@ The expert panel's synthesis statement in Recommendation 1, grounded in the pane
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — related
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
 - [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](ai-predictive-analytics-early-intervention.md) — related
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related

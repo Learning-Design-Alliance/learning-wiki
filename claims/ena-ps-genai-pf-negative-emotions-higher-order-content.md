@@ -47,3 +47,4 @@ Epistemic network analysis compared structural characteristics and variability o
 - [GenAI-supported peer feedback groups achieved higher structural complexity of argumentation artifacts than peer-feedback-only groups](genai-peer-feedback-raises-argument-structural-complexity.md) — related
 - [Academics and students experienced both positive and negative emotions in relation to GenAI.](genai-assessment-positive-negative-emotions.md) — related
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](feedback-focus-shift-across-tasks.md) — related
+- [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related

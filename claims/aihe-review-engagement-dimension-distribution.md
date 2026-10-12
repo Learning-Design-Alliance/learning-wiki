@@ -44,3 +44,4 @@ The review's own synthesis of its 73 included studies reports how often engageme
 
 ## Related Claims
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
+- [General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research](ai-motivation-studies-narrow-constructs.md) — related

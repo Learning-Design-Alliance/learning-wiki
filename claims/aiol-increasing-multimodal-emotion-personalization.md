@@ -49,3 +49,4 @@ Findings section of the BERTopic analysis of AIOL publications. The article repo
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
+- [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](ai-multimodal-monitoring-increases-engagement.md) — related

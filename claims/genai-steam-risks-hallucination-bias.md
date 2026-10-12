@@ -58,3 +58,4 @@ Narrative synthesis: the review attributes these failure modes to multiple cited
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — a narrower finding that bears on this claim
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — a narrower finding that bears on this claim
 - [GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated](genai-administrative-efficiency-with-accuracy-limits.md) — a narrower finding that bears on this claim
+- [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — a narrower finding that bears on this claim

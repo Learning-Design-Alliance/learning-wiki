@@ -65,3 +65,4 @@ Descriptive coding of educational level across the 39 studies. The review report
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
+- [Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025](agentic-ai-education-rapid-expansion-since-2025.md) — related

@@ -47,3 +47,4 @@ Single-group pre-post study of 22 postgraduate business students in a 90-minute 
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](post-test-decline-after-ai-tutor-session.md) — related
 - [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
+- [High school novices show large CT learning gains after using RoboBlockly Studio, improving Bebras performance from 1.28 to 2.88 of 4 tasks](roboblockly-studio-bebras-ct-gains.md) — related

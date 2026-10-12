@@ -54,3 +54,4 @@ Conceptual argument drawing the paper's firm distinction between consumers, who 
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — a broader claim this one bears on
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
+- [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — related

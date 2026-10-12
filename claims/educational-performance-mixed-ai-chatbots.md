@@ -47,3 +47,4 @@ Narrative synthesis of educational-performance studies: nursing students with an
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](health-behavior-change-short-term-promising.md) — related
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a narrower finding that bears on this claim

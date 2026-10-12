@@ -91,3 +91,5 @@ The article reports, citing Bastani et al. (2025), a randomized trial of nearly 
 - [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — a narrower finding that bears on this claim
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
 - [Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT](think-first-chatgpt-creativity-reversal.md) — related
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related

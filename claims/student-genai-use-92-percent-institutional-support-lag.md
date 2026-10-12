@@ -44,3 +44,4 @@ The article reports, citing a 2025 survey it references as [10], that 92% of stu
 
 ## Related Claims
 - [Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance](leaders-lack-ai-knowledge-districts-without-guidance.md) — related
+- [Student generative AI use is near-normalised in some jurisdictions while outright non-use remains low](student-ai-use-near-normalised-hepi-2025.md) — possibly the same claim (merge candidate)

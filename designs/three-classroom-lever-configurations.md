@@ -48,4 +48,4 @@ The paper presents three full configurations of all seven levers drawn from clas
 -
 
 ## Key Sources
-- Halani, A. (2026). Designing for Reach: Seven Levers and the Student Alone with AI. Tang Institute at Phillips Academy. https://www.tanginstitute.andover.edu
+- Halani, A. (2026). Designing for Reach: Seven Levers and the Student Alone with AI. Tang Institute at Phillips Academy. https://www.tanginstitute.andover.edu. [doi:10.35542/osf.io/t4cd2_v1](https://doi.org/10.35542/osf.io/t4cd2_v1)

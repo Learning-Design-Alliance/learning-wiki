@@ -50,3 +50,4 @@ Known-groups validity analysis via multinomial logistic regression in the main s
 - [Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology](reliance-type-predicts-writing-process-outcomes.md) — related
 - [AI literacy shows a small positive association with ethical scenario classification accuracy](ai-literacy-small-positive-association-ethical-judgment.md) — related
 - [Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario](glat-predicts-scenario-accuracy-binomial-model.md) — related
+- [Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students](skill-based-ai-literacy-positively-predicts-ai-dependency.md) — reports the opposite

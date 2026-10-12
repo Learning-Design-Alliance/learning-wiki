@@ -57,6 +57,7 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 - [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
+- [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
 
 ## Examples
 -

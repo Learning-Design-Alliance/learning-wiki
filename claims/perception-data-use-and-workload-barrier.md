@@ -66,3 +66,4 @@ From the same interview findings on structural challenges to teacher data use: t
 - [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
+- [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related

@@ -67,3 +67,4 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](students-want-teachers-supporting-as-learners.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — a narrower finding that bears on this claim
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
+- [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related

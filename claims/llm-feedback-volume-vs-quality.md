@@ -1,0 +1,49 @@
+---
+type: claim
+title: LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade
+description: LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade
+id: llm-feedback-volume-vs-quality
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: marcin-jukiewicz-and-michał-wyrwa-2026
+    resource: "https://doi.org/10.3390/app16020680"
+    title: "Marcin Jukiewicz and Michał Wyrwa. (2026). Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback. Appl. Sci. 2026, 16, 680. https://doi.org/10.3390/app16020680"
+    author: Marcin Jukiewicz and Michał Wyrwa
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
+---
+
+# LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3`
+
+## Subclaims
+`q2 i?` Regarding feedback quality specifically, GenAI was worse than humans 5 times, comparable 3 times, and better 3 times in the reviewed comparisons. [→ Marcin Jukiewicz and Michał Wyrwa 2026](#marcin-jukiewicz-and-micha-wyrwa-2026)
+
+## Evidence
+
+### Marcin Jukiewicz and Michał Wyrwa 2026
+
+Marcin Jukiewicz and Michał Wyrwa. (2026). Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback. Appl. Sci. 2026, 16, 680. https://doi.org/10.3390/app16020680
+
+`q3 · i?` · `review · r3`
+
+The review tallies feedback-quality comparisons separately from grading comparisons across the included studies. These are printed counts; no effect size is reported.
+
+> "Regarding just the feedback quality, GenAI was worse 5 times, comparable 3 times, and better than humans in 3 cases."
+
+## Discussion
+
+
+## Related Claims
+- [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
+- [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a broader claim this one bears on

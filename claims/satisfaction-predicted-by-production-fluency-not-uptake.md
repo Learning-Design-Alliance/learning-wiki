@@ -67,3 +67,4 @@ OLS regressions predicting post-satisfaction and attitude change from AI-dialogu
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](keystroke-patterns-suggest-cognitive-engagement.md) — related
+- [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](aida-hands-on-use-improves-attitudes.md) — a narrower finding that bears on this claim

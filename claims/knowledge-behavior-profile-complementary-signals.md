@@ -49,3 +49,4 @@ Profile-content ablation (Table 2) splitting the profile into knowledge sections
 - [Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories](qa-dialogue-histories-complementary-views.md) — related
 - [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](ablation-metadata-embeddings-largest-accuracy-drop.md) — related
 - [In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance](eduagent-ablation-contextual-memory-critical.md) — related
+- [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related

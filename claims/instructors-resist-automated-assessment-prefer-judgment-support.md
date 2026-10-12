@@ -67,3 +67,4 @@ In the discussion of focus group findings, the article reports that instructors 
 - [Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards](students-support-mmla-prefer-post-hoc-mobile-access.md) — related
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](instructors-part-of-the-solution-frameshift.md) — related
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md) — related

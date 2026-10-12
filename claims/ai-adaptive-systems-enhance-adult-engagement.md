@@ -63,3 +63,5 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — a narrower finding that bears on this claim
+- [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](ai-motivation-effects-mixed-evidence.md) — related
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related
