@@ -66,3 +66,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — reports the opposite
 - [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](nev-expertise-eases-task-completion.md) — related
+- [In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance](simulation-ai-assisted-students-score-increase.md) — related

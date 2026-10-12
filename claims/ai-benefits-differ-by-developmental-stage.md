@@ -1,0 +1,46 @@
+---
+type: claim
+title: "The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners"
+description: "The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners"
+id: ai-benefits-differ-by-developmental-stage
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: weak
+sources:
+  - id: emily-zohar-2026
+    resource: "https://doi.org/10.1038/s44271-026-00402-1"
+    title: "Emily Zohar, Paul Bloom & Michael Inzlicht. (2026). Against frictionless AI. Communications Psychology 4:39. https://doi.org/10.1038/s44271-026-00402-1"
+    author: "Emily Zohar, Paul Bloom & Michael Inzlicht"
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
+---
+
+# The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r3` · `q2`
+
+## Subclaims
+`q2 i?` Individuals in later life stages who have already developed skills to persevere through difficulty can benefit from AI as a supplement, while individuals in earlier developmental stages risk bypassing experiences that build those foundational skills. [→ Emily Zohar 2026](#emily-zohar-2026)
+
+## Evidence
+
+### Emily Zohar 2026
+
+Emily Zohar, Paul Bloom & Michael Inzlicht. (2026). Against frictionless AI. Communications Psychology 4:39. https://doi.org/10.1038/s44271-026-00402-1
+
+`q2 · i?` · `theoretical · r3`
+
+Theoretical argument in the comment's timing section. The authors argue that for people in later stages of life "AI f u n c t i o n sa sas u p p l e m e n tr a t h e rt h a nas u b s t i t u t e," while younger learners need to struggle, reason, and revise before benefiting from shortcuts. No new data are reported.
+
+> "For them, AI f u n c t i o n sa sas u p p l e m e n tr a t h e rt h a nas u b s t i t u t e .B yc o n t r a s t ,i n d i v i d u a l s in earlier developmental stages risk bypassing the very experiences that build these foundational skills."
+
+## Discussion
+
+
+## Related Claims
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — a broader claim this one bears on

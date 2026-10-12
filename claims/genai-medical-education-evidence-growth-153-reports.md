@@ -86,3 +86,4 @@ Design-family charting of included reports. The review cautions these labels des
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
 - [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related
+- [A student-staff partnership evaluated ChatGPT-generated output in response to diverse coursework assessments on an undergraduate medical sciences programme](partnership-evaluated-chatgpt-output-coursework-assessments.md) — related

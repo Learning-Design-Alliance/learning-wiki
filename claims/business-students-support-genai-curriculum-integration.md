@@ -45,3 +45,4 @@ Qualitative thematic analysis of open-ended responses from 166 undergraduate bus
 ## Related Claims
 - [Students identify exploring GenAI applications across contexts as a second priority area for curriculum development](genai-applications-across-contexts-priority.md) — a narrower finding that bears on this claim
 - [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — a narrower finding that bears on this claim
+- [A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors](genai-adoption-practices-benefits-challenges-17-cases.md) — related

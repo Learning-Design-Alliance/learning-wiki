@@ -44,6 +44,7 @@ The article's practical implication is that faculty development and AI integrati
 - [Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI](ai-literacy-up-and-stress-down-reduce-ai-dependence.md)
 - [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
+- [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 
 ## Examples
 -

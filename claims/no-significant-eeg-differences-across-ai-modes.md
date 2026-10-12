@@ -65,3 +65,4 @@ One-way repeated-measures ANOVA across the three AI modes for all six frequency 
 - [AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving](ai-interaction-mode-significantly-influences-observed-behavior.md) — related
 - [Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed](engagement-index-null-and-unconfirmed-carryover.md) — related
 - [Tutor mode elicits more stress-related behaviors than Collaborator and Solver modes, which do not differ from each other](tutor-mode-elicits-more-stress-behaviors.md) — related
+- [Brain-to-LLM participants showed higher neural connectivity than the LLM group's sessions 1-3, with a network-wide spike in alpha, beta, theta, and delta band directed connectivity](brain-to-llm-connectivity-spike-across-bands.md) — related

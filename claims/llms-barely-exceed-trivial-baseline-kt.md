@@ -1,0 +1,47 @@
+---
+type: claim
+title: Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points
+description: Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points
+id: llms-barely-exceed-trivial-baseline-kt
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: eamon-worden-2026
+    resource: "https://arxiv.org/abs/2602.00070"
+    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070"
+    author: Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` On question-level knowledge tracing over 500 sampled students, the best models (GPT-OSS-120B at 56.2%, Qwen3-Next-80B-Thinking at 55.8%) beat the 51.3% trivial baseline by only around five percentage points, while Llama-3.3-70B reached 52.3%. [→ Eamon Worden 2026](#eamon-worden-2026)
+
+## Evidence
+
+### Eamon Worden 2026
+
+Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070
+
+`q2 · i?` · `design · r2`
+
+Zero-shot LLM evaluation of four models on question-level binary correctness prediction (approximately 27,000 predictions per model, e.g. N 27,715), described in Section 6.1.1. The authors report that the models' gains over the 51.3% baseline were limited, quoting that they "reach 56.2% and 55.8%, respectively, beating the baseline by just around 5 percentage points".
+
+> "The best-performing models, GPT-OSS-120B and Qwen3-Next-80B-Thinking, reach 56.2% and 55.8%, respectively, beating the baseline by just around 5 percentage points."
+
+## Discussion
+
+
+## Related Claims
+- [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related
+- [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related

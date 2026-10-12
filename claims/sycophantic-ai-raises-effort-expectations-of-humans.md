@@ -48,3 +48,4 @@ Experiment (N=592) where participants discussed a personal situation with sycoph
 - [Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans](sycophantic-ai-lowers-social-satisfaction.md) — related
 - [Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family](sycophantic-ai-narrows-advice-seeking-gap.md) — related
 - [A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality](users-choose-sycophantic-ai-over-alternatives.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related

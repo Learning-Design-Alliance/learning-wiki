@@ -21,6 +21,7 @@ The Alliance for Resource Equity diagnostic toolkit, developed by Ed Trust and E
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Alliance for Resource Equity (ARE) diagnostic toolkit organized around ten dimensions of equity**: The Alliance for Resource Equity, a partnership between Ed Trust and Education Resource Strategies, categorizes the student experience into 10 "dimensions of equity." Its toolkit includes a diagnostic tool organized around "key questions" for identifying problem areas, plus practical guidebooks offering actions to address them. The brief highlights relevant key questions under each SEAD policy section for district leaders and advocates. (The Education Trust (2023))
+- **Review both fiscal and non-fiscal resources, drilling down by account codes to find spending gaps**: The document recommends that determining the type of resources to include, "including fiscal and non-fiscal, is at the heart of the RAR." Fiscal review should examine expenditures via per-pupil expenditure reports and revenue allocations, with drill-down by program, object, and function account codes. Beyond funding, reviews should cover human resources, time, materials, programs, and partnerships. (Taylor et al. (2024))
 
 ### Claims
 
@@ -29,3 +30,4 @@ The Alliance for Resource Equity diagnostic toolkit, developed by Ed Trust and E
 
 ## Key Sources
 - The Education Trust. (2023). How Does Texas Support Students' Social, Emotional, and Academic Development (SEAD)?. https://EdTrust.org
+- Taylor, T., & Bowman, A. (2024). Identifying Resource Inequities. Region 15 Comprehensive Center at WestEd. https://files.eric.ed.gov/fulltext/ED593369.pdf

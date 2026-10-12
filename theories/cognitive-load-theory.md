@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 22 studies (10 causal, 7 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 22 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 23 studies (10 causal, 7 quant-synthesis, 4 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 7 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -80,6 +80,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](../claims/ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) [+W] — attached 2026-10-11 from Nuhu et al. (2026), which proposed "Real-time AI feedback as digital scaffolds bridging feedback latency"; tests this page's relationship.
+- [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](../claims/arpg-plus-load-composition-shift-and-overload-reduction.md) [+W] — attached 2026-10-12 from Ye et al. (2026), which proposed "Operationalizing cognitive load theory and ZPD into real-time coaching signals"; tests this page's relationship.
 
 ## Related Theories
 

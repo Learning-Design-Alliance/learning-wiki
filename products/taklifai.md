@@ -20,6 +20,7 @@ Taklif.AI is an LLM-powered platform developed by Kurdya et al. for automaticall
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Six specialized role-assigned prompts sharing a four-part structure for assignment generation and guardrails**: Taklif.AI's prompt engineering pipeline assigns distinct LLM roles and tasks across six prompts (personalize-assignment, simplify-assignment, assignment-guardrails, interest-guardrails, output-guardrails, pdf-ocr). The article states: "We employ six specialized prompts, each assigned a distinct LLM role and task (Table 3). All prompts follow a consistent four-part structure": role definition, task specification, context and constraints, and output formatting. Zero-shot prompting is adopted to maximize generalizability, with prompts iteratively refined using LangSmith evaluation tools. (Zaki Kurdya et al. (2026))
 
 ### Claims
 

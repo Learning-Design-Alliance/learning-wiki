@@ -51,3 +51,4 @@ Behavioral distribution analysis of Qwen3-4B baseline versus SFT simulators acro
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — related
 - [Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records](more-past-records-improve-simulation-accuracy.md) — related
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related

@@ -66,3 +66,4 @@ SEM path analysis identifies satisfaction as "a critical mediating factor" with 
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [In Study 1, Penquiry V1 reduced physical demand and better maintained learning flow, and received higher TAM ratings, than a keyboard baseline](penquiry-v1-lower-physical-demand-higher-flow.md) — related
+- [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related

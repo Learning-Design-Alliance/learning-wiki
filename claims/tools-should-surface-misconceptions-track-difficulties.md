@@ -49,3 +49,4 @@ This is an authors' interpretation (type e) drawn from Theme 3 of the thematic a
 - [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
 - [Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving](intervention-timing-delayed-response-independent-solving.md) — related
 - [Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment](student-objection-visible-instructor-ai-delegation.md) — related
+- [Students have difficulty distinguishing between for loops and while loops](students-struggle-for-while-loop-distinction.md) — related

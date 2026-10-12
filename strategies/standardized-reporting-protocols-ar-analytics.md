@@ -39,7 +39,8 @@ The review recommends that future AR enhanced analytics research adopt standardi
 - strengthening the evidence base for AR analytics in supporting learning and student welfare
 
 ## Related Strategies
-- 
+
+- [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
 
 ## Examples
 -

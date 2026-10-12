@@ -42,6 +42,7 @@ The article recommends updating AI literacy frameworks so they "move beyond tool
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Formative friction: require goal statements, alternative comparison, and justification before high-stakes delegation, kept proportionate and accessible](formative-friction-proportionate-accessible.md)
+- [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 
 ## Examples
 -

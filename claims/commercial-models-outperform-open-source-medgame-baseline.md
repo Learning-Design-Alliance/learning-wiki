@@ -47,3 +47,4 @@ RQ1 benchmark evaluation of prompted baselines (2-shot for narrative generation,
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related
 - [In a pilot with eight medical students, multimodal MedGame was perceived as more engaging and useful than text-only MedGame and original case material](multimodal-medgame-higher-perceived-engagement-pilot.md) — related
 - [Related-case overlap between MedGame Bench train and test splits shows no significant performance difference](no-related-case-overlap-inflation-medgame-bench.md) — related
+- [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](sft-less-effective-than-prompting-for-feedback-generation.md) — related

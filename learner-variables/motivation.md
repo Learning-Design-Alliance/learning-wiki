@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (82 for, 23 mixed, 14 against) · 103 studies (30 associational, 28 causal, 18 review, 9 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 18 of 103 report an effect size · 112 claims rest on one study
+> **Evidence** · 125 claims (87 for, 24 mixed, 14 against) · 109 studies (33 associational, 28 causal, 20 review, 9 qualitative, 7 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 19 of 109 report an effect size · 118 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -153,6 +153,12 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant](../claims/procedural-justice-intrinsic-motivation-within-person.md) [~W] — instruction changes it
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](../claims/trust-intrinsic-motivation-rose-across-waves-invariance-held.md) [~M] — instruction changes it
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](../claims/within-person-fairness-mediates-trust-motivation.md) [+M] — instruction changes it
+- [Daily AI use duration shows a weak positive correlation with academic motivation among university students](../claims/daily-ai-use-weakly-positively-correlated-academic-motivation.md) [+W] — instruction changes it
+- [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](../claims/ai-enhances-motivation-gamified-features.md) [+M] — instruction changes it
+- [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](../claims/immediate-elaborated-feedback-improves-programming-learning.md) [+M] — instruction changes it
+- [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](../claims/ru-predicts-pse-and-engagement-pse-null.md) [+M] — instruction changes it
+- [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](../claims/teacher-support-direct-effect-engagement-ai.md) [+M] — instruction changes it
+- [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](../claims/effort-meaning-inverted-u-shape.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

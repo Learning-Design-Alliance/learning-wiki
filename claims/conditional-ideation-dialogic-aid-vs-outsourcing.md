@@ -53,3 +53,4 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — a narrower finding that bears on this claim
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related
+- [Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability](instructors-update-practices-to-retain-authority-accountability.md) — related

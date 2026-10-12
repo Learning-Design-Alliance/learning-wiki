@@ -48,3 +48,4 @@ Controlled scoring study of 642 OpenAlex abstracts and Gemini 3 Flash rewrites w
 - [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — related
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels](pangram-flagged-45-percent-real-theses.md) — related
+- [Simple paraphrasing and self-editing counter-measures collapse AI detection rates to near-random levels](paraphrasing-defeats-ai-detectors.md) — related

@@ -46,3 +46,4 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 - [Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories](prompted-simulators-artificially-high-pass-rates.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](valid-test-cases-not-fewer-submissions.md) — related
+- [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related

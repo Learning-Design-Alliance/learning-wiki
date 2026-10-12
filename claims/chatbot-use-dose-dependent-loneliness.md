@@ -44,3 +44,4 @@ The review attributes to Fang et al. (2025) a four-week randomised controlled tr
 
 ## Related Claims
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
+- [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) — reports the opposite

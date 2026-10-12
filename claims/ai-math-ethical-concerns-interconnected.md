@@ -77,3 +77,5 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
 - [Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims](humanizer-mystification-success-rate-claims.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
+- [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
+- [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related

@@ -44,3 +44,4 @@ Correlation analysis across ten evaluation dimensions over seven frontier models
 
 ## Related Claims
 - [Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge](skills-independent-of-knowledge-scores-llms.md) — related
+- [Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax](safety-quality-independence-academiclaw.md) — related

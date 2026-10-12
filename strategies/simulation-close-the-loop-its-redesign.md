@@ -43,7 +43,8 @@ Before classroom deployment, run simulations grounded in real student interactio
 - [Sim Task Selection Constraint Framework](../research-methods/simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con.md)
 
 ## Related Strategies
-- 
+
+- [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 
 ## Examples
 -

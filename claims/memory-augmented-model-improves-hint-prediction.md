@@ -45,3 +45,4 @@ Results section comparison on two log datasets (ASSISTments and Junyi). Table 3 
 ## Related Claims
 - [Adding hint-taking as an auxiliary task slightly improves knowledge tracing performance on both datasets](auxiliary-hint-task-improves-knowledge-tracing.md) — related
 - [Jointly modeling hint-taking with knowledge tracing adds a small consistent improvement to hint-taking prediction](joint-modeling-improves-hint-prediction-small-margin.md) — related
+- [Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions](context-length-no-effect-fkt.md) — related

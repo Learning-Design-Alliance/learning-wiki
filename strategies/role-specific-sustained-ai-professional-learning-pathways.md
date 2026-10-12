@@ -54,6 +54,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Reposition educational developers as active pedagogical collaborators in constructive alignment rather than technology implementers](educational-developers-as-pedagogical-collaborators.md)
 - [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
+- [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 
 ## Examples
 -

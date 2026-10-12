@@ -48,6 +48,7 @@ The article argues that because faculty and administrative staff use AI while al
 - [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
 - [Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose](graduated-ai-policy-by-course-level.md)
+- [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
 
 ## Examples
 -

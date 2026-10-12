@@ -44,6 +44,7 @@ The article recommends that LA scholars involve students, teachers, parents, and
 - [Provide in-depth privacy training and transparent communication about learning analytics processes to build user understanding and student trust](privacy-training-and-transparency-build-trust.md)
 - [Provide different levels of controllability to meet diverse stakeholder needs](provide-different-levels-of-controllability.md)
 - [Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves](dbir-ucd-privacy-preserving-lc-validation.md)
+- [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
 
 ## Examples
 -

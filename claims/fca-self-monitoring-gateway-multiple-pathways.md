@@ -67,3 +67,4 @@ Third key FCA finding, printed in the Formal Concept Analysis section. The latti
 - [Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers](216-scenarios-filtered-to-24-priority.md) — related
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources](monitoring-multiplicity-theoretical-gap.md) — related
+- [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related

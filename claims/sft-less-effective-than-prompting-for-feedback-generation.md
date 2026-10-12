@@ -1,0 +1,49 @@
+---
+type: claim
+title: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
+description: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
+id: sft-less-effective-than-prompting-for-feedback-generation
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: adnan-labib-2026
+    resource: "https://arxiv.org/abs/2607.14524"
+    title: "Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524"
+    author: Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` Among directly prompted models, Claude 3.7 generated more fine-grained, pedagogically necessary comments (628) than LLaMA-3.3-70B (336) or GPT-4o (368), whose averages were below 10 comments per essay. [→ Adnan Labib 2026](#adnan-labib-2026)
+
+## Evidence
+
+### Adnan Labib 2026
+
+Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524
+
+`q2 · i?` · `design · r2`
+
+Preliminary check of directly prompted models' micro feedback sufficiency on the 40 test essays; a qualitative review of three randomly selected essays confirmed Claude 3.7's additional comments were more fine-grained and pedagogically necessary, so validation focused on Claude 3.7.
+
+> "Of the 40 test essays, LLaMA-3.3-70B generated 336 comments and GPT-4o generated 368 comments, the averages of both were below 10. Claude 3.7, however, generated 628 comments."
+
+## Discussion
+
+
+## Related Claims
+- [Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation](sft-improves-proficiency-alignment-over-prompting.md) — reports the opposite
+- [LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance](llms-more-stable-cross-dataset-than-supervised.md) — reports the opposite
+- [Without fine-tuning, commercial frontier models outperform open-source LLMs on MedGame Bench structural validity and content metrics](commercial-models-outperform-open-source-medgame-baseline.md) — related
+- [Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments](wraft-micro-feedback-95-percent-necessary-effective.md) — related

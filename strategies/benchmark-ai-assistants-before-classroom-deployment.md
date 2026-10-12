@@ -43,6 +43,7 @@ Based on their finding that LLMs remain less consistent than experts and exhibit
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Disaggregate evaluation of educational AI by student error and proficiency before classroom deployment](disaggregate-edai-evaluation-by-student-error.md)
+- [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 
 ## Examples
 -

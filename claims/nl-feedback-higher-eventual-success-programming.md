@@ -45,3 +45,4 @@ Logistic regression at the student–problem level in an IRB-approved classroom 
 ## Related Claims
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [Failing test case feedback shows no significant association with eventual success](test-case-feedback-no-success-association.md) — related
+- [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related

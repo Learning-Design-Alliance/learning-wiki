@@ -69,3 +69,4 @@ Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.
 - [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
+- [Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves](three-adaptation-profiles-ai-japanese-learning.md) — related

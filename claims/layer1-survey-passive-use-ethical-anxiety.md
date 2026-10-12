@@ -49,3 +49,4 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 - [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](physics-student-ai-use-survey-findings.md) — related
 - [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related
 - [Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)](anticipatory-ai-guilt-exceeds-experienced-guilt.md) — related
+- [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related

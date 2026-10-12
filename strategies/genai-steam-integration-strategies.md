@@ -51,6 +51,7 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - [Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment](ai-lesson-plans-as-drafts-requiring-teacher-adaptation.md)
 - [Design composite STEAM tasks that jointly evidence technical fluency, ethical reasoning, collaborative practice and design iteration](composite-tasks-jointly-evidence-technical-ethical-collaborative-design.md)
 - [Teach prompting and AI literacy as epistemic practice with structured guidance](structured-prompting-ai-literacy-instruction.md)
+- [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 
 ## Examples
 -

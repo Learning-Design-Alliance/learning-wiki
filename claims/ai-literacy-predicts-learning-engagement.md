@@ -47,3 +47,4 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [AI literacy has a significant direct effect on academic performance among non-STEM students (β = .222, p = .001)](ai-literacy-direct-effect-academic-performance.md) — related
 - [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — related
+- [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related

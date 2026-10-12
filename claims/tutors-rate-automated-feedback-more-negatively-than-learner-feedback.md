@@ -48,3 +48,4 @@ Survey of 36 newly onboarded Ringle tutors (ages 18-32; M = 23.28, SD = 3.41) co
 - [Tutors' feedback uptake did not differ significantly between automated and learner feedback](feedback-uptake-no-significant-difference.md) — related
 - [Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution](learner-feedback-skewed-automated-fine-grained.md) — related
 - [Because learner feedback was positively skewed, tutors used automated feedback as a self-monitoring tool for improvement and reassurance](automated-feedback-self-monitoring-tool.md) — related
+- [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related

@@ -79,3 +79,4 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision](teacher-workshops-validate-app-evaluation-framework.md) — related
+- [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related

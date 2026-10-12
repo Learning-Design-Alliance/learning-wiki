@@ -44,3 +44,4 @@ Deception evaluation applying the Alignment Faking methodology with 100 samples 
 
 ## Related Claims
 - [Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR](lecturaagents-frontier-model-evaluation-aar.md) — related
+- [Frontier agents exhibit three distinct behavioral phenotypes—read-first, execute-first, and minimalist—differing in efficiency and safety](three-agent-behavioral-phenotypes-academiclaw.md) — related

@@ -49,3 +49,4 @@ Reported association from the survey-based SEM study of 300 staff. The article s
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
+- [A student-staff co-creation initiative explored generative AI technologies in the context of higher education assessments](co-creation-initiative-explored-generative-ai-assessments.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Psychometric calibration analysis in Section 3.1.1 (Table 1): alpha over all 80 
 ## Related Claims
 - [In a self-referential framework, LLMs, particularly GPT-4.1, tend to outperform a single operational human rater at identifying relative weaknesses (negative feedback) across several Language and Content aspects](llms-outperform-single-rater-negative-feedback.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [Coding achieved satisfactory inter-coder reliability and the model reached theoretical saturation](coding-reliability-saturation-genai-literacy-model.md) — related

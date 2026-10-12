@@ -51,3 +51,5 @@ Univariate ANCOVA on the seven-week posttest (parallel 14-item multiple-choice f
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — related
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
+- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related
+- [Educational YouTube videos about ChatGPT fall into three structurally distinct discourse groups: learning-oriented scaffolding (G1), skill-building retrieval practice (G2), and output/productivity orientation (G3)](three-chatgpt-youtube-discourse-groups.md) — related

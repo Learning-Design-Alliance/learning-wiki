@@ -76,3 +76,4 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — generative note-taking is one form of active engagement during lecture
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
+- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](handwritten-notes-higher-achievement-than-typing.md) — related

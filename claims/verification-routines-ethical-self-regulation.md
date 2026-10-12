@@ -68,3 +68,4 @@ Qualitative thematic analysis of the same reflections (Theme 4, metacognitive re
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — a broader claim this one bears on
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — related
+- [GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated](genai-administrative-efficiency-with-accuracy-limits.md) — related

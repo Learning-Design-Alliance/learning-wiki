@@ -43,6 +43,7 @@ The article recommends that institutional GenAI guidelines be broader than acade
 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
 
 ## Examples
 -

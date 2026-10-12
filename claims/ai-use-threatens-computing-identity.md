@@ -47,3 +47,4 @@ Results on shaping identity: in the interview study, "Students described feeling
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — related
+- [Approximately two-thirds of teacher education students chose not to adopt GenAI in assessments even when its use was allowed](two-thirds-students-declined-genai-when-allowed.md) — related

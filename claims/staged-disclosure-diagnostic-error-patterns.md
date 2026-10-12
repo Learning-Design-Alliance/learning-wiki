@@ -48,3 +48,5 @@ Manual inspection of randomly sampled trajectories illustrating five divergence 
 - [Feedback comprehension showed the strongest bivariate association with revision quality, and indirect associations through actionability and comprehension remained positive after adjustment](comprehension-strongest-link-revision-quality.md) — related
 - [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](staged-feedback-survey-perceptions.md) — related
 - [In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use](llm-agent-response-quality-evaluation.md) — related
+- [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
+- [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related

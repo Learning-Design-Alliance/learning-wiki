@@ -52,6 +52,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
 - [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning](cultivate-approach-goals-manage-ai-feedback-anxiety.md)
 
 ## Examples
 -
