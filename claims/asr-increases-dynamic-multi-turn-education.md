@@ -48,3 +48,4 @@ Evaluation of ten LLMs across three interaction settings in EduZone. Average ASR
 - [Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic](risk-category-dominates-educational-safety-variance.md) — related
 - [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
+- [Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models](boundary-compliance-drives-safety-divergence-academiclaw.md) — related

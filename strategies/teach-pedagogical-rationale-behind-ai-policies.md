@@ -42,6 +42,7 @@ The article recommends that AI policy and educational practice move beyond artic
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 
 ## Examples
 -

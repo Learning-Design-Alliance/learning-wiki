@@ -51,3 +51,4 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — a narrower finding that bears on this claim
 - [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
 - [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related
+- [AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots](ai-wtc-research-rapid-growth-asian-concentration.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Trustworthiness section of the qualitative study: two coders coded interview tra
 - [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
 - [Blinded dual evaluation of artworks reached almost perfect inter-rater agreement (kappa = 0.92)](inter-rater-kappa-092-art-scoring.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Coding achieved satisfactory inter-coder reliability and the model reached theoretical saturation](coding-reliability-saturation-genai-literacy-model.md) — related

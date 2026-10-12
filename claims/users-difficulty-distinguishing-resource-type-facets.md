@@ -65,3 +65,4 @@ From the recall analysis of the navigation exercise: "77% of the participants ha
 - [In task-based taxonomy navigation, the Topics and Document types facets achieved the highest precision and recall while the Research groups facet achieved 0%](topics-document-types-highest-precision-research-groups-zero.md) — related
 - [Users most often use the topic concept in navigation choices but frequently also use context and resource-type concepts](users-use-topic-concept-most-often-but-also-context-and-resource-type.md) — related
 - [Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists](some-users-prefer-people-contexts-institutions-over-subject-browsing.md) — related
+- [Students have difficulty distinguishing between for loops and while loops](students-struggle-for-while-loop-distinction.md) — related

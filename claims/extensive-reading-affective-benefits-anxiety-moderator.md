@@ -73,3 +73,4 @@ The review cites Mardianti et al. (2021) for the contrast: difficult texts with 
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — a narrower finding that bears on this claim
 - [Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels](leveled-articles-shared-topics-cohesion.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

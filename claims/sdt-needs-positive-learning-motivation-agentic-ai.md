@@ -54,3 +54,5 @@ Cross-sectional perception-based survey of 398 business-school students in India
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
+- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
+- [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related

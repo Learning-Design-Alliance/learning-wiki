@@ -43,6 +43,7 @@ For large courses, the article proposes a combined workflow in three stages: (1)
 
 - [Use joint AI processing of report sets to identify recurring difficulties and guide collective feedback and teaching priorities](ai-cross-report-pattern-identification-for-teaching.md)
 - [Mitigate extraction errors by requiring high-resolution PDFs, equation-editor equations, and legible graph axes, units, and legends](report-submission-practices-to-support-ai-evidence-retrieval.md)
+- [Use a hybrid AI-then-instructor grading workflow with immutable override history](hybrid-ai-instructor-grading-workflow.md)
 
 ## Examples
 -

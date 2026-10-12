@@ -48,3 +48,4 @@ Cross-sectional subgroup comparison by GenAI use duration (Figure 2c). The artic
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Chinese HSS students report near-consensus perceived learning-efficiency gains from GenAI, largely independent of use duration and discipline](genai-efficiency-gains-chinese-hss-students.md) — related
 - [Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines](genai-mixed-independent-thinking-creativity.md) — related
+- [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — reports the opposite

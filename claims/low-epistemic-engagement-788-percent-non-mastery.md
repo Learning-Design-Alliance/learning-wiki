@@ -65,3 +65,4 @@ Profile analysis of the ten most frequent binary-feature combinations in the stu
 - [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
 - [Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns](everyday-llm-use-engagement-prevalence.md) — related
+- [Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation](genai-engagement-spectrum-outsourcing-to-reallocation.md) — related

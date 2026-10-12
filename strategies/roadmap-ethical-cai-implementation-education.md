@@ -45,6 +45,7 @@ The review concludes by proposing a roadmap for ethical CAI implementation in ed
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 
 ## Examples
 -

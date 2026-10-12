@@ -50,3 +50,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
+- [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related

@@ -50,3 +50,4 @@ Causal model analyses of Kropp and Stoker's four taxonomy tests across 16 replic
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [The g-factor's relationship to the higher taxonomy levels declines across grade levels](g-factor-relationship-declines-with-grade-level.md) — related
 - [Evidence on remedial time across instructional units supports Bloom's claim that differences between fast and slow learners diminish under mastery learning](remedial-time-decreases-over-units.md) — related
+- [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related

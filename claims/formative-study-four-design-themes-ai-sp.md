@@ -47,3 +47,4 @@ Qualitative design study: 12 clinical-year medical students in Years 4–6 compl
 - [Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback](human-sp-practice-episodic-uneven-feedback.md) — related
 - [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
+- [Students and staff co-designed evaluation criteria, and resultant challenges were explored through dialogue, interview, and thematic analysis](co-designed-evaluation-criteria-challenges-thematic-analysis.md) — related

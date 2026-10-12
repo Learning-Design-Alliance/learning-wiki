@@ -61,6 +61,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Address equity, transparency, and teacher professional judgment when deploying AI-mediated collaboration](equity-transparency-teacher-judgment-ai-collaboration.md)
+- [Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools](ethical-safeguards-pedagogical-frameworks-genai-deployment.md)
 
 ## Related Principles
 - 

@@ -49,3 +49,4 @@ Qualitative visual analysis (Figures 6-9) of heat maps and line graphs of predic
 - [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — related
 - [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](student-context-personalization-improves-tutor-metrics.md) — related
 - [KT4EQG's education-value objective produces an adaptive KC-selection policy: weaker students are given better-mastered concepts and stronger students progressively more challenging ones](adaptive-kc-selection-policy.md) — related
+- [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly](llm-optimism-bias-knowledge-tracing.md) — related

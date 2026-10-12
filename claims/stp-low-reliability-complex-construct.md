@@ -55,3 +55,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary](learnopt-llm-tagging-kappa.md) — related
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
+- [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related

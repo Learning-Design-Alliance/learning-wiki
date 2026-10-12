@@ -47,3 +47,4 @@ The article reports, citing Cotton et al. (2023), Eke (2023), Elkhatat et al. (2
 - [Students cannot reliably distinguish AI-generated slides from human-created slides](students-cannot-identify-ai-slides.md) — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — a broader claim this one bears on
+- [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ Memorization and diversity analysis of SFT and GRPO generations, checking ROUGE-
 - [Data scarcity and long-form generation remain bottlenecks: on Prompt 8 prompting outperforms SFT and GRPO](data-scarcity-and-length-bottleneck-prompt-8.md) — related
 - [GRPO with the Proficiency Alignment Reward improves alignment over SFT across every writing trait and essay prompt](grpo-par-improves-alignment-across-all-traits.md) — related
 - [Zero-shot prompting collapses proficiency variation toward an idealized high-scoring student population, while SFT and GRPO match the human score and length distributions](prompting-collapses-proficiency-variation-toward-idealized-students.md) — related
+- [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md) — related

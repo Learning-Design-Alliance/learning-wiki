@@ -48,3 +48,4 @@ Classification accuracy analysis of the 40 human-written papers (ground truth = 
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — reports the opposite
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — reports the opposite
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
+- [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — reports the opposite

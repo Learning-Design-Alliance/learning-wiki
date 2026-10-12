@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (43 for, 5 mixed) · 47 studies (12 review, 11 qualitative, 8 causal, 6 design, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 47 report an effect size · 44 claims rest on one study
+> **Evidence** · 50 claims (43 for, 6 mixed, 1 against) · 49 studies (13 review, 11 qualitative, 9 causal, 6 design, 5 associational, 4 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 49 report an effect size · 46 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -81,6 +81,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](../claims/ampt-session-increased-math-belonging.md) [+M] — instruction changes it
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](../claims/ampt-interests-reflected-in-math.md) [+W] — instruction changes it
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](../claims/sdt-needs-positive-learning-motivation-agentic-ai.md) [+M] — learners who differ on it differ in outcomes
+- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](../claims/competence-strongest-predictor-relatedness-null.md) [-M] — learners who differ on it differ in outcomes
+- [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](../claims/genai-team-interaction-safety-and-reduction.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

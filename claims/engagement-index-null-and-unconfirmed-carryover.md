@@ -66,3 +66,4 @@ Exploratory comparison of Quiz A (independent solving first) versus Quiz B (with
 - [Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions](no-significant-eeg-differences-across-ai-modes.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
+- [Brain-to-LLM participants showed higher neural connectivity than the LLM group's sessions 1-3, with a network-wide spike in alpha, beta, theta, and delta band directed connectivity](brain-to-llm-connectivity-spike-across-bands.md) — related

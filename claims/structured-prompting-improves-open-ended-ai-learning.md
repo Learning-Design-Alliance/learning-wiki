@@ -53,3 +53,4 @@ Randomized controlled experiment with a final sample of 95 undergraduates (33 sl
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Training on AI interaction strategies does not further improve AI-assisted learning design quality](ai-interaction-training-no-added-design-quality-gain.md) — related
+- [ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners](arpg-plus-higher-prompt-quality-than-baselines.md) — related

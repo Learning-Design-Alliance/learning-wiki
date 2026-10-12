@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (35 for, 5 mixed, 1 against) · 28 studies (8 qualitative, 6 theoretical, 5 review, 4 causal, 4 design, 1 associational), `q1`–`q4` · 2 of 28 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (38 for, 5 mixed, 1 against) · 31 studies (9 qualitative, 7 theoretical, 5 causal, 5 review, 4 design, 1 associational), `q1`–`q4` · 2 of 31 report an effect size · 44 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -100,6 +100,9 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](../claims/ai-learning-partner-tutor-redefinition.md) [+W] — attached 2026-10-12 from Jennie Ren et al. (2026), which proposed "Reposition AI in programming education from a classroom-policy issue to a teachable component of pedagogy".
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](../claims/active-ai-engagement-depends-on-prior-knowledge.md) [~W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "Redesign assignments so learners critically engage with AI outputs rather than merely consume them"; tests this page's relationship.
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](../claims/ai-dialogic-partner-constructive-interactive-learning.md) [+W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "Redesign assignments so learners critically engage with AI outputs rather than merely consume them".
+- [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](../claims/genai-efficiency-paradox-passive-processes.md) [+M] — attached 2026-10-12 from Yan et al. (2026), which proposed "Teach academic GenAI literacy and dialogue competence beyond technical skills"; tests this page's relationship.
+- [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](../claims/ai-benefits-differ-by-developmental-stage.md) [+W] — attached 2026-10-12 from Emily Zohar et al. (2026), which proposed "Harness AI's benefits while preserving the friction that drives learning, connection, and meaning"; tests this page's relationship.
+- [LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier](../claims/llm-group-low-ownership-poor-quoting-own-essays.md) [+W] — attached 2026-10-12 from Nataliya Kosmyna et al. (2009), which proposed "Treat LLM assistance in essay-writing instruction cautiously, since sustained reliance was associated with reduced neural engagement, ownership, and recall"; tests this page's relationship.
 
 ## Related Principles
 

@@ -68,3 +68,5 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — a narrower finding that bears on this claim
+- [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
+- [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — related

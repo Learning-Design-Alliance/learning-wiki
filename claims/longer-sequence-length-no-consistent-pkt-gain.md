@@ -64,3 +64,4 @@ Sequence-length analysis of the CodeWorkout dataset (Table 1, Section 4.4) showi
 ## Related Claims
 - [Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain](pkt-attention-softmax-dimension-causal-flaw.md) — related
 - [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — related
+- [Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions](context-length-no-effect-fkt.md) — related

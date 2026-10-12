@@ -57,3 +57,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [Unanimous-fail panels alone reduced benchmark activation by approximately 40% on average for three Critical evaluators, but were insufficient on their own](unanimous-panels-40-percent-activation-reduction.md) — related
 - [In the public TutorBench sample, agency-oriented rubric criteria are most concentrated in the active-learning use case (agency-dimension density 0.720, agency-skill density 0.411)](tutorbench-rubrics-encode-agency-active-learning-highest.md) — related
 - [Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random](judge-crowd-agree-on-criteria-but-scores-separate-nothing.md) — related
+- [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related

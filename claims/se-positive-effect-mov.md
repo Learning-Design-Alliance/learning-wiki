@@ -48,3 +48,4 @@ Bootstrapped path coefficient from the PLS-SEM structural model (Table 6). The S
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl.md) — related
+- [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related

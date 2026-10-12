@@ -48,3 +48,4 @@ Questionnaire survey of 154 EFL learners in English language institutes in Shira
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

@@ -108,3 +108,5 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
 - [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — a narrower finding that bears on this claim
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
+- [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
+- [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related

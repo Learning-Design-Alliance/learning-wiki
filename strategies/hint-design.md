@@ -67,6 +67,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 - [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](worked-examples-seatwork-homework-problem-solving.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
+- [Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries](realign-socratic-withholding-protocol.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

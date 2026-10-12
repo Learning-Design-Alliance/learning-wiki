@@ -61,3 +61,4 @@ Same SEM path analysis predicting learning motivation. The frequency path was no
 - [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](asr-accuracy-motivation-not-reflection.md) — related
 - [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](asr-feedback-and-reflection-tasks-reflective-behavior.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
+- [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related

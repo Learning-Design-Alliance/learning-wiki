@@ -70,3 +70,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Disciplinary expertise alone is insufficient for teachers to detect GenAI representational bias](discipline-expertise-insufficient-bias-detection.md) — related
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
 - [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](llm-simulated-students-surpass-rule-based-systems.md) — related
+- [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related

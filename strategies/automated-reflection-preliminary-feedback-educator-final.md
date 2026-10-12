@@ -42,6 +42,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
+- [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 
 ## Examples
 -

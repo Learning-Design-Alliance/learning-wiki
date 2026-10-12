@@ -43,6 +43,7 @@ The article recommends that teacher training programs prioritise applied learnin
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
+- [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (70 for, 20 mixed, 8 against) · 75 studies (20 associational, 16 review, 15 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 75 report an effect size · 90 claims rest on one study
+> **Evidence** · 99 claims (70 for, 21 mixed, 8 against) · 76 studies (20 associational, 16 causal, 16 review, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 17 of 76 report an effect size · 91 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -131,6 +131,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](../claims/request-dominance-monitoring-evaluate-absent.md) [+M] — instruction changes it
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](../claims/genai-self-scaffold-versus-outsourcing.md) [~M] — an instructional effect differs with it
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](../claims/prompt-type-differences-general-vs-regulated.md) [+M] — instruction changes it
+- [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](../claims/genai-feedback-tm-marginal-other-srl-null.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

@@ -43,3 +43,4 @@ In the 14-week quasi-experiment with two intact classes (n1 = 24, n2 = 22), the 
 ## Related Claims
 - [Automated scoring practice produced a significant time × group interaction on total interpreting scores](automated-scoring-time-group-interaction-total-scores.md) — related
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
+- [In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores](experimental-group-steeper-learning-trajectory.md) — related

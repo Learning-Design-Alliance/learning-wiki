@@ -66,3 +66,4 @@ RQ2 model-level comparison across all prompting strategies and datasets (Table 3
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
 - [Grading skill transfers across exams: an adapter fine-tuned on one exam improves grading on the unseen other, though transfer stops short of in-domain performance](grading-skill-transfers-across-exams.md) — a narrower finding that bears on this claim
 - [LLM diagnostic performance drops sharply when student responses contain vague rather than evident evidence](vague-evidence-degrades-llm-diagnosis.md) — related
+- [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](sft-less-effective-than-prompting-for-feedback-generation.md) — reports the opposite

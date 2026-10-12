@@ -46,3 +46,4 @@ In the usage example, students predicted the output of a given loop program; com
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — related
 - [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](stakeholder-feedback-llm-formative-assessment.md) — related
+- [Students have difficulty distinguishing between for loops and while loops](students-struggle-for-while-loop-distinction.md) — related

@@ -48,3 +48,4 @@ The article's abstract asserts, without reported data, that AI-driven methodolog
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — related
+- [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related

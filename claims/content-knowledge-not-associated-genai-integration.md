@@ -44,3 +44,4 @@ Pearson correlation analysis (Table 8) in the 127-faculty survey. The article st
 - [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](tk-strongly-associated-technology-integrated-domains.md) — related
 - [The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population](technology-integrated-domains-single-factor-discriminant-validity.md) — related
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
+- [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — reports the opposite

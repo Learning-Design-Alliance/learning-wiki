@@ -48,3 +48,4 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples in the same survey. The
 - [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related
+- [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related

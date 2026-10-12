@@ -47,6 +47,7 @@ The article recommends that universities design interventions addressing technol
 - [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
+- [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 
 ## Examples
 -

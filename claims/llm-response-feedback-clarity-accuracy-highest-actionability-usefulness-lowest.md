@@ -44,3 +44,4 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](llm-consolidated-report-cognitive-load-lowest.md) — related
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](usefulness-associated-actionability-accuracy.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
+- [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related

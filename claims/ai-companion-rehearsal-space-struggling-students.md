@@ -49,3 +49,5 @@ Qualitative interview finding. P6 likened it to social stories, and P21 suggeste
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
+- [Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal](loneliness-as-social-feedback-signal-ai-companions-silence.md) — related
+- [Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant](qualitative-distress-companion-loss-emotionally-significant-use.md) — related

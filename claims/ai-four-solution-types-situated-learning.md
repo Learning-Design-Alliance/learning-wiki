@@ -60,3 +60,6 @@ Review-level synthesis of the 60 analyzed articles stating that "AI presents sol
 - [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — related
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related
 - [Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation](teacher-roles-automation-boundary.md) — related
+- [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — a narrower finding that bears on this claim
+- [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
+- [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — related

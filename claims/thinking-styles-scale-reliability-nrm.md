@@ -48,3 +48,4 @@ Reliability was estimated via Item Response Theory using the Nominal Response Mo
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
 - [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — related
+- [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related

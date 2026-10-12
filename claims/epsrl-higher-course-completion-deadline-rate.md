@@ -48,3 +48,4 @@ Chi-square test of independence comparing course completion deadline attainment 
 - [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
+- [Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens](learnlens-adoption-intent-stable-across-groups.md) — related

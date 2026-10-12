@@ -176,3 +176,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a narrower finding that bears on this claim
 - [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
+- [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related

@@ -49,3 +49,4 @@ Exploratory k-means cluster analysis in the 109-respondent survey produced four 
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
+- [Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant](qualitative-distress-companion-loss-emotionally-significant-use.md) — related

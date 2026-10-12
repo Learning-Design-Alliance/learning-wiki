@@ -49,3 +49,4 @@ Review synthesis of limitations and risks across included studies, which also re
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — related
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — a narrower finding that bears on this claim
+- [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — related

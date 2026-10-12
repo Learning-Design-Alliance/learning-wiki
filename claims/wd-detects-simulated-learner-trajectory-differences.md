@@ -69,3 +69,4 @@ Follow-up boxplot analyses for six prototypical learner types under design matri
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
 - [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](task-complexity-and-difficulty-dominate-wd-variance.md) — related
 - [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related
+- [The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level](cmt-alignment-cosine-similarity-0962.md) — related

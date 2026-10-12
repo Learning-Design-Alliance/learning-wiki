@@ -54,3 +54,4 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl.md) — related
 - [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
+- [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related

@@ -48,3 +48,4 @@ Importance-performance map analysis (IPMA) of total effects on digital competenc
 - [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
+- [IPMA identifies cognitive vigilance as the highest-importance, lowest-performance priority for intervention targeting transformative learning](ipma-vigilance-high-importance-low-performance.md) — related

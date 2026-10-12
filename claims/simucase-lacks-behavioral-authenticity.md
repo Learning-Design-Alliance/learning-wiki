@@ -53,3 +53,4 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related

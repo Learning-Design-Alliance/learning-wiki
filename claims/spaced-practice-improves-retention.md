@@ -195,3 +195,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — possibly the same claim (merge candidate)
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — a narrower finding that bears on this claim
+- [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — a narrower finding that bears on this claim

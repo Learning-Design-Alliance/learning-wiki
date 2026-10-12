@@ -50,6 +50,8 @@ The authors argue that because public sentiment remains positive while structura
 - [Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance](subject-sensitive-ai-governance-integrating-epistemic-literacy.md)
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
 - [Move beyond permit-or-restrict GenAI policies toward policies that clarify appropriate use, support equitable access, and extend rather than replace independent reasoning](genai-policy-clarify-access-extend-reasoning.md)
+- [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
+- [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
 
 ## Examples
 -

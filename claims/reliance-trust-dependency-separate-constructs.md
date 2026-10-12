@@ -73,3 +73,4 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions](evt-beliefs-predict-reliance-intensity.md) — related
 - [Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality](strategic-users-score-lowest-outcome-measures.md) — related
 - [Verification initiation, process quality, and success are distinct constructs that should not be collapsed](verification-initiation-quality-success-distinct.md) — a narrower finding that bears on this claim
+- [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related

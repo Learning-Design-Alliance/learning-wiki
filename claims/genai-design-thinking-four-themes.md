@@ -53,3 +53,4 @@ Qualitative thematic analysis of 112 student reflections from the 12-week course
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress](genai-augmentation-associated-perceived-learning.md) — related
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — related
+- [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related

@@ -81,3 +81,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
+- [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — a narrower finding that bears on this claim

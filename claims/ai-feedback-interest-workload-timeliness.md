@@ -51,3 +51,4 @@ The authors' characterization of why AI feedback tools have attracted attention 
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — related
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — a narrower finding that bears on this claim
+- [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related

@@ -77,3 +77,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related
 - [Ghanaian pre-service science teachers use AI mainly for research and content delivery rather than assessment or student engagement](ai-used-for-research-not-assessment-pre-service-teachers.md) — related
 - [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
+- [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related

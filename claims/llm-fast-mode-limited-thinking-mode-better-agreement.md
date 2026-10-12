@@ -50,3 +50,4 @@ Single-file comparison of four LLMs against human grades on 32 submissions. Tabl
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
 - [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality](llm-grader-precision-recall-tradeoffs-single-metric-insufficient.md) — related

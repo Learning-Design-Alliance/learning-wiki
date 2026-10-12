@@ -49,3 +49,4 @@ Pre-post outcomes in the longitudinal study (N=1364) analyzed by regressing post
 - [Sycophantic AI is rated higher than neutral AI on emotional support, esteem support, and certainty, but not informational support](sycophantic-ai-delivers-relational-support.md) — related
 - [Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans](sycophantic-ai-lowers-social-satisfaction.md) — related
 - [People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support](humans-valued-emotional-esteem-support-over-ai.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related

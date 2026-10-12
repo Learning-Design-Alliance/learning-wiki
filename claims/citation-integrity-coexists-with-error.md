@@ -49,3 +49,4 @@ A targeted, agent-reviewed ten-request live textbook audit of the production pat
 - [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related
 - [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related
 - [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](checking-coexists-with-unresolved-error-zhang.md) — related
+- [Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication](fabrication-despite-successful-retrieval.md) — related

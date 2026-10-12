@@ -50,3 +50,4 @@ Automated evaluation of eight prompting configurations for two proprietary LLMs 
 - [GRPO with the Proficiency Alignment Reward improves alignment over SFT across every writing trait and essay prompt](grpo-par-improves-alignment-across-all-traits.md) — related
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [PsyScore-AES achieves a state-of-the-art average QWK of 0.747 on ASAP++, surpassing the strongest baseline SaMRL-large (0.722) and ranking first on 6 of 8 prompts](psyscore-aes-sota-qwk-0-747-asap.md) — related
+- [LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers](learnlens-modular-pipeline-beats-baselines-scoring.md) — related

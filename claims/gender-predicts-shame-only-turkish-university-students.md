@@ -83,3 +83,4 @@ In the loneliness regression, "gender was not a signifi cant predictive factor f
 - [Secure and dismissing attachment styles predict shame in Turkish university students](secure-dismissing-attachment-predict-shame.md) — related
 - [Only dismissing attachment predicts guilt, with higher dismissing style linked to lower guilt](dismissing-attachment-predicts-lower-guilt.md) — related
 - [Shame and guilt may be more strongly shaped by socialization processes than by attachment relationships](shame-guilt-shaped-by-socialization-more-than-attachment.md) — related
+- [Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal](loneliness-as-social-feedback-signal-ai-companions-silence.md) — related

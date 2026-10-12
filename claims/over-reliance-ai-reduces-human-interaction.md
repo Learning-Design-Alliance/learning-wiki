@@ -55,3 +55,5 @@ The review warns of over-reliance on AI technologies, arguing dialogue, collabor
 - [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related
 - [AIED research has predominantly framed AI as automation or personalization, privileging individual outcomes over social processes](aied-privileges-automation-individual-outcomes.md) — related
 - [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
+- [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
+- [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related

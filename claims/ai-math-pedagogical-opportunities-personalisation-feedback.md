@@ -76,3 +76,6 @@ Review synthesis of feedback mechanisms across included studies. The authors sta
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related
 - [Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation](teacher-roles-automation-boundary.md) — related
 - [Because learner feedback was positively skewed, tutors used automated feedback as a self-monitoring tool for improvement and reassurance](automated-feedback-self-monitoring-tool.md) — related
+- [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
+- [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — related

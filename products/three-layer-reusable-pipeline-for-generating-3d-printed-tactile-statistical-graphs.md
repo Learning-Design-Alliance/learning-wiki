@@ -20,6 +20,7 @@ An open-source JavaScript pipeline by Lawrence Obiuwevwi et al. that generates 3
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Derive tactile graph parameters from tactile perception research rather than ad hoc choices**: The pipeline's parameter derivation layer computes feature heights and spacings automatically from plate dimensions using established tactile perception findings, so every generated chart is readable by touch without per-chart manual tuning. Data features are set at 1.5 mm, three times the "0.5 mm height discriminability floor" from Lederman and Klatzky, and scatter-point separation is 3.5 mm, exceeding the 2–3 mm two-point discrimination threshold. Axis rails are taller than data features so a sweeping finger distinguishes structural boundaries from encoded data. (Lawrence Obiuwevwi et al. (2026))
 
 ### Claims
 - [The pipeline generates print-ready binary STL files for all five chart types in under 60 ms on a 150×150 mm plate](../claims/tactile-pipeline-stl-under-60ms.md) [+M]

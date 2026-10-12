@@ -51,3 +51,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
+- [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related

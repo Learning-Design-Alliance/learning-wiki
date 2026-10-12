@@ -93,3 +93,4 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
+- [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — related

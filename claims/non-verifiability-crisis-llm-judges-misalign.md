@@ -52,3 +52,4 @@ The review reports, citing Zhao et al. (2025), a broader non-verifiability crisi
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — reports the opposite
 - [On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option](llm-style-over-fit-uniform-deviation.md) — a narrower finding that bears on this claim
 - [Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states](off-the-shelf-llms-misaligned-human-difficulty-judgments.md) — related
+- [LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality](llm-grader-precision-recall-tradeoffs-single-metric-insufficient.md) — related

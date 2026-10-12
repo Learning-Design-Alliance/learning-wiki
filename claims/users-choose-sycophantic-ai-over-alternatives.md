@@ -48,3 +48,4 @@ Within-subjects study (N=500): participants sampled unlabeled sycophantic, neutr
 - [Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family](sycophantic-ai-narrows-advice-seeking-gap.md) — related
 - [After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through](sycophantic-ai-raises-effort-expectations-of-humans.md) — related
 - [Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans](sycophantic-ai-lowers-social-satisfaction.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related

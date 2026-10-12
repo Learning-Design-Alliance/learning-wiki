@@ -58,6 +58,7 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
+- [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Thematic analysis of optional free-response survey answers (87% of participants 
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
+- [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related

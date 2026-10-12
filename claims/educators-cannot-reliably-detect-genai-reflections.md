@@ -50,3 +50,4 @@ The review reports this educator detection study, citing Wraith et al. [45], fin
 - [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
 - [The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking](reflection-gate-distinguishes-low-effort-defenses.md) — related
+- [Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text](ai-detection-tools-not-reliably-distinguishing.md) — related

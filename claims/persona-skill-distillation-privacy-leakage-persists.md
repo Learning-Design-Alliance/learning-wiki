@@ -47,3 +47,4 @@ Main evaluation on AntiSkillBench across three agent backbones (GPT 5.4, Gemini 
 - [Skill-equipped agents reproduce target users' attributes and language, enabling impersonation across unseen contexts](agent-level-impersonation-qa-acc-vocabgain.md) — a narrower finding that bears on this claim
 - [Skill-level leakage is strongest for communication style and personality, not explicit demographics](leakage-strongest-communication-personality.md) — related
 - [Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction](passive-sbd-defense-distillation-dependent.md) — related
+- [Privacy protection in the framework is partial: three residual leakage channels remain open](partial-privacy-three-residual-leakage-channels.md) — related

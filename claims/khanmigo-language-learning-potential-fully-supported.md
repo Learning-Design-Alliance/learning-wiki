@@ -50,3 +50,4 @@ Qualitative case-study evaluation based on the author's 17.5 hours of interactio
 - [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](khanmigo-practicality-partially-supported.md) — related
 - [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
+- [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — related

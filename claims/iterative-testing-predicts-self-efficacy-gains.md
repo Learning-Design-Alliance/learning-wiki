@@ -48,3 +48,4 @@ Hierarchical regression on N=80 students using Days 4-5 platform behavioral logs
 ## Related Claims
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
+- [Teacher-AI learning task design objectives cluster into cognitive gains and thinking skills, behavioral changes and design efficiency, and adaptivity, engagement, self-efficacy, and inclusivity](teacher-ai-design-objectives-three-clusters.md) — related

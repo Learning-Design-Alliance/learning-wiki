@@ -46,3 +46,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 ## Related Claims
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — related

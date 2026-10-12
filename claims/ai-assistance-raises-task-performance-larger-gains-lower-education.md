@@ -55,3 +55,4 @@ Intent-to-treat estimates from the preregistered randomized experiment (1,174 co
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
+- [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — reports the opposite

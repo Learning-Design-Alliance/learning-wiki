@@ -57,3 +57,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
 - [The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible](know-where-shifts-to-evaluating-ai-output.md) — related
+- [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related

@@ -65,3 +65,5 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — related
+- [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
+- [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](students-use-genai-strategically-with-concerns.md) — related

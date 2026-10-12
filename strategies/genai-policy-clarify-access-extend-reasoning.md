@@ -42,6 +42,7 @@ The article's concluding recommendation is that educators should design GenAI co
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose](graduated-ai-policy-by-course-level.md)
+- [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
 
 ## Examples
 -

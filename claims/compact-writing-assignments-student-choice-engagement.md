@@ -46,3 +46,4 @@ Student feedback survey on the Compact Writing Assignments implemented in Pilot 
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
 - [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](pilot-studies-measurable-improvements-engagement-self-efficacy.md) — related
 - [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) — related
+- [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related

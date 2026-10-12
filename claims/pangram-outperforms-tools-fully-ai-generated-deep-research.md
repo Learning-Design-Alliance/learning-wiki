@@ -67,3 +67,4 @@ Same classification accuracy analysis of the 40 fully AI-generated papers. The a
 - [On hybrid and humanised AI papers, Pangram correctly identified AI content in 37 of 40 cases while GPTZero and Copyleaks performed poorly and Turnitin declined on humanised texts](pangram-robust-hybrid-humanised-texts.md) — related
 - [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — reports the opposite
 - [No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low](no-threshold-satisfies-all-three-error-rates.md) — related
+- [In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions](turnitin-joint-system-54-5-percent-reporting.md) — related

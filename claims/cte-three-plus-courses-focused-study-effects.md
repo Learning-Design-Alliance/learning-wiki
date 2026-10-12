@@ -46,3 +46,4 @@ The review reports observational findings on earnings for CTE concentrators who 
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
+- [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related

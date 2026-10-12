@@ -96,3 +96,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related

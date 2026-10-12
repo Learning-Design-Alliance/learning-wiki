@@ -60,3 +60,5 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — a narrower finding that bears on this claim
+- [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
+- [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related

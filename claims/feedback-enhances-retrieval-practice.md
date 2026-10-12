@@ -83,3 +83,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
+- [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — related

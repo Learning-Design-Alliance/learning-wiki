@@ -45,6 +45,7 @@ The chapter treats faculty development as crucial to implementing the framework.
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 - [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 - [Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education](structured-institutional-support-teacher-ai-readiness.md)
+- [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Cross-model comparison from the conclusion's summary of the rubric-item-level er
 - [Gemini-3-flash achieved the highest rubric-item accuracy, ranging from 89% on Course 2 to over 99% on Course 1](gemini-3-flash-highest-rubric-item-accuracy.md) — related
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
+- [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related

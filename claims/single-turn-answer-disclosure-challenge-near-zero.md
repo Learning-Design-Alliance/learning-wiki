@@ -66,3 +66,4 @@ Single-turn pedagogical quality analysis across all evaluated models and subject
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [Answer-revealing tutor turns are followed by less independent student work on every tutor base, a deterministic judge-invariant result](leakage-reduces-next-turn-independence-all-bases.md) — related
 - [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
+- [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — related

@@ -43,6 +43,7 @@ The article turns its results into deployment guidance: a pre-deployment safety 
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Make privacy a release criterion with a stage-gate data-flow summary before student-facing deployment](privacy-stage-gate-data-flow-summary.md)
 - [Implementation mitigations that convert school-based R&D frictions into standard work](school-rd-friction-mitigation-playbooks.md)
+- [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 
 ## Examples
 -

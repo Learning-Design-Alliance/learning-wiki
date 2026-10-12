@@ -49,3 +49,4 @@ Bootstrapped path coefficients from the PLS-SEM structural model (Table 6). Both
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
 - [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl.md) — related
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
+- [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related

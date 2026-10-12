@@ -50,6 +50,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design](genai-integration-feedback-literacy-reflective-course-design.md)
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
 - [Use GenAI as a reflective prompt in learning design, not as a shortcut for efficiency](genai-as-reflective-prompt-not-shortcut.md)
+- [Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies](scaffolded-activities-convert-genai-concerns-to-competencies.md)
 
 ## Examples
 -

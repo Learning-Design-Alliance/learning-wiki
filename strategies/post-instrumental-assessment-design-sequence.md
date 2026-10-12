@@ -43,6 +43,7 @@ This strategy implements post-instrumental assessment through a three-step desig
 ## Related Strategies
 
 - [Formative friction: require goal statements, alternative comparison, and justification before high-stakes delegation, kept proportionate and accessible](formative-friction-proportionate-accessible.md)
+- [Guide students on when conversational AI supports learning versus when it replaces checking, evaluation, and independent judgment](guide-students-when-ai-supports-versus-replaces-judgment.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Confirmatory factor analysis with Mplus on data from the 1,545-student sample te
 - [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
 - [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
+- [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related

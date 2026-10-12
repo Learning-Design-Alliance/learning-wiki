@@ -51,3 +51,4 @@ Design argument (Section 5.4), not a tested result: the author states the mechan
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
 - [Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues](30-hallucinated-references-14-papers-csed.md) — related
+- [The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant](member-check-c4-weakest-endorsed.md) — related

@@ -125,3 +125,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions](evt-beliefs-predict-reliance-intensity.md) — a narrower finding that bears on this claim
+- [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related

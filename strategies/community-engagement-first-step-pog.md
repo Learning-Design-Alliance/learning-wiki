@@ -41,6 +41,7 @@ The brief recommends that engagement of community constituents be "a critical fi
 - [Integrate POG frameworks into curricula and assessment with ongoing stakeholder dialogue, rather than leaving them as unused documents](integrate-pogs-into-curricula-with-stakeholder-dialogue.md)
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
+- [Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities](triangulate-llm-discourse-measures-with-community-input.md)
 
 ## Examples
 -

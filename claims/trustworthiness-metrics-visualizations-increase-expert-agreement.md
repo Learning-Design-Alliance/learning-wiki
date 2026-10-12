@@ -63,3 +63,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA](rasch-infit-rater-selection-increases-reliability.md) — related
 - [Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization](categorization-expert-validation-gwet-ac1.md) — related
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
+- [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related

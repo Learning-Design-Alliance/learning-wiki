@@ -51,3 +51,4 @@ Interview and log data across cases; teachers described the adaptive prompting s
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](genai-tutors-struggle-infer-student-knowledge.md) — related
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
 - [SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks](sped-adaptive-shifts-tutor-behavior-codebooks.md) — related
+- [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related

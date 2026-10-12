@@ -47,3 +47,4 @@ Comparison of Qwen2.5 family models (7B, 14B, 32B, 72B), which share architectur
 - [Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone](model-family-beats-parameter-count-for-tutoring-quality.md) — a broader claim this one bears on
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
 - [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](omniedu-tuning-improves-all-three-educational-capability-groups.md) — related
+- [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — a narrower finding that bears on this claim

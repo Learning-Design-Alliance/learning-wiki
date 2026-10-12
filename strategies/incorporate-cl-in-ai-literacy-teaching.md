@@ -47,6 +47,7 @@ The review recommends that instruction for improving AI literacy incorporate col
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
+- [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
 
 ## Examples
 -

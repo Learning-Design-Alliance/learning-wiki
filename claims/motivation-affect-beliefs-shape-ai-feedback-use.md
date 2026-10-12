@@ -46,3 +46,4 @@ Conceptual argument drawing on educational psychology: in singing, feedback is t
 - [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related
+- [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
