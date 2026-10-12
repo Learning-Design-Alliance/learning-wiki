@@ -45,6 +45,7 @@ Counter-prompting is a Critical Interrogation practice in which users probe AI s
 - [Socratic Questioning](socratic_questioning.md)
 - [Questioning Techniques](questioning-techniques.md)
 - [Pedagogy of deliberate counter-positioning: use generative AI in reverse so students interrogate generated positions](deliberate-counter-positioning-pedagogy.md)
+- [Teach prompting and AI literacy as epistemic practice with structured guidance](structured-prompting-ai-literacy-instruction.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Analysis of the same four-model comparison against empirical IRT difficulty repo
 - [CDP improves item-difficulty recovery in both rank order and absolute alignment, with the largest gains for reasoning-enabled Gemini configurations](cdp-improves-item-difficulty-recovery.md) — related
 - [GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts](gpt-4o-mini-lowest-act-balance-mae.md) — related
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
+- [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related

@@ -39,6 +39,7 @@ For correct-answer cases the model routes to needs-clarification, the system gen
 ## Related Strategies
 
 - [Probing Questions](probing_questions.md)
+- [Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap](design-intent-gap-origin-question.md)
 
 ## Examples
 -

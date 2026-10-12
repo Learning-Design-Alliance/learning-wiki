@@ -66,3 +66,4 @@ Same Spearman correlation analysis: the interpretation dimension is significantl
 - [Average check-in and weekly ratings show no significant differences between chatbot conditions, with the Non-Empathetic chatbot often rated as more engaging and useful](no-significant-average-differences-nonempathetic-rated-higher.md) — related
 - [LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different](llm-epitome-scores-differentiate-nonempathetic.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
+- [Agreement between chatbot preference and perceived learning attribution was low (39%)](low-agreement-preference-learning-attribution-39-percent.md) — related

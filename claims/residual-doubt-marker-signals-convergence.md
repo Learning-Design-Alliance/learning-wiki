@@ -44,3 +44,4 @@ Descriptive coding of eight session logs using a strict criterion requiring both
 
 ## Related Claims
 - [Participant attention gravitated towards the agent embodying the intuitive-error hazard, exceeding the uniform baseline](attention-gravitates-to-legible-intuitive-error.md) — related
+- [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related

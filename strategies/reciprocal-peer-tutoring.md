@@ -88,6 +88,7 @@ RPT converts review and practice into an active, social format: explaining mater
 - [Cross-Age Tutoring](../strategies/cross-age-tutoring.md) — fixed-role variant trading reciprocity for expertise distance
 - [Jigsaw](../strategies/jigsaw.md) — another structure where every student must teach to complete the task
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
+- [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 
 ## Examples
 - **Classwide Student Teams–Achievement Divisions adaptations and Fantuzzo's reciprocal tutoring** — classwide RPT in elementary mathematics where dyads alternate tutor/tutee roles weekly with structured materials and reward systems; improved computation fluency and conduct.

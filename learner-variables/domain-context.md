@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (28 for, 4 mixed) · 35 studies (11 qualitative, 7 review, 6 design, 4 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 35 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (29 for, 4 mixed) · 36 studies (11 qualitative, 7 review, 7 design, 4 causal, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 36 report an effect size · 30 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -65,6 +65,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](../claims/genai-motivation-effect-larger-university-than-school.md) [+M] — an instructional effect differs with it
 - [ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context](../claims/its-benefits-vary-by-design-context.md) [~M] — an instructional effect differs with it
 - [RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses](../claims/ragas-faithfulness-declines-cross-course.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers adjusted problem topics as the most common refinement move](../claims/teachers-adjust-problem-topics-refinement.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.

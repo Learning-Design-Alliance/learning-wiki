@@ -45,6 +45,7 @@ The article recommends that educators treat AI-generated lesson plans as startin
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 - [Use LLM-generated lessons within a human-AI collaborative workflow where educators review and refine AI drafts](human-ai-collaborative-lesson-refinement-workflow.md)
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
+- [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
 
 ## Examples
 -

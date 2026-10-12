@@ -51,3 +51,4 @@ Exploratory factor analysis (maximum likelihood extraction, varimax and oblimin 
 - [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](psrbvbq-three-factor-structure-romanian-teachers.md) — related
 - [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related

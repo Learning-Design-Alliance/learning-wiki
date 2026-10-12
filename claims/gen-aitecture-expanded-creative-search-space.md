@@ -66,3 +66,4 @@ Convergent mixed-methods analysis of questionnaire and reflexive discussion data
 - [Students engaged intensively with the GenAI workflow, generating around 80 images per session with acceptance rates above 60% and substantive use of all three operation modes](gen-aitecture-intensive-engagement-log-data.md) — related
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work](multi-step-ai-operations-creativity-association.md) — related
+- [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related

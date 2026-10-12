@@ -84,3 +84,7 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
+- [Solutions from different LLM providers converged broadly on most CS1 labs, with cross-LLM MOSS match rates of about 88% pooled across labs but only 13.18–22.11% on Lab 10](cross-llm-convergence-task-dependent.md) — related
+- [Most reported student–LLM matches involved short snippets, and raising the minimum match length rapidly reduced coverage, making it a key review-workload control](minimum-match-length-controls-coverage.md) — related
+- [Off-the-shelf LLMs are systematically misaligned with human item-difficulty judgments and struggle to simulate lower-proficiency states](off-the-shelf-llms-misaligned-human-difficulty-judgments.md) — related
+- [The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews](star-label-rule-kappa-066-82-percent.md) — related

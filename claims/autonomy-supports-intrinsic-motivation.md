@@ -137,3 +137,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — related
 - [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — a narrower finding that bears on this claim
+- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related

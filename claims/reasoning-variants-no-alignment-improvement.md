@@ -51,3 +51,4 @@ Paired comparisons in Sec. 5.2 of reasoning variants against their base models (
 - [Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure](enforced-structure-no-gain-self-organized-reasoning.md) — related
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
+- [GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics](genai-agent-type-characterisation.md) — related

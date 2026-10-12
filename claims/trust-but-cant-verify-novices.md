@@ -48,3 +48,4 @@ Interview and log analysis of self-identified beginners in the AI-enabled sectio
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](cautious-trust-in-course-specific-rag.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
+- [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related

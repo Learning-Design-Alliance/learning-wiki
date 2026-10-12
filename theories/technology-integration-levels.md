@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 mixed) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):
@@ -43,6 +43,8 @@ The shared claim across all three models is that low-value technology integratio
 ## Claims
 
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [~W] — attached 2026-10-10 from AlSheikh MH et al. (2026), which proposed "SAMR model of technology integration levels (Substitution, Augmentation, Modification, Redefinition)".
+- [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](../claims/chatgpt-free-use-originality-gains-vanish-unassisted.md) [~W] — attached 2026-10-12 from Wong et al. (2026), which proposed "ISAR model: four types of AI effects on learning".
+- [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](../claims/ai-substitution-inclusion-and-time-tradeoffs.md) [~W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "SAMR model: four levels of technology use from substitution to redefinition".
 
 ## Related Theories
 

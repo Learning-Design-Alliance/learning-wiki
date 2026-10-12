@@ -40,6 +40,7 @@ A formative oral assessment structure shared by a faculty member in Electricity 
 
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
 - [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
+- [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 
 ## Examples
 -

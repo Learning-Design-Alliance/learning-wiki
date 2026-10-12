@@ -48,3 +48,4 @@ Negative Binomial GLMM of hesitation counts in the same within-subjects study. T
 ## Related Claims
 - [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related

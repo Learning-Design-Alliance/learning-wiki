@@ -64,3 +64,4 @@ Table 3 results for the labeled-angles check: the judge with image+code reached 
 ## Related Claims
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](backtranslation-outperforms-llm-judge-diagram-agreement.md) — related
 - [GPT-4.1-Mini with back-translation matches the best LLM-judge (GPT-5) at 10.3x lower evaluation cost](gpt-4-1-mini-backtranslation-matches-frontier-judge-cost.md) — related
+- [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related

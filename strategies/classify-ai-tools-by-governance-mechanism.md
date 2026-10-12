@@ -44,6 +44,7 @@ The article applies its framework to four published tools as a transfer test and
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [When integrating GenAI, deliberately weigh control-oriented structures against designs that promote learner agency and creativity](weigh-control-versus-agency-in-genai-integration.md)
+- [Design generative production tools with originality feedback, divergence-promoting generation, and deliberate friction anchored to documented mechanisms](originality-feedback-and-deliberate-friction-design.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ Based on the observed associations, the article recommends that "universities co
 ## Related Strategies
 
 - [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
+- [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 
 ## Examples
 -

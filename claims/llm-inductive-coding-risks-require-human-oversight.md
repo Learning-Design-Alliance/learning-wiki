@@ -104,3 +104,5 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — related
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — a narrower finding that bears on this claim
+- [Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)](expert-review-six-cross-case-themes.md) — related
+- [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — a narrower finding that bears on this claim

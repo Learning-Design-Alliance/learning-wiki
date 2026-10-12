@@ -42,6 +42,7 @@ In its future directions, the article recommends moving beyond prompting: integr
 ## Related Strategies
 
 - [Validate the empirical-findings component and balance alignment against generalizability when injecting prior study results into agent prompts](validate-empirical-findings-component-balance.md)
+- [Next-step post-training strategy: reinforcement learning from human feedback on authentic learning dialogues and scaling student feedback](rlhf-next-step-post-training-education.md)
 
 ## Examples
 -

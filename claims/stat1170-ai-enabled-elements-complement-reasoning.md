@@ -1,0 +1,48 @@
+---
+type: claim
+title: A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
+description: A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
+id: stat1170-ai-enabled-elements-complement-reasoning
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-11
+evidence_strength: weak
+sources:
+  - id: binkowski-2026
+    resource: "https://arxiv.org/abs/2605.07056"
+    title: "Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056"
+    author: "Binkowski, K. P., & Hopkins, A."
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 1
+---
+
+# A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r1` · `q1`
+
+## Subclaims
+`q1 i?` In STAT1170, a large introductory statistics unit enrolling approximately 1200 undergraduate students per session, AI-enabled elements were introduced aiming to support engagement and conceptual understanding while positioning AI as complementing rather than replacing statistical reasoning. [→ Binkowski 2026](#binkowski-2026)
+
+## Evidence
+
+### Binkowski 2026
+
+Binkowski, K. P., & Hopkins, A. (2026). The University AI Didn't Replace: Rethinking Universities in the AI Era. Macquarie University. https://arxiv.org/abs/2605.07056
+
+`q1 · i?` · `design · r1`
+
+Case-study description of AI-enabled curriculum innovations in STAT1170, including AI-assisted statistical poster assessment, AI-enhanced pre-recorded lectures, and a university-provided AI "Virtual Peer" chatbot offering on-demand study support based on unit materials. The authors state these interventions "aim to support engagement and conceptual understanding"; no outcome data are reported.
+
+> "STAT1170, a large introductory statistics unit at Macquarie University enrolling approximately 1200 undergraduate students per session"
+
+## Discussion
+
+
+## Related Claims
+- [A reported case study describes structured AI use in a statistics unit for over 250 students, illustrating a Level 1-to-2 transition centring statistical thinking](staj1371-structured-ai-use-case.md) — related
+- [Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA](chatbot-null-gpa-and-credits.md) — related
+- [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related

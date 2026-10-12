@@ -43,6 +43,7 @@ The article's educational recommendation is to exploit the same systems in rever
 
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
 - [Diagnostic and repair strategy in constructivist therapy: locate where the synthetic position sits and return it to an ordinary voice](therapy-repair-synthetic-position-location.md)
+- [Design generative production tools with originality feedback, divergence-promoting generation, and deliberate friction anchored to documented mechanisms](originality-feedback-and-deliberate-friction-design.md)
 
 ## Examples
 -

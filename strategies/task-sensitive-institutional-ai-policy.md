@@ -47,6 +47,7 @@ The article argues that because faculty and administrative staff use AI while al
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education](teach-differentiated-trust-spectrum.md)
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
+- [Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose](graduated-ai-policy-by-course-level.md)
 
 ## Examples
 -

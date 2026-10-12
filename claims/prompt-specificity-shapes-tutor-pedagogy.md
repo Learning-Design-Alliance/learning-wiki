@@ -47,3 +47,4 @@ Simulation study replaying a stratified sample of 150 impasse turns (n=50 per ty
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related
+- [Explicit no-direct-answers guardrails in teacher prompts reduced the AI's final-answer provision rate by 8.5 percentage points (16.2% to 7.7%)](no-direct-answers-guardrail-reduces-ai-answers.md) — related

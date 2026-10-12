@@ -45,6 +45,7 @@ The review's forward-looking pedagogical recommendation is to integrate AI-power
 - [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](fade-ai-support-require-justification.md)
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
+- [Frame learner and automated feedback as complementary rather than conflicting](frame-feedback-sources-as-complementary.md)
 
 ## Examples
 -

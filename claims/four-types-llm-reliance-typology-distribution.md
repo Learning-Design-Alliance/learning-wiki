@@ -48,3 +48,4 @@ Survey classification of 382 undergraduates at a minority-serving R1 university,
 - [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
 - [Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions](evt-beliefs-predict-reliance-intensity.md) — related
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related
+- [Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%](three-paths-empirically-distinguishable-pilot.md) — related

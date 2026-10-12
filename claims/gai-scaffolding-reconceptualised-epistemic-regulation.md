@@ -48,3 +48,4 @@ Theoretical argument in the Reflection component section. The authors contrast t
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — a narrower finding that bears on this claim
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — a broader claim this one bears on
+- [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related

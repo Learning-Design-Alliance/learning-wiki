@@ -43,6 +43,7 @@ The paper's closing recommendation is to develop the vigilance disposition throu
 ## Related Strategies
 
 - [Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)](perceived-versus-actual-fading-rate-strategy.md)
+- [Use AI automated feedback tools to foster students' dispositions for partnering with teachers around feedback](ai-feedback-fosters-teacher-partnership-dispositions.md)
 
 ## Examples
 -

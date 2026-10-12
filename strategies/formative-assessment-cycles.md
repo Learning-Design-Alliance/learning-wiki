@@ -82,12 +82,14 @@ Two design consequences follow. The eliciting move has to be diagnostic rather t
 8. **Keep it ungraded.** Record what you need for planning, not for the gradebook, so students have no incentive to conceal confusion.
 
 ## Related Strategies
+
 - [Formative Assessment Loops](formative-assessment-loops.md) — the same cycle emphasized as a repeating structure across a unit
 - [Formative Assessment Routines](formative-assessment-routines.md) — the habitual classroom moves that make the cycle cheap enough to run often
 - [Formative Feedback](formative-feedback.md) — the message delivered to the learner within the cycle, and what makes it actionable
 - [Exit Ticket](exit-ticket.md) — the most common lesson-boundary eliciting device
 - [Drafting and Feedback Cycles](drafting-and-feedback-cycles.md) — the cycle applied to extended work rather than to concepts
 - [Formative Self-Assessment](formative-self-assessment.md) — moves the interpreting and adjusting moves to the learner
+- [Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap](design-intent-gap-origin-question.md)
 
 ## Examples
 

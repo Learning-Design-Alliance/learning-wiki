@@ -74,3 +74,4 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
 - [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related
+- [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — related

@@ -107,3 +107,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — a narrower finding that bears on this claim
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — a narrower finding that bears on this claim
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related

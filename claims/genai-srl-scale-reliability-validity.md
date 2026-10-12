@@ -47,3 +47,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
+- [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related

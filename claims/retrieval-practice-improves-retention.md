@@ -220,3 +220,5 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient](evidence-tracing-114-claims-retrieval-limit.md) — related
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
+- [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — a narrower finding that bears on this claim

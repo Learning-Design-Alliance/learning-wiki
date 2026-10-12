@@ -55,3 +55,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — related
+- [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related

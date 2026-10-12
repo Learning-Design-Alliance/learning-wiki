@@ -47,6 +47,7 @@ The article recommends that educators position AI as an augmentation rather than
 - [Embed the tool in the subject's workflow and design feed-forward prompts, symbolic-answer handling, and progress tracking before full release](embed-genai-practice-tool-in-subject-workflow.md)
 - [Complement AI tutoring with group recitations or instructor guidance rather than treating it as a replacement for human instruction](complement-ai-tutoring-with-human-instruction.md)
 - [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
+- [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
 
 ## Examples
 -

@@ -47,3 +47,5 @@ A targeted, agent-reviewed ten-request live textbook audit of the production pat
 - [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related
+- [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related
+- [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](checking-coexists-with-unresolved-error-zhang.md) — related

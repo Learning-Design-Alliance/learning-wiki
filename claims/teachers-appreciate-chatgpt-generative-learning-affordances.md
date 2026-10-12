@@ -53,3 +53,5 @@ Qualitative reflexive thematic analysis of written responses and ChatGPT logs fr
 - [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](capability-oriented-design-dimension.md) — related
 - [Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time](teachers-positive-llm-robot-system-feedback.md) — related
+- [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — a broader claim this one bears on
+- [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related

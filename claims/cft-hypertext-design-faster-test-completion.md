@@ -49,3 +49,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
 - [Students teaching the ChatGPT agent passed the online judge with fewer code submission attempts than control students](chatgpt-teachable-agent-fewer-submission-attempts.md) — related
+- [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — related

@@ -61,9 +61,11 @@ Math Coaching converts word-problem practice into structured peer tutoring, comb
 6. Teacher circulates, listens for justification quality, and addresses misconceptions in a brief whole-class debrief ([Class Discussion](../elements/class-discussion.md))
 
 ## Related Strategies
+
 - [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the focus on learners' verbal reasoning about word problems, but teacher-directed rather than peer-mediated
 - Peer Tutoring — the broader family of strategies; Math Coaching is a math-specific, flashcard-structured variant
 - Reciprocal Teaching — analogous role rotation and dialogue structure applied to reading comprehension; Math Coaching adapts its predict–question–clarify–summarize cycle to operation selection
+- [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the core interaction; the coach role is a peer enactment of guided support

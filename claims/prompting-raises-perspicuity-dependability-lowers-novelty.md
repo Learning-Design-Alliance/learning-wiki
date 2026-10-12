@@ -66,3 +66,4 @@ UEQ hedonic dimensions in the same experiment. The article reports Novelty "decl
 - [Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions](prompted-ai-raises-overall-post-test-score.md) — related
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
+- [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related

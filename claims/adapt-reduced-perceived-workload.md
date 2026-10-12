@@ -48,3 +48,4 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — a broader claim this one bears on
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)](ai-administrative-efficiency-reported-gains.md) — related
+- [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related

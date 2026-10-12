@@ -63,3 +63,4 @@ Economic cost per correct answer per model under both conditions (Fig. 8). The a
 
 ## Related Claims
 - [Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations](executable-reasoning-failure-redistribution-layers.md) — related
+- [Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time](async-concurrency-latency-bounded-by-slowest-model.md) — related

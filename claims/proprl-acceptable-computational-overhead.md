@@ -46,3 +46,4 @@ Efficiency comparison (Table 3) of ProPRL and DGCPL on the original data splits.
 - [GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training](gnn-training-homogenizes-concept-representations.md) — related
 - [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
 - [ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline](proprl-state-of-the-art-prerequisite-relation-learning.md) — related
+- [The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites](linearity-bias-lowers-computational-prerequisites.md) — related

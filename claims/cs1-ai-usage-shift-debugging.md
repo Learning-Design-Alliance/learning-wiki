@@ -56,3 +56,4 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — related
+- [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related

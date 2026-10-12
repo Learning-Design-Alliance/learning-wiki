@@ -46,3 +46,4 @@ Interview-based thematic finding on design-stage needs. During very early ideati
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — possibly the same claim (merge candidate)
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related
+- [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related

@@ -46,3 +46,4 @@ Independent-samples t-tests in the quantitative phase (N = 302) compared percept
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
+- [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — reports the opposite

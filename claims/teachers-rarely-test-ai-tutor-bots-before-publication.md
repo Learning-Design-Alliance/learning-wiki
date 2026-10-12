@@ -44,3 +44,4 @@ Formative observational study of 121 chatbots created by instructors in an "AI f
 
 ## Related Claims
 - [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related
+- [Log-based evaluation showed chatbot alignment was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%)](log-based-alignment-responsiveness-persona-rules-purpose.md) — related

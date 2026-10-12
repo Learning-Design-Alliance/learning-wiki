@@ -69,6 +69,9 @@ The article recommends that effective institutional governance extend beyond pro
 - [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
 - [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
+- [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
+- [Move beyond permit-or-restrict GenAI policies toward policies that clarify appropriate use, support equitable access, and extend rather than replace independent reasoning](genai-policy-clarify-access-extend-reasoning.md)
+- [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 
 ## Examples
 -

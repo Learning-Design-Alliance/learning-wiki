@@ -48,3 +48,4 @@ Bootstrap mediation test (5000 resamples, AMOS) on the 315-student survey. Indir
 ## Related Claims
 - [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
 - [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — possibly the same claim (merge candidate)
+- [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related

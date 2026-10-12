@@ -54,3 +54,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
+- [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related

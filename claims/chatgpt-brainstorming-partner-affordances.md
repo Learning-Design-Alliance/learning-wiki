@@ -58,3 +58,5 @@ Qualitative analysis of video-recorded interviews with 5 Algebra 1 teachers who 
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
+- [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — a broader claim this one bears on
+- [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related

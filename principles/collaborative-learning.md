@@ -82,6 +82,8 @@ Group performance during the task, individual understanding straight after it, d
 
 ## Examples
 
+- [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](../strategies/individual-assessment-during-pair-work-robotics.md)
+
 ### Illustrative
 
 **[Collaborative Learning](../patterns/collaborative-learning.md)** — A shared-work pattern in which learners are jointly responsible for meaning-making rather than simply co-located.

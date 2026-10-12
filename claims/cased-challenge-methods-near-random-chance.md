@@ -45,3 +45,4 @@ Official CASED challenge leaderboard results (Tables 1 and 2) reported by the au
 - [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related
+- [Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction](course-prediction-metrics-auxiliary-task.md) — related

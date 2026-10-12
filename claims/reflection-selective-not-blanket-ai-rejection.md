@@ -47,3 +47,4 @@ Figure 2 analysis of AI-consistent final responses by advice correctness and tas
 - [ChatGPT recommendation accuracy was comparable between the open-support and reflection conditions, ruling out unequal exposure to erroneous advice](comparable-chatgpt-recommendation-accuracy.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — a broader claim this one bears on
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related

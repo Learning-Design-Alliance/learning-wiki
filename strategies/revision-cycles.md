@@ -89,6 +89,7 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
 - [Equity-leveling admissions interview with lesson delivery, feedback, and revision](feedback-revision-admissions-interview.md)
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
+- [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
 
 ## Examples
 - **Calibrated Peer Review (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.

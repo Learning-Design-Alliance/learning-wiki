@@ -44,3 +44,4 @@ The chapter reports, citing Vaccaro et al., a preregistered meta-analysis of 106
 
 ## Related Claims
 - [Human-AI combinations on average performed worse than the best of humans or AI alone, with losses in decision-making but gains in content creation tasks](human-ai-combinations-worse-than-best-alone.md) — possibly the same claim (merge candidate)
+- [Synergy is more likely in simpler content generation tasks and when humans exceed AI performance](synergy-conditions-task-complexity-human-superiority.md) — possibly the same claim (merge candidate)

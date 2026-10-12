@@ -49,3 +49,4 @@ Stage 1 analysis of the 378 authored items (126 per label) showed mean stem leng
 - [Editing questions according to a hypothesis shifts measured difficulty in the expected direction](hypothesis-guided-editing-shifts-difficulty-causally.md) — related
 - [Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions](hypothesis-predictor-matches-black-box-regressors.md) — related
 - [Adding generated hypotheses as features improves black-box difficulty predictors](hypothesis-features-improve-difficulty-predictors.md) — related
+- [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related

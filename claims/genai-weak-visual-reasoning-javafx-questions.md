@@ -45,3 +45,4 @@ Error analysis of the exam's image-based questions, presented as a single screen
 ## Related Claims
 - [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — reports the opposite
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
+- [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related

@@ -56,6 +56,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI](quantized-edtech-governance-deployment-strategy.md)
 - [Use the taxonomy as a self-assessment and strategic-planning roadmap for institutional AI adoption](taxonomy-as-ai-self-assessment-roadmap.md)
+- [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 
 ## Examples
 -

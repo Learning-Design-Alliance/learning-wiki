@@ -47,3 +47,4 @@ The survey attributes this to Aiba et al. (2024), describing a system where lear
 
 ## Related Claims
 - [Real-time in-session feedback remains rare among presentation-coaching systems](real-time-feedback-rare-in-coaching-systems.md) — related
+- [Combining AI-generated information with teacher intervention is associated with improved student performance, participation, confidence, and reduced anxiety in K-12 AI-based instruction](ai-plus-teacher-intervention-student-benefits.md) — related

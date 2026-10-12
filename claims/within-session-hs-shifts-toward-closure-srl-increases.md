@@ -78,3 +78,5 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
 - [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related
+- [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
+- [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](student-pressure-shifts-ai-toward-answers.md) — related

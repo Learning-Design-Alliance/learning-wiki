@@ -46,6 +46,8 @@ Participants described moving away from unsupervised written essays toward more 
 - [Redesign AI-era physics courses around an unaided written examination with mock exams, prepared tutorial discussion, and research-shaped tasks as bonus work with scaffolding](kt1-next-course-redesign-strategy.md)
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 - [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
+- [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
+- [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article recommends treating model output as a trigger for timely academic gu
 - [Combine in-school and out-of-school data sources to understand and support students flagged as at risk](combine-school-and-human-services-data-for-risk-support.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
+- [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Automatic evaluation using Gemini-2.5-Flash under deterministic decoding scored 
 - [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](generated-textbook-videos-easier-to-follow-than-plain-text.md) — related
 - [PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions](pivot-best-narration-quality-scores.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related

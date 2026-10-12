@@ -47,3 +47,4 @@ Case-based error analysis of Relative Position responses across the evaluated mo
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — a broader claim this one bears on
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related
+- [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — a narrower finding that bears on this claim

@@ -21,6 +21,7 @@ An open-source platform developed by the INJECT team for delivering tabletop exe
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **INJECT Exercise Platform (IXP) with integrated automated team-assessment methods**: The IXP is an open-source learning platform for tabletop exercises in which teams interact only with teammates and the platform, which delivers scenario messages and logs each team's activity, e.g., milestone achievements, tool usage, and email responses. In this study the TTXs were conducted in-person using the IXP, instructors role-played actors via email, and the platform recorded the log data that both assessment methods consumed. The IXP team has since incorporated the paper's assessment methods into the latest version of the platform. (V. Švábenský et al. (2026))
+- **INJECT Process: five-phase lifecycle for designing, executing, and reflecting on digital tabletop exercises**: The INJECT Process is "a way to design, execute, and reflect TTXs with the IXP" consisting of five phases inspired by design thinking: understanding, specification, preparation, execution, and reflection. It leverages best practices for instructional design and TTXs and is tailored to digital TTXs with the platform's features. Each phase has a defined purpose, from establishing whether the exercise is worth building to post-exercise analysis and improvement of future runs. (J. Vykopal et al. (2026))
 
 ### Claims
 - [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](../claims/clustering-ttx-team-assessment-aligns-instructor-scores.md) [+M]
@@ -30,3 +31,4 @@ An open-source platform developed by the INJECT team for delivering tabletop exe
 
 ## Key Sources
 - V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209v1
+- J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179

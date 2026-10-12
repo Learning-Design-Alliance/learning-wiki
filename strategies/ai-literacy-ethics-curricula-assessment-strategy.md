@@ -56,6 +56,8 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 - [Embed structured AI literacy in business curricula: teach verification, comparison, and transparent AI-use declarations rather than restricting or unrestrictedly encouraging GenAI](structured-ai-literacy-genai-business-curricula.md)
+- [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
+- [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 
 ## Examples
 -

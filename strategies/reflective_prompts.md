@@ -59,9 +59,11 @@ Reflection prompts work because they force the generative processing that passiv
 5. Vary prompts across sessions to prevent ritualization; revisit earlier responses at project close to make growth visible.
 
 ## Related Strategies
+
 - **Exit tickets** — the briefest implementation: one prompt, one minute, collected at the door
 - **Learning journals** — sustained written reflection across a term, of which single prompts are the atomic unit
 - **One-minute papers** — a research-validated classroom variant focused on "what was the muddiest point?"
+- [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
 - At the end of a history lesson, students respond to "What is one thing you learned, and one question you still have?" on an exit ticket; the teacher sorts responses to plan the next session's opening.

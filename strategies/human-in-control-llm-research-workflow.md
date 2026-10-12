@@ -38,7 +38,8 @@ The article discloses a human–AI collaborative methodology in which LLMs serve
 - Transparent reporting of AI assistance and preservation of human epistemic responsibility
 
 ## Related Strategies
-- 
+
+- [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
 
 ## Examples
 -

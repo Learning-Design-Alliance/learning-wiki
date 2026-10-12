@@ -70,3 +70,4 @@ The review attributes to Shoufan's study that "students valued ChatGPT’s expla
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for](assumed-background-audience-signals.md) — related
+- [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related

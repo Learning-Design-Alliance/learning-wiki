@@ -74,3 +74,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — related
+- [An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance](kbd-path-model-responsible-behavior-predicts-motivation-acceptance.md) — related

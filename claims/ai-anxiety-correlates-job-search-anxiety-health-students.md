@@ -50,3 +50,5 @@ Cross-sectional survey of 821 health sciences students at Turkish universities u
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
 - [Income status negatively and educational level positively predict job search anxiety](income-education-predict-job-search-anxiety.md) — related
 - [Both scales showed acceptable-to-good confirmatory factor fit in this sample](aias-jsas-confirmatory-fit-health-students.md) — related
+- [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
+- [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related

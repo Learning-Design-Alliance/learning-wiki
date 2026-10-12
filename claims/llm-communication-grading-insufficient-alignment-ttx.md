@@ -49,3 +49,4 @@ Evaluation (RQ1) of LLM grading of teams' incident-response emails against instr
 - [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related
 - [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — related
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — related
+- [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related

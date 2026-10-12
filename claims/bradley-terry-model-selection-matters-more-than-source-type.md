@@ -77,3 +77,4 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus](llm-judge-reliability-tutoring-sycophancy.md) — related
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — related
 - [The ConvTutor–PedTutor helpfulness ordering is judge-contingent, reversing between the Opus and Sol judges on two of three tutor bases](helpfulness-ordering-judge-contingent.md) — a narrower finding that bears on this claim
+- [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — related

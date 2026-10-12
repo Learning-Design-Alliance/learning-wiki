@@ -45,3 +45,4 @@ Case-study audit of the Stage 2 episode S0-54 (a statistics learner with a 1% di
 ## Related Claims
 - [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related
 - [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — related
+- [Verification initiation, process quality, and success are distinct constructs that should not be collapsed](verification-initiation-quality-success-distinct.md) — related

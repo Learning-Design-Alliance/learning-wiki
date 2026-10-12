@@ -48,3 +48,5 @@ Qualitative case analysis (§4.2) of refined versions of one signed multiplicati
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
 - [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
+- [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
+- [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related

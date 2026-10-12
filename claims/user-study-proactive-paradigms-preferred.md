@@ -66,3 +66,4 @@ Interaction-log analysis in the same user study (Table 5) prints, for example, w
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](provide-context-rate-nonmonotonic.md) — related
+- [No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms](no-single-paradigm-dominates-subjective-ratings.md) — related

@@ -47,3 +47,4 @@ This is a null finding from a single study's sub-sample (n=136) and should not b
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
+- [In the tested structural model, contextual support positively predicts trust calibration and collaborative regulation, trust calibration positively predicts collaborative regulation and perceived transfer gains, and collaborative regulation shows the strongest association with perceived transfer gains](sem-structural-paths-genai-collaboration-model.md) — related

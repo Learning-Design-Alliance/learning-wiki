@@ -47,6 +47,7 @@ The article recommends that universities address AI anxiety as a risk factor in 
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
+- [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 
 ## Examples
 -

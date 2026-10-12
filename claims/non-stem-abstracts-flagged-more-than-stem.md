@@ -47,3 +47,4 @@ Domain-level analysis of 2023–2025 original abstracts (Table 4) scored by Pang
 - [Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively](detector-scores-track-long-token-and-awl-density.md) — related
 - [No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low](no-threshold-satisfies-all-three-error-rates.md) — related
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
+- [Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels](pangram-flagged-45-percent-real-theses.md) — related

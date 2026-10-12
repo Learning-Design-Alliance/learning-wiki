@@ -63,3 +63,4 @@ Hierarchical regression predicting GenAI shortcut reliance (N = 819; R2 = .078),
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related
 - [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — related
+- [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related

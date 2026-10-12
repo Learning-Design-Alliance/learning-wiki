@@ -47,6 +47,7 @@ This strategy replaces AI bans with formative oral assessments: after each weekl
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding](critique-ai-output-assignment-sequence.md)
 - [Mini homework defenses: short oral one-on-one assessments of student solutions](mini-homework-defenses-oral-assessment.md)
+- [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
 
 ## Examples
 -

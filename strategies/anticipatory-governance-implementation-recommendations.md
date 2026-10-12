@@ -52,6 +52,7 @@ The review's practical recommendations translate its findings into implementable
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
+- [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 
 ## Examples
 -

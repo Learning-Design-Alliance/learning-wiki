@@ -69,3 +69,4 @@ Turn- and sentence-level Enhanced Milieu Teaching codebook analysis over N=60,74
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
+- [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related

@@ -47,3 +47,4 @@ Interview study of 19 computing students: in the results on hiding behaviors and
 - [Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment](addiction-metaphors-ai-use.md) — related
 - [Students shame themselves, peers, and in one case a faculty member for using AI](shaming-self-peers-faculty-ai-use.md) — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
+- [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related

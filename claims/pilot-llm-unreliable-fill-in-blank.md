@@ -46,3 +46,4 @@ Observation from the pilot workshop (n=7) interaction logs and screen recordings
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions](chatgpt-completes-all-150-qiskit-homework-sessions.md) — related
+- [Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle](ai-as-critical-file-design.md) — related

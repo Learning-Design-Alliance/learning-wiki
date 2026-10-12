@@ -88,6 +88,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
+- [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
+- [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 
 ## Examples
 -

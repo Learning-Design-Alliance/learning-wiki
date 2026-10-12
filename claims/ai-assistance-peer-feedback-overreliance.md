@@ -56,3 +56,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [Performance improvements from generative AI assistance diminished once the assistance was removed](genai-performance-gains-diminish-without-assistance.md) — possibly the same claim (merge candidate)
 - [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](cognitive-debt-reactive-ai-approaches-insufficient.md) — a broader claim this one bears on
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — related
+- [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — related

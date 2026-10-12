@@ -40,7 +40,8 @@ The article recommends using LCF-identified risk subgroups to decide which stude
 - [Latent Class Forest Method](../research-methods/latent-class-forest.md)
 
 ## Related Strategies
-- 
+
+- [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 
 ## Examples
 -

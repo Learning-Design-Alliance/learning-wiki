@@ -53,3 +53,4 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — reports the opposite
 - [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — related
 - [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — a narrower finding that bears on this claim
+- [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related

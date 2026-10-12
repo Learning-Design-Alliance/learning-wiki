@@ -50,3 +50,5 @@ Pearson correlation analysis (Table 2) in the 315-student sample, where mean AI 
 - [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](career-adaptability-mediation-ai-anxiety-career-decisions.md) — related
 - [Career adaptability positively predicts college students' career decisions](career-adaptability-positively-predicts-career-decisions.md) — related
 - [Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions](self-efficacy-moderation-insignificant-ai-anxiety.md) — related
+- [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
+- [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related

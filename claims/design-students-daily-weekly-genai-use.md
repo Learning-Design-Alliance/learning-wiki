@@ -49,3 +49,4 @@ Self-report survey of design students at the Politecnico di Milano School of Des
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
+- [Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it](ai-use-exceeds-willingness-to-trust.md) — related

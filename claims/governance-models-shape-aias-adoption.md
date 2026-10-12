@@ -50,3 +50,4 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 - [National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows](exam-washback-drives-language-policy.md) — related
 - [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related
 - [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
+- [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related

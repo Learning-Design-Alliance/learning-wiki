@@ -47,3 +47,5 @@ Observational analysis of failure prevalence in Zero-Shot outputs across topics 
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — a broader claim this one bears on
 - [Validator agent reliability is highest for realism and lowest for authenticity in human evaluation](validator-reliability-highest-realism-lowest-authenticity.md) — related
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
+- [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
+- [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related

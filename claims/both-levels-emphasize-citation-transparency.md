@@ -47,3 +47,4 @@ Course syllabus coding found 83% of the 98 syllabi with explicit acknowledgement
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
 - [Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines](course-syllabi-anthropomorphize-genai.md) — related
 - [Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools](specific-tools-named-in-syllabi-not-institutional.md) — related
+- [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related

@@ -63,3 +63,4 @@ A 2024 international survey of 4,000 university students across 16 countries, as
 ## Related Claims
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](community-adults-broad-generalized-ai-concerns.md) — related
+- [Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it](ai-use-exceeds-willingness-to-trust.md) — related

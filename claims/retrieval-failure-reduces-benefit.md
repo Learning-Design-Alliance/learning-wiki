@@ -68,3 +68,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
 - [Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient](evidence-tracing-114-claims-retrieval-limit.md) — related
 - [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](natural-language-feedback-lower-persistent-failure-odds.md) — related
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related

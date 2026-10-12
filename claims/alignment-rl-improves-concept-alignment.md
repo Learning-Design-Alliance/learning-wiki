@@ -50,3 +50,4 @@ Ablation on the XES3G5M Application Module evaluating questions generated for tr
 - [Without alignment training, generated questions collapse to similar content regardless of the intended knowledge concept, whereas KT4EQG questions spread across many verified KCs](alignment-training-prevents-question-collapse.md) — related
 - [KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase](consistent-gains-across-practice-rounds.md) — related
 - [Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time](pruning-mechanism-improves-f1-and-training-time.md) — related
+- [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related

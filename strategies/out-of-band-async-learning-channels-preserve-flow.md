@@ -42,6 +42,7 @@ The article recommends that learning interventions "surface through out-of-band 
 - [Maintain a per-developer evolving concept map to triage teachable moments and calibrate interventions](evolving-concept-map-triage-teachable-moments.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 - [Asynchronous Voice](asynchronous_voice.md)
+- [Six engagement-based incentive mechanisms that build evaluative moments into chatbot interaction](six-engagement-mechanisms-trust-calibration.md)
 
 ## Examples
 -

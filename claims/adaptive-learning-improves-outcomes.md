@@ -107,3 +107,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](its-reduces-executive-state-ma-improves-algebra.md) — a narrower finding that bears on this claim
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
 - [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — a narrower finding that bears on this claim
+- [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related

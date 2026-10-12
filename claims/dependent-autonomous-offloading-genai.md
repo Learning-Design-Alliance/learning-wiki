@@ -58,3 +58,4 @@ The review reports, citing Zhu et al. (2026), a three-wave study of 589 universi
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use](perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai.md) — related
+- [Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress](genai-augmentation-associated-perceived-learning.md) — related

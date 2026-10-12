@@ -75,3 +75,4 @@ Survey evidence the review cites for persistence in grading practice: instructor
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
 - [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](ai-detectors-reported-unreliable-biased.md) — related
 - [Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives](humanizers-frame-evasion-as-rational-self-defense.md) — related
+- [All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent](all-tools-accurate-on-human-written-papers.md) — related

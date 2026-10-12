@@ -41,6 +41,7 @@ The article's responsible-use recommendation is to deploy LLM-based student simu
 - [Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts](supervised-llm-support-preliminary-legal-drafting.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators](automated-reflection-preliminary-feedback-educator-final.md)
+- [Deploy simulated students in four directions: teacher training, social learning, data generation, and content evaluation](four-directions-llm-simulated-students.md)
 
 ## Examples
 -

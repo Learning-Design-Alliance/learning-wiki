@@ -48,3 +48,4 @@ Simulation-based evaluation of seven instruction-tuned LLMs on Malrule and EEDI 
 - [Sycophantic failure manifests as indiscriminate correct flips rather than explicit sycophantic agreement, and SFT shifts behavior toward pushback and maintain under non-targeted feedback](sycophancy-via-correct-flip-not-verbal-agreement.md) — related
 - [Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)](model-capability-negatively-correlates-sfs.md) — related
 - [Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators](multi-turn-reflection-does-not-restore-sfs.md) — a narrower finding that bears on this claim
+- [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related

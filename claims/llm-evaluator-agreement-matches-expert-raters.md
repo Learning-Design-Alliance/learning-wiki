@@ -54,3 +54,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related
 - [Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary](learnopt-llm-tagging-kappa.md) — related
 - [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related
+- [The star-to-sentiment labeling rule agrees with human review-level labels at Cohen's kappa 0.66 with 82% accuracy on 3,000 RateMyProfessor teacher reviews](star-label-rule-kappa-066-82-percent.md) — related

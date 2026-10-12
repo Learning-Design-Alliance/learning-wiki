@@ -40,6 +40,7 @@ SHIELD maintains a Developer's Evolving Concept Map, "a per-developer representa
 
 - Shield Multi Agent Incidental Learning System
 - [Deliver learning through asynchronous out-of-band channels that preserve developer flow](out-of-band-async-learning-channels-preserve-flow.md)
+- [Six engagement-based incentive mechanisms that build evaluative moments into chatbot interaction](six-engagement-mechanisms-trust-calibration.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Benchmark of fifteen predictors (regressions, decision trees, neural networks) o
 - [Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes](ablation-feature-groups-engagement-forecasting.md) — related
 - [Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency](effort-vs-progress-distinct-feature-drivers.md) — related
 - [Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%](percentile-heuristics-overpredict-weekly-engagement.md) — related
+- [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related

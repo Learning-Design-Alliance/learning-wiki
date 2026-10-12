@@ -46,6 +46,7 @@ The article recommends that universities design interventions addressing technol
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
 - [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
+- [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 
 ## Examples
 -

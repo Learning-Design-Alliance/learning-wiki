@@ -47,3 +47,4 @@ Ablation on ASSISTments2009 across six architectures (DKT, DKVMN, AKT, SAINT, Re
 - [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](mbp-kt-greater-gains-sparse-learners.md) — related
 - [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — a narrower finding that bears on this claim
 - [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
+- [In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones](tsdr-ablation-smoothness-on-imputation-branch.md) — related

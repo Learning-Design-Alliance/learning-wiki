@@ -64,3 +64,5 @@ Difficulty-based analysis of Skills scores averaged across models (Figure 6a), w
 ## Related Claims
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
 - [LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels](llm-difficulty-labels-track-structural-item-features.md) — related
+- [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
+- [Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category](spiral-hardest-basic-geometry-easiest-categories.md) — related

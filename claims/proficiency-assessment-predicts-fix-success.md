@@ -46,3 +46,4 @@ Exploratory analysis in the main Prolific study testing whether the piloted eigh
 - [LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance](llm-error-rewrites-subjective-not-objective-gains.md) — related
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
