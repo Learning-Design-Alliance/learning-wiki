@@ -177,6 +177,35 @@ def _inbound(wiki: "Wiki", pid: str) -> int:
     return sum(len(v) for v in wiki.edges.get(wiki.folder_of.get(kind, ""), {}).get(slug, {}).values())
 
 
+def _names_hub(p: dict, terms: list) -> bool:
+    """True when the query names this page: every word of its title, or of one of its
+    aliases, is in the query (stems compared; filler words ignored)."""
+    q = {t[:5] for t in terms if t not in _FILLER}
+    for name in [p.get("title") or ""] + [a.replace("-", " ").replace("_", " ") for a in p.get("aliases") or []]:
+        words = [t[:5] for t in _tokens(name) if t not in _FILLER]
+        if words and len(words) <= 4 and all(w in q for w in words):
+            return True
+    return False
+
+
+def _hub_rows(wiki: "Wiki", terms: list, kind, seen: set) -> list:
+    """Canonical pages the query names (_names_hub), as rows shaped like
+    search_index.query's. The every-word pass needs each word somewhere on the page, so a
+    hub whose body never says "long-term" was missing from "spaced practice for long-term
+    retention" altogether, while four of its own fragments filled the top of the list."""
+    out = []
+    for pid, p in wiki.pages.items():
+        if not p.get("canonical") or (kind and p["type"] != kind) or not _names_hub(p, terms):
+            continue
+        k, slug = pid.split("/", 1)
+        folder = wiki.folder_of.get(k)
+        path = f"{folder}/{slug}.md"
+        if path in seen:
+            continue
+        out.append((path, folder, slug, p.get("title") or slug, p.get("description") or "", p.get("status"), 0.0))
+    return out
+
+
 def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limit: int):
     """The same search through search_index.py's FTS5 index, which answers in
     milliseconds at any wiki size where the scan below reads every page. Returns
@@ -204,6 +233,7 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             seen = {r[0][0] for r in rows}
             rows += [(r, "some") for r in search_index.query(db, query, folder=folder, limit=limit * 6, mode="OR")
                      if r[0] not in seen]
+        rows += [(r, "all") for r in _hub_rows(wiki, terms, kind, {r[0][0] for r in rows})]
     except Exception:
         return None
     scored = []
@@ -219,7 +249,9 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
         score += 10 if phrase in " ".join(_tokens(title)) else 0
         # How many query words the title and description carry: a page ABOUT the
         # query names its words there, a page that merely mentions them does not.
-        title_desc = " ".join(_tokens(f"{title} {desc}"))
+        # A page's aliases are names it answers to (spaced-learning is also spaced-practice).
+        aliases = " ".join(a.replace("-", " ").replace("_", " ") for a in wiki.pages[pid].get("aliases") or [])
+        title_desc = " ".join(_tokens(f"{title} {desc} {aliases}"))
         covered = sum(1 for t in terms if re.search(rf"\b{re.escape(t[:5])}", title_desc))
         if mode == "some":
             # Below every all-words match, ordered by that coverage.
@@ -234,7 +266,11 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             # hub that merely mentions the words in its body gets no lift.
             score += 15
         elif wiki.pages[pid].get("canonical"):
-            pass
+            # The query names the hub without every word: a smaller lift. A designer's question carries words
+            # the hub's title does not ("spaced practice for long-term retention" against
+            # Spaced Learning), and without this its own fragments outranked it (2026-10-12).
+            if _names_hub(wiki.pages[pid], terms):
+                score += 12
         elif status == "draft":
             score *= 0.8 if score > 0 else 1.2
         scored.append((score, pid, sorted(fields or {"body"}), mode))

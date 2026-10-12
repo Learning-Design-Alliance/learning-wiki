@@ -15,6 +15,7 @@ as known. Nothing here writes to a wiki page.
     python3 scripts/code_evidence_axes.py --pages ... --code [--run b] [--budget 1]
     python3 scripts/code_evidence_axes.py --new --code       # claims added in the working tree (the batch)
     python3 scripts/code_evidence_axes.py --contrasts [--run cells]
+    python3 scripts/code_evidence_axes.py --expertise [--budget 3]   # fill stated learner expertise
 
 Cells go to eval/runs/evidence-axes/<run>.ndjson (default run "cells", the store the
 batch adds to and render_evidence_map.py reads), keyed like code_kind_rigour.py, so
@@ -89,6 +90,10 @@ Rules:
 - "quote": the sentence(s) from the STUDY TEXT that show the direction, copied exactly. If there is
   no study text, quote the entry and say so in "note".
 - For a synthesis, code the pooled result, and code L/G/C as what the included studies covered ("mixed" if they vary).
+- L.expertise is the learners' prior knowledge of what is being taught, as the text states it: a
+  pretest level, an inclusion or exclusion rule ("no prior programming", children scoring under 75%
+  on the pretest), "beginning readers", "experienced nurses"; results split by prior knowledge are
+  "mixed". Age, grade or "undergraduates" alone is not expertise: "?" then.
 
 Reply: {{"cells": [{{"L": {{"expertise": ..., "age": ...}}, "G": {{"knowledge_type": ..., "element_interactivity": ...}},
 "C": {{"setting": ..., "duration": ...}}, "D": {{"variable": ..., "treatment": "short phrase", "comparison": "short phrase"}},
@@ -108,6 +113,32 @@ def valid(cell: dict) -> list:
     return bad
 
 
+CELL_KEYS = {"L", "G", "C", "D", "O", "result", "quote", "note"}
+AXIS_KEYS = {"L": {"expertise", "age", "expertise_quote", "expertise_checked"}, "G": {"knowledge_type", "element_interactivity"},
+             "C": {"setting", "duration"}, "D": {"variable", "treatment", "comparison"},
+             "O": {"outcome", "timing", "outcome_detail"}, "result": {"direction", "design", "effect"}}
+
+
+def malformed(cells: list) -> str:
+    """Why a reply's cells are structurally broken, or "" when they are not. This is the
+    shape, not the values: a value outside the vocabulary is valid() and stays, flagged."""
+    if not isinstance(cells, list):
+        return "cells is not a list"
+    for c in cells:
+        if not isinstance(c, dict):
+            return "a cell is not an object"
+        extra = set(c) - CELL_KEYS
+        if extra:
+            return f"unexpected keys {sorted(extra)[:3]}"
+        for axis, keys in AXIS_KEYS.items():
+            v = c.get(axis)
+            if v is not None and not isinstance(v, dict):
+                return f"{axis} is not an object"
+            if isinstance(v, dict) and set(v) - keys:
+                return f"unexpected keys in {axis}: {sorted(set(v) - keys)[:3]}"
+    return ""
+
+
 def code_one(job, api_key, model, run):
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
@@ -122,6 +153,11 @@ def code_one(job, api_key, model, run):
     gen = _retry(lambda: oc.generate(model, SYSTEM, prompt_for(block, basis, source, text if basis != "entry" else None),
                                      api_key, max_tokens=4000))
     d = extract_json(gen.raw_text) or {}
+    broken = malformed(d.get("cells") or [])
+    if broken:
+        # Not stored, so the next run asks again: 208 records (1.3%) had the model's own
+        # reasoning written in as keys, or cells that were not objects (2026-10-12).
+        raise ValueError(f"malformed cells for {r['claim']}#{anchor}: {broken}")
     cells = []
     for c in (d.get("cells") or [])[:4]:
         q = c.get("quote") or ""
@@ -186,6 +222,76 @@ def main():
     print(f"coded {len(todo) - errors} (errors {errors}), ${spent:.3f} -> {out}")
 
 
+EXPERTISE_PROMPT = """Below is a study's text. Does the TEXT ITSELF state the learners' prior
+knowledge of what is being taught: a pretest level, an inclusion or exclusion rule ("no prior
+programming experience"), "beginning readers", "experienced nurses", or results split by prior
+knowledge? Age, grade or "undergraduates" alone does not count, nor does anything about a
+simulated student, a teacher, or a comparison between schools.
+Reply: {{"stated": true|false, "level": "novice|intermediate|advanced|mixed", "quote": "<the exact sentence, copied, or empty>"}}
+
+TEXT:
+{text}"""
+
+
+def recode_expertise(run: str, model: str, budget: float, workers: int) -> None:
+    """Fill L.expertise where a cell has "?" and the study's full text states the learners'
+    prior knowledge. Only causal cells about a design variable are asked (the ones a
+    designer's "for novices or for experts?" question rests on), only from full text, and an
+    answer is kept only when its quote is verbatim in the text, as a cell's own quote must be.
+    A sample of 30 found half the texts say something, about a third of them usably."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    path = OUTDIR / f"{run}.ndjson"
+    recs = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    causal = {"randomized", "controlled-nonrandom", "within-subject", "synthesis-experimental"}
+
+    def wants(c):
+        return (isinstance(c, dict) and isinstance(c.get("L"), dict) and c["L"].get("expertise") in (None, "?")
+                and not c["L"].get("expertise_checked")
+                and (c.get("D") or {}).get("variable") not in (None, "other", "learner-difference", "?")
+                and (c.get("result") or {}).get("design") in causal)
+
+    todo = [i for i, r in enumerate(recs) if r.get("basis") == "full text" and any(wants(c) for c in r.get("cells") or [])]
+    print(f"{len(todo)} record(s) with causal design cells of unknown expertise and full text")
+    key = os.environ["OPENROUTER_API_KEY"]
+
+    def one(i):
+        r = recs[i]
+        text = clb.source_text(r["source"]) if hasattr(clb, "source_text") else None
+        if not text:
+            p = WIKI_ROOT / "eval" / "corpus" / "cache" / f"{r['source']}.txt"
+            text = p.read_text(encoding="utf-8", errors="replace") if p.exists() else ""
+        if not text:
+            return i, None, 0
+        gen = _retry(lambda: oc.generate(model, SYSTEM, EXPERTISE_PROMPT.format(text=text[:40000]), key, max_tokens=2000))
+        d = extract_json(gen.raw_text) or {}
+        q = d.get("quote") or ""
+        ok = bool(d.get("stated")) and d.get("level") in ("novice", "intermediate", "advanced", "mixed") \
+            and len(norm(q)) >= 16 and norm(q) in norm(text)
+        return i, ({"level": d["level"], "quote": q} if ok else {}), gen.cost_usd or 0
+
+    spent = filled = 0
+    with concurrent.futures.ThreadPoolExecutor(workers) as ex:
+        for f in concurrent.futures.as_completed([ex.submit(one, i) for i in todo]):
+            i, found, cost = f.result()
+            spent += cost
+            if found is None:
+                continue
+            for c in recs[i].get("cells") or []:
+                if wants(c):
+                    c["L"]["expertise_checked"] = True
+                    if found:
+                        c["L"]["expertise"] = found["level"]
+                        c["L"]["expertise_quote"] = found["quote"]
+                        filled += 1
+            if spent > budget:
+                print(f"budget ${budget} reached")
+                ex.shutdown(cancel_futures=True)
+                break
+    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in recs), encoding="utf-8")
+    print(f"expertise filled on {filled} cell(s); ${spent:.3f}")
+
+
 def _retry(call, tries=6):
     import time
     for i in range(tries):
@@ -248,6 +354,13 @@ if __name__ == "__main__" and "--contrasts" in sys.argv:
         assign_contrasts(_run)
     else:
         print(f"no cells in run {_run}; nothing to name")
+    sys.exit(0)
+
+
+if __name__ == "__main__" and "--expertise" in sys.argv:
+    _run = sys.argv[sys.argv.index("--run") + 1] if "--run" in sys.argv else "cells"
+    _budget = float(sys.argv[sys.argv.index("--budget") + 1]) if "--budget" in sys.argv else 3.0
+    recode_expertise(_run, "openai/gpt-5.6-luna", _budget, 10)
     sys.exit(0)
 
 
