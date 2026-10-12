@@ -50,3 +50,4 @@ Conclusion drawn from the qualitative narratives: "In most cases, the motivation
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
 - [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](learning-studios-engagement-persistence-indicators.md) — reports the opposite
+- [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related

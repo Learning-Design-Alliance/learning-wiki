@@ -45,6 +45,7 @@ The authors position the system as supporting deliberate practice — repeated, 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ The review attributes to Makransky et al. (2025) that a chatbot prompting studen
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — a narrower finding that bears on this claim
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](strategic-offloading-intentional-transformative-learning.md) — related
+- [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related

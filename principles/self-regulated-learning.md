@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 22 studies (8 causal, 5 quant-synthesis, 3 review, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 23 studies (8 causal, 5 quant-synthesis, 4 theoretical, 3 review, 3 associational), `q1`–`q4` · 8 of 23 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -77,6 +77,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](../claims/reflection-selective-not-blanket-ai-rejection.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Insert a brief pre-decision metacognitive reflection prompt after AI consultation to promote discriminative reliance on AI advice"; tests this page's relationship.
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M] — attached 2026-10-11 from Ren S (2026), which proposed "Insert a brief pre-decision metacognitive reflection prompt after AI consultation to promote discriminative reliance on AI advice"; tests this page's relationship.
 - [APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration](../claims/apca-improves-self-assessment-accuracy-overconfidence.md) [~W] — attached 2026-10-11 from Dai (2026), which proposed "Embed AI writing tools within instructional support structures rather than treating them merely as instant feedback sources"; tests this page's relationship.
+- [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](../claims/unguided-genai-benefits-advantaged-students.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "Teachers should explicitly teach AI-interaction literacy, with particular attention to students with lower academic self-efficacy or less developed study skills"; tests this page's relationship.
+- [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](../claims/genai-qualitative-shift-requires-meta-level-interventions.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "Teachers should explicitly teach AI-interaction literacy, with particular attention to students with lower academic self-efficacy or less developed study skills".
 
 ## Objective and learner-valued goal
 

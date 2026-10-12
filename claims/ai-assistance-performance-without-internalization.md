@@ -54,3 +54,6 @@ Cross-contextual observational synthesis (Section 6), explicitly framed as conce
 - [Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution](capacity-expansion-not-labor-substitution.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — a narrower finding that bears on this claim
 - [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](ai-feedback-tool-supports-feedback-literacy-development.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — a narrower finding that bears on this claim
+- [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related

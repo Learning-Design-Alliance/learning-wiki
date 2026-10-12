@@ -53,3 +53,4 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
+- [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related

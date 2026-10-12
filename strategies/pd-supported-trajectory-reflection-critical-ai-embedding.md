@@ -49,6 +49,8 @@ The article recommends that professional development move beyond tool demonstrat
 - [Integrate LLM-based CRP support tools within professional development to encourage teacher reflection beyond template-based outputs](integrate-llm-crp-tools-in-professional-development.md)
 - [Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts](experience-based-ai-design-teacher-pd.md)
 - [Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education](structured-institutional-support-teacher-ai-readiness.md)
+- [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
+- [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 
 ## Examples
 -

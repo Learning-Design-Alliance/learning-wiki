@@ -49,6 +49,7 @@ The article recommends that instructors treat the design thinking stages, partic
 - [Evaluate instructor-authored AI teaching cases by checking seeds, attempting the analysis with student materials only, and keeping data and teaching materials under joint review](instructor-review-of-authored-cases.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
+- [Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output](ai-co-creation-of-emotional-micro-interventions.md)
 
 ## Examples
 -

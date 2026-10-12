@@ -43,3 +43,5 @@ Age-group ANOVAs (Tables 5) and career-type ANOVAs (Table 6) in the 127-faculty 
 ## Related Claims
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students](grade-differences-limited-to-skill-application-first-year-higher.md) — related
+- [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](teaching-experience-no-aick-gain.md) — related

@@ -48,3 +48,4 @@ Authors' interpretation of the case-study dialogue: considering how the PECAS Me
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — possibly the same claim (merge candidate)
 - [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](edm-learning-analytics-practice-concerns.md) — related
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](instructors-part-of-the-solution-frameshift.md) — related
+- [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

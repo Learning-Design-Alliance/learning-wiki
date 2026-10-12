@@ -50,3 +50,5 @@ Qualitative analysis of one episode beginning at minute 33:20 with a red-framed 
 - [Three simultaneous negative-emotion alerts prompted a collective reframing of the task that coincided with branching of multiple students' engagement structures at once](simultaneous-alerts-prompt-collective-branching.md) — related
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
+- [Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative](micro-intervention-triple-function-validate-reframe-connect.md) — related
+- [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related

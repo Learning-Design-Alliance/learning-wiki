@@ -44,3 +44,4 @@ Descriptive analysis of recorded final grades for all MLME students, shown in Fi
 
 ## Related Claims
 - [In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation](cps-gradebook-category-weights-assessments-dominate.md) — related
+- [AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations](pbl-ai-sixteen-publications-high-peer-evaluations.md) — related

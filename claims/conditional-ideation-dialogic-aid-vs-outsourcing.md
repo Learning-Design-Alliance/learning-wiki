@@ -54,3 +54,6 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related
 - [Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability](instructors-update-practices-to-retain-authority-accountability.md) — related
+- [AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks](ai-connectedness-psychologically-real-ethically-asymmetric.md) — related
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related

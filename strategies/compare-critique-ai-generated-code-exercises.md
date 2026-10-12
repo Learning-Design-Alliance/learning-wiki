@@ -45,6 +45,7 @@ A concrete integration recipe in which instructors design ChatGPT-supported acti
 - [Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs](structured-integration-critical-evaluation-ai-physics.md)
 - [Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions](prompt-analyse-revise-classroom-exercise.md)
 - [Calibrate GenAI feedback through calibrated prompts and pedagogical (re-)framing](calibrated-prompts-and-pedagogical-reframing.md)
+- [Scenario B: constructing, critiquing, and reframing AI-mediated arguments](scenario-construct-critique-reframe-arguments.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Vista pre-post analysis of the Renaissance STAR benchmark assessment (Lexile sco
 ## Related Claims
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
 - [Middle school students used BrainPOP ESL far more than high school students and reported more positive experiences with the tool](brainpop-middle-school-more-engaged-than-high-school.md) — related
+- [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related

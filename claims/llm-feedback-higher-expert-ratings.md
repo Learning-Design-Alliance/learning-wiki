@@ -47,3 +47,4 @@ Expert quality-rating study (§5.1): two blind college-level English instructors
 - [A substantial part of the LLM rating advantage appears attributable to comment length, as length-adjusted scores converge on every dimension except tone](length-explains-llm-rating-advantage.md) — related
 - [Insta-Reviewer generates near-human-quality feedback on student project reports, outperforming expert feedback on Problems and Positive Tone but trailing it on Readability, Suggestions, and Factuality](insta-reviewer-near-human-project-report-feedback.md) — related
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related

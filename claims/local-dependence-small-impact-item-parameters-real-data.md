@@ -50,3 +50,4 @@ Analysis of the reading sections of six operational test forms (2005-2007 admini
 - [Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch](irt-model-mismatch-polytomous-items.md) — related
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related
+- [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related

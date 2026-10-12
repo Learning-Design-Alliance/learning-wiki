@@ -57,3 +57,4 @@ Interview theme on hidden productivity costs: P14 must "explain the context repe
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities](invisible-learning-beyond-ai-answers.md) — a narrower finding that bears on this claim
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related

@@ -49,3 +49,4 @@ Result of the review's database synthesis: although the search window was chosen
 - [The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation](arab-ai-el2-evidence-limitations.md) — related
 - [Questionnaire-based perception surveys were the most common research design among the 11 included studies, with sample sizes ranging from 20 to 350 participants](questionnaire-designs-dominate-arab-ai-el2-studies.md) — related
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
+- [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related

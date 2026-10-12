@@ -52,3 +52,4 @@ Conceptual argument citing Roth and Lee's Grade 7 environmental-science project,
 - [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](user-goals-contradict-educational-objectives.md) — a narrower finding that bears on this claim
 - [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](interdisciplinarity-competing-definitions-approaches.md) — related
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
+- [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related

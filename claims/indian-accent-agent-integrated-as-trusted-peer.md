@@ -49,3 +49,4 @@ Interaction Analysis case study of Group 6 in the Indian-accent condition. After
 - [Teachers drawing Black- and Indian-accented agents predominantly depicted them as human, while British-accented agents were drawn as technology](accent-shapes-drawn-agent-form-human-vs-technology.md) — related
 - [Agent accent condition showed no statistically significant differences in teachers' ratings of the agent's proficiency, etiquette, or personality](no-significant-accent-differences-casux-subscales.md) — related
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

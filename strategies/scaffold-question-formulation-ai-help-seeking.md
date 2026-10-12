@@ -43,6 +43,7 @@ Based on observed differences in inquiry behavior, the article recommends that "
 - [Help Seeking](help-seeking.md)
 - [Embed metacognitive scaffolds in GenAI search systems — prompting sub-question formulation, guiding output comparison, and encouraging reflection on AI-user knowledge discrepancies](genai-metacognitive-scaffolds-for-laziness.md)
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
+- [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 
 ## Examples
 -

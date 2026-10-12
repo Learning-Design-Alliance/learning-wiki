@@ -51,3 +51,4 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related
+- [Explanatory feedback alone raises both perceived fairness and decision acceptance, and the indirect effect of agent on acceptance is significant only when explanations are provided](explanatory-feedback-main-effects-and-conditional-indirect-effect.md) — related

@@ -90,6 +90,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
 - [Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks](detection-tools-within-broader-decision-process.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
+- [Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed](educator-collaboration-sharing-genai-tool-insights.md)
+- [Professional development for AI ethics should create spaces for contextualised critique and resistance](pd-contextualised-critique-ai-ethics.md)
 
 ## Examples
 -

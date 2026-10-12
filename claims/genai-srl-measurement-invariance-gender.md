@@ -44,3 +44,4 @@ Measurement invariance testing via configural, metric, and scalar multi-group CF
 
 ## Related Claims
 - [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related

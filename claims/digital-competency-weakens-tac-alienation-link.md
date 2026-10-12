@@ -1,0 +1,47 @@
+---
+type: claim
+title: Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation
+description: Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation
+id: digital-competency-weakens-tac-alienation-link
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: sun-jingsong-2026
+    resource: "https://doi.org/10.3390/bs16071118"
+    title: "Sun Jingsong, Xing Yingyu, Yuan Guipeng, Cai Qihai. (2026). The Double-Edged Sword Effects of Teacher–AI Collaboration on Work Engagement: A Self-Determination Theory Perspective. Behavioral Sciences. https://doi.org/10.3390/bs16071118"
+    author: Sun Jingsong, Xing Yingyu, Yuan Guipeng, Cai Qihai
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
+## Subclaims
+`q3 i?` The positive relationship between teacher–AI collaboration and work alienation is less prominent at high than low digital competency. [→ Sun Jingsong 2026](#sun-jingsong-2026)
+
+## Evidence
+
+### Sun Jingsong 2026
+
+Sun Jingsong, Xing Yingyu, Yuan Guipeng, Cai Qihai. (2026). The Double-Edged Sword Effects of Teacher–AI Collaboration on Work Engagement: A Self-Determination Theory Perspective. Behavioral Sciences. https://doi.org/10.3390/bs16071118
+
+`q3 · i?` · `associational · r2`
+
+Moderation regression (Table 4, Model 6) showed a significant TAC × DC interaction predicting work alienation (β = −0.09, p < 0.001); Table 6 gives simple slopes of 0.38 (low DC) down to 0.17 (high DC).
+
+> "In contrast, Figure 3 demonstrates that the positive relationship between teacher–AI collaboration and work alienation is less prominent among individuals with high digital competence than among those with low digital competence."
+
+## Discussion
+
+
+## Related Claims
+- [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
+- [Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement](work-alienation-mediation-teacher-ai-engagement.md) — related

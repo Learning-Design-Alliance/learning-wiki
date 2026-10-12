@@ -70,3 +70,4 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

@@ -44,3 +44,4 @@ Descriptive analysis of the cross-sectional survey (Table 1) shows reported AI-s
 
 ## Related Claims
 - [A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms](ai-adaptation-gap-students-faculty-staff.md) — a broader claim this one bears on
+- [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — related

@@ -54,3 +54,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
+- [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related

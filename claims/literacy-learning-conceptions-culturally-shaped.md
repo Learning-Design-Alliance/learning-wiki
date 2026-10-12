@@ -71,3 +71,4 @@ The authors' comparative policy observation: England's National Literacy Strateg
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Citizens allied to challenge a dysfunctional power structure and learned together how to move the system toward more equitable outcomes](civic-alliance-learning-for-equitable-outcomes.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related

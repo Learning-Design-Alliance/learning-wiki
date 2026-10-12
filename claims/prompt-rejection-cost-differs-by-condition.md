@@ -47,3 +47,4 @@ Within-student reject-minus-accept contrasts in answer quality for well-specifie
 - [Workshop students asked more follow-up questions after accepting underspecified prompts](workshop-increases-follow-up-questioning.md) — related
 - [Workshop students achieved modestly higher final task-performance scores](workshop-modest-final-performance-gain.md) — related
 - [Workshop students' correctness judgments of LLM responses were more sensitive to prompt specification](workshop-improves-response-evaluation-sensitivity.md) — related
+- [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](interpretable-ai-mechanisms-clearer-benefits.md) — related

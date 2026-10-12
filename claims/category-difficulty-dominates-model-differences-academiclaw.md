@@ -44,3 +44,4 @@ Domain-level analysis of the six-model evaluation (Table 4 and Figure 4), report
 
 ## Related Claims
 - [Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic](risk-category-dominates-educational-safety-variance.md) — related
+- [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related

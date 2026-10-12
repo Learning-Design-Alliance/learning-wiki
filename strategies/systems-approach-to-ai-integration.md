@@ -49,6 +49,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
 - [Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies](infrastructure-pd-policy-bridge-ai-intention-practice-gap.md)
+- [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 
 ## Examples
 -

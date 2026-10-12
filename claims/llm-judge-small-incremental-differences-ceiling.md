@@ -47,3 +47,4 @@ LLM-as-a-judge evaluation of 120 learning activities across four Gemini models a
 - [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](slm-judges-show-severe-leniency-bias.md) — related
 - [MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size](mas-cmd-higher-active-learning-rating-than-mas-roles.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
+- [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related

@@ -45,3 +45,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 ## Related Claims
 - [The Photon Fusion VR learning system achieves stable real-time communication with minimal device load](photon-fusion-stable-realtime-communication.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — related

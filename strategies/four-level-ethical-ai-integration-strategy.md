@@ -60,6 +60,8 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
+- [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
+- [Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis](ai-literacy-pd-critical-ethical-pedagogical.md)
 
 ## Examples
 -

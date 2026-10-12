@@ -50,6 +50,7 @@ Drawing on recent AI-focused literature, the review recommends orienting AI prof
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 - [Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy](pd-supported-trajectory-reflection-critical-ai-embedding.md)
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
+- [Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies](supervised-practicum-ai-focused-pedagogies.md)
 
 ## Examples
 -

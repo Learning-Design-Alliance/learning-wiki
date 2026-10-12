@@ -51,3 +51,5 @@ Bootstrapped specific indirect effects (5,000 samples) in the PLS-SEM model of 5
 - [The study's findings are context-specific and do not demonstrate AI literacy or learning gains because no baseline measure was collected](no-baseline-literacy-gains-context-specific-findings.md) — related
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
+- [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — related

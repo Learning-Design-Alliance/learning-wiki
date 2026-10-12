@@ -56,3 +56,4 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 - [Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers](no-formal-training-lower-positive-genai-beliefs.md) — related
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
+- [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related

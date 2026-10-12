@@ -72,3 +72,4 @@ Pangram 4 detector applied to essays from the same randomized experiment. The ar
 - [Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors](admissions-officers-detect-ai-essays-auc-070.md) — related
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](did-2-34-mark-advantage-verified-ai-materials.md) — related
+- [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related

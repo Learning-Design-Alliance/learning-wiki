@@ -75,3 +75,4 @@ Follow-up results section: low-education treated participants "stilllagbehindthe
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — reports the opposite
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — reports the opposite
+- [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](ai-assistant-short-term-gains-harm-durable-learning.md) — reports the opposite

@@ -43,6 +43,8 @@ The article recommends embedding dynamic user models that monitor students' inte
 ## Related Strategies
 
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
+- [Targeted interventions and adaptive feedback to move learners from Observation toward full-cycle Exploration](adaptive-feedback-move-observation-to-exploration.md)
+- [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Document analysis of institutional policy pages across the 50-institution corpus
 ## Related Claims
 - [Institutional ambiguity varies sharply across universities, and binding silence does not determine ambiguity](institutional-ambiguity-varies-binding-silence-not-determinative.md) — related
 - [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
+- [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related

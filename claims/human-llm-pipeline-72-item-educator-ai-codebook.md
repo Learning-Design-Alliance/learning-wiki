@@ -50,3 +50,4 @@ Methodological case study reporting the consolidated output of LLM-human collabo
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%)](instructional-practices-largest-domain-36-5-percent.md) — related
 - [Open, axial, and selective coding of student interviews yielded 286 meaning units, 44 initial codes, and 11 axial categories integrated into the four focal constructs](qualitative-four-dimensions-coding-saturation.md) — related
+- [Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles](eleven-digital-literacy-element-categories-review.md) — related

@@ -79,3 +79,15 @@ The article reports, citing Bastani et al. (2025), a randomized trial of nearly 
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related
 - [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — related
+- [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](ai-assistant-short-term-gains-harm-durable-learning.md) — related
+- [The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed](ai-performance-mastery-decoupling-review-report.md) — possibly the same claim (merge candidate)
+- [Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions](ai-support-performance-continuity-to-independent-performance.md) — reports the opposite
+- [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related
+- [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
+- [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
+- [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
+- [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — related
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
+- [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — a narrower finding that bears on this claim
+- [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
+- [Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT](think-first-chatgpt-creativity-reversal.md) — related

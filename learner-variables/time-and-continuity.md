@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (68 for, 18 mixed, 12 against) · 86 studies (33 causal, 17 associational, 16 review, 8 quant-synthesis, 5 design, 4 theoretical, 3 qualitative), `q1`–`q4` · 19 of 86 report an effect size · 94 claims rest on one study
+> **Evidence** · 99 claims (69 for, 18 mixed, 12 against) · 87 studies (34 causal, 17 associational, 16 review, 8 quant-synthesis, 5 design, 4 theoretical, 3 qualitative), `q1`–`q4` · 20 of 87 report an effect size · 95 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -131,6 +131,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders](../claims/video-documentation-pause-act-rewind-bottleneck.md) [+M] — instruction changes it
 - [Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving](../claims/intervention-timing-delayed-response-independent-solving.md) [~M] — an instructional effect differs with it
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](../claims/ai-substitution-inclusion-and-time-tradeoffs.md) [~W] — instruction changes it
+- [Performance incentives increase time invested in the assisted reasoning task](../claims/incentives-increase-stage1-completion-time.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

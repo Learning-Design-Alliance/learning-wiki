@@ -54,3 +54,4 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners](chatgpt-steam-ibl-participant-gaps.md) — related
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related
 - [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
+- [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related

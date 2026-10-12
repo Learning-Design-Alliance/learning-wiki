@@ -41,6 +41,7 @@ The report's new 2001 technology profiles assess support for technology integrat
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
 - [Address Digital Literacy](address_digital_literacy.md)
+- [Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work](institutional-support-for-faculty-udl.md)
 
 ## Examples
 -

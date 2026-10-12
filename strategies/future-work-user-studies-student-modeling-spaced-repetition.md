@@ -46,6 +46,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Retrain and evaluate the wellness system on locally collected, clinically validated data, then run a formal user evaluation before wider deployment](local-dass21-recollection-and-formal-user-evaluation-strategy.md)
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
+- [Best practices for RL in education: evaluate live with actual users at scale, look beyond STEM, and target under-served learner groups including children](rl-education-best-practices-live-evaluation-beyond-stem.md)
 
 ## Examples
 -

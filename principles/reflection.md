@@ -126,6 +126,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - Post-practicum debriefs that identify one concrete change for the next round.
 - [Reflective Journaling](../strategies/reflective-journals.md)
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](../strategies/pre-action-review-and-sentence-starters-for-cobi.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

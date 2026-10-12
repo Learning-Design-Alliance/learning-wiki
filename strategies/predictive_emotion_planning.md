@@ -62,9 +62,11 @@ Anticipating emotional states supports self-regulated learning by giving learner
 6. Afterward, compare predicted to actual emotions and revise strategies — this feedback loop is what improves forecasting accuracy over time ([Assessment](../elements/assessment.md) for learning)
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the routine that surfaces current emotional states; predictive planning extends check-ins forward in time
 - [Action Planning](action_planning.md) — the general planning skill this strategy applies to the emotional domain
 - [Achievable Micro-Goals](achievable_micro-goals.md) — coping plans often take the form of small, concrete process goals
+- [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the element that operationalizes emotion identification before and after activities

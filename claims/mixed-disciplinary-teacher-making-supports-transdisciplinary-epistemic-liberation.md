@@ -54,3 +54,4 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — related
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related

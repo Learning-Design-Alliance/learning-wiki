@@ -13,7 +13,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (3 associational, 1 causal, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 7 studies (4 associational, 1 causal, 1 review, 1 theoretical), `q1`–`q2` · 2 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -52,6 +52,9 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration](../claims/ai-tpack-integration-differs-by-cluster.md) [+W] — attached 2026-10-10 from Sun et al. (2025), which proposed "AI-TPACK framework operationalized as four AI-specific knowledge dimensions for analyzing generative-AI-era teacher design".
 - [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](../claims/cognitive-affective-profiles-explain-design-behaviors.md) [+W] — attached 2026-10-10 from Sun et al. (2025), which proposed "AI-TPACK framework operationalized as four AI-specific knowledge dimensions for analyzing generative-AI-era teacher design".
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](../claims/additive-tpack-belief-models-weak-intervention-guidance.md) [~W] — attached 2026-10-10 from Mnguni L (2026), which proposed "CDM-AIR: a capability–decision model ordering AI-TPACK upstream of TPB beliefs with context as antecedent and moderator".
+- [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK](../claims/ai-tk-indirect-path-aick.md) [+M] — attached 2026-10-12 from Meijuan Xie (2025), which proposed "AI-TPACK framework: integrating artificial intelligence into TPACK".
+- [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement](../claims/teaching-beliefs-negative-aick.md) [~W] — attached 2026-10-12 from Meijuan Xie (2025), which proposed "AI-TPACK framework: integrating artificial intelligence into TPACK".
+- [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](../claims/genai-tpk-ethical-dimensions-cross-cutting.md) [~W] — attached 2026-10-12 from Ó Ceallaigh et al. (2026), which proposed "GenAI-specific Technological Pedagogical Knowledge (TPK) as a context-dependent knowledge domain extending TPACK".
 
 ## Related Theories
 
@@ -63,8 +66,10 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) — a complementary framework for judging the effect a specific technology choice is having, once a TPACK-informed choice has been made
 
 ## Examples
+
 - Choosing simulation software over a static diagram because it lets students manipulate variables a way the content and the pedagogical goal (inquiry-based understanding of a process) both call for
 - A whiteboard used differently in a teacher-led lecture (front of room, teacher-controlled) versus a brainstorming session (open to all, focal point for negotiation) — same technology, different TPK depending on pedagogical intent
+- [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](../strategies/educator-ai-literacy-and-critical-engagement.md)
 
 ## Key Sources
 - Koehler, M. J., & Mishra, P. (2009). What is technological pedagogical content knowledge? *Contemporary Issues in Technology and Teacher Education, 9*(1), 60–70. [https://edtechbooks.org/lidtfoundations/tpack](https://edtechbooks.org/lidtfoundations/tpack)

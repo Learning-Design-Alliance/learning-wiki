@@ -46,3 +46,4 @@ Criterion-validity analysis using Pearson correlations between the six GenAI-SRL
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](genai-srl-six-factor-structure-l2-writing.md) — related
+- [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related

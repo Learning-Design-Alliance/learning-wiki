@@ -69,3 +69,4 @@ OLS regression comparing scaffolded novices to baseline LLM novices with a treat
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Extending mandated daily study time from three to four hours produces no significant performance gains for novices](extra-time-on-task-no-gain-novices.md) — related
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
+- [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related

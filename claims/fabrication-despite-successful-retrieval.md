@@ -66,3 +66,4 @@ Ungrounded-answer analysis of Arm A in the same evaluation. The article reports 
 - [Standard semantic retrieval alone does not reliably recover the pedagogically required chunk types, with comparison chunks retrieved worst (14.3% on the real corpus)](semantic-retrieval-insufficient-pedagogical-content.md) — related
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md) — related
 - [The wiki's advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness](wiki-advantage-triples-cross-page-questions.md) — related
+- [NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers](nli-reference-based-grading-limitation.md) — related

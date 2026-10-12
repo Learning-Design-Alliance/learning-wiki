@@ -53,3 +53,4 @@ Survey of academic staff at an Australian university administered in 2023 explor
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — a narrower finding that bears on this claim
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [A multi-source study identifies eight key areas of ethical consideration regarding teachers' use of AI for student feedback](eight-ethical-areas-teacher-ai-feedback.md) — related
+- [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related

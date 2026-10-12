@@ -41,6 +41,7 @@ The authors recommend that future programming-support systems adapt explanations
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Deliver AI-generated visual explanations adaptively based on learner engagement profiles rather than uniformly](adaptive-delivery-gats-by-engagement-profile.md)
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
+- [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 
 ## Examples
 -

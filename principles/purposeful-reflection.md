@@ -90,6 +90,7 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 - [LDA Reflection](../patterns/lda-reflection.md)
 - [Vary reflection timing between in-the-moment and future-focused reflections](../strategies/vary-in-the-moment-and-future-focused-reflections.md)
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
+- [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](../strategies/pre-action-review-and-sentence-starters-for-cobi.md)
 
 ## Key Sources
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)

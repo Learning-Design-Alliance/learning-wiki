@@ -46,6 +46,7 @@ Based on the identified importance-performance gap in faculty competence, the ar
 - [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
+- [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 
 ## Examples
 -

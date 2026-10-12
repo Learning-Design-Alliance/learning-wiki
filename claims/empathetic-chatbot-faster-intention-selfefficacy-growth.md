@@ -50,3 +50,4 @@ Linear mixed-effects model on check-in form responses from the six-week within-s
 - [LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different](llm-epitome-scores-differentiate-nonempathetic.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
+- [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](health-behavior-change-short-term-promising.md) — related

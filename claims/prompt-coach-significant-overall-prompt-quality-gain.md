@@ -65,3 +65,5 @@ Participant-level results from the same pre/post study: "13 out of 15 participan
 - [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](post-test-decline-after-ai-tutor-session.md) — related
 - [Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience](prompt-baseline-quality-not-scaled-with-experience.md) — related
 - [Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](prompt-coach-largest-gains-on-baseline-blind-spots.md) — related
+- [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related
+- [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related

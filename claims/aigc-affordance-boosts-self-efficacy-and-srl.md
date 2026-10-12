@@ -51,3 +51,4 @@ PLS-SEM structural model on survey data from 689 undergraduates in IEI-linked pr
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related
 - [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](feedback-quality-motivation-mediated-srl-path.md) — related
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
+- [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related

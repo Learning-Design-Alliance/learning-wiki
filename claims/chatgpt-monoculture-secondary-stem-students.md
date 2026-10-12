@@ -46,3 +46,4 @@ Descriptive survey results (Section B) from n = 416 Czech secondary students in 
 - [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [ChatGPT was the most used GenAI tool across all three physics assessments, with Copilot a distant second](chatgpt-most-used-genai-tool-physics-assessments.md) — related
+- [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related

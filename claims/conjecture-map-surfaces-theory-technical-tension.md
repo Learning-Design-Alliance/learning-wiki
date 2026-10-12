@@ -47,3 +47,4 @@ Case study report of a one-hour edited dialogue session in which an interdiscipl
 - [First-time computer scientist users' contributions fit naturally into the adapted conjecture map format](conjecture-map-familiar-to-computer-scientists.md) — related
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — possibly the same claim (merge candidate)
 - [Sociology-of-science concerns: data-reliance in education risks tunnel-vision, unhealthy reductionism, and inequitable power dynamics](sociology-concerns-datafication-reductionism-power.md) — related
+- [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

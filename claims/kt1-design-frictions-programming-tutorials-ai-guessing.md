@@ -46,3 +46,4 @@ Instructor and staff notes plus survey themes from the KT1 course: pre-disclosed
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience](kt1-model-resistance-six-of-ten-assignments.md) — related
 - [The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal](cycle-break-safety-mechanism-concept-graphs.md) — related
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — related

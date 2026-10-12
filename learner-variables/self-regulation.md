@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (70 for, 21 mixed, 8 against) · 76 studies (20 associational, 16 causal, 16 review, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 17 of 76 report an effect size · 91 claims rest on one study
+> **Evidence** · 105 claims (72 for, 25 mixed, 8 against) · 80 studies (21 associational, 18 review, 17 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 80 report an effect size · 97 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -132,6 +132,12 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](../claims/genai-self-scaffold-versus-outsourcing.md) [~M] — an instructional effect differs with it
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](../claims/prompt-type-differences-general-vs-regulated.md) [+M] — instruction changes it
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](../claims/genai-feedback-tm-marginal-other-srl-null.md) [~M] — instruction changes it
+- [AI chatbots in VET show promising effects on self-regulation and task performance](../claims/ai-chatbots-vet-self-regulation-task-performance.md) [+M] — instruction changes it
+- [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](../claims/dual-mediation-ai-efficacy-srl-opposite-patterns.md) [~M] — learners who differ on it differ in outcomes
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](../claims/genai-agency-supportive-patterns.md) [~M] — learners who differ on it differ in outcomes
+- [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](../claims/metacognition-gates-genai-use-quality.md) [+M] — instruction changes it
+- [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](../claims/socratic-prompts-reflection-directive-overload-qualitative.md) [~M] — instruction changes it
+- [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation](../claims/socratic-feedback-comprehension-monitoring-task-orientation.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

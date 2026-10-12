@@ -45,6 +45,7 @@ The authors recommend designing learning environments that make evaluation an ex
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 - [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
+- [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 
 ## Examples
 -

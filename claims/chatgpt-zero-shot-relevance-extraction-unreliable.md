@@ -55,3 +55,4 @@ Preliminary zero-shot analysis using ChatGPT as the first-stage summarization/re
 - [Llama3 quote extraction failed and sentiment outputs required substantial post-processing, with 20% of Reflection 1 labels unmatched by the human coder](llama3-post-processing-burden-prompt-sensitivity.md) — related
 - [Current LLMs misalign instructional-strategy sensitivity with pedagogical relevance, including hallucinated relevance of irrelevant traits](llm-relevance-impact-misalignment-learner-characteristics.md) — related
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related
+- [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related

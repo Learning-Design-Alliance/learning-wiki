@@ -50,3 +50,4 @@ A definitional/interpretive statement in the report's introduction explaining th
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](opportunistic-rcts-strong-evidence-low-cost.md) — related
 - [ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes](ed-competition-rationale-lacks-empirical-evidence.md) — related
+- [The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies](ai-vet-evidence-base-only-five-randomized-studies.md) — a narrower finding that bears on this claim

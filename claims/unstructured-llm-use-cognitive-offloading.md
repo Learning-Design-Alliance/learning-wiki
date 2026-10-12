@@ -1,0 +1,51 @@
+---
+type: claim
+title: Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
+description: Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
+id: unstructured-llm-use-cognitive-offloading
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: weak
+sources:
+  - id: mireia-vendrell-2026
+    resource: "https://doi.org/10.1016/j.caeai.2026.100572"
+    title: "Mireia Vendrell, Samantha-Kaye Johnston. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100572"
+    author: Mireia Vendrell, Samantha-Kaye Johnston
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
+---
+
+# Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q2`
+
+## Subclaims
+`q2 i?` Students relying on LLMs for inquiry tasks report lower cognitive effort and produce weaker arguments than peers using traditional search. [→ Mireia Vendrell 2026](#mireia-vendrell-2026)
+
+## Evidence
+
+### Mireia Vendrell 2026
+
+Mireia Vendrell, Samantha-Kaye Johnston. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100572
+
+`q2 · i?` · `theoretical · r2`
+
+The article reports, citing Stadler et al. (2024), an experimental comparison in which LLM-supported inquiry students showed "lower cognitive effort and produced weaker arguments" than search-engine peers; the review attributes this finding to that study.
+
+> "Stadler et al. (2024) found that students using LLMs for inquiry-based tasks reported lower cognitive effort and produced weaker arguments, suggesting a trade-off between fluency and depth."
+
+## Discussion
+
+
+## Related Claims
+- [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — related
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
+- [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related

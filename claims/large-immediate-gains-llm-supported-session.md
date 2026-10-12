@@ -46,3 +46,4 @@ Single-group pre-post study of 22 postgraduate business students in a 90-minute 
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](post-test-decline-after-ai-tutor-session.md) — related
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related

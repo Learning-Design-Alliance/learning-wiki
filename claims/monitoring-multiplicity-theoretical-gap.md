@@ -46,3 +46,4 @@ Theoretical gap analysis of Scenario 7 (Core Integrated Learning) in the analysi
 - [Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise](fca-self-monitoring-gateway-multiple-pathways.md) — related
 - [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — related
+- [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related

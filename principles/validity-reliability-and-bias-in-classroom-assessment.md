@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (48 for, 17 mixed, 3 against) · 53 studies (17 associational, 11 design, 9 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 53 report an effect size · 67 claims rest on one study
+> **Evidence** · 71 claims (51 for, 17 mixed, 3 against) · 55 studies (18 associational, 11 design, 10 review, 9 theoretical, 6 causal, 1 quant-synthesis), `q1`–`q3` · 5 of 55 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,9 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](../claims/rubric-revision-improves-machine-alignment.md) [+W] — attached 2026-10-11 from Pei-Yu Tseng et al. (2026), which proposed "Rubric revision pattern: separate construct from surface cues, specify valid evidence, make scoring logic operational, and make adjacent boundaries explicit".
 - [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](../claims/assessment-twins-triangulate-evidence-mitigate-threats.md) [+W] — attached 2026-10-11 from Jasper Roe et al. (2026), which proposed "Respond to GenAI assessment threats with validity-focused redesign that prioritises pedagogy rather than surveillance or prohibition"; tests this page's relationship.
 - [AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses](../claims/ai-mid-range-scoring-degradation-u-shape.md) [-W] — attached 2026-10-11 from Abigail Victoria Gurin Schleifer et al. (2026), which proposed "Deploy automated scoring as a first pass that auto-handles extreme-quality responses and routes predicted mid-range responses to a human rater"; tests this page's relationship.
+- [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](../claims/llm-grading-moderate-human-agreement-icc.md) [+W] — attached 2026-10-12 from Marcin Jukiewicz (2025), which proposed "Align LLM grader selection with pedagogical goals and maintain human oversight"; tests this page's relationship.
+- [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](../claims/llms-differ-liberal-restrictive-balanced-grading-styles.md) [+W] — attached 2026-10-12 from Marcin Jukiewicz (2025), which proposed "Align LLM grader selection with pedagogical goals and maintain human oversight"; tests this page's relationship.
+- [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](../claims/ai-detection-unreliable-biased-high-stakes.md) [+W] — attached 2026-10-12 from Sangwa et al. (2025), which proposed "AI-aware assessment patterns shift evaluation toward process evidence and demonstration of judgment"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

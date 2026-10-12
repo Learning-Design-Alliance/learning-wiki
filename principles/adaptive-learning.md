@@ -123,6 +123,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
 - [Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring](../strategies/early-prediction-adaptive-pedagogical-strategy.md)
 - [Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data](../strategies/in-game-scaffolds-with-usage-tracking.md)
+- [Use AI to support autonomy-supportive task adaptation in physical education rather than algorithmic exercise prescription](../strategies/autonomy-supportive-ai-task-adaptation-pe.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

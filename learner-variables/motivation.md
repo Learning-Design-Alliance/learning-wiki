@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (87 for, 24 mixed, 14 against) · 109 studies (33 associational, 28 causal, 20 review, 9 qualitative, 7 design, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 19 of 109 report an effect size · 118 claims rest on one study
+> **Evidence** · 135 claims (93 for, 27 mixed, 15 against) · 116 studies (36 associational, 30 causal, 20 review, 10 qualitative, 7 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 21 of 116 report an effect size · 128 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -159,6 +159,16 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](../claims/ru-predicts-pse-and-engagement-pse-null.md) [+M] — instruction changes it
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](../claims/teacher-support-direct-effect-engagement-ai.md) [+M] — instruction changes it
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](../claims/effort-meaning-inverted-u-shape.md) [~M] — instruction changes it
+- [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](../claims/ai-feedback-progress-motivates-revision.md) [+W] — learners who differ on it differ in outcomes
+- [Entertainment motivation carries a positive indirect association between AI dependence and self-reported creativity, weakening as perceived AI literacy increases](../claims/entertainment-motivation-positive-indirect-pathway.md) [~M] — learners who differ on it differ in outcomes
+- [Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity](../claims/escape-motivation-negative-indirect-pathway.md) [+M] — learners who differ on it differ in outcomes
+- [Innovative competence differs by background variables, with AI interest level showing the strongest association](../claims/innovative-competence-background-heterogeneity-ai-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](../claims/ai-gbl-motivation-most-consistent-outcome.md) [+M] — instruction changes it
+- [Perceived AI literacy moderates the first-stage paths from AI dependence to escape, social, and entertainment motivation, but not to instrumental motivation](../claims/ai-literacy-moderates-first-stage-motivation-paths.md) [~M] — instruction changes it
+- [Teacher–AI collaboration is positively related to university teachers' work engagement](../claims/teacher-ai-collaboration-positively-related-work-engagement.md) [+W] — instruction changes it
+- [The generative AI relevance intervention did not significantly increase students' interest in the math class](../claims/ai-relevance-intervention-no-interest-effect.md) [-M] — instruction changes it
+- [The indirect association through social motivation is model-dependent: negative in the unconditional model but positive and attenuating with higher perceived AI literacy in the moderated model](../claims/social-motivation-model-dependent-indirect-pathway.md) [~M] — learners who differ on it differ in outcomes
+- [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](../claims/ada-significantly-raises-situational-interest.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

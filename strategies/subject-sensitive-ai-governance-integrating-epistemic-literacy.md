@@ -53,6 +53,7 @@ The article recommends moving beyond restrictive governance toward "a framework 
 - [Teach the pedagogical rationale behind AI policies rather than only stating rules](teach-pedagogical-rationale-behind-ai-policies.md)
 - [Move beyond permit-or-restrict GenAI policies toward policies that clarify appropriate use, support equitable access, and extend rather than replace independent reasoning](genai-policy-clarify-access-extend-reasoning.md)
 - [Provide explicit pedagogical guidance on effective and ethical GenAI use within specific assessment contexts, beyond prohibitions](explicit-pedagogical-guidance-genai-assessment-contexts.md)
+- [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 
 ## Examples
 -

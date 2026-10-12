@@ -44,6 +44,7 @@ Based on its synthesis, the review recommends that sustainable AI integration in
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Pursue ethical AI feedback use as a collective effort across multiple stakeholders in and beyond higher education](collective-stakeholder-effort-ethical-ai.md)
+- [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 
 ## Examples
 -

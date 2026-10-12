@@ -45,3 +45,4 @@ Theoretical argument in the report's abstract and introduction, citing the Natio
 - [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](rpp-researchers-roles-beyond-research.md) — related
 - [Including educator voice helps researchers understand educator, student, and system needs](educator-voice-needed-research-relevance.md) — possibly the same claim (merge candidate)
 - [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related
+- [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — related

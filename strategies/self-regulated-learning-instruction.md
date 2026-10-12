@@ -69,6 +69,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - [Achievable_Micro-Goals](../strategies/achievable_micro-goals.md) — goal-setting component at fine grain size
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](sycophancy-specific-critical-prompting-strategies.md)
+- [Teacher supports for self-regulated GenAI feedback engagement](teacher-supports-self-regulated-genai-feedback.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups rotate the roles of summarizer, questioner, clarifier, and predictor while reading; the teacher models then fades, transferring regulation to students over ~20 sessions.

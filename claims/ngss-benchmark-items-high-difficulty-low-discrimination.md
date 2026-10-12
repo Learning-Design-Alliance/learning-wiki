@@ -47,3 +47,4 @@ Item-level psychometric analysis (Part II, RQ2) of difficulty and discrimination
 - [A larger share of AI-generated questions were highly or very highly discriminating (36%) compared to standardized test questions (21%)](ai-items-higher-share-high-discrimination.md) — reports the opposite
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
 - [CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms](csebench-item-quality-reliability.md) — related
+- [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related

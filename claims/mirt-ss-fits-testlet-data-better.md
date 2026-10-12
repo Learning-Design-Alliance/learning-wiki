@@ -51,3 +51,4 @@ Model-fit comparison across the six operational reading data sets using the like
 - [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](real-data-reliability-overestimated-2-3-to-4-9-percent.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch](irt-model-mismatch-polytomous-items.md) — related
+- [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related

@@ -65,6 +65,7 @@ Anticipating emotions before they occur is a form of situation selection and cog
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Organize teachers into shared-content teams with at least 90 minutes weekly to plan instruction and embed social-emotional skills](weekly-shared-content-teacher-teams.md)
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
+- [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
 
 ## Examples
 - A second-grade teacher reviews the morning schedule on a pocket chart, and students place emotion-face cards next to math, reading, and recess, then add one strategy each to a class "toolbox" chart referenced during transitions.

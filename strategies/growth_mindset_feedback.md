@@ -64,6 +64,7 @@ Feedback that addresses the task and the learning process produces stronger lear
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning](cultivate-approach-goals-manage-ai-feedback-anxiety.md)
+- [Embed growth-mindset messages framing technological competence as developable into existing curricula as a low-cost, broad-reach intervention](embed-growth-mindset-messages-in-curricula-for-ai-literacy.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Children praised for effort after success subsequently chose harder tasks and persisted longer after failure than children praised for intelligence [+S]

@@ -61,9 +61,11 @@ Anticipating emotions is a form of [implementation-intention](../principles/self
 6. After the task, debrief: compare predicted to actual emotions and refine the coping plans
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the routine practice that builds the climate and vocabulary this strategy depends on
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a playful format for building emotion vocabulary in younger learners
 - [Normalizing Error and Struggle](../strategies/normalizing-error.md) — the broader framing work that pre-discussion of emotions supports
+- [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
 
 ## Examples
 - **Before a first peer-code-review session**, an instructor tells the class: "Having your code critiqued often stings at first — that's a sign you care. When you feel defensive, your job is to write down the feedback and ask one clarifying question instead of responding."

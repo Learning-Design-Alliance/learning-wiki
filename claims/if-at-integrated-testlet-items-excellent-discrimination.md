@@ -48,3 +48,4 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — related
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
+- [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related

@@ -44,3 +44,4 @@ WestEd's calculations from a scan of publicly available district and state POGs,
 
 ## Related Claims
 - [POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts](pog-development-approaches-vary-state-versus-district.md) — related
+- [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related

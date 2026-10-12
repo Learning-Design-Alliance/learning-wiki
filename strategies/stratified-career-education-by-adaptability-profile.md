@@ -42,7 +42,8 @@ Because latent profile analysis revealed pronounced heterogeneity, with over 40%
 - Resource Internalization Anxiety Pathway
 
 ## Related Strategies
-- 
+
+- [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 
 ## Examples
 -

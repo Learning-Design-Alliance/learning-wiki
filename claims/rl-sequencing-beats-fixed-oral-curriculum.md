@@ -49,3 +49,4 @@ Controlled eight-week training experiment comparing RL-optimized sequencing agai
 - [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](rl-reward-misalignment-failure-modes.md) — related
 - [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) — related
 - [Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time](pruning-mechanism-improves-f1-and-training-time.md) — related
+- [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related

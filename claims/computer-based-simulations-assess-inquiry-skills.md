@@ -47,3 +47,4 @@ The paper describes computer-based case simulations measuring physicians' patien
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Middle school students began the study with weak information problem-solving knowledge and especially weak application ability](students-weak-initial-il-skills.md) — related
 - [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related
+- [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — a narrower finding that bears on this claim

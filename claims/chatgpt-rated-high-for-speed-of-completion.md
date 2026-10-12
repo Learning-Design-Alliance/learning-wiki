@@ -51,3 +51,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high](perceived-deep-learning-benefits-declined-over-term.md) — related
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
+- [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related

@@ -69,3 +69,4 @@ The article contrasts the Egger's test result with an earlier vote count: "a vot
 - [Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings](failsafe-n-publication-bias-not-a-threat.md) — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
+- [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — reports the opposite

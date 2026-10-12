@@ -52,6 +52,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
+- [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 
 ## Examples
 -

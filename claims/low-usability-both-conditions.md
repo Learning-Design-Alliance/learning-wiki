@@ -49,3 +49,4 @@ System Usability Scale ratings in the 42-student experiment: Mindful M=55.56 (D 
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related
 - [Students rated the usability of the AIvaluate assessment in the SUS 'good' range](aivaluate-sus-usability-good-range.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — reports the opposite

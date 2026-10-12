@@ -40,7 +40,8 @@ The authors suggest teachers make explicit which parts of a task students want A
 - [Epistemic Proactivity Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Scenario A: designing and deconstructing AI prompts as an epistemic practice](scenario-prompt-design-deconstruction.md)
 
 ## Examples
 -

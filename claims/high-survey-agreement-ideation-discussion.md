@@ -51,3 +51,4 @@ Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Z
 - [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
+- [Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns](high-satisfaction-genai-steam-gradual-and-fluctuating.md) — related

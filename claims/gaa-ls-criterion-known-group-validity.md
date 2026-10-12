@@ -45,3 +45,4 @@ Study 2 criterion-related validity correlations. The subscale pattern was theore
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives](gaa-ls-cfa-model-comparison.md) — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
+- [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](sfailq-criterion-validity-correlations.md) — related

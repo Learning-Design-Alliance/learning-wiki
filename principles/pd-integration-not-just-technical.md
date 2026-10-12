@@ -18,7 +18,7 @@ sources:
 # Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report argues that professional development remains a key issue for creating digital learning environments and that "professional development that guides teachers on the effective integration of digital content and tools rather than just offer-ing technical know-how proves particularly successful." It supports this with survey statistics showing trained teachers rely on software and the Internet at almost double the rate of untrained teachers, and urges schools to ensure professional development truly supports their digital learning goals.
@@ -38,7 +38,9 @@ The report argues that professional development remains a key issue for creating
 - effective integration of digital content and tools into instruction
 
 ### Claims
+
 - [Pd Integration Training Doubles Reliance](../claims/pd-integration-training-doubles-reliance.md) [+M]
+- [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](../claims/teacher-interviews-obstacles-and-pd-needs.md) [+M] — attached 2026-10-12 from Nikolai Maurer et al. (2026), which proposed "AI-related post-qualification for in-service science educators should emphasize school- and subject-specific AI literacy and concrete subject-specific use cases".
 
 ## Related Principles
 - 

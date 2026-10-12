@@ -53,6 +53,8 @@ The report recommends that districts collaborate with community members to devel
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
 - [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
 - [Use the taxonomy as a self-assessment and strategic-planning roadmap for institutional AI adoption](taxonomy-as-ai-self-assessment-roadmap.md)
+- [Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education](cross-stakeholder-ai-education-action-recommendations.md)
+- [Structure opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness](evaluate-ai-outputs-locally-grounded-criteria.md)
 
 ## Examples
 -

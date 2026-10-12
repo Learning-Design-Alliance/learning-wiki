@@ -74,3 +74,4 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Prior knowledge (portion A) scores correlate with transfer (portion C) scores for Fraction Division but not for Fraction Generalization](prior-knowledge-correlates-transfer-division-not-generalization.md) — related
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
+- [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related

@@ -63,3 +63,4 @@ Review-level synthesis of the 60 analyzed articles stating that "AI presents sol
 - [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — a narrower finding that bears on this claim
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — related
+- [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related

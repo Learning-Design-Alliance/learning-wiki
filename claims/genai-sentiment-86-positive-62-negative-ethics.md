@@ -48,3 +48,4 @@ Sentiment analysis component of the mixed-methods study of 112 student reflectio
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
+- [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related

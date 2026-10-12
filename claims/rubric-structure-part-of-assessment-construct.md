@@ -49,3 +49,4 @@ Prompt-variant experiment in the Method section on the same model and test set. 
 - [Prompt-based scoring prompts developed on one year's test generalize to the next year's edition with only minor adjustments](prompt-scoring-generalizes-across-test-editions.md) — related
 - [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — related
 - [Small input perturbations such as minor spelling errors can reduce state-of-the-art dialogue and assessment model accuracy by over 30%](its-dialogue-models-brittleness-perturbations.md) — related
+- [The two targeted ablations produce small, partially counter-directional effects: removing the construct map does not materially change the composite score (p = 0.34 on equivalence)](varia-ablation-null-effects.md) — a narrower finding that bears on this claim

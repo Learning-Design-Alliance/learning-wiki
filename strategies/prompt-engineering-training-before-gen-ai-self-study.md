@@ -44,6 +44,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Design teachable ChatGPT sessions with purposeful errors or lower-level models so learners practice error correction](purposeful-errors-lower-level-chatgpt-design.md)
+- [Integrate Gen-AI as a targeted instructional tool using medium-to-long-term (8–16 week) interventions, phased scaffolding, and guided prompts rather than direct answers](genai-targeted-integration-strategy.md)
 
 ## Examples
 -

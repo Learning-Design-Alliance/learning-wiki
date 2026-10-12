@@ -47,3 +47,4 @@ Thematic analysis of Ref4 responses (n = 174 coded for strategies) from students
 - [The most common prompt mistakes are omissions of key details, most frequently the specified function return type](omission-key-details-commonest-prompt-mistake.md) — related
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
 - [Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students](writing-code-as-prompt-strategy-correlates-solving.md) — related
+- [When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting](novice-overgeneralization-llm-incapability.md) — related

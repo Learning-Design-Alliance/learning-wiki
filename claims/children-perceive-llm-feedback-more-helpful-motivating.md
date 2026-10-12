@@ -1,0 +1,48 @@
+---
+type: claim
+title: Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance
+description: Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance
+id: children-perceive-llm-feedback-more-helpful-motivating
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: moderate
+sources:
+  - id: sukjaitham-2026
+    resource: "https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723"
+    title: "Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723"
+    author: "Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+
+## Subclaims
+`q3 i3` Children rated LLM adaptive feedback as significantly more helpful (r = .67) and more motivating (r = .74) than generic guidance. [→ Sukjaitham 2026](#sukjaitham-2026)
+
+## Evidence
+
+### Sukjaitham 2026
+
+Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans. Preprint. https://osf.io/4w6rz/overview?view_only=dd3ec8d2878243579a463ccd0d77d723
+
+`q3 · i3` · `causal · r2`
+
+Within-participant comparisons of single-item 4-point ratings collected after each trial in the experiment with 155 children. Rank-biserial correlations indicated large effects for both perceived helpfulness and perceived motivational impact.
+
+> "Nonparametric Wilcoxon signed -rank tests indicated that children perceived LLM-generated adaptive feedback as significantly more helpful (V = 6819, p < .001) and more motivating (V = 62 29, p < .001) than generic guidance. The associated rank -biserial correlations indicated large effect sizes for both perceived helpfulness (r = .67) and perceived motivation (r = .74)"
+
+## Discussion
+
+
+## Related Claims
+- [Trial-level perceived usefulness of feedback is associated with the magnitude of plan quality improvement](perceived-usefulness-associated-with-plan-quality-gains.md) — related
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
+- [Plan quality improves more after LLM-generated adaptive feedback than after high-quality generic guidance](adaptive-feedback-beats-generic-guidance-plan-quality.md) — related

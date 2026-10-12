@@ -49,3 +49,6 @@ The article argues from its literature synthesis, citing established digital-ine
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement](low-sustained-gai-engagement-staff.md) — related
+- [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
+- [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — a narrower finding that bears on this claim

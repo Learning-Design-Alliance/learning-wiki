@@ -1,0 +1,48 @@
+---
+type: claim
+title: "A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts"
+description: "A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts"
+id: ail-theory-practice-gap-he-programs
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-12
+evidence_strength: weak
+sources:
+  - id: veronika-hackl-2025
+    resource: "https://arxiv.org/abs/2509.18900"
+    title: "Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900"
+    author: Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q1`
+
+## Subclaims
+`q1 i?` The authors observe that while students may develop conceptual understanding of AI principles, they often lack opportunities to apply this knowledge in authentic contexts, reflecting isolated rather than curriculum-wide AIL implementation. [→ Veronika Hackl 2025](#veronika-hackl-2025)
+
+## Evidence
+
+### Veronika Hackl 2025
+
+Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900
+
+`q1 · i?` · `design · r2`
+
+Authors' interpretation from the Discussion, drawing on the curriculum mapping and prior implementation evidence. The article states students "often lack opportunities to apply this knowledge in authentic contexts" and that AIL initiatives frequently exist as isolated interventions; no empirical measurement is reported.
+
+> "While students may develop conceptual understanding of AI principles, they often lack opportunities to apply this knowledge in authentic contexts."
+
+## Discussion
+
+
+## Related Claims
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
+- [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related

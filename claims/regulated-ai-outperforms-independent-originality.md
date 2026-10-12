@@ -47,3 +47,4 @@ Simple-effects decomposition of the 3 × 2 mixed ANOVA on originality. On the un
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](collaborative-prompts-mediate-independent-originality.md) — related
 - [The regulated-AI group sustained originality across tasks while both other groups declined from the easier to the more complex task](regulated-ai-sustains-originality-across-tasks.md) — related
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](prompt-type-differences-general-vs-regulated.md) — related
+- [Reported study: free ChatGPT use aided the assisted creative task but the advantage reversed on a later task without ChatGPT](think-first-chatgpt-creativity-reversal.md) — related

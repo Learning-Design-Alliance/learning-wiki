@@ -62,6 +62,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/kolb-derived-curriculum-guidelines.md)
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
+- [Future research agenda: longitudinal studies, evidence-based strategies, teacher professional development, and domain-specific frameworks for AI intuition](../strategies/ai-intuition-future-research-agenda.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

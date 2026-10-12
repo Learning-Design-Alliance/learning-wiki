@@ -110,3 +110,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim

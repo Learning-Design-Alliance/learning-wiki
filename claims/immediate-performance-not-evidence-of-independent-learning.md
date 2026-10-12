@@ -50,3 +50,5 @@ The review's analysis of its Table 1 studies: several observe an immediate answe
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — related
 - [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](genai-learning-gain-persists-one-week.md) — related
+- [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a narrower finding that bears on this claim
+- [The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed](ai-performance-mastery-decoupling-review-report.md) — a narrower finding that bears on this claim

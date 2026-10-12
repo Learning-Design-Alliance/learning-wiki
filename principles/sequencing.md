@@ -185,10 +185,12 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Affective sequencing](affective-sequencing-requires-own-principles.md) — ordering emotional and affective learning
 
 ## Examples
+
 - A statistics unit starts with interpreting distributions, then moves to sampling, and only later introduces inference once learners can reason about variation.
 - A carpentry course teaches tool setup and key subskills before asking learners to complete a full cabinet build, then integrates the pieces into a whole-task performance.
 - [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [Spiral curriculum](../elements/spiral-curriculum.md) and [Part-task practice](../elements/part-task-practice.md) are elements that carry an order; [Learning hierarchy task analysis](../methods/learning-hierarchy-task-analysis.md) is the method for mapping dependencies; [4C/ID](../patterns/4cid-four-component-instructional-design.md) sequences whole tasks.
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
+- [Develop complex simulations incrementally, testing each stage before adding the next feature](../strategies/incremental-llm-simulation-development.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

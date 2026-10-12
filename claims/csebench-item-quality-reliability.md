@@ -65,3 +65,4 @@ Reliability analysis of the two large-scale diagnostic forms. The article report
 - [Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item](ngss-benchmark-items-high-difficulty-low-discrimination.md) — related
 - [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
+- [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related

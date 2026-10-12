@@ -40,7 +40,8 @@ The article recommends deploying student simulators that model both actions and 
 - [Inside Internal Dialogue Framework](../research-methods/history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram.md)
 
 ## Related Strategies
-- 
+
+- [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 
 ## Examples
 -

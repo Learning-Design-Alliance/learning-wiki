@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (46 for, 10 mixed, 4 against) · 46 studies (22 associational, 7 review, 6 qualitative, 5 causal, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 2 of 46 report an effect size · 57 claims rest on one study
+> **Evidence** · 63 claims (48 for, 11 mixed, 4 against) · 49 studies (23 associational, 7 review, 6 qualitative, 5 causal, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 49 report an effect size · 60 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -93,6 +93,9 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [AI chatbot access improves the quality of teachers' learning designs in higher education](../claims/ai-access-improves-learning-design-quality.md) [+M] — learners who differ on it differ in outcomes
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](../claims/ai-access-lowers-cognitive-effort-learning-design.md) [+M] — learners who differ on it differ in outcomes
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](../claims/llm-access-homogenises-creative-output.md) [~M] — learners who differ on it differ in outcomes
+- [GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)](../claims/gpt-hints-moderately-accessible-readability.md) [+M] — instruction changes it
+- [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](../claims/instant-access-24-7-top-llm-benefits.md) [+M] — instruction changes it
+- [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](../claims/facilitation-converts-physical-to-epistemological-access.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

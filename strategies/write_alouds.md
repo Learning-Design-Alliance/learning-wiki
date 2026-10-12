@@ -58,9 +58,11 @@ Write alouds are a form of [Demonstration](../elements/demonstration.md) applied
 5. [Practice](../elements/practice.md): have learners immediately apply the modeled move to their own drafts, with conferring or peer feedback to reinforce transfer.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the same visibility-of-reasoning technique applied to reading and problem solving
 - [Shared Writing](shared-writing.md) — the next step on the gradual release continuum, where teacher and students compose together
 - [Sentence Combining](sentence-combining.md) — a specific writing move frequently taught via write alouds and supported by meta-analytic evidence
+- [Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement](think-aloud-moderator-guide-ai-refinement.md)
 
 ## Examples
 - A teacher models writing the opening paragraph of a persuasive essay, verbalizing how she weighs which evidence to lead with and how she revises her thesis mid-draft.

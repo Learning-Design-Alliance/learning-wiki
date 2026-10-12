@@ -48,3 +48,4 @@ Qualitative observation from Stage 4 discrepancy analysis. The authors give the 
 - [An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes](llama3-substantial-kappa-sentiment-labeling-quotes.md) — related
 - [LLMs are more intrusive and more consistent than humans, eager to view neutral discussions as opportunities for positive reinforcement](llms-over-intervene-positive-reinforcement.md) — possibly the same claim (merge candidate)
 - [LLM-assisted sentiment labeling processed quotes roughly two to three times faster than human labeling and ran continuously without cognitive fatigue](llm-sentiment-labeling-efficiency-gain.md) — related
+- [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related

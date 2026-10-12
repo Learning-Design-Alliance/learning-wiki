@@ -46,3 +46,4 @@ Cross-sectional survey analysis of Question C1 across four subjects in the n = 4
 - [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
 - [Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear](rule-clarity-depends-on-discipline.md) — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
+- [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related

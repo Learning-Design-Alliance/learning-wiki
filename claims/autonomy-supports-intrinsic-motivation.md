@@ -140,3 +140,5 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — a narrower finding that bears on this claim
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
+- [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](ai-feedback-progress-motivates-revision.md) — a narrower finding that bears on this claim
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — a narrower finding that bears on this claim

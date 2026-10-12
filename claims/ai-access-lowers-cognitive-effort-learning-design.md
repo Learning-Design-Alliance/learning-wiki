@@ -51,3 +51,4 @@ Within-subjects comparison of cognitive-effort measures across conditions withou
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — reports the opposite
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related

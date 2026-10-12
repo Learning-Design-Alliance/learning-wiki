@@ -46,6 +46,8 @@ This strategy packages the article's operational recommendations for public unit
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Govern tutor knowledge through teacher-curated document corpora with RAG and document-driven adaptation](teacher-curated-knowledge-governance-rag.md)
+- [Develop complex simulations incrementally, testing each stage before adding the next feature](incremental-llm-simulation-development.md)
+- [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
 
 ## Examples
 -

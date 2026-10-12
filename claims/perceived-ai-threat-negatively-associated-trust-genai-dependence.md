@@ -72,3 +72,4 @@ Same SEM sample; the direct threat-to-dependence path was significant and negati
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
 - [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
+- [Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students](genai-use-negatively-associated-interpersonal-trust.md) — related

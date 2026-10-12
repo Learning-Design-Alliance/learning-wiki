@@ -46,3 +46,4 @@ Logistic GLM among accepted-prompt trials in the classroom study, predicting cor
 - [A two-hour AI literacy workshop made middle-school students less likely to accept underspecified suggested prompts](ai-literacy-workshop-reduces-underspecified-prompt-acceptance.md) — related
 - [Rejecting well-specified prompts cost control students performance but not workshop students](prompt-rejection-cost-differs-by-condition.md) — related
 - [Workshop students asked more follow-up questions after accepting underspecified prompts](workshop-increases-follow-up-questioning.md) — related
+- [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](interpretable-ai-mechanisms-clearer-benefits.md) — related

@@ -48,3 +48,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Pre-course problem-solving preference does not predict final course grade](pre-pscale-no-correlation-with-grade.md) — related
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
+- [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related

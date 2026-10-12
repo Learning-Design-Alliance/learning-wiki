@@ -48,6 +48,7 @@ The article recommends that AI literacy education be built into first-year curri
 - [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
 - [Provide educational development for instructors on purposefully integrating AI into online learning design](educational-development-ai-integration-instructors.md)
 - [Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces](embed-ai-literacy-and-controllable-adaptive-interfaces.md)
+- [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 
 ## Examples
 -

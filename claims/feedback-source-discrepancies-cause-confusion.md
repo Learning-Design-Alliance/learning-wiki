@@ -64,3 +64,4 @@ Tutors preferred learner feedback because they felt "the automated system could 
 ## Related Claims
 - [Tutors on Ringle rated automated feedback significantly more negatively than learner feedback across six of seven perception dimensions](tutors-rate-automated-feedback-more-negatively-than-learner-feedback.md) — related
 - [Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution](learner-feedback-skewed-automated-fine-grained.md) — related
+- [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related

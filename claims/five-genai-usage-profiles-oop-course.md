@@ -67,3 +67,4 @@ Kruskal–Wallis tests confirmed the clusters differed on each clustering variab
 - [No significant differences in AI-free assessment performance across GenAI usage clusters in an OOP course](no-performance-differences-across-genai-clusters.md) — related
 - [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
+- [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](coding-experience-associated-with-pbl-performance.md) — related

@@ -55,3 +55,6 @@ Qualitative policy analysis of GenAI policies from thirty highly ranked universi
 - [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
 - [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — a narrower finding that bears on this claim
+- [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
+- [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](responsible-equitable-ai-themes-prominent-high-challenge.md) — related

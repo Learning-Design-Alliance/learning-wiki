@@ -49,3 +49,4 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [Learners' generative-AI use profiles are heterogeneous, with extractive delegation more common than potentially collaborative use](heterogeneous-ai-use-profiles-extractive-modal-pattern.md) — related
 - [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related
+- [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related

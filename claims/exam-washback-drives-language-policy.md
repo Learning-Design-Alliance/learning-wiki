@@ -65,3 +65,4 @@ The discussion section's cross-case synthesis concludes the washback effect make
 - [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — a broader claim this one bears on
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
 - [A Syntax Ceiling concentrates algorithmic depth in elite STEM tracks while Python-based instruction reaches most students](syntax-ceiling-python-cpp-stratification.md) — related
+- [Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question](reach-organizing-question-unsupervised-ai-use.md) — related

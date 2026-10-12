@@ -49,3 +49,4 @@ Pre/post survey of the ten-participant cohort (Table 12). The synthesis section 
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
+- [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related

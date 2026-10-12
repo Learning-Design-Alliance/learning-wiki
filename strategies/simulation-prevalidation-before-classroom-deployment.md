@@ -42,6 +42,7 @@ The authors advocate evaluating adaptive coaching logic on LLM-based simulated l
 - [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
+- [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 
 ## Examples
 -
