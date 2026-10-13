@@ -17,7 +17,7 @@ sources:
 # Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 For teacher preparation, residency, and shortages, the brief recommends residency strategies funded by braided sources: cover 'residency program staff costs, teacher preparation costs, stipends for mentor teachers (which can include housing stipends), stipends for teacher candidates, and mentoring and beginning teacher induction costs.' Diversity strategies include forming an IHE-LEA partnership 'that includes representatives of color,' leveraging braided funds such as Golden State teacher funds to make programs affordable for pre-service teachers of color, incentivizing expert teachers of color as mentors, and building resident recruitment pipelines within local communities, including paraprofessionals and after-school staff.
@@ -36,6 +36,11 @@ For teacher preparation, residency, and shortages, the brief recommends residenc
 
 ### Target Learning Goals
 - Teacher recruitment, retention, and preparation of a diverse, well-prepared workforce to serve students of color
+
+## Claims
+
+- [The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents people of color](../claims/trgp-supported-residents-shortage-fields.md) [+W]
+- [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](../claims/programs-not-broadening-funding-sources.md) [~W]
 
 ## Related Strategies
 

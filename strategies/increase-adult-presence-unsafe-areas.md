@@ -17,7 +17,7 @@ sources:
 # Increase adult presence in the areas where students feel least safe, particularly just outside and around the school building
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that school leaders identify the specific locations where students feel least safe and respond by increasing adult supervision in those areas. The evidence shows students feel least safe just outside the school building, where large numbers aggregate with little adult supervision. "School leaders should be aware of the places in the school building that students feel least safe—for example, the areas just outside and around the school—and increase the adult presence in response to students' concerns."
@@ -35,6 +35,10 @@ The report recommends that school leaders identify the specific locations where 
 
 ### Target Learning Goals
 - Creating a safe learning environment conducive to academic growth
+
+## Claims
+
+- [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](../claims/adult-supervision-safety-gradient.md) [+W]
 
 ## Related Strategies
 

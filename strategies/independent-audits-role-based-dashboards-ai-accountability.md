@@ -17,7 +17,7 @@ sources:
 # Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends districts collaborate with states and partners to build evaluation and accountability systems integrating independent audits of AI tools for accuracy, bias, accessibility, and explainability, plus role-specific dashboards and embedded safeguards. It suggests "consider collaborating with independent evaluators to assess AI-enabled edtech before larger-scale adoption, require third-party validation aligned with established frameworks." Third-party validations offer a common language for developers and leaders comparing options.
@@ -36,6 +36,10 @@ The brief recommends districts collaborate with states and partners to build eva
 
 ### Target Learning Goals
 - Ensuring AI-enabled tools are trustworthy, safe, effective, and supportive of positive student learning outcomes
+
+## Claims
+
+- [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](../claims/edtech-privacy-responsibility-delegated-diffused.md) [+W]
 
 ## Related Strategies
 

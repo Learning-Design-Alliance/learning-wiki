@@ -17,7 +17,7 @@ sources:
 # Use attrition findings to inform staff retention efforts aligned with Pennsylvania's educator workforce strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief positions its descriptive attrition findings as an input for retention policy: "The findings can inform staff retention efforts, consistent with the Pennsylvania Department of Education's (PDE's) Pennsylvania Educator Workforce Strategy to strengthen the workforce by 2025." The strategy is to target retention efforts using the identified high-attrition groups and contexts, such as staff of color, early-career staff, and charter schools, to help students recover from the pandemic.
@@ -35,6 +35,11 @@ The brief positions its descriptive attrition findings as an input for retention
 
 ### Target Learning Goals
 - Maintaining a stable educator workforce to support student pandemic recovery
+
+## Claims
+
+- [Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs](../claims/pa-attrition-gaps-early-career-charter-large-leas.md) [+W]
+- [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](../claims/pa-attrition-racial-gaps-grew-except-administrators.md) [+W]
 
 ## Related Strategies
 

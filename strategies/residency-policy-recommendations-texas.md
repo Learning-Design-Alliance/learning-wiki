@@ -17,7 +17,7 @@ sources:
 # Policy recommendations for sustaining and expanding teacher residencies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on TCLAS implementation findings, the report recommends: continuing to require key features (full-year co-teaching placements, shared governance, specified educator roles); facilitating expansion by developing new EPP partners and allowing longer implementation timelines; building pipelines for mentor teachers and residency faculty; creating multidistrict residency consortia linked to Education Service Center technical assistance; offering matching grants and funding-braiding support for sustainability; and targeting support for rural and high-poverty districts where strategic staffing is insufficient.
@@ -35,6 +35,10 @@ Drawing on TCLAS implementation findings, the report recommends: continuing to r
 
 ### Target Learning Goals
 - Sustainable, scaled teacher residency pipelines addressing shortages
+
+## Claims
+
+- [Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.](../claims/fresno-wishon-residency-cohort-achievement-gains.md) [+W]
 
 ## Related Strategies
 

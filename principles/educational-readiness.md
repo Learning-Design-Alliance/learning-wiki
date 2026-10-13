@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 associational, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (2 associational, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Readiness traditionally refers to a student's preparedness to cope with or profit from the activities and expectations of school — for example, whether a kindergartner is in good health, has moderately good social skills, can manage personal physical needs unsupervised, and can use a pencil to draw simple shapes. At older ages, this same idea is often called **prerequisites** instead of readiness (e.g., a student needs advanced algebra before taking physics).
@@ -43,6 +43,7 @@ This traditional framing focuses attention entirely on the student's adjustment 
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](../claims/prek-attendance-kindergarten-readiness.md) [+W]
 - [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](../claims/preschool-absence-lower-kindergarten-readiness-scores.md) [~W]
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](../claims/wv-prek-print-awareness-gains.md) [+W]
+- [Many U.S. students enter elementary school with poor math skills](../claims/many-students-enter-school-poor-math-skills.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md) — once a mismatch between student readiness and task demand is identified, scaffolding is one primary response

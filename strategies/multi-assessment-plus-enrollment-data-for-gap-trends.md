@@ -15,7 +15,7 @@ sources:
 # Use multiple national assessments plus course-enrollment data to track achievement-gap trends
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's approach, as described, combines achievement data from "three national assessments" with "enrollment in Algebra" to examine trends in gender gaps in 8th grade STEM skills over the course of the pandemic. This pairs measured skill trends with a course-taking indicator, allowing gap analysis to cover both performance and opportunity-to-learn signals.
@@ -33,6 +33,10 @@ The study's approach, as described, combines achievement data from "three nation
 
 ### Target Learning Goals
 - monitoring equity in STEM achievement trends
+
+## Claims
+
+- [The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic](../claims/algebra-enrollment-gender-during-after-pandemic.md) [+W]
 
 ## Related Strategies
 - 

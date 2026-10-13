@@ -18,7 +18,7 @@ sources:
 # Multiple-choice retrieval practice questions with competitive alternatives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q3`–`q4` · 3 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production. The study built its MCQs this way, "by including competitive alternatives in the MCQs to ensure that the MCQs cannot be attributed to being relatively easier than short-answer questions", scoring one point per correct response.
@@ -45,6 +45,8 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](../claims/retrieval-format-by-levels-of-thinking-interaction-not-significant.md) [~W]
+- [Recognition was not associated with item difficulty](../claims/recognition-not-associated-with-item-difficulty.md) [~W]
+- [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](../claims/mcq-accuracy-no-significant-condition-difference.md) [~W]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)

@@ -17,7 +17,7 @@ sources:
 # Deliver salient, personalized ability signals to encourage educational investments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends using customized signals of ability, such as a message in students' test-score results reports signaling their "potential to succeed in Advanced Placement (AP) coursework," as a low-cost lever to increase educational investments. The strategy works by giving students new information about their own ability, prompting them to revise self-assessments and enrollment plans. Its effectiveness depends on the signal being made salient to students.
@@ -36,6 +36,10 @@ The paper recommends using customized signals of ability, such as a message in s
 ### Target Learning Goals
 - increasing participation and investment in advanced coursework
 - increasing AP exam taking and college-credit eligibility
+
+## Claims
+
+- [Students who were not surveyed for the study did not respond to the ability signal](../claims/non-surveyed-students-did-not-respond-to-signal.md) [~W]
 
 ## Related Strategies
 

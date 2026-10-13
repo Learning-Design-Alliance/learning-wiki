@@ -17,7 +17,7 @@ sources:
 # Design guidelines for game-based and gamified robotics education: balance approaches across contexts, integrate hardware-software skills, and extend study horizons
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review synthesizes a design space outlining best practices and pitfalls for game-based and gamified robotics education, offering "actionable guidance for educators and designers". It recommends addressing the field's imbalances: limited adoption of advanced software (~17%), advanced hardware (~5%), and immersive technologies (~22%); over-concentration on introductory programming and modular kits; and short study horizons relying on self-report. It also proposes eight concrete future research directions.
@@ -39,6 +39,11 @@ The review synthesizes a design space outlining best practices and pitfalls for 
 - programming and software development skills
 - understanding of robotic systems (electronics, mechanical assembly, control systems, sensor-actuator integration)
 - motivation and engagement in robotics
+
+## Claims
+
+- [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](../claims/corpus-introductory-short-term-supervision-environment-association.md) [-W]
+- [Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies](../claims/gamified-studies-higher-programming-skill-tiers.md) [~W]
 
 ## Related Strategies
 

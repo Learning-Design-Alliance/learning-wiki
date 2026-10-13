@@ -12,7 +12,7 @@ generated:
 # Multi-Tiered System of Supports (MTSS)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 review, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 6 claims (4 for, 2 mixed) · 9 studies (3 review, 2 quant-synthesis, 2 qualitative, 1 causal, 1 design), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 MTSS is a school-wide prevention framework in which all students receive high-quality universal (Tier 1) instruction, students flagged by screening receive supplemental targeted intervention (Tier 2, typically small group), and non-responders receive intensive individualized support (Tier 3). Decisions about movement between tiers are driven by continuous progress monitoring rather than referral or diagnosis, making it a data-based system for matching instructional intensity to student need.
@@ -72,6 +72,12 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 
 ### Personalization
 - Tier assignment itself is the personalization mechanism: intensity of support scales with documented student need rather than being fixed in advance
+
+## Claims
+
+- [CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children](../claims/cspp-prereferral-mirrors-mtss-same-for-ml-children.md) [~W]
+- [Data-based decision making is the least-met full-implementation criterion while universal screening is the most-met](../claims/kansas-mtss-data-decision-making-least-met-criterion.md) [~W]
+- [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](../claims/ivy-progress-monitoring-tiered-supports.md) [+W]
 
 ## Related Strategies
 

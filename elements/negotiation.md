@@ -13,7 +13,7 @@ generated:
 # Negotiation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Negotiation is the element in which learners work through competing interests, priorities, or interpretations in order to reach a decision, compromise, or shared position. It is useful when learning involves tradeoffs, stakeholder reasoning, or collaborative resolution.
@@ -37,6 +37,7 @@ Negotiation is the element in which learners work through competing interests, p
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
+- [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](../claims/ethical-ai-decision-negotiated-across-levels.md) [+W]
 
 ## Related Elements
 - [Consensus Discussion](consensus-discussion.md)

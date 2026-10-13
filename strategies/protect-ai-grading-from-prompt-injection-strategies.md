@@ -17,7 +17,7 @@ sources:
 # Protect AI-mediated assessment through isolated environments, clear guidelines, resilience assessments, and teaching prompt-processing awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends a combination of organisational and technical measures rather than a single solution: use "an isolated and secure environment, such as a virtual machine with limited (or disabled) access to host system and internet" for sensitive AI work; develop clear AI guidelines and policies; create standardised, domain-agnostic prompt injection resilience assessments; and teach users how AI models process prompts so they can identify and resist injection attempts.
@@ -41,6 +41,10 @@ The article recommends a combination of organisational and technical measures ra
 
 ### Affordances
 - Dual Role Prompt Engineering Contextual Vulnerability
+
+## Claims
+
+- [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](../claims/prompt-injection-attacks-bypass-user-literacy.md) [-W]
 
 ## Related Strategies
 

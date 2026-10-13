@@ -17,7 +17,7 @@ sources:
 # Use knowledge distillation with deliberately limited synthetic data to expand scarce labeled evaluation datasets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When labeled data for a specialized evaluation task is scarce, the authors generate synthetic student-tutor conversations with a frontier LLM, prompting it to produce nine tutor responses per conversation (three high-quality, three average, three poor) to rebalance class distributions. Citing Stanton et al. (2021), they note that "excessively large distillation datasets can hinder optimization" and therefore deliberately limited the synthetic data. This produced 1,350 conversations and 12,150 labeled tutor responses.
@@ -36,6 +36,10 @@ When labeled data for a specialized evaluation task is scarce, the authors gener
 
 ### Target Learning Goals
 - Building reliable automated evaluators of AI tutor pedagogical quality when expert-labeled data is limited
+
+## Claims
+
+- [Knowledge distillation from a frontier LLM substantially improves lightweight AI-tutor evaluation across all four pedagogical dimensions](../claims/distillation-improves-ai-tutor-evaluation.md) [+M]
 
 ## Related Strategies
 

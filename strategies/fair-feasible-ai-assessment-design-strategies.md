@@ -17,7 +17,7 @@ sources:
 # Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends concrete design actions for fair, feasible implementation: offer alternative response modes that preserve the capability and assistance conditions being assessed; address AI access inequity by providing a common tool, supplying the same generated output for critique, or permitting equivalent non-AI pathways; keep documentation selective and proportionate; and plan workload concretely. The author urges that "an accommodation is not an evidentiary concession when it removes a barrier unrelated to the construct."
@@ -36,6 +36,10 @@ The article recommends concrete design actions for fair, feasible implementation
 
 ### Target Learning Goals
 - fair demonstration of the assessed capability regardless of response mode or tool access
+
+## Claims
+
+- [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](../claims/aias-implementation-facilitating-conditions.md) [~W]
 
 ## Related Strategies
 

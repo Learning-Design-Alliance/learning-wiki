@@ -17,7 +17,7 @@ sources:
 # Districts considering metal detectors should weigh the full range of evidence, especially when doing so in lieu of funding other prevention efforts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The brief's concluding recommendation is that school districts considering metal detectors, particularly as a substitute for other prevention efforts, review the whole evidence base on effectiveness, cost and unintended consequences. It states districts "should consider this range of evidence" before adopting hardware approaches such as metal detectors in response to post-Parkland security mandates.
@@ -35,6 +35,13 @@ The brief's concluding recommendation is that school districts considering metal
 
 ### Target Learning Goals
 - School safety and violence prevention while protecting the learning environment
+
+## Claims
+
+- [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](../claims/metal-detectors-insufficient-mass-shooting-cases.md) [~W]
+- [Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily](../claims/metal-detectors-disproportionate-students-of-color.md) [~W]
+- [School leaders varied widely in implementing district security protocols, such as metal detector and bag-check enforcement](../claims/inconsistent-implementation-security-protocols.md) [~W]
+- [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](../claims/school-metal-detector-use-steady-or-decreasing.md) [~W]
 
 ## Related Strategies
 - 

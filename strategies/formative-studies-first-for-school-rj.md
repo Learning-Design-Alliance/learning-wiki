@@ -17,7 +17,7 @@ sources:
 # Use rigorous formative studies to refine the RJ framework and document outcomes before scaling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In the conclusion, the article reports that most interviewed experts wanted "rigorous formative studies to refine the framework and document the outcomes of RJ in schools," and offers the brief's categorized research questions as a starter set for foundations, the federal government, and the research community. It notes randomized controlled trials of RJ programs, including a RAND field trial in Maine middle schools and National Institute of Justice awards, are already funded, so more rigorous evidence of impact is forthcoming.
@@ -35,6 +35,10 @@ In the conclusion, the article reports that most interviewed experts wanted "rig
 
 ### Target Learning Goals
 - building an empirical evidence base on RJ implementation and outcomes
+
+## Claims
+
+- [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](../claims/school-data-systems-do-not-track-rj.md) [+W]
 
 ## Related Strategies
 - 

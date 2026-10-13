@@ -17,7 +17,7 @@ sources:
 # Co-designed recommendations for education/training providers: partnerships, wrap-around supports, and equitable recruitment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Worker and learner participants co-designed recommendations for education/training providers across four themes: increase awareness and exploration, improve access to educational and training opportunities, implement equitable recruitment and hiring strategies, and intentionally facilitate career entry, advancement, and retention. Recommendations include forming "strong relationships/partnerships with HBCUs to create a talent pipeline," providing "scholarships, financial support, and other wrap-around services," and helping with "optimizing resumes for AI screening."
@@ -38,6 +38,11 @@ Worker and learner participants co-designed recommendations for education/traini
 
 ### Affordances
 - [Scct Chat Tech Pathway Framework](../theories/cultural-historical-activity-theory.md)
+
+## Claims
+
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](../claims/black-tech-awareness-exploration-barriers.md) [+W]
+- [Students were split between early entry into a program of study and exploring options, and most wished for more structured exploration opportunities](../claims/students-split-on-program-of-study-timing.md) [+W]
 
 ## Related Strategies
 

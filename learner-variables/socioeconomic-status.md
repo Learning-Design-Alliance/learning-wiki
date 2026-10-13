@@ -12,7 +12,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (88 for, 22 mixed, 15 against) · 92 studies (48 associational, 23 causal, 12 review, 5 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 8 of 92 report an effect size · 124 claims rest on one study
+> **Evidence** · 132 claims (90 for, 27 mixed, 15 against) · 97 studies (53 associational, 23 causal, 12 review, 5 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 9 of 97 report an effect size · 131 claims rest on one study
 
 ## Description
 A learner's economic and social position: family income or poverty (often measured by eligibility for free or reduced-price school meals), parental education and occupation, and the resources that follow from them: time, a quiet place to study, devices, money for fees and travel. In the research it appears as a predictor of outcomes (achievement and attainment gaps), as a moderator of instructional effects (a design that helps low-income learners more, or less), and as the population a programme targets. It is distinct from [access](access.md), which is whether a learner can perceive and operate the material, and from [time and continuity](time-and-continuity.md), though poverty constrains both.
@@ -157,6 +157,13 @@ A learner's economic and social position: family income or poverty (often measur
 - [White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions](../claims/completion-gaps-persist-within-income-groups.md) [+M] — learners who differ on it differ in outcomes
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](../claims/wilson-reading-system-subgroup-effects-initial-skill-ses.md) [+M] — an instructional effect differs with it
 - [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+M] — an instructional effect differs with it
+- [Low-income students at four-year for-profits face unmet need of almost $25,000 per year, higher than at private nonprofits, while graduating at one-third the rate](../claims/for-profit-unmet-need-exceeds-private-nonprofit.md) [~W]
+- [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](../claims/covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) [+W]
+- [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](../claims/minnesota-charter-students-disproportionately-underserved.md) [+W]
+- [Kentucky's AP pipeline is leakiest in high-poverty and rural districts, where about 1 in 100 students earned a passing AP score in 2021-22](../claims/ky-leaky-ap-pipeline-high-poverty-rural.md) [~W]
+- [Public research-extensive universities spend hundreds of millions in institutional grant aid on high-income students, with nearly equal spending on the top two and bottom two income quintiles](../claims/institutional-aid-to-high-income-students.md) [~W]
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](../claims/ninth-grade-gpa-demographic-variation.md) [~W]
+- [AP enrollment in Kentucky's highest-poverty districts dropped by half, to 5% of students, by 2021-22](../claims/ky-high-poverty-districts-ap-enrollment-halved.md) [~W]
 
 ## Related Learner Variables
 - [Access](access.md) — devices and bandwidth, often constrained by income

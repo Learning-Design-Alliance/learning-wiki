@@ -17,7 +17,7 @@ sources:
 # Use postsecondary readiness indicators in an early warning system and combine cultural responsiveness with tiered interventions to address disparities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that Arkansas integrate the studied indicators into an early warning system or student success plans to systematically identify students needing extra support, and that leaders address disparities by combining cultural responsiveness with tiered interventions. The authors state that "Research suggests that one strategy for ensuring equitable access to high-quality learning environments is to combine cultural responsiveness with tiered interventions that become increasingly targeted for identified students." They also suggest integrating indicators that use data collected multiple times per year.
@@ -35,6 +35,10 @@ The report recommends that Arkansas integrate the studied indicators into an ear
 
 ### Target Learning Goals
 - Postsecondary readiness and success, including ACT proficiency, college enrollment, and college persistence
+
+## Claims
+
+- [Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success](../claims/fewer-behavioral-than-academic-indicator-differences.md) [~W]
 
 ## Related Strategies
 

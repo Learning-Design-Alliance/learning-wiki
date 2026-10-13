@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 9 studies (3 review, 2 associational, 2 theoretical, 1 causal, 1 design), `q1`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 10 studies (3 review, 2 associational, 2 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 12 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -46,6 +46,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](../claims/ai-integration-improves-teaching-learning-admin-efficiency.md) [~W]
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](../claims/ai-integration-benefits-and-challenges.md) [~W]
 - [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](../claims/loa-bridging-conferencing-significant-increase.md) [+W]
+- [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W]
+- [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](../claims/tefl-tech-effects-increase-by-educational-level.md) [~W]
 
 ## Related Elements
 

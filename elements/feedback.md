@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 137 claims (67 for, 61 mixed, 9 against) · 110 studies (40 causal, 20 quant-synthesis, 18 review, 11 associational, 11 design, 6 qualitative, 4 theoretical), `q1`–`q4` · 30 of 110 report an effect size · 116 claims rest on one study
+> **Evidence** · 140 claims (70 for, 61 mixed, 9 against) · 113 studies (40 causal, 20 quant-synthesis, 18 review, 11 associational, 11 design, 9 qualitative, 4 theoretical), `q1`–`q4` · 30 of 113 report an effect size · 119 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -186,6 +186,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Tutors valued automated feedback for providing clear guidelines on the gig platform's expectations](../claims/automated-feedback-clarifies-platform-expectations.md) [+W]
 - [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](../claims/multi-agent-tutoring-superior-single-agent.md) [+W]
 - [LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts](../claims/marked-students-praise-withholding-bias.md) [-M]
+- [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](../claims/students-report-limited-feedback-on-assessments.md) [+W]
+- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](../claims/ai-feedback-perceived-expertise-efl-writing.md) [+W]
+- [All thirteen participants described ChatGPT-generated feedback as useful, particularly for identifying specific surface-level writing issues](../claims/students-find-chatgpt-feedback-useful-surface-level.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

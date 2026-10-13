@@ -17,7 +17,7 @@ sources:
 # Replicate cross-cultural psychosocial studies with additional samples and in-country comparison groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that cross-cultural findings warrant replication with additional sample groups of first-generation Asian immigrants, and that administering "the same test on Koreans in Korea would be helpful to determine the effect of immigration", which could also produce a Korean norm for the MPD. They further recommend comparing groups transferred between extremely different sociocultural environments and studying second-generation immigrants living in a dual culture.
@@ -36,6 +36,10 @@ The authors recommend that cross-cultural findings warrant replication with addi
 
 ### Target Learning Goals
 - psychosocial identity development across cultures
+
+## Claims
+
+- [The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole](../claims/low-mail-survey-return-rate-limits-generalizability.md) [~W]
 
 ## Related Strategies
 - 

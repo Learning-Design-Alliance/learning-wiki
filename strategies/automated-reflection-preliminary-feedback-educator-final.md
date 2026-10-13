@@ -17,7 +17,7 @@ sources:
 # Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size
 
 ## Description
 The article recommends deploying automatic reflection-level classifiers as assistive rather than replacement tools in educational technology. "These results may inform educational tools for preliminary feedback and workload support, with final assessment retained by educators." Such systems can provide initial assessments of student essays, reduce subjectivity, and let educators focus on personalized feedback and instruction. The article further suggests hybrid models combining shallow and deep learning approaches could yield more effective reflective analysis systems.
@@ -36,6 +36,10 @@ The article recommends deploying automatic reflection-level classifiers as assis
 
 ### Target Learning Goals
 - reflective thinking and critical thinking skills development through reflective writing
+
+## Claims
+
+- [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](../claims/yunyi-human-agreement-varies-by-dimension.md) [~M]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Provide AI-free proctored spaces so some take-home work is verifiably unassisted
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes institutional interventions such as AI-free study halls: lightly proctored workspaces where students check in and out to complete portions of take-home assignments using nothing beyond simple word processors. This is offered because faculty designing AI-proof assignments alone cannot bear the large-scale loss of the ability to assess homework, so at least some take-home assignments need a setting where unassisted completion is verifiable. The proposal is framed as possibly necessary rather than as a tested solution.
@@ -35,6 +35,10 @@ The article proposes institutional interventions such as AI-free study halls: li
 
 ### Target Learning Goals
 - verifiable unassisted academic writing practice
+
+## Claims
+
+- [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](../claims/conditional-ai-free-assessment-detector-false-positives.md) [~W]
 
 ## Related Strategies
 

@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (19 for, 16 mixed, 2 against) · 37 studies (11 causal, 6 quant-synthesis, 6 review, 6 theoretical, 5 associational, 2 design, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 27 claims rest on one study
+> **Evidence** · 38 claims (20 for, 16 mixed, 2 against) · 37 studies (11 causal, 6 quant-synthesis, 6 review, 6 theoretical, 5 associational, 2 design, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](../claims/srl-interventions-increase-logged-time-investment-online-math-prep-course.md) [~W]
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
+- [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](../claims/agentic-ai-evidence-strongest-tutoring-srl-coaching.md) [+W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

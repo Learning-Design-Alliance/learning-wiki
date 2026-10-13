@@ -17,7 +17,7 @@ sources:
 # Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on the converging gaps across the reviewed literature, the review recommends that future work pursue "longitudinal and real-world validation, stronger pedagogical grounding, more governed adoption of emerging agent infrastructures, and more systematic integration of ethics and human oversight". This agenda is technically informed but educationally appropriate, addressing the mismatch between rapid frontier agent development and limited educational evidence.
@@ -35,6 +35,11 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 
 ### Target Learning Goals
 - Responsible, educationally meaningful development and deployment of agentic AI systems
+
+## Claims
+
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](../claims/agentic-multi-agent-systems-lack-empirical-validation.md) [+W]
+- [CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support](../claims/cai-framework-gaps-design-guidance-usability-ai-literacy.md) [+W]
 
 ## Related Strategies
 

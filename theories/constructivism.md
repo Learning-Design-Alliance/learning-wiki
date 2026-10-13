@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 design, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 2 associational, 2 design, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 5 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -44,6 +44,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](../claims/no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) [~W]
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
 
 ## Related Theories
 

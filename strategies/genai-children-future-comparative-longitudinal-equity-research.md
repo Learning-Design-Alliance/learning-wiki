@@ -17,7 +17,7 @@ sources:
 # Strengthen the evidence base with comparative and longitudinal designs and include rural, underserved, and low-resource communities before presenting GenAI as democratizing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation is that the field move beyond small exploratory studies: "Future research should use stronger comparative and longitudinal designs and directly include rural, underserved, and low-resource communities before GenAI is presented as a democratizing intervention." This strategy directs researchers to test GenAI's effects with controlled comparisons over time and to sample populations currently missing from the evidence base, so that claims about effectiveness, scalability, and equity are no longer provisional.
@@ -35,6 +35,10 @@ The review's forward-looking recommendation is that the field move beyond small 
 
 ### Target Learning Goals
 - children's creative thinking and cognitive development
+
+## Claims
+
+- [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](../claims/rural-students-forgotten-20-percent-framing.md) [+W]
 
 ## Related Strategies
 

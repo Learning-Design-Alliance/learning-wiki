@@ -17,7 +17,7 @@ sources:
 # Use disaggregated attainment data with an aspiration benchmark to identify where students face barriers and hold institutions responsible for change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (4 associational), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The report models a monitoring practice: track attainment milestones over time, disaggregate "by race/ethnicity and gender, disability status, and, for the first time, English Learner (EL) status to understand which students face more barriers to educational attainment and where different strategies and supports are needed." It benchmarks group PAIs against the roughly 75 percent of ninth-graders aspiring to a college credential, and publishes the data through the To&Through Online Tool so users can interact with school-level data. The authors state that "information alone isn't enough to change policies and practices" and hope the inequitable outcomes "spur a critical examination of students' opportunities and experiences in schools."
@@ -35,6 +35,13 @@ The report models a monitoring practice: track attainment milestones over time, 
 
 ### Target Learning Goals
 - Educational attainment from high school through college completion
+
+## Claims
+
+- [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](../claims/cps-dai-gaps-race-gender.md) [+W]
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](../claims/cps-graduation-race-gender-gaps.md) [+W]
+- [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](../claims/psae-cohort-freshmen-53-percent-tested.md) [~W]
+- [English Learners participated at higher rates; the disability difference was not statistically significant](../claims/english-learners-higher-iep-null-participation.md) [+W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Online Videos for Family Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies (5 review, 3 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 12 studies (5 review, 3 causal, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy uses short, freely accessible online videos as shared learning objects that family members — adults and children together, often across generations and language backgrounds — can watch, discuss, and act on jointly. Videos serve as a common reference point that does not privilege any family member's literacy or fluency in the dominant language, allowing learning conversations to start from a shared observation rather than from text.
@@ -57,6 +57,10 @@ Video combines visual and auditory channels, which supports comprehension for vi
 3. Attach a simple joint activity that applies what was seen ([Practice](../elements/practice.md)) — a recipe, experiment, counting game, or walk-and-look task.
 4. Provide the same content in multiple languages or with minimal text so no family member is locked out.
 5. Invite families to respond — a photo, a short video, or a drawing — so the exchange is two-way rather than broadcast.
+
+## Claims
+
+- [Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone](../claims/splash-bubbles-station-study-coviewing-majority.md) [+W]
 
 ## Related Strategies
 

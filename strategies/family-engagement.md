@@ -30,7 +30,7 @@ sources:
 # Family Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 quant-synthesis, 3 causal, 1 review), `q3` · 4 of 8 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q1`–`q3` · 4 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Family engagement is a sustained, collaborative practice in which families and school personnel partner to support children's learning and development. It spans behaviors at school (parent–teacher communication, shared expectations, participation in decision-making) and at home (supervision, high expectations, conversations about learning). Effective engagement is planned and reciprocal — schools actively build communication channels and model expectations rather than waiting for families to initiate contact.
@@ -93,6 +93,10 @@ Family engagement functions as an out-of-school support system that amplifies in
 3. **Coach home-based support.** Provide [Coaching](../elements/coaching.md) and modeling for home practices such as dialogic reading [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S], while avoiding direct homework takeover [Parental homework help can backfire.](../claims/joint-book-reading-predicts-literacy-success.md) [-M].
 4. **Close the loop with feedback.** Use structured [Feedback](../elements/feedback.md) so families see the effect of their support, and adjust practices based on family input.
 5. **Fade school direction over time.** As families build confidence, shift from school-led scripting to family-led support, consistent with [Fading Support Promotes Transfer of Responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+
+## Claims
+
+- [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](../claims/boarding-school-legacy-distrust-undermines-attendance-efforts.md) [-W]
 
 ## Related Strategies
 

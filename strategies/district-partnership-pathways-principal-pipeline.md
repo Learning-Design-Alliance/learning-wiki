@@ -17,7 +17,7 @@ sources:
 # Use district-preparation program partnerships to create pathways identifying high quality educators for district leadership positions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends leveraging the deeper and more collaborative partnerships between districts and preparation programs required under the new policy as a pipeline strategy. "The use of these partnerships to create pathways to identify high quality educators and train them for district leadership positions appears to be a promising avenue to decrease potential shortages in the pipeline." This strategy builds on the policy requirement that programs include partnerships with school districts in preparation program design and delivery.
@@ -36,6 +36,10 @@ The report recommends leveraging the deeper and more collaborative partnerships 
 ### Target Learning Goals
 - principal preparation
 - instructional leadership
+
+## Claims
+
+- [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](../claims/program-district-collaboration-coherent-principal-preparation.md) [+W]
 
 ## Related Strategies
 

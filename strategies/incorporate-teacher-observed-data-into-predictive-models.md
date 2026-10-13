@@ -17,7 +17,7 @@ sources:
 # Incorporate teacher-observed data on behaviors, attitudes, and aspirations into predictive models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article points to teachers as a source of information that statistical models usually miss, calling them "a veritable treasure trove of data on student behaviors, attitudes, and aspirations." The strategy is to draw this teacher-held information into analytics so models reflect what educators already know. The article presents it as a way to avoid the pitfalls of industry-style modeling in schools.
@@ -35,6 +35,10 @@ The article points to teachers as a source of information that statistical model
 
 ### Target Learning Goals
 - Improving the accuracy and fairness of student risk prediction
+
+## Claims
+
+- [Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models](../claims/teachers-hold-student-data-outside-statistical-models.md) [+W]
 
 ## Related Strategies
 - 

@@ -24,7 +24,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (7 for, 12 mixed) · 37 studies (15 causal, 7 quant-synthesis, 5 associational, 4 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 7 claims rest on one study
+> **Evidence** · 20 claims (7 for, 13 mixed) · 39 studies (15 causal, 7 quant-synthesis, 7 associational, 4 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,7 @@ This pattern is scoped to learners judging the quality of objects against criter
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [~W]
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](../claims/hallucination-as-pedagogical-resource.md) [~W]
+- [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](../claims/perceived-accuracy-lower-ctesp-context-difference.md) [~W]
 
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)

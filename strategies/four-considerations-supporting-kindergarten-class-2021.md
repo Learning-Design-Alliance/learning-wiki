@@ -17,7 +17,7 @@ sources:
 # District, school, and classroom leaders should apply four timely considerations to support kindergarten students entering school after COVID-19 enrollment disruptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief offers district, school, and classroom leaders a set of four considerations for supporting the kindergarten class of 2021, whose enrollment was affected by the COVID-19 pandemic. It states: "Drawing on recent research, we offer four timely considerations for district, school, and classroom leaders." The considerations respond to changes in kindergarten enrollment and the foundational role of early learning. The full enumeration of the four considerations appears in the complete brief.
@@ -35,6 +35,10 @@ The brief offers district, school, and classroom leaders a set of four considera
 
 ### Target Learning Goals
 - Foundational academic and nonacademic skills developed in preschool and early elementary school
+
+## Claims
+
+- [The COVID-19 pandemic changed public school kindergarten enrollment in ways with likely national classroom consequences](../claims/covid-changed-kindergarten-enrollment-consequences.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The tool ships with a 50-minute lesson plan structured around five moments — stepping through ignorance, the first goal, convergence, hyperparameter experiments, and reward design — 'each mapped to a specific interface affordance.' Moments use single-step mode, ×100 training, and editable rewards; the reward-design moment has students check pit-seeking behavior against the optimal policy to distinguish under-exploration from a broken objective.
@@ -37,6 +37,10 @@ The tool ships with a 50-minute lesson plan structured around five moments — s
 - understanding why exploration is needed
 - observing backward value propagation from the goal
 - designing and diagnosing reward functions
+
+## Claims
+
+- [Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges](../claims/hyperparameter-sweeps-reproduce-lesson-claims.md) [+W]
 
 ## Related Strategies
 

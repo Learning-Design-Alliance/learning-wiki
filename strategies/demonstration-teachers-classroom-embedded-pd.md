@@ -17,7 +17,7 @@ sources:
 # Sustained classroom-embedded professional development through demonstration teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy places experienced demonstration teachers inside classrooms for extended two-week residencies repeated throughout the year. Demonstration teachers observe, model, co-teach, and confer with classroom teachers during regular instruction, reducing student-to-teacher ratio and providing personalized modeling. The TLN partner insisted that 'staff development needs to occur in actual classrooms during regular instruction' and that school change 'basically happens one teacher at a time.'
@@ -36,6 +36,10 @@ This strategy places experienced demonstration teachers inside classrooms for ex
 
 ### Target Learning Goals
 - Improved literacy and writing instruction through student-centered, workshop-based classroom practice
+
+## Claims
+
+- [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](../claims/experienced-teachers-spillover-colleagues-school.md) [+W]
 
 ## Related Strategies
 

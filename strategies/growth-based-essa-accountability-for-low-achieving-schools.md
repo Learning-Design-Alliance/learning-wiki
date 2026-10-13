@@ -17,7 +17,7 @@ sources:
 # Use growth measures rather than achievement as the primary indicator of school effectiveness in ESSA accountability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that states judge the effectiveness of low-achieving schools primarily with growth metrics rather than achievement, because achievement is strongly predicted by school poverty and biases accountability against schools serving low-income students. It states an equitable policy should require the "Use of appropriate measures of growth to judge the “effectiveness” of low-achieving schools for ESSA accountability purposes without a significant bias introduced from using measures of achievement." It also recommends public reporting of both achievement and growth using well-constructed measures.
@@ -35,6 +35,11 @@ The article recommends that states judge the effectiveness of low-achieving scho
 
 ### Target Learning Goals
 - Fair identification of Comprehensive Support and Improvement schools and recognition of schools producing high learning growth
+
+## Claims
+
+- [Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA](../claims/maryland-lacked-k3-growth-measure-essa-need.md) [+W]
+- [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](../claims/school-growth-variance-exceeds-poverty-effect.md) [+W]
 
 ## Related Strategies
 

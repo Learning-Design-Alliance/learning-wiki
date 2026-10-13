@@ -17,7 +17,7 @@ sources:
 # Sustain the school mental health system through braided funding, LCAP indicators, and ongoing program mapping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief lists key strategies NHUHSD will use to sustain its school mental health system beyond Project Cal-Well, including "incorporating key mental health indicators from the CHKS into the Local Control and Accountability Plan (LCAP)", ongoing program mapping of all school-based mental health activities, and leveraging federal School-Based Mental Health Services Providers grants in the short term and a Medi-Cal fee schedule in the long term to pay providers.
@@ -35,6 +35,10 @@ The brief lists key strategies NHUHSD will use to sustain its school mental heal
 
 ### Target Learning Goals
 - sustaining a comprehensive multitiered mental health system beyond grant funding
+
+## Claims
+
+- [LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure](../claims/medi-cal-billing-top-sustainability-strategy.md) [~W]
 
 ## Related Strategies
 

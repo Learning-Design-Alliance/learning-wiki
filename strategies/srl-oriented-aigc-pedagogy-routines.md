@@ -17,7 +17,7 @@ sources:
 # Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that instructors scaffold self-regulated learning by designing AIGC activities that explicitly target self-efficacy and motivation rather than seamless answer delivery. It states instructors "can use AIGC to scaffold SRL by embedding prompt-and-reflect routines, feedback literacy activities, and verification rubrics that require students to justify and triangulate AI outputs rather than accept them uncritically." It also suggests intentionally incomplete feedback and verification rubrics may better scaffold SRL than seamless experiences, and that program-level reforms should strengthen enterprise co-development, mentorship, and competency mapping.
@@ -40,6 +40,10 @@ The article recommends that instructors scaffold self-regulated learning by desi
 
 ### Affordances
 - [Aigc Affordance Enacted Competence Theory](../theories/aigc-affordance-enacted-competence-theory.md)
+
+## Claims
+
+- [No existing AI literacy framework explicitly names prompt construction as a competency](../claims/prompt-literacy-left-unnamed.md) [~W]
 
 ## Related Strategies
 

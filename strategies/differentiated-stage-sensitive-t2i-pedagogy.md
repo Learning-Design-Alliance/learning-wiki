@@ -17,7 +17,7 @@ sources:
 # Differentiate T2I pedagogy by student profile and adopt a stage-sensitive approach to AI literacy and assessment in studio courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the finding that students with different competence levels and risk perceptions engage with T2I tools differently across task stages, the article recommends that instructors "identify diﬀerent student proﬁles within speciﬁc courses and adoptdiﬀerentiatedteachingstrategieswithdistinctdevelopmental goals". It further recommends institutions redefine AI literacy in design domains with a stage-sensitive approach to capability development and evaluation, rather than treating AI use as a monolithic category with uniform training or undifferentiated assessment.
@@ -38,6 +38,10 @@ Based on the finding that students with different competence levels and risk per
 
 ### Affordances
 - Extended Utaut Creative Competence T2I
+
+## Claims
+
+- [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](../claims/students-inverted-genai-competence-profile.md) [+W]
 
 ## Related Strategies
 

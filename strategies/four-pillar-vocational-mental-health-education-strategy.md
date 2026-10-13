@@ -17,7 +17,7 @@ sources:
 # Strengthen vocational mental health education through literacy, ecosystem, teacher development, and crisis networks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends a four-part strategy for secondary vocational schools: raising mental health literacy, improving the psychological growth environment, developing teachers' capacities, and building crisis prevention networks. It states the findings "suggest that enhancing mental health literacy, optimizing the psychological growth ecosystem for students, empowering teacher development, and strengthening the construction of psychological crisis prevention and control networks" to support high-quality vocational education.
@@ -37,6 +37,11 @@ The article recommends a four-part strategy for secondary vocational schools: ra
 - mental health literacy
 - psychological crisis prevention
 - student well-being supporting academic development
+
+## Claims
+
+- [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](../claims/vocational-students-low-mental-health-literacy-4-3-percent.md) [+W]
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](../claims/severe-depression-co-occurs-self-harm-suicidal-tendencies.md) [+W]
 
 ## Related Strategies
 

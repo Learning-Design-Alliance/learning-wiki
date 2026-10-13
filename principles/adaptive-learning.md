@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (25 for, 16 mixed, 6 against) · 50 studies (21 causal, 13 review, 6 quant-synthesis, 4 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 40 claims rest on one study
+> **Evidence** · 48 claims (26 for, 16 mixed, 6 against) · 50 studies (21 causal, 13 review, 6 quant-synthesis, 4 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](../claims/rl-adaptive-system-grade-engagement-gains.md) [+W]
 - [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
+- [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](../claims/drl-policy-favors-guided-examples-distribution.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

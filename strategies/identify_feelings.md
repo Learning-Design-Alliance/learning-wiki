@@ -13,7 +13,7 @@ generated:
 # Identify Feelings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q3` · 2 of 4 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Identify Feelings is a strategy in which students recognize, name, or match emotional states — typically from facial expressions, body language, tone, or situational cues — and label them with accurate vocabulary. It is carried out through activities such as emotion-card matching, feelings check-ins, analyzing characters' emotions in stories, or photographing and categorizing expressions. The core move is converting an internal or observed affective state into a precise verbal label.
@@ -73,6 +73,10 @@ Labeling emotions is the foundational skill of emotional literacy: students cann
 4. **Apply to self:** Students use a routine [Check-In](../elements/check-in.md) (mood meter, feelings chart) to label their own current state.
 5. **Apply to others:** During stories, role-plays, or [Case Studies](../elements/case-studies.md), students infer and label characters' or peers' feelings and discuss how they knew.
 6. **Extend granularity:** Gradually replace broad labels with precise ones (mad → annoyed, frustrated, furious) as vocabulary grows.
+
+## Claims
+
+- [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](../claims/adolescents-amygdala-driven-emotion-processing.md) [+W]
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a game-based variant that embeds identification in a daily routine

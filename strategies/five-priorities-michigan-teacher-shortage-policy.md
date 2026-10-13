@@ -17,7 +17,7 @@ sources:
 # Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 against) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report proposes five priorities as a roadmap for sustained change: fair and adequate funding to support competitive salaries especially in high-poverty districts; improved state education data systems so policymakers and parents have timely, accurate information; making teaching an attractive, financially stable career; investing in school administrators' capacity to evaluate teachers and give actionable, student-centered feedback; and increasing access to high-quality professional development. The authors state "districts cannot hire and retain high-quality teachers without adequate and fair funding."
@@ -35,6 +35,12 @@ The report proposes five priorities as a roadmap for sustained change: fair and 
 
 ### Target Learning Goals
 - Equitable access to experienced, credentialed, in-field teachers supporting reading and math proficiency
+
+## Claims
+
+- [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](../claims/mentor-coach-access-inequity-poverty.md) [-W]
+- [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](../claims/michigan-vacancy-data-underreporting.md) [-W]
+- [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](../claims/shortage-burden-high-poverty-high-minority-schools.md) [+W]
 
 ## Related Strategies
 

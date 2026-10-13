@@ -17,7 +17,7 @@ sources:
 # Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that states and districts use ESSA Title II professional development funding to strengthen teacher preparation, recruitment, induction, support, and advancement, increasing teacher effectiveness and retention. Strategies listed include differential pay, class size reductions, engagement of parents and community partners, coordination of school and community services, and professional development for educators serving students with disabilities, English learners, and young children. The report states evidence points to strong, well-subsidized preparation and mentoring for beginning teachers, which improve retention and effectiveness.
@@ -39,6 +39,10 @@ The report recommends that states and districts use ESSA Title II professional d
 ### Target Learning Goals
 - equitable access to effective, in-field, experienced teachers
 - reduced teacher turnover in high-need schools
+
+## Claims
+
+- [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](../claims/underprepared-teachers-leave-two-to-three-times-more.md) [+W]
 
 ## Related Strategies
 

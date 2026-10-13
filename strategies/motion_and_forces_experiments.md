@@ -12,7 +12,7 @@ generated:
 # Motion and Forces Experiments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 17 studies (9 causal, 5 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size
+> **Evidence** · 8 claims (4 for, 2 mixed, 2 against) · 18 studies (9 causal, 5 review, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Hands-on physical science investigations in which learners manipulate variables — ball mass, ramp height, pendulum length, surface friction — to observe and measure how forces affect motion and energy transfer. Learners generate predictions, run trials, record measurements, and reconcile results with their initial conceptions. The strategy sits at the intersection of inquiry-based science and embodied learning: the phenomenon is physically experienced, not merely described.
@@ -57,6 +57,10 @@ Physical manipulation of concrete materials grounds abstract force-and-motion co
 4. **Compare results to predictions.** Facilitate discussion of discrepancies between predicted and observed outcomes; treat high-confidence wrong predictions as productive learning events [High-confidence errors improve retention.](../claims/high-confidence-errors-improve-retention.md) [+M].
 5. **Consolidate with formal explanation.** Connect the data pattern to the canonical model (e.g., F = ma, conservation of energy) — the experiment motivates the formalism, not replaces it.
 6. **Fade toward open inquiry.** As learners gain control, shift to student-designed investigations of a new variable [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+
+## Claims
+
+- [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](../claims/remote-case-d-full-cycle-disembodied.md) [-W]
 
 ## Related Strategies
 - Prediction–observation–explanation cycles — the canonical lesson structure for prediction-violation experiments

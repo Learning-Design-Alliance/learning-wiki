@@ -17,7 +17,7 @@ sources:
 # Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 associational, 1 review), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on its findings, the article recommends that universities offer programs that raise awareness of AI-driven change, foster positive AI attitudes, and reduce anxiety. It states that "Integrating AI literacy, digital skill development, and technology  focused career planning into coursework would be helpful." Because anxiety was higher among female, social science, and second-year students, it recommends prioritizing career counseling, psychosocial assistance, and skills-based training for these groups, plus early career-orientation initiatives and AI-supported tools expanding internships, project-based learning, and structured mentoring.
@@ -35,6 +35,13 @@ Based on its findings, the article recommends that universities offer programs t
 
 ### Target Learning Goals
 - AI literacy, digital skills, career orientation, and labor market preparedness
+
+## Claims
+
+- [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](../claims/female-students-higher-ai-and-job-anxiety.md) [~W]
+- [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](../claims/second-year-students-higher-job-finding-anxiety.md) [+W]
+- [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](../claims/low-ai-literacy-positive-attitudes-health-students.md) [+W]
+- [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](../claims/profiles-differ-ai-anxiety-low-group-highest.md) [+W]
 
 ## Related Strategies
 

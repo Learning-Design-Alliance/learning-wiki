@@ -17,7 +17,7 @@ sources:
 # Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Claremont compensates candidates to make a yearlong coteaching model accessible to those who could not afford to forgo income. All full-time residents receive stipends to help cover living expenses, and the university reduced tuition for teacher preparation candidates by half beginning in 2022. Table 1 lists an average living stipend of $30,000, grants up to $20,000, and scholarships up to $12,500. Faculty sought federal grants precisely to fund a high-quality paid residency pathway.
@@ -35,6 +35,10 @@ Claremont compensates candidates to make a yearlong coteaching model accessible 
 
 ### Target Learning Goals
 - access to high-quality clinical teacher preparation
+
+## Claims
+
+- [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](../claims/stipends-enable-full-residency-participation.md) [+W]
 
 ## Related Strategies
 

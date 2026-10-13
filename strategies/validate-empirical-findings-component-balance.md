@@ -17,7 +17,7 @@ sources:
 # Validate the empirical-findings component and balance alignment against generalizability when injecting prior study results into agent prompts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article cautions that over-reliance on retrieved empirical findings may behave like overfitting: because student development "does not always conform to patterns reported in previous studies," empirical references may "constrain the model's capacity for simulating novel or unexpected behaviors." It recommends systematically comparing simulation performance with and without the empirical findings component to isolate its causal impact, and exploring alternative data acquisition strategies.
@@ -38,6 +38,11 @@ The article cautions that over-reliance on retrieved empirical findings may beha
 
 ### Affordances
 - [Student Development Agent Framework](../research-methods/student-development-agents.md)
+
+## Claims
+
+- [The study's generalizability is limited by its rural, small, relatively homogeneous context](../claims/ai-helper-case-study-generalizability-limits.md) [~W]
+- [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](../claims/injection-strategy-architecture-sensitive.md) [~W]
 
 ## Related Strategies
 

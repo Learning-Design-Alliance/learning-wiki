@@ -13,7 +13,7 @@ generated:
 # Address Biases in the Use of Language and Symbols
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 2 review), `q2`–`q3` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy involves systematically auditing and revising the language, examples, names, images, and symbols used in learning materials, assessments, and classroom discourse so they are free from gender, racial, cultural, and ability-based stereotypes and respect the diverse identities of learners. It is carried out through bias review of materials, adoption of inclusive terminology (e.g., person-first or identity-first language as appropriate), and replacement of stereotyped example contexts with varied, representative ones.
@@ -74,6 +74,10 @@ Biased language and symbols impose extraneous processing and identity threat: st
 3. Revise examples so that diverse identities appear across a full range of roles and statuses, not only in token positions.
 4. Replace culture-bound idioms and ambiguous symbols with plain language and universally interpretable icons, consistent with [Clear Structure & Presentation](../principles/clear-structure.md).
 5. Re-review periodically and after major terminology shifts; treat bias review as maintenance, not a one-time fix.
+
+## Claims
+
+- [Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity](../claims/image-skin-tone-and-group-diversity-bias.md) [+W]
 
 ## Related Strategies
 - [Accessible Syntax](accessible_syntax.md) — sentence-level clarity work that pairs naturally with bias review, since both reduce unnecessary processing load

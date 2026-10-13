@@ -17,7 +17,7 @@ sources:
 # Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that universities strengthen AI technology course introduction and training, differentiate curriculum by grade level, and build learning communities with project-task-driven peer-assisted learning. Because self-efficacy positively predicted AI-TPACK components, "it is crucial to cultivate the self-efficacy of MTES", for example by helping them gain confidence and willingness to use AI tools when encountering difficulties. Teaching beliefs' negative associations with AI-TCK and AI-TPK mean institutions should also help MTES update their teaching beliefs, supported by school policies, resources, and uniform standards for evaluating teaching internships.
@@ -35,6 +35,10 @@ The authors recommend that universities strengthen AI technology course introduc
 
 ### Target Learning Goals
 - AI-TPACK competence development, AI-TK proficiency, integration of AI with mathematics teaching
+
+## Claims
+
+- [Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers](../claims/no-formal-training-lower-positive-genai-beliefs.md) [+W]
 
 ## Related Strategies
 

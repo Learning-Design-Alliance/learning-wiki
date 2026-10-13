@@ -17,7 +17,7 @@ sources:
 # Policy recommendations: fully fund the Education for Homeless Children and Youth program, expand allowable uses, base funding on homeless-student counts, and invest in community schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report's closing recommendations for federal, state, and district policymakers. It states "The Education for Homeless Children and Youth program should be fully funded to enable districts to meet its mandate," with funds sufficient, proportional to need, and stable enough for long-term staff hiring. It recommends expanding allowable McKinney-Vento uses to emergency family expenses such as rent, utilities, medical bills, or hotel stays; revising the allocation formula toward actual homeless-student enrollment (initially blended with low-income counts); state options including a funding-formula weight, targeted allotments, or cross-agency coordination grants; and increased investment in community schools and specialized instructional support personnel.
@@ -35,6 +35,11 @@ The report's closing recommendations for federal, state, and district policymake
 
 ### Target Learning Goals
 - equal access to appropriate public education and supports addressing barriers to learning
+
+## Claims
+
+- [Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts](../claims/mckinney-vento-funding-low-not-proportional-to-need.md) [+W]
+- [Fewer than 24% of LEAs receive McKinney-Vento grants, and over one third of students experiencing homelessness attend districts receiving none](../claims/mckinney-vento-uneven-distribution.md) [+W]
 
 ## Related Strategies
 

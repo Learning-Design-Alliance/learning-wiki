@@ -17,7 +17,7 @@ sources:
 # Contain special education costs through approaches other than census funding while maintaining quality programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Beyond census funding, the brief "describes other ways in which states and districts may be able to contain special education costs while maintaining quality programs." These alternatives are offered to states and districts seeking cost containment without relying solely on enrollment-based aid, complementing the brief's analysis of the census model itself.
@@ -35,6 +35,10 @@ Beyond census funding, the brief "describes other ways in which states and distr
 
 ### Target Learning Goals
 - sustaining quality special education programs at contained cost
+
+## Claims
+
+- [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](../claims/special-education-economies-of-scale-ideal-enrollment.md) [~W]
 
 ## Related Strategies
 

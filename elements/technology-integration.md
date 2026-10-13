@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 23 studies (8 associational, 4 review, 4 qualitative, 3 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 23 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 27 studies (10 associational, 5 qualitative, 4 review, 4 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 27 report an effect size · 28 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -50,6 +50,10 @@ Technology integration is the element in which digital tools are used in direct 
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](../claims/genai-use-concentrates-in-uncertain-design-phases.md) [~W]
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](../claims/genai-overreliance-threatens-clinical-readiness.md) [~W]
 - [Faculty with negative versus positive AI pedagogical orientation differ in how they interpret AI's role in thinking: cautious peripheral use versus integrated use with managed concerns](../claims/orientation-extremes-differ-in-epistemic-interpretation-of-ai.md) [~W]
+- [Activity-Technology alignment is the weakest quality dimension across all agents (mean = 2.19), identifying technology integration as a universal challenge](../claims/activity-technology-alignment-weakest-dimension.md) [-W]
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](../claims/llm-scaffolding-over-reliance-paradox.md) [~W]
+- [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](../claims/genai-use-negatively-associated-genai-learning-procrastination.md) [~W]
+- [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](../claims/experts-superficial-technology-integration.md) [~W]
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)

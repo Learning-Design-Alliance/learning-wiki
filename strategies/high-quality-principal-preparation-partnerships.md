@@ -17,7 +17,7 @@ sources:
 # Develop high-quality principal preparation through district-university partnerships with internships and mentorship
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends district-university partnerships with preparation programs that use evidence-based practices, giving candidates high-quality learning experiences aligned with district standards. It highlights two components: "Internships," described as possibly "the most valuable part of a principal preparation program," and mentorship pairing candidates with experienced leaders who provide day-to-day feedback and coaching. States should ensure affordable licensure pathways and set high accreditation standards.
@@ -37,6 +37,11 @@ The brief recommends district-university partnerships with preparation programs 
 
 ### Target Learning Goals
 - Rigorous preparation of school leader candidates to lead underserved schools effectively
+
+## Claims
+
+- [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](../claims/limited-access-job-based-principal-learning.md) [-W]
+- [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](../claims/prep-quality-varies-by-school-wealth.md) [~W]
 
 ## Related Strategies
 

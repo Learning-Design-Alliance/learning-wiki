@@ -17,7 +17,7 @@ sources:
 # Districts should track rates of lost instruction from suspensions and conduct recurring public reviews of discipline disparities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 For local policymakers, the report recommends that districts track the frequency and rates of lost instruction from out-of-school suspensions and use the data to inform local discipline policy. It advises school boards to "conduct a public review and discussion of discipline disparities at least twice each year at school board meetings," and, where suspensions are frequent and disparities wide, to develop an action plan with specific goals informed by affected community members. It also recommends central-office review of lengthy suspensions.
@@ -35,6 +35,14 @@ For local policymakers, the report recommends that districts track the frequency
 
 ### Target Learning Goals
 - Equitable access to instructional time and reduced disparate impact of exclusionary discipline
+
+## Claims
+
+- [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](../claims/alternative-schools-extreme-lost-instruction.md) [+W]
+- [Male students received significantly higher rates of suspensions and referrals than female students](../claims/male-students-higher-discipline-rates-elementary.md) [+W]
+- [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](../claims/secondary-suspension-lost-instruction-five-times-elementary.md) [+W]
+- [ESE program students had significantly higher rates of suspensions and referrals than non-ESE students](../claims/ese-students-higher-disciplinary-rates.md) [+W]
+- [In many large districts, secondary students lost more than a year of instruction per 100 enrolled, up to 416 days in Grand Rapids, MI](../claims/districts-lost-over-year-instruction-per-100.md) [+W]
 
 ## Related Strategies
 

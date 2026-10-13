@@ -17,7 +17,7 @@ sources:
 # Policy package to ease Parent PLUS burdens: targeted cancellation, full IDR/PSLF access, lower rates, and affordable alternatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief closes with seven recommendations for Congress and the Biden administration aimed at reducing Black families' Parent PLUS burdens and making college affordable. These include canceling at least $50,000 of federal student debt per borrower — a step more than 80% of National Black Student Debt Study participants think the federal government should take — making Parent PLUS borrowers whose children received a Pell Grant eligible for up to $20,000 in cancellation, granting current and future Parent PLUS borrowers access to all income-driven repayment plans and Public Service Loan Forgiveness without consolidating, reducing Parent PLUS interest rates to the undergraduate rate, and doubling the Pell Grant with federal-state partnerships for debt-free public college.
@@ -35,6 +35,10 @@ The brief closes with seven recommendations for Congress and the Biden administr
 
 ### Target Learning Goals
 - Preserving affordable access to higher education without intergenerational debt burdens
+
+## Claims
+
+- [Parent PLUS borrowers lack direct access to income-driven repayment plans and can only reach the least generous plan via consolidation](../claims/parent-plus-borrowers-limited-idr-access.md) [+W]
 
 ## Related Strategies
 

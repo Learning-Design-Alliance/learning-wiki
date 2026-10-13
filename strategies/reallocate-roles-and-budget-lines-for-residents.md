@@ -17,7 +17,7 @@ sources:
 # Reallocate existing district roles and budget lines—substitute teaching, paraeducator positions, and extended-day staffing—to fund and pay residents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's most common sustainability strategy is redirecting dollars and roles districts already pay for. Residents can substitute on a modest, planful basis, serve half-time as paraeducators, or staff before-school, after-school, and summer programs, earning pay for instructional support while learning. The report notes that "Reallocating a portion of funding from multiple district budget lines can quickly add up to a significant amount of funding for residents," estimating over $350,000 from 10% of four budget lines in a 190-teacher district.
@@ -39,6 +39,10 @@ The report's most common sustainability strategy is redirecting dollars and role
 
 ### Affordances
 - Three Rs Residency Sustainability Framework
+
+## Claims
+
+- [Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts](../claims/low-uptake-district-based-employment-residents.md) [~W]
 
 ## Related Strategies
 

@@ -16,7 +16,7 @@ sources:
 # Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For practitioners, the article recommends keeping the model frozen and selecting among N stochastic candidate responses with an interpretable index rather than retraining: "a useful pedagogical alignment lever sits between full RL retraining and unprincipled greedy decoding: inference-time selection with a tiny interpretable index retains the base model’s mathematical depth and exposes four interpretable weights for behavioural tuning". TEI@N generates N candidates, scores each with regex features plus a one-pass DTR forward hook, and returns the best-scoring response at cost linear in conversation length.
@@ -37,6 +37,10 @@ For practitioners, the article recommends keeping the model frozen and selecting
 
 ### Affordances
 - Tutoring Effectiveness Index Tei
+
+## Claims
+
+- [TEI@4 selection shifts thinking-trace mass toward deeper deliberation, raising Schoenfeld Explore share by +10.8pp without changing the model](../claims/tei4-selects-deliberation-rich-candidates.md) [+M]
 
 ## Related Strategies
 - 

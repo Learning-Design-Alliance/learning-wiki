@@ -17,7 +17,7 @@ sources:
 # Provide more intensive literacy interventions and supports for at-risk students in later grades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The brief recommends that supports for older early-grade students be scaled up relative to kindergarten supports, because risk status is more persistent in later grades. It states that "Interventions and supports for students in later grades may need to be more intensive than those at earlier grades," citing data showing more grade 3 students at risk stay at risk over the school year. This is an implementable targeting rule for schools and districts using screener data.
@@ -35,6 +35,13 @@ The brief recommends that supports for older early-grade students be scaled up r
 
 ### Target Learning Goals
 - early literacy benchmark attainment
+
+## Claims
+
+- [Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels](../claims/cross-grade-risk-persistence.md) [+W]
+- [Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades](../claims/cross-year-recovery-higher-earlier-grades.md) [+W]
+- [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](../claims/kindergarten-largest-risk-decline.md) [+W]
+- [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](../claims/k3-at-risk-decreases-larger-earlier-grades.md) [+W]
 
 ## Related Strategies
 

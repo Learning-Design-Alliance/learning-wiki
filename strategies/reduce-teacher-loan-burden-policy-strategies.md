@@ -17,7 +17,7 @@ sources:
 # Expand loan forgiveness, high-retention preparation pathways, and compensation supports to reduce teacher loan burdens and strengthen recruitment and retention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends five federal, state, and local policy approaches: expanding loan forgiveness and service scholarship programs; expanding affordable high-retention preparation pathways such as residency programs; raising teachers' salaries; bolstering net compensation through tax credits and housing subsidies; and underwriting costs of high-need, advanced credentials. It argues that because "over 90% of outstanding student loans being administered or held by the U.S. Department of Education, the federal government is in a particularly strong position" to act. These recommendations follow directly from the report's findings on debt prevalence, subgroup disparities, and stress.
@@ -36,6 +36,10 @@ The report recommends five federal, state, and local policy approaches: expandin
 
 ### Target Learning Goals
 - Recruiting and retaining a well-prepared, stable, and diverse teacher workforce to advance student learning and development
+
+## Claims
+
+- [About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress](../claims/loan-stress-teacher-wellbeing.md) [+W]
 
 ## Related Strategies
 

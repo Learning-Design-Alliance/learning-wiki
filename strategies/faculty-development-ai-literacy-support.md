@@ -17,7 +17,7 @@ sources:
 # Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter treats faculty development as crucial to implementing the framework. Institutions should first "assess faculty AI literacy needs through a multi-faceted approach," including surveys of current AI knowledge and teaching practices, syllabus analysis to identify gaps in AI coverage, and faculty focus groups. Based on these assessments, institutions can offer workshops on AI technologies, expert-led seminars on ethical considerations, and hands-on training, plus comprehensive integration guides, online forums, brown bag sessions, and mentorship pairing AI-experienced faculty with newcomers.
@@ -35,6 +35,10 @@ The chapter treats faculty development as crucial to implementing the framework.
 
 ### Target Learning Goals
 - faculty capacity to integrate AI literacy across the curriculum
+
+## Claims
+
+- [Educators report needing training, resources, and institutional support to introduce educational change](../claims/educators-need-training-resources-institutional-support-for-change.md) [+W]
 
 ## Related Strategies
 

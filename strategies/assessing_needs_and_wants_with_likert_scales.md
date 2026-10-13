@@ -12,7 +12,7 @@ generated:
 # Assessing Needs and Wants with Likert Scales
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 design), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses short Likert-scale surveys (typically five-point, from "strongly disagree" to "strongly agree") to gather quantitative data on what learners need — prior knowledge, confidence, perceived relevance — and what they want — interests, preferences, motivations. Responses are aggregated to inform instructional decisions such as topic sequencing, pacing, grouping, and emphasis, and are typically collected at the start of a unit, at [check-ins](../principles/check-ins.md) during it, and at closure.
@@ -57,6 +57,10 @@ Likert scales convert subjective learner states into comparable data, making the
 4. Aggregate responses and identify the distribution, not just the average — a bimodal split calls for differentiated grouping, not a middle path.
 5. Act on the data: adjust instruction, then tell learners what changed because of their responses, closing the [Assessment](../elements/assessment.md) loop.
 6. Re-administer a parallel form at closure and have learners compare confidence ratings with actual performance to build calibration.
+
+## Claims
+
+- [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](../claims/pre-post-survey-likert-open-text-genai-design.md) [+W]
 
 ## Related Strategies
 

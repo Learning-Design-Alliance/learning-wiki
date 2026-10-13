@@ -16,7 +16,7 @@ sources:
 # Integrate AI task literacy into CTE curricula now, ahead of employer adoption
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that CTE practitioners integrate AI task literacy into curricula while adoption in Heartland-heavy occupations is still low, so students shape adoption rather than react to it. It specifies teaching "the augmentation/automation/displacement distinction" explicitly so students understand how AI enters diagnostics, recordkeeping, and planning before touching a trade's physical or judgment-based core. Instructional time should focus on occupations showing early augmentation, where AI expands worker scope, rather than those trending toward displacement.
@@ -37,6 +37,10 @@ The brief recommends that CTE practitioners integrate AI task literacy into curr
 
 ### Affordances
 - Augmentation Automation Displacement Distinction
+
+## Claims
+
+- [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](../claims/exposure-adoption-gap-opportunity-window.md) [+W]
 
 ## Related Strategies
 

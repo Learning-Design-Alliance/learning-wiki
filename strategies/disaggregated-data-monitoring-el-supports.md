@@ -17,7 +17,7 @@ sources:
 # Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide instructs district leaders to "ensure all data on student engagement and performance is disaggregated by student subgroup, and regularly evaluate and adjust plans to ensure students are equitably and effectively getting the supports they need to succeed." This includes using disaggregated data to verify that supports are advancing outcomes specifically for English learners, whose access to language development support was limited during the pandemic.
@@ -35,6 +35,10 @@ The guide instructs district leaders to "ensure all data on student engagement a
 
 ### Target Learning Goals
 - Equitable and effective delivery of academic and language supports
+
+## Claims
+
+- [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](../claims/el-subgroup-indicator-distributions.md) [+W]
 
 ## Related Strategies
 

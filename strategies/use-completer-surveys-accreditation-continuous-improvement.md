@@ -17,7 +17,7 @@ sources:
 # Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that California policymakers use its completer survey system both to enforce accreditation standards and to support program improvement. It suggests that "institution-level survey results can be used to flag programs for further review or support," and that the CTC and partner organizations "can help support TPPs to use these data—and other metrics of program effectiveness—to guide programmatic decision-making and continuous improvement." It also recommends expanding subsidized pathways such as residencies and scholarships, especially for education specialists and candidates of color.
@@ -38,6 +38,10 @@ The report recommends that California policymakers use its completer survey syst
 ### Target Learning Goals
 - strengthening teacher preparedness across the teaching performance expectations
 - equitable access to high-quality clinical preparation
+
+## Claims
+
+- [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](../claims/unequal-access-clinical-pathways-race-specialists.md) [+W]
 
 ## Related Strategies
 

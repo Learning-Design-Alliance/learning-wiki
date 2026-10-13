@@ -12,7 +12,7 @@ generated:
 # Balanced Assessment System
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 A balanced assessment system deliberately coordinates three assessment types — formative (day-to-day evidence gathered during instruction), interim (periodic checks used to adjust instruction across weeks or units), and summative (end-of-unit or end-of-course evaluations of achievement). The design goal is coherence: each layer answers a different decision question, and the system as a whole feeds instructional decisions rather than merely documenting outcomes. Most of the system's instructional value comes from the formative layer [Assessment for learning improves achievement when evidence is actually used to adjust teaching.](../principles/assessment-for-learning.md) [+S].
@@ -56,6 +56,10 @@ A balanced system works when assessment is treated as a decision-support tool, n
 4. Deliver feedback at the task and process level, with specific next steps [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 5. Use summative assessment to evaluate achievement and to audit whether the formative and interim layers predicted it well
 6. Involve learners in tracking their own progress against criteria, gradually transferring responsibility for evaluation [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+
+## Claims
+
+- [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](../claims/explore-17-tipping-point-act-20.md) [~W]
 
 ## Related Strategies
 

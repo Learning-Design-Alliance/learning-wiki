@@ -17,7 +17,7 @@ sources:
 # Provide teachers with support to meet students' varied needs after weather-related disruptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that schools and systems support teachers following severe weather disruptions, because its findings indicate "teachers need support to meet students' varied needs following a weather-related disruptions". The strategy is directed at district and school leaders preparing for weather-related events, drawing on lessons the brief draws from Hurricane Katrina and newer events.
@@ -35,6 +35,10 @@ The brief recommends that schools and systems support teachers following severe 
 
 ### Target Learning Goals
 - Continuity of learning across weather-related school disruptions
+
+## Claims
+
+- [Teachers need support to meet students' varied needs following weather-related disruptions](../claims/teachers-need-support-after-weather-disruptions.md) [+W]
 
 ## Related Strategies
 

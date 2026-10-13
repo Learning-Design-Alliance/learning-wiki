@@ -12,7 +12,7 @@ generated:
 # Socratic Questioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 14 studies (7 quant-synthesis, 5 causal, 1 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 6 claims (3 for, 3 mixed) · 15 studies (7 quant-synthesis, 5 causal, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 Socratic questioning teaches through inquiry: the instructor poses a structured sequence of open-ended, probing questions that push learners to state their assumptions, examine evidence, consider alternatives, and follow the implications of their own reasoning. Rather than correcting errors directly, the questioner exposes contradictions and gaps so learners discover and repair them themselves. The strategy is carried out through disciplined follow-up — each learner answer becomes the basis for the next question — rather than through a fixed script.
@@ -57,6 +57,10 @@ Socratic questioning works because generating an answer forces deeper processing
 4. Introduce counterexamples or alternative perspectives to create productive tension [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M].
 5. Ask learners to articulate revised conclusions and the reasoning behind the change ([Articulation](../elements/articulation.md)).
 6. Close by having students summarize what changed in their thinking — a brief [3-2-1 Reflection](../strategies/3-2-1_reflection.md) works well in written formats.
+
+## Claims
+
+- [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](../claims/meta-procedural-requests-socratic-ai-tutor.md) [~W]
 
 ## Related Strategies
 

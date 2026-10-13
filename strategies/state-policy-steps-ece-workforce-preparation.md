@@ -17,7 +17,7 @@ sources:
 # Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends states: build higher education capacity for a diverse workforce; support high-quality clinical practice such as "apprenticeships, lab schools, and paid practicum experiences"; develop clear 2-year to 4-year transfer pathways; fund specialized advising and academic supports; offer financial assistance for permits, degrees, and credentials; and set clear, high expectations through an early childhood-specific teaching credential like New Jersey's P-3. It stresses that "compensation increases must accompany increases in qualification requirements or taxpayers will be filling a leaky bucket."
@@ -35,6 +35,10 @@ The report recommends states: build higher education capacity for a diverse work
 
 ### Target Learning Goals
 - Attainment of early childhood credentials and degrees and effective, developmentally grounded teaching practice
+
+## Claims
+
+- [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](../claims/california-ece-workforce-low-compensation-turnover.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Use findings on rapid guessing stability and its psychological correlates to detect rapid guessing and intervene to reduce its effect on observed achievement test scores
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article states that its findings on the state-like nature of rapid guessing and its association with self-efficacy and self-management carry practical implications: "These findings have implications for detecting rapid guessing and intervening to reduce its effect on observed achievement test scores." The strategy is to apply longitudinal evidence about disengagement to both detection of rapid guessing and intervention efforts. The article does not print a specific intervention procedure in the available text.
@@ -35,6 +35,11 @@ The article states that its findings on the state-like nature of rapid guessing 
 
 ### Target Learning Goals
 - Accurate measurement of achievement by reducing the effect of test disengagement on observed scores
+
+## Claims
+
+- [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](../claims/rapid-guessing-state-summative-grade8-subject-rates.md) [~W]
+- [Academic and test disengagement are connected through a common association with poor self-management](../claims/self-management-common-link-disengagement.md) [+W]
 
 ## Related Strategies
 

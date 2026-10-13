@@ -12,7 +12,7 @@ generated:
 # Improve Classroom Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Improving classroom air quality means ensuring adequate ventilation, controlling indoor pollutants (CO₂, particulates, volatile organic compounds), and maintaining thermal comfort so that students' physical environment supports rather than undermines cognition and attendance. It is carried out through upgraded ventilation systems, air filtration, low-emission building materials, and continuous monitoring of CO₂ and particulate levels.
@@ -54,6 +54,10 @@ Elevated CO₂ and poor ventilation measurably reduce attention, decision-making
 3. Filter recirculated air — deploy HEPA purifiers sized to room volume to reduce particulates and pathogen load, recognizing they do not address CO₂.
 4. Eliminate pollutant sources — switch to low-VOC cleaning products, paints, and furnishings; enforce no-idling policies near air intakes.
 5. Maintain and re-check — establish filter-replacement schedules and periodic re-monitoring so gains persist rather than decaying after the initial intervention.
+
+## Claims
+
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](../claims/poor-iaq-harms-student-health-and-learning.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment lever; both address conditions that operate below the level of instruction

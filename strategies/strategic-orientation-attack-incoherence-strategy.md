@@ -17,7 +17,7 @@ sources:
 # Use the School Improvement Plan and a strategic orientation to attack program incoherence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Principals use the School Improvement Plan mandated under the 1988 reform to unite parents, community members, and teachers around a coherent plan with annual goals, strategies in five areas, a monitoring process, and benchmarks. A strategic orientation helps a school resist incoherence: "In improving schools, teachers are more likely to say that, once a program has begun, there is follow-up to make sure it is working, and that you can see real continuity from one program to another." The article contrasts these with "Christmas tree schools," where many showcase programs were uncoordinated, philosophically inconsistent, and hung on unattended basic operations.
@@ -38,6 +38,10 @@ Principals use the School Improvement Plan mandated under the 1988 reform to uni
 
 ### Affordances
 - [Support And Pressure Principal Leadership Framework](../theories/support-and-pressure-principal-leadership-framework.md)
+
+## Claims
+
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](../claims/bottom-quartile-schools-sip-not-implemented.md) [~W]
 
 ## Related Strategies
 

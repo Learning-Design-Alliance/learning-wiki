@@ -17,7 +17,7 @@ sources:
 # Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's practical implications recommend designing intervention programs focused on academic self-efficacy for students with motor disabilities, because higher self-efficacy was associated with greater AI use. It states that "Interventions based on Bandura's theory, such as vicarious learning, progressive mastery experiences, and positive feedback, may be relevant to differences in academic confidence and patterns of AI use." Programs should develop long-term capabilities while considering possible technological dependency from excessive AI use.
@@ -35,6 +35,10 @@ The article's practical implications recommend designing intervention programs f
 
 ### Target Learning Goals
 - academic self-efficacy, strategic and responsible AI use, academic autonomy and participation
+
+## Claims
+
+- [Some students described confidence in programming that depended on AI being available](../claims/ai-dependent-confidence-expectancy.md) [~W]
 
 ## Related Strategies
 - 

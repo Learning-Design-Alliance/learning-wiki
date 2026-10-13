@@ -17,7 +17,7 @@ sources:
 # Evaluate in-school transmission by comparing school incidence trends for students and staff with trends in the surrounding local community
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's evaluation strategy benchmarks a district's COVID-19 trends against its community rather than against other districts. Mathematica examined "whether COVID-19 incidence trends for students and staff in Pennsylvania school districts using hybrid instruction paralleled or exceeded trends in the local community." This community-referenced comparison serves as the yardstick for judging whether in-school transmission is being mitigated.
@@ -35,6 +35,10 @@ The report's evaluation strategy benchmarks a district's COVID-19 trends against
 
 ### Target Learning Goals
 - Monitoring whether school operational approaches mitigate in-school infectious disease transmission
+
+## Claims
+
+- [The study examined seven Pennsylvania school districts to test whether hybrid-instruction COVID-19 trends paralleled or exceeded local community trends](../claims/seven-districts-hybrid-trend-comparison-study.md) [~W]
 
 ## Related Strategies
 - 

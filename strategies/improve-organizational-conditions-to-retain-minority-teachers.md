@@ -17,7 +17,7 @@ sources:
 # Address minority teacher retention by improving school organizational conditions, especially teacher classroom autonomy and faculty decision-making influence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy targets the exit end of the minority teacher pipeline rather than recruitment. The report's data show turnover is driven by working conditions: schools with more "individual teacher classroom autonomy" and higher "schoolwide faculty decision-making influence" had far lower turnover, and these factors mattered more than salary, professional development, or classroom resources. Because less positive organizational conditions accounted for the elevated minority turnover, improving those conditions in the hard-to-staff schools where minority teachers work is the report's implied lever for retention.
@@ -35,6 +35,10 @@ This strategy targets the exit end of the minority teacher pipeline rather than 
 
 ### Target Learning Goals
 - Retaining minority teachers in high-poverty, high-minority, and urban schools to reduce minority teacher shortages and maintain a diverse teaching force
+
+## Claims
+
+- [Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant](../claims/organizational-conditions-account-for-minority-turnover-gap.md) [+W]
 
 ## Related Strategies
 - 

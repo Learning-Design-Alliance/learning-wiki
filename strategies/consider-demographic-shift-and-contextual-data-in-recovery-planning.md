@@ -17,7 +17,7 @@ sources:
 # Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends that decisions about supporting students' academic growth and recovery after COVID-19 school shutdowns should not rely on fall 2020 test results alone. Because "Systematic demographic differences in available assessment data" mean the most vulnerable students may be underrepresented among those tested, leaders should "carefully consider the demographic shift in the students tested as well as other contextual data" when interpreting results and planning support.
@@ -35,6 +35,11 @@ The brief recommends that decisions about supporting students' academic growth a
 
 ### Target Learning Goals
 - Academic recovery of reading and math achievement and growth after pandemic-related school shutdowns
+
+## Claims
+
+- [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](../claims/missing-fall-2020-testers-understate-impacts.md) [+W]
+- [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](../claims/covid-impact-vulnerable-students-may-be-underestimated.md) [+W]
 
 ## Related Strategies
 

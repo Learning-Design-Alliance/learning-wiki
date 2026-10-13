@@ -17,7 +17,7 @@ sources:
 # Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends treating infrastructure investment as inseparable from technology adoption: "upgrading network capacity, ensuring device access, addressing data privacy, and building in accessibility from the start rather than as an afterthought." A practical starting point is piloting initiatives with a dedicated budget for infrastructure and support, then using that data to justify broader investment. Support should extend beyond technical help to pedagogical guidance, multilingual resources, and accommodations for students with disabilities.
@@ -35,6 +35,10 @@ The report recommends treating infrastructure investment as inseparable from tec
 
 ### Target Learning Goals
 - Equitable access to AI, OER, and digital learning technologies
+
+## Claims
+
+- [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](../claims/equity-commitments-constrained-infrastructure-capacity.md) [+W]
 
 ## Related Strategies
 

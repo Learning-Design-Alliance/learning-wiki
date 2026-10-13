@@ -12,7 +12,7 @@ generated:
 # Co-constructing Knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (4 quant-synthesis), `q3`–`q4` · 4 of 4 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (4 quant-synthesis, 1 qualitative), `q2`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Co-constructing knowledge positions learners as active partners who build understanding alongside the teacher through dialogue, shared inquiry, and collaborative meaning-making, rather than receiving fully formed content. The teacher's role shifts from authority-as-transmitter to facilitator who elicits, challenges, and connects student ideas. The approach draws on Vygotsky's account of learning as a social process in which understanding emerges through interaction within the zone of proximal development.
@@ -58,6 +58,10 @@ Co-construction leverages the social nature of cognition: articulating ideas to 
 4. Support groups as they build shared artifacts or explanations, intervening with [Coaching](../elements/coaching.md) when groups stall or err.
 5. Orchestrate whole-class sharing to consolidate, compare, and refine group ideas.
 6. Reflect with learners on what the group now understands and how it was built.
+
+## Claims
+
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](../claims/teacher-role-shift-facilitator-ethical-supervisor.md) [+W]
 
 ## Related Strategies
 - [Peer Instruction](../strategies/peer-instruction.md) — a structured protocol that operationalizes co-construction at scale in large classes

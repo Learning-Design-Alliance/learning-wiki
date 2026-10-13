@@ -17,7 +17,7 @@ sources:
 # Online college search tools should prominently display both four-year and six-year completion rates, disaggregated by race/ethnicity, gender, and Pell eligibility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that college data tools show both completion timeframes because most tools emphasize six-year rates and omit the on-time completion information four-year rates provide. It states that "Online college search tools should prominently display both four-year and six-year completion rates" and that disaggregated rates let students judge how colleges serve students like them. Table 1 shows that as of October 2023, several widely used tools report only one timeframe.
@@ -35,6 +35,10 @@ The report recommends that college data tools show both completion timeframes be
 
 ### Target Learning Goals
 - Informed college enrollment decisions and timely bachelor's degree completion
+
+## Claims
+
+- [Four-year and six-year completion rates varied widely by college, with gaps between colleges of up to 27 percentage points in four-year rates hidden by similar six-year rates](../claims/college-level-four-six-year-rate-divergence.md) [+W]
 
 ## Related Strategies
 

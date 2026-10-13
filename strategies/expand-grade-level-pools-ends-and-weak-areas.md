@@ -17,7 +17,7 @@ sources:
 # Develop grade-level item pools by adding items at the low and high ends of each grade's ability spectrum and to weak instructional areas, then validate new tests
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends specific item development actions to overcome the limitations of grade-restricted pools, which "had less information and fewer items per instructional area". The authors advise "Adding more items to the low and high ends of each grade's ability spectrum, especially to those flagged in this study" and adding items to weak instructional areas where content balancing is part of the test design. Once new grade-level items are developed and field tested, new tests should go through a standardized test validation procedure.
@@ -35,6 +35,10 @@ The article recommends specific item development actions to overcome the limitat
 
 ### Target Learning Goals
 - Accurate measurement of student achievement and growth on the RIT scale across grade-level content areas
+
+## Claims
+
+- [Pilot test events represented fewer grade levels overall, with more grade levels represented for low- and high-performing students, while the comparison group showed the opposite pattern](../claims/pilot-grade-representation-by-ability.md) [~W]
 
 ## Related Strategies
 - 

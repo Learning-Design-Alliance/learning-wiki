@@ -17,7 +17,7 @@ sources:
 # Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy operationalizes Agentivism for research design. The article argues that "studies of learning with AI should stop treating \"AI use\" as a single treatment condition", because whether AI gives answers, hints, critiques, or multi-step reasoning alters how agency is distributed and how much verification is required. Research should measure not only immediate task outcomes but also the processes through which learners delegate, monitor, revise, and later perform under reduced support, with delayed explanation, adaptation to novel tasks, and independent performance as central outcomes.
@@ -38,6 +38,10 @@ This strategy operationalizes Agentivism for research design. The article argues
 
 ### Affordances
 - Agentivism Learning Theory
+
+## Claims
+
+- [The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs](../claims/llm-fallacy-empirical-validation-agenda.md) [~W]
 
 ## Related Strategies
 

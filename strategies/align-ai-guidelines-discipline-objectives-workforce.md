@@ -17,7 +17,7 @@ sources:
 # Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that AI guidelines in higher education be aligned with broader institutional policies while also addressing discipline-specific learning objectives and evolving workforce demands. It argues policies supporting student competency development in emerging technologies must move beyond safety and adoption questions to address how AI is integrated into teaching and learning, and that faculty and students should be brought into policy design with continuous iteration.
@@ -37,6 +37,11 @@ The article recommends that AI guidelines in higher education be aligned with br
 ### Target Learning Goals
 - AI literacy as a competency for entry-level professionals
 - integration of AI into discipline-specific teaching and assessment
+
+## Claims
+
+- [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](../claims/few-business-schools-own-ai-policies.md) [+W]
+- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](../claims/uneven-unit-ai-adoption-shaped-by-industry-alignment.md) [+W]
 
 ## Related Strategies
 

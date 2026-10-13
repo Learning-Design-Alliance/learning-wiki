@@ -12,7 +12,7 @@ generated:
 # Instructor as Facilitator
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 The instructor shifts from being the primary source of content and authority to a role of guiding, questioning, and structuring learner activity. Concretely, this means eliciting student ideas before supplying answers, letting students select materials and topics, and handing discussion leadership to learners. The goal is not abdication — the facilitator still designs tasks, monitors understanding, and intervenes when needed — but a deliberate redistribution of control that supports autonomy and engagement.
@@ -58,6 +58,10 @@ Facilitation works because it supports learners' basic psychological needs for a
 4. Coach rather than tell: probe reasoning, prompt self-explanation, and offer hints at the process level ([Coaching](../elements/coaching.md)).
 5. Hand over leadership — students present their own readings or solutions, with peers responding ([Collaboration](../elements/collaboration.md)).
 6. Close each cycle with synthesis and corrective feedback, ensuring misconceptions surfaced during student-led work are addressed.
+
+## Claims
+
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](../claims/teacher-role-shift-facilitator-ethical-supervisor.md) [+W]
 
 ## Related Strategies
 

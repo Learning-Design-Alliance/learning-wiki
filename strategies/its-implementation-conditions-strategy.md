@@ -17,7 +17,7 @@ sources:
 # Address infrastructure, accessibility, teacher preparedness, curriculum alignment, data governance, and institutional support when scaling AI-supported mathematics learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review identifies implementation conditions shaping ITS effectiveness: "infrastructure, accessibility, teacher preparedness, curriculum alignment, data governance, and institutional support". Scaling requires attention to affordability, interoperability, technical support, and responsible data governance, because technical scalability does not equal equitable educational access. A platform may serve many users while remaining inaccessible to learners without devices, connectivity, electricity, digital literacy, or teacher assistance.
@@ -38,6 +38,11 @@ The review identifies implementation conditions shaping ITS effectiveness: "infr
 
 ### Affordances
 - [Ai Powered Math Learning Conceptual Model](../theories/connectivism.md)
+
+## Claims
+
+- [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](../claims/infrastructure-access-constraints-ai-efl.md) [+W]
+- [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](../claims/infrastructure-access-main-barrier-digitally-supported-teacher-education.md) [~W]
 
 ## Related Strategies
 - 

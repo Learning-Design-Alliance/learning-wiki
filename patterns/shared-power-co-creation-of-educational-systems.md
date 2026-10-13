@@ -17,7 +17,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (7 for, 1 against) · 7 studies (6 qualitative, 1 design), `q1`–`q2` · 0 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 against) · 8 studies (6 qualitative, 1 review, 1 design), `q1`–`q2` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 The brief characterizes rightful presence by "a fundamental shift in power" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of educational systems, policies, and practices. It promotes co-creation of school experiences benefiting students, educators, staff, families, and communities, requiring collective action across the system.
@@ -46,6 +46,7 @@ The brief characterizes rightful presence by "a fundamental shift in power" in w
 - [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](../claims/leaders-filter-community-voices-security-retained.md) [-W]
 - [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](../claims/collaboration-buy-in-student-leadership.md) [+W]
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](../claims/instructors-part-of-the-solution-frameshift.md) [+W]
+- [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](../claims/states-co-design-voice-counts.md) [+W]
 
 ## Related Patterns
 - 

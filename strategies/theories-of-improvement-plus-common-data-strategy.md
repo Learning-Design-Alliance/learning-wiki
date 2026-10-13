@@ -17,7 +17,7 @@ sources:
 # Ground annual improvement cycles in explicit theories of improvement and shared common achievement data rather than in vision-statement refinement alone
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that collaborative improvement communities anchor annual inquiry cycles in explicit theories of improvement and shared evidence. In fall 2016, Ed Partners asked each district team to sketch a "theory of continuous improvement" for K-8 mathematics, set three desired outcomes to test that theory, and identify the meaningful evidence it would collect throughout the year. Combined with district-specific CAASPP data reports, this shift moved teams from repeatedly revising vision statements toward testing how proposed changes would work.
@@ -37,6 +37,10 @@ The report recommends that collaborative improvement communities anchor annual i
 ### Target Learning Goals
 - Using evidence to test and refine district improvement theories
 - Linking assessment results to specific instructional practices
+
+## Claims
+
+- [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](../claims/caaspp-data-accelerated-improvement-monitoring.md) [+W]
 
 ## Related Strategies
 - 

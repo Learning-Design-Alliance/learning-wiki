@@ -17,7 +17,7 @@ sources:
 # Five-step state roadmap for equitable access to experienced teachers: examine data, diagnose level, set goals, enact policy, monitor accountability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 9 claims (9 for) · 7 studies (7 associational), `q2`–`q3` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 The report's roadmap directs state and district leaders to move "beyond highlighting these inequities to proactively addressing them" through five steps: establish data systems and examine disparities; determine whether disparities are within- or between-district and engage teachers on root causes; set clear goals and interim measures; implement data-based policy solutions; and commit to ongoing data transparency, monitoring, and accountability. Policy options include strengthening school leaders, residency and Grow Your Own programs, differential pay, earlier hiring, and mentoring for novice teachers.
@@ -37,6 +37,18 @@ The report's roadmap directs state and district leaders to move "beyond highligh
 ### Target Learning Goals
 - equitable access to experienced and certified teachers
 - teacher retention and workforce stability
+
+## Claims
+
+- [Whether disparities in Latino students' access to novice teachers arise between districts or within districts varies widely by state](../claims/between-versus-within-district-novice-teacher-disparities-vary-by-state.md) [+W]
+- [In eight states, more than 25% of Latino students attend schools with high percentages of novice teachers](../claims/eight-states-quarter-latino-students-high-novice-schools.md) [+W]
+- [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](../claims/nc-unequal-access-non-novice-teachers.md) [+W]
+- [Black students in Michigan were more likely than non-Black students to attend schools with high percentages of novice teachers (18% vs 8%)](../claims/michigan-black-students-novice-teacher-disparity.md) [+W]
+- [Illinois Black and Latino students have less access to non-novice and certified teachers than their peers](../claims/illinois-black-latino-students-novice-uncertified-teacher-access.md) [+W]
+- [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](../claims/novice-teacher-disparities-between-within-districts-vary.md) [+W]
+- [Latino students have more novice teachers than their peers in more than half of U.S. states](../claims/latino-students-more-novice-teachers-majority-of-states.md) [+W]
+- [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](../claims/state-variation-teacher-access-inequity.md) [+W]
+- [A small subset of study districts shows meaningful inequity in access to effective teachers in math](../claims/meaningful-math-inequity-subset-districts.md) [+W]
 
 ## Related Strategies
 

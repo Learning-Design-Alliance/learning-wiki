@@ -22,7 +22,7 @@ sources:
 # Discussing Race
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 13 studies (4 causal, 3 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 14 studies (4 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable. In educational settings, these discussions can support critical literacy, social awareness, historical understanding, and more honest collaborative norms, but only when they are carefully facilitated. The goal is not to force disclosure or consensus. It is to make race discussable with enough structure, safety, and accountability that learners can engage seriously without being reduced to representatives of a group.
@@ -71,6 +71,7 @@ Discussing race productively requires more than openness or good intentions. Lea
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — productive race discussion depends on facilitation that responds to actual tension, confusion, and risk in the room
 - [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](../claims/race-prompts-cultural-stereotype-feedback.md) [~W]
 - [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](../claims/identity-core-of-sead-for-students-of-color.md) [+W]
+- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](../claims/colorblindness-blocks-distribution-discussion.md) [+W]
 
 ## Related Principles
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need reflective preparation before facilitating race-conscious dialogue well.

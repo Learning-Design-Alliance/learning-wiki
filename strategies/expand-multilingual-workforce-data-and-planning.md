@@ -17,7 +17,7 @@ sources:
 # Expand multilingual workforce data and cross-system strategic planning to grow the supply of bilingual instructors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends expanding available program and workforce data by collecting more comprehensive program data and making existing workforce data publicly accessible, convening state and regional cross-system workforce planning initiatives, and making strategic state investments in programs expanding the supply of staff prepared for multilingual instructional programs. It states that bringing multilingual instruction to scale "will not be possible without a strategic and significant expansion of multilingualism in the workforce."
@@ -35,6 +35,11 @@ The brief recommends expanding available program and workforce data by collectin
 
 ### Target Learning Goals
 - Access to instruction supporting linguistic and academic proficiency in multiple languages
+
+## Claims
+
+- [California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning](../claims/calsaas-excludes-turnover-retention.md) [+W]
+- [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](../claims/bclad-supply-low-and-misaligned-with-demand.md) [+W]
 
 ## Related Strategies
 

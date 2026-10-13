@@ -17,7 +17,7 @@ sources:
 # AI literacy as the slowest but most durable layer of defense, moving users across typology profiles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size
 
 ## Description
 The article closes by positioning AI literacy differently from the other interventions: it "operates differently by gradually increasing users’ capacity to verify and potentially moving them across profiles." Literacy gives users a working model of what a language model is and why it can fabricate, which turns vague unease into targeted checking. Within the Swiss cheese frame it is the layer that closes gaps slowly but durably, complementing affordances and engagement mechanisms.
@@ -39,6 +39,10 @@ The article closes by positioning AI literacy differently from the other interve
 ### Affordances
 - Swiss Cheese Layered Trust Defense
 - Ability Motivation Verify Typology
+
+## Claims
+
+- [Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance](../claims/profile-differences-usage-behaviors.md) [+M]
 
 ## Related Strategies
 

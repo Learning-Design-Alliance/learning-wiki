@@ -17,7 +17,7 @@ sources:
 # Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that universities design interventions addressing technological competencies and psychological resources together rather than AI skills alone. Its findings "offer practical guidance for designing educational interventions that synergistically integrate AI training, psychological capital cultivation, and professional identity reinforcement in the era of AI-enhanced education", with professional commitment treated as a malleable target that amplifies the psychological-capital-to-engagement pathway.
@@ -40,6 +40,10 @@ The article recommends that universities design interventions addressing technol
 
 ### Affordances
 - Resource Gain Spiral Moderated Mediation Model
+
+## Claims
+
+- [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](../claims/ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) [~W]
 
 ## Related Strategies
 

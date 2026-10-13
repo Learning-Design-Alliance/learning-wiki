@@ -17,7 +17,7 @@ sources:
 # Assess district capacity (students per teacher and class periods per day) and learn from early implementer districts before scaling credit-requirement changes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report suggests state leaders assess districts' capacity to implement the CCR graduation requirements and explore ways to strengthen it, since early implementers had "fewer students per teacher and more class periods per day, on average," implying more capacity to offer credit-earning opportunities. It recommends follow-up investigations of obstacles, including physical and human capital resources, and asking early implementer districts how they implemented early.
@@ -35,6 +35,10 @@ The report suggests state leaders assess districts' capacity to implement the CC
 
 ### Target Learning Goals
 - Access to required courses across content areas needed for graduation
+
+## Claims
+
+- [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](../claims/utah-rural-smaller-classes-fewer-advanced-courses.md) [+W]
 
 ## Related Strategies
 

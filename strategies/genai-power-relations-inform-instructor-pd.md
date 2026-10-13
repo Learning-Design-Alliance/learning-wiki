@@ -17,7 +17,7 @@ sources:
 # Use findings on instructor power relations to inform professional development for responding to Generative AI
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article positions its findings as input for instructor professional development around Generative AI. The abstract states that "Findings of this study can inform instructors' professional development and strategies for responding to the trend of Generative AI in teaching practices." Professional development designed from these findings would address the four power centers and support both restrictive and integrative instructional responses.
@@ -36,6 +36,10 @@ The article positions its findings as input for instructor professional developm
 
 ### Target Learning Goals
 - Responding to Generative AI in teaching practices
+
+## Claims
+
+- [College instructors perceive Generative AI through power relations with four distinct centers](../claims/instructors-perceive-genai-through-power-relations.md) [+W]
 
 ## Related Strategies
 

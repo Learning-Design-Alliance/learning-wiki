@@ -17,7 +17,7 @@ sources:
 # Use video streaming technology instead of in-person observers to assess pre-K classroom quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy replaces in-person classroom observers with video streaming technology to assess classroom quality in pre-K settings. The article reports that virtual observations "reduce travel time and offer more flexibility for scheduling and hiring the staff needed to conduct the observation." It was piloted with the Pre-K CLASS in Oregon centers and family child care homes during the 2021-2022 program year, and the authors share lessons learned for researchers and state agency staff considering whether and how to conduct virtual pre-K classroom observations.
@@ -35,6 +35,11 @@ This strategy replaces in-person classroom observers with video streaming techno
 
 ### Target Learning Goals
 - Assessing classroom quality in pre-K settings for research, monitoring, and quality improvement
+
+## Claims
+
+- [Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study](../claims/virtual-pre-k-class-observations-practical-centers-fccs.md) [+W]
+- [Virtual pre-K observations posed substantial logistical challenges despite being practical](../claims/virtual-pre-k-observations-logistical-challenges.md) [~W]
 
 ## Related Strategies
 - 

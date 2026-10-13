@@ -17,7 +17,7 @@ sources:
 # Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends treating model output as a trigger for timely academic guidance rather than as an accusation. "A lower threshold may be suitable for low -stakes outreach, such as reminders, academic support, or guidance on acceptable AI use. It would not be suitable for disciplinary decisions." Instructors should review each flag in context, scores should stay separate from grading and misconduct records, and students need a means to question how their data were interpreted.
@@ -37,6 +37,10 @@ The article recommends treating model output as a trigger for timely academic gu
 ### Target Learning Goals
 - academic integrity
 - timely academic guidance and support before high-stakes exams
+
+## Claims
+
+- [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](../claims/ai-detector-skepticism-convergence.md) [+W]
 
 ## Related Strategies
 

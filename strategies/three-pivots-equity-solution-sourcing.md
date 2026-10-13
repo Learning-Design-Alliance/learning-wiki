@@ -17,7 +17,7 @@ sources:
 # Three pivots for equity-centered solution sourcing: redefine readiness criteria, reconceptualize expertise, and reimagine procurement pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report concludes with three pivots education stakeholders can make to foster district-provider alignment in equity-centered solution sourcing. First, "Redefine Solution Development Readiness Criteria" so evaluations include equitable criteria focused on sourcing diverse tools supporting HSE students. Second, "Reconceptualize expertise" to value cultural community knowledge and lived experience historically excluded from district decision-making and education R&D. Third, "Reimagine procurement pathways" to allow consideration of lesser-known providers, "such as BIPOC and equity-centered education solution providers." These pivots operationalize the report's readiness criteria rooted in culturally responsive pedagogy and inclusive R&D principles.
@@ -36,6 +36,10 @@ The report concludes with three pivots education stakeholders can make to foster
 
 ### Target Learning Goals
 - Selecting and implementing equity-centered education solutions that support HSE students
+
+## Claims
+
+- [Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms](../claims/small-vs-large-districts-providers-procurement-differences.md) [~W]
 
 ## Related Strategies
 

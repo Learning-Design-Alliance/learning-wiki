@@ -17,7 +17,7 @@ sources:
 # Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends three concrete design moves for open hardware learning platforms. First, hardware feedback can be explicit: designers can provide success cues, such as an audible click, to help users distinguish a secure fit from a potential break. Second, labelling actual parts would reduce first-time builders' mental load during assembly. Third, remaining friction should be addressed through hybrid documentation that combines video, still images and step-by-step diagrams, with static anchors to avoid the constant backtracking of a video-only format.
@@ -37,6 +37,10 @@ The article recommends three concrete design moves for open hardware learning pl
 ### Target Learning Goals
 - successful independent assembly of open-source robots
 - reduced mental load during wiring and part identification
+
+## Claims
+
+- [First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components](../claims/first-time-builder-v41-validation.md) [~W]
 
 ## Related Strategies
 - 

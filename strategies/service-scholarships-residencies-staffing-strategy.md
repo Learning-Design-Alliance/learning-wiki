@@ -17,7 +17,7 @@ sources:
 # Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends service scholarships and loan forgiveness that "cover all or a large percentage of tuition; target high-need fields and schools; recruit academically strong and committed teachers; and commit recipients to teach with reasonable financial consequences". It also recommends teacher residencies in which candidates "work as paid apprentices to skilled expert teachers", earning income while completing a credential in return for a multi-year teaching commitment. These strategies offset entry costs and tie financial support to retention in shortage locations.
@@ -35,6 +35,12 @@ The report recommends service scholarships and loan forgiveness that "cover all 
 
 ### Target Learning Goals
 - recruiting and retaining well-prepared teachers in hard-to-staff subjects and schools
+
+## Claims
+
+- [GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation](../claims/gstg-recipients-high-need-schools-subjects.md) [+W]
+- [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](../claims/shortage-subjects-special-education-math-science.md) [+W]
+- [In 2015–16, 48 states plus DC reported special education teacher shortages, 42 reported mathematics shortages, and 40 reported science shortages](../claims/state-subject-area-shortage-counts-2015-16.md) [+W]
 
 ## Related Strategies
 

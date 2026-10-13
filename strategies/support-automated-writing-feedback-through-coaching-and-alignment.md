@@ -17,7 +17,7 @@ sources:
 # Provide monthly coaching and planning time, and integrate automated writing feedback tools with curriculum, to support classroom use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief provides strategies for school and district leaders to support using MI Write, drawing on its implementation study in grades 7 and 8 English language arts classrooms. It recommends supporting teachers through "Monthly coaching sessions" and planning time, and addressing the "lack of both curriculum integration and alignment." Curriculum developers might also generate ideas for integrating these tools into their curricula.
@@ -35,6 +35,10 @@ The brief provides strategies for school and district leaders to support using M
 
 ### Target Learning Goals
 - Writing instruction and use of automated writing feedback
+
+## Claims
+
+- [A key barrier to using MI Write is a lack of both curriculum integration and alignment](../claims/curriculum-integration-alignment-barrier-mi-write.md) [+W]
 
 ## Related Strategies
 

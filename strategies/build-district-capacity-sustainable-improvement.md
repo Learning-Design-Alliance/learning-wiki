@@ -17,7 +17,7 @@ sources:
 # Build district capacity so improvement gains are sustained without direct external supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because ESSA gives LEAs a central role in school improvement, the article reports that SEAs work to develop district capacity to lead and sustain change. Approaches include working directly with districts to provide tools and resources for identifying and implementing high-leverage interventions (Alaska, Kentucky), helping districts identify external vendors to build specific skills (Louisiana), and helping districts establish an improvement framework at the outset (South Carolina). The stated aim is that "SEA leaders aim to build local capacity so that improvements are sustained without direct external supports."
@@ -38,6 +38,10 @@ Because ESSA gives LEAs a central role in school improvement, the article report
 
 ### Affordances
 - [Six Sea Strategies School Improvement Essa](../designs/six-sea-strategies-school-improvement-essa.md)
+
+## Claims
+
+- [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](../claims/sea-resource-role-most-emphasized.md) [~W]
 
 ## Related Strategies
 

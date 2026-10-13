@@ -17,7 +17,7 @@ sources:
 # Prepare students for changing career requirements by building readiness for change across the work life
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 theoretical), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy frames career preparation around adapting to shifting job demands rather than static skills. The publication states that 'Today's career landscape differs dramatically from those of the past' and that students 'must be prepared to change too,' so educators should treat readiness for change as part of college and career readiness. The page announces an infographic as the vehicle for communicating this to stakeholders.
@@ -36,6 +36,12 @@ This strategy frames career preparation around adapting to shifting job demands 
 ### Target Learning Goals
 - college and career readiness
 - adaptability to changing job requirements
+
+## Claims
+
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](../claims/changing-job-requirements-students-prepared-for-change.md) [+W]
+- [In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability](../claims/todays-excellence-tomorrows-ignorance.md) [+W]
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](../claims/frequent-job-changes-nonlinear-careers.md) [+W]
 
 ## Related Strategies
 - 

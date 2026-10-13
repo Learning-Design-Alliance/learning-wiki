@@ -12,7 +12,7 @@ generated:
 # Optimize Classroom Temperature
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 associational, 1 review), `q1`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Optimizing classroom temperature means keeping instructional spaces within a moderate thermal range — approximately 68–74°F (20–23°C) — and preventing sustained exposure to heat above that range. It is carried out through HVAC control, ventilation, teacher authority over thermostat settings, and attention to solar gain and outdoor conditions. Thermal comfort is a precondition for attention: as classrooms warm beyond the comfort zone, concentration, working memory, and task persistence degrade measurably.
@@ -60,6 +60,9 @@ Temperature is an environmental load on cognition rather than a pedagogical vari
 ## Claims
 
 - [Students in high-poverty schools face the greatest impact from hot test days](../claims/high-poverty-schools-greatest-heat-impact.md) [+W]
+- [Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable](../claims/heat-effects-more-extreme-high-poverty-schools-cooling.md) [~W]
+- [Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students](../claims/heat-exposure-racial-learning-disparities.md) [+W]
+- [As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days](../claims/schools-hvac-upgrades-heat-closures.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the parallel environmental-load strategy; noise and heat jointly consume attentional resources

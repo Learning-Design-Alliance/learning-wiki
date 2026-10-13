@@ -17,7 +17,7 @@ sources:
 # Design educational applications that raise student self-esteem, help students take control of their lives, and reduce perfectionism
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors' concluding recommendation is that, given the observed relationships between subjective well-being and the three variables, "the applications or empirical studies that make students increase their self-esteem, that enable them to take life controls in hand and that will reduce their perfectionism can be performed in their educational lives". The strategy targets the three predictors the study found to relate to student subjective well-being. It is offered as a direction for future applied work, not as a tested intervention.
@@ -35,6 +35,10 @@ The authors' concluding recommendation is that, given the observed relationships
 
 ### Target Learning Goals
 - student subjective well-being
+
+## Claims
+
+- [Self-esteem is positively correlated with subjective well-being among final-year education faculty students](../claims/self-esteem-positively-correlated-subjective-well-being.md) [+W]
 
 ## Related Strategies
 - 

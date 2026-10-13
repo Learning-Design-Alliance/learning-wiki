@@ -12,7 +12,7 @@ generated:
 # High-Stakes Testing and Accountability Effects
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (2 for, 16 mixed, 5 against, 1 unmarked) · 23 studies (10 associational, 5 review, 4 qualitative, 2 causal, 2 theoretical), `q1`–`q3` · 1 of 23 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (2 for, 23 mixed, 7 against, 1 unmarked) · 29 studies (12 associational, 6 review, 5 qualitative, 3 causal, 3 theoretical), `q1`–`q3` · 1 of 29 report an effect size · 33 claims rest on one study
 
 ## Description
 Standardized testing is "high-stakes" when performance carries real consequences — for students (a graduation test required for a diploma, a licensure exam required for a career), or for schools (under the No Child Left Behind Act, or NCLB, failing to reach targeted proficiency levels can trigger reduced funding or restructuring). Accountability, standardized testing, academic content standards, and teacher quality are the four components of the broader Standards-Based Reform movement in U.S. education, dating to the 1980s.
@@ -79,6 +79,15 @@ Standardized testing is "high-stakes" when performance carries real consequences
 - [Even a small amount of rapid-guessing behavior can impact institutional rankings](../claims/small-rapid-guessing-impacts-institutional-rankings.md) [~W]
 - [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](../claims/parcc-math-standard-less-remediation-than-mcas-proficient.md) [~W]
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](../claims/disengagement-material-individual-summative-scores-minor-aggregations.md) [~W]
+- [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](../claims/chicago-gate-retention-surge.md) [~W]
+- [Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020](../claims/cut-gap-in-half-goal-adoption.md) [~W]
+- [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](../claims/high-stakes-testing-pervasive-efficacy-contested.md) [~W]
+- [Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent](../claims/district-testing-weaknesses-alignment-time.md) [~W]
+- [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](../claims/isat-ratings-alignment-highest-timing-lowest.md) [~W]
+- [Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent](../claims/postsecondary-indicator-weight-averages-16-percent.md) [~W]
+- [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](../claims/policy-reduced-time-social-studies-science.md) [-W]
+- [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](../claims/fafsa-ranking-penalizes-noncollege-pathways.md) [-W]
+- [Middle schools with low-performing students with disabilities are disproportionately identified for Targeted Support and Improvement, accounting for 67% of TSI schools in one state](../claims/middle-schools-disproportionately-identified-tsi-students-with-disabilities.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — high-stakes accountability testing under NCLB is predominantly criterion-referenced

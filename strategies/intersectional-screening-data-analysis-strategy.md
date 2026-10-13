@@ -17,7 +17,7 @@ sources:
 # Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that educators and policymakers analyze screening data at the intersection of multiple background characteristics rather than disaggregating to single categories, because overlapping identities affect outcomes in ways simple disaggregation hides. It also recommends considering student and school characteristics in combination when targeting resources and interventions such as EC programming. As the brief states, educators "may need to examine literacy screening data carefully for differences that are not apparent from simple disaggregation."
@@ -35,6 +35,11 @@ The article recommends that educators and policymakers analyze screening data at
 
 ### Target Learning Goals
 - Early literacy: identifying students at risk of reading difficulty and targeting support effectively
+
+## Claims
+
+- [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](../claims/intersecting-backgrounds-increase-literacy-risk.md) [+W]
+- [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
 
 ## Related Strategies
 

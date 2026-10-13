@@ -17,7 +17,7 @@ sources:
 # Institutions should adopt a balanced AI-integration approach including AI literacy courses and instructional guidelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For policy, the article argues institutions should not simply decide whether to adopt AI but should consider students' preparation, faculty instructional objectives, and available support systems. It recommends that "implementing AI literacy courses and instructional guidelines would assist in providing educators and policymakers with the information needed to ensure that AI is used in a manner that will have a positive impact on student learning."
@@ -39,6 +39,10 @@ For policy, the article argues institutions should not simply decide whether to 
 
 ### Affordances
 - [Moderated Mediation Model Ai Cognitive Load Srl](../theories/cognitive-load-theory.md)
+
+## Claims
+
+- [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](../claims/ai-transformative-capacity-guidelines.md) [+W]
 
 ## Related Strategies
 

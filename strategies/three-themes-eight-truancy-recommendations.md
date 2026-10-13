@@ -17,7 +17,7 @@ sources:
 # Eight recommendations for reducing truancy organized around three themes: school-wide improvement, linking truancy to classroom learning, and special attention to high full-day absentees
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief distills its case studies and analyses into three themes and eight recommendations for high schools. It states that "there are three central themes that underlie effective school approaches": truancy reduction requires school-wide improvement; truancy is an academic problem and solutions must be linked to the classroom and learning; and schools must pay special attention to students with high full-day absences. Recommendations span information systems, personalized instructional environments, early identification, parent partnership, reintegration plans, discipline that minimizes lost class time, elementary-high school communication, and mental health and social service gaps.
@@ -36,6 +36,11 @@ The brief distills its case studies and analyses into three themes and eight rec
 ### Target Learning Goals
 - student engagement and school attendance
 - academic recovery for truant students
+
+## Claims
+
+- [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](../claims/schools-vary-extreme-truancy-worst-ten.md) [+W]
+- [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](../claims/two-truancy-problems-full-day-and-class-cutting.md) [+W]
 
 ## Related Strategies
 - 

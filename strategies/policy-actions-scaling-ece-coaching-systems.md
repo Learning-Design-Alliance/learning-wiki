@@ -17,7 +17,7 @@ sources:
 # Eight policy and practice actions for scaling early childhood coaching systems, from dedicated funding to data collection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends eight actions for state, county, and local policymakers: "Provide dedicated funding for site-based coaching"; provide specialized coaching for site leaders in addition to early educators; "Create coherence between coaching and quality rating and improvement systems"; "Set standards for the expertise and experience of coaches and provide ongoing coach support"; recruit a diverse, linguistically matched regional coaching workforce; develop a state clearinghouse of coaching resources; fund regional professional development systems for coaches; and collect and analyze data to scale what works. Examples include Alabama reserving approximately 8% of state preschool funding for coaching and incorporating paid planning and reflection time into program schedules.
@@ -35,6 +35,10 @@ The report recommends eight actions for state, county, and local policymakers: "
 
 ### Target Learning Goals
 - Educator implementation of evidence-based early learning practices and program quality improvement
+
+## Claims
+
+- [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](../claims/state-summer-data-collection-uses.md) [+W]
 
 ## Related Strategies
 

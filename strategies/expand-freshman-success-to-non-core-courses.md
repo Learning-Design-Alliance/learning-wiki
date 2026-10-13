@@ -17,7 +17,7 @@ sources:
 # Include non-core subject teachers in Freshman Success work and consider expanding the Freshman OnTrack metric to count non-core failures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends extending freshman success strategies, which have focused on core courses, to all subjects. It states that "Non-core courses are as crucial for freshman success and longer-term success as core courses" and that schools "could include teachers in the non-core subject areas in Freshman Success meetings." It also proposes expanding the Freshman OnTrack metric to include non-core failures, noting around 600 students per year were on-track despite at least two semester Fs and graduated at only 56 percent. The strategy targets high school freshman-success teams and aims to reduce grade declines and course failure across the transition.
@@ -36,6 +36,11 @@ The report recommends extending freshman success strategies, which have focused 
 ### Target Learning Goals
 - maintaining or improving course performance and credit accumulation across the transition to high school
 - reducing ninth-grade course failure in all subject areas
+
+## Claims
+
+- [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](../claims/non-core-gpa-declines-exceed-core.md) [+W]
+- [The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating](../claims/first-two-course-failures-30-point-graduation-decrease.md) [+W]
 
 ## Related Strategies
 - 

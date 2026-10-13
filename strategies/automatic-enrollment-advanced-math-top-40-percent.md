@@ -17,7 +17,7 @@ sources:
 # Automatically enroll high-performing sixth graders in advanced math, with parent opt-out, to circumvent educator bias in referral
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Texas SB 2124 requires districts to automatically enroll sixth grade students who scored in the top 40% on fifth-grade STAAR or a comparable local assessment into advanced math, unless a parent opts out, and to build middle school programs leading to eighth-grade Algebra I. The brief states this should "circumvent educator bias by no longer relying exclusively on teachers to refer students for advanced math opportunities." Similar local policies reportedly eliminated racial disparities among high-performing middle schoolers.
@@ -37,6 +37,11 @@ Texas SB 2124 requires districts to automatically enroll sixth grade students wh
 
 ### Target Learning Goals
 - Access to advanced mathematics coursework and pathways to eighth-grade Algebra I
+
+## Claims
+
+- [School offerings and placement practices limit opportunity for 8th-grade algebra access](../claims/school-offerings-and-placement-practices-limit-algebra-opportunity.md) [+W]
+- [Educator bias and mindsets often limit which students get access to advanced STEM coursework](../claims/educator-bias-mindsets-limit-advanced-stem-access.md) [+W]
 
 ## Related Strategies
 

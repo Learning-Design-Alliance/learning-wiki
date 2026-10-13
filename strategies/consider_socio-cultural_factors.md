@@ -12,7 +12,7 @@ generated:
 # Consider Socio-Cultural Factors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (4 review), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 9 studies (6 review, 3 associational), `q2`–`q3` · 0 of 9 report an effect size · 5 claims rest on one study
 
 ## Description
 This strategy treats learners' socio-economic circumstances, home environment, and cultural background as design inputs rather than afterthoughts. It involves auditing assumptions about device and internet access, digital literacy, language, and cultural reference points, then adjusting materials, delivery modes, and support structures so that no group is systematically disadvantaged.
@@ -61,6 +61,14 @@ Equity of access is a precondition for the benefits of any instructional design:
 4. Build in scaffolding for digital skills: brief orientation tasks and just-in-time help rather than assuming fluency; fade this support as competence grows ([Scaffolding](../elements/scaffolding.md)).
 5. Partner with communities: involve families, employers, or community organizations in identifying barriers and validating that adaptations are genuinely useful, not merely well-intentioned.
 6. Monitor participation data by subgroup and iterate: completion, engagement, and feedback disaggregated by background reveal exclusion that design reviews miss.
+
+## Claims
+
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](../claims/covid-stem-tech-access-inequity.md) [+W]
+- [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](../claims/thirty-percent-students-lacked-internet-or-devices-2018.md) [+W]
+- [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](../claims/digital-divide-narrowed-schools-partially-compensating.md) [~W]
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](../claims/homework-gap-scale-2020.md) [+W]
+- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](../claims/remote-covid-tech-access-inequitable-by-race-income.md) [+W]
 
 ## Related Strategies
 

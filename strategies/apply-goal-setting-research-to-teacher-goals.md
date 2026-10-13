@@ -17,7 +17,7 @@ sources:
 # Apply goal-setting research findings to teacher goal setting in ways that benefit both teachers and students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's stated purpose is to translate goal-setting research into practice for teacher goal setting. It says Hegedus "provides an overview on research findings on goal setting and performance and specific recommendations on how to apply these findings to teacher goal setting". The strategy is for school leaders to ground formal teacher performance goals in goal-setting research so the practice benefits teachers and students alike. The available text is an abstract, so the specific recommendations themselves are not printed here.
@@ -36,6 +36,10 @@ The article's stated purpose is to translate goal-setting research into practice
 
 ### Target Learning Goals
 - improving teacher goal-setting practice to support student achievement and learning
+
+## Claims
+
+- [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](../claims/documented-teacher-goals-collaborative-or-principal-set.md) [+W]
 
 ## Related Strategies
 - 

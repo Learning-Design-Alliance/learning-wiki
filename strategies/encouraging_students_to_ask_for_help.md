@@ -12,7 +12,7 @@ generated:
 # Encouraging Students to Ask for Help
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (4 review, 2 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (5 review, 2 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy builds a classroom environment in which seeking help is treated as a normal, strategic part of learning rather than a sign of inadequacy. It combines cultural moves (normalizing struggle, modeling help-seeking) with explicit instruction in *how* to seek help well — articulating what is confusing, what has already been tried, and what kind of help is needed. The aim is adaptive help-seeking: students first attempt independent strategies, then seek targeted assistance that supports rather than replaces their own effort.
@@ -60,6 +60,10 @@ Help-seeking is a core self-regulatory behavior: students who seek help adaptive
 4. **Build in structured practice.** Use [Check-ins](../principles/check-ins.md) and peer protocols ([Peer Discussion](../elements/peer-discussion.md)) so asking is routine, not exceptional.
 5. **Respond instrumentally.** When students ask, coach with questions and partial hints rather than answers ([Coaching](../elements/coaching.md), [Scaffolding](../elements/scaffolding.md)), fading support as competence grows [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 6. **Reinforce and assess.** Notice and name good help-seeking; track whether requests become more specific over time.
+
+## Claims
+
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](../claims/ai-help-seeking-is-a-skill.md) [~W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Monitor and Adjust Classroom Temperature
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Classroom temperature is a physical environmental factor that measurably affects learning performance. This strategy involves monitoring classroom temperature (ideally with a sensor and logged readings) and adjusting it — via thermostats, ventilation, shading, or fans — to keep it in a moderate band, roughly 68–74°F (20–23°C). Both overheated and overcooled rooms degrade performance on academic tasks, so the goal is avoidance of thermal extremes rather than a single "perfect" setting.
@@ -51,6 +51,10 @@ Thermal comfort is not merely a wellbeing issue: field experiments in classrooms
 3. Adjust proactively — shade, ventilation, or thermostat — *before* the room exceeds the band rather than reacting to complaints.
 4. Where individual control is impossible, schedule demanding academic work during the coolest hours and use low-tech mitigation (shading, fans) during peak heat.
 5. Pair with attention to other physical conditions such as noise and air quality; see [Acoustics and Noise Management](acoustics_and_noise_management.md) for the parallel auditory factor.
+
+## Claims
+
+- [Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents](../claims/hot-test-days-lower-math-reading-performance.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment factor competing for attentional resources

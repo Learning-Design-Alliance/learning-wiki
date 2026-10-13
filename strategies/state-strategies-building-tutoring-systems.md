@@ -17,7 +17,7 @@ sources:
 # State education agencies build tutoring systems through guidance, workforce investment, professional development, vetted vendor hubs, and legislation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief enumerates seven state strategies for building intensive tutoring systems: "Statewide investments in creating a tutoring workforce," research-based program guardrails, publicly available resources for district and school leaders, statewide professional development, legislative action, creation of central sources of information on state-approved high-quality tutoring programs and vendors, and targeting services to schools' most underserved students. State officials are positioned as deployers of effective tutoring systems via guidance, technical assistance, and support to district leaders.
@@ -37,6 +37,10 @@ The brief enumerates seven state strategies for building intensive tutoring syst
 
 ### Target Learning Goals
 - Addressing unfinished learning through evidence-based intensive tutoring
+
+## Claims
+
+- [At least 17 states committed relief funds to targeted intensive tutoring in their US Department of Education plans](../claims/17-states-committed-relief-funds-intensive-tutoring.md) [+W]
 
 ## Related Strategies
 

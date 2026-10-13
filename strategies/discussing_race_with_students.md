@@ -12,7 +12,7 @@ generated:
 # Discussing Race With Students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Discussing race with students means deliberately creating classroom conditions — norms, framing, and facilitation — for examining racial identity, racism, and inequality rather than avoiding the topic. It is carried out through structured protocols, ground rules, facilitator preparation for hot moments, and content that treats race as a real social force rather than a taboo or a "diversity celebration" sidestep.
@@ -59,6 +59,10 @@ Race talk triggers strong emotions and identity threat that can shut down produc
 4. Facilitate with explicit moves: normalize discomfort, redirect generalizations ("some people say…" → "who is 'some people'?"), and interrupt stereotyping in real time
 5. Close with individual written reflection so learning is consolidated beyond the emotional peak of the conversation
 6. Follow up in subsequent sessions; race talk is a curriculum, not an event
+
+## Claims
+
+- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](../claims/colorblindness-blocks-distribution-discussion.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Make retaining teachers of color a district priority: compensate the invisible tax and place teachers in cohorts to reduce isolation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 District leaders should publish transparent compensation matrices, monetize the extra burdens teachers of color carry (the "invisible tax"), give principals flexible budget autonomy, and intentionally recruit and place teachers of color in cohorts so no one is "the lone teacher of color in a school." One charter network shared "the grid of, if you want to be an after-school program leader, here's how much you'll make an hour."
@@ -35,6 +35,12 @@ District leaders should publish transparent compensation matrices, monetize the 
 
 ### Target Learning Goals
 - Teacher retention, equitable compensation, workforce diversity
+
+## Claims
+
+- [Teachers of color leave at higher rates than their White peers, partly due to the uncompensated 'invisible tax' of extra work](../claims/invisible-tax-teachers-of-color-leave-at-higher-rates.md) [+W]
+- [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](../claims/toc-retention-hostile-conditions.md) [+W]
+- [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](../claims/toc-workplace-racism-invisible-tax.md) [+W]
 
 ## Related Strategies
 

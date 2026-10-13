@@ -17,7 +17,7 @@ sources:
 # Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on survey and interview findings, the authors recommend moving AI support beyond short-term help toward long-term companionship. Findings suggest students are "interested in AI-powered support tools with more capabilities for long-term use", specifically "integration of AI-powered platforms in the current university support systems" and "developing a tool that enables international students to find and sustain a sense of community." The strategy targets the domains where AI is currently underused, such as psychological and longitudinal support, while respecting students' privacy concerns about visa-related data.
@@ -37,6 +37,10 @@ Based on survey and interview findings, the authors recommend moving AI support 
 ### Target Learning Goals
 - cross-cultural adaptation
 - sustained access to academic, logistical, and community support
+
+## Claims
+
+- [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](../claims/ai-task-oriented-over-emotional-support-international-students.md) [~W]
 
 ## Related Strategies
 

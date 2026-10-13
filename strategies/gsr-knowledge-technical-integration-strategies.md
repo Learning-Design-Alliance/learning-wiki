@@ -17,7 +17,7 @@ sources:
 # Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors propose concrete integration mechanisms for the identified requirements: stable characteristics such as preferred personality, student background, and learning type could be captured in a short onboarding interaction and embedded in a system prompt; dynamic information such as goals, progress, and emotional state could be updated and structured in knowledge graphs; learning materials could be accessed via retrieval-augmented generation pipelines; and interdependencies could be orchestrated by a control module such as a second LLM.
@@ -35,6 +35,10 @@ The authors propose concrete integration mechanisms for the identified requireme
 
 ### Target Learning Goals
 - adaptive, grounded tutoring support for learning lecture content
+
+## Claims
+
+- [Participants required GSR context-knowledge of learning materials, educational strategies, and course information, with optional physical-environment perception](../claims/gsr-context-knowledge-materials-strategies-environment.md) [+W]
 
 ## Related Strategies
 

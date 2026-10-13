@@ -17,7 +17,7 @@ sources:
 # Combine psychologically informed, ethically grounded, and institutionally supported interventions to reduce AI-assisted academic dishonesty
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the study found AI-assisted dishonesty to be a multilevel outcome shaped by psychological vulnerabilities, cheating tendency, AI use, and socio-contextual factors, it recommends interventions that operate at several levels simultaneously. The article states the results "highlight the need for psychologically informed, ethically grounded, and institutionally supported interventions to reduce academic dishonesty in AI-enhanced higher education environments." This follows from the finding that ethical and moral education negatively predicted dishonesty while insufficient sanctions positively predicted it.
@@ -36,6 +36,10 @@ Because the study found AI-assisted dishonesty to be a multilevel outcome shaped
 ### Target Learning Goals
 - reducing AI-assisted academic dishonesty
 - strengthening academic integrity
+
+## Claims
+
+- [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](../claims/social-contextual-predictors-ai-assisted-dishonesty.md) [+W]
 
 ## Related Strategies
 

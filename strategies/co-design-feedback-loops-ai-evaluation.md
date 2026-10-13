@@ -17,7 +17,7 @@ sources:
 # Integrate co-design and continuous feedback loops into AI evaluation processes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that states integrate co-design with feedback loops—defined as structures that are purposeful, multi-directional, iterative, and transformative—into evaluation across all implementation stages. Co-design communities via AI task forces, working groups, and dedicated committees help include multiple contributing groups' voices and create continuous cycles of improvement responsive to diverse community input, scaling and evolving innovations.
@@ -42,6 +42,10 @@ The report recommends that states integrate co-design with feedback loops—defi
 
 ### Affordances
 - Three Stage Ai Evaluation Stages Framework
+
+## Claims
+
+- [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](../claims/states-co-design-voice-counts.md) [~W]
 
 ## Related Strategies
 

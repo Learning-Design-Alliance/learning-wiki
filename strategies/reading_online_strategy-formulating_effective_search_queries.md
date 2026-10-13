@@ -12,7 +12,7 @@ generated:
 # Reading Online Strategy: Formulating Effective Search Queries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (1 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy teaches students to translate an information need into search terms that a search engine can act on effectively. For younger students, this means selecting keywords and using quotation marks rather than typing full questions; for older students, it extends to Boolean operators (AND, OR, NOT, NEAR), parentheses, and truncation (asterisk). Because search behavior is largely invisible and habitual, instruction pairs explicit modeling with metacognitive reflection on students' own information-seeking, so they can evaluate and revise their query strategies rather than repeating unproductive habits.
@@ -56,6 +56,10 @@ Query formulation is a procedural skill that novices perform poorly without expl
 3. Provide guided [Practice](../elements/practice.md): students formulate queries for parallel tasks, compare results across query versions, and revise based on [Feedback](../elements/provide-feedback.md) on relevance and reliability of retrieved sources.
 4. Have students keep a search log and reflect on which formulations worked, why, and what they will try next — building metacognitive monitoring of the process.
 5. Fade support by moving students to independent research tasks in content areas, with periodic check-ins on query quality.
+
+## Claims
+
+- [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](../claims/chatgpt-narrow-starting-queries.md) [~W]
 
 ## Related Strategies
 - [Evaluating Online Sources](evaluating_online_sources.md) — the necessary complement; good queries retrieve candidates, evaluation filters them

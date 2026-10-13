@@ -17,7 +17,7 @@ sources:
 # Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In response to evaluation findings, WestEd's team generated recommendations for state leadership and for residency programs. Policy recommendations include building a statewide sustainability-focused vision, guidance and technical assistance on nongrant funding, and clear guidance on financial aid for residents. Programmatic recommendations urge residencies to "Align the residency program with the strategic vision and goals of the LEA partner from the start," engage system-level leaders (HR, instruction, business, unions, principals), incorporate dedicated liaison roles for sustainability planning and relationship building, and "Prioritize affordability for residents from diverse backgrounds and income levels," including an affordability analysis of the gap between supports received and costs incurred.
@@ -40,6 +40,10 @@ In response to evaluation findings, WestEd's team generated recommendations for 
 
 ### Affordances
 - [Teacher Residency Model Lea Ihe Partnership](../products/teacher-residency-model.md)
+
+## Claims
+
+- [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](../claims/ihe-resident-cohorts-below-sustainability-threshold.md) [-W]
 
 ## Related Strategies
 

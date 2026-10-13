@@ -17,7 +17,7 @@ sources:
 # Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 4 studies (2 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The brief recommends states reduce disparities and overuse of exclusionary discipline by setting clear equity-centered goals, ensuring transparent disaggregated data, and adopting positive approaches such as restorative justice. Massachusetts is highlighted for banning corporal punishment, requiring consideration of alternative discipline before long-term suspensions and expulsions, banning discriminatory conduct and hair and grooming codes, and providing guidance for 'co-developing clear, student-centered codes of conduct aligned with a restorative justice approach.'
@@ -35,6 +35,13 @@ The brief recommends states reduce disparities and overuse of exclusionary disci
 
 ### Target Learning Goals
 - Opportunities to learn and develop holistically without exclusionary discipline
+
+## Claims
+
+- [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](../claims/school-data-systems-do-not-track-rj.md) [+W]
+- [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](../claims/exclusionary-discipline-harms-and-disproportionality.md) [+W]
+- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](../claims/exclusionary-discipline-disproportionate-students-of-color-disabilities.md) [+W]
+- [Black students and students with disabilities are disproportionately subjected to exclusionary discipline relative to their enrollment shares](../claims/discipline-disparities-black-students-disabilities-crdc.md) [+W]
 
 ## Related Strategies
 

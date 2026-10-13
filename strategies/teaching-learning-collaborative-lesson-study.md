@@ -17,7 +17,7 @@ sources:
 # Teaching Learning Collaborative: a two-day lesson-study process of collaborative planning, teaching, and evidence-based revision
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The TLC "brings together groups of three or four teachers over two full school days, separated by one to three weeks": day one plans or chooses a conceptual flow, selects a learning sequence, and develops a 5E lesson; day two teaches the lesson, debriefs using facilitator notes and student work sorted into performance piles, revises the lesson, and re-teaches it to another class. Originally developed by the K-12 Alliance in 1995, it is a lesson-study approach based on the knowledge that the most effective professional development occurs closest to the classroom. All Teacher Leaders participate in two TLCs per school year.
@@ -35,6 +35,10 @@ The TLC "brings together groups of three or four teachers over two full school d
 
 ### Target Learning Goals
 - Teacher understanding of phenomena-based, three-dimensional NGSS instruction, questioning strategies, and analyzing student work
+
+## Claims
+
+- [Most surveyed teachers reported that TLC experiences deepened their understanding of the NGSS dimensions and 3D approaches](../claims/tlc-deepened-ngss-understanding.md) [+W]
 
 ## Related Strategies
 

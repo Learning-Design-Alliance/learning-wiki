@@ -17,7 +17,7 @@ sources:
 # Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The playbook gives families and Local School Council members concrete actions: get to know the principal and full leadership team by asking about the school vision and how leadership teams contribute; learn the Continuous Improvement Work Plan (CIWP), a 3-year plan approved by the LSC that guides the budget; and work with principals to foster a welcoming school culture using tools such as the Family Engagement Lab reflection tool. It suggests asking "What is your vision for the school?" and reviewing data such as the principal's monthly LSC report, 5Essentials Surveys, ISBE report card, and To&Through data.
@@ -36,6 +36,10 @@ The playbook gives families and Local School Council members concrete actions: g
 
 ### Target Learning Goals
 - understanding school improvement plans and data to support student learning and school culture
+
+## Claims
+
+- [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](../claims/lsc-sip-active-budget-less-involved.md) [~W]
 
 ## Related Strategies
 

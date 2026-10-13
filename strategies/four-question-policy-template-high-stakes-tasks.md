@@ -17,7 +17,7 @@ sources:
 # Four-question public template for high-stakes AI assessment tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends operationalizing stewardship through a short public template rather than a long rulebook. "For each high-stakes task, the template can ask four questions: what capacity is certified, what help is allowed, what evidence remains, and what protection or appeal route applies?" The template should also state when no extra evidence is needed, to avoid turning ordinary AI interactions into compliance events. It pairs with program-level review that names credential claims before individual assignments vary.
@@ -39,6 +39,10 @@ The article recommends operationalizing stewardship through a short public templ
 
 ### Affordances
 - Cognitive Stewardship Framework
+
+## Claims
+
+- [University AI policies score higher on delegation boundaries than on evidence standards](../claims/boundary-evidence-asymmetry-ai-policy-audit.md) [~W]
 
 ## Related Strategies
 

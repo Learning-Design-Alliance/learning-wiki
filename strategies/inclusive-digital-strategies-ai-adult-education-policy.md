@@ -17,7 +17,7 @@ sources:
 # Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's policy recommendations center on inclusive digital strategies: "A key priority is the development of inclusive digital strategies that ensure equitable access to AI-supported learning." This includes infrastructure investment (broadband, devices), targeted initiatives for disadvantaged groups, digital literacy promotion, and educator training spanning technical, pedagogical, and ethical competencies. It further recommends ethical AI frameworks emphasizing transparency, fairness, accountability, and human rights, plus stakeholder collaboration among governments, institutions, educators, and learners.
@@ -38,6 +38,10 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - equitable access to AI-supported learning
 - digital and AI literacy
 - responsible and critical engagement with AI technologies
+
+## Claims
+
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](../claims/equitable-access-themes-limited-ai-policies.md) [+W]
 
 ## Related Strategies
 

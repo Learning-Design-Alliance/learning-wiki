@@ -17,7 +17,7 @@ sources:
 # Offer selective financial transfer incentives to staff hard-to-staff schools with high-performing teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A district staffing strategy in which high-performing teachers are offered a large one-time payment — here $20,000 — to transfer into the district's hardest-to-staff schools. The article examines teachers' behavioral responses to such an offer across 10 school districts, framing the incentive as a tool for staffing low-performing schools.
@@ -37,6 +37,10 @@ A district staffing strategy in which high-performing teachers are offered a lar
 
 ### Target Learning Goals
 - Equitable access to high-performing teachers
+
+## Claims
+
+- [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](../claims/transfer-offer-effects-teacher-willingness-and-school-dynamics.md) [~W]
 
 ## Related Strategies
 

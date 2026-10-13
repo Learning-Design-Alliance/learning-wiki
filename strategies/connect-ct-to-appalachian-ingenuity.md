@@ -17,7 +17,7 @@ sources:
 # Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The presentation's current guiding question is connecting computational thinking with what district leader Neil Arnett calls Appalachian ingenuity: asking "Who are the community makers? Who are the creators?" so that computer science education captures and perpetuates local creative traditions. Arnett reflects that this framing "takes [computer science] from novelty to actual change, and it ties it directly to the people on the ground."
@@ -36,6 +36,10 @@ The presentation's current guiding question is connecting computational thinking
 ### Target Learning Goals
 - Computational thinking
 - Identity as community makers and creators
+
+## Claims
+
+- [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](../claims/appalachian-problem-solving-heritage-lost.md) [~W]
 
 ## Related Strategies
 

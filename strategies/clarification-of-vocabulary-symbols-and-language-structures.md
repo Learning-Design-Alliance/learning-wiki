@@ -13,7 +13,7 @@ generated:
 # Clarification of Vocabulary, Symbols, and Language Structures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (6 review, 4 causal, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 16 studies (6 review, 4 causal, 3 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy makes the language of a domain — its vocabulary, symbols, notation, and syntactic structures — explicit and learnable, rather than leaving learners to infer meaning from context alone. It is carried out through pre-teaching critical terms, providing definitions with multiple representations (verbal, visual, symbolic), modeling how language structures signal relationships between ideas, and giving learners supported practice using the terms and symbols themselves.
@@ -80,6 +80,10 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 4. Have learners apply the terms in speaking or writing with feedback ([Practice](../elements/practice.md) with [Assessment](../elements/assessment.md)).
 5. Revisit terms across subsequent lessons in varied contexts so knowledge becomes flexible and decontextualized.
 6. Use an [Advance Organizer](../elements/advance-organizers.md) or glossary as a persistent reference learners can return to independently.
+
+## Claims
+
+- [The CPM definition of slope is verbose, mentioning the unit-rate essence of slope only at the end of a long paragraph, which is unlikely to enhance English Learners' access](../claims/verbose-slope-definition-buries-unit-rate.md) [+W]
 
 ## Related Strategies
 

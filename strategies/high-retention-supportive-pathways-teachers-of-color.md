@@ -17,7 +17,7 @@ sources:
 # Build high-retention, supportive pathways into teaching for candidates of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that states and districts underwrite preparation costs through service scholarships and loan forgiveness, fund teacher residencies with year-long apprenticeships and stipends, develop Grow Your Own programs recruiting from "nontraditional populations (e.g., high school students, paraprofessionals, and after-school program staff)", fund intensive preparation support programs, adopt performance assessments such as the edTPA, and design data systems monitoring the racial diversity of preparation enrollees.
@@ -36,6 +36,10 @@ The report recommends that states and districts underwrite preparation costs thr
 
 ### Target Learning Goals
 - Entering and completing high-quality teacher preparation and remaining in teaching in high-need schools
+
+## Claims
+
+- [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](../claims/uh-residency-completers-retention-above-state-average.md) [+W]
 
 ## Related Strategies
 

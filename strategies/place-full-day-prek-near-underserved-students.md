@@ -17,7 +17,7 @@ sources:
 # Districts expanding pre-k should prioritize placing full-day pre-k classrooms close to where historically underserved students live
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's authors recommend that when district leaders expand pre-k and decide where to locate classrooms, they "have an opportunity to prioritize policies and funding that provide more full-day pre-k classrooms close to where historically underserved students live." This follows from the finding that intentional placement of full-day, school-based pre-k classrooms in neighborhoods that typically lack them made a difference for student outcomes.
@@ -37,6 +37,10 @@ The report's authors recommend that when district leaders expand pre-k and decid
 - kindergarten entry skills
 - second-grade math and reading achievement
 - academic grades
+
+## Claims
+
+- [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](../claims/classrooms-near-home-positive-enrollment-association.md) [+W]
 
 ## Related Strategies
 - 

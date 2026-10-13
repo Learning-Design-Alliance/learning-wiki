@@ -17,7 +17,7 @@ sources:
 # Cultural Processes to Inequality: Identification and Rationalization
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 causal, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (2 associational, 1 causal, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A framework the article adopts from Lamont, Beljean and Clair (2014) in which inequality is produced through two meso-level cultural processes: identification (stigmatization and racialization) and rationalization (standardization and evaluation). The article lists "six characteristics of cultural processes", including that they are formed through meaning-making and operate in a routine way. It argues that "Evaluation and its sub-categories are central to everyday functioning of school".
@@ -43,6 +43,7 @@ A framework the article adopts from Lamont, Beljean and Clair (2014) in which in
 - [Cultural Processes And Epistemic Injustice Explain Educational Inequality](../claims/cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) [+W]
 - [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](../claims/race-prompts-cultural-stereotype-feedback.md) [+W]
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](../claims/at-risk-identification-demographic-patterns.md) [+W]
+- [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](../claims/biased-teacher-evaluations.md) [+W]
 
 ## Related Theories
 - [Sociocultural Theory](sociocultural-theory.md)

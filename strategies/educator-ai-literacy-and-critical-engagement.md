@@ -15,7 +15,7 @@ sources:
 # Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Among its educational implications, the article highlights the need for teacher capability: "Teachers must be equipped not only to use AI tools but also to critically evaluate their outputs, understand their limitations, and integrate them meaningfully into instructional practice." It links this to supporting students' critical engagement with generative AI content, given concerns about inaccuracies and over-reliance on automated feedback.
@@ -33,6 +33,11 @@ Among its educational implications, the article highlights the need for teacher 
 
 ### Target Learning Goals
 - effective and critical integration of AI technologies into instruction
+
+## Claims
+
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
+- [Pedagogical AI competence is positively associated with teachers' AI use](../claims/pedagogical-ai-competence-associated-with-ai-use.md) [+W]
 
 ## Related Strategies
 

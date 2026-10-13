@@ -17,7 +17,7 @@ sources:
 # Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief's discussion of pandemic responses points to virtual engagement as a way apprenticeship systems continued operating: administrators pivoted work online, streamlined processes, and expanded reach and responsiveness. The brief frames these responses as informing "potential implications for the future of apprenticeship systems in the states interviewed."
@@ -35,6 +35,10 @@ The brief's discussion of pandemic responses points to virtual engagement as a w
 
 ### Target Learning Goals
 - Workforce preparation through related training and instruction and on-the-job apprenticeship learning
+
+## Claims
+
+- [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](../claims/providers-adapted-in-person-training-online.md) [+W]
 
 ## Related Strategies
 

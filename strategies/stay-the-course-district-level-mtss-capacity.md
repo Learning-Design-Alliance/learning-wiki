@@ -17,7 +17,7 @@ sources:
 # Sustain statewide MTSS by staying the course: invest in district-level capacity and an integrated three-tier model
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The evaluation's forward-looking recommendation is that Kansas "stay the course": continue investment in district-level capacity building, strengthen the Core Team, and adhere continually to the MTSS framework as more districts and schools join. Implementation is being refined to focus on the district rather than the individual school, and on an integrated model approaching reading, math, and behavior simultaneously — the comprehensive, integrated three-tier (MTSS: CI3T) framework. The authors state a "stay-the-course/on-message approach from the state level on down appears to be the way to move forward with expansion and sustainability."
@@ -41,6 +41,10 @@ The evaluation's forward-looking recommendation is that Kansas "stay the course"
 
 ### Affordances
 - [Kansas Mtss Framework Components](../products/kansas-multi-tier-system-of-supports-kansas-mtss.md)
+
+## Claims
+
+- [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](../claims/kansas-mtss-state-infrastructure-support.md) [+W]
 
 ## Related Strategies
 

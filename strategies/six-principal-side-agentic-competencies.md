@@ -17,7 +17,7 @@ sources:
 # Develop six structurally new principal-side competencies for agentic AI contexts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper proposes that the transition from generative to agentic AI demands new principal-side competencies in "delegation (understanding what authority one is granting)", oversight, accountability attribution, attack surface awareness, agent-specific informed consent, and calibrated trust. It argues these are not refinements of existing AI literacy but structurally new competencies for a structurally new paradigm, with full specification deferred to a companion paper.
@@ -35,6 +35,10 @@ The paper proposes that the transition from generative to agentic AI demands new
 
 ### Target Learning Goals
 - delegation, oversight, accountability attribution, attack surface awareness, agent-specific informed consent, calibrated trust
+
+## Claims
+
+- [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](../claims/prompt-injection-attacks-bypass-user-literacy.md) [-W]
 
 ## Related Strategies
 - 

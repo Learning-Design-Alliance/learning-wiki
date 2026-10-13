@@ -17,7 +17,7 @@ sources:
 # Target state UPK technical assistance on coaching and mentoring, curriculum and assessment guidance, facilities, multilingual learner supports, and paraprofessional workforce investment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 8 claims (6 for, 2 mixed) · 6 studies (5 associational, 1 review), `q2` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 Based on its 2022–23 survey of 1,384 LEAs, the report recommends that California target technical assistance and investments toward the needs LEAs themselves identified. Over half of LEAs (52%) "noted that technical assistance on coaching and mentoring would be most helpful in supporting professional development for UPk implementation," and LEAs most commonly requested TA related to professional development, facilities guidance, surveying parents' UPK needs, and projecting and increasing enrollment. The report further recommends state assistance on PreK curriculum, early childhood assessment best practices, developmentally appropriate combination classrooms for small LEAs, and recruiting and retaining the paraprofessional workforce.
@@ -41,6 +41,17 @@ Based on its 2022–23 survey of 1,384 LEAs, the report recommends that Californ
 - Developmentally appropriate prekindergarten learning across literacy, math, and social-emotional domains
 - English and home language development for multilingual learners
 - Inclusive participation for students with disabilities
+
+## Claims
+
+- [California school facilities are chronically underfunded, with stark facility-condition and spending disparities](../claims/california-facilities-underfunded-disparities.md) [~W]
+- [LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities](../claims/technical-assistance-professional-learning-highest.md) [+W]
+- [Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs](../claims/tk-facilities-progress-and-challenge.md) [+W]
+- [Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports](../claims/sv-leas-lack-bilingual-infrastructure-materials-and-pd.md) [+W]
+- [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](../claims/tk-staffing-needs-and-vacancies.md) [+W]
+- [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](../claims/tk-workforce-lead-sufficiency-aide-vacancies.md) [+W]
+- [California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK](../claims/tk-curricula-domain-specific-and-kindergarten-misalignment.md) [~W]
+- [88% of LEAs projected sufficient classroom space by full TK expansion in 2025–26, yet facilities remained a top implementation challenge](../claims/tk-facilities-sufficiency-and-challenges.md) [+W]
 
 ## Related Strategies
 

@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 9 studies (2 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 11 studies (4 qualitative, 2 causal, 2 review, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 1 of 11 report an effect size · 6 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -57,6 +57,8 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](../claims/students-of-color-receive-belonging-signals.md) [+W]
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](../claims/belonging-mdp-reduces-effort-and-threat-perceptions.md) [+W]
 - [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](../claims/students-want-connection-to-college-throughout-experience.md) [+W]
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](../claims/closures-severed-connections-grief-us-them-dynamics.md) [+W]
+- [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](../claims/school-closings-severed-social-connections-mourning.md) [+W]
 
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early

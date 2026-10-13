@@ -17,7 +17,7 @@ sources:
 # Improve evaluation fairness by statistically adjusting ratings for classroom characteristics, comparing teachers within similar contexts, and training evaluators on contextual influences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends district-level practices to reduce composition-driven bias in teacher evaluation: "Adjusting ratings statistically for classroom characteristics", "Comparing teachers within similar classroom contexts", and "Training evaluators to recognize contextual influences". These follow from the finding that ratings partly reflect the students assigned rather than teaching quality alone.
@@ -35,6 +35,10 @@ The article recommends district-level practices to reduce composition-driven bia
 
 ### Target Learning Goals
 - Fair and accurate measurement of teaching quality for tenure, promotion, and dismissal decisions
+
+## Claims
+
+- [Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students](../claims/context-adjusted-ratings-raise-black-teacher-rankings.md) [+W]
 
 ## Related Strategies
 - 

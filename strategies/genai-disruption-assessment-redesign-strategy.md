@@ -17,7 +17,7 @@ sources:
 # Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends treating the disruption caused by generative AI as an affordance for changing assessment practice, not only thinking differently but acting differently: "With disruption comes the affordance to not only think about things differently, but to truly do things differently". Concretely, this means using the GenAI moment to replace compartmentalised, standardised assessment designs with approaches that recognise diverse ways of knowing and support student agency.
@@ -38,6 +38,10 @@ The paper recommends treating the disruption caused by generative AI as an affor
 
 ### Affordances
 - Genai Equitable Assessment Two Dimensions
+
+## Claims
+
+- [Conventional higher-education assessment practices are argued to be flawed, compartmentalised, standardised and disadvantaging to many students](../claims/conventional-assessment-flawed-and-disadvantaging.md) [+W]
 
 ## Related Strategies
 

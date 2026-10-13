@@ -18,7 +18,7 @@ sources:
 # Embed competency assessment in ongoing instruction rather than administering it as a separate test event
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide's third assessment type integrates assessment into the instructional process so that evidence of competency is gathered while students do mathematics, not in a separate sitting. The instructional activity itself "provides information about how the student applies mathematical skills, understandings, and thinking." Objectives from multiple strands are embedded within instructional activities, and multiple forms of assessment (products, observation, interviews, self-assessment, journal writing) are used routinely throughout the year.
@@ -38,7 +38,9 @@ The guide's third assessment type integrates assessment into the instructional p
 - Application of mathematical skills, understandings, and thinking within authentic activity contexts
 
 ### Claims
+
 - [Three Type Competency Assessment Taxonomy](../theories/three-type-competency-assessment-taxonomy.md) [+M]
+- [Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process](../claims/placement-perceived-one-shot-deal.md) [-W]
 
 ## Related Principles
 - 

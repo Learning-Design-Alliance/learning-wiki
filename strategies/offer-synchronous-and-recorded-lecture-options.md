@@ -15,7 +15,7 @@ sources:
 # Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 During the spring 2020 shift, case study institutions commonly built in options by delivering the same lecture in real time and as an asynchronous recording. The report states that "Building in options by offering lectures both in real time and as recordings posted online emerged as a common strategy at the case study institutions," motivated by equity concerns for students lacking devices, broadband, or availability during scheduled class hours.
@@ -33,6 +33,10 @@ During the spring 2020 shift, case study institutions commonly built in options 
 
 ### Target Learning Goals
 - Continued participation and learning in STEM gateway courses during disruptions to campus-based teaching
+
+## Claims
+
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](../claims/homework-gap-scale-2020.md) [+W]
 
 ## Related Strategies
 

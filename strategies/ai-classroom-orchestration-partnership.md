@@ -17,7 +17,7 @@ sources:
 # Design AI as a classroom orchestration partner that helps teachers form groups, nurture conversations, and track participation without taking control
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The orchestration scenario envisions a teacher-AI partnership for socially rich classrooms: the agent helps form groups, monitors participation, suggests sentence starters when students are not reacting to each other, pairs students with complementary essay drafts, flags frustration, and reviews discussions with the teacher. The report specifies that "the AI agent’s role might not be heavy-handed management of exactly how and when students learn, but rather a set of small actions that help teachers shape her classroom." Weak orchestration is projected within five years, stronger partnership within ten.
@@ -35,6 +35,10 @@ The orchestration scenario envisions a teacher-AI partnership for socially rich 
 
 ### Target Learning Goals
 - Equal participation, richer student-to-student conversation, collaborative project work, and social learning
+
+## Claims
+
+- [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](../claims/agentic-ai-evidence-strongest-tutoring-srl-coaching.md) [~W]
 
 ## Related Strategies
 

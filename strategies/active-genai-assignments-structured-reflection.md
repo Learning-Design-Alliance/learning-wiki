@@ -16,7 +16,7 @@ sources:
 # Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 3 studies (3 associational), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that educators craft assignments incorporating generative AI that require students to critique AI-generated text and reflect on what the AI did well or poorly, rather than banning the tools. Across practices, "a common thread is structured reflection": debrief questions or discussions where students articulate the AI's performance and how they arrived at their final answer. This treats AI as a partner to question and improve upon, illuminating its affordances and limitations and improving students' evaluative skills.
@@ -36,6 +36,11 @@ The review recommends that educators craft assignments incorporating generative 
 - AI literacy
 - critical evaluation of AI outputs
 - feedback literacy
+
+## Claims
+
+- [Text-based reflective use from Copilot Critical Engagement responses does not predict productive engagement, with limited coder reliability and a TA ceiling effect (exploratory null)](../claims/copilot-text-reflective-use-null.md) [-W]
+- [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](../claims/overreliance-frequent-underreliance-rare.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The strategy is a district-and-school approach in which high schools use data reports to "monitor student performance in real time and identify students at risk," combined with ninth grade coordinators and summer transition programs. Schools were given "substantial flexibility in how they used these data," and the range of strategies developed around the data is described as one of the most distinctive features of the effort. The summary frames this as using data to build educators' capacity to manage complex problems and create systems of continuous improvement.
@@ -35,6 +35,10 @@ The strategy is a district-and-school approach in which high schools use data re
 
 ### Target Learning Goals
 - Reducing ninth-grade course failure and increasing on-time high school graduation
+
+## Claims
+
+- [Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores](../claims/on-track-gains-did-not-lower-act-scores.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Use the five-dimension literacy model to design AI-integrated graduate education and literacy cultivation strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers its validated model and scale as actionable inputs for graduate education design. As the conclusion states, "These findings offer actionable insights for designing AI-integrated graduate education and literacy cultivation strategies". Because the model assigns distinct functional roles to cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, and ethical responsibility, cultivation efforts can target each dimension and their interconnections rather than treating AI literacy as an undifferentiated skill set.
@@ -38,6 +38,10 @@ The article offers its validated model and scale as actionable inputs for gradua
 
 ### Affordances
 - Graduate Genai Literacy Five Dimension Model
+
+## Claims
+
+- [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](../claims/scale-validation-308-graduate-students.md) [+W]
 
 ## Related Strategies
 

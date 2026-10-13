@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (2 design, 1 review, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 5 studies (3 design, 1 review, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -57,6 +57,7 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [+W]
 - [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](../claims/productive-difficulty-edge-of-mastery.md) [+W]
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
+- [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](../claims/moderate-difficulty-granularity-window-optimal.md) [~W]
 
 ## Related Elements
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)

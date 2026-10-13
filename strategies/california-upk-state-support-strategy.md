@@ -17,7 +17,7 @@ sources:
 # State supports for UPK expansion: fund facilities and ratio implementation, update reimbursement rates, offer curriculum and assessment technical assistance, and expand professional development and inclusive-classroom supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 5 studies (4 associational, 1 review), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The report closes with a set of state-level actions to sustain UPK quality as TK expansion finishes. It recommends that "the state can consider funding facilities upgrades and implementation of new adult-to-student ratio requirements, updating reimbursement rates to meet the cost of care for publicly funded preschool and child care programs, offering technical assistance on curriculum and assessments, supporting high-quality professional development for early educators and school leaders, and expanding supports for inclusive classrooms." These respond to survey-reported challenges in facilities, funding, staffing, and developmentally appropriate practice.
@@ -36,6 +36,14 @@ The report closes with a set of state-level actions to sustain UPK quality as TK
 
 ### Target Learning Goals
 - access to high-quality, developmentally appropriate prekindergarten learning environments
+
+## Claims
+
+- [California school facilities are chronically underfunded, with stark facility-condition and spending disparities](../claims/california-facilities-underfunded-disparities.md) [~W]
+- [LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities](../claims/technical-assistance-professional-learning-highest.md) [+W]
+- [Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs](../claims/tk-facilities-progress-and-challenge.md) [+W]
+- [88% of LEAs projected sufficient classroom space by full TK expansion in 2025–26, yet facilities remained a top implementation challenge](../claims/tk-facilities-sufficiency-and-challenges.md) [+W]
+- [California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK](../claims/tk-curricula-domain-specific-and-kindergarten-misalignment.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends that local, state, and federal policymakers ensure principals have professional development embodying the framework's features: content on whole child education and equitable school environments, delivered through “meaningful applied learning experiences that are problem based and context specific,” individualized mentoring and coaching, and collaborative networks such as PLCs. It further recommends districts remove barriers—providing staff support that frees principals' time, offering professional development at convenient times and locations, and using ESSA Title II, Part A funds—and that states and the federal government expand leadership investments, including the School Leader Recruitment and Support Program.
@@ -41,6 +41,12 @@ The report recommends that local, state, and federal policymakers ensure princip
 
 ### Affordances
 - High Quality Principal Professional Learning Framework
+
+## Claims
+
+- [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](../claims/mentor-coach-access-inequity-poverty.md) [-W]
+- [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](../claims/principals-want-whole-child-pd.md) [+W]
+- [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](../claims/principals-lack-authentic-job-embedded-learning.md) [+W]
 
 ## Related Strategies
 

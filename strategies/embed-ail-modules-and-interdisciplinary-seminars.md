@@ -17,7 +17,7 @@ sources:
 # Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that universities adopt adaptive curricula integrating AIL across multiple disciplines. Concretely, it suggests "embedding AIL modules into existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars", using the Heptagon to decide which dimensions each discipline emphasizes. This targets the implementation gap where AIL is explicitly addressed in only a minority of programs.
@@ -38,6 +38,10 @@ The article recommends that universities adopt adaptive curricula integrating AI
 
 ### Affordances
 - Ai Literacy Heptagon Framework
+
+## Claims
+
+- [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](../claims/genai-ethical-legal-dimensions-priority.md) [~W]
 
 ## Related Strategies
 

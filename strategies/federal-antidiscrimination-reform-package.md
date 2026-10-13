@@ -17,7 +17,7 @@ sources:
 # Federal reforms to strengthen antidiscrimination protection: amend Title VI, fund enforcement, and issue clarifying guidance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends a set of federal actions to strengthen protection from racial discrimination in education: "Amend Title VI of the Civil Rights Act of 1964 to prohibit disparate impact discrimination and provide a private right of action to enforce it," increase funding to OCR and the Justice Department's Educational Opportunities Section, increase technical assistance and grants to states and districts, and issue OCR guidance clarifying the disparate impact legal standard. These measures target enforcement gaps the report documents in federal law.
@@ -36,6 +36,10 @@ The report recommends a set of federal actions to strengthen protection from rac
 ### Target Learning Goals
 - Nondiscrimination in education
 - Equitable educational opportunities
+
+## Claims
+
+- [Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons](../claims/title-vi-limited-nondiscrimination-protection.md) [+W]
 
 ## Related Strategies
 

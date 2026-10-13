@@ -17,7 +17,7 @@ sources:
 # When planning for the school year during COVID-19, schools and districts should weigh public health factors alongside educational factors such as potential learning loss
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy captures the publication's framing of how districts should approach 2020-2021 school-year planning during pandemic building closures. The page states that "Schools and districts are considering public health and educational factors such as potential learning loss when planning for the 2020–2021 school year," noting that closures since spring 2020 have been "dramatically impacting learning for students." It directs planners to treat reduced-density reopening precautions and learning-recovery concerns as joint considerations rather than separate ones.
@@ -35,6 +35,10 @@ This strategy captures the publication's framing of how districts should approac
 
 ### Target Learning Goals
 - Recovering learning lost during school building closures while maintaining safe in-person conditions
+
+## Claims
+
+- [The visualizations address how student growth changed since school buildings closed in March 2020](../claims/student-growth-change-since-march-2020-closures.md) [~W]
 
 ## Related Strategies
 

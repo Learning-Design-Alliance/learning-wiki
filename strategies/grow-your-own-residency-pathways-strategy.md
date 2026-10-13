@@ -17,7 +17,7 @@ sources:
 # Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 4 studies (3 qualitative, 1 design), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The report describes GYO programs that "recruit local community members into teaching, including high school students, paraprofessionals, after-school program staff, and others," often using state funding for tuition reimbursement as classified staff earn credentials. Teacher residencies are "1-year intensive apprenticeships modeled on medical residency programs" in which residents apprentice with an expert teacher for a full academic year, then receive 2 years of mentoring and typically a stipend and tuition assistance in exchange for a 3- to 4-year teaching commitment in a high-need subject and location. District leaders noted both approaches were important for recruiting more teachers of color.
@@ -35,6 +35,13 @@ The report describes GYO programs that "recruit local community members into tea
 
 ### Target Learning Goals
 - Full teaching credentials; retention in high-need subjects and schools; a more diverse teacher workforce
+
+## Claims
+
+- [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](../claims/alder-graduates-higher-retention-other-pathways.md) [+W]
+- [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](../claims/csub-residencies-diversify-teacher-workforce.md) [+W]
+- [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](../claims/uh-residency-completers-retention-above-state-average.md) [+W]
+- [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](../claims/district-pipeline-partnerships-residency-gyo.md) [+W]
 
 ## Related Strategies
 

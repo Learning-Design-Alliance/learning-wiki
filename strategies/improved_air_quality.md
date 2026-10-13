@@ -12,7 +12,7 @@ generated:
 # Improved Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Improved air quality is a physical-environment strategy that addresses ventilation rate, filtration, and pollutant source control in classrooms and other learning spaces. Poor indoor air quality is a major contributor to absenteeism, particularly for students with asthma, and is associated with "sick building syndrome" symptoms that depress attendance and performance for all occupants. Because bacteria, viruses, and allergens that contribute to childhood illness accumulate in poorly ventilated schools, air quality management functions as a precondition for learning rather than an instructional technique itself.
@@ -55,6 +55,10 @@ Classroom ventilation and air quality operate upstream of instruction: elevated 
 3. **Control sources.** Remediate mold and moisture, enforce idling restrictions near air intakes, schedule cleaning with low-emission products.
 4. **Maintain and monitor.** Establish a filter-replacement and inspection schedule; re-check CO₂ seasonally.
 5. **Integrate with health supports.** Coordinate with school health staff so students with asthma benefit from both improved air and individualized management plans.
+
+## Claims
+
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](../claims/poor-iaq-harms-student-health-and-learning.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the other major physical-environment factor; both operate by removing physiological interference with attention

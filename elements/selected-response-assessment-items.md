@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (1 for, 9 mixed, 1 against) · 8 studies (4 associational, 1 causal, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 1 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (1 for, 11 mixed, 1 against) · 11 studies (4 associational, 3 design, 2 causal, 1 review, 1 qualitative), `q1`–`q3` · 1 of 11 report an effect size · 12 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -71,6 +71,8 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](../claims/llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) [~W]
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](../claims/llm-lessons-time-saving-scenario-drafting.md) [~W]
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](../claims/distractor-distribution-does-not-differ-across-sources.md) [~W]
+- [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](../claims/lo-alignment-judgment-more-subjective-than-answering.md) [~M]
+- [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](../claims/mcq-accuracy-no-significant-condition-difference.md) [~W]
 
 ## Related Elements
 

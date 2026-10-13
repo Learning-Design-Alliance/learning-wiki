@@ -17,7 +17,7 @@ sources:
 # Invest in supportive-community strategies—mental health staffing, SEL, restorative practices, and relationship-centered structures—rather than expanded physical security
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends that states and districts use Bipartisan Safer Communities Act and federal COVID-19 recovery funds to "increase student access to mental health and counseling resources," adopt restorative practices and SEL, and adopt "structures and practices that foster strong relationships" such as advisories, small learning communities, looping, and school–family connection time. It further recommends preparing all school staff to support student well-being, incorporating safety and well-being measures into federal data collection, and conducting equity reviews of safety measures' discipline impacts. These recommendations follow directly from the report's finding that security-focused strategies lack evidence while supportive-community strategies show consistent benefits.
@@ -38,6 +38,11 @@ The report recommends that states and districts use Bipartisan Safer Communities
 - School safety and feelings of safety
 - Student mental health and well-being
 - Positive school climate and engagement
+
+## Claims
+
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](../claims/school-mental-health-supports-benefits-and-shortages.md) [~W]
+- [Only about half of students in the two studied districts reported feeling safer in school when police are present, and many preferred confiding in a non-security adult](../claims/only-half-students-feel-safer-with-police-present.md) [+W]
 
 ## Related Strategies
 

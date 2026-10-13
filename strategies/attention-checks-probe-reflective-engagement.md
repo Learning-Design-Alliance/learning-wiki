@@ -17,7 +17,7 @@ sources:
 # Use injected attention checks as behavioral probes of reflective engagement with AI suggestions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends injecting a controlled number of deliberately misleading suggestions, semantically inconsistent with the student's immediate coding goal, to detect whether students critically evaluate AI code suggestions rather than defaulting to fast thinking. Accepting an attention-check suggestion counts as a fail; rejecting it counts as a pass. The authors suggest future work could shift attention checks "from a passive metric toward a feedback mechanism" with real-time or summative feedback.
@@ -37,6 +37,10 @@ The article recommends injecting a controlled number of deliberately misleading 
 
 ### Target Learning Goals
 - Critical evaluation and reflective engagement with AI-generated code suggestions
+
+## Claims
+
+- [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](../claims/overreliance-frequent-underreliance-rare.md) [+W]
 
 ## Related Strategies
 - 

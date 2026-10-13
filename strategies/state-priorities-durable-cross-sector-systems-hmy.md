@@ -17,7 +17,7 @@ sources:
 # State priorities for designing durable cross-sector systems supporting highly mobile youth
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 From the two state cases, the report distills priorities for state leaders: "Align state-level policy while allowing local flexibility. Formalize cross-agency collaboration. Strengthen data and terminology foundations. Build trust in systems. Elevate youth voice in decision-making. Strengthen protections for youth classified as migrant and for youth involved with the justice system." These strategies are presented as a set that can help states design durable systems responding to the full spectrum of mobility-related challenges facing highly mobile youth.
@@ -39,6 +39,11 @@ From the two state cases, the report distills priorities for state leaders: "Ali
 
 ### Affordances
 - Cross Sector Collaboration Framework Hmy
+
+## Claims
+
+- [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](../claims/terminology-and-data-sharing-barriers-hmy.md) [+W]
+- [In both Colorado and Washington, youth in foster care and youth experiencing homelessness are consistently prioritized in policy and practice, while migrant and justice-involved youth remain less reliably supported](../claims/hmy-foster-homeless-prioritized-migrant-justice-overlooked.md) [~W]
 
 ## Related Strategies
 - 

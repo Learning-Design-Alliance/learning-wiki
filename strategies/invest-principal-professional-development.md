@@ -17,7 +17,7 @@ sources:
 # Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that states and districts form partnerships with universities, including HBCUs or nonprofits, to provide professional development for current leaders, aligned to the Professional Standards for Educational Leaders. It calls for allocating funding, including "up to 5% of their Title II, Part A funds for leader development," and tapping COVID-19 relief funds. Programs intentionally designed for underserved students can deepen principals' understanding of structural racism.
@@ -38,6 +38,10 @@ The brief recommends that states and districts form partnerships with universiti
 ### Target Learning Goals
 - Building principals' capacity to lead and manage schools effectively
 - Deepening understanding of structural racism and barriers students face
+
+## Claims
+
+- [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](../claims/principal-pd-obstacles-time-coverage-funds.md) [+W]
 
 ## Related Strategies
 

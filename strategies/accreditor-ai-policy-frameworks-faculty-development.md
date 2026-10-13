@@ -17,7 +17,7 @@ sources:
 # Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that, given substantial variation in policy structure and content, "accrediting bodies and professional organizations can help reduce variability by providing AI policy frameworks that integrate best practices in academic integrity, data ethics, and equitable access." It further recommends that programs "monitor regional policy trends and invest in faculty development to support AI-enabled graduates," and that standardizing and contextualizing institutional AI policies would help programs operationalize frameworks addressing HI/HIM-specific requirements.
@@ -41,6 +41,11 @@ The article recommends that, given substantial variation in policy structure and
 
 ### Affordances
 - Three Domains Academic Ai Policy Curriculum Governance
+
+## Claims
+
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](../claims/equitable-access-themes-limited-ai-policies.md) [+W]
+- [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](../claims/integrity-dominates-regulatory-terms-rare.md) [+W]
 
 ## Related Strategies
 

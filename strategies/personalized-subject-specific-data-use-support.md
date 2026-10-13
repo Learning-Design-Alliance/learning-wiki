@@ -17,7 +17,7 @@ sources:
 # Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on the finding that data use depends on both teacher characteristics and school factors, the authors recommend "personalized support, tailored to teacher characteristics and addressing subject -specific differences". Schools could develop subject-specific professional development programs focused on using digital data in teaching, aligned with teachers' individual needs, incorporating case studies or practical examples of learning analytics tools. They also recommend fostering a culture of collaboration — mentoring or data sharing workshops — and strong leadership support including professional development opportunities and clear goals for digital data integration.
@@ -38,6 +38,11 @@ Based on the finding that data use depends on both teacher characteristics and s
 
 ### Affordances
 - [Will Skill Tool Model Digital Data Use](../theories/will-skill-tool-model-digital-data-use.md)
+
+## Claims
+
+- [Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use](../claims/subject-differences-digital-data-use.md) [+W]
+- [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](../claims/pr-teachers-dissatisfied-pd-want-tailored-workshops.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Use centralized enrollment, controlled choice, and transparency systems to ensure equitable access and integration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends concrete management mechanisms for choice systems: centralized enrollment systems that balance race, ethnicity, economic background, achievement, and disability status (as in NYC's algorithm-matched high school choice); controlled choice plans that permit transfers only if they do not disrupt racial or socioeconomic balance (Cambridge, Boston); and transparency about admission processes, enrollment patterns, outcomes, finances, and school quality reviews. These mechanisms counter the tendency of open markets to favor already-advantaged families.
@@ -35,6 +35,10 @@ The report recommends concrete management mechanisms for choice systems: central
 
 ### Target Learning Goals
 - Equitable access to high-quality schools and integrated learning environments
+
+## Claims
+
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](../claims/gocps-no-major-enrollment-changes.md) [-W]
 
 ## Related Strategies
 

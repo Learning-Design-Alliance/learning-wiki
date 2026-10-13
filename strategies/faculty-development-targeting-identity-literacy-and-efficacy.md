@@ -17,7 +17,7 @@ sources:
 # Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's practical implication is that faculty development and AI integration efforts in higher education should not target AI-related knowledge alone but also the psychological factors the study found associated with innovation behavior. The authors state the study "highlights the roles of professional identity, AI literacy, and teaching self-efficacy in promoting innovative teaching and offers practical implications for faculty development and AI integration in higher education." Because PI and AIL partially mediated competence effects, development programs that build identity and literacy may support the translation of knowledge into innovative practice.
@@ -38,6 +38,11 @@ The article's practical implication is that faculty development and AI integrati
 
 ### Affordances
 - [Ai Tpack Seven Domain Competence Framework](../theories/tpack.md)
+
+## Claims
+
+- [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](../claims/model-explains-variance-in-ai-teaching-innovation-behavior.md) [~W]
+- [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](../claims/ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) [~W]
 
 ## Related Strategies
 

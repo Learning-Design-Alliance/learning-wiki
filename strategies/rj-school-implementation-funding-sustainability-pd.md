@@ -15,7 +15,7 @@ sources:
 # Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review distills implementation guidance from the literature and practitioner interviews. Districts can fund RJ through grants or reallocated funds (e.g., a Detroit district used Title I funding to hire a full-time coordinator), and sustainability is supported by integrating RJ school- and district-wide rather than as an add-on. The review states that "A critical driver to long-term sustainability is a district's ability to integrate the RJ approach into its formal policy and procedures," alongside continued staff training and multi-stakeholder policymaking. It also points practitioners to published implementation guides and toolkits.
@@ -33,6 +33,10 @@ The review distills implementation guidance from the literature and practitioner
 
 ### Target Learning Goals
 - Reducing exclusionary discipline while holding students accountable and repairing relationships
+
+## Claims
+
+- [Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research](../claims/weak-implementation-before-research-funding.md) [+W]
 
 ## Related Strategies
 

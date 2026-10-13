@@ -17,7 +17,7 @@ sources:
 # Use national rural-school achievement and growth analyses to help educators and policymakers understand and support rural schools' potential needs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief positions large-scale rural achievement analysis as an input for decision-making. It states the research gives "educators and policymakers" insight "so educators and policymakers can better understand and support the potential needs of rural schools." The strategy is to examine rural math and reading achievement data before allocating support.
@@ -36,6 +36,10 @@ The brief positions large-scale rural achievement analysis as an input for decis
 ### Target Learning Goals
 - Math achievement
 - Reading achievement
+
+## Claims
+
+- [Rural students' math and reading achievement can be characterized nationally using data from over 2,300 rural schools](../claims/rural-schools-achievement-growth-national-analysis.md) [+W]
 
 ## Related Strategies
 - 

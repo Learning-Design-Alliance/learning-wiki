@@ -17,7 +17,7 @@ sources:
 # Use school-level recovery patterns to target support and long-term improvement investments where they are needed most
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief positions analysis of diverging recovery patterns as a decision aid for education leaders. By understanding which schools experienced larger initial achievement declines and which show slower post-pandemic gains, leaders can direct resources where recovery is lagging. The description states the brief "offers insights to policy makers and leaders where to invest for long-term improvement and targeting support where it is needed most."
@@ -35,6 +35,11 @@ The brief positions analysis of diverging recovery patterns as a decision aid fo
 
 ### Target Learning Goals
 - Restoring average academic achievement to pre-pandemic levels
+
+## Claims
+
+- [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](../claims/post-covid-recovery-diverges-across-schools.md) [+W]
+- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](../claims/two-components-post-covid-school-recovery-patterns.md) [+W]
 
 ## Related Strategies
 

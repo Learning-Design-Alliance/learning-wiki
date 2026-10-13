@@ -17,7 +17,7 @@ sources:
 # Target prospective teachers in childhood and early childhood education to earn special education certificates at first certification, and consider incentives redirecting teachers from administration toward shortage areas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that NYSED and preparation programs communicate with prospective teachers about typical career trajectories and "encourage them to apply for related available certificates at the time of their first certification rather than seeking additional certificates only after a few years in the classroom." It also suggests financial incentives could redirect teachers who pursue administration certificates, possibly for compensation gains, toward shortage certification areas, and that policymakers explicitly target and incentivize teachers not baseline certified in shortage areas.
@@ -36,6 +36,10 @@ The report recommends that NYSED and preparation programs communicate with prosp
 
 ### Target Learning Goals
 - earning additional certificates in shortage subject areas such as special education
+
+## Claims
+
+- [More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)](../claims/shortage-areas-dominate-additional-certification-special-education-most-common.md) [~W]
 
 ## Related Strategies
 

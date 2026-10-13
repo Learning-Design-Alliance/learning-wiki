@@ -17,7 +17,7 @@ sources:
 # Disaggregate all higher education data by race and income to reveal which student groups have which opportunities and outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that a reauthorized Higher Education Act require disaggregation "by race and income all IPEDS and NSLDS data on critical measures of student success, like enrollment, persistence, retention, transfer, and completion, as well as post-enrollment outcomes." It argues current data cannot show how different student groups experience higher education, limiting targeting of incentives and interventions. It also recommends overturning the ban on a student unit record system.
@@ -38,6 +38,10 @@ The report recommends that a reauthorized Higher Education Act require disaggreg
 - college access
 - degree attainment
 - post-enrollment outcomes
+
+## Claims
+
+- [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](../claims/cps-immediate-college-enrollment-rose-to-63-percent-2018.md) [+W]
 
 ## Related Strategies
 

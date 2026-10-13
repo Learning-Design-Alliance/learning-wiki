@@ -17,7 +17,7 @@ sources:
 # Develop gender-specific well-being strategies, especially literacy support for male students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's Notes for Practice recommend that "Future research should explore gender-specific strategies, addressing unique socio-emotional needs to improve educational outcomes, especially in literacy for male students." This strategy follows from the gender-stratified finding that the WEC index, particularly the emotional well-being component, showed more pronounced associations with literacy outcomes for males and a complete loss of meaningful effects for females on NAPLAN reading, spelling, and grammar. It directs educators and researchers toward tailoring socio-emotional support by gender.
@@ -35,6 +35,10 @@ The article's Notes for Practice recommend that "Future research should explore 
 
 ### Target Learning Goals
 - Improving literacy outcomes by addressing socio-emotional needs specific to gender
+
+## Claims
+
+- [Female students reported lower challenge emotions than male students after controlling for other variables](../claims/female-lower-challenge-emotions-genai.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The whitepaper's third recommendation area treats well-prepared educators as "the most important part of an early learning program" and proposes four steps: improving compensation via CCDBG reimbursement at the true cost of care, QRIS salary standards up to parity with public school teachers, and Head Start pay parity; service scholarships underwriting higher education for educators who commit to subsidized programs for 2-4 years; grants to institutions of higher education for ECE preparation programs with practice-based learning and flexible scheduling; and job-embedded coaching for all providers. It notes Head Start teachers currently earn an average of $33,000 a year compared to $57,000 for elementary school teachers.
@@ -39,6 +39,11 @@ The whitepaper's third recommendation area treats well-prepared educators as "th
 - educator qualifications and credentials in ECE
 - improved child-teacher interactions
 - teacher retention
+
+## Claims
+
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](../claims/new-jersey-abbott-p3-credential-scale-up.md) [+W]
+- [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](../claims/pay-parity-policies-nonlea-teachers.md) [+W]
 
 ## Related Strategies
 

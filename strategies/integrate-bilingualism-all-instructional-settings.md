@@ -17,7 +17,7 @@ sources:
 # Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This recommendation directs education leaders to promote the use of primary languages in instructional settings beyond formal bilingual programs, "through districtwide professional learning and in-service coaching." It rests on the report's finding that instructional coaches already employed by most LEAs can help all teachers integrate home language and English language development into their practice. A foundational step the report describes is making space for the bilingualism students already have as an asset for learning and sense-making, even if universal bilingualism is not the initial goal.
@@ -35,6 +35,11 @@ This recommendation directs education leaders to promote the use of primary lang
 
 ### Target Learning Goals
 - Home language use in academic instruction and English language development
+
+## Claims
+
+- [Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts](../claims/sv-leas-employ-coaches-and-coordinators-for-el-programs.md) [~W]
+- [Silicon Valley LEAs typically do not integrate home languages into instruction outside formal bilingual programs, though 43 percent of surveyed staff report offering bilingual programs](../claims/sv-leas-minimal-home-language-integration-outside-bilingual-programs.md) [-W]
 
 ## Related Strategies
 

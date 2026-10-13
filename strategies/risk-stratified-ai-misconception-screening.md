@@ -17,7 +17,7 @@ sources:
 # Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's implications-for-practice section recommends "risk-stratified deployment rather than uniform automation". Question authors should check at design time whether known errors yield the correct answer for chosen values and revise the values if so. Because even the best model produces roughly 4.3 false alarms per genuine detection, the authors suggest follow-up questions probing understanding and note that "providing mark-scheme-style reference reasoning to frontier models can improve TM detection", pairing AI screening with structured references for safer deployment.
@@ -39,6 +39,10 @@ The paper's implications-for-practice section recommends "risk-stratified deploy
 
 ### Affordances
 - Correct Answer Trap Coincidental Correctness
+
+## Claims
+
+- [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](../claims/cat-failures-concentrate-in-two-question-types.md) [~W]
 
 ## Related Strategies
 - 

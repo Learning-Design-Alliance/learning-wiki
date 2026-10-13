@@ -33,7 +33,7 @@ sources:
 # Data-Based Decision-Making for Core Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Data-based decision-making (DBDM) for core instruction is the systematic cycle of collecting student performance data during whole-class (Tier 1) teaching, analyzing it against learning goals, and using the results to adjust instruction — re-teaching, regrouping, changing representations, or accelerating. It treats core instruction itself as an object of continuous improvement rather than assuming that only intervention tiers need data.
@@ -77,6 +77,10 @@ DBDM operationalizes [Assessment for Learning](../principles/assessment-for-lear
 3. Analyze results against the decision rule — ideally with a team using a structured protocol ([Check-In](../elements/check-in.md) routines can structure the meeting).
 4. Act: re-teach with a different representation, regroup for targeted practice ([Practice](../elements/practice.md)), or accelerate if the criterion is met.
 5. Re-measure after the adjustment and evaluate whether the change worked; feed results into the next cycle ([Coaching](../elements/coaching.md) supports fidelity of this step).
+
+## Claims
+
+- [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](../claims/math-teachers-data-use-attitudes-self-efficacy.md) [~W]
 
 ## Related Strategies
 

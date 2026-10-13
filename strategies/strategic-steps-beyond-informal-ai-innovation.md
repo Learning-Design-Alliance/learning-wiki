@@ -17,7 +17,7 @@ sources:
 # Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article enumerates five implementable institutional actions: "Recognise AI-driven curriculum redesign in workload models so innovation is not dependent on unrecognised effort by individual educators"; embed AI-enabled teaching innovation in promotion and teaching award criteria; establish clear institutional principles for AI use in learning and assessment; redesign assessment toward reasoning and justification in AI-rich environments rather than merely tolerating AI; and create institutional pilots or funded initiatives that scale successful teaching innovations beyond individual courses.
@@ -35,6 +35,11 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 
 ### Target Learning Goals
 - institutional capacity for AI-enabled curriculum and assessment transformation
+
+## Claims
+
+- [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](../claims/implementation-depends-on-individual-initiative-not-systems.md) [+W]
+- [Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)](../claims/institutional-strategic-orientation-pagerank-most-influential.md) [~W]
 
 ## Related Strategies
 

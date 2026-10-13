@@ -17,7 +17,7 @@ sources:
 # Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 In response to the survey finding that student project ideas and guides were the highest-ranked need, Digital Promise and Maker Ed committed to launching an effort to "curate and connect available open education resources for making, and to make these resources easier to implement by re-formatting, combining, linking to standards or content goals, and publishing." This strategy targets the resource gap most immediately valued by maker champions across nearly all job categories.
@@ -35,6 +35,11 @@ In response to the survey finding that student project ideas and guides were the
 
 ### Target Learning Goals
 - Student making projects integrated with standards or content goals
+
+## Claims
+
+- [Maker champions rank student project ideas and guides as the most needed resource, with online professional development least desired](../claims/maker-champions-project-guides-highest-need.md) [+W]
+- [Student project ideas and guides remain the biggest identified resource need, while demand for professional development decreased](../claims/maker-resource-needs-project-guides-pd-decline.md) [+W]
 
 ## Related Strategies
 

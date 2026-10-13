@@ -17,7 +17,7 @@ sources:
 # Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Classified School Employee Teacher Credentialing Program addresses teacher shortages by supporting credentialing of classified staff. The recommended strategy lets 'interested district classified staff, such as paraprofessionals, bus drivers, tutors, and custodial staff' earn teaching credentials while continuing to serve their district as teachers. Beyond grant funding, the brief advises providing 'individualized non-financial support (e.g., test preparation, mentoring, cohort models),' sharing information on participants' supports with program managers and IHE liaisons for stronger strategic planning, and connecting with the California Commission on Teacher Credentialing's efforts to address inequitable barriers to passing licensure exams.
@@ -35,6 +35,10 @@ The Classified School Employee Teacher Credentialing Program addresses teacher s
 
 ### Target Learning Goals
 - Earning teaching credentials and transitioning to classroom teaching roles within the district
+
+## Claims
+
+- [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](../claims/licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) [+W]
 
 ## Related Strategies
 

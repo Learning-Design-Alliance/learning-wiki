@@ -17,7 +17,7 @@ sources:
 # Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 review, 1 associational, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends that Arab universities integrate AI tools into EL2 instruction in a scaffolded way, pairing AI use with teacher training and reflective tasks so that learners critically engage with AI output rather than depend on it. It states the paper "recommends scaffolded integration, teacher training, reflective tasks to reduce over-reliance on AI tools." Across the reviewed studies, researchers advocated integrating AI while simultaneously developing learners' critical thinking, ethical awareness, and responsible AI-use practices.
@@ -37,6 +37,12 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 ### Target Learning Goals
 - English writing, vocabulary, grammar, and speaking skills
 - critical and ethical engagement with AI-generated content
+
+## Claims
+
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](../claims/genai-accuracy-overreliance-challenges-hss.md) [~W]
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
+- [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](../claims/under-10-percent-arab-he-formal-ai-training.md) [+W]
 
 ## Related Strategies
 

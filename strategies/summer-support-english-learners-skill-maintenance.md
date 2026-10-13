@@ -17,7 +17,7 @@ sources:
 # Provide summer support to help English Learners maintain and develop academic skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 unmarked) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's forward-looking recommendation drawn from its seasonal findings: because ELs lost more than never-ELs during summers in both math and reading, the authors conclude that "summer support is required to help ELs maintain and develop academic skills." This targets summer periods specifically, when the achievement gap relative to never-ELs widens.
@@ -35,6 +35,10 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 
 ### Target Learning Goals
 - Maintaining and developing academic skills in math and reading across summer breaks
+
+## Claims
+
+- [ELs lost more academic skill during summers than never-ELs in both math and reading](../claims/el-greater-summer-loss-both-subjects.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Invest in prevention before disconnected youth enter the criminal justice system, and fund job growth, improved high school and community college programs, and social programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends shifting spending toward prevention, arguing that current programs are small-scale, rehabilitative, and under-funded relative to the losses calculated. It states that "investments before dropouts disconnected youth become involved in the criminal justice system are much more efficient than training programs for ex-offenders." It proposes policies to promote job growth, improve high school and community college programs, and fund social programs for prevention and rehabilitation, funded at both federal and state/local levels.
@@ -38,6 +38,12 @@ The report recommends shifting spending toward prevention, arguing that current 
 - High school completion
 - Transition to work or postsecondary education
 - Economic independence
+
+## Claims
+
+- [Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments](../claims/arizona-graduate-earnings-gap-271040.md) [+W]
+- [The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years](../claims/disconnected-youth-future-loss-threefold.md) [+W]
+- [The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort](../claims/arizona-dropout-fiscal-loss-135730.md) [+W]
 
 ## Related Strategies
 - 

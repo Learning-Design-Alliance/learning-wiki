@@ -17,7 +17,7 @@ sources:
 # Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that nursing curricula address specific educational needs rather than general technology use. Because students mainly used AI for clinical case analysis, care planning and presentations, the authors state nursing curricula "should specifically include: (1) AI-supported case discussions and (2) structured, evidence-based clinical learning activities". Educational programs should also teach effective prompt construction, verification of AI-generated outputs, and identification of inaccurate information, with training tailored separately to students and faculty.
@@ -38,6 +38,10 @@ The article recommends that nursing curricula address specific educational needs
 ### Target Learning Goals
 - critical evaluation of AI in clinical settings
 - responsible and effective AI use
+
+## Claims
+
+- [Cluster analysis of instructors identifies three user groups that differ in several AI literacy dimensions, with the ethics scale providing a clear distinction](../claims/three-instructor-user-groups-ethics-distinction.md) [+W]
 
 ## Related Strategies
 

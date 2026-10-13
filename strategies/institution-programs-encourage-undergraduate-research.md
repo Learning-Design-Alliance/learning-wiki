@@ -17,7 +17,7 @@ sources:
 # Institutions and undergraduate programs can use motivation profiles to encourage student participation in research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors draw implications for "institutions and undergraduate programs desiring to encourage students to participate in undergraduate research", based on their finding that disciplinary identity reflects internal motivators such as intellectual interest and grit. Programs seeking to grow undergraduate research participation can attend to these motivational and demographic differences among students when designing recruitment and support.
@@ -36,6 +36,11 @@ The authors draw implications for "institutions and undergraduate programs desir
 ### Target Learning Goals
 - participation in undergraduate research
 - disciplinary identity development
+
+## Claims
+
+- [Undergraduate researchers' disciplinary identity differs by demographic characteristics](../claims/disciplinary-identity-differs-by-demographics.md) [+W]
+- [Disciplinary identity among undergraduate researchers varies by student discipline](../claims/disciplinary-identity-varies-by-student-discipline.md) [+W]
 
 ## Related Strategies
 - 

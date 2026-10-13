@@ -17,7 +17,7 @@ sources:
 # Provide freedom-based education and settings to strengthen epistemic freedom and reduce epistemic violence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that learners be offered education that promotes epistemic freedom rather than authority-based conventions. They argue "individuals should be provided with a freedom-based education and setting", that youth as future adults should be offered epistemic freedom opportunities in their educational lives, and that "the most important effort to make is the implementation of constructive approach in the framework of ontological, epistemological, and axiological assumptions", supported by policy-media-college-school-family-learner collaborations.
@@ -41,6 +41,10 @@ The authors recommend that learners be offered education that promotes epistemic
 
 ### Affordances
 - [Epistemic Freedom Violence Framework](../theories/epistemic-freedom-violence-framework.md)
+
+## Claims
+
+- [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](../claims/adults-past-freedom-moderate-high-tendency-high.md) [+W]
 
 ## Related Strategies
 - 

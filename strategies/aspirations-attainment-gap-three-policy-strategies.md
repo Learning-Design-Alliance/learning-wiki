@@ -17,7 +17,7 @@ sources:
 # District, state, and federal strategies to close the aspirations-attainment gap: linked K-16 data systems, educator capacity for college advising, and strong signals about college requirements
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report concludes with three strategies for policymakers to help close the gap between students' college aspirations and their attainment. First, efforts to increase college attainment rest on data systems that link high school to college outcomes, enabling accountability and tracking over time. Second, improving college readiness and access requires supporting and building the capacity of high school educators to provide students the skills and guidance they need. Third, governments must "develop policies that send strong signals and provide incentives to students and schools about what is required to gain access to and succeed in college."
@@ -35,6 +35,10 @@ The report concludes with three strategies for policymakers to help close the ga
 
 ### Target Learning Goals
 - college access, application, enrollment, and degree attainment
+
+## Claims
+
+- [Low ACT scores and confusion about financial aid led a hardworking, college-aspiring student to decide not to attend college at all](../claims/act-scores-and-aid-confusion-deter-enrollment.md) [+W]
 
 ## Related Strategies
 

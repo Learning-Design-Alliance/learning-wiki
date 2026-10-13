@@ -17,7 +17,7 @@ sources:
 # Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends ongoing, collaborative, subject-specific professional learning rather than one-off tool trainings, noting that using AI to support ELA instruction differs from math instruction. It cites forthcoming SETDA research that "ongoing, collaborative learning models, rather than isolated workshops, better support teachers as they integrate AI-enabled tools into their evolving instructional practices." It also calls for structured student AI literacy pathways connecting PK16 instruction to college and career readiness.
@@ -37,6 +37,10 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 
 ### Target Learning Goals
 - AI literacy: the knowledge and skills to critically understand, evaluate, and use AI systems safely and ethically
+
+## Claims
+
+- [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](../claims/pr-teachers-dissatisfied-pd-want-tailored-workshops.md) [+W]
 
 ## Related Strategies
 

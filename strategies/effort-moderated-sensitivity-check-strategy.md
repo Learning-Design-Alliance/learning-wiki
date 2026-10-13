@@ -17,7 +17,7 @@ sources:
 # Evaluators should re-estimate IRT scores treating rapid guesses as missing and compare with unadjusted results
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For evaluators with appropriate computer-based test metadata, the paper recommends a sensitivity workflow: set response-time thresholds, then apply "the most defensible and conservative approach is to re-estimate IRT-based scores treating rapid guessing as missing, use those scores in models, and compare results." Motivation filtering can serve as a quicker check, moving to effort-moderated scoring if results are sensitive. The paper also suggests a rough check of the proportion of items with response times under ten seconds, clustered by student, treatment condition, and subgroup.
@@ -40,6 +40,10 @@ For evaluators with appropriate computer-based test metadata, the paper recommen
 
 ### Affordances
 - [Rapid Guessing Response Time Threshold Framework](../research-methods/rapid-guessing-detection-using-item-response-time-thresholds.md)
+
+## Claims
+
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](../claims/filtering-reverses-black-white-growth-gap.md) [+W]
 
 ## Related Strategies
 

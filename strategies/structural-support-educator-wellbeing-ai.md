@@ -17,7 +17,7 @@ sources:
 # Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's third recommendation treats the affective toll of AI-era grading as a structural rather than personal issue. It argues the documented toll of derealisation, grief, and burnout "cannot be resolved through professional development" and instead "requires clearer institutional policies, collective responsibility for academic integrity rather than individual enforcement, and recognition of the limits of detection-based approaches." This follows the finding that educators absorb emotional costs of upholding integrity amid AI misuse.
@@ -37,6 +37,10 @@ The article's third recommendation treats the affective toll of AI-era grading a
 ### Target Learning Goals
 - sustainable assessment practice
 - academic integrity governance
+
+## Claims
+
+- [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](../claims/misconduct-from-systemic-pressures-integrity-collective.md) [+W]
 
 ## Related Strategies
 

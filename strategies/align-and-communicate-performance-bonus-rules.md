@@ -17,7 +17,7 @@ sources:
 # Design pay-for-performance bonus structures that align with grant guidance and clearly communicate eligibility to teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The evaluation's implementation findings imply that districts adopting performance-based compensation should structure bonuses to align with program guidance and ensure teachers understand the rules. The report found that "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance" and that "Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn," so clear communication of eligibility and earning rules is the actionable lesson.
@@ -37,6 +37,10 @@ The evaluation's implementation findings imply that districts adopting performan
 ### Target Learning Goals
 - Educator performance improvement
 - Student math and reading achievement
+
+## Claims
+
+- [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](../claims/tif-educator-understanding-improved-but-incomplete.md) [+W]
 
 ## Related Strategies
 

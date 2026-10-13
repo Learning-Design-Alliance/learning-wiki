@@ -17,7 +17,7 @@ sources:
 # Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends retention programming that provides ongoing support and growth opportunities: "High-quality induction programs are associated with higher retention rates among early-career teachers for all teachers but particularly for teachers of color." Arizona and Kentucky invested ESSER funds in mentoring and/or induction programs for new teachers.
@@ -35,6 +35,10 @@ The brief recommends retention programming that provides ongoing support and gro
 
 ### Target Learning Goals
 - Improving retention of early-career teachers of color
+
+## Claims
+
+- [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](../claims/limited-mentoring-access-early-career-teachers-of-color.md) [+W]
 
 ## Related Strategies
 

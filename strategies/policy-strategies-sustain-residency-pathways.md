@@ -17,7 +17,7 @@ sources:
 # Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 associational, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends that California policymakers maintain funding for the Teacher Residency Grant Program beyond its 2026–27 expiration, renew or replace the Golden State Teacher Grant Program's $20,000 tuition support, support residencies in establishing apprenticeship funding streams under Department of Labor guidelines, and continue funding the SRTAC. Federal recommendations include expanding Teacher Quality Partnership grants, upgrading the TEACH Grant to cover full tuition costs, and covering teachers' monthly federal loan payments until their debt is retired.
@@ -39,6 +39,12 @@ The report recommends that California policymakers maintain funding for the Teac
 
 ### Affordances
 - [Teacher Residency Model Framework](../products/teacher-residency-model.md)
+
+## Claims
+
+- [Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.](../claims/fresno-wishon-residency-cohort-achievement-gains.md) [~W]
+- [The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents people of color](../claims/trgp-supported-residents-shortage-fields.md) [+W]
+- [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](../claims/programs-not-broadening-funding-sources.md) [~W]
 
 ## Related Strategies
 

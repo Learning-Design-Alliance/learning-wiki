@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (70 for, 19 mixed, 12 against) · 89 studies (34 causal, 17 review, 17 associational, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 89 report an effect size · 97 claims rest on one study
+> **Evidence** · 103 claims (71 for, 20 mixed, 12 against) · 91 studies (34 causal, 19 associational, 17 review, 8 quant-synthesis, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 20 of 91 report an effect size · 99 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -33,6 +33,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - Barely affects immediate post-test performance, which is exactly why massing looks good and is not.
 
 ## Claims
+
 - [Distributed practice improves retention](../claims/distributed-practice-improves-retention.md) [+S] — the core finding
 - [Spacing improves long term retention](../claims/spaced-practice-improves-retention.md) [+S] — the same effect stated over the interval that matters
 - [Interleaving improves learning](../claims/interleaving-improves-inductive-learning.md) [+M] — mixing problem types builds the discrimination that blocking hides
@@ -134,6 +135,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Performance incentives increase time invested in the assisted reasoning task](../claims/incentives-increase-stage1-completion-time.md) [+M] — instruction changes it
 - [Pilot students reported structural limitations of AI-SEE: AI-tool entry barriers, limited hands-on time, and partial disconnection between ethics instruction and routine engineering decisions](../claims/ai-see-reported-structural-limitations.md) [~M] — instruction changes it
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](../claims/self-explanation-time-on-task-cost.md) [+M] — instruction changes it
+- [As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent](../claims/family-circumstances-cumulative-absence-burden.md) [~W]
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](../claims/very-chronic-absence-up-strong-attendance-down.md) [+W]
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

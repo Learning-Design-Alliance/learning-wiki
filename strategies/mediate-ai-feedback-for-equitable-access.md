@@ -17,7 +17,7 @@ sources:
 # Mediate AI feedback for equity by adapting it to learner readiness, vocabulary, confidence, and bodily awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends making AI-assisted feedback usable across differences in training background, language resources, bodily awareness, confidence, and interpretive readiness. Feedback that is clear to an advanced learner may confuse a novice, and feedback assuming technical vocabulary or stable confidence may not function equally well across learners. Teachers operationalize this through teacher–student dialogue, contextualized evidence, adapted feedback, and filtered indicators, so that different learners can use feedback with appropriate mediation.
@@ -38,6 +38,10 @@ The article recommends making AI-assisted feedback usable across differences in 
 
 ### Affordances
 - Three Level Framework Ai Vocal Pedagogy
+
+## Claims
+
+- [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](../claims/vocal-metrics-lack-fixed-pedagogical-meaning.md) [~W]
 
 ## Related Strategies
 

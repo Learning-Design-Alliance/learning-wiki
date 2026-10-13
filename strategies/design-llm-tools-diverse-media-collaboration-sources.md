@@ -17,7 +17,7 @@ sources:
 # Design AI-powered informal learning tools that include diverse media types, enable collaboration, provide sources, and support different learner types
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors derive actionable design guidelines from their empirical findings on LLM use in everyday learning. They recommend that designers and implementers of AI-powered informal learning tools focus on "including different media types for learning, enabling collaborative learning, providing sources and meeting the needs of different types of learners and learning by design." These recommendations respond to the observed patterns: text-to-text modality dominance (97.3%), predominantly individual use (89%), and the existence of four distinct learner profiles with different needs. The guidelines aim to advance LLMs toward being "a universally accepted, usable, and efficient learning tool" for informal learning.
@@ -44,6 +44,10 @@ The authors derive actionable design guidelines from their empirical findings on
 - just-in-time problem-solving
 - conceptual understanding
 - practical skills learning
+
+## Claims
+
+- [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](../claims/llm-learning-predominantly-individual.md) [~W]
 
 ## Related Strategies
 - 

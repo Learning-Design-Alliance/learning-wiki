@@ -17,7 +17,7 @@ sources:
 # Leverage California state grant programs to fund TK-focused teacher residencies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief identifies more than $2.5 billion in recent California investments that can be leveraged to build a qualified TK workforce through residencies: the Teacher Residency Grant Program (to plan, establish, or expand TK or kindergarten residencies), the Early Education Teacher Development Grant Program, the Classified School Employee Teacher Credentialing Program and Educator Effectiveness Block Grant (supporting paraeducators toward elementary certification), and the Golden State Teacher Grant Program, which "provides up to $20,000 directly to candidates enrolled in a teacher preparation program."
@@ -35,6 +35,10 @@ The brief identifies more than $2.5 billion in recent California investments tha
 
 ### Target Learning Goals
 - Expanding the supply of credentialed teachers with early childhood expertise
+
+## Claims
+
+- [TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued](../claims/trgp-small-fraction-of-statewide-teacher-supply.md) [-W]
 
 ## Related Strategies
 

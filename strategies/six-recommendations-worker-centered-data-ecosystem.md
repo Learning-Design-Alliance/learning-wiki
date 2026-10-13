@@ -17,7 +17,7 @@ sources:
 # Six recommendations for moving toward a data-driven, worker-centered learning ecosystem
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's Next Steps section lists six actions to 'move toward a more data-driven, collaborative, worker-centered learning ecosystem': create awareness and demand among stakeholders; ensure equity and inclusion through access and awareness; create data sharing resources; advocate for data standards; advocate for policies and incentives; and spur the creation of technology systems that enable data sharing and interoperability. These follow from the identified legal, incentive, and technical challenges.
@@ -38,6 +38,10 @@ The report's Next Steps section lists six actions to 'move toward a more data-dr
 
 ### Affordances
 - Worker Centered Data Ecosystem Framework
+
+## Claims
+
+- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](../claims/frontline-ecosystem-siloed-data-flow.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's concluding recommendation is that digital competency must be built into teacher preparation from the start: "The competency component in digital transformation requires the preparation of educational staff, as early as possible from teacher-producing educational institutions." It further recommends improving education quality "by training teachers in selecting and using appropriate communication technology tools and adapting educational content and methods depending on the teaching medium." This responds to the survey's finding that virtualizing-process technology use scored lowest.
@@ -39,6 +39,10 @@ The article's concluding recommendation is that digital competency must be built
 - Digital transformation competency
 - Selecting and using communication technology tools
 - Adapting educational content and methods to the teaching medium
+
+## Claims
+
+- [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](../claims/digital-transformation-indicator-strengths-weaknesses.md) [~W]
 
 ## Related Strategies
 

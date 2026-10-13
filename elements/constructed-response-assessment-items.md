@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (3 for, 10 mixed, 2 against) · 13 studies (5 design, 3 associational, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 13 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (5 for, 11 mixed, 2 against) · 15 studies (6 design, 3 causal, 3 associational, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 15 report an effect size · 18 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -62,6 +62,9 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Newer LLM generations such as GPT-4 generally outperform GPT-3.5 in short-answer grading accuracy, but this advantage is not consistent across all tasks and domains](../claims/gpt4-advantage-uneven-across-tasks.md) [+W]
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [~W]
 - [AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)](../claims/ai-total-scores-align-with-ta-grades-chemistry-exam.md) [+W]
+- [The GED essay is scored holistically on a six-point scale by two independent readers](../claims/ged-essay-holistic-six-point-two-readers.md) [+W]
+- [Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margin used for rubric-source comparisons](../claims/human-inter-rater-disagreement-exceeds-margin.md) [+W]
+- [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](../claims/ai-grading-workflow-feasibility-cost.md) [~W]
 
 ## Related Elements
 

@@ -12,7 +12,7 @@ generated:
 # Equity Audits
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q3` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 An equity audit is a structured examination of a course, program, or learning environment to surface disparities in access, opportunity, representation, and outcomes across learner groups. It combines disaggregated outcome data (completion, grades, engagement by demographic group) with a review of design artifacts — examples used, images, language, assessment formats, participation structures — to locate where the design itself, rather than learner deficit, produces unequal results. Findings feed a concrete revision plan with measurable equity targets.
@@ -58,6 +58,10 @@ Equity audits shift the analytic frame from remediating learners to remediating 
 4. Interview or survey learners from affected groups about barriers they experience; treat their reports as design evidence.
 5. Prioritize two or three high-leverage revisions (e.g., replacing culturally narrow examples, adding structured [check-ins](../elements/check-in.md), diversifying assessment formats) rather than attempting everything at once.
 6. Implement revisions, then re-audit the following term against the same disaggregated metrics to verify the gap narrowed.
+
+## Claims
+
+- [Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal](../claims/data-standards-render-marginalized-students-invisible.md) [+W]
 
 ## Related Strategies
 

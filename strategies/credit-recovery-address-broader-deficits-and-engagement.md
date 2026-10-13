@@ -17,7 +17,7 @@ sources:
 # Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that interventions for students who fail Algebra I extend beyond algebra content knowledge. Because these students typically show incoming math and reading deficits, high absenteeism, suspensions, and failures in multiple subjects, the authors argue interventions "could likely be more successful if they address broader issues of student academic deficits and engagement in addition to specific shortcomings in algebra content knowledge." Credit recovery alone is unlikely to return most of these students to the graduation track.
@@ -35,6 +35,10 @@ The brief recommends that interventions for students who fail Algebra I extend b
 
 ### Target Learning Goals
 - Recovery of Algebra I credit and progress toward on-time high school graduation
+
+## Claims
+
+- [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](../claims/one-third-students-fail-learn-psychosocial-barriers.md) [+W]
 
 ## Related Strategies
 

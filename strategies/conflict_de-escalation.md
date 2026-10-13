@@ -12,7 +12,7 @@ generated:
 # Conflict De Escalation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (5 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 4 claims (4 for) · 7 studies (5 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Conflict de-escalation is the deliberate use of calm tone, active listening, validation, and lowered demands to reduce the emotional intensity of a confrontation before attempting to resolve it. In learning environments it is carried out by the instructor (or trained peers) through early recognition of escalation cues, non-threatening body language, and offering the agitated party choice and face-saving exits rather than ultimatums.
@@ -57,6 +57,10 @@ De-escalation protects the learning environment: heightened emotional arousal co
 4. **Reduce the audience** — move the conversation private or offer a cool-down break; avoid public ultimatums
 5. **Offer choices and a path forward** — two acceptable options restore a sense of control ("Would you rather take a walk or sit in the back room?")
 6. **Follow up later** — once calm, hold a restorative conversation to address causes and repair the relationship ([Coaching](../elements/coaching.md))
+
+## Claims
+
+- [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](../claims/ai-relational-buffer-eases-concession.md) [+W]
 
 ## Related Strategies
 

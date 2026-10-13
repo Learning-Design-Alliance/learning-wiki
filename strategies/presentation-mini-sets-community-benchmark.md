@@ -17,7 +17,7 @@ sources:
 # Create small controlled presentation mini-sets as a near-term community benchmark
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To address the corpus gap, the survey recommends "creating small, controlledpresentation mini-sets, consisting of 5–10 minute talks per speaker with slide markers, emphasis annotations, and diverse accent coverage, as a near-term community benchmark." Section 7 elaborates the target composition: 20–30 speakers from 5+ L1 backgrounds delivering technical talks with timestamped slide boundaries, phone-level transcriptions, and expert prosody ratings, enabling head-to-head system comparison and shared evaluation campaigns.
@@ -35,6 +35,10 @@ To address the corpus gap, the survey recommends "creating small, controlledpres
 
 ### Target Learning Goals
 - Enabling evaluation of coaching systems on all five presentation-skill dimensions
+
+## Claims
+
+- [No existing corpus simultaneously provides L2 speech, long-form presentation structure, accent labels, and prosodic annotations](../claims/no-corpus-satisfies-presentation-coaching-criteria.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a pipeline in which human codebook rubrics are converted into zero-shot prompts built on the PARTS framework (Persona, Aim, Recipients, Theme, Structure) and CLEAR criteria, with each variation incrementally adding guidance to a baseline zero-shot prompt. The authors write that "we translate deductive essay coding rubrics into zero -shot prompts with various levels of information", ending every prompt with an instruction to return 1 or 0 and no additional text. This design lets models be compared directly without exemplar-selection bias.
@@ -37,6 +37,10 @@ The article describes a pipeline in which human codebook rubrics are converted i
 ### Target Learning Goals
 - accurate automated coding of theory-based concepts in student essays
 - reduced instructor grading workload
+
+## Claims
+
+- [Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories](../claims/human-coding-added-five-codes-llm-missed.md) [~W]
 
 ## Related Strategies
 

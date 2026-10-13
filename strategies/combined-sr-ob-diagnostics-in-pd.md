@@ -16,7 +16,7 @@ sources:
 # Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Because SR and OB measures are weakly correlated and cannot be used interchangeably, the authors recommend embedding both validated instruments into AI literacy PD programs to monitor growth and detect calibration issues. The instruments "serve as diagnostic tools that can be embedded into AI literacy PD programs, both before and after training" to assess changes in perceived and demonstrated competencies. Insights can inform differentiated professional development or targeted scaffolding for subgroups of teachers showing overestimation, underestimation, or alignment.
@@ -36,6 +36,11 @@ Because SR and OB measures are weakly correlated and cannot be used interchangea
 
 ### Target Learning Goals
 - Accurate self-assessment and growth of AI literacy competencies across Concept, Use, Evaluate, and Ethics dimensions
+
+## Claims
+
+- [Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence](../claims/expanded-pool-composite-still-null.md) [+W]
+- [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](../claims/six-lpa-profiles-sr-ob-ai-literacy.md) [+W]
 
 ## Related Strategies
 

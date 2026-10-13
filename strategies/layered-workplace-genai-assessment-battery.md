@@ -17,7 +17,7 @@ sources:
 # Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes a four-layer workplace assessment keeping measurement targets separate: Layer 1 objective foundation (AICOS-S or GLAT), Layer 2 epistemic oversight (Critical Thinking in AI Use Scale plus a verification task), Layer 3 reliance behavior (GenAI Reliance Behaviors Scale, optionally S-TIAS), and Layer 4 a situated operational challenge reproducing role-specific decisions. "A non-compensatory rule can instead require evidence for each task-relevant requirement", so a knowledge score would not offset granting write access during a read-only task. Separate layer results can distinguish training needs, such as high perceived competence with weak demonstrated knowledge indicating foundation work.
@@ -38,6 +38,10 @@ The review proposes a four-layer workplace assessment keeping measurement target
 
 ### Affordances
 - Four Domain Genai Measurement Framework
+
+## Claims
+
+- [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](../claims/reliance-trust-dependency-separate-constructs.md) [+W]
 
 ## Related Strategies
 

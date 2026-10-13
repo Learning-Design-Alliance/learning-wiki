@@ -17,7 +17,7 @@ sources:
 # Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report positions apprenticeship as a viable training pathway beyond its traditional construction base: apprentices are employed during training, combine classroom instruction with mentored on-the-job training at the employer's worksite, and earn progressively higher wages. The authors state the findings "confirm the effectiveness of apprenticeship—particularly outside of traditional construction occupations—as a viable pathway to higher-quality jobs," and that DOL aims to expand apprenticeship to a range of nontraditional occupations through its grant programs.
@@ -35,6 +35,10 @@ The report positions apprenticeship as a viable training pathway beyond its trad
 
 ### Target Learning Goals
 - Occupational skill development and employment and earnings gains in nontraditional apprenticeship sectors
+
+## Claims
+
+- [Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported](../claims/employer-reluctance-no-mass-cancellations.md) [~W]
 
 ## Related Strategies
 

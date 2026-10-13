@@ -17,7 +17,7 @@ sources:
 # Co-designed recommendations for employers: equitable hiring practices, inclusive work culture, and continued upskilling support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Worker and learner participants co-designed recommendations for employers across awareness, training access, equitable recruitment and hiring, and career entry, advancement, and retention. Recommendations include creating "a welcoming, inclusive, trusting, and multicultural environment," implementing "nondiscriminatory and fair recruitment and hiring practices (e.g., decrease nepotism)," having "entry-level job opportunities without years of experience requirements," recognizing micro-credentials, and providing "stipends for continuous upskilling."
@@ -38,6 +38,11 @@ Worker and learner participants co-designed recommendations for employers across
 
 ### Affordances
 - [Scct Chat Tech Pathway Framework](../theories/cultural-historical-activity-theory.md)
+
+## Claims
+
+- [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](../claims/tech-hiring-process-barriers-ats-experience-mismatch.md) [+W]
+- [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](../claims/tech-training-cost-inflexibility-misalignment-barriers.md) [~W]
 
 ## Related Strategies
 

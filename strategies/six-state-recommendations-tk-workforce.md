@@ -17,7 +17,7 @@ sources:
 # Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends six steps for state policymakers: (1) clearly map out and communicate career pathways into TK and other ECE programs; (2) develop high-quality pathways tailored to experienced early educators, where "the state should therefore consider ways to evaluate and give credit for knowledge and skills candidates already have as they work toward a credential"; (3) provide grants to institutions of higher education for new preschool-to-3rd-grade credentialing programs; (4) set appropriate requirements for assistant TK teachers, such as 12 units of ECE coursework or the equivalent; (5) make new investments in the broader early educator workforce beyond TK, coupled with competitive wages; and (6) collect new data to monitor ECE workforce needs.
@@ -41,6 +41,10 @@ The report recommends six steps for state policymakers: (1) clearly map out and 
 - TK and ECE teacher preparation
 - credential completion
 - workforce retention and diversity
+
+## Claims
+
+- [Approximately four fifths of LEAs reported not having enough qualified staff to teach TK](../claims/tk-teacher-shortage-four-fifths.md) [+W]
 
 ## Related Strategies
 

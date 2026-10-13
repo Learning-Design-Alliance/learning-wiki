@@ -17,7 +17,7 @@ sources:
 # Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a set of concrete barrier-removal practices: flexible event scheduling with "translation services and childcare provided to make involvement more accessible for all families," virtual engagement and ridesharing when transportation limits arose, device issuance for every student, and supports such as a uniform closet and food pantry. These practices operationalize the family-partnership commitment of the TEAM Student model.
@@ -39,6 +39,10 @@ The article describes a set of concrete barrier-removal practices: flexible even
 
 ### Affordances
 - [Team Student Model](../products/team-student.md)
+
+## Claims
+
+- [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](../claims/identity-barriers-learning-while-parenting-language-credentials.md) [+W]
 
 ## Related Strategies
 

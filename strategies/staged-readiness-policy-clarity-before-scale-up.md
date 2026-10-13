@@ -17,7 +17,7 @@ sources:
 # Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that institutions sequence AI and online expansion so that governance and faculty development precede scale. It states the evidence "supports a staged readiness strategy that begins with policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up", with institution-wide AI policies addressing permitted uses, disclosure norms, assessment design principles, data privacy, intellectual property, accessibility, and due process. Professional learning should be redesigned around assessment transformation and epistemic evaluation.
@@ -38,6 +38,10 @@ The article recommends that institutions sequence AI and online expansion so tha
 
 ### Affordances
 - [Epiq Ai Readiness Framework](../products/epiq-ai-readiness-framework.md)
+
+## Claims
+
+- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](../claims/institutional-ai-governance-uneven.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends tailoring support to teacher profiles: "Cluster 3 requires structured templates and real-time assistance to overcome low self-efficacy; Cluster 2 benefits from pedagogical frameworks and exemplar repositories bridging capability gaps; Cluster 1 needs advanced documentation and open architectural affordances." It further recommends adaptive support systems using behavioral analytics to dynamically identify teacher profiles and deliver personalized resources, and progressive scaffold fading so teachers move from template replication through pragmatic application toward systemic innovation.
@@ -39,6 +39,11 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 
 ### Affordances
 - [Ai Tpack Four Dimension Framework Generative Ai](../theories/tpack.md)
+
+## Claims
+
+- [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](../claims/five-genai-usage-profiles-oop-course.md) [~W]
+- [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](../claims/three-archetypes-multi-agent-workflow-design.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Designers of Socratic AI tutors should attend to the prominence of meta-procedural requests when evaluating Socratic designs at scale
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's design implication is that the most consequential observation for Socratic AI tutor design is the prominence of Next Step Guidance and related meta-procedural categories: "a tutor explicitly designed not to direct students nevertheless elicits a discourse in which directing is the second-most-requested service." Designers and researchers should therefore quantify meta-procedural discourse when deploying Socratic tutors, using taxonomy-style analysis to make the phenomenon visible, and treat whether it reflects a design failure or a stable student equilibrium as an open empirical question.
@@ -35,6 +35,10 @@ The article's design implication is that the most consequential observation for 
 
 ### Target Learning Goals
 - maintaining student-driven reasoning and strategic problem-solving engagement with Socratic scaffolding
+
+## Claims
+
+- [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](../claims/meta-procedural-requests-socratic-ai-tutor.md) [+W]
 
 ## Related Strategies
 - 

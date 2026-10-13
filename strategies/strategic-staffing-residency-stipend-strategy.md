@@ -17,7 +17,7 @@ sources:
 # Strategic staffing models that redirect district instructional-support funds to subsidize paid residency stipends
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Strategic staffing "redirect district funds, typically for instructional support staff positions like substitute teachers or paraprofessionals, to subsidize residency stipends by having residents fulfill some of these responsibilities". US PREP provided technical assistance to help districts implement this as part of the TCLAS grant program, and Regional Education Service Centers continue to offer it. The report suggests this may make residency pathways more affordable to more candidates and shift pathway-choice market dynamics.
@@ -36,6 +36,10 @@ Strategic staffing "redirect district funds, typically for instructional support
 
 ### Target Learning Goals
 - Completion of a full-year clinical residency while attaining certification
+
+## Claims
+
+- [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](../claims/strategic-staffing-insufficient-rural-districts.md) [~W]
 
 ## Related Strategies
 

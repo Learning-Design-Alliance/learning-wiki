@@ -17,7 +17,7 @@ sources:
 # Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report's policy implications section recommends four levers for policymakers: "Provide Greater Access to Comprehensive Preparation", "Improve Teaching Conditions", "Increase Teacher Compensation", and improve access to mentoring and induction. Concrete mechanisms include underwriting preparation cost "through service scholarship and loan forgiveness programs as well as supporting high-quality teacher residencies and apprenticeships", equitable school funding formulas, working conditions surveys, salary increases, refundable tax credits, housing subsidies, and strong induction programs for early-career teachers of color.
@@ -38,6 +38,11 @@ The report's policy implications section recommends four levers for policymakers
 - Teacher retention
 - Access to comprehensive preservice preparation
 - Supportive teaching conditions and mentoring
+
+## Claims
+
+- [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](../claims/limited-mentoring-access-early-career-teachers-of-color.md) [+W]
+- [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](../claims/underprepared-teachers-attrition-two-to-three-times.md) [+W]
 
 ## Related Strategies
 

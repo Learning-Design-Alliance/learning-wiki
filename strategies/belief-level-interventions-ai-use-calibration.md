@@ -17,7 +17,7 @@ sources:
 # Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the article found that experience with AI does not correct miscalibration but entrenches it, it recommends targeting people's beliefs about AI's efficiency gains. The authors state that "interventions at the belief level, instead of mere exposure or surface-level nudges, might be needed to encourage people to think independently to promote healthier and more efficient AI use." The rationale is that without awareness of the miscalibration there is no incentive to change behavior, so correcting skewed mental models is a promising intervention point to mitigate overreliance.
@@ -35,6 +35,10 @@ Because the article found that experience with AI does not correct miscalibratio
 
 ### Target Learning Goals
 - Well-calibrated AI-use decisions and reduced overreliance on AI for simple tasks
+
+## Claims
+
+- [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](../claims/ai-expected-faster-than-human-help.md) [+W]
 
 ## Related Strategies
 

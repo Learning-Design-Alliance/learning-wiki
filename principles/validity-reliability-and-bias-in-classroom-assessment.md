@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 140 claims (80 for, 50 mixed, 10 against) · 105 studies (34 associational, 25 design, 16 review, 13 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 105 report an effect size · 139 claims rest on one study
+> **Evidence** · 147 claims (83 for, 53 mixed, 11 against) · 112 studies (36 associational, 28 design, 16 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 112 report an effect size · 145 claims rest on one study
 
 ## Conditional relationship
 
@@ -252,6 +252,13 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](../claims/teacher-effects-one-fifth-within-student-variance.md) [~W]
 - [Course grades are more predictive than standardized test scores of high school and college success](../claims/grades-more-predictive-than-test-scores.md) [+W]
 - [Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered](../claims/gender-no-detectable-effect-underpowered.md) [~W]
+- [Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions](../claims/gap-estimates-accuracy-necessary-for-conclusions.md) [+W]
+- [The GED essay is scored holistically on a six-point scale by two independent readers](../claims/ged-essay-holistic-six-point-two-readers.md) [+W]
+- [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](../claims/lo-alignment-judgment-more-subjective-than-answering.md) [~M]
+- [CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools](../claims/grades-consistent-across-cps-high-schools.md) [+W]
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](../claims/race-gender-grade-differences-persist.md) [-W]
+- [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](../claims/single-administration-theoretical-reliability-vectors.md) [~W]
+- [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](../claims/swcpm-arm-high-correlation-grades-1-5.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

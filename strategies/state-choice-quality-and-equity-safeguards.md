@@ -17,7 +17,7 @@ sources:
 # State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's Key Policy Considerations section lays out implementable state actions across sectors: ensure many high-quality options with consolidated, accessible applications and free transportation; authorize charters through a small number of authorizers with strong accountability; maintain special oversight of virtual schools; require accreditation, staff qualifications, and nondiscrimination standards for schools receiving public funds; and require registration, structured programs of study, and assessment for homeschooling. It stresses that "simply providing choices does not automatically provide high-quality options that are accessible to all students or improve student learning."
@@ -38,6 +38,10 @@ The report's Key Policy Considerations section lays out implementable state acti
 - educational attainment
 - racial and economic integration
 - preparation for civic roles in a democracy
+
+## Claims
+
+- [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](../claims/iep-parents-safety-transportation-constraints.md) [~W]
 
 ## Related Strategies
 

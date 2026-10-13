@@ -17,7 +17,7 @@ sources:
 # Design future cross-sector collaboration efforts with clear goals and sufficient time period and scope, and include teacher-level activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy distills the report's lessons for future cross-sector collaboration efforts between districts and charter schools. It calls for giving collaboration grants adequate time and scope, clarity around goals, and activities that reach teachers as well as school leaders, since the evaluation found limited time and scope and unclear goals hindered implementation and "Teacher-level collaboration remains low across the grantee sites, in part because many of the collaborative activities targeted school leaders rather than teachers."
@@ -37,6 +37,10 @@ This strategy distills the report's lessons for future cross-sector collaboratio
 
 ### Target Learning Goals
 - Improving instructional quality and human capital practices through cross-sector collaboration and practice sharing
+
+## Claims
+
+- [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](../claims/teachers-receptive-but-involvement-limited.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief warns that recruitment efforts "are compromised when districts and schools have difficulty retaining teachers of color," and recommends investing in high-retention pathways, leadership growth, and early-career support. Illinois' actions include an Alternative Educator Licensure Program requiring a first year of residency, Teacher Residency Planning Grants partnering higher education with high-need districts, a $2 million investment in affinity groups for educators of color for community building and professional development, and a two-year induction and mentoring program for new teachers.
@@ -38,6 +38,10 @@ The brief warns that recruitment efforts "are compromised when districts and sch
 
 ### Affordances
 - [Six Strategy State Educator Diversity Framework](../products/six-strategy-state-policy-framework-for-increasing-educator-workforce-diversity.md)
+
+## Claims
+
+- [The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.](../claims/portrait-first-year-urban-teacher-induction-support.md) [~W]
 
 ## Related Strategies
 

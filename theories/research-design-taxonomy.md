@@ -12,7 +12,7 @@ generated:
 # Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 unmarked) · 6 studies (2 review, 2 associational, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 unmarked) · 7 studies (2 review, 2 associational, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 1 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 **Quantitative research** typically starts with a focused research question or hypothesis, collects a small amount of data from each of a large number of individuals, describes the resulting data with statistical techniques, and draws general conclusions about a population. It is comparatively weak at generating novel, interesting research questions or providing rich description of behavior in particular situations. **Qualitative research** does the reverse: it can generate new questions and hypotheses, collects large amounts of relatively unfiltered data from a relatively small number of individuals, describes that data with non-statistical techniques, and can produce rich, detailed description of behavior in the real-world contexts where it occurs — what qualitative researchers call the "lived experience" of participants. Because the two approaches have complementary strengths, some researchers combine them into **mixed-methods research**, either by using qualitative work to generate hypotheses that quantitative work then tests, or through **triangulation** — using both approaches simultaneously on the same question and comparing results. Convergent results reinforce and enrich each other; divergent results raise a genuinely useful further question: why do they diverge, and how can that be reconciled?
@@ -46,6 +46,7 @@ People also perceive relationships between variables that don't actually exist a
 - [Qualitative educator interviews corroborate and explain the quantitative path findings](../claims/educator-interviews-explain-ai-learning-mechanisms.md) [+W]
 - [Post-course expansive preference is slightly positively correlated with course grade, but causation is not established](../claims/post-pscale-slight-positive-grade-correlation.md) [~W]
 - [At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable](../claims/baseline-mechanics-ai-use-inversely-related-performance.md) [+W]
+- [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](../claims/politics-of-local-control-joined-to-school-change.md) [+W]
 
 ## Related Theories
 - [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly

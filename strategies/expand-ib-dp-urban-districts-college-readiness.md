@@ -17,7 +17,7 @@ sources:
 # Implement or expand IB Diploma Programs in urban neighborhood high schools to promote college readiness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The release presents the neighborhood IB DP as a "bold experiment that paid off" and states its findings "have important implications for other urban districts interested in implementing or expanding IB DP programs." Districts can use rigorous IB coursework as a lever for college enrollment and persistence among first-generation students, while attending to completion rates and social-capital supports.
@@ -35,6 +35,10 @@ The release presents the neighborhood IB DP as a "bold experiment that paid off"
 
 ### Target Learning Goals
 - College readiness and postsecondary enrollment and persistence
+
+## Claims
+
+- [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](../claims/ap-ib-fill-gap-for-mid-high-achievers.md) [~W]
 
 ## Related Strategies
 
