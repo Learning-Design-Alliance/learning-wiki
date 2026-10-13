@@ -41,6 +41,7 @@ The article recommends adapting RAG to formal domains with three optimizations: 
 - Algorag Five Stage Rag Pipeline
 - [Support Decoding of Text, Mathematical Notation, and Symbols](support-decoding-of-text-mathematical-notation-and-symbols.md)
 - [Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module](gsr-knowledge-technical-integration-strategies.md)
+- [Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load](agentic-rag-and-context-aware-audio-upgrades.md)
 
 ## Examples
 -

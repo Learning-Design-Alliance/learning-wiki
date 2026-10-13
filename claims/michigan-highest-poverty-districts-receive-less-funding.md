@@ -43,4 +43,7 @@ National funding-formula research cited in the report's introduction shows Michi
 
 
 ## Related Claims
--
+
+- [Michigan has one of the highest rates of concentrated poverty nationwide, with 37% of low-income students in high-poverty districts, yet allocates no additional funds for district poverty concentration](michigan-concentrated-poverty-no-concentration-weighting.md)
+- [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](michigan-low-income-weight-11-5-percent-loophole.md)
+- [Michigan underfunds students from low-income backgrounds and English Learners by an estimated $5.1 billion annually relative to leading states and research](michigan-underfunds-underserved-students-5-1-billion.md)

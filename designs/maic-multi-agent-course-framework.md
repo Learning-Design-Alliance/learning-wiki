@@ -17,7 +17,7 @@ sources:
 # MAIC: an LLM-driven multi-agent online course framework balancing scalability and adaptivity
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 MAIC (Massive AI-empowered Course) is a proposed form of online education in which instructors upload slides and LLM-driven agents prepare structured lecture resources, then deliver classes through a teacher agent, teaching assistant agent, and customizable classmate agents. The article frames it as balancing the scalability of MOOCs with adaptivity: 'a new form of online education that leverages LLM-driven multi-agent systems to construct an AI-augmented classroom, balancing scalability with adaptivity.' Classroom interactions are organized around four behavior categories — Teaching and Initiation, In-depth Discussion, Emotional Companionship, and Classroom Management — orchestrated by a Session Controller with a Class State Receptor and Manager Agent.
@@ -39,10 +39,14 @@ MAIC (Massive AI-empowered Course) is a proposed form of online education in whi
 - student engagement
 
 ### Claims
-- 
+
+- [Students in MAIC tend to prefer the passive continuous mode over interactive mode](../claims/students-prefer-continuous-mode.md) [+W]
+- [Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous](../claims/perceived-higher-order-thinking-gains.md) [+W]
+- [MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions](../claims/maic-funcgen-outperforms-baselines.md) [+W]
 
 ## Related Designs
-- 
+
+- [Multi-agent teacher-in-the-loop architecture for context personalization](multi-agent-teacher-in-the-loop-architecture.md)
 
 ## Examples
 -

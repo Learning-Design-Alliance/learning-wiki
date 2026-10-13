@@ -40,7 +40,8 @@ A snapshot vignette of a middle school science lesson in which English learners 
 - 
 
 ## Related Designs
-- 
+
+- [Middle school transition-words writing lesson integrating self-assessment, peer feedback, and personal learning goals](middle-school-transition-words-self-assessment-lesson.md)
 
 ## Examples
 -

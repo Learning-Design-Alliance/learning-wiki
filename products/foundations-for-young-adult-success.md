@@ -30,7 +30,8 @@ A UChicago Consortium framework that organizes developmental conditions and expe
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Mellon Research Forum initiative on the value of a liberal arts education](mellon-research-forum-initiative-on-the-value-of-a-liberal-arts-education.md)
 
 ## Key Sources
 - Camille A. Farrington, Joseph Maurer, Meredith R. Aska McBride, Jenny Nagaoka, J. S. Puller, Steve Shewfelt, Elizabeth M. Weiss, and Lindsay Wright. (2018). Arts Education and Social-Emotional Learning Outcomes Among K–12 Students: Developing a Theory of Action. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/arts-education-and-social-emotional-learning-outcomes

@@ -62,6 +62,8 @@ Proposition 4 derives the population association as a weighted average of the as
 
 
 ## Related Claims
+
 - [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md) — a narrower finding that bears on this claim
 - [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](synthetic-promotion-cedes-promoter-function.md) — related
 - [Partition descriptors and the component-membership–study-volume association are reproduced by the synthetic cohorts](synthetic-cohorts-reproduce-partition-descriptors-and-study-volume-association.md) — related
+- [Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal](authorial-suspension-three-markers.md)

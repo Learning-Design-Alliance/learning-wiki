@@ -45,7 +45,8 @@ The guide presents a basic career pathway model as a structural framework for or
 - Stackable Credentials Along Pathways
 
 ## Examples
--
+
+- [Co-design principles for regional STEM pathways: Pre-K-to-career alignment, flexible entry, stackable credentials, industry recognition, and representative instructors](../designs/stem-pathways-co-design-principles.md)
 
 ## Key Sources
 - Cotner, H., Bragg, D., Cheng, I., Costelloe, S., Freeman, B., Goold, G., Heiser, E., Lemire, S., Miller, D.G., Porowski, A., Van Noy, M., & Yadav, E. (2021). Designing and delivering career pathways at community colleges: A practice guide for educators (WWC 2021007). Washington, DC: National Center for Education Evaluation and Regional Assistance (NCEE), Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/27

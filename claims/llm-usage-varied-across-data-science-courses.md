@@ -43,4 +43,8 @@ Descriptive cross-course comparison on the final survey wave (Course-BD n=7, Cou
 
 
 ## Related Claims
--
+
+- [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](llm-usage-trends-across-assignments.md)
+- [LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)](llm-adoption-varies-by-cs-assignment.md)
+- [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md)
+- [Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high](perceived-deep-learning-benefits-declined-over-term.md)

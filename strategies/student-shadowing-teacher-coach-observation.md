@@ -60,9 +60,11 @@ Student shadowing is a form of perspective-taking grounded in the student-partne
 5. **Adjust and verify.** Make one or two specific instructional changes, then re-shadow later to check whether the student's experience improved — closing the loop like a [Check-in](../elements/check-in.md) routine.
 
 ## Related Strategies
+
 - Learning Walks — same observation discipline applied at classroom rather than individual-student level
 - Empathy Interviews — complements shadowing by adding the student's own account of their experience
 - Instructional Coaching Cycles — shadowing supplies the student-perspective data that coaching debriefs can act on
+- [Empathy interviews and student shadowing to build youth-adult understanding](empathy-interviews-and-shadowing.md)
 
 ## Examples
 - **Shadow a Student Challenge** — used in many US districts (popularized by the School Retool / Stanford d.school community, https://www.schoolretool.org): school leaders shadow a student for a full day and commit to one change afterward.

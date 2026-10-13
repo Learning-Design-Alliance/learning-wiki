@@ -42,7 +42,8 @@ This pattern connects an evolving design artefact, its critique, an action plan 
 - 
 
 ## Related Designs
-- 
+
+- [Learner-as-analyst: mechanistic transparency reframes the learner from spectator to analyst of a recorded process](learner-as-analyst-mechanistic-transparency.md)
 
 ## Examples
 -

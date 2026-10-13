@@ -26,7 +26,8 @@ The review organizes AI tools by underlying functionality into four categories: 
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](../claims/ai-personalization-recommenders-support-collaborative-learning.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of AI integration types in online higher education](taxonomy-of-ai-integration-types-in-online-higher-education.md)
 
 ## Key Sources
 - Kovari, A. (2025). A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade. Social Sciences & Humanities Open, 11, 101335. https://doi.org/10.1016/j.ssaho.2025.101335

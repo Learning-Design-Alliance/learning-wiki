@@ -57,6 +57,7 @@ The article defines the zone of proximal development as "The range of task that 
 - [Scaffolded Instruction](../strategies/scaffolded_instruction.md)
 - [Scaffolding](../strategies/scaffolding.md)
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
+- [ZPD-aligned strategy mapping: deterministic mapping of latent ability θ to explicit instruction, targeted scaffolding, or intellectual challenge](../designs/zpd-strategy-mapping-latent-ability-theta.md)
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565

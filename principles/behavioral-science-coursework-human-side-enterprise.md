@@ -43,7 +43,8 @@ The monograph recommends that teacher educators design or select courses describ
 - 
 
 ## Examples
--
+
+- [Labor force characteristics and composition as a separate area of study in teacher education](../elements/labor-force-characteristics-study-area.md)
 
 ## Key Sources
 - Stadt, Ronald W.; Kenneke, Larry J. (1970). Teacher Competencies for the Cybernated Age. American Council on Industrial Arts Teacher Education. https://eric.ed.gov/?id=ED055227

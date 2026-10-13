@@ -18,7 +18,7 @@ sources:
 # American Industrial Arts Student Association (AIASA) student industrial arts clubs
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A national student-club programme organized by the American Industrial Arts Association to familiarize students with industrial and technical fields through tours, club activities, and leadership conferences.
@@ -28,6 +28,8 @@ A national student-club programme organized by the American Industrial Arts Asso
 - **AIASA student industrial arts clubs**: The American Industrial Arts Student Association (AIASA) is a national student club organization officially organized by the AIAA at its 27th annual conference in Tulsa, Oklahoma, in March 1965. Its motto is "Learning to Live in_a Technical World." The clubs familiarize students with industrial and technical fields through activities such as industrial tours, clubwork, and leadership conferences. The AIASA president's address describes the clubs as a feeder program for the profession, reporting membership figures from 1,715 in 1967 to a peak of 5,219 in 1969, and argues the clubs depend on teacher sponsorship by AIAA members. (Stamm (1973))
 
 ### Claims
+
+- [AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator](../claims/aiasa-membership-fluctuates-with-aiaa-support.md) [+W]
 
 ## Related Products and Programmes
 -

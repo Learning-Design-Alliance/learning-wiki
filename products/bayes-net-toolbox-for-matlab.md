@@ -30,7 +30,8 @@ Bayes Net Toolbox for Matlab is a software toolbox developed by Kevin Murphy for
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [bcause](bcause.md)
 
 ## Key Sources
 - Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html

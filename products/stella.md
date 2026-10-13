@@ -34,7 +34,8 @@ A yearlong professional-development program developed and run by BSCS Science Le
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](../claims/stella-comparison-pd-equivalent-implementation-ratings.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [M-PLANS (Motivation - Planning Lessons to Activate eNgagement in Science)](m-plans-motivation-planning-lessons-to-activate-engagement-in-science.md)
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2021, May). Science Teachers Learning through Lesson Analysis (STeLLA®). https://ies.ed.gov/ncee/wwc/InterventionReport/716

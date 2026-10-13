@@ -82,7 +82,8 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](../claims/lvn-confidence-gains-four-pillars.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Learner Variability Project (LVP)](learner-variability-project-lvp.md)
 
 ## Key Sources
 - Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367

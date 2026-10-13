@@ -40,7 +40,8 @@ The report recommends a set of state-level advocacy actions for advancing equity
 - More equitable educational opportunities and conditions systemwide
 
 ## Related Strategies
-- 
+
+- [Provide highly contextualized and resource-intensive federal support for school improvement](contextualized-resource-intensive-federal-improvement-support.md)
 
 ## Examples
 -

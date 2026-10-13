@@ -44,6 +44,7 @@ The reviewed studies collectively call for higher education to move from reactiv
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Institutions should respond to generative AI in education with guided critical engagement rather than prohibition](guided-critical-engagement-over-prohibition-genai.md)
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 
 ## Examples
 -

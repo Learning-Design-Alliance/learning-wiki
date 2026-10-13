@@ -37,7 +37,11 @@ The article proposes institutional interventions such as AI-free study halls: li
 - verifiable unassisted academic writing practice
 
 ## Related Strategies
-- 
+
+- [Restrict: preserve AI-free cognitive sanctuaries where unassisted capability is practiced and assessed](restrict-ai-free-cognitive-sanctuaries.md)
+- [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
+- [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
+- [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 
 ## Examples
 -

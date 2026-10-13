@@ -38,7 +38,9 @@ The report's implications section recommends actions for state policymakers and 
 - alignment of professional learning with state priorities
 
 ## Related Strategies
-- 
+
+- [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
+- [Sustain cross-agency collaboration through a dedicated district leader and monthly partner meetings](dedicated-leader-monthly-cross-agency-meetings.md)
 
 ## Examples
 -

@@ -48,7 +48,8 @@ The study models PSMTs' probabilistic reasoning in a unified schema with three c
 - 
 
 ## Examples
--
+
+- [Use realistic, culturally meaningful contexts alongside randomising devices to elicit the full range of probabilistic reasoning](../principles/realistic-contexts-elicit-subjective-probability.md)
 
 ## Key Sources
 - Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630

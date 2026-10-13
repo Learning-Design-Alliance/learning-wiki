@@ -42,7 +42,8 @@ The article proposes a normative, design-oriented framework grounded in Design-B
 - 
 
 ## Related Designs
-- 
+
+- [Instructional Model for Human-Centered Generative AI Engagement: five recursive phases for LLM-integrated learning](instructional-model-human-centered-generative-ai-engagement.md)
 
 ## Examples
 -

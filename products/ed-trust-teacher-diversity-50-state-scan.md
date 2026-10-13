@@ -13,7 +13,7 @@ generated:
 # Ed Trust Teacher Diversity 50-State Scan
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A publicly available Ed Trust web-based data tool that lets state leaders, advocates, and researchers explore educator-diversity indicators by state.
@@ -24,8 +24,12 @@ A publicly available Ed Trust web-based data tool that lets state leaders, advoc
 
 ### Claims
 
+- [Pennsylvania's policy scan shows strong Grow Your Own, residency, and induction investments but weak data transparency, scholarships, and program approval standards for diversity](../claims/pa-policy-scan-strengths-gaps-educator-diversity.md) [+W]
+- [California publicly reports school-level educator workforce race data but lags two years and publishes no data on preparation-program candidates, completers, or retention of educators of color](../claims/california-educator-diversity-data-transparency-gaps.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Ed Trust Teacher Diversity 50-State Scan data tool](ed-trust-teacher-diversity-50-state-scan-data-tool.md)
 
 ## Key Sources
 - EdTrust. (2022). Make the Case for Teacher Diversity: Educators of Color. https://edtrust.org/educator-diversity/

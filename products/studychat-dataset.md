@@ -30,7 +30,8 @@ StudyChat is a publicly available dataset released by Menggian Wu and collaborat
 - [Assignment scores do not distinguish conversations in which all three observable dimensions appear from those in which at least one is not observed](../claims/no-stable-score-difference-by-die-coverage.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Open dataset of student-chatbot interaction logs, code snapshots, and knowledge and self-regulation measures](open-dataset-of-student-chatbot-interaction-logs-code-snapshots-and-knowledge-and-self-reg.md)
 
 ## Key Sources
 - Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea.

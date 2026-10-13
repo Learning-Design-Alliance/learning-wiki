@@ -14,7 +14,7 @@ generated:
 # College Readiness Indicator Systems (CRIS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework developed by the Annenberg Institute for School Reform and partners for organizing indicators of students' academic preparedness, academic tenacity, and college knowledge.
@@ -27,6 +27,8 @@ A framework developed by the Annenberg Institute for School Reform and partners 
 - **Tri-level approach: indicators are needed at individual, setting, and system levels**: A distinctive feature of the CRIS Framework is its premise that student-level outcome indicators alone are insufficient to promote college readiness. Individual-level indicators identify students needing support; setting-level indicators track school resources and opportunities; system-level indicators monitor district policy and funding infrastructure. The document argues that the tri-level perspective posits that "the consideration of context is critical to monitor whether the conditions (i.e., resources, practices, policies) are in place to promote college readiness." (Annenberg Institute for School Reform et al. (2014))
 
 ### Claims
+
+- [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](../claims/outer-context-shapes-cris-implementation.md) [~W]
 
 ## Related Products and Programmes
 -

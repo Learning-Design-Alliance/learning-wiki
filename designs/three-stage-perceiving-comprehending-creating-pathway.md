@@ -40,7 +40,9 @@ Drawing on the Beijing Normal University "Black Box, Grey Box, White Box" cognit
 - [Dual Track Comparison Activates Isomorphism Awareness](../claims/dual-track-comparison-activates-isomorphism-awareness.md) [+M]
 
 ## Related Designs
+
 - Awareness Of Technological Isomorphism
+- [Compound Line Graph lesson (Jiangsu Education Edition, Grade 5) integrating AI prediction comparison into mathematics instruction](compound-line-graph-ai-integration-lesson.md)
 
 ## Examples
 -

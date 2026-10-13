@@ -45,6 +45,7 @@ The brief recommends schoolwide policies, practices, and programs that make educ
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [Provide targeted intensive supports for educators at elevated risk, including check-ins, buddy systems, and fast-access mental health services](targeted-intensive-educator-mental-health-supports.md)
+- [Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement](structural-support-educator-wellbeing-ai.md)
 
 ## Examples
 -

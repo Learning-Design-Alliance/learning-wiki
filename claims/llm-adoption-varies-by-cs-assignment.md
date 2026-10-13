@@ -43,4 +43,5 @@ Descriptive analysis of post-assignment reflection surveys from 211 students who
 
 
 ## Related Claims
--
+
+- [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md)

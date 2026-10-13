@@ -25,7 +25,9 @@ A UNESCO framework specifying 15 AI-related teacher competencies across five dim
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UNESCO AI Competency Framework for School Students](unesco-ai-competency-framework-for-school-students.md)
+- [UNESCO AI Competency Framework for Students](unesco-ai-competency-framework-for-students.md)
 
 ## Key Sources
 - Miao, Fengchun; Cukurova, Mutlu. (2024). AI competency framework for teachers. UNESCO. https://www.unesco.org

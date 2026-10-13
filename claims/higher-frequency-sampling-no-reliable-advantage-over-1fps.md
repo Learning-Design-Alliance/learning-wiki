@@ -43,4 +43,6 @@ Additional experiment motivated by concern that aggregating high-frequency weara
 
 
 ## Related Claims
+
 - [Facial visual dynamics provide the most informative cues for attention estimation: the Visual GRU outperforms both the train-mean baseline and the Sensor GRU](visual-gru-outperforms-sensor-gru-attention-estimation.md) — related
+- [The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model](real-time-pipeline-latency-one-second-stride-a100.md)

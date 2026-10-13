@@ -13,7 +13,7 @@ generated:
 # Adapted TPACK-21 questionnaire for GenAI-infused higher education instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A six-point faculty self-report questionnaire adapted from the Valtonen et al. TPACK-21 survey by Sutedjo et al. to measure higher-education instructors’ self-perceived knowledge for GenAI integration.
@@ -22,6 +22,8 @@ A six-point faculty self-report questionnaire adapted from the Valtonen et al. T
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](../claims/faculty-high-traditional-low-technology-integrated-genai-knowledge.md) [+W]
 
 ## Related Products and Programmes
 -

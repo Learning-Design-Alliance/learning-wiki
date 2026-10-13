@@ -26,7 +26,8 @@ A prompt-based Socratic and adaptive generative-AI tutoring framework for K–12
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](../claims/human-oversight-necessary-alongside-ai-tutoring.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SocratiCode replication package with full prompt specification](socraticode-replication-package-with-full-prompt-specification.md)
 
 ## Key Sources
 - Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857

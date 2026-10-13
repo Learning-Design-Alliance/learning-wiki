@@ -30,7 +30,8 @@ A Mathematica practical guidance resource that helps implementing organizations 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Four-element framework for restorative practices implementation](four-element-framework-for-restorative-practices-implementation.md)
 
 ## Key Sources
 - Mikia Manley, Virginia Knechtel, Kate Place, Andrew Gothro, Ryan Ruggiero. (2023). Guide to Measuring Implementation: The 3Us – Usability, Usefulness, Utilization. Mathematica. https://www.mathematica.org/publications/guide-to-measuring-implementation-the-3us-usability-usefulness-utilization

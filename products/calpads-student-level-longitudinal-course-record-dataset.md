@@ -13,7 +13,7 @@ generated:
 # CALPADS student-level longitudinal course record dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A California Department of Education administrative dataset containing student-level longitudinal K–12 course records for federal reporting and education research.
@@ -22,8 +22,12 @@ A California Department of Education administrative dataset containing student-l
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12](../claims/calpads-course-availability-varies-by-year.md) [+M]
 - [About 75% of A-G courses showed exact unit alignment between CALPADS and UC admissions data, improving across years](../claims/calpads-uc-unit-alignment-75-percent.md) [+M]
+- [College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas](../claims/g-elective-courses-low-alignment-calpads-uc.md) [+W]
+- [CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students](../claims/calpads-csu-alignment-slightly-lower.md) [+W]
+- [CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)](../claims/calpads-availability-lower-small-nontraditional-schools.md) [+W]
 
 ## Related Products and Programmes
 -

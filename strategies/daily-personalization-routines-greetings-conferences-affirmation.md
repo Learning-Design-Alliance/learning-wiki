@@ -39,7 +39,9 @@ This strategy packages the brief's everyday classroom routines for deepening stu
 - foundation for building knowledge from what students bring
 
 ## Related Strategies
-- 
+
+- [Build Relationships with Each Student](build_relationships_with_each_student.md)
+- [Positive Teacher Student Relationships](positive-teacher-student-relationships.md)
 
 ## Examples
 -

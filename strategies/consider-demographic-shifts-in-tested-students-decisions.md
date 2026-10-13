@@ -39,6 +39,7 @@ A concrete decision procedure for school leaders using assessment data during pe
 ## Related Strategies
 
 - [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
+- [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Validation experiment with 385 German-speaking Swiss fifth graders in three expe
 
 
 ## Related Claims
+
 - [The unsquared correlation predicts transfer better than the squared correlation, except within the anomalous E9 group](unsquared-beats-squared-predictor.md) — related
+- [Regression intercepts of transfer on correlation were negative, contrary to the model's prediction of a zero intercept](negative-transfer-regression-intercepts.md)

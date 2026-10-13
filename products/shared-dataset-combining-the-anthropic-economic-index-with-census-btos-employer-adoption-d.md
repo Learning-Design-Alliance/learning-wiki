@@ -13,7 +13,7 @@ generated:
 # Shared dataset combining the Anthropic Economic Index with Census BTOS employer adoption data
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A dataset used by the brief series that combines Anthropic's task-level AI exposure index with U.S. Census Bureau Business Trends and Outlook Survey employer-adoption data to inform AI-related career and technical education planning.
@@ -22,6 +22,8 @@ A dataset used by the brief series that combines Anthropic's task-level AI expos
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [AI adoption across the 19 Heartland states averages 15.3%, below the national rate and uneven across states](../claims/heartland-btos-adoption-below-national.md) [+W]
 
 ## Related Products and Programmes
 -

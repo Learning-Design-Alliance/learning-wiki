@@ -40,7 +40,10 @@ The report organizes the intervention around a "4-step formative assessment proc
 - 
 
 ## Related Designs
-- 
+
+- [AI-integrated LMS for middle school with bounded, policy-gated AI assistance embedded in everyday coursework](ai-integrated-lms-bounded-assistance-middle-school.md)
+- [Four design goals for teacher-facing programming-process visualization: visibility, workflow support, formative feedback, and non-automated integrity clarification](four-design-goals-process-visualization-teachers.md)
+- [vPLC-augmented ASSISTments intervention with four-step formative assessment process](vplc-augmented-assistments-intervention.md)
 
 ## Examples
 -

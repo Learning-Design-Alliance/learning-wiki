@@ -29,7 +29,8 @@ The article establishes the task of history-conditioned student simulation, wher
 - [INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%](../claims/inside-highest-reasoning-alignment-57-9.md) [+M]
 
 ## Related Research Methods
--
+
+- [Multi-turn synthetic-dialogue evaluation protocol for AI tutors](multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors.md)
 
 ## Key Sources
 - Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051

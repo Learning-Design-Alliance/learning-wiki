@@ -17,7 +17,7 @@ sources:
 # Ten-week two-phase LLM usage experiment in React programming education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A study design in which thirty-two second-year undergraduates completed four React/TypeScript assignments over nine weeks with unrestricted informal LLM use, followed by a controlled week-ten assignment where LLMs were prohibited and only Google and official React documentation were allowed. LLM usage was measured with five-point Likert questionnaire items on code generation, additional explanations, and debugging, administered after grades were released.
@@ -39,10 +39,12 @@ A study design in which thirty-two second-year undergraduates completed four Rea
 - independent implementation of programming tasks
 
 ### Claims
-- 
+
+- [Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education](../claims/average-llm-use-negative-correlation-final-grades.md) [~W]
 
 ## Related Designs
-- 
+
+- [Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module](pair-based-discovery-llm-analysis-activity.md)
 
 ## Examples
 -

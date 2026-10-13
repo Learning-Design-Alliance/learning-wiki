@@ -43,6 +43,8 @@ Proposition 5, framed as the account's sharpest, most readily testable predictio
 
 
 ## Related Claims
+
 - [Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect](structural-location-moderates-not-volume.md) — a broader claim this one bears on
 - [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](synthetic-promotion-cedes-promoter-function.md) — a broader claim this one bears on
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — related
+- [Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal](authorial-suspension-three-markers.md)

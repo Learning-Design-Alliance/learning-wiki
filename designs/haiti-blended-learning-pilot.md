@@ -17,7 +17,7 @@ sources:
 # Haiti Blended Learning Pilot in 33 rural primary schools
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A two-year Digital Promise project working "with 33 rural primary schools in 2 departments" covering public, religious, and community schools. Its model combines infrastructure and technology (solar power, internet connectivity, tablets, classroom speakers), standards-aligned culturally relevant Haitian-Creole digital content, teacher professional development with ongoing coaching, and monitoring, evaluation, and learning using qualitative and quantitative methods including pre-/post-tests, surveys, observations, interviews, focus groups, and usage and assessment data.
@@ -43,10 +43,15 @@ A two-year Digital Promise project working "with 33 rural primary schools in 2 d
 - improving broadband and electricity access for schools
 
 ### Claims
-- 
+
+- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](../claims/haiti-pilot-training-satisfaction-96-fidelity.md) [+W]
+- [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](../claims/haiti-blended-pilot-significant-gains-lowest-baseline.md) [+W]
+- [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](../claims/haiti-blended-pilot-75-percent-segments-all-engaged.md) [+W]
+- [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](../claims/haiti-teacher-training-self-reported-improvements.md) [+W]
 
 ## Related Designs
-- 
+
+- [Three-component pilot model combining infrastructure and technology, Creole digital content, and professional development with coaching](haiti-three-component-pilot-model.md)
 
 ## Examples
 -

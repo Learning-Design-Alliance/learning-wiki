@@ -17,7 +17,7 @@ sources:
 # Randomized survey experiment for isolating parents' latent school preferences
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study uses a randomized survey experiment as its method for measuring parents' preferences for school qualities. Its stated contribution is "assessing parents’ preferences in a controlled environment, where they can be isolated from information asymmetries and constraints," allowing latent preferences for school qualities to be observed apart from real-world choice constraints. It is offered as a source of "new insights on parents’ latent preferences for school qualities" for accountability theory and practice.
@@ -35,6 +35,11 @@ The study uses a randomized survey experiment as its method for measuring parent
 
 ### Target Learning Goals
 - Understanding parents' preferences for school quality dimensions in school choice contexts
+
+## Claims
+
+- [School status matters more than achievement to parents when evaluating school quality](../claims/status-matters-more-than-achievement-quality-evaluation.md) [+W]
+- [Student demographics affect parents' likelihood of selecting into a school](../claims/demographics-affect-school-selection-likelihood.md) [+W]
 
 ## Related Elements
 - 

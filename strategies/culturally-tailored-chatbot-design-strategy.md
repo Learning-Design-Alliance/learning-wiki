@@ -43,7 +43,8 @@ The authors recommend designing AI chatbot applications differently across cultu
 - Casa Paradigm Cultural Anthropomorphism Extension
 
 ## Related Strategies
-- 
+
+- [Position AI chatbots for relatedness as companions that normalize help-seeking and connect students to human communities, not substitutes for them](ai-relatedness-companion-not-substitute-strategy.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ The authors recommend two directions to improve scalability and annotation suppo
 - reliable, scalable annotation of cognitive engagement
 
 ## Related Strategies
-- 
+
+- [Incorporate an expert human in the loop to support LLM coding of difficult adjacent coding categories](expert-human-in-loop-for-llm-pck-coding.md)
 
 ## Examples
 -

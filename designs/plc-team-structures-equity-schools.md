@@ -17,7 +17,7 @@ sources:
 # Professional learning communities (PLCs) with team structures and weekly scheduled meetings
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Professional learning communities are structures that help educators inquire about and solve problems and reflect on their work together. In all four case study schools, staff studied the PLC concept, built common understanding, and carried it out with fidelity. Montgomery Center used PLCs to introduce team-level analysis of curriculum, instruction, and assessment, and created an Academic Student Support Team to track the impact of student interventions over time. All case schools have grade-level or multigrade teams, vertical teams to align curriculum across grades, team leaders, and scheduled meetings of at least an hour a week, and most also have data teams.
@@ -38,7 +38,8 @@ Professional learning communities are structures that help educators inquire abo
 - continuous improvement of instruction through collaborative inquiry and data use
 
 ### Claims
-- 
+
+- [Content analysis of project reports identified five factors contributing to PLC formation (common interests, communication systems, mutual learning, collaborative work, UNAL values) and three hindering factors (administrative management, project scheduling, personal non-compliance)](../claims/plc-formation-contributing-hindering-factors.md) [+W]
 
 ## Related Designs
 - 

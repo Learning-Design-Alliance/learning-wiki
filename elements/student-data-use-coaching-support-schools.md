@@ -47,7 +47,8 @@ This element is the intervention evaluated in the study: providing coaching and 
 - [School-based coaching and support for using student data to inform instruction](student-data-instructional-coaching-support.md)
 
 ## Examples
--
+
+- [Evaluate data-use supports with random assignment to generate causal evidence on teacher practice and achievement outcomes](../strategies/random-assignment-evaluation-of-data-use-supports.md)
 
 ## Key Sources
 - Philip Gleason, Sarah Crissey, Greg Chojnacki, Marykate Zukiewicz, Tim Silva, Sarah Costelloe, Fran O'Reilly. (2019). Evaluation of Support for Using Student Data to Inform Teachers’ Instruction—Executive Summary. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/evaluation-of-support-for-using-student-data-to-inform-teachers-instruction-executive-summary

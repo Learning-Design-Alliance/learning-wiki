@@ -46,7 +46,8 @@ The evaluated intervention is a set of coaching and support services delivered t
 - [Coaching and support to schools for using student data to inform teachers' instruction](student-data-use-coaching-support-schools.md)
 
 ## Examples
--
+
+- [Evaluate data-use supports with random assignment to generate causal evidence on teacher practice and achievement outcomes](../strategies/random-assignment-evaluation-of-data-use-supports.md)
 
 ## Key Sources
 - Gleason, P., Crissey, S., Chojnacki, G., Zukiewicz, M., Silva, T., Costelloe, S., & O'Reilly, F. (2019). Evaluation of Support for Using Student Data to Inform Teachers' Instruction—Appendices. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/evaluation-of-support-for-using-student-data-to-inform-teachers-instruction-appendices

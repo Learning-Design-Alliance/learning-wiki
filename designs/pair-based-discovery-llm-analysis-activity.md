@@ -45,7 +45,9 @@ The intervention's design combined two pedagogical principles: Vygotsky's Zone o
 - [Novice Overgeneralization Llm Incapability](../claims/novice-overgeneralization-llm-incapability.md) [~M]
 
 ## Related Designs
-- 
+
+- [Eight-week MI module sequence with assignments and compact assessment rubric](eight-week-mi-module-sequence-rubric.md)
+- [Ten-week two-phase LLM usage experiment in React programming education](ten-week-two-phase-llm-react-experiment.md)
 
 ## Examples
 -

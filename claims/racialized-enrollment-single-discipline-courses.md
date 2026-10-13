@@ -43,7 +43,10 @@ Descriptive analysis of enrollment by race/ethnicity in the subset of 318 school
 
 
 ## Related Claims
+
 - [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
+- [Access to a complete single-discipline course sequence is rare in NWEA partner middle schools](complete-discipline-specific-sequence-anomaly.md)
+- [Most NWEA partner middle schools offer only multidiscipline science courses, with far fewer offering only single-discipline courses than in the 2018 national sample](nwea-schools-predominantly-multidiscipline-offerings.md)

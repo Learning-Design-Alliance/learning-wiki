@@ -79,10 +79,12 @@ Mentoring and coaching are effective because they attach support to the learnerâ
 - [Instructor Accessibility](instructor-accessibility.md) â€” coaching and mentoring are more likely when support channels are visible and reachable.
 
 ## Examples
+
 - **Peer coaching pairs**: Learners observe one another's work, ask structured questions, and plan next steps.
 - **Work-integrated mentoring**: A more experienced practitioner supports a learner during authentic task performance.
 - **Office-hour coaching sessions**: Instead of only answering questions, the instructor helps the learner diagnose strategy and plan next actions.
 - **Near-peer tutoring**: Slightly more advanced learners support novices with task-specific modeling and feedback.
+- [Five key qualities of a successful instructional technology coach](../strategies/five-key-qualities-successful-coach.md)
 
 ## Key Sources
 - Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. *Higher Education Research & Development, 25*(1), 67-84. [https://doi.org/10.1080/13600800500453196](https://doi.org/10.1080/13600800500453196)

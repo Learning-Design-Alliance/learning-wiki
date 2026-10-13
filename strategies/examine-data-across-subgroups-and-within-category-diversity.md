@@ -45,6 +45,7 @@ The guide's first actionable recommendation directs leaders to disaggregate data
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 - [Five actions for school and district leaders to improve family engagement with young learners](five-leader-actions-family-engagement.md)
 - [Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans](disaggregated-data-monitoring-el-supports.md)
+- [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
 
 ## Examples
 -

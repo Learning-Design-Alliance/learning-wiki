@@ -54,6 +54,7 @@ The paper's organizing framework is that no average learner exists: each learner
 - [Leveraging Strengths to Address Attention Challenges](../strategies/leveraging_strengths_to_address_attention_challenges.md)
 - [Black Genius Profile](../strategies/black_genius_profile.md)
 - [Personalize professional development by differentiating it and assigning educators by strengths and student needs](../strategies/personalized-differentiated-teacher-pd.md)
+- [Adaptive learning systems that calibrate tasks to the zone of proximal development](../elements/adaptive-systems-calibrate-zpd.md)
 
 ## Key Sources
 - Barbara Pape and Tom Vander Ark. (2020). Policies and Practices That Meet Learners Where They Are. Digital Promise Global. https://global.digitalpromise.org

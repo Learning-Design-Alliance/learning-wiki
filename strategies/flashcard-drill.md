@@ -79,6 +79,7 @@ Flashcards work because they force retrieval rather than restudy; the act of pul
 6. Pair the drill with application tasks so facts are connected to use ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
+
 - [Spaced Repetition Scheduling](../strategies/spaced-repetition-scheduling.md) — the scheduling mechanism that makes drill durable rather than ephemeral
 - [Retrieval Practice](retrieval-practice-activities.md) — the broader principle; flashcards are its most compact implementation
 - [Interleaved Practice](../strategies/interleaved-practice.md) — mixing card categories improves discrimination between related items
@@ -86,6 +87,7 @@ Flashcards work because they force retrieval rather than restudy; the act of pul
 - Retrieval Practice Testing — the general principle; flashcards are its most portable implementation
 - Self-Explanation — pairing a "why" prompt with card review to counteract rote recall
 - [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
+- [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](minimal-retrieval-practice-strategy-instructions.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition system using the SM-2 algorithm; widely used in medical education for high-volume factual material.

@@ -28,7 +28,8 @@ A research-based early-warning measurement developed and used by the University 
 - [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](../claims/cps-on-track-rate-61-to-85-percent-2006-2015.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Freshman Success](freshman-success.md)
 
 ## Key Sources
 - Using the Freshman On-Track Indicator to Improve High Schools in Chicago. (1990). Chapter 5 of Measuring to Improve: Practical Measurement to Support Continuous Improvement in Education, Harvard Education Press. https://www.harvardeducationpress.com

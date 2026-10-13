@@ -40,7 +40,8 @@ Table 1 of the article catalogs representative reformed courses. As printed, "th
 - 
 
 ## Related Designs
-- 
+
+- [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
 
 ## Examples
 -

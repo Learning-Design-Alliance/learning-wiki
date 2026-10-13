@@ -60,9 +60,11 @@ Mindfulness practice targets the attentional and emotional conditions for learni
 6. **Pair with [Self-Monitoring](../elements/self-monitoring.md)** — have students track when they used the technique and what changed, building the metacognitive link between practice and outcome [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ## Related Strategies
+
 - [Check-in](../elements/check-in.md) — the noticing routine that typically opens a mindfulness practice
 - [Achievable micro-goals](achievable_micro-goals.md) — regulation of impulse supports commitment to small, proximal goals
 - [Active transitions](active-transitions.md) — an alternative or complementary transition routine when movement, not settling, is what students need
+- [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 
 ## Examples
 - **[Learning to BREATHE](https://learning2breathe.org)** — a mindfulness curriculum for adolescents, typically delivered in 6–18 sessions, with brief practices embedded in the school day.

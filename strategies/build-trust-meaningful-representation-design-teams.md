@@ -47,6 +47,7 @@ This strategy governs the first activity phase, forming design teams. It has two
 - [Conduct research in partnership with educators on equity problems educators prioritize](educator-partnership-centered-equity-research.md)
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
 - [Build personal connections and find common ground in research-practice partnerships](personal-connections-rpp-common-ground.md)
+- [Build community-wide foundations before implementation through knowledge exchanges and planning meetings across sites](pre-implementation-community-knowledge-exchanges.md)
 
 ## Examples
 -

@@ -47,7 +47,8 @@ The article describes a message design theory developed by Seels and colleagues 
 - 
 
 ## Examples
--
+
+- [Pursue new theory directions to close the media-ISD gap: specialized models, new testing methods, combined design-development-evaluation models, and message design theory](../strategies/new-directions-to-close-media-isd-gap.md)
 
 ## Key Sources
 - Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869

@@ -17,7 +17,7 @@ sources:
 # Multipronged exploratory study: syllabi review of 11 marketing courses plus survey of 14 faculty and interviews
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's empirical base is a multipronged exploratory analysis combining a review of marketing course syllabi, a survey of marketing educators, and follow-up qualitative interviews. The review "covered 11 distinct marketing courses taught by the marketing faculty at a large midwestern U.S. public university," followed by "a survey of 14 full-time faculty members" who teach these courses. It extracted learning objectives and topics from syllabi and mapped instructors' reported GAI use to course type and objectives.
@@ -39,7 +39,10 @@ The article's empirical base is a multipronged exploratory analysis combining a 
 - aligning GAI use with course learning objectives
 
 ### Claims
-- 
+
+- [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](../claims/gai-rated-highly-effective-cognitive-presence.md) [+W]
+- [Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses](../claims/marketing-educators-gai-use-tool-most-common.md) [+W]
+- [Marketing educators perceive GAI as most useful as a teammate in higher-level courses but as a tutor or tool in lower-level courses](../claims/gai-perceived-most-useful-teammate-higher-level-courses.md) [+W]
 
 ## Related Designs
 - 

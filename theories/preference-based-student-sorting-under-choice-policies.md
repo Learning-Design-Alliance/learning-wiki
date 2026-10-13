@@ -44,7 +44,8 @@ The brief organizes its policy analysis around how parental preferences translat
 - [School choice architecture as a behavioral design framework](school-choice-architecture-framework.md)
 
 ## Examples
--
+
+- [DC citywide lottery ranked-preference dataset from over 20,000 applicants to more than 100 schools](../products/dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100.md)
 
 ## Key Sources
 - Steven Glazerman, Dallas Dotter. (2016). Market Signals: How Do DC Parents Rank Schools, and What Does It Mean for Policy? Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/market-signals-how-do-dc-parents-rank-schools-and-what-does-it-mean-for-policy

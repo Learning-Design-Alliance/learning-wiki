@@ -39,7 +39,8 @@ The article recommends reallocating scholarly attention from capability benchmar
 - Preservation of independent clinical reasoning
 
 ## Related Strategies
-- 
+
+- [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ The article proposes that course-specific RAG systems occupy an intermediary spa
 - [Students Prefer Independent Problem Solving First](../claims/students-prefer-independent-problem-solving-first.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four educational design objectives for course-specific AI support: course-specificity, independent learning, transparency and trust, and complementing existing teaching](four-design-objectives-course-specific-ai.md)
 
 ## Examples
 -

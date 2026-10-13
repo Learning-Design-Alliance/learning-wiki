@@ -43,4 +43,6 @@ Moderator analysis across the 35 studies compared effect sizes by educational le
 
 
 ## Related Claims
+
 - [Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates](secondary-schools-more-attendance-texting-grade-configuration.md) — related
+- [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md)

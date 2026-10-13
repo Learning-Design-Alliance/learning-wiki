@@ -18,7 +18,7 @@ sources:
 # DC citywide lottery ranked-preference dataset from over 20,000 applicants to more than 100 schools
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A dataset of ranked school-preference lists submitted by more than 20,000 families to Washington, DC's citywide lottery for over 100 traditional and charter public schools, collected for the associated 2013–2015 Walton Family Foundation project.
@@ -27,6 +27,8 @@ A dataset of ranked school-preference lists submitted by more than 20,000 famili
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](../claims/dc-parents-distance-demographics-academics-drive-choice.md) [+W]
 
 ## Related Products and Programmes
 -

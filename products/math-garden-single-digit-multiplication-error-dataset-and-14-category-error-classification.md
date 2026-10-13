@@ -33,7 +33,8 @@ A research dataset and 14-category taxonomy of single-digit multiplication error
 - [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](../claims/set-cause-level-ranking-typo-reverse.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 
 ## Key Sources
 - Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2021). Tracing Systematic Errors to Personalize Recommendations in Single Digit Multiplication and Beyond. Journal of Educational Data Mining, Volume 13, No 4. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/382

@@ -44,4 +44,6 @@ Open-ended survey responses on strengths of district testing programs, displayed
 
 
 ## Related Claims
+
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
+- [Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common](district-testing-student-assessment-dominant-purpose.md)

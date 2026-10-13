@@ -40,7 +40,8 @@ Because the community school coordinator is a role that previously did not exist
 - 
 
 ## Related Designs
-- 
+
+- [LAUSD community school common roles and processes (coordinator, community rep, assets and needs assessment, benchmarks)](lausd-csi-common-roles-processes.md)
 
 ## Examples
 -

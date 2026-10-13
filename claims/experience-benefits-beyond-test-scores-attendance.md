@@ -43,4 +43,6 @@ The review's executive summary states that as teachers gain experience, students
 
 
 ## Related Claims
+
 - [More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment](experienced-teachers-nontest-benefits.md) — possibly the same claim (merge candidate)
+- [Common experience-measurement methods that cap or band years of experience substantially understate returns to experience, by as much as 68%](wide-experience-indicators-understate-returns.md)

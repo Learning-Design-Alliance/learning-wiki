@@ -42,6 +42,7 @@ The review recommends directing future research toward underrepresented AI metho
 
 - [Four-part research agenda: longitudinal studies, hybrid frameworks, ethical frameworks, and underrepresented STEM domains](four-recommendations-ai-metacognition-research-agenda.md)
 - [Design AI decision-support systems that are transparent, context-sensitive, and hybrid-intelligence oriented](design-transparent-context-sensitive-hybrid-intelligence-decision-support.md)
+- [Reinvigorate bottom-half AI×Ed research: AI literacy for reflection on learning, machine teaching, and agent-based models of learning](reinvigorate-ai-as-analogy-research-directions.md)
 
 ## Examples
 -

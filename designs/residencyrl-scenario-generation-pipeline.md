@@ -43,7 +43,8 @@ The scenario generation pipeline synthesizes and curates diverse clinical scenar
 - [Residencyrl Reduces Missed Red Flags](../claims/residencyrl-reduces-missed-red-flags.md) [+M]
 
 ## Related Designs
-- 
+
+- [Transcript-derived patient profiles conditioning virtual patient behavior across seven dimensions](transcript-derived-virtual-patient-profiles.md)
 
 ## Examples
 -

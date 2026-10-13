@@ -17,7 +17,7 @@ sources:
 # Assessment twins: two deliberately linked assessment components addressing the same outcomes through different modes of evidence
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article names and substantively describes assessment twins as a redesign approach for the GenAI era. Twins are conceptualised as "two deliberately linked components that address the same learning outcomes through different modes of evidence, scheduled closely together to allow for cross-verification". The pairing lets instructors triangulate evidence across formats so that validity can be checked even when one format is vulnerable to generative AI misuse.
@@ -37,7 +37,8 @@ The article names and substantively describes assessment twins as a redesign app
 - course learning outcomes assessed through GenAI-vulnerable formats
 
 ### Claims
-- 
+
+- [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](../claims/assessment-twins-triangulate-evidence-mitigate-threats.md) [+W]
 
 ## Related Designs
 - 

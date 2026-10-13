@@ -44,7 +44,8 @@ The paper's central framework reframes generative AI errors and hallucinations a
 - [Perceived Ai Ability Misaligns Objective Competency](../claims/perceived-ai-ability-misaligns-objective-competency.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four pedagogical principles for AI companion design derived from the HELF](four-pedagogical-principles-ai-companion-design.md)
 
 ## Examples
 -

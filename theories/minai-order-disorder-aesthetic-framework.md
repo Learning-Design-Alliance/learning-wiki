@@ -16,7 +16,7 @@ sources:
 # Minai's order-disorder framework for aesthetic environmental design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Minai's framework treats the design of aesthetic environments as grounded in an order-disorder continuum rather than in formal rationality alone. As the paper quotes him, it rests "on the assumptionthat within the seeming randomness of life is an order(order-disorder) that is more meaningful than order imposed by formal rationality." The paper uses this framework to critique formalist aesthetic theory and to argue, in Whitehead-like terms, that aesthetic communication is a non-linear feedback mechanism transforming order into chaos and disorder into order, which Minai calls "biological information". The paper treats this as the central theoretical lens for chaos theory's implications for design education.
@@ -40,6 +40,7 @@ Minai's framework treats the design of aesthetic environments as grounded in an 
 - [Disorder plays a significant role in good design, challenging the equation of order with aesthetic quality](../claims/disorder-significant-role-good-design.md) [+W]
 - [New conceptions of randomness call into question elements-and-principles design theory and formalist aesthetics](../claims/randomness-questions-elements-principles-theory.md) [+W]
 - [A non-linear, circular chaos-theory model better explains the modern-to-postmodern change process in design style than a linear succession](../claims/nonlinear-circular-design-style-change.md) [+W]
+- [Viewers seek visual complexity as well as its reduction, so immediate perceptual closure is not needed in all graphic images](../claims/viewers-seek-complexity-not-immediate-closure.md) [+W]
 
 ## Related Theories
 

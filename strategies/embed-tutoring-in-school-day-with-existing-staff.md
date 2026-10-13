@@ -41,6 +41,8 @@ Rather than hiring external tutors or adding after-school programming, the Once 
 - [Operate high-dosage virtual tutoring with program-managed tutors and monthly literacy-specialist data meetings so school staff need no additional professional development](program-managed-tutoring-with-specialist-data-meetings.md)
 - [Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days](passport-to-literacy-staffing-training-strategy.md)
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
+- [Embed near-peer members within established community youth-serving organizations during extended-day hours rather than creating parallel systems](embed-members-in-community-partners-extended-day.md)
+- [Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction](hoot-reading-tutor-qualification-and-training-strategy.md)
 
 ## Examples
 -

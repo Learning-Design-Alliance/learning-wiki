@@ -62,4 +62,8 @@ Quintile-based efficiency summaries in AQUALAB (Figures 11 and 12); completion r
 
 
 ## Related Claims
+
 - [In AQUALAB gameplay logs, the estimated RLMM person parameter is positively associated with cumulative trajectory reward (Pearson 0.5842, Spearman 0.5760)](aqualab-beta-associated-with-cumulative-reward.md) — related
+- [In peg-solitaire simulations with known true abilities, the RLMM attains lower RMSE of log βj than the MDP-MM on all four original boards](rlmm-lower-rmse-than-mdp-mm-peg-solitaire.md)
+- [The RLMM recovers ability parameters on peg-solitaire boards with up to more than 23 million states, where tabular MDP-MM estimation is impractical](rlmm-scales-to-millions-of-states.md)
+- [RLMM runtime stays within approximately 15–20 seconds across the four peg-solitaire boards while MDP-MM runtime grows with task complexity, reaching a 19.1× speedup on the diamond board](rlmm-stable-runtime-speedup-growing-complexity.md)

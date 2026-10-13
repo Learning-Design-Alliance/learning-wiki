@@ -43,5 +43,8 @@ Venue comparison from the survey's reporting-frequency analysis (Table 4): journ
 
 
 ## Related Claims
+
 - [Nearly 75% of EDM publications contain analyses for which demographic information is applicable](edm-demographics-applicable-75-percent.md) — related
 - [Only 15% of EDM publications for which demographics were applicable analyzed demographic information, although 72% reported at least one category](edm-demographics-reported-72-analyzed-15.md) — related
+- [Reporting frequency of demographic categories in EDM publications is very uneven, ranging from 5% (SES) to 59% (education level)](edm-demographic-reporting-uneven-5-to-59.md)
+- [Among EDM publications analyzing demographics, 20 investigated demographic questions, 22 used demographics as model features, and only 4 used them for testing and validation](edm-demographic-use-investigated-features-validation.md)

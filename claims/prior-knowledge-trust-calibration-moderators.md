@@ -65,6 +65,7 @@ The review attributes to Shoufan's study that "students valued ChatGPT’s expla
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge](fluent-authority-trust-miscalibration.md) — possibly the same claim (merge candidate)
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — a broader claim this one bears on
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
@@ -72,3 +73,4 @@ The review attributes to Shoufan's study that "students valued ChatGPT’s expla
 - [Students evaluate GenAI explanations for assumed background and audience, reading unfamiliar cultural references and excessive scaffolding as signals about who the explanation was written for](assumed-background-audience-signals.md) — related
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
+- [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)

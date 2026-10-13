@@ -39,7 +39,10 @@ The article introduces a multi-agent, teacher-in-the-loop architecture for conte
 - 
 
 ## Related Designs
-- 
+
+- [Four specialized evaluation agents for LLM-generated problems](four-specialized-evaluation-agents-llm-problems.md)
+- [Multi-agent generate–validate–revise framework with four specialized validator agents for math problem personalization](multi-agent-generate-validate-revise-personalization-framework.md)
+- [MAIC: an LLM-driven multi-agent online course framework balancing scalability and adaptivity](maic-multi-agent-course-framework.md)
 
 ## Examples
 -

@@ -40,7 +40,8 @@ The article develops a conceptual framework of four pillars for tailoring genera
 - [Generate Then Refine Raises Usable Simulations 3 5 To 69 3](../claims/generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three foundational pillars of LEARN: motivation, scaffolding, and mentoring](learn-pillars-motivation-scaffolding-mentoring.md)
 
 ## Examples
 -

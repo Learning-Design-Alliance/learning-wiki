@@ -42,6 +42,7 @@ The first part of the article's four-part framework directs educational settings
 
 - [Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries](realign-socratic-withholding-protocol.md)
 - [Require: process-based assessment through metacognitive rationales for accepting or revising AI suggestions](require-process-based-assessment.md)
+- [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 
 ## Examples
 -

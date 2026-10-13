@@ -30,7 +30,8 @@ A one-page construct-map instrument in a practical measurement guide that define
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](../claims/student-characteristics-affect-observation-results-more-in-ela-than-math.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Curriculum-Based Professional Learning (CBPL) Questionnaire](curriculum-based-professional-learning-cbpl-questionnaire.md)
 
 ## Key Sources
 - Assessing ELA and Math Curriculum Shifts: A Practical Guide for Measurement and Progress Monitoring. Shared Measures Construct Map. https://edinstruments.org/toolkits/assessing-ela-and-math-curriculum-shifts-practical-guide-measurement-and-progress

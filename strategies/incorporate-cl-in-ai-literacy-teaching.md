@@ -48,6 +48,7 @@ The review recommends that instruction for improving AI literacy incorporate col
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign](embed-genai-into-existing-pedagogical-strategies.md)
+- [Institutional AI initiatives should incorporate discussion, reflection, and distributed discipline-specific support networks rather than centralized information provision](distributed-disciplinary-support-networks-for-ai-initiatives.md)
 
 ## Examples
 -

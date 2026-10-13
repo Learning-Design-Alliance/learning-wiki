@@ -62,6 +62,7 @@ Authors' explanation of the low performance, not a tested result: "student behav
 
 
 ## Related Claims
+
 - [Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues](llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md)
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md) — related
@@ -74,3 +75,4 @@ Authors' explanation of the low performance, not a tested result: "student behav
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
 - [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related
 - [Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface](differential-observability-learner-attributes-dialogue.md) — related
+- [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md)

@@ -43,5 +43,7 @@ Group-randomized controlled trial across 40 schools and 2,035 1st graders, analy
 
 
 ## Related Claims
+
 - [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)](amplify-science-gains-science-vocabulary-in-use.md) — related
 - [Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)](amplify-science-no-significant-standardized-science-effect.md) — related
+- [1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)](amplify-science-no-reading-assessment-difference.md)

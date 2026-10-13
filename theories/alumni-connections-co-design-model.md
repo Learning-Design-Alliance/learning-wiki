@@ -49,6 +49,7 @@ The guide's organizing framework is a co-design model in which cross-functional 
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](../strategies/build-trust-meaningful-representation-design-teams.md)
 - [Anticipate barriers to data use by building in strategies for future data use from initial conversations, and trust the process by going at the community's pace.](../strategies/anticipate-barriers-build-in-data-use-strategies.md)
 - [In co-design meetings, position community members as experts and create space for challenging ideas, including adapting survey questions to community feedback.](../strategies/position-community-experts-challenging-ideas-meetings.md)
+- [Alumni Survey Roadmap](../products/alumni-survey-roadmap.md)
 
 ## Key Sources
 - Daal, S., Leones, T., & Iwatani, E. (2026, August). Equity-focused high school alumni connections: A design guide for alumni surveys. Digital Promise. https://doi.org/10.51388/20.500.12265/313

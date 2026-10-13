@@ -18,7 +18,7 @@ sources:
 # MAP Growth norms
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (2 associational, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 MAP Growth norms are NWEA's nationally normed assessment benchmarks that report student achievement percentiles and conditional growth comparisons using multilevel growth models.
@@ -28,8 +28,15 @@ MAP Growth norms are NWEA's nationally normed assessment benchmarks that report 
 
 ### Claims
 
+- [Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement](../claims/2025-norms-raise-reading-achievement-percentiles.md) [+W]
+- [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](../claims/post-covid-norm-shifts-change-map-growth-accountability-metrics.md) [~W]
+- [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](../claims/2025-norms-lower-math-cgp-higher-growth-students.md) [~W]
+- [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](../claims/map-growth-30th-percentile-screening-cut-scores.md) [+W]
+- [Static percentile screening cut points carried across norm sets can under-identify students who remain below grade level](../claims/static-percentile-cutpoints-underidentify-post-renorming.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [2025 MAP Growth Achievement and Growth Norms](2025-map-growth-achievement-and-growth-norms.md)
 
 ## Key Sources
 - Meyer, J. P., & Dahlin, M. (2022). MAP Growth theory of action. NWEA. https://www.nwea.org/research/publication/map-growth-theory-of-action/

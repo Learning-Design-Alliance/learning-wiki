@@ -43,6 +43,8 @@ Cohort counts of retained eighth graders across the seven CPS cohorts, shown in 
 
 
 ## Related Claims
+
 - [After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders](cps-promotion-gate-shifted-retention-to-general-education.md) — related
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
 - [Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade](early-grade-retention-rise-double-retention.md) — related
+- [Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels](chicago-gate-achievement-rise.md)

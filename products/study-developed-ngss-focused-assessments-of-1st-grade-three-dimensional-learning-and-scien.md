@@ -31,7 +31,8 @@ These are researcher-developed assessments measuring first-grade NGSS-focused sc
 - [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)](../claims/amplify-science-gains-science-vocabulary-in-use.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Amplify Science](amplify-science.md)
 
 ## Key Sources
 - Harris, C. J., Murphy, R., Feng, M., & Rutstein, D. (2023). Supporting science learning and literacy development together: Initial results from a curriculum study in 1st grade classrooms. WestEd. https://www.wested.org

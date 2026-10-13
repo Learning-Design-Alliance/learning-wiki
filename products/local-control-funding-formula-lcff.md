@@ -30,7 +30,8 @@ California's statewide K–12 school-finance framework, administered through sta
 - [LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8](../claims/lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Maryland Concentration of Poverty (CoP) entitlement grant program](maryland-concentration-of-poverty-cop-entitlement-grant-program.md)
 
 ## Key Sources
 - Kaplan, J. (2025). California's Local Control Funding Formula: Next steps toward equity. Learning Policy Institute. https://doi.org/10.54300/820.131

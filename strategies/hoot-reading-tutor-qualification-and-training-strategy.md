@@ -38,7 +38,10 @@ Hoot Reading's staffing model requires that all tutors are experienced classroom
 - Early literacy / reading achievement
 
 ## Related Strategies
-- 
+
+- [Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days](passport-to-literacy-staffing-training-strategy.md)
+- [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
 
 ## Examples
 -

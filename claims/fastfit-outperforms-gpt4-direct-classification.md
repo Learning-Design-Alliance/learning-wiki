@@ -43,5 +43,7 @@ Comparison in the Method section (Table 1) of GPT-4 applied directly at inferenc
 
 
 ## Related Claims
+
 - [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](classifier-error-patterns-and-abstention-f1.md) — related
 - [A few-shot FastFit classifier maps conversational AI teaching assistant questions to 43 curriculum topic labels with 80.0% accuracy on a 70-question gold set](fastfit-few-shot-topic-classification-80-accuracy.md) — possibly the same claim (merge candidate)
+- [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md)

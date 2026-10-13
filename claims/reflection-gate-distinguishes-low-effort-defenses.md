@@ -43,5 +43,7 @@ Functional validation observation of the two-layer gate. Because the first asses
 
 
 ## Related Claims
+
 - [LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions](llm-self-detection-task-dependent.md) — related
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
+- [Schema-constrained Structured Outputs eliminated parse failures: every /challenge and /unlock call returned a valid, fully-typed object during development testing](structured-outputs-eliminate-parse-failure-class.md)

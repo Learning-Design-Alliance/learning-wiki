@@ -50,6 +50,7 @@ Beyond familiar personalized, adaptive, or blended learning, the panel identifie
 
 - [Design AI as a classroom orchestration partner that helps teachers form groups, nurture conversations, and track participation without taking control](../strategies/ai-classroom-orchestration-partnership.md)
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](../strategies/ai-assessment-holistic-competency-portraits.md)
+- [A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.](../designs/element-dynamic-pairing-co-orchestration-ecosystem.md)
 
 ## Key Sources
 - Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report

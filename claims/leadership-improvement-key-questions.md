@@ -43,4 +43,6 @@ This is the article's own statement of its second key question, quoted verbatim 
 
 
 ## Related Claims
--
+
+- [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md)
+- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md)

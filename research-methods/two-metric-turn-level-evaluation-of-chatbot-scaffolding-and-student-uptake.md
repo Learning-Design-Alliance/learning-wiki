@@ -28,7 +28,8 @@ An evaluation pipeline that scores both sides of student-chatbot interactions at
 - [The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression](../claims/grpo-without-directness-highest-conversation-depth.md) [+M]
 
 ## Related Research Methods
--
+
+- [Transcript-based interactional fluency and direction-sensitive uptake analysis](transcript-based-interactional-fluency-and-direction-sensitive-uptake-analysis.md)
 
 ## Key Sources
 - Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766

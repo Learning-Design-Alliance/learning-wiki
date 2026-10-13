@@ -43,4 +43,7 @@ Descriptive analysis of course sequences across the full NWEA sample of 2,199 sc
 
 
 ## Related Claims
+
 - [Most NWEA partner middle schools offer only multidiscipline science courses, with far fewer offering only single-discipline courses than in the 2018 national sample](nwea-schools-predominantly-multidiscipline-offerings.md) — related
+- [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md)
+- [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md)

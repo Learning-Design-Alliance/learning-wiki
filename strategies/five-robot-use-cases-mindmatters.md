@@ -43,7 +43,10 @@ Each robot type is operationalised as a use case: exploring social issues throug
 - Five Robot Types Classroom Support Typology
 
 ## Related Strategies
-- 
+
+- [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
+- [Role-Playing Emotional Scenarios](role-playing_emotional_scenarios.md)
+- [Acting/Role Play](acting-role-play.md)
 
 ## Examples
 -

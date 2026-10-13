@@ -35,7 +35,8 @@ Project QUEST is a community-based programme that provides comprehensive support
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](../claims/project-quest-potentially-negative-degree-attainment.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [College Promise](college-promise.md)
 
 ## Key Sources
 - Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area. (2021). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/723

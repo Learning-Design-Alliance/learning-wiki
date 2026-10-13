@@ -37,7 +37,8 @@ This strategy uses item response time on computer-based tests to detect disengag
 - Detecting disengaged item responses to protect score validity
 
 ## Related Strategies
-- 
+
+- [Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests](award-points-for-non-answers-traub-rule.md)
 
 ## Examples
 -

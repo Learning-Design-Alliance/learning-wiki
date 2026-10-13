@@ -43,4 +43,6 @@ In-class group exercise (the AI Grading Paradox, week 4; 36 present, seven submi
 
 
 ## Related Claims
--
+
+- [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md)
+- [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](ai-required-work-high-grade-weights-proctored-rare.md)

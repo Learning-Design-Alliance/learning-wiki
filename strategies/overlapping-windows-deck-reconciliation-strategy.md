@@ -42,6 +42,7 @@ The article recommends processing slide decks with a sliding-window chunking str
 ## Related Strategies
 
 - [Before learners see a generated lecture video, run a short instructor review pass targeting voice timing, slide–narration sync, and slide rendering](instructor-review-pass-voice-reveal-rendering.md)
+- [Deploy LLM-based slide feedback dashboards before oral presentations so students can iteratively revise slides when teacher feedback is infeasible at scale](deploy-llm-slide-feedback-before-presentations.md)
 
 ## Examples
 -

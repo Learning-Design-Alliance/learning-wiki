@@ -17,7 +17,7 @@ sources:
 # Scopus-derived 242-document bibliometric corpus and VOSviewer analysis pipeline for AI in STEM education (2015–2025)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study's analytical dataset and pipeline: a Scopus search combining STEM terms, AI terms (AI, AI-Agent, GPT, LLM), and education terms over 2015–2025, English-language, yielding 2,146 documents (2,125 after deduplication), screened via a PRISMA flowchart to "242 core documents were identified as the analytical sample." Analysis used VOSviewer for keyword co-occurrence and research theme evolution analysis.
@@ -37,7 +37,9 @@ The study's analytical dataset and pipeline: a Scopus search combining STEM term
 - Tracking the developmental trajectory and hotspots of AI in STEM education research
 
 ### Claims
-- 
+
+- [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](../claims/ai-stem-education-three-evolutionary-stages.md) [+W]
+- [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](../claims/ai-stem-publication-explosive-growth-after-2022.md) [+W]
 
 ## Related Designs
 - 

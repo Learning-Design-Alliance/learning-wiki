@@ -75,6 +75,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 5. Track decreasing error rates across sessions as evidence that spacing is working; escalate difficulty or interleave related material as fluency grows.
 
 ## Related Strategies
+
 - [Retrieval Practice](../elements/practice.md) — the mechanism spacing amplifies; spaced retrieval is the strongest known combination
 - [Interleaving](../elements/practice.md) — mixing problem types within spaced sessions adds a second desirable difficulty
 - [Cumulative Assessment](../elements/assess-performance.md) — course structures that force spaced review by design
@@ -82,6 +83,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - [Interleaved Practice](interleaved-practice.md) — a within-session complement that mixes problem types across spaced reviews
 - [Cumulative Review](cumulative-review.md) — curriculum-level mechanism for guaranteeing spacing without learner self-management
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
+- [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](sequence-practice-easy-to-difficult-item-types.md)
 
 ## Examples
 - **Anki / spaced-repetition flashcards** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) — implements expanding-interval scheduling for vocabulary, medicine, and law study; used widely in medical education.

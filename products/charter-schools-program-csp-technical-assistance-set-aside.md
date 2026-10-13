@@ -18,7 +18,7 @@ sources:
 # Charter Schools Program (CSP) technical-assistance set-aside
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A federally funded component of the U.S. Department of Education's Charter Schools Program that supports grantees in providing technical assistance to prospective and current charter-school subgrantees.
@@ -28,7 +28,10 @@ A federally funded component of the U.S. Department of Education's Charter Schoo
 - **Eleven common TA set-aside activities for charter school applicants, led by pre-award workshops and webinars**: The report identifies 11 common activities grantees funded to support subgrant applicants, spanning pre-award workshops and webinars, application-process TA, grants-management resources and training, school-opening resources, governing board training, and vendor contracts. It reports "Seventeen grantees reported holding pre-award workshops and webinars for potential applicants to support them through the application process." Fifteen grantees each shared grants-management resources, shared applicant resources, and provided post-award grants management training. (National Charter School Resource Center (2022))
 
 ### Claims
+
 - [State entity grantees on average used more TA set-aside funds for TA to applicants than for quality authorizing](../claims/se-grantees-more-ta-funds-applicants-than-authorizing.md) [+M]
+- [Most SE grantees used TA set-aside funds to support subgrantees in serving students with disabilities and English learners](../claims/se-grantees-ta-funds-students-with-disabilities-els.md) [+W]
+- [Reported activities for serving students with disabilities and ELs may under-represent grantee activity because of the data collection method](../claims/open-ended-ta-reporting-underrepresents-activities.md) [~W]
 
 ## Related Products and Programmes
 -

@@ -17,7 +17,7 @@ sources:
 # Logic-aware segmented video intervention with fixed 4-second system-defined pauses
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A post-hoc video processing intervention for instructional programming videos: after recording, content is cut at logical action boundaries and a fixed pause is injected after each step. The article explains that "a pause was manually inserted immediately after the completion of a logical action (e.g., snapping a block into place), but before the explanation of the subsequent step." Pausing is system-defined rather than student-initiated, chosen because student-initiated pausing often has negligible learning effects. Pause duration was set to 4 seconds after piloting 2-, 4-, and 6-second intervals with 13 participants.
@@ -40,7 +40,8 @@ A post-hoc video processing intervention for instructional programming videos: a
 - reducing errors and hesitations during programming tasks
 
 ### Claims
-- 
+
+- [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 
 ## Related Designs
 - 

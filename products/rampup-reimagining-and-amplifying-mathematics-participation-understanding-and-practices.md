@@ -13,7 +13,7 @@ generated:
 # RAMPUP (Reimagining and Amplifying Mathematics Participation, Understanding, and Practices)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A three-week summer bridge mathematics programme developed through WestEd’s National Research and Development Center to Improve Education for Secondary English Learners, serving rising ninth-grade students through modules on patterns, networks, and equivalence.
@@ -25,8 +25,11 @@ A three-week summer bridge mathematics programme developed through WestEd’s Na
 
 ### Claims
 
+- [In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity](../claims/el-language-monologic-authoritative-technical-growth.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [RAMPUP](rampup.md)
 
 ## Key Sources
 - Haiwen Chu, Brent Jackson. (2024). Engaging English Learners With Equivalence as a Crosscutting Concept in Mathematics. WestEd. https://www.wested.org/

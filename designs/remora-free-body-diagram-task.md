@@ -16,7 +16,7 @@ sources:
 # Remora Free Body Diagram Require-GenAI task
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A task deployed in an undergraduate introductory physics course in which students collaborate with GenAI to construct the most accurate free body diagram of a remora fish attached to a shark. The problem meets the accuracy-ceiling criterion because an accurate diagram requires forces specific to remora biology that "GenAI consistently failed to produce correctly without disciplinary guidance from the student." It elicits five categories of process artifact (tool used, prompting summary, final output, critique, assumption reflection), with Q2 evidencing Physics-Driven AI Interaction and Q4 evidencing Physics-Grounded Evaluation.
@@ -36,10 +36,13 @@ A task deployed in an undergraduate introductory physics course in which student
 - Physics-driven AI interaction and physics-grounded evaluation of AI-generated content
 
 ### Claims
-- 
+
+- [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](../claims/ai-interaction-competencies-observable-scorable.md) [+W]
 
 ## Related Designs
+
 - Water Balloon Physics Image Task
+- [Water Balloon Physics Image Require-GenAI task](water-balloon-physics-image-task.md)
 
 ## Examples
 -

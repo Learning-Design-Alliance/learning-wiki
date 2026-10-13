@@ -13,7 +13,7 @@ generated:
 # Preprocessed English subset of the MARS dataset for multimodal teaching resource recommendation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A preprocessed English-language subset of the MARS multimodal teaching-resource dataset, containing resource metadata and learner interaction logs for evaluating personalized recommendation models.
@@ -22,6 +22,9 @@ A preprocessed English-language subset of the MARS multimodal teaching-resource 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [The CF–KG hybrid model achieves higher offline NDCG than all eight baselines on the MARS English subset, reaching about 0.625 at epoch 40](../claims/cfkg-outperforms-baselines-ndcg.md) [+W]
+- [CF–KG achieves the best NDCG and hit rate on text, video, and interactive resource subsets, with modest but consistent gains over KGAT](../claims/cfkg-best-across-modalities.md) [+W]
 
 ## Related Products and Programmes
 -

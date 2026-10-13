@@ -42,6 +42,7 @@ A presentation delivered at the 2020 National Council on Measurement in Educatio
 ## Related Elements
 
 - [MAP Growth retest dataset for evaluating E-M scoring accuracy](../products/map-growth-retest-dataset-for-evaluating-e-m-scoring-accuracy.md)
+- [NWEA implementation of automated item generation (AIG) alongside traditional item-development approaches](nwea-automated-item-generation-implementation.md)
 
 ## Examples
 -

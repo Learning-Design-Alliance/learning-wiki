@@ -38,7 +38,8 @@ The article's discussion recommends exploring human-in-the-loop support when mul
 - Reliable automated coding of teachers' pedagogical content knowledge from open-ended responses
 
 ## Related Strategies
-- 
+
+- [Future directions: fine-tuning on human-refined frameworks and hybrid human–LLM or multi-agent annotation systems](future-hybrid-human-llm-annotation-systems.md)
 
 ## Examples
 -

@@ -25,7 +25,8 @@ A job-embedded apprenticeship pathway run by the SEIU Educator Training Center w
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher residency model](teacher-residency-model.md)
 
 ## Key Sources
 - Gardner, M., Melnick, H., Meloy, B., & Barajas, J. (2019). Promising models for preparing a diverse, high-quality early childhood workforce. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/preparing-diverse-high-quality-early-childhood-workforce

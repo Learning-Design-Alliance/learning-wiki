@@ -17,7 +17,7 @@ sources:
 # Collective impact model aligning health and education systems for school-community mental health
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 SCOE leaders organize their county-wide mental health work through a collective impact model that aligns health and education systems. Partners include the County Department of Health Services, regional Medi-Cal plans, all districts and schools under SCOE's purview, and student, family, and community partnerships. The brief states the organizations are "committed to learning together and aligning and integrating their activities" to achieve population and systems-level change. Core values of relationships, collaboration, and equitable access to care shape the work, alongside a commitment to diversity, equity, inclusion, and belonging.
@@ -37,7 +37,8 @@ SCOE leaders organize their county-wide mental health work through a collective 
 - Population and systems-level change in school-community mental health support
 
 ### Claims
-- 
+
+- [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](../claims/scoe-70-community-partnerships.md) [+W]
 
 ## Related Designs
 - 

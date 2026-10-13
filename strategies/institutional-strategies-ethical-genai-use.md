@@ -51,6 +51,8 @@ Based on the model's findings, the authors recommend a set of institutional acti
 - [Institutions should adopt equity-informed GenAI policies, require AI-use disclosure, and educate reviewers on World Englishes variation](equity-informed-genai-policies-and-reviewer-education.md)
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
+- [Institutions should move toward deliberate, transparent policies governing AI use in admissions and reconsider what application essays should assess](deliberate-transparent-ai-policies-for-admissions.md)
+- [Design educators should strengthen primary research, foster critical verification habits, and move students from consumers to makers of GenAI tools](integrate-genai-design-education-strategies.md)
 
 ## Examples
 -

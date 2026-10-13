@@ -41,6 +41,7 @@ The brief argues that a sense of belonging is fundamental to success in advanced
 
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
 - [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Support struggling advanced-course students with expanded learning time and intensive tutoring](expanded-learning-time-tutoring-advanced-course-support.md)
 
 ## Examples
 -

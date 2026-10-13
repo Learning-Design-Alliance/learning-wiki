@@ -17,7 +17,7 @@ sources:
 # Randomized impact evaluation design for teacher induction programs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A study-design artifact: a randomized impact evaluation of high-intensity teacher induction programs. The report "lays out the study design in detail, documenting the process for building the sample of districts, schools, and students, and for conducting random assignment," and describes "the data collection and analysis plans." It is intended to provide scientific evidence to support decisions about teacher induction policy.
@@ -36,6 +36,10 @@ A study-design artifact: a randomized impact evaluation of high-intensity teache
 ### Target Learning Goals
 - teacher retention
 - teacher and student outcomes
+
+## Claims
+
+- [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](../claims/high-intensity-teacher-induction-retention-outcomes-study.md) [+W]
 
 ## Related Elements
 - 

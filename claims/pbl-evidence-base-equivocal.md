@@ -43,4 +43,5 @@ The essay reports this second-hand review finding as a caution on its own struct
 
 
 ## Related Claims
--
+
+- [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md)

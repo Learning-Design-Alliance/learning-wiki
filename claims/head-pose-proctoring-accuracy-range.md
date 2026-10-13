@@ -43,8 +43,10 @@ The review reports, citing Chuang et al., a cheating-detection system using time
 
 
 ## Related Claims
+
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [Facial recognition models for proctoring report accuracies up to 99.21%, with limitations in dim-light and blurring conditions](facial-recognition-proctoring-accuracy.md) — related
 - [Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy](head-pose-time-delay-cheating-predictors.md) — possibly the same claim (merge candidate)
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — a broader claim this one bears on
 - [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related
+- [Reported limitations across reviewed proctoring studies include undisclosed datasets, single-model evaluation, reproducibility failures, and missing metrics](aips-study-limitations-datasets-reproducibility.md)

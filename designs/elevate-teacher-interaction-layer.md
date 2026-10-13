@@ -40,7 +40,8 @@ The Teacher Interaction Layer is a lightweight web-based configuration page thro
 - 
 
 ## Related Designs
-- 
+
+- [TASD: teacher-authored prompt layers as orchestration levers for configuring student-AI dialogue](tasd-teacher-authored-prompt-orchestration.md)
 
 ## Examples
 -

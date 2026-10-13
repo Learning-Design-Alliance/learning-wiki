@@ -39,6 +39,10 @@ A five-step lesson pattern the digest offers as an instantiation of the communic
 ### Claims
 - 
 
+## Related Designs
+
+- [Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework](eight-strategies-esl-pronunciation-bangladesh.md)
+
 ## Related Patterns
 - 
 

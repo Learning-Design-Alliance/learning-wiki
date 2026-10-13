@@ -51,6 +51,7 @@ The article defines informal education as the ongoing transmission of knowledge,
 ## Examples
 
 - [Schematic taxonomy of eight types of adult education in the Philippines (Table 2)](../elements/philippine-adult-education-eight-type-taxonomy.md)
+- [Seven aspects to consider in designing a context-specific community-based literacy and functional education program](../strategies/seven-aspects-community-based-literacy-program-design.md)
 
 ## Key Sources
 - Doronila, Maria Luisa C. (1997). A Research and Development Approach to the Delivery of Comprehensive Functional Education and Literacy in the Philippines. https://eric.ed.gov/?id=ED418217

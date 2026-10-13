@@ -55,6 +55,7 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 - [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
 - [Four-part policy strategy for increasing student access to advanced mathematics and science courses](policy-strategies-advanced-course-access.md)
 - [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
+- [Federal policy levers for an equitable pathways system: funding, mandates, certification, research, and data systems](federal-pathways-policy-levers.md)
 
 ## Examples
 -

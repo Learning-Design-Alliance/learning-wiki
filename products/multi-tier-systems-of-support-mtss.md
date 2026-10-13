@@ -33,7 +33,9 @@ Multi-Tier Systems of Support is a tiered framework that schools, districts, and
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Kansas Multi-Tier System of Supports (Kansas MTSS)](kansas-multi-tier-system-of-supports-kansas-mtss.md)
+- [Kansas MTSS framework](kansas-mtss-framework.md)
 
 ## Key Sources
 - Considerations for supporting a successful start to the 2020-2021 school year for students with disabilities. (2020). National Center for Systemic Improvement (NCSI), WestEd. https://ncsi.wested.org

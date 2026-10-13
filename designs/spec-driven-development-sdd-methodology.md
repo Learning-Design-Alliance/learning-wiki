@@ -41,7 +41,8 @@ SDD is a software development methodology proposed for use with AI agents, posit
 - [Ai Usage Varies By Team And Phase Sdpbl Sdd](../claims/ai-usage-varies-by-team-and-phase-sdpbl-sdd.md) [+M]
 
 ## Related Designs
-- 
+
+- [Purpose-built no-code vibe-coding research platform for controlled experimentation](no-code-vibe-coding-research-platform.md)
 
 ## Examples
 -

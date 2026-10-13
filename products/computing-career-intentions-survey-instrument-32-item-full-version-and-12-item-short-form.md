@@ -26,7 +26,8 @@ A WestEd-developed survey, created with Google, that measures computing career i
 - [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](../claims/full-survey-internal-consistency-alpha-094.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Short student survey](short-student-survey.md)
 
 ## Key Sources
 - Kao, Y., Murphy, D., Hubbard Cheuoua, A., Kannan, P., Tsan, J., Jennings, K. E., Smith, H., Emanuel, S., & Miller, E. R. (2023). Survey development for assessing student computing career intentions: Technical report. WestEd. https://wested.org

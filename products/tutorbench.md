@@ -28,7 +28,8 @@ TutorBench is a source-grounded benchmark dataset created by Bingxi Zhao et al. 
 - [In the public TutorBench sample, agency-oriented rubric criteria are most concentrated in the active-learning use case (agency-dimension density 0.720, agency-skill density 0.411)](../claims/tutorbench-rubrics-encode-agency-active-learning-highest.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AcademiClaw](academiclaw.md)
 
 ## Key Sources
 - Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962

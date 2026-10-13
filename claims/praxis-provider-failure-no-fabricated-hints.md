@@ -43,6 +43,8 @@ Provider-failure and recovery results of the 120-episode synthetic rehearsal, sh
 
 
 ## Related Claims
+
 - [A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures](praxis-120-episode-rehearsal-all-checks-passed.md) — related
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related
 - [Indirect prompt injections combining instruction manipulation, role-playing, and obfuscation altered AI-assigned grades with attack success rates of 94–100% while remaining undetected](prompt-injection-alters-ai-grading-94-100-percent.md) — related
+- [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)

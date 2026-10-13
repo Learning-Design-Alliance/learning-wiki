@@ -17,7 +17,7 @@ sources:
 # Two common national models for middle school CTE delivery: career field–specific introductory coursework and stand-alone career exploration courses
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report identifies, based on interviews with national CTE experts, two common middle school delivery models: "introductory CTE coursework that puts middle grade students on a pathway to high school CTE programs", whether career field–specific or rotational, and "semester- or year-long career exploration courses focused on self-awareness and career awareness". Nebraska practice reflects both: career field–specific exploratory or introductory courses across six career fields, and generalized career development and exploration courses such as Middle School Career Development. Nationally, experts report no consensus about which model middle grades should offer.
@@ -39,10 +39,12 @@ The report identifies, based on interviews with national CTE experts, two common
 - Self-awareness and informed education and career decision making
 
 ### Claims
-- 
+
+- [Career development courses were the single largest category of Nebraska middle school CTE enrollments in AY 2023/24, at about 23 percent of 192,661 total enrollments](../claims/nebraska-middle-cte-career-development-largest-category.md) [+M]
 
 ## Related Designs
-- 
+
+- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](exploratory-hands-on-career-exploration-pattern.md)
 
 ## Examples
 -

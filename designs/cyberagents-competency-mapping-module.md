@@ -41,7 +41,10 @@ The competency-mapping module extracts structured competencies from course mater
 - 
 
 ## Related Designs
-- 
+
+- [AISecKG ontology as a pre-display validation layer for agent-generated content](aiseckg-ontology-pre-display-validation.md)
+- [GPT-4-extracted curriculum prerequisite knowledge graph (54 topic nodes, 47 directed prerequisite edges)](gpt4-curriculum-prerequisite-knowledge-graph.md)
+- [Structured autonomy: bounding generative agent behavior through layered pedagogical and domain constraints](structured-autonomy-agentic-learning-framework.md)
 
 ## Examples
 -

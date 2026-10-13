@@ -62,6 +62,8 @@ The report cites California community college data on disproportionate remedial 
 
 
 ## Related Claims
+
 - [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — possibly the same claim (merge candidate)
 - [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
+- [White respondents were more likely than other respondents to use Glassdoor to keep track of skills and credentials](white-respondents-more-likely-glassdoor.md)

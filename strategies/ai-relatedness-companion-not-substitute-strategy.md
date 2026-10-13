@@ -39,6 +39,7 @@ Because students with lower baseline relatedness perceived more relatedness supp
 ## Related Strategies
 
 - [Design needs- and attention-aware AI learning tools using mechanism-level measures, heterogeneous-effects analysis, and in-process telemetry](needs-attention-aware-ai-tool-design-strategy.md)
+- [Culturally tailored chatbot design: position chatbots as reflective companions for Chinese users and as thinking partners for Western users, while deploying cognitive support broadly](culturally-tailored-chatbot-design-strategy.md)
 
 ## Examples
 -

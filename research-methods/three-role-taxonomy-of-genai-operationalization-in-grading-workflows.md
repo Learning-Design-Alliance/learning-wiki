@@ -24,7 +24,9 @@ The review organizes how GenAI is operationalized in assessment workflows by the
 ### Claims
 
 ## Related Research Methods
--
+
+- [Extended Strobel taxonomy of five student–GenAI entanglement types](extended-strobel-taxonomy-of-five-studentgenai-entanglement-types.md)
+- [A bottom-up taxonomy of seven student LLM usage categories organized into three support types](a-bottom-up-taxonomy-of-seven-student-llm-usage-categories-organized-into-three-support-ty.md)
 
 ## Key Sources
 - Marcin Jukiewicz and Michał Wyrwa. (2026). Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback. Appl. Sci. 2026, 16, 680. https://doi.org/10.3390/app16020680

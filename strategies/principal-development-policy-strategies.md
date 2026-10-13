@@ -47,6 +47,7 @@ The report recommends four policy actions: develop and better use state licensin
 - [Research recommendations: broaden program descriptions, account for prior experience and context, define outcomes, and use longitudinal mixed-methods designs](principal-learning-research-agenda.md)
 - [Develop high-quality principal preparation through district-university partnerships with internships and mentorship](high-quality-principal-preparation-partnerships.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
+- [Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness](prioritize-pd-for-early-career-principals.md)
 
 ## Examples
 -

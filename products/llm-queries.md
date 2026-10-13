@@ -35,7 +35,9 @@ A GitHub repository released by Keith et al. containing the code for prompting m
 - [LLMs align better with human coding on concise theories with discrete concepts than on more complex ones](../claims/theory-complexity-affects-llm-coding-agreement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [GenAICanHarmLearning anonymized dataset and code repository](genaicanharmlearning-anonymized-dataset-and-code-repository.md)
+- [LT_NLP_SET_pub](lt-nlp-set-pub.md)
 
 ## Key Sources
 - Keith, Shelley; Pavlik, Philip I., Jr.; Stives, Kristen L.; Kerr, Laura Jean. (2026). Comparing Zero-Shot Large Language Model Prompting with Human Coding of Theory Concepts in Student Essays. Journal of Educational Data Mining, Volume 18, No 1. https://github.com/imrryr/LLM-queries

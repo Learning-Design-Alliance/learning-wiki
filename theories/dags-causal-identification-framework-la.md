@@ -48,7 +48,8 @@ The article presents DAGs, pioneered by Pearl, as a way of visually encoding cau
 - 
 
 ## Examples
--
+
+- [DAG-guided covariate selection for causal inference](../research-methods/dag-guided-covariate-selection-for-causal-inference.md)
 
 ## Key Sources
 - Weidlich, J., Gašević, D., Drachsler, H. (2022). Causal Inference and Bias in Learning Analytics: A Primer on Pitfalls Using Directed Acyclic Graphs. Journal of Learning Analytics, 9(3), 183–199. https://doi.org/10.18608/jla.2022.7577

@@ -17,7 +17,7 @@ sources:
 # Decision tree used by a curriculum administrator to assess external courses for the Lund C program
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on correspondence with the former program director, the authors constructed a decision tree (Fig. 1) capturing how external courses are assessed for the Lund University Information and Communication Engineering (C) program. "Firstly, the program director decides whether a course is within the scope of the C program, or counted as external." External courses are capped at 15 ECTS; in-scope courses are matched to LU equivalents, assigned a level (G1/G2/A), and possibly counted toward one of five specialization tracks. Partial overlap is credited proportionally: "overlap below 20% (less than 1.5 ECTS) is disregarded; overlap between 20% and 66.7% warrants 2–5 ECTS; and overlap exceeding 66.7% (more than 5 ECTS) is treated as full equivalence." CourseGraph targets the content-overlap decisions in this tree.
@@ -37,7 +37,8 @@ Based on correspondence with the former program director, the authors constructe
 - crediting external courses appropriately toward degree requirements
 
 ### Claims
-- 
+
+- [CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences](../claims/coursegraph-mappings-align-with-program-director.md) [+W]
 
 ## Related Designs
 - 

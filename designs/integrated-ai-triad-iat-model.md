@@ -40,7 +40,8 @@ The IAT model, developed by Talebzadeh (2025a), is a conceptual framework struct
 - 
 
 ## Related Designs
-- 
+
+- [Sustainable Development Pedagogy (SDP) AI model converting zero-paper mandates into design catalysts](sustainable-development-pedagogy-sdp-model.md)
 
 ## Examples
 -

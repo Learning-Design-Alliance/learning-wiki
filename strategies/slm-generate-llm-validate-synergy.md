@@ -36,7 +36,9 @@ The authors recommend exploiting an abundance mindset with small language models
 - generating high-quality assessment questions aligned to learning objectives at scale
 
 ## Related Strategies
+
 - Generate Then Validate Pipeline
+- [Use AI-driven item generation to create discriminating questions at a fraction of the cost and offload easier questions to an AI](ai-item-generation-low-cost-discriminating-items.md)
 
 ## Examples
 -

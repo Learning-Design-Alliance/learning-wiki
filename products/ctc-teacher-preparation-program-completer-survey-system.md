@@ -25,7 +25,8 @@ A statewide survey system run by the California Commission on Teacher Credential
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](../claims/completers-rate-preparation-highly-90-percent.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Tennessee Educator Preparation Report Card](tennessee-educator-preparation-report-card.md)
 
 ## Key Sources
 - Patrick, S. K., Darling-Hammond, L., & Kini, T. (2023). Educating teachers in California: What matters for teacher preparedness? Learning Policy Institute. https://doi.org/10.54300/956.678

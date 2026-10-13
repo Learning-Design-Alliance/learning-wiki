@@ -13,7 +13,7 @@ generated:
 # Agent4Edu
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marquez-Carpintero et al. that models virtual students with predefined profiles, action modules, and short- and long-term memory for educational research and prediction.
@@ -22,6 +22,9 @@ Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marq
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](../claims/cot-rationale-quality-no-correlation-simulated-accuracy.md) [~W]
+- [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](../claims/llm-simulated-students-surpass-rule-based-systems.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -44,5 +44,7 @@ Chi-square test of independence across ten assessment scenarios in the survey of
 
 
 ## Related Claims
+
 - [Undergraduate students' preferences for AI feedback characteristics differ significantly from an equal distribution for tone, length, format, and focus, but not for timing](ai-feedback-characteristic-preferences-differ-from-chance.md) — related
 - [Preferred scoring and feedback methods differ significantly across assignment types, with AI-based scoring rarely preferred and mixed options most chosen for low-stakes assignments](scoring-preferences-vary-by-assignment-type.md) — related
+- [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md)

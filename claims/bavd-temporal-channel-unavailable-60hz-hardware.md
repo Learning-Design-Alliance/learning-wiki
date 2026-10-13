@@ -43,4 +43,6 @@ Design-constraint analysis in Section 5.1 combining WCAG 2.1 flash thresholds, p
 
 
 ## Related Claims
--
+
+- [Theoretical results establish content fidelity, rendering stability, entropy boundedness, and integrity convergence for the BAVD model](bavd-theoretical-properties-fidelity-stability-convergence.md)
+- [Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance](bavd-attenuation-monotone-accessibility-security-tradeoff.md)

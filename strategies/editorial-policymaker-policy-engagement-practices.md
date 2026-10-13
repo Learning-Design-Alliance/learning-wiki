@@ -37,7 +37,8 @@ For editors and reviewers, the review recommends that journal editorial boards m
 - strengthening evidence-to-policy translation in AI × SEL research
 
 ## Related Strategies
-- 
+
+- [Actionable writing practices for researchers to produce policy-ready implications](wh-framework-policy-writing-practices.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Sustainable Development Pedagogy (SDP) AI model converting zero-paper mandates into design catalysts
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The SDP model (Talebzadeh, 2025b) is an operational constraint framework that integrates "mandatory paperless protocols and fully digitalized assessment workflows" directly into the IAT model. It treats administrative and environmental constraints not as barriers but as primary catalysts for pedagogical innovation, addressing what the article calls "The Green Gap". In the study, teams were mandated to re-engineer their instructional designs under full SDP constraints after green-management prompt training.
@@ -37,10 +37,15 @@ The SDP model (Talebzadeh, 2025b) is an operational constraint framework that in
 - resource-efficient, paperless instructional design and assessment workflows
 
 ### Claims
-- 
+
+- [Strategic reflection increases substantially under the SDP constraint (d = 3.40, Δ = +1.80)](../claims/sdp-constraint-increases-strategic-reflection.md) [+W]
+- [Imposing the SDP zero-paper constraint significantly improves overall instructional design quality (d = 2.80)](../claims/sdp-constraint-improves-overall-design-quality.md) [+W]
+- [SDP workflow compliance shows the largest gain under the zero-paper constraint (d = 3.50, Δ = +1.83)](../claims/sdp-workflow-compliance-largest-gain.md) [+W]
+- [Complexity and innovation of designed tasks improves under the SDP constraint (d = 1.50, Δ = +0.84)](../claims/sdp-constraint-improves-complexity-innovation.md) [+W]
 
 ## Related Designs
-- 
+
+- [Integrated AI Triad (IAT) model for teacher-AI cooperative instructional design](integrated-ai-triad-iat-model.md)
 
 ## Examples
 -

@@ -25,7 +25,8 @@ The framework defines knowledge components as "recurring, semantically meaningfu
 - [Pattern-based KC similarity retrieves bundle-aligned programming learning items better than code-embedding and other KC baselines in both retrieval directions](../claims/pattern-kc-retrieval-outperforms-baselines.md) [+M]
 
 ## Related Research Methods
--
+
+- [Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations](tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak.md)
 
 ## Key Sources
 - Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://educationaldatamining.org

@@ -38,7 +38,9 @@ The report recommends that NYSED and preparation programs communicate with prosp
 - earning additional certificates in shortage subject areas such as special education
 
 ## Related Strategies
-- 
+
+- [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
+- [Offer multiple pathways to the early childhood credential, including integrated bachelor's, transfer articulation, postbaccalaureate, dual certification, and residency routes](multiple-pathways-ec-credential-access.md)
 
 ## Examples
 -

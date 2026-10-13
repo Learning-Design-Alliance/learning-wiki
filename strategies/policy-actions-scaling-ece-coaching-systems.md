@@ -37,7 +37,9 @@ The report recommends eight actions for state, county, and local policymakers: "
 - Educator implementation of evidence-based early learning practices and program quality improvement
 
 ## Related Strategies
-- 
+
+- [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
+- [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 
 ## Examples
 -

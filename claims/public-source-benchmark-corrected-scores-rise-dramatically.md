@@ -43,6 +43,8 @@ Pre-audit versus corrected evaluation on retained subsets of three public-source
 
 
 ## Related Claims
+
 - [After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt](corrected-benchmark-scores-rise-substantially-after-expert-audit.md) — related
 - [Expert audit attributes 95.20% of audited benchmark rejections to benchmark or grader errors rather than model errors](expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors.md) — related
 - [Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)](grader-errors-dominate-rule-based-evaluator-benchmarks.md) — related
+- [The HLE-adapted evaluator shows the lowest grader error rate (4.08%) among the evaluators audited](hle-adapted-evaluator-lowest-grader-error-rate.md)

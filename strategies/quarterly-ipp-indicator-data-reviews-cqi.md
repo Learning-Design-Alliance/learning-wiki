@@ -37,7 +37,8 @@ Project Cal-Well partners "provided quarterly Infrastructure Development, Preven
 - Continuous quality improvement of school-based mental health infrastructure and services
 
 ## Related Strategies
-- 
+
+- [Sustain district mental health initiatives by braiding grant funding into annual plans, ongoing surveys, and reimbursement streams](braided-funding-sustainability-school-mental-health.md)
 
 ## Examples
 -

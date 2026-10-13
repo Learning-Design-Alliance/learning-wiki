@@ -40,7 +40,8 @@ A two-part webinar series developed with the R13CC, WEEAC, NIEA, and the Univers
 - 
 
 ## Related Designs
-- 
+
+- [Three-part webinar series Making a Difference for American Indian and Alaska Native Students: Innovations and Wise Practices](making-a-difference-aiana-webinar-series.md)
 
 ## Examples
 -

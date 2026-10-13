@@ -43,4 +43,5 @@ The review reports, citing Hodges et al. (2011, 2014) and Keetch and Lee (2007),
 
 
 ## Related Claims
--
+
+- [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md)

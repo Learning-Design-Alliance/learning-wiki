@@ -24,7 +24,8 @@ A Maryland state grant programme established by the Blueprint for Maryland’s F
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Local Control Funding Formula (LCFF)](local-control-funding-formula-lcff.md)
 
 ## Key Sources
 - Maier, A., & Rivera-Rodriguez, A. (2023). State strategies for investing in community schools. Learning Policy Institute. https://doi.org/10.54300/612.402

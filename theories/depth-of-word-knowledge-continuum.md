@@ -42,7 +42,9 @@ The article describes word knowledge as existing on a continuum of depth, with l
 - 
 
 ## Examples
--
+
+- [Dynamically Introduce Academic Vocabulary](../strategies/dynamically_introduce_academic_vocabulary.md)
+- [Explicit Vocabulary Instruction](../strategies/explicit-vocabulary-instruction.md)
 
 ## Key Sources
 - Fore III, C., Boon, R. T., & Lowrie, K. (2007). Vocabulary Instruction for Middle School Students with Learning Disabilities: A Comparison of Two Instructional Models. Learning Disabilities: A Contemporary Journal, 5(2), 49-73. https://eric.ed.gov/?id=EJ797664

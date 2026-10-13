@@ -18,7 +18,7 @@ sources:
 # VTDS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A computer-controlled videodisc training system described by Bunderson et al. that delivers interactive computer-assisted instruction through display control, response analysis, conditional branching, and learner-data storage.
@@ -29,8 +29,15 @@ A computer-controlled videodisc training system described by Bunderson et al. th
 
 ### Claims
 
+- [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](../claims/videodisc-combines-books-movies-cai-capabilities.md) [+W]
+- [Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review](../claims/strategy-control-four-tactic-categories.md) [+W]
+- [Consumer-model players cost far less than industrial/education players but lack programmed random access and computer linkage](../claims/consumer-vs-ie-player-cost-capability-tradeoff.md) [+W]
+- [A single videodisc side can hold the equivalent of large volumes of Army printed and audiovisual training materials](../claims/videodisc-storage-packs-army-training-materials.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Socrates](socrates.md)
+- [Flight SOS](flight-sos.md)
 
 ## Key Sources
 - Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J. (1980). Instructional Systems Development Model for Interactive Videodisc Training Delivery Systems. Volume I: Hardware, Software and Procedures. Army Research Institute Technical Report 511. https://eric.ed.gov/?id=ED220071

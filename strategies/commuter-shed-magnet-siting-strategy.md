@@ -40,7 +40,8 @@ The report recommends siting magnets near job centers so parents can transport c
 - Stable Metropolitan Racial Integration Framework
 
 ## Related Strategies
-- 
+
+- [Create and foster diverse, effective magnet schools through coordinated federal, state, district, and school policies](multilevel-policy-support-for-magnet-diversity.md)
 
 ## Examples
 -

@@ -25,7 +25,9 @@ Mentor Tech is a Texas Tech University programme that supports underrepresented 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [FLIGHT](flight.md)
+- [STEM Smart](stem-smart.md)
 
 ## Key Sources
 - Nichols, A. H., Eberle-Sudré, K., & Welch, M. (2016). Rising Tide II: Do Black Students Benefit as Grad Rates Increase? The Education Trust. https://www.edtrust.org

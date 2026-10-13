@@ -72,10 +72,10 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 |---|---|---|---|---|
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 579 pages | 3 | q2–q3 | 0 of 3 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 489 pages | 4 | q2–q4 | 1 of 4 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 389 pages | 2 | q4 | 2 of 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 390 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 378 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 342 pages | 2 | q3–q4 | 1 of 2 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 325 pages | 2 | q2 | 0 of 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 326 pages | 2 | q2 | 0 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 319 pages | 2 | q3 | 0 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 226 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 219 pages | 3 | q3–q4 | 1 of 3 |
@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-165 claims are cited both ways.
+167 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 18 | 4 | 10 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 186 | 10 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 9 | 3 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 280 | 21 | 8 | 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 281 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 43 | 1 | 8 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 5 | 7 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 60 | 11 | 6 | 1 |
@@ -124,7 +124,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 206 | 15 | 3 | 2 |
 | [Example-problem sequences reduce cognitive load and improve learning outcomes.](claims/example-problem-sequences-reduce-cognitive-load.md) | 56 | 18 | 3 | 1 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 375 | 8 | 3 | 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 376 | 8 | 3 | 2 |
 | [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 2 | 0 | 3 | 1 |
 
 ## Evidence by kind of page
@@ -134,16 +134,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 376 | 327 | 2 | 0 |
-| [elements](elements/index.md) | 1,080 | 801 | 2 | 0 |
+| [elements](elements/index.md) | 1,080 | 813 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
 | [strategies](strategies/index.md) | 5,578 | 2,028 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,372 | 1,122 | 1 | 0 |
+| [theories](theories/index.md) | 1,372 | 1,125 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
-| [designs](designs/index.md) | 713 | 392 | 1 | 0 |
-| [products](products/index.md) | 1,579 | 1,065 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 420 | 331 | 1 | 0 |
+| [designs](designs/index.md) | 713 | 467 | 1 | 0 |
+| [products](products/index.md) | 1,579 | 1,259 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 420 | 362 | 1 | 0 |
 
 ## Toward pooled estimates
 

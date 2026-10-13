@@ -34,7 +34,8 @@ MyTeachingPartner–Secondary is a University of Virginia Center for Advanced St
 - [MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort](../claims/mtp-s-significant-positive-effect-post-intervention-year.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2015, June). Teacher Training, Evaluation, and Compensation intervention report: MyTeachingPartner–Secondary. http://whatworks.ed.gov

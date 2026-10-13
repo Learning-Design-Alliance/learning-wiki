@@ -62,7 +62,9 @@ Confirmatory factor analysis on the independent Sample two (N = 342) tested the 
 
 
 ## Related Claims
+
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — a narrower finding that bears on this claim
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance](sfailq-efa-six-factor-solution.md) — related
 - [Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance](tails-efa-six-factors-variance.md) — related
+- [Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit](sfailq-cfa-fit.md)

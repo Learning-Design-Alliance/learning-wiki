@@ -82,6 +82,7 @@ Cross age tutoring is one of the few arrangements that reliably benefits *both* 
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — students alternate the "teacher" role within a group, applying the same teaching-to-learn mechanism
 - [Cooperative Learning](cooperative-learning.md) — group-based alternative where helping structures are distributed rather than dyadic
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
+- [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **Reading Recovery–style buddy reading programs** — upper-elementary students pair with first-graders for repeated timed reading with error correction, a common cross age fluency intervention.

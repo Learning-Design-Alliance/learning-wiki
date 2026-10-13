@@ -78,7 +78,8 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](../claims/ten-cluster-feedback-types.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 
 ## Key Sources
 - Feng, M., Weiser, G., & Collins, K. (2024). Cost and cost effectiveness of ASSISTments online math support: Analysis from a randomized controlled study in middle school. WestEd. https://www.wested.org

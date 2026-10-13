@@ -40,7 +40,8 @@ A lesson-video generation workflow with three stages: LLM-based slide generation
 - [Educator Review Seven Criteria Caught Contradiction](../claims/educator-review-seven-criteria-caught-contradiction.md) [+M]
 
 ## Related Designs
-- 
+
+- [Human-supervised AI video production pipeline for personalized instructional videos](ai-personalized-video-production-pipeline.md)
 
 ## Examples
 -

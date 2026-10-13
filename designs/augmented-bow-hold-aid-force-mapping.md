@@ -39,7 +39,8 @@ A bow-mounted augmentation preserving the geometry of a traditional frog, using 
 - [Blv Bow Drift Late Detection Over Gripping](../claims/blv-bow-drift-late-detection-over-gripping.md) [+M]
 
 ## Related Designs
-- 
+
+- [Augmented bow track with graded friction feedback](augmented-bow-track-graded-friction.md)
 
 ## Examples
 -

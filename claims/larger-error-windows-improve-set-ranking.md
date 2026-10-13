@@ -43,5 +43,8 @@ Training-data evaluation of SET model configurations (278 students, average 51.6
 
 
 ## Related Claims
+
 - [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](set-calibration-window-beta-interaction.md) — related
 - [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](set-cause-level-ranking-typo-reverse.md) — related
+- [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](item-cause-density-precludes-cdms.md)
+- [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md)

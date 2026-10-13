@@ -45,7 +45,8 @@ The article defines a composite pedagogical quality score on [0,1] as the mean o
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](../claims/ai-expert-agreement-cognitive-versus-subjective-dimensions.md) [+M]
 
 ## Related Research Methods
--
+
+- [Six-dimensional agentic capability framework rated on a 1–5 ordinal scale](six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md)
 
 ## Key Sources
 - Sushan Adhikari. (2026). AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education — A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory. arXiv preprint. https://arxiv.org/abs/2609.14572

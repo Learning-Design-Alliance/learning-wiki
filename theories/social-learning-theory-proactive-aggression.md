@@ -48,6 +48,7 @@ The article grounds proactive aggression in social learning theory, under which 
 ## Examples
 
 - [Prosocial Modeling](../strategies/prosocial-modeling.md)
+- [School counselors should observe adolescent peer relations and identify high-risk girls early for prevention and intervention](../strategies/counselors-observe-peer-relations-early-identification-high-risk-girls.md)
 
 ## Key Sources
 - Uz Baş, A., & Öz Soysal, F. S. (2016). Peer relations and peer deviance as predictors of reactive and proactive aggression among high school girls. Educational Sciences: Theory & Practice, 16, 173-186. http://dx.doi.org/10.12738/estp.2016.1.0287

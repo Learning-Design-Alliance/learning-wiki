@@ -44,6 +44,7 @@ Descriptive review of Maryland disciplinary trends presented in an REL Mid-Atlan
 
 
 ## Related Claims
+
 - [Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18](maryland-exclusionary-discipline-declined-all-subgroups.md) — possibly the same claim (merge candidate)
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
@@ -62,3 +63,4 @@ Descriptive review of Maryland disciplinary trends presented in an REL Mid-Atlan
 - [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
 - [Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension](homeless-students-high-mobility-and-suspension.md) — related
+- [Black students and students with disabilities are disproportionately subjected to exclusionary discipline relative to their enrollment shares](discipline-disparities-black-students-disabilities-crdc.md)

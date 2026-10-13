@@ -58,8 +58,10 @@ Critique and revision operationalizes [Assessment for Learning](../principles/as
 4. Repeat with [Fading](../elements/fading.md): shift from instructor-led critique to structured peer critique to independent self-critique as evaluative skill grows.
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — the reciprocal form; critique and revision is the single-author version of the same cycle
 - [Drafting And Feedback Cycles](drafting-and-feedback-cycles.md) — the broader workflow this strategy instantiates
+- [Process-based evaluation strategies: desirable difficulties, think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible](process-based-evaluation-desirable-difficulties.md)
 
 ## Examples
 - **EL Education / Expeditionary Learning** (https://eleducation.org) — "kind, specific, helpful" critique protocols and multiple-draft "beautiful work" projects across its network schools.

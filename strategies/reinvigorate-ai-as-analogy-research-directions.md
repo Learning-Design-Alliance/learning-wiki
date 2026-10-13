@@ -39,7 +39,8 @@ The authors articulate future directions to revive research in the bottom half o
 - Metacognitive reflection on one's own learning; improved teaching strategies; understanding the complex nature of learning
 
 ## Related Strategies
-- 
+
+- [Pursue symbolic, hybrid, and metaverse-based AI approaches to address gaps left by subsymbolic AI in collaborative learning](future-symbolic-hybrid-metaverse-ai-collaborative-learning.md)
 
 ## Examples
 -

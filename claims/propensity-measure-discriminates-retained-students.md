@@ -43,5 +43,8 @@ Validity check comparing mean propensity for retention of retained versus not-re
 
 
 ## Related Claims
+
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](retention-associated-smaller-gains-than-promotion-chicago.md) — related
 - [Students in the top propensity-for-retention category showed higher gains than students not in the top category](top-retention-propensity-higher-gains.md) — related
+- [Birth month is a significant predictor of retention at all grades, but its connection with achievement is substantial only in the lower primary grades](birth-month-predicts-retention-all-grades.md)
+- [Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probability](retention-predictors-vary-by-grade.md)

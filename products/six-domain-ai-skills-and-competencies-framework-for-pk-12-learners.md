@@ -25,7 +25,8 @@ A Digital Promise framework that organizes PK-12 learner AI competencies across 
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](../claims/early-exposure-enhances-ai-self-efficacy.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Workforce AI literacy framework of six skill and competency domains](workforce-ai-literacy-framework-of-six-skill-and-competency-domains.md)
 
 ## Key Sources
 - Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.org

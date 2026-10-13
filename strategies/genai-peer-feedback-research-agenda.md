@@ -37,7 +37,8 @@ The article outlines a five-strand research agenda. Initial mixed-methods case s
 - Feedback quality, feedback literacy, uptake, affect, and speaking performance outcomes
 
 ## Related Strategies
-- 
+
+- [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 
 ## Examples
 -

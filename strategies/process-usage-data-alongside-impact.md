@@ -40,6 +40,7 @@ The article calls for 'evaluations that make greater use of process, implementat
 
 - [Broaden measured outcomes beyond high-stakes assessments to include durable skills](broaden-outcomes-to-durable-skills.md)
 - [Invest in technological infrastructure for evidence generation, including synthetic data, shared platforms, and privacy-enhancing technologies](invest-in-evidence-infrastructure.md)
+- [Evaluate edtech investments by Value of Investment alongside Total Cost of Ownership](voi-tco-edtech-investment-evaluation.md)
 
 ## Examples
 -

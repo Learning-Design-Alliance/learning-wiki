@@ -45,7 +45,8 @@ This commentary organizes the inferential mistakes examined by Simpson (2022) an
 - 
 
 ## Examples
--
+
+- [Use the BASIE framework to interpret impact estimates from evaluations](../strategies/basie-framework-interpret-impact-estimates.md)
 
 ## Key Sources
 - John Deke. (2023). A Strong Case for Rethinking Causal Inference. Journal of Research on Educational Effectiveness (online ahead of print). https://www.mathematica.org/publications/a-strong-case-for-rethinking-causal-inference

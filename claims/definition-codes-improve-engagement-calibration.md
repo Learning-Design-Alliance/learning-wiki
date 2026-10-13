@@ -43,4 +43,8 @@ Exploratory RQ2 calibration analysis: within six participant-grouped folds, four
 
 
 ## Related Claims
+
 - [Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals](learner-definitions-span-tripartite-dimensions.md) — related
+- [A head-confined multimodal configuration (EEG, eye tracking, forehead EDA) predicts held-out learners' five-level engagement ratings at 75.0% balanced 1-off accuracy, 12.0 points above the mode baseline](e3sense-head-confined-engagement-prediction.md)
+- [Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis](feature-selection-effects-mixed-across-families.md)
+- [Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1](model-family-rankings-depend-on-target.md)

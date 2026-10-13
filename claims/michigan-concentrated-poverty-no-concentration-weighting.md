@@ -43,8 +43,10 @@ An Education Law Center analysis of Census SAIPE 2017 data, reproduced in the re
 
 
 ## Related Claims
+
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
 - [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — related
 - [Students in Michigan's highest-poverty districts are nearly three times more likely to learn from beginning teachers than peers in low-poverty districts](michigan-beginning-teacher-distribution-inequity.md) — related
 - [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](michigan-low-income-weight-11-5-percent-loophole.md) — related
 - [Michigan underfunds students from low-income backgrounds and English Learners by an estimated $5.1 billion annually relative to leading states and research](michigan-underfunds-underserved-students-5-1-billion.md) — related
+- [Michigan is one of only sixteen states providing less state and local funding to its highest-poverty districts than to its lowest-poverty districts](michigan-highest-poverty-districts-receive-less-funding.md)

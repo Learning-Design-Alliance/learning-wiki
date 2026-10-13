@@ -40,6 +40,7 @@ The brief's policy scan organizes state action around six strategies: making edu
 
 - [Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it](public-school-level-educator-diversity-data-strategy.md)
 - [Six state policy strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
+- [Use attrition findings to inform staff retention efforts aligned with Pennsylvania's educator workforce strategy](use-attrition-findings-inform-retention-efforts.md)
 
 ## Examples
 -

@@ -40,7 +40,10 @@ To address a shortage of available mental health clinicians, SCOE built a career
 - 
 
 ## Related Designs
-- 
+
+- [SCOE centralized school-based mental health services through an FQHC-eligible Medi-Cal billing model](scoe-centralized-fqhc-mental-health-services.md)
+- [Coordination of Services Teams (COST) link students to mental health supports within a multi-tiered system of supports](scoe-cost-mtss-referral-coordination.md)
+- [YMHC member training and support framework (preservice training, site integration, ongoing development, career coaching, credentialing)](ymhc-member-training-support-framework.md)
 
 ## Examples
 -

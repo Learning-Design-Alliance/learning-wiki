@@ -16,7 +16,7 @@ sources:
 # Guideline exploration tool linking design guidelines to stakeholder statements
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents "a guideline exploration tool that aids in the ideation of technologies by connecting the guidelines to stakeholder statements surfaced in the analysis process". It is intended to inform meaningful ideation and technology refinement by letting designers trace each of the 19 guidelines back to the underlying stakeholder needs statements and supporting themes from the affinity diagram, which the authors also released in supplementary materials.
@@ -36,7 +36,8 @@ The article presents "a guideline exploration tool that aids in the ideation of 
 - Ideation and refinement of AI-supported adult learning technologies
 
 ### Claims
-- 
+
+- [Stakeholder groups prioritized different design guidelines: instructors most frequently commented on usability (G4), students on educational support (G13), and researchers on instructional best practices and learning engineering](../claims/stakeholder-groups-prioritize-different-guidelines.md) [+W]
 
 ## Related Designs
 - 

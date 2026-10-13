@@ -43,7 +43,9 @@ The brief cites external research (endnoted to an ACLU/UCLA analysis) that "Blac
 
 
 ## Related Claims
+
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](secondary-suspension-lost-instruction-five-times-elementary.md) — related
+- [Black students and students with disabilities are disproportionately subjected to exclusionary discipline relative to their enrollment shares](discipline-disparities-black-students-disabilities-crdc.md)

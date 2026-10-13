@@ -40,6 +40,7 @@ The article's forward-looking recommendation is to move beyond supervised fine-t
 ## Related Strategies
 
 - [Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone](finetuning-and-small-models-for-developmental-agents.md)
+- [Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment](hdr-platform-future-work-strategies.md)
 
 ## Examples
 -

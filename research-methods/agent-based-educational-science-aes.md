@@ -29,7 +29,8 @@ Agent-based educational science (AES) is a research agenda in which educational 
 - [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](../claims/social-proof-verification-collapse-cascade.md) [+M]
 
 ## Related Research Methods
--
+
+- [Student Development Agents](student-development-agents.md)
 
 ## Key Sources
 - Zhang, Y., Jiang, J. & Tang, X. (2026). Toward Agent-Based Educational Science: Rethinking Educational Research in the Age of AI. Educational Psychology Review, 38, 113. https://doi.org/10.1007/s10648-026-10209-5

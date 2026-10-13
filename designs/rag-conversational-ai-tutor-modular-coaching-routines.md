@@ -40,7 +40,9 @@ The Conversational AI Tutor is a retrieval-grounded conversational module built 
 - [Closed Loop Three Layer Interpretable Its Architecture](closed-loop-three-layer-interpretable-its-architecture.md) [+M]
 
 ## Related Designs
-- 
+
+- [CrewScaler 16-protocol AI-tutor coaching library](crewscaler-16-protocol-ai-tutor-library.md)
+- [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
 
 ## Examples
 -

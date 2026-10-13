@@ -44,6 +44,7 @@ The authors offer a forward-looking design recommendation for instructors adapti
 ## Related Strategies
 
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
+- [Teach students to distinguish durable principles from contingent capabilities to keep their model of the field current](durable-principles-versus-contingent-capabilities.md)
 
 ## Examples
 -

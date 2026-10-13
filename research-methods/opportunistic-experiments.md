@@ -29,7 +29,8 @@ The guide follows a three-part organizing structure: it "defines opportunistic e
 ### Claims
 
 ## Related Research Methods
--
+
+- [Systematic screening for opportunistic experiments](systematic-screening-for-opportunistic-experiments.md)
 
 ## Key Sources
 - Alexandra Resch, Jillian Berk, Lauren Akers. (2014). Recognizing and Conducting Opportunistic Experiments in Education: A Guide for Policymakers and Researchers. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/edprojects

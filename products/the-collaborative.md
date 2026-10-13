@@ -31,7 +31,8 @@ The Collaborative is a branded initiative run by its organizing collaborative to
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](../claims/half-2023-ca-credentials-substandard.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [The Region 15 FACE Collaborative](the-region-15-face-collaborative.md)
 
 ## Key Sources
 - Region 15 Comprehensive Center. (2022). Advancing Family and Community Engagement: A Regional Collaborative. https://region15cc.org

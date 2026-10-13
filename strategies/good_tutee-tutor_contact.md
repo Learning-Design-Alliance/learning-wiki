@@ -56,9 +56,11 @@ Contact quality predicts both motivation and achievement: learner-centered teach
 5. Close with specific, actionable feedback and an explicit invitation to return, ending on a note of progress [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the conversational skill that converts contact time into trust
 - [Achievable Micro-Goals](achievable_micro-goals.md) — gives each contact a visible success, reinforcing the relationship with progress
 - [Action Planning](action_planning.md) — structures what tutees commit to between contacts
+- [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the instructional mode that depends on the rapport contact establishes

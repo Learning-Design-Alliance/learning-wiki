@@ -41,7 +41,11 @@ The curriculum organizes content into four coordinated tracks connecting discipl
 - 
 
 ## Related Designs
-- 
+
+- [MLME: an open-access, project-based AI curriculum for thermal engineering totaling 39.1 hours with four core projects and three optional projects](mlme-course-thermal-ai-curriculum.md)
+- [Integrated robotics course framework organizing a complete research workflow around one shared robot artifact](integrated-robotics-course-framework-shared-artifact.md)
+- [Project-based robotics + AI curriculum structured by P3 Task Taxonomy with backward design](p3-taxonomy-robotics-ai-curriculum.md)
+- [ToddlerBot-based humanoid curriculum instantiation for grades 9-12 with eight CS+AI sessions](toddlerbot-high-school-rl-curriculum.md)
 
 ## Examples
 -

@@ -39,7 +39,8 @@ The article proposes educational practices that shift attention from how often s
 - self-regulated AI use
 
 ## Related Strategies
-- 
+
+- [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
 -

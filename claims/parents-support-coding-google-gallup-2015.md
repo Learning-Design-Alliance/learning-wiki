@@ -43,4 +43,7 @@ The paper cites a 2015 Google/Gallup poll of U.S. parents showing "9 out of 10 U
 
 
 ## Related Claims
--
+
+- [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md)
+- [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md)
+- [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md)

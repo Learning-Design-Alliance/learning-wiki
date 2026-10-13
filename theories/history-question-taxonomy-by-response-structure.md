@@ -41,6 +41,7 @@ The report presents a taxonomy of the questions middle school students are expec
 ## Related Theories
 
 - [Goal-Action-Outcome frame: explanations of many historical events have a generic structure of goal, action, and outcome](goal-action-outcome-frame-history-explanations.md)
+- [Van Fraassen pragmatic theory of explanation as a theory of why-questions](van-fraassen-pragmatic-theory-of-explanation.md)
 
 ## Examples
 -

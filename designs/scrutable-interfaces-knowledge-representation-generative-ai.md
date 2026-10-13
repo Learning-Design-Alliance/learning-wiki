@@ -44,7 +44,8 @@ Scrutable interfaces use a knowledge representation, such as a concept map, to s
 - [Concept Catalyst Outputs Inspire Practice Reflection](../claims/concept-catalyst-outputs-inspire-practice-reflection.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-model ITS architecture with inner and outer loop pedagogical model](script-four-model-architecture-inner-outer-loop.md)
 
 ## Examples
 -

@@ -26,7 +26,9 @@ The Education Trust's policy framework organizes state and district action acros
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Reimagining Excellence blueprint](reimagining-excellence-blueprint.md)
+- [SEAD integration framework (the three-legged stool)](sead-integration-framework-the-three-legged-stool.md)
 
 ## Key Sources
 - The Education Trust. (2023). How Does Tennessee Support Students' Social, Emotional, and Academic Development (SEAD)?. https://EdTrust.org

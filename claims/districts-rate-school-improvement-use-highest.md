@@ -44,4 +44,6 @@ Forced-choice survey item in which districts rated use of test scores on a five-
 
 
 ## Related Claims
+
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
+- [Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common](district-testing-student-assessment-dominant-purpose.md)

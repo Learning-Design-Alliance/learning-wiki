@@ -25,7 +25,8 @@ TenSquare's framework guides boards, school leaders, and turnaround partners in 
 - [Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround](../claims/perry-street-tier-iii-to-tier-i-turnaround.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Seven categories of charter school core functions for organizing distress indicators](seven-categories-of-charter-school-core-functions-for-organizing-distress-indicators.md)
 
 ## Key Sources
 - Evan, A. (2019). From the brink of closure: Key factors in one charter school's successful turnaround. San Francisco, CA: WestEd. https://dcpcsb.egnyte.com/dl/hdsUO9pDbh/

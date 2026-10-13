@@ -32,7 +32,8 @@ A Center on School Turnaround at WestEd competency framework identifying high-im
 - [Strong leadership is central to rapid school improvement, per the article's summary of research](../claims/leadership-central-rapid-school-improvement.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [University of Virginia Partnership for Leaders in Education turnaround competency model](university-of-virginia-partnership-for-leaders-in-education-turnaround-competency-model.md)
 
 ## Key Sources
 - Center on School Turnaround at WestEd. (2018). Thought Leadership Forum Brief: Turnaround Leadership and Leadership Competencies. San Francisco, CA: WestEd. http://centeronschoolturnaround.org

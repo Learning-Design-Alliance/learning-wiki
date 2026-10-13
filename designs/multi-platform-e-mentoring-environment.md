@@ -42,7 +42,9 @@ The intervention combined four digital platforms, each with a distinct function:
 - 
 
 ## Related Designs
-- 
+
+- [Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection](three-phase-practicum-e-mentoring-cycle.md)
+- [Padlet-plus-ChatGPT digital workspace configuration for e-portfolio speaking tasks](padlet-chatgpt-eportfolio-workspace.md)
 
 ## Examples
 -

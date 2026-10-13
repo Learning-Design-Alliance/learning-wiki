@@ -81,11 +81,13 @@ Shadowing works as an intensive, temporary scaffold: it substitutes adult regula
 7. **Fade deliberately.** Systematically increase distance and reduce prompting as the student succeeds, transferring monitoring to the student ([assess performance](../elements/assess-performance.md) before each fade step).
 
 ## Related Strategies
+
 - [Positive greetings at the door](positive-greetings-at-the-door.md) — a low-intensity relationship-building strategy that reduces misbehavior before one-to-one support is needed
 - [Check-in/check-out](check-incheck-out.md) — a Tier 2 mentoring structure that shadowing can fade into
 - [Behavior-specific praise](behavior-specific-praise.md) — the primary tool the shadow uses to reinforce replacement behavior
 - [Planned Ignoring](planned-ignoring.md) — often paired: minimize attention for the problem behavior while shadowing reinforces the replacement
 - [Precorrection](precorrection.md) — the antecedent prompting strategy shadowing delivers in real time
+- [School counselors should observe adolescent peer relations and identify high-risk girls early for prevention and intervention](counselors-observe-peer-relations-early-identification-high-risk-girls.md)
 
 ## Examples
 - A kindergarten student who bites during unstructured transitions is shadowed by a paraprofessional for three weeks; the shadow pre-teaches a "ask for a break" card, prompts it at each transition, and fades to proximity by week five as incident data drops.

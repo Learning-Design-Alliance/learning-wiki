@@ -40,7 +40,9 @@ A district-level universal screening system in which every Project Cal-Well dist
 - 
 
 ## Related Designs
-- 
+
+- [Mental and behavioral health referral pathways and community of practice](cal-well-referral-pathways-community-of-practice.md)
+- [Universal mental health screening toolkit: SAEBRS, SDQ, ProQOL, and monthly Kelvin real-time pulses](pusd-universal-screening-toolkit.md)
 
 ## Examples
 -

@@ -31,7 +31,9 @@ A Carnegie Learning–donated dataset distributed through the PSLC DataShop cont
 - [Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy](../claims/spectral-bkt-beats-standard-bkt-accuracy-kdd2010.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FoundationalASSIST dataset](foundationalassist-dataset.md)
+- [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 
 ## Key Sources
 - Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup

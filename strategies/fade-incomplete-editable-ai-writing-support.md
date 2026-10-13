@@ -39,7 +39,8 @@ Based on their finding that AI support at different writing stages has different
 - Materialist Idealist Ownership Routes Writing
 
 ## Related Strategies
-- 
+
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ The paper proposes "a three-principle framework (transparency, human mediation, 
 - [Transparency Pedagogical Intervention Assessment Reflection](../claims/transparency-pedagogical-intervention-assessment-reflection.md) [+M]
 
 ## Related Designs
-- 
+
+- [Aligned Generative AI Course Policy framework for deciding allowed and unallowed GenAI use per task](aligned-generative-ai-course-policy-framework.md)
 
 ## Examples
 -

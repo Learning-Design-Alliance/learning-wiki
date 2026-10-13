@@ -43,7 +43,8 @@ The article states five principles (P1-P5) describing the framework: coordinate 
 - 
 
 ## Related Designs
-- 
+
+- [Integrated robotics course framework organizing a complete research workflow around one shared robot artifact](integrated-robotics-course-framework-shared-artifact.md)
 
 ## Examples
 -

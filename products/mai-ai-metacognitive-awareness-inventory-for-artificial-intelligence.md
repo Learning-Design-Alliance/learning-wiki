@@ -25,7 +25,8 @@ A 29-item AI-centered Likert self-report instrument developed by Pau Benazet i M
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [44-item ethical GenAI use questionnaire](44-item-ethical-genai-use-questionnaire.md)
 
 ## Key Sources
 - Pau Benazet i Montobbio, Janne Rotter, Davinia Hernández-Leo. (2026). Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study. https://arxiv.org/abs/2607.20047

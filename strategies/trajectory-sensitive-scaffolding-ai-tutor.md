@@ -40,7 +40,8 @@ The authors propose that an AI tutor consider recent interaction history when de
 - [Epistemic Proactivity Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Detect low-literacy Generation-Factual loops and intervene with prompts steering students toward drafting and requesting critique](real-time-scaffolding-generation-factual-loop.md)
 
 ## Examples
 -

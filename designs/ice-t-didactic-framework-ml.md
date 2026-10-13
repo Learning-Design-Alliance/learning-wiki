@@ -44,7 +44,8 @@ ICE-T is a multi-faceted didactic framework for teaching machine learning whose 
 - [K12 Ml Activities Cluster Low Abstraction](../claims/k12-ml-activities-cluster-low-abstraction.md) [+M]
 
 ## Related Designs
-- 
+
+- [PETSP-ML: a four-stage classroom process model for explanatory thinking in machine learning, adapted from CRISP-DM](petsp-ml-process-model.md)
 
 ## Examples
 -

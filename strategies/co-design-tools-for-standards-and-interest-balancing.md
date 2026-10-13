@@ -51,7 +51,9 @@ Curriculum co-design teams often face two goals in tension: covering required st
 8. **Co-create the storyline**: using a template (lesson-level questions, phenomena, standards, and student "punchlines"), draft the unit from the student perspective.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Align educational technology initiatives with student interests and community needs](align-tech-initiatives-student-interests-community-needs.md)
 
 ## Examples
 - A unit-lead team of 12 co-designers (researchers, teachers, a district coordinator) plus 15-19 additional workshop teachers ran this process across two annual workshops (2019 in-person, 2020 virtual) over roughly two years, ultimately selecting a space-exploration anchoring phenomenon over an equally interest-rated air-pollution phenomenon because air pollution better matched middle-school standards.

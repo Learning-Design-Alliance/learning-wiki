@@ -37,7 +37,8 @@ The guide recommends that districts move beyond cost analysis when justifying ed
 - Making financially responsible, mission-aligned edtech procurement decisions
 
 ## Related Strategies
-- 
+
+- [Use process and usage data alongside impact data in edtech evaluations](process-usage-data-alongside-impact.md)
 
 ## Examples
 -

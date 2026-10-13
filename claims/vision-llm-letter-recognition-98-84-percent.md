@@ -43,4 +43,6 @@ Practical evaluation of vision-capable LLMs on scanned examination answer tables
 
 
 ## Related Claims
+
 - [An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment](yolo5-handwriting-recognition-88-percent-insufficient.md) — related
+- [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md)

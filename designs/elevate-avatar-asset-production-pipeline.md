@@ -41,7 +41,8 @@ The prototype's Virtual Teacher avatar was manually authored rather than sourced
 - 
 
 ## Related Designs
-- 
+
+- [CrewScaler: an end-to-end five-stage AI-accelerated upskilling pipeline](crewscaler-five-stage-ai-upskilling-pipeline.md)
 
 ## Examples
 -

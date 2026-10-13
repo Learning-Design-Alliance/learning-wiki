@@ -63,6 +63,7 @@ Mindfulness practice targets the attentional and regulatory substrate on which a
 - [Achievable Micro-Goals](achievable_micro-goals.md) — pairs regulation with manageable task entry points
 - [Active Listening](active-listening.md) — the interpersonal counterpart: regulating one's own reactivity during dialogue
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
+- [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — published PreK–8 curriculum pairing daily "Core Practice" breathing with neuroscience lessons on the brain's stress response.

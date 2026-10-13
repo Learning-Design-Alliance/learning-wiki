@@ -41,7 +41,8 @@ The feedback system is a Hybrid-AI framework that "combines data-driven forecast
 - Propact Dyadic Forecast Driven Adaptivity Framework [+M]
 
 ## Related Designs
-- 
+
+- [Hybrid micro-level personalization framework combining learner-driven preferences with system-driven Bloom's Taxonomy cognitive assessment](hybrid-micro-personalization-framework.md)
 
 ## Examples
 -

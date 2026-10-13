@@ -24,7 +24,9 @@ BILearn-CS is an instructor-authored and teaching-assistant-validated benchmark 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TutorTrace dataset of IDE telemetry, behavioral segments, and observable metrics from 480 learners across four introductory Python deployments](tutortrace-dataset-of-ide-telemetry-behavioral-segments-and-observable-metrics-from-480-le.md)
+- [TutorTrace](tutortrace.md)
 
 ## Key Sources
 - S M Asif Hossain, Ruksat Khan Shayoni, M. F. Mridha, and Jungpil Shin. (2026). EduGuard: A Safe RAG-Based LLM Tutor for Programming Education. arXiv preprint arXiv:2607.15738. https://arxiv.org/abs/2607.15738

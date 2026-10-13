@@ -43,8 +43,10 @@ Standardized probability contrast from the primary pooled allocation model; the 
 
 
 ## Related Claims
+
 - [Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast](special-education-strongest-demand-ai-alignment.md) — related
 - [The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient](demand-ai-allocation-association-task-contingent.md) — related
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity](cross-system-heterogeneity-task-specific-ai-profiles.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — related
+- [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](task-demand-mapping-specificity-ai-use.md)

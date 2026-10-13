@@ -38,7 +38,9 @@ The article advises that public reflection (blogs, discussion boards) carries a 
 - reflective practice
 
 ## Related Strategies
-- 
+
+- [Multimodal Learning Logs/Blogs](multimodal-learning-logs-blogs.md)
+- [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ The authors propose real-time scaffolding: systems detecting the "Generation-Fac
 - shifting from transactional GenAI use to epistemic collaboration
 
 ## Related Strategies
-- 
+
+- [Trajectory-sensitive scaffolding: use recent interaction history to return epistemic work to the learner when closure-oriented requests accumulate](trajectory-sensitive-scaffolding-ai-tutor.md)
 
 ## Examples
 -

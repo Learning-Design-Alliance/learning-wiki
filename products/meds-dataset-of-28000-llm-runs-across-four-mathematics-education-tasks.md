@@ -24,7 +24,11 @@ A publicly released dataset by Esposito et al. containing 28,000 structured mult
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Large-scale field study dataset and code release for AI-generated exam evaluation](large-scale-field-study-dataset-and-code-release-for-ai-generated-exam-evaluation.md)
+- [TURTLEAI benchmark](turtleai-benchmark.md)
+- [398-item evaluation dataset of teacher-requested geometric diagrams from Coteach](398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach.md)
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618

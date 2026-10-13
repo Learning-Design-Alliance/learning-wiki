@@ -25,7 +25,8 @@ A Connecticut educator-pipeline programme run through a partnership between the 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher residency model](teacher-residency-model.md)
 
 ## Key Sources
 - Dana Chambers and Trang Hoang. (2022). How Region 2 States Are Leveraging Innovative Strategies to Address Critical Shortages of Education Personnel. Special Issues Brief.

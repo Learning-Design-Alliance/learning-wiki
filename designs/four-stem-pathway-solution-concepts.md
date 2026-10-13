@@ -40,7 +40,9 @@ In the Design & Develop phase, advisors "voted to select four solution concepts 
 - 
 
 ## Related Designs
-- 
+
+- [San Diego STEM Pathways Community Advisory Committee (CAC)](san-diego-stem-community-advisory-committee.md)
+- [Co-design principles for regional STEM pathways: Pre-K-to-career alignment, flexible entry, stackable credentials, industry recognition, and representative instructors](stem-pathways-co-design-principles.md)
 
 ## Examples
 -

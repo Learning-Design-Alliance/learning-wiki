@@ -43,9 +43,11 @@ The report cites a 2024 memo by Pryor and Saucedo reporting subsidized childcare
 
 
 ## Related Claims
+
 - [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](yolo-county-eight-countywide-needs.md) — related
 - [Based on the California Poverty Measure, 16.6% of Yolo County children live in poverty](yolo-child-poverty-cpm-16-6.md) — related
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](california-ece-serves-minority-of-eligible-children.md) — related
 - [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](california-ece-serves-only-33-percent-eligible-children.md) — related
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md) — related
 - [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md) — related
+- [The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage](us-lags-industrialized-nations-early-family-supports.md)

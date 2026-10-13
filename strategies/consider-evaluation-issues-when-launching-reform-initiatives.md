@@ -40,6 +40,7 @@ The strategy the guide embodies is that states launching new reform initiatives 
 
 - [Prepare for Parental Reactions](prepare_for_parental_reactions.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
+- [Use planning questions rather than fixed prescriptions when designing staff development program features](planning-questions-not-prescriptions.md)
 
 ## Examples
 -

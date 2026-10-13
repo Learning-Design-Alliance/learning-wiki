@@ -25,7 +25,12 @@ QTEL is a professional-development and instructional programme that supports edu
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MyTeachingPartner-Secondary (MTP-S)](myteachingpartner-secondary-mtp-s.md)
+- [Content-Focused Coaching](content-focused-coaching.md)
+- [Pathway to Academic Success Project](pathway-to-academic-success-project.md)
+- [Reading Apprenticeship](reading-apprenticeship.md)
+- [ERWC](erwc.md)
 
 ## Key Sources
 - Helping English Learners Rise to the Challenge of Complex Texts. (2014). WestEd R&D Alert, Vol. 14, No. 3. http://ell.stanford.edu/teaching_resources/ela

@@ -25,7 +25,8 @@ A restricted dataset of 1,650 educator- and student-submitted STEM questions con
 - [StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants](../claims/structrag-outperforms-baselines-stem-diagrams.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Curated library of 375 abstract graph templates built with 12 STEM educators](curated-library-of-375-abstract-graph-templates-built-with-12-stem-educators.md)
 
 ## Key Sources
 - Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00459-9

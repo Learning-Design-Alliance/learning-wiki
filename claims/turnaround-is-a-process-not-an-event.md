@@ -43,9 +43,11 @@ Authors' interpretive conclusion drawn from the study's pattern of gradual eleme
 
 
 ## Related Claims
+
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — a narrower finding that bears on this claim
 - [Closure and Restart, AUSL, and OSI models rehired fewer than 10 percent of prior teachers, and post-reform workforces were younger, less experienced, more likely white, and more likely provisionally certified](turnaround-teacher-workforce-replacement-patterns.md) — related
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](turnaround-student-composition-stable-except-restart.md) — related
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related
 - [Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes](race-influential-not-determinative.md) — related
+- [Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process](workers-treat-admissions-as-sudden-procedural-event.md)

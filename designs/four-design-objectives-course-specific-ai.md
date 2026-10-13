@@ -17,7 +17,7 @@ sources:
 # Four educational design objectives for course-specific AI support: course-specificity, independent learning, transparency and trust, and complementing existing teaching
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organises Beacon's educational design around four objectives: providing course-specific academic support aligned with module outcomes; supporting independent learning through explanations and guidance rather than complete solutions; promoting transparency and trust so students can verify where information originates; and complementing existing teaching practices by enhancing rather than replacing lecturer and tutor interaction. The authors state "RAGwasthereforeadoptednotsimplyasatechnicalsolution,butas aneducationaldesignchoicethatenablesAI‐generatedsupporttore maintransparent,contextuallyrelevant,andalignedwithinstitutional teachingpractices." These objectives informed each stage of development, from knowledge-base construction to interface design.
@@ -39,10 +39,14 @@ The article organises Beacon's educational design around four objectives: provid
 - trust and verification of AI-generated explanations
 
 ### Claims
+
 - Beacon Course Specific Rag Support System [+S]
+- [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](../claims/cautious-trust-in-course-specific-rag.md) [+W]
+- [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](../claims/pilot-students-perceive-rag-responses-course-aligned.md) [+W]
 
 ## Related Designs
-- 
+
+- [Course-specific RAG as an intermediary layer between independent study and formal academic support](course-specific-rag-intermediary-support-layer.md)
 
 ## Examples
 -

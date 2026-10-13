@@ -43,6 +43,7 @@ The authors argue that fostering responsible AI usage extends beyond tool design
 - [Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI](ai-literacy-up-and-stress-down-reduce-ai-dependence.md)
 - [Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users](calibrated-trust-and-anxiety-support-strategy.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Instructional designers use AI-ARC across analysis, design, development, and evaluation to align outcomes with responsible AI integration](ai-arc-design-heuristic-for-instructional-designers.md)
 
 ## Examples
 -

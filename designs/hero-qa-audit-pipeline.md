@@ -17,7 +17,7 @@ sources:
 # HERO-QA pipeline: hierarchical retrieval, answer generation with abstention, and a structured-output LLM judge
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 HERO-QA is the audit pipeline the article uses to generate and compare answers grounded in different institutional handbooks. The article states it "uses hierarchical BM25 (Robertson & Zaragoza, 2009) and dense retrieval (Xiao et al., 2024) with reranking, or the full extracted text for short handbooks (≤80,000 characters)." Qwen3-32B generates answers at temperature 0.1 and can return NOT ADDRESSED when evidence is insufficient; a Qwen3-32B judge with structured JSON output assigns a relationship label (ABSENT, CONSISTENT, COMPLEMENTARY, DIVERGENT, CONTRADICTORY), a divergence topic, and a low/medium/high significance rating.
@@ -37,10 +37,13 @@ HERO-QA is the audit pipeline the article uses to generate and compare answers g
 - measuring coverage and disagreement across institutional patient-education corpora before AI deployment
 
 ### Claims
-- 
+
+- [Across 1.77M answer-pair comparisons, explicit contradiction is rare (0.06%) while compatible differences in detail dominate (57.3% complementary) among non-absent pairs](../claims/contradiction-rare-complementary-dominates.md) [+W]
+- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](../claims/human-audit-claim-verifiability.md) [+W]
 
 ## Related Designs
-- 
+
+- [Five-stage retrieval-grounded textbook synthesis pipeline producing 686K source-grounded books (32B tokens)](retrieval-grounded-textbook-synthesis-pipeline.md)
 
 ## Examples
 -

@@ -48,6 +48,8 @@ Because submitted code provides limited evidence of what students did after rece
 - [Discussions to Guide Reflection](discussions_to_guide_reflection.md)
 - [Reflective Prompts](reflective_prompts.md)
 - [Shared Reflection](shared_reflection.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](metacognitive-ai-use-monitoring-strategies.md)
+- [Make the state of pending administrative processes visible to participants to remove status-enquiry volume](process-state-visibility-reduces-status-enquiries.md)
 
 ## Examples
 -

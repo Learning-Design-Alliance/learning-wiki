@@ -47,6 +47,9 @@ The review recommends that deployment of agentic AI in education be governed by 
 - [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 - [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
 - [Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design](ethical-safeguards-ai-tefl-tools-strategy.md)
+- [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
+- [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
+- [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 
 ## Examples
 -

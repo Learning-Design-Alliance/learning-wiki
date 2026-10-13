@@ -42,7 +42,9 @@ The report distills UCLA Community School's approach into six key practices: kno
 - [Ucla Cs Rising A G And Graduation Outcomes](../claims/ucla-cs-rising-a-g-and-graduation-outcomes.md) [+W]
 
 ## Related Designs
-- 
+
+- [Community Integrated Data System for coordinating student supports](community-integrated-data-system-ucla-cs.md)
+- [Four core competencies and three core beliefs guiding teaching and learning at UCLA-CS](ucla-cs-four-core-competencies.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ Worker and learner participants co-designed recommendations for employers across
 
 - [Provider Codesigned Tech Pathway Supports](provider-codesigned-tech-pathway-supports.md)
 - [Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies](three-strategic-actions-tech-equity.md)
+- [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
 
 ## Examples
 -

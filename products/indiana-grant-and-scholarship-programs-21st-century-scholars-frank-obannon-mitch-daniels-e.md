@@ -24,7 +24,11 @@ Indiana state financial-aid programmes that provide grants or scholarships to el
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [EdTrust's ten-metric framework for student-centered state financial aid](edtrusts-ten-metric-framework-for-student-centered-state-financial-aid.md)
+- [Illinois Monetary Award Program (MAP) grant](illinois-monetary-award-program-map-grant.md)
+- [Minnesota North Star Promise Scholarship, NSP+, and Minnesota State Grant](minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant.md)
+- [California Golden State Teacher Grant (GSTG) Program](california-golden-state-teacher-grant-gstg-program.md)
 
 ## Key Sources
 - Victoria Jackson. (2025). An Overview of State Financial Aid in Illinois, Indiana, and Minnesota. EdTrust. https://edtrust.org

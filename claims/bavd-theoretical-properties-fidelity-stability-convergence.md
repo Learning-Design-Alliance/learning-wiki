@@ -43,6 +43,8 @@ Analytical derivations (Theorems 1-5 and Proposition 1) proved in Section 11. Th
 
 
 ## Related Claims
+
 - [The additive entropy decomposition is an upper bound, not a security measure; adversary uncertainty is a conditional entropy](bavd-entropy-decomposition-upper-bound-not-security-measure.md) — related
 - [Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance](bavd-attenuation-monotone-accessibility-security-tradeoff.md) — related
 - [The closed-loop adaptation law is stable only when the adaptation gain is small relative to behavioural responsiveness](bavd-closed-loop-stability-contraction-condition.md) — related
+- [The temporal diversion channel is unavailable on commodity 60 Hz displays, leaving a weaker spatial-only variant](bavd-temporal-channel-unavailable-60hz-hardware.md)

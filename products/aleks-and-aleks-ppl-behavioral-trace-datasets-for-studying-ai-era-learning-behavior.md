@@ -26,7 +26,9 @@ Large-scale datasets made available by ALEKS containing learning interactions, p
 - [On randomly assigned proctored retention items, odds of correct response on AI-susceptible items decline 25.0% cumulatively after ChatGPT's release](../claims/proctored-retention-odds-decline-25-percent.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FoundationalASSIST dataset](foundationalassist-dataset.md)
+- [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 
 ## Key Sources
 - Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv preprint. https://arxiv.org/abs/2605.21629

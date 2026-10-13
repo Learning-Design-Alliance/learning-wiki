@@ -63,7 +63,8 @@ The article recommends that evaluators discuss "appropriate precision standards"
 - [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 
 ## Related Research Methods
--
+
+- [Power planning for mediator–outcome linkage analyses in clustered education RCTs](power-planning-for-mediatoroutcome-linkage-analyses-in-clustered-education-rcts.md)
 
 ## Key Sources
 - Peter Z. Schochet. (2008). Statistical Power for Random Assignment Evaluations of Education Programs. Journal of Educational and Behavioral Statistics, vol. 33, no. 1. https://www.mathematica.org

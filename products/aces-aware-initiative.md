@@ -24,7 +24,8 @@ A California statewide initiative led by the California Surgeon General and the 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Children and Youth Behavioral Health Initiative (CYBHI)](children-and-youth-behavioral-health-initiative-cybhi.md)
 
 ## Key Sources
 - Breaking Barriers, California Alliance of Child and Family Services, Santa Clara County Office of Education, & WestEd. (2022). Supporting California's children through a whole child approach: A field guide for creating integrated, school-based systems of care. https://WestEd.org/permissions

@@ -26,7 +26,8 @@ Dongjie Yang et al.'s released corpus, diagnostic benchmark, annotations, and mo
 - [Post-training improves TACTutor's auxiliary guardrail flags on TACTBench: accept rate rises from 0.603 to 0.872 and leak-or-overhelp falls from 0.346 to 0.026](../claims/tactutor-guardrail-flags-improve-accept-leak.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FEEDTYPE: a benchmark of teacher and LLM feedback annotated for feedback focus across three writing domains](feedtype-a-benchmark-of-teacher-and-llm-feedback-annotated-for-feedback-focus-across-three.md)
 
 ## Key Sources
 - Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952

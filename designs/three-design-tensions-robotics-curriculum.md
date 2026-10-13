@@ -41,7 +41,11 @@ The article synthesizes expert feedback into three tensions organizing the frame
 - 
 
 ## Related Designs
+
 - [Expert Review Six Cross Case Themes](../claims/expert-review-six-cross-case-themes.md)
+- [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
+- [Four design goals for teacher-facing programming-process visualization: visibility, workflow support, formative feedback, and non-automated integrity clarification](four-design-goals-process-visualization-teachers.md)
+- [Integrated robotics course framework organizing a complete research workflow around one shared robot artifact](integrated-robotics-course-framework-shared-artifact.md)
 
 ## Examples
 -

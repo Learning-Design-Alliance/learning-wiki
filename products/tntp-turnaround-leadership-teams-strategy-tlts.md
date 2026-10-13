@@ -35,7 +35,8 @@ A TNTP school-improvement programme that diagnoses school needs and develops and
 - [After two years, TLTS raised student math achievement by 0.09 standard deviations relative to comparison schools](../claims/tlts-two-year-math-effect-009-sd.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [T3 Turnaround Teacher Teams](t3-turnaround-teacher-teams.md)
 
 ## Key Sources
 - Naihobe Gonzalez, Marykate Zukiewicz, Alicia Demers, Francisco Yang, Daniel Welsh. (2023). Evaluation of TNTP's Turnaround Leadership Teams Strategy, 2018–2022. Mathematica. https://www.mathematica.org/publications/evaluation-of-tntps-turnaround-leadership-teams-strategy-2018-2022

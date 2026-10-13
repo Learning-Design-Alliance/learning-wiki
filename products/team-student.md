@@ -32,7 +32,9 @@ A branded whole-school framework that centers students and families in school de
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](../claims/student-mastery-increase-team-student.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md)
+- [Rocky Mountain Prep Family Advocacy Support Team (FAST)](rocky-mountain-prep-family-advocacy-support-team-fast.md)
 
 ## Key Sources
 - Brundidge, G. (2025). TEAM student: A comprehensive model for family-friendly, student-centered middle schooling. National Youth Advocacy and Resilience Journal, 8(1), 15-22. https://doi.org/10.20429/nyarj.2025.080103

@@ -17,7 +17,7 @@ sources:
 # Youth-led professional development trainings on racial justice and relationship-centered practices
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Youth-led professional development opportunities are a primary mechanism through which the RCS campaign has spread relationship-centered practice beyond its core set of actors. Interviewees from all four regions mentioned "the growing presence of youth-led trainings, which were learning opportunities that gathered practitioners and students together to learn how to better advance racial justice at school sites." These trainings were typically open to interested educators and school leaders across the district, structured by topic (including implicit bias and relationship-centered practices), and featured youth leadership, a consistent focus on racial justice, and discussion of culturally responsive and antiracist approaches.
@@ -41,7 +41,8 @@ Youth-led professional development opportunities are a primary mechanism through
 - Community-building and deep listening
 
 ### Claims
-- 
+
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](../claims/enabling-factors-relationship-centered-transformation.md) [+W]
 
 ## Related Designs
 - 

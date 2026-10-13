@@ -25,7 +25,9 @@ A set of software platforms developed by their respective makers for building, o
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CocoFlow](cocoflow.md)
+- [MAIC platform](maic-platform.md)
 
 ## Key Sources
 - Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., Atif, A. (2025). Evolution of AI in Education: Agentic Workflows. https://github.com/AzizovDilshod/Multi-agent-System-for-Essay-Assessment/tree/main

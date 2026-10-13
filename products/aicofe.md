@@ -26,7 +26,9 @@ AICoFe is a human-centered AI collaborative feedback system developed by Alvaro 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [AICoFe Visualization Module](aicofe-visualization-module.md)
+- [AISSA](aissa.md)
 
 ## Key Sources
 - Alvaro Becerra, Alejandra Palma and Ruth Cobos. (2026). AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education. LASI Spain 26: Learning Analytics Summer Institute Spain 2026. https://orcid.org/0009-0003-7793-2682

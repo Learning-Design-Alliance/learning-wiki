@@ -16,7 +16,7 @@ sources:
 # HP Learning Studio at Anaheim High School
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 5 studies (3 design, 2 qualitative), `q1`–`q2` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 The HP Learning Studio is a school-community technology space launched in Winter 2024 at Anaheim High School, featuring "high-end HP workstations running Windows 11 and powered by the latest Intel processors, scholastic esports peripherals, and prosumer-grade audio-visual and broadcasting equipment." It is deliberately not tied to any one teacher's class or club, sits in the center of campus, and provides access to broadcasting, graphic design, podcasting, computer science, audiovisual, and esports equipment so students not enrolled in CTE pathways can explore interests. Equipment selection prioritized versatility, power, and long-term value, with modular PCs that can be upgraded.
@@ -36,7 +36,10 @@ The HP Learning Studio is a school-community technology space launched in Winter
 - exploration of career interests, CTE pathway awareness and engagement, authentic project-based learning
 
 ### Claims
-- 
+
+- [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](../claims/learning-studio-exposure-builds-student-awareness.md) [+W]
+- [Educators moved from awareness to interest in integrating the studio's technology into their coursework](../claims/educators-awareness-to-interest-technology-integration.md) [+W]
+- [Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement](../claims/anaheim-lab-year-two-expanded-impact.md) [+W]
 
 ## Related Designs
 - 

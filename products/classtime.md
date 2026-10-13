@@ -33,7 +33,8 @@ Classtime is a web-based formative-assessment platform made by Classtime that le
 - [The Classtime evidence base qualifies for a Promising rating based on one quasi-experimental study of 6,853 students](../claims/classtime-promising-rating-single-quasi-experiment.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Lenses](lenses.md)
 
 ## Key Sources
 - Classtime. (2024). Classtime evidence summary. https://www.evidenceforessa.org

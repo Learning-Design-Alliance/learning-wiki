@@ -48,6 +48,7 @@ The article provides "precise definitions of key concepts in the field of edit-b
 ## Examples
 
 - [Continuous Hint Factory (CHF)](../elements/continuous-hint-factory-chf.md)
+- [Select hint-training data from successful students using a goal-directedness criterion](../strategies/successful-goal-directed-trace-selection.md)
 
 ## Key Sources
 - Benjamin Paaßen, Barbara Hammer, Thomas W. Price, Tiffany Barnes, Sebastian Gross, Niels Pinkwart. (2018). The Continuous Hint Factory - Providing Hints in Vast and Sparsely Populated Edit Distance Spaces. Journal of Educational Data Mining, Volume 10, No 1. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/158

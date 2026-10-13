@@ -43,4 +43,6 @@ The author's essay-level observation, citing writer James Gleich (1989), on how 
 
 
 ## Related Claims
+
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [A non-linear, circular chaos-theory model better explains the modern-to-postmodern change process in design style than a linear succession](nonlinear-circular-design-style-change.md)

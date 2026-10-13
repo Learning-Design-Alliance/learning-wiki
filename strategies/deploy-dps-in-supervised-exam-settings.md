@@ -37,7 +37,8 @@ The article recommends deploying DPs as short, supervised, individual assessment
 - individual demonstration of transfer-oriented higher-order thinking
 
 ## Related Strategies
-- 
+
+- [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 
 ## Examples
 -

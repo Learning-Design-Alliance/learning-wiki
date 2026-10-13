@@ -38,7 +38,8 @@ The article argues that interactive video cannot evaluate students' productions,
 - evaluation of student language production
 
 ## Related Strategies
-- 
+
+- [Adapt existing footage for branching simulation practice rather than only annotating it](adapt-existing-footage-for-simulation-practice.md)
 
 ## Examples
 -

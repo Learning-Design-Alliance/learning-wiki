@@ -25,7 +25,8 @@ A Digital Promise framework organizing AI literacy and readiness competencies fo
 - [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](../claims/limited-educator-ai-training-resistance-by-grade.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Workforce AI literacy framework of six skill and competency domains](workforce-ai-literacy-framework-of-six-skill-and-competency-domains.md)
 
 ## Key Sources
 - Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.org

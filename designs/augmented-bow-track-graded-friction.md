@@ -39,7 +39,8 @@ A speculative clip-on augmentation positioned between the bridge and fingerboard
 - [Blv Bow Drift Late Detection Over Gripping](../claims/blv-bow-drift-late-detection-over-gripping.md) [+M]
 
 ## Related Designs
-- 
+
+- [Augmented bow hold aid with finger pressure force mapping](augmented-bow-hold-aid-force-mapping.md)
 
 ## Examples
 -

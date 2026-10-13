@@ -45,7 +45,8 @@ The Consortium organizes its research agenda around four major topical areas, ea
 - [Reform theory: expanded local democratic participation stimulates organizational change that fosters improved teaching and learning](democratic-localism-organizational-change-theory.md)
 
 ## Examples
--
+
+- [CPS Elementary Teacher Survey and General Reform Index](../products/cps-elementary-teacher-survey-and-general-reform-index.md)
 
 ## Key Sources
 - Consortium on Chicago School Research. (1991). Achieving School Reform in Chicago: What We Need To Know — A Research Agenda. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/achieving-school-reform-chicago-what-we-need-know

@@ -46,6 +46,7 @@ The summary reports, citing Carneiro and Ginja (2013) on Head Start, higher rate
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children](ece-decreased-discipline-incarceration.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
@@ -55,3 +56,4 @@ The summary reports, citing Carneiro and Ginja (2013) on Head Start, higher rate
 - [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related
 - [More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment](experienced-teachers-nontest-benefits.md) — related
 - [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](dual-language-learners-benefit-from-immersion-programs.md) — related
+- [Pre-kindergarten attendance predicts college enrollment across racial and ethnic groups, most strongly four-year enrollment among Black and Hispanic students](prek-predicts-college-enrollment.md)

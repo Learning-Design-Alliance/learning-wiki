@@ -44,6 +44,7 @@ The brief details a seven-step cycle: choose a formative assessment practice, le
 - [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
 - [Instructional Coaching](instructional-coaching.md)
 - [Reflection with Others](reflection_with_others.md)
+- [Adopt seven research-supported assessment practices that support classroom learning](seven-research-supported-assessment-practices.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # DebugTracker
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 DebugTracker is a Visual Studio Code extension created by Jiatong Liu et al. that records lightweight debugging-process events and exports timeline and Markdown reports for classroom review.
@@ -22,6 +22,9 @@ DebugTracker is a Visual Studio Code extension created by Jiatong Liu et al. tha
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms](../claims/debugtracker-16-automated-checks-pass.md) [+W]
+- [An 11-case manual validation matrix confirms DebugTracker records the debugging process across Python, TypeScript, and Java tasks and three operating systems](../claims/debugtracker-11-case-manual-matrix-cross-language.md) [+W]
 
 ## Related Products and Programmes
 -

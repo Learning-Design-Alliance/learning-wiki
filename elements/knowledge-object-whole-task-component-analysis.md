@@ -37,7 +37,8 @@ A knowledge object is "a framework consisting of containers for different kinds 
 - identifying the knowledge components needed for task-centered instruction
 
 ## Related Elements
-- 
+
+- [Supportive information](supportive-information.md)
 
 ## Examples
 -

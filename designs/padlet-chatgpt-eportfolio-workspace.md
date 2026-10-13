@@ -41,7 +41,8 @@ In the CEA implementation, students used two linked platforms: Padlet as the pri
 - [Cea Feedback Literacy Seven Themes](../claims/cea-feedback-literacy-seven-themes.md) [+M]
 
 ## Related Designs
-- 
+
+- [Multi-platform e-mentoring environment (Google Classroom, Nearpod, Facebook, Padlet) with distinct pedagogical functions](multi-platform-e-mentoring-environment.md)
 
 ## Examples
 -

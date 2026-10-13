@@ -40,7 +40,8 @@ The course knowledge is represented as a lightweight knowledge graph containing 
 - [Deterministic Pedagogical Orchestration Architecture](deterministic-pedagogical-orchestration-architecture.md) [+M]
 
 ## Related Designs
-- 
+
+- [Chain-of-Concept: topic-graph organisation of past assessments replacing similarity-based retrieval](chain-of-concept-topic-graph-memory.md)
 
 ## Examples
 -

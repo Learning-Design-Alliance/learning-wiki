@@ -26,7 +26,8 @@ A corpus of 36 peer-reviewed studies on generative-AI integration in higher educ
 - [Thematic focus in GenAI education literature intensified from 2023 to 2025, with 2025 showing the heaviest flows and Context of Use dominating](../claims/genai-literature-thematic-intensification-2023-2025.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md)
 
 ## Key Sources
 - Alvedi Sabani, Mohamed H. Farah, Putra Endi Catyanadika, Dian Retno Sari Dewi, Vineet Tawani. (2026). Rewriting the curriculum: A systematic review of generative AI-driven pedagogical change and emerging systems of learning in higher education. Computers and Education: Artificial Intelligence 11 (2026) 100667. https://doi.org/10.1016/j.caeai.2026.100667

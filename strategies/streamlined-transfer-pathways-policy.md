@@ -38,7 +38,8 @@ Facing a college-completion crisis, states are using articulation agreements to 
 - reduced attrition prior to degree completion
 
 ## Related Strategies
-- 
+
+- [Offer multiple pathways to the early childhood credential, including integrated bachelor's, transfer articulation, postbaccalaureate, dual certification, and residency routes](multiple-pathways-ec-credential-access.md)
 
 ## Examples
 -

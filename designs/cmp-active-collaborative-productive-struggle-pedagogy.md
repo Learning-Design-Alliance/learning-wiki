@@ -40,7 +40,8 @@ The instructional design carried from the original Quantway and Statway pathways
 - [Quantway Statway Corequisite 65 Percent Success](../claims/quantway-statway-corequisite-65-percent-success.md) [+M]
 
 ## Related Designs
-- 
+
+- [Same-faculty cohort pairing of college-level and corequisite courses](same-faculty-cohort-pairing.md)
 
 ## Examples
 -

@@ -30,7 +30,8 @@ A higher-education faculty-development framework that organizes competencies, ob
 - [PjBL courses in the studied program spanned multiple matrix quadrants, with no Fixed-Individualistic courses](../claims/pjbl-courses-span-multiple-quadrants.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Technology Integration Matrix (TIM)](technology-integration-matrix-tim.md)
 
 ## Key Sources
 - Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca

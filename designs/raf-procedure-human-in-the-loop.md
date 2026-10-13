@@ -40,7 +40,8 @@ The RAF procedure is a flowchart (Figure 1) for AI-assisted report assessment. T
 - 
 
 ## Related Designs
-- 
+
+- [Human-in-the-Loop AI-assisted evaluation framework for high-stakes writing assessment](hitl-ai-assisted-writing-assessment-framework.md)
 
 ## Examples
 -

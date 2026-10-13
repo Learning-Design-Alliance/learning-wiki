@@ -44,6 +44,7 @@ The article recommends that assessment design respond to demonstrated AI vulnera
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
 - [Renew writing assessment and integrity practice through AI-literacy instruction, process-focused assessment design, and contextual detector training](genai-literacy-and-process-focused-assessment-renewal.md)
+- [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 
 ## Examples
 -

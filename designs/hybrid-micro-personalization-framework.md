@@ -43,7 +43,9 @@ A framework for personalizing LLM/RAG teaching assistants at the level of indivi
 - [Abstraction Processing Significant Self Assessment Not](../claims/abstraction-processing-significant-self-assessment-not.md) [+M]
 
 ## Related Designs
-- 
+
+- [Bloom-level mapping of exercise difficulty levels in AI exercise generation](bloom-mapped-exercise-difficulty-generation.md)
+- [ProPACT Hybrid-AI feedback system with five feedback tools and hierarchical trigger policy](propact-hybrid-ai-feedback-system-five-tools.md)
 
 ## Examples
 -

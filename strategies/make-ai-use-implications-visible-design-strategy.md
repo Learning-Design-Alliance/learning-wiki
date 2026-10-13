@@ -40,7 +40,9 @@ The article derives practical design recommendations for reducing deskilling ris
 - Cognitive Offloading Llm Assisted Learning Answer Offloading
 
 ## Related Strategies
-- 
+
+- [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
+- [Calibrate assistant support forms to preserve users' cognitive participation rather than making every interaction tutor-like](calibrate-llm-support-forms-for-cognitive-participation.md)
 
 ## Examples
 -

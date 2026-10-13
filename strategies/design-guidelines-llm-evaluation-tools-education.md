@@ -38,7 +38,9 @@ The article synthesizes design guidelines for future LLM evaluation tools that e
 - designing evaluation tools for pedagogically-aligned LLM systems
 
 ## Related Strategies
-- 
+
+- [Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading](llm-grading-alignment-optimization-strategies.md)
+- [Combine quantitative RAGAS metrics with human rubric-based claim auditing to detect hallucination and weak grounding in LLM-assisted forum analysis](hybrid-quantitative-human-response-evaluation.md)
 
 ## Examples
 -

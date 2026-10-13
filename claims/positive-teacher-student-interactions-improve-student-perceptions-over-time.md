@@ -43,4 +43,6 @@ The study of third and fourth grade students and teachers in a large, urban dist
 
 
 ## Related Claims
+
 - [Unexpectedly, students in classrooms characterized by high Instructional Support rated their teachers less positively over time](high-instructional-support-classrooms-less-positive-perceptions-over-time.md) — reports the opposite
+- [Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions](less-known-about-elementary-students-perceptions-of-teacher-interactions.md)

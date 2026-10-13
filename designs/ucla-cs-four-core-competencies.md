@@ -43,7 +43,9 @@ UCLA-CS grounds instruction in three core beliefs, including that "Language and 
 - 
 
 ## Related Designs
-- 
+
+- [Dual-language program and Reader Identity Self-Assessment for biliteracy development](ucla-cs-dual-language-risa-biliteracy.md)
+- [Six key practices of a community school serving immigrant, multilingual communities](six-key-practices-community-school-immigrant-communities.md)
 
 ## Examples
 -

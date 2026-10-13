@@ -55,7 +55,8 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](../claims/reading-apprenticeship-null-grade-outcomes.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
 
 ## Key Sources
 - What Works Clearinghouse. (2010). WWC Intervention Report: Reading Apprenticeship®. U.S. Department of Education, What Works Clearinghouse. http://www.wested.org/ReadingApprenticeship

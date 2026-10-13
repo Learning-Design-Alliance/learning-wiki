@@ -41,6 +41,12 @@ Teachers in the discussion groups shared a set of classroom strategies for stude
 ## Related Strategies
 
 - [Welcome new students in foster care with buddy support and quick, low-burden informal assessments, while treating late records with caution](welcoming-and-quick-assessment-new-foster-students.md)
+- [Developing Positive Classroom Pride](developing_positive_classroom_pride.md)
+- [Praise and Reinforcement](praise_and_reinforcement.md)
+- [Praise Effort and Strategies](praise_effort_and_strategies.md)
+- [Strategies to Develop Positive Classroom Pride](strategies_to_develop_positive_classroom_pride.md)
+- [Token Economies](token-economies.md)
+- [Positive Reinforcement](positive-reinforcement.md)
 
 ## Examples
 -

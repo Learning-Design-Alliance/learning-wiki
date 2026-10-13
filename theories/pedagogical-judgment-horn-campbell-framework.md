@@ -49,6 +49,7 @@ The study builds on Horn and Campbell's (2015) conception of pedagogical judgmen
 
 - [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](../strategies/iterative-post-teaching-analysis-feedback-cycle.md)
 - [Pedagogical Judgment Rubric (PJR/FPJR)](../elements/pedagogical-judgment-rubric-pjr.md)
+- [VITAL (Visibly Improve Teaching and Learning) professional learning service](../products/vital-visibly-improve-teaching-and-learning-professional-learning-service.md)
 
 ## Key Sources
 - Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1

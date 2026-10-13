@@ -43,4 +43,6 @@ Descriptive analysis of course offerings among 2,199 NWEA MAP Growth Science par
 
 
 ## Related Claims
+
 - [Access to a complete single-discipline course sequence is rare in NWEA partner middle schools](complete-discipline-specific-sequence-anomaly.md) — related
+- [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md)

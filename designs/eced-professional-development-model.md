@@ -42,7 +42,8 @@ ECED's professional development combines an initial institute, recurring on-site
 - 
 
 ## Related Designs
-- 
+
+- [Learning Lab: educator pipeline and dissemination initiative for newcomer education](oakland-international-learning-lab-educator-pipeline.md)
 
 ## Examples
 -

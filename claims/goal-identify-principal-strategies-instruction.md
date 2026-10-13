@@ -43,7 +43,9 @@ This is the article's own statement of purpose, quoted verbatim from the Overvie
 
 
 ## Related Claims
+
 - [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](strong-leadership-schools-split-test-score-growth.md) — related
 - [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](leadership-improvement-key-questions.md)

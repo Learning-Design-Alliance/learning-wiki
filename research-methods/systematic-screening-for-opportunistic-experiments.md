@@ -37,7 +37,8 @@ The guide recommends that researchers and policymakers "discuss issues to consid
 - [The guide argues opportunistic experiments have potentially low cost while not conducting them has potentially high cost](../claims/opportunistic-experiments-low-cost-high-cost-of-inaction.md) [+W]
 
 ## Related Research Methods
--
+
+- [Opportunistic experiments](opportunistic-experiments.md)
 
 ## Key Sources
 - Alexandra Resch, Jillian Berk, Lauren Akers. (2014). Recognizing and Conducting Opportunistic Experiments in Education: A Guide for Policymakers and Researchers. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/edprojects

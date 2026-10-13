@@ -43,4 +43,6 @@ Qualitative finding from a hands-on activity in which participants produced Venn
 
 
 ## Related Claims
+
 - [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related
+- [Expert stakeholders agreed on roughly 95 percent of the data literacy construct, with 5 percent remaining ill-defined or underspecified](expert-agreement-95-percent-data-literacy-construct.md)

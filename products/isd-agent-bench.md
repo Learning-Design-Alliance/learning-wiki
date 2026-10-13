@@ -26,7 +26,9 @@ ISD-Agent-Bench is a benchmark dataset and evaluation harness created by YoungHo
 - [Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)](../claims/theoretical-quality-correlates-benchmark-performance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AcademiClaw](academiclaw.md)
+- [BMED 2300 benchmark corpus and evaluation harness](bmed-2300-benchmark-corpus-and-evaluation-harness.md)
 
 ## Key Sources
 - YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620

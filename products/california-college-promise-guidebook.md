@@ -25,7 +25,8 @@ A California College Promise planning guidebook and toolkit developed by the Cal
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [College Promise](college-promise.md)
 
 ## Key Sources
 - Rauner, Lundquist, & Smith. (2019). The College Promise Guidebook for California and Beyond. WestEd. https://californiacollegepromise.wested.org/guidebookresources/

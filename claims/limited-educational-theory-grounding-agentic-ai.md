@@ -43,4 +43,5 @@ The review's synthesis of theory coding across the 474 included studies reports 
 
 
 ## Related Claims
--
+
+- [Study orientation is significantly associated with publication type: computer science/AI-oriented work is disseminated disproportionately through conference papers](orientation-associated-with-publication-type-agentic-ai.md)

@@ -39,7 +39,10 @@ The article recommends that AI guidelines in higher education be aligned with br
 - integration of AI into discipline-specific teaching and assessment
 
 ## Related Strategies
-- 
+
+- [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
+- [Structure GenAI use guidelines as a scaffold progressing from what GenAI is, through affordances, to consequences and collective responsibilities](scaffolded-layered-genai-guidelines.md)
+- [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 
 ## Examples
 -

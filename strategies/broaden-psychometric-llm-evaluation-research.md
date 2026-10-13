@@ -40,6 +40,7 @@ The authors' forward-looking recommendation for the emerging field of applying p
 ## Related Strategies
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Broaden measured outcomes beyond high-stakes assessments to include durable skills](broaden-outcomes-to-durable-skills.md)
 
 ## Examples
 -

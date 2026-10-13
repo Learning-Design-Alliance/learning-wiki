@@ -37,7 +37,8 @@ This strategy uses small grants to let organizations pause, explore, and test AI
 - Identifying where AI can genuinely transform teaching and learning while surfacing bias early
 
 ## Related Strategies
-- 
+
+- [Playful Spaces](playful_spaces.md)
 
 ## Examples
 -

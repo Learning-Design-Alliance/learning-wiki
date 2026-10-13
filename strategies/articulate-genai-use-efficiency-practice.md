@@ -40,7 +40,8 @@ Based on the finding that perceived AI literacy buffers the negative trust assoc
 - Scm Warmth Competence Account Genai Users
 
 ## Related Strategies
-- 
+
+- [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 
 ## Examples
 -

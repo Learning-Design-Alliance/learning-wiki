@@ -43,4 +43,6 @@ Authors' discussion of the grade-specific retention regressions and an accompany
 
 
 ## Related Claims
+
 - [Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probability](retention-predictors-vary-by-grade.md) — related
+- [The propensity-for-retention measure discriminates retained from not-retained students, with first-grade log-odds of retention more than three times greater for actually retained students](propensity-measure-discriminates-retained-students.md)

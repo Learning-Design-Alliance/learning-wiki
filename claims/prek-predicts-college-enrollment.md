@@ -43,4 +43,6 @@ The summary reports, citing Gormley Jr. et al. (2023) in AERA Open, that pre-k a
 
 
 ## Related Claims
--
+
+- [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md)
+- [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md)

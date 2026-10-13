@@ -43,4 +43,6 @@ Analytical derivation (Equations 9a-9b, Theorem 5) using the Banach fixed-point 
 
 
 ## Related Claims
+
 - [Theoretical results establish content fidelity, rendering stability, entropy boundedness, and integrity convergence for the BAVD model](bavd-theoretical-properties-fidelity-stability-convergence.md) — related
+- [Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance](bavd-attenuation-monotone-accessibility-security-tradeoff.md)

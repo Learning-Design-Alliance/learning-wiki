@@ -46,7 +46,8 @@ Crosswise-Validation is AMOVA's core analytic operation, yielding sequential ins
 - [AMOVA Cluster Axiom for Manifold Consistency](amova-cluster-axiom-manifold-consistency.md)
 
 ## Examples
--
+
+- [Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research](../methods/use-amova-for-researcher-designed-instrument-validation.md)
 
 ## Key Sources
 - Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595

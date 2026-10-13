@@ -37,7 +37,8 @@ Visher et al. (2012), covering three of the six reviewed studies, report impleme
 - Program implementation planning and resource allocation
 
 ## Related Elements
-- 
+
+- [Bottom Line cost profile of approximately $6,000 per student over five to six years](bottom-line-cost-per-student-element.md)
 
 ## Examples
 -

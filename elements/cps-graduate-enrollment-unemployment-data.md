@@ -17,7 +17,7 @@ sources:
 # Current Population Survey graduate enrollment data with statewide unemployment measures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study's data infrastructure consists of graduate school enrollment records from the Current Population Survey combined with statewide unemployment rates measured across time. The author states he uses "data on graduate school enrollment from the Current Population Survey and statewide variation in unemployment rates across time to proxy for changes in business cycle conditions," enabling estimation of how labor market conditions relate to enrollment decisions by gender and enrollment intensity.
@@ -35,6 +35,11 @@ The study's data infrastructure consists of graduate school enrollment records f
 
 ### Target Learning Goals
 - understanding how economic conditions shape graduate school attendance decisions
+
+## Claims
+
+- [Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions](../claims/statewide-unemployment-variation-proxies-business-cycle-enrollment.md) [+W]
+- [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](../claims/poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) [+W]
 
 ## Related Elements
 - 

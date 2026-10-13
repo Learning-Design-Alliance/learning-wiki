@@ -43,4 +43,5 @@ Observational descriptive analysis of district-provided demographic data for nin
 
 
 ## Related Claims
--
+
+- [Participants noted lack of representation of people of color among teachers and called for workforce diversification](teacher-diversity-representation-matters.md)

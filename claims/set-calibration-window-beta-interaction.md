@@ -44,5 +44,7 @@ Training-data calibration evaluation via Brier scores across beta values (0 to 1
 
 
 ## Related Claims
+
 - [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](item-cause-density-precludes-cdms.md) — related
 - [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](larger-error-windows-improve-set-ranking.md) — related
+- [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](set-cause-level-ranking-typo-reverse.md)

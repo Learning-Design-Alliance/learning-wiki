@@ -24,7 +24,8 @@ A benchmark corpus assembled by Abdolali Faraji et al. from five Bloom-taxonomy-
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [BMED 2300 benchmark corpus and evaluation harness](bmed-2300-benchmark-corpus-and-evaluation-harness.md)
 
 ## Key Sources
 - Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684

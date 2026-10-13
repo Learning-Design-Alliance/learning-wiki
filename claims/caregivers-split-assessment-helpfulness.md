@@ -62,5 +62,7 @@ Qualitative finding from the caregiver focus groups, part of the same 50-group s
 
 
 ## Related Claims
+
 - [Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills](assessments-one-indicator-college-readiness-stakeholders.md) — related
 - [Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little](students-report-misalignment-assessment-other-indicators.md) — related
+- [White respondents were more likely than other respondents to use Glassdoor to keep track of skills and credentials](white-respondents-more-likely-glassdoor.md)

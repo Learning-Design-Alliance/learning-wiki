@@ -43,4 +43,6 @@ Sentence-shuffling manipulation experiments on Expressive Narrative Stories test
 
 
 ## Related Claims
+
 - [Conventional classifiers and MentalBERT depend heavily on explicit mental health terms in Expressive Narrative Stories, while BERT(128) maintains robust accuracy without keyword cues](ens-classifiers-depend-on-explicit-terms.md) — related
+- [Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset](text-splicing-improves-ood-bloom-classification.md)

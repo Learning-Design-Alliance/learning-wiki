@@ -43,4 +43,6 @@ Descriptive result from the Spanish durability benchmark on the 233-comment held
 
 
 ## Related Claims
+
 - [Under the fixed protocol, hosted LLMs produce the largest gain on Spanish thematic classification, with thematic macro F1 rising from 0.46 (TF-IDF) to roughly 0.82-0.86 for the two hosted LLMs](llms-largest-gain-spanish-thematic-macro-f1.md) — related
+- [On Spanish sentiment, the 2026 frontier model shows no advantage over the cheap model, with Haiku zero-shot at 0.923 versus Opus zero-shot at 0.884 and the head-to-head McNemar favoring Haiku](frontier-no-spanish-sentiment-advantage-over-cheap.md)

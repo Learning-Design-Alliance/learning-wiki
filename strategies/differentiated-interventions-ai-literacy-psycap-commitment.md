@@ -49,6 +49,8 @@ The article recommends that universities design interventions addressing technol
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 - [Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK](restructure-curriculum-cultivate-self-efficacy.md)
+- [Design AI literacy curricula that foster self-efficacy beliefs alongside technical skills to protect against overreliance](ai-literacy-curricula-foster-self-efficacy-not-only-technical-skills.md)
+- [Use the five-dimension literacy model to design AI-integrated graduate education and literacy cultivation strategies](design-ai-integrated-graduate-education-strategies.md)
 
 ## Examples
 -

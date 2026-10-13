@@ -12,7 +12,7 @@ generated:
 # Exploratory digital learning platform data analysis for research planning
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations. The stated consideration is "taking time to explore this available data before fully specifying a research plan," because existing data reveal available data structures and user behavior and help relate a planned experimental contrast to current platform activity.
@@ -24,8 +24,13 @@ The report advises that DLPs offer access to data on large numbers of users or f
 
 ### Claims
 
+- [Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants](../claims/e-trials-large-sample-studies.md) [+W]
+- [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](../claims/seernet-dlps-over-100000-regular-users.md) [+W]
+
 ## Related Research Methods
--
+
+- [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
+- [Embedded experimental designs in digital learning platforms](embedded-experimental-designs-in-digital-learning-platforms.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210

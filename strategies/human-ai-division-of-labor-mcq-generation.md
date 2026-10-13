@@ -53,6 +53,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days](vibe-coding-rapid-educational-tool-development.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Use AI chatbots to assist human-led coaching with routine support between sessions while humans retain challenge and goal clarification](hybrid-human-ai-coaching-division-of-labor.md)
+- [Design assignments that explicitly specify which tasks may be delegated to AI and which may not](specify-ai-delegable-tasks-in-assignments.md)
 
 ## Examples
 -

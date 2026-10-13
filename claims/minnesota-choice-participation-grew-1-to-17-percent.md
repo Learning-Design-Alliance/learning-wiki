@@ -43,6 +43,7 @@ Observational enrollment analysis compiled from Minnesota Department of Children
 
 
 ## Related Claims
+
 - [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
 - [Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes](choice-participants-high-satisfaction-preliminary-positive-outcomes.md) — related
 - [Alternative schools and Area Learning Centers showed the greatest growth of any choice option, from 4,050 students in 1988-89 to over 100,000 in 2000-01](minnesota-alternative-schools-greatest-choice-growth.md) — related
@@ -51,3 +52,4 @@ Observational enrollment analysis compiled from Minnesota Department of Children
 - [Public support for cross-district school choice in Minnesota rose from 33% in 1985 to 88% by 1994](minnesota-public-support-cross-district-choice-rose.md) — related
 - [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
+- [Most U.S. schools of choice are operated by public school districts, with about 6.5 million students enrolled in a chosen public school](most-schools-of-choice-district-run.md)

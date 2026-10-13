@@ -41,7 +41,8 @@ The pilot model organizes implementation into three components. Infrastructure &
 - 
 
 ## Related Designs
-- 
+
+- [Haiti Blended Learning Pilot in 33 rural primary schools](haiti-blended-learning-pilot.md)
 
 ## Examples
 -

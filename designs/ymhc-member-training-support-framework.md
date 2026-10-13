@@ -17,7 +17,7 @@ sources:
 # YMHC member training and support framework (preservice training, site integration, ongoing development, career coaching, credentialing)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The YMHC provides all members with a common support structure: intensive preservice training (which can include Youth Mental Health First Aid, trauma-informed care, mandated reporting, cultural competency, motivational interviewing, and suicide risk screening), site-based onboarding, weekly or regular supervision often from licensed professionals, individualized career coaching, and credentialing opportunities such as Community Health Worker or Certified Peer Support Specialist credentials. The report presents this framework as the core preparation enabling members to serve as near-peer navigators.
@@ -39,10 +39,15 @@ The YMHC provides all members with a common support structure: intensive preserv
 - career credentialing
 
 ### Claims
+
 - Ymhc Dual Bottom Line Model [+M]
+- [YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment](../claims/ymhc-certifications-employment-outcomes.md) [+W]
+- [Relationship-centered near-peer support from young adults (ages 18-24) creates conditions for student engagement with mental health support across YMHC sites](../claims/near-peer-support-drives-youth-engagement-ymhc.md) [+W]
 
 ## Related Designs
-- 
+
+- [Rural multisite rotation: each member works across a rotation of sites to maximize coverage where resources are scarce](rural-multisite-member-rotation.md)
+- [SCOE mental health career pathway employing peer specialists, graduate clinical interns, and associate clinicians](scoe-school-mental-health-career-pathway.md)
 
 ## Examples
 -

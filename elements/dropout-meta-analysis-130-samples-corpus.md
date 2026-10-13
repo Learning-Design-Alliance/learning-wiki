@@ -17,7 +17,7 @@ sources:
 # Meta-analytic corpus of 130 dropout program evaluation samples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's evidence base is a coded corpus of "130 independent samples of students" drawn from a comprehensive literature search of evaluations of school-based, school-affiliated, and community-based dropout prevention and intervention programs. Coded characteristics include: 85% school-based or school-affiliated programs, average program duration of 77 weeks, over half involving daily contact, and implementation problems in 29% of programs. Most samples (75%) were high school aged, 65% were mostly minority students, and nearly all students were at risk for dropping out and from low socioeconomic status families. Each study was coded on study methods, intervention and implementation, sample characteristics, outcomes and statistical findings, and contextual features.
@@ -38,6 +38,14 @@ The article's evidence base is a coded corpus of "130 independent samples of stu
 - school completion
 - dropout reduction
 - school attendance
+
+## Claims
+
+- [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](../claims/dropout-programs-or-163-completion.md) [+M]
+- [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](../claims/dropout-program-type-effectiveness.md) [+M]
+- [Effects of dropout programs on dropout odds are heterogeneous across studies](../claims/dropout-program-effects-heterogeneous.md) [+M]
+- [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](../claims/implementation-duration-community-moderators.md) [+M]
+- [Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs](../claims/method-variables-smaller-dropout-effects.md) [+M]
 
 ## Related Elements
 - 

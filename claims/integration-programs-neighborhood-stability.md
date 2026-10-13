@@ -43,4 +43,5 @@ The report cites this as social science research confirming links between educat
 
 
 ## Related Claims
--
+
+- [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md)

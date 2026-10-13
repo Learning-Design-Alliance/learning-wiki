@@ -26,7 +26,8 @@ A Young Audiences, Inc. arts-integrated supplemental literacy curriculum for gra
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](../claims/a4l-grade4-ccu-significant-impact.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [A4L Lessons curriculum](a4l-lessons-curriculum.md)
 
 ## Key Sources
 - Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton School District Arts for Learning (A4L) Lessons Project, An Investing in Innovation (i3) Development Grant: Student Impact Findings from Years 1, 2, and 3. WestEd. https://wested.org

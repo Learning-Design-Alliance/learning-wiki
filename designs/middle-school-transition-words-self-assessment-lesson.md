@@ -40,7 +40,8 @@ A middle school lesson vignette in which English learners and native English-spe
 - 
 
 ## Related Designs
-- 
+
+- [Middle school biotechnology fermented-drinks lesson demonstrating asset-based instruction and divergent formative assessment](middle-school-biotechnology-fermented-drinks-lesson.md)
 
 ## Examples
 -

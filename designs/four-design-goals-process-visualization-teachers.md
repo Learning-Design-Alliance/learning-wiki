@@ -42,7 +42,9 @@ The article organizes the tool's design around four stated goals: DG1 making stu
 - 
 
 ## Related Designs
-- 
+
+- [Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability](three-design-tensions-robotics-curriculum.md)
+- [Four-step formative assessment cycle: create assignments, assist students through immediate feedback, assess class performance, analyze answers together](four-step-formative-assessment-cycle-assistments.md)
 
 ## Examples
 -

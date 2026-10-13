@@ -38,7 +38,8 @@ Because learner awareness of the levels system was relatively low, Duolingo adde
 - Increased practice at higher difficulty levels of previously studied material
 
 ## Related Strategies
-- 
+
+- [Points or Experience (XP) Systems](points-or-experience-xp-systems.md)
 
 ## Examples
 -

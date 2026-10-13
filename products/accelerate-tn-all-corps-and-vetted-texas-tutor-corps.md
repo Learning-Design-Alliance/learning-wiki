@@ -25,7 +25,8 @@ These are statewide intensive-tutoring programmes run by Louisiana, Tennessee, a
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md)
 
 ## Key Sources
 - Promising Practices: Smart State Strategies for Building Intensive Tutoring Systems. (2022). Education Trust, Education Reform Now, and FutureEd. https://www.edtrust.org/

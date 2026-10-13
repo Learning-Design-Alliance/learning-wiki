@@ -59,8 +59,10 @@ Reflection works when it is structured and prompted, not when it is left to chan
 5. Close the loop: require one concrete commitment for the next attempt, then revisit it at the next [Check-In](../elements/check-in.md).
 
 ## Related Strategies
+
 - [Action Research](action-research.md) — reflective practice formalized as systematic inquiry into one's own practice
 - [Learning Journals](learning-journals.md) — the most common written vehicle for reflection
+- [Professional learning approach built on four teacher-learning themes: experience, reflection, dialogue, and context](m-plans-professional-learning-four-themes.md)
 
 ## Examples
 - **Simulation debriefing in health education** — after a mannequin scenario, facilitators run a structured debrief (advocacy-inquiry style) in which learners analyze their own decisions; debriefing quality is a stronger predictor of learning than scenario fidelity.

@@ -42,7 +42,10 @@ DNUSD established a closed-loop referral system with Project Cal-Well support af
 - 
 
 ## Related Designs
-- 
+
+- [Mental and behavioral health referral pathways and community of practice](cal-well-referral-pathways-community-of-practice.md)
+- [Project Cal-Well three-component school mental health model implemented in DNUSD](project-cal-well-three-component-model.md)
+- [Grant-funded school-based Wellness Centers as accessible hubs for services](pusd-wellness-centers-hubs.md)
 
 ## Examples
 -

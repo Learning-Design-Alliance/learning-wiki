@@ -25,7 +25,10 @@ A guide-based framework for integrating explicit social-emotional skill instruct
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Reimagining Excellence blueprint](reimagining-excellence-blueprint.md)
+- [Whole Child Approach](whole-child-approach.md)
+- [SEAD framework: six policy areas for equitable social, emotional, and academic development](sead-framework-six-policy-areas-for-equitable-social-emotional-and-academic-development.md)
 
 ## Key Sources
 - Integrating Social, Emotional and Academic Development: An Action Guide for School Leadership Teams. (2019). Aspen Institute. https://hthgse.edu/empathy-interviews-learn-about-the-problem-from-a-users-perspective/

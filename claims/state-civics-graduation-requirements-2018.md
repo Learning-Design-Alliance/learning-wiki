@@ -43,4 +43,5 @@ The report's landscape section compiles state policy counts as of 2018, citing E
 
 
 ## Related Claims
--
+
+- [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md)

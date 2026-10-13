@@ -29,7 +29,8 @@ WrAFT is a deployable, modular LLM-powered automated writing evaluation and feed
 - [Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments](../claims/wraft-micro-feedback-95-percent-necessary-effective.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FOXGLOVE](foxglove.md)
 
 ## Key Sources
 - Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524

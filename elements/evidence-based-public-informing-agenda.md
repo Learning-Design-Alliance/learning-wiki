@@ -40,7 +40,8 @@ The book identifies a sustained public informing agenda as one of the levels at 
 - evidence-informed improvement
 
 ## Related Elements
-- 
+
+- [Educational indicator system for monitoring Chicago school reform progress](chicago-educational-indicator-system-proposal.md)
 
 ## Examples
 -

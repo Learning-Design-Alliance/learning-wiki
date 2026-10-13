@@ -42,7 +42,9 @@ The Saga approach instantiates a high-dosage tutoring design in which tutoring i
 - [Saga Average Effect Size 014](../claims/saga-average-effect-size-014.md) [+M]
 
 ## Related Designs
+
 - [Saga Math Tutoring Program](../products/saga-math.md)
+- [ToddlerBot-based humanoid curriculum instantiation for grades 9-12 with eight CS+AI sessions](toddlerbot-high-school-rl-curriculum.md)
 
 ## Examples
 -

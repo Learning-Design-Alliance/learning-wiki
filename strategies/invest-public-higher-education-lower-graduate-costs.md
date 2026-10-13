@@ -37,7 +37,8 @@ The brief's closing recommendation is that policymakers address graduate afforda
 - maintaining access to advanced degrees and professional education leading to essential professions
 
 ## Related Strategies
-- 
+
+- [Federal policy package to end the student debt crisis for Black women: cancel debt, improve IDR, and double the Pell Grant](cancel-debt-improve-idr-double-pell-black-women.md)
 
 ## Examples
 -

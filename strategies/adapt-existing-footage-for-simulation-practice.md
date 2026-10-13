@@ -42,7 +42,8 @@ The article recommends using simulation templates to adapt existing footage so s
 - [Transparency Theory Learning Skill Acquisition](../theories/transparency-theory-learning-skill-acquisition.md)
 
 ## Related Strategies
-- 
+
+- [Position the language teacher as diagnostician, prescriber, motivator, and evaluator of student production](teacher-as-diagnostician-evaluator-with-interactive-video.md)
 
 ## Examples
 -

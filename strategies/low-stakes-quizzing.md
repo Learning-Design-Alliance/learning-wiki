@@ -86,6 +86,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
 - [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class reading quizzes hold learners accountable for first exposure and free class time for application
 - [Active Learning](../principles/active-learning.md) — in-class quizzing (clickers) doubles as an engagement mechanism [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
+- [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](minimal-retrieval-practice-strategy-instructions.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

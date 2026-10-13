@@ -32,7 +32,8 @@ Content-Focused Coaching is a literacy-focused professional-development and inst
 - [Content-Focused Coaching raises fourth and fifth graders' achievement by +0.29 compared to control groups](../claims/cfc-fourth-fifth-graders-effect-029.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
 
 ## Key Sources
 - Content-Focused Coaching. (2023). Content-Focused Coaching. Evidence for ESSA. https://www.evidenceforessa.org

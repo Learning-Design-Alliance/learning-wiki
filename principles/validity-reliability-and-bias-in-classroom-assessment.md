@@ -199,6 +199,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Use multiple raters for principal-assigned professional practice ratings to improve consistency](../strategies/multiple-raters-for-practice-ratings.md)
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
 - [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](../strategies/performance-plus-selected-response-balance.md)
+- [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](../strategies/route-divergent-ai-scores-to-teacher-review.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

@@ -41,7 +41,8 @@ Based on the finding that peer relations and peer deviance are differently relat
 - prevention of aggressive behavior
 
 ## Related Strategies
-- 
+
+- [Shadowing to Address Behavior Problems](shadowing_to_address_behavior_problems.md)
 
 ## Examples
 -

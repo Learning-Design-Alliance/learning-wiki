@@ -43,9 +43,11 @@ Peer-institution comparison from the College Results Online database (Table 3): 
 
 
 ## Related Claims
+
 - [Graduation-rate gaps between white and black students generally grew across gap-analysis institutions, reaching nearly 19 points by 2010](black-white-graduation-gaps-grew-nineteen-points.md) — related
 - [Improved completion rates at public institutions were not a byproduct of more selective admissions: improvers and non-improvers showed no significant differences in entering-student preparation or in Pell/URM enrollment changes](gains-not-byproduct-of-selectivity.md) — related
 - [A small set of public institutions achieved twin goals — 26 raised URM graduation rates by 12 or more points and narrowed gaps, while 17 saw URM rates decline and gaps widen by at least 7 points](twin-goal-institutions-versus-widening-gaps.md) — a broader claim this one bears on
 - [Peer institutions serving similar students show divergent black graduation trends, suggesting institutional practice matters (Mizzou vs NC State; Rutgers vs Purdue)](peer-institutions-divergent-black-outcomes.md) — related
 - [Top gap-closer institutions narrowed black-white graduation-rate gaps by nearly 7 percentage points on average](top-gap-closers-narrowed-gaps-seven-points.md) — related
 - [At the 255 improving public colleges with sizeable URM enrollments, underrepresented students' graduation rates rose slightly more than white students' rates (6.3 versus 5.7 percentage points)](urm-gains-slightly-exceed-white-gains-improvers.md) — related
+- [Colleges serving very similar students show large graduation-rate differences, e.g., UC Riverside's rate is 15 percentage points higher than University of Illinois at Chicago's and 27 points higher for underrepresented students of color](institution-graduation-rates-vary-beyond-student-mix.md)

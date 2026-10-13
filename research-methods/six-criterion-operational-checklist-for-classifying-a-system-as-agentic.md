@@ -24,7 +24,9 @@ The review operationalizes agentic AI with a checklist of six verifiable criteri
 ### Claims
 
 ## Related Research Methods
--
+
+- [Definition of generative AI-powered agentic AI via three core characteristics: task autonomy, goal-directed reasoning, and memory- and context-aware interaction](definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom.md)
+- [Six-dimensional agentic capability framework rated on a 1–5 ordinal scale](six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md)
 
 ## Key Sources
 - Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). Agentic AI in Education: State of the Art and Future Directions. IEEE Access. https://doi.org/10.1109/ACCESS.2025.3620473

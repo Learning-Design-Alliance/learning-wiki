@@ -63,6 +63,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 - [Clear Structure](../principles/clear-structure.md) — transparent criteria are the primary structural countermeasure to evaluative bias
 - [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 - [Embed factor-aware guidance directly within analytics tools at the point of interpretation](embed-factor-aware-guidance-in-analytics-tools.md)
+- [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](route-divergent-ai-scores-to-teacher-review.md)
 
 ## Examples
 - **Structured grading in large courses**: Instructors using analytic rubrics and anonymized submissions (common in writing-intensive MOOCs and university writing programs) to decouple evaluation from identity cues.

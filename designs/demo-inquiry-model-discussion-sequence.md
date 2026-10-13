@@ -39,6 +39,10 @@ This instructional pattern sequences four modes of engagement around one scienti
 ### Claims
 - [Guided Inquiry Computational Model Overcomes Amplitude Misconception](../claims/guided-inquiry-computational-model-overcomes-amplitude-misconception.md) [+M]
 
+## Related Designs
+
+- [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
+
 ## Related Patterns
 
 - [Laboratory combining a fundamental-constant measurement, laser physics investigation, and nontrivial statistical analysis](combined-measurement-laser-statistics-lab-pattern.md)

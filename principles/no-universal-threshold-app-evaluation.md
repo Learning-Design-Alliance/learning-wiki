@@ -45,7 +45,8 @@ The article argues against evaluation schemes that require an app to meet a mini
 - 
 
 ## Examples
--
+
+- [Spend class time presenting the app evaluation framework so learners can make better-informed app choices](../strategies/teach-learners-app-evaluation-criteria.md)
 
 ## Key Sources
 - Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623

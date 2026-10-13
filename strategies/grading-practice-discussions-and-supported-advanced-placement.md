@@ -39,6 +39,8 @@ The report's implications section recommends that CPS renew its professional gra
 ## Related Strategies
 
 - [Three strategies for closing advanced coursework participation gaps and retaining students](three-strategies-close-advanced-coursework-gaps-retention.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
+- [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A low-cost experimental kit for physics demonstrations in which a tablet's magnetometer measures the magnetic field of a current-carrying coil or a magnet. The article states "The demonstration set used is composed by an electrical circuit, a ruler and a book", with the circuit built from a wirewound potentiometer (up to 30Ω), a 10Ω resistor, a cell-phone electrical source, a digital multimeter and a coil of N = 62 turns. Before each run the MagnetMeter app is zeroed to set aside interferences such as the Earth's magnetic field.
@@ -41,6 +41,7 @@ A low-cost experimental kit for physics demonstrations in which a tablet's magne
 - [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W]
 - [Magnetic field measured by a tablet magnetometer depends linearly on the coil current](../claims/tablet-magnetometer-linear-b-current-coil.md) [+W]
 - [The demonstration set yields a fair estimate of air permeability µair from coil data](../claims/tablet-demo-set-estimates-air-permeability.md) [+W]
+- [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [-W]
 
 ## Related Elements
 - 

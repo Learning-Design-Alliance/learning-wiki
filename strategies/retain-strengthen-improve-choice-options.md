@@ -37,7 +37,8 @@ The report's central recommendation is that Minnesota "retain, strengthen and im
 - Expanding access to educational settings suited to individual student needs, including individualized academics and workforce preparation
 
 ## Related Strategies
-- 
+
+- [State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements](state-choice-quality-and-equity-safeguards.md)
 
 ## Examples
 -

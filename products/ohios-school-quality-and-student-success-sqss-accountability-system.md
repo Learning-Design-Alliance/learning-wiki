@@ -13,7 +13,7 @@ generated:
 # Ohio's School Quality and Student Success (SQSS) Accountability System
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Ohio's statewide accountability framework, administered by the Ohio Department of Education and Workforce, includes the Early Literacy Indicator to monitor K–3 literacy outcomes alongside other school-quality and student-success measures.
@@ -24,8 +24,12 @@ Ohio's statewide accountability framework, administered by the Ohio Department o
 
 ### Claims
 
+- [Ohio educators report the early literacy accountability indicator created new urgency and clarity around reading instruction](../claims/ohio-early-literacy-indicator-urgency-clarity.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Nebraska's AQuESTT Dual State Accountability System](nebraskas-aquestt-dual-state-accountability-system.md)
+- [Ohio’s Dyslexia Guidebook](ohios-dyslexia-guidebook.md)
 
 ## Key Sources
 - Mitch Herz, Mel Wylen. (2025). Refining Statewide School Accountability Systems: Lessons From Innovative State Approaches Under ESSA. White paper.

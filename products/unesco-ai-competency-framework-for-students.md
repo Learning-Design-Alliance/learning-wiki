@@ -24,7 +24,9 @@ A UNESCO curricular framework that organizes 12 AI competencies across four dime
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [UNESCO AI Competency Framework for School Students](unesco-ai-competency-framework-for-school-students.md)
+- [UNESCO AI Competency Framework for Teachers](unesco-ai-competency-framework-for-teachers.md)
 
 ## Key Sources
 - Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students

@@ -48,7 +48,8 @@ The ADK Program, instituted in Columbus Public Schools in January 1972, provides
 - [Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio](../products/balloons-a-concepts-about-print-assessment.md)
 
 ## Examples
--
+
+- [Continue ADK with more teacher inservices, maintained recordkeeping documents, and increased evaluator classroom visitations](../strategies/adk-continuation-recommendations-inservices-recordkeeping-visits.md)
 
 ## Key Sources
 - Johnson, Jessie; And Others. (1994). Language Development Component: All Day Kindergarten Program 1992-1993. Ohio Disadvantaged Pupil Program Fund. Final Evaluation Report. https://eric.ed.gov/?id=ED379098

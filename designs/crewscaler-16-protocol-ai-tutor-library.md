@@ -17,7 +17,7 @@ sources:
 # CrewScaler 16-protocol AI-tutor coaching library
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework specifies the AI tutor's pedagogy in advance as a library of 16 named protocols drawn from the retrieval-practice, productive-failure, and affect literatures, rather than a single general-purpose prompt. Protocols include direct explanation, Socratic questioning, worked examples, hint escalation, spaced retrieval, productive failure, and "affective support that prioritizes boredom over frustration". A selection layer picks the active protocol each turn by fixed priority: integrity risk first, then affective signals, then group context, then learner intent. Six cross-cutting principles constrain every protocol.
@@ -38,10 +38,13 @@ The framework specifies the AI tutor's pedagogy in advance as a library of 16 na
 - Reducing time-to-competency through protocolized one-to-one tutoring
 
 ### Claims
-- 
+
+- [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](../claims/prompt-specificity-shapes-tutor-pedagogy.md) [+W]
 
 ## Related Designs
-- 
+
+- [Retrieval-augmented Conversational AI Tutor with modular GROW-aligned coaching routines](rag-conversational-ai-tutor-modular-coaching-routines.md)
+- [CrewScaler: an end-to-end five-stage AI-accelerated upskilling pipeline](crewscaler-five-stage-ai-upskilling-pipeline.md)
 
 ## Examples
 -

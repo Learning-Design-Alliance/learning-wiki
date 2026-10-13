@@ -26,7 +26,8 @@ A generative-AI system developed by Norberg et al. that guides students in co-au
 - [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](../claims/ampt-session-increased-math-belonging.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Waterproof](waterproof.md)
 
 ## Key Sources
 - Norberg, K., Murphy, A., De Ley, L., Moltz, E.S., Almoubayyed, H., Ritter, S. (2025). Using Generative AI to Foster Student Sense of Belonging in Mathematics. In: Artificial Intelligence in Education, AIED 2025, Lecture Notes in Computer Science, vol 15882. Springer, Cham. https://doi.org/10.1007/978-3-031-98465-5_24

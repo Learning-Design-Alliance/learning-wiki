@@ -41,6 +41,7 @@ The monograph recommends continuous programs of job training as prime importance
 - [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
 - [Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations](earn-and-learn-apprenticeship-nontraditional-occupations.md)
 - [Expand Pell Grant eligibility to short occupational programs as a strategy for helping displaced workers and low-income adults earn credentials quickly](expand-pell-eligibility-short-occupational-programs-strategy.md)
+- [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
 
 ## Examples
 -

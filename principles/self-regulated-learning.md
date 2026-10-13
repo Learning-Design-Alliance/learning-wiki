@@ -108,6 +108,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - A project-based course requires weekly progress checks in which learners compare current work to rubric criteria and select one concrete adjustment for the next week.
 - A reading intervention asks learners to pause after each section, rate comprehension, and decide whether to reread, annotate, or ask for clarification.
 - [Train learners in sycophancy-specific critical prompting strategies that remove personal assumptions, request critical evaluation, and ask for supporting evidence](../strategies/sycophancy-specific-critical-prompting-strategies.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

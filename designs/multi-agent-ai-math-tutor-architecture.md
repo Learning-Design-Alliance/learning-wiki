@@ -44,7 +44,8 @@ The article proposes a multi-agent architecture implemented on LangGraph in whic
 - [O3 Mini Highest Mathdial Accuracy](../claims/o3-mini-highest-mathdial-accuracy.md) [+M]
 
 ## Related Designs
-- 
+
+- [Reusable simulation architecture for dynamic relational learning environments](reusable-simulation-architecture-dynamic-relational-learning.md)
 
 ## Examples
 -

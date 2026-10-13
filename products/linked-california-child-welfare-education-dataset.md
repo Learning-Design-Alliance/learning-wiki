@@ -25,7 +25,9 @@ A WestEd-created dataset linking CDE's California Longitudinal Pupil Achievement
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Arizona linked education–child welfare student database](arizona-linked-educationchild-welfare-student-database.md)
+- [Linked five-year student-level administrative dataset from Pittsburgh Public Schools, Propel Schools, and Allegheny County DHS](linked-five-year-student-level-administrative-dataset-from-pittsburgh-public-schools-prope.md)
 
 ## Key Sources
 - Shared Data Reveal the Invisible Achievement Gap of Students in Foster Care. (2014). WestEd R&D Alert, Vol. 15, No. 1. https://www.wested.org/bookstore

@@ -43,4 +43,7 @@ Separate authentication regression harnesses (router/session harness with 58 HTT
 
 
 ## Related Claims
--
+
+- [A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures](praxis-120-episode-rehearsal-all-checks-passed.md)
+- [Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each](praxis-provider-failure-no-fabricated-hints.md)
+- [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md)

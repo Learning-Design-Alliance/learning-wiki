@@ -17,7 +17,7 @@ sources:
 # 15-week digital literacy curriculum integrating GenAI tool usage with research ethics and critical thinking
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size
 
 ## Description
 A lightning talk by Jiwoo Seo described a "15-week digital literacy curriculum" co-developed during their tenure as an AI Specialist Librarian at Chung-Ang University, "based on a survey of 2,076 students and 101 librarians". The curriculum addressed a critical gap by integrating GenAI tool usage with research ethics and critical thinking skills. It emerged from observing a trust gap in which students often over-trusted GenAI while faculty distrusted it, and it aims to empower users to act as critical reviewers rather than passive consumers.
@@ -37,7 +37,8 @@ A lightning talk by Jiwoo Seo described a "15-week digital literacy curriculum" 
 - GenAI literacy, research ethics, and critical thinking for academic search
 
 ### Claims
-- 
+
+- [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](../claims/critical-ethical-awareness-dual-role-reliance.md) [~M]
 
 ## Related Designs
 - 

@@ -17,7 +17,7 @@ sources:
 # Candidate pools and credentialing pathways for building the TK teaching workforce
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report identifies four pools of potential TK teacher candidates: current Multiple Subject credential holders who can teach while earning 24 ECE units; early childhood educators with a bachelor's degree, for whom "possible pathways this group might take to a credential include teacher residencies, postbaccalaureate credentialing programs, and internship programs"; early educators without a bachelor's degree, suited to apprenticeship and degree pathway programs; and new candidates for assistant positions, including recent high school graduates and career changers, buildable through dual enrollment pathways. Table 4 and Figure 6 map these pools to pathways.
@@ -44,7 +44,8 @@ The report identifies four pools of potential TK teacher candidates: current Mul
 - bachelor's degree attainment for early educators
 
 ### Claims
-- 
+
+- [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](../claims/residencies-enroll-more-candidates-of-color.md) [+W]
 
 ## Related Designs
 - 

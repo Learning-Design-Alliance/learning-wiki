@@ -40,7 +40,8 @@ The study establishes a conceptual mapping between the California Critical Think
 - 
 
 ## Related Designs
-- 
+
+- [Three-layer competency map linking graduate attributes to measurable behaviors](three-layer-competency-map-ai-curriculum.md)
 
 ## Examples
 -

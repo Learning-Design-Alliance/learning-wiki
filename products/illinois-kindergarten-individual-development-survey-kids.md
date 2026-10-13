@@ -13,7 +13,7 @@ generated:
 # Illinois Kindergarten Individual Development Survey (KIDS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A statewide teacher-administered kindergarten readiness assessment used in Illinois public schools, based on the Desired Results Developmental Profile–Kindergarten, with required professional development and coaching for implementation.
@@ -24,8 +24,12 @@ A statewide teacher-administered kindergarten readiness assessment used in Illin
 
 ### Claims
 
+- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](../claims/ncstate-brief-training-stage-movement.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Georgia GKIDS Readiness Check](georgia-gkids-readiness-check.md)
+- [Desired Results Development Profile-Preschool (DRDP-PS)](desired-results-development-profile-preschool-drdp-ps.md)
 
 ## Key Sources
 - Yun, C., Melnick, H., & Wechsler, M. (2021). High-quality early childhood assessment: Learning from states' use of kindergarten entry assessments. Learning Policy Institute. https://learningpolicyinstitute.org/product/high-quality-kea

@@ -40,7 +40,8 @@ Each lesson follows a sequence in which tutors introduce "concepts, skills, prob
 - 
 
 ## Related Designs
-- 
+
+- [Theme-of-the-week character lesson structure with story introduction and varied activities](theme-of-the-week-story-activity-lesson-structure.md)
 
 ## Examples
 -

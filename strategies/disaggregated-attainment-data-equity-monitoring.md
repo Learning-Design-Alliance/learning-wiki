@@ -42,6 +42,7 @@ The report models a monitoring practice: track attainment milestones over time, 
 - [Disaggregate attainment data by student subgroup to locate barriers and target supports](disaggregate-attainment-data-by-subgroup.md)
 - [Online college search tools should prominently display both four-year and six-year completion rates, disaggregated by race/ethnicity, gender, and Pell eligibility](display-both-four-and-six-year-rates.md)
 - [Use institutional peer benchmarking with incremental benchmarks toward the 75th percentile of peer-group metrics over a 10-year period](peer-benchmarking-75th-percentile-ten-year.md)
+- [Monitor and publicly report chronic absence data early, disaggregated by student group](early-disaggregated-chronic-absence-monitoring.md)
 
 ## Examples
 -

@@ -43,7 +43,9 @@ Human evaluation figures (Figs. 6–9) report gpt-4o above all quantised models 
 
 
 ## Related Claims
+
 - [Higher-bit quantisation (8-bit) better preserves structural coherence and semantic alignment in a Pidgin-fine-tuned LLM, achieving the highest ROUGE-L (0.3120) and BERTScore (0.8590) among the quantised models](higher-bit-quantisation-preserves-semantic-structure-pidgin-llm.md) — related
 - [Under FSM metrics, GPT-3.5-Turbo outperforms GPT-4o-Mini, reversing that model's higher rank on coding-oriented leaderboards](fsm-gpt35-outperforms-gpt4o-mini-reversal.md) — related
 - [FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated](fsm-eval-discriminates-model-quality.md) — related
 - [On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation](phinetuned-benchmark-comparison-gpt.md) — related
+- [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)

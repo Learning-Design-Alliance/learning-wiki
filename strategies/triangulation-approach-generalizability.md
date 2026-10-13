@@ -37,7 +37,8 @@ The report proposes a three-part methodological strategy for establishing that a
 - Establishing external validity and generalizability of educational intervention effects
 
 ## Related Strategies
-- 
+
+- [Define the target population as the first step in designing a generalizable impact study](define-target-population-first-generalizable-impact-studies.md)
 
 ## Examples
 -

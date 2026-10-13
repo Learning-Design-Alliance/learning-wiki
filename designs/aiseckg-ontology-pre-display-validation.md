@@ -17,7 +17,7 @@ sources:
 # AISecKG ontology as a pre-display validation layer for agent-generated content
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CyberAGENTS integrates the AISecKG cybersecurity ontology, which "defines valid entity types (e.g., tool, technique, attack, vulnerability, defense, system) and permissible relations among them (e.g., exploits, detects, counters, uses, can harm)." Outputs from the Challenge, Buddy, and Critic agents are checked against entity categories, relation patterns, and unsafe-content rules before learner exposure. The article reports that "Content that violates semantic constraints or safety thresholds is flagged and re-prompted under stricter conditions before presentation."
@@ -38,10 +38,13 @@ CyberAGENTS integrates the AISecKG cybersecurity ontology, which "defines valid 
 - Domain-consistent and safe instructional content in a high-stakes technical domain
 
 ### Claims
-- 
+
+- [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](../claims/ablation-structural-components-lower-judge-scores.md) [+W]
 
 ## Related Designs
-- 
+
+- [Structured autonomy: bounding generative agent behavior through layered pedagogical and domain constraints](structured-autonomy-agentic-learning-framework.md)
+- [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](cyberagents-competency-mapping-module.md)
 
 ## Examples
 -

@@ -27,7 +27,8 @@ Opportunity Culture is a school redesign and staffing framework developed by Pub
 - [Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading](../claims/mcl-team-teachers-gains-top-quartile.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [T3 Turnaround Teacher Teams](t3-turnaround-teacher-teams.md)
 
 ## Key Sources
 - Center on School Turnaround at WestEd. (2018). Thought Leadership Forum Brief: Talent Development and Opportunity Culture. San Francisco, CA: WestEd. http://WestEd.org

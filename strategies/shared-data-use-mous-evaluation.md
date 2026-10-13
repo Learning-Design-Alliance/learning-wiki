@@ -47,6 +47,7 @@ The report recommends that initiatives adopt the same or similar key measures of
 - [Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration](foster-care-web-of-supports-strategy.md)
 - [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
 - [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
+- [Improve visibility, alignment, and concrete strategies of the Transforming Schools Framework and resources](improve-framework-visibility-alignment-concrete-strategies.md)
 
 ## Examples
 -

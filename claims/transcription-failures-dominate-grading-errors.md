@@ -43,5 +43,7 @@ Complete categorization of each rubric item with AI–human disagreement across 
 
 
 ## Related Claims
+
 - [Gemini frequently corrects board-written math errors with correction logs, but still shows case-consistency and notation-substitution failures](gemini-error-correction-with-case-consistency-failures.md) — related
 - [Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)](explicit-rubric-conditions-reduce-ai-disagreement.md) — related
+- [In the authors' practical test, vision-capable LLMs recognized handwritten examination letters with high accuracy, with Gemini 3 Flash best at about 98.84% (35 errors in 3009 letters)](vision-llm-letter-recognition-98-84-percent.md)

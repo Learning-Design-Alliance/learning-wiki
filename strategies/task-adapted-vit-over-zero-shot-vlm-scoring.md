@@ -37,7 +37,8 @@ When scoring student drawings at scale, adapt a pretrained vision transformer wi
 - accurate and efficient automated scoring against rubric-based proficiency levels
 
 ## Related Strategies
-- 
+
+- [Use domain-specific fine-tuning of open-source diffusion models to build trustworthy generative AI tools for specialized technical domains](domain-specific-fine-tuning-for-trustworthy-generative-ai.md)
 
 ## Examples
 -

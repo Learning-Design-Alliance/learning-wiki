@@ -26,7 +26,8 @@ The Alliance for Resource Equity diagnostic toolkit, developed by Ed Trust and E
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Alliance for Resource Equity (ARE) diagnostic toolkit organized around ten dimensions of equity](alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ.md)
 
 ## Key Sources
 - The Education Trust. (2023). How Does Texas Support Students' Social, Emotional, and Academic Development (SEAD)?. https://EdTrust.org

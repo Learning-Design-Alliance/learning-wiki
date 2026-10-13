@@ -37,7 +37,8 @@ Given very high heterogeneity, the article recommends that "Future research shou
 - learning motivation
 
 ## Related Strategies
-- 
+
+- [Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.](vary-genai-output-presentation-hints-vs-solutions.md)
 
 ## Examples
 -

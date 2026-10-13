@@ -40,7 +40,8 @@ The MLME course is organized as a pyramid representing scaffolded instruction, i
 - 
 
 ## Related Designs
-- 
+
+- [Persona progression model: a four-stage AI-instructor persona (Guide→Collaborator→Peer→Launcher) operationalizing the Gradual Release of Responsibility framework for AI-mediated instruction](persona-progression-model-ai-instruction.md)
 
 ## Examples
 -

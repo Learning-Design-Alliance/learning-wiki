@@ -42,7 +42,9 @@ The report characterizes the recurring design features of Maryland districts wit
 - 
 
 ## Related Designs
-- 
+
+- [Maryland SLO implementation process and state support tools](maryland-slo-process-and-msde-support-tools.md)
+- [In SLO implementation, the process of thinking through the inter-related components matters most](slo-thinking-through-components-matters-most.md)
 
 ## Examples
 -

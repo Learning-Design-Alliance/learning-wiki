@@ -43,4 +43,6 @@ Applied research project documenting the problem through interviews with adminis
 
 
 ## Related Claims
+
 - [Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment](cmr-model-viewed-as-comfortable-transition.md) — related
+- [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md)

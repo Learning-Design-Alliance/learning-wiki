@@ -38,7 +38,8 @@ The article demonstrates using BERTopic — "a transformer-based topic modeling 
 - identifying research themes and trends in a field
 
 ## Related Strategies
-- 
+
+- [Educational Research Map Visualization](educational_research_map_visualization.md)
 
 ## Examples
 -

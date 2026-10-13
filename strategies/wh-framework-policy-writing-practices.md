@@ -40,7 +40,8 @@ The review offers a set of writing suggestions for creating impactful implicatio
 - Wh Question Policy Implication Framework
 
 ## Related Strategies
-- 
+
+- [Editorial mandates and policymaker practices to close the AI × SEL policy gap](editorial-policymaker-policy-engagement-practices.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ The authors close by recommending next steps for educational LLM evaluation and 
 - [Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures](extend-educational-llm-benchmarks-human-in-loop-multiturn.md)
 - [Extend the alignment framework to machine translation evaluation and cross-lingual summarization, with recalibrated λ](extend-alignment-to-mt-and-cross-lingual-evaluation.md)
 - [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
+- [Prioritize prospective, in-curriculum evaluations of AI governance interventions over additional isolated benchmark studies](prospective-governance-evaluations-over-benchmarks.md)
 
 ## Examples
 -

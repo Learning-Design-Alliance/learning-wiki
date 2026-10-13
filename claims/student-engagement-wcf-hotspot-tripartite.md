@@ -43,8 +43,10 @@ The review's cluster #0 interpretation, attributing the tripartite engagement mo
 
 
 ## Related Claims
+
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
 - [The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing](wcf-high-centrality-keywords.md) — related
 - [Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution](wcf-leading-authors-journals-institutions.md) — related
 - [WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback](wcf-research-trends-shift.md) — a broader claim this one bears on
+- [Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals](learner-definitions-span-tripartite-dimensions.md)

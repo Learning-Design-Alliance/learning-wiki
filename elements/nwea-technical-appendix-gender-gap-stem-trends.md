@@ -50,7 +50,8 @@ A technical brief published by NWEA in May 2025, described as "the accompanying 
 - [MAP Growth Specialty School National Dashboard technical appendix](../products/map-growth-specialty-school-national-dashboard.md)
 
 ## Examples
--
+
+- [Use multiple national assessments plus course-enrollment data to track achievement-gap trends](../strategies/multi-assessment-plus-enrollment-data-for-gap-trends.md)
 
 ## Key Sources
 - Megan Kuhfeld, Karyn Lewis, Gustave Robinson. (2025). Technical appendix for "Boys regain the advantage in middle school STEM skills: Post-COVID trends in gender achievement gaps". NWEA technical brief. https://www.nwea.org/research/publication/technical-appendix-for-boys-regain-the-advantage-in-middle-school-stem-skills-post-covid-trends-in-gender-achievement-gaps/

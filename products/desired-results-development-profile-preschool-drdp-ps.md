@@ -33,7 +33,8 @@ The DRDP-PS is a California Department of Education teacher-rated developmental 
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](../claims/higher-tier-qcc-programs-greater-learning-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Illinois Kindergarten Individual Development Survey (KIDS)](illinois-kindergarten-individual-development-survey-kids.md)
 
 ## Key Sources
 - Emily Moiduddin, Celina Kamler, Lizabeth Malone, Kathryn Gonzalez. (2014). Milpitas Early Learning Transitions Model: Using Assessment Data to Inform Teacher Practice. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/milpitas-early-learning-transitions-model-using-assessment-data-to-inform-teacher-practice

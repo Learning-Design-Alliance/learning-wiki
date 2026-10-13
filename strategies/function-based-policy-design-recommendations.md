@@ -46,6 +46,9 @@ The paper's normative policy recommendations are that institutions should consid
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Apply four operational criteria—fidelity, non-augmentation, traceability, attestation—to identify transcription-only AI use](four-operational-criteria-transcription-only-use.md)
+- [Design assignments that explicitly specify which tasks may be delegated to AI and which may not](specify-ai-delegable-tasks-in-assignments.md)
+- [Assess GenAI misconduct evidence against three probative credentials — relevance, credibility and inferential force — before imposing sanctions](three-credential-evidence-assessment-genai-misconduct.md)
 
 ## Examples
 -

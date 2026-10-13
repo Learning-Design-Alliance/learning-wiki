@@ -79,6 +79,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 **[Retrieval Practice Guide](https://www.retrievalpractice.org)** — Agarwal and Bain's practitioner resource with classroom routines (brain dumps, two-things exit tickets) implementing free-recall testing.
 
 **[Quizlet](https://quizlet.com)** — Self-testing tools (Learn and Test modes) that convert study sets into retrieval trials with feedback.
+- [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](../strategies/minimal-retrieval-practice-strategy-instructions.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

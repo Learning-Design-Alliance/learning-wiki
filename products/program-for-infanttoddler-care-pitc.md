@@ -25,7 +25,9 @@ Program for Infant/Toddler Care is a comprehensive training programme developed 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [For Our Babies campaign](for-our-babies-campaign.md)
+- [TECTA: Tennessee Early Childhood Training Alliance](tecta-tennessee-early-childhood-training-alliance.md)
 
 ## Key Sources
 - A Call to Action on Behalf of U.S. Babies. (2014). WestEd R&D Alert, Vol. 14, No. 3. http://forourbabies.org/wp/

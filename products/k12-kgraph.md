@@ -24,7 +24,9 @@ A heterogeneous, curriculum-aligned knowledge graph extracted and expert-verifie
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [K12-Bench](k12-bench.md)
+- [PhysicsMate benchmark of 1,834 curriculum-grounded Bengali physics QA pairs](physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs.md)
 
 ## Key Sources
 - Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang. (2026). K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs. arXiv preprint. https://arxiv.org/abs/2605.09635

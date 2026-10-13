@@ -40,7 +40,11 @@ A framework for organizing education around developmental relationships, support
 - [Black, Latino/a, Native American, English learner, and special education students are disproportionately represented among students experiencing homelessness](../claims/racial-disproportionality-student-homelessness.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Essentials for Community School Transformation Framework](essentials-for-community-school-transformation-framework.md)
+- [Five fundamental elements of a high-quality education system](five-fundamental-elements-of-a-high-quality-education-system.md)
+- [Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework](guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework.md)
+- [SEAD integration framework (the three-legged stool)](sead-integration-framework-the-three-legged-stool.md)
 
 ## Key Sources
 - Breaking Barriers, California Alliance of Child and Family Services, Santa Clara County Office of Education, & WestEd. (2022). Supporting California's children through a whole child approach: A field guide for creating integrated, school-based systems of care. https://WestEd.org/permissions

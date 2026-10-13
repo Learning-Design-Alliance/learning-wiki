@@ -66,6 +66,7 @@ Teacher–student relationship quality is one of the most consistent correlates 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — knowing students' backgrounds enables instruction that connects to them
 - [Teachers should learn about students' lives and commitments outside school and build relationships, which students say increases respect, effort, and engagement](teachers-learn-students-outside-commitments.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
+- [Daily personalization routines: greeting students, short conferences, open-door policies, office hours, active listening, and authentic affirmation](daily-personalization-routines-greetings-conferences-affirmation.md)
 
 ## Examples
 - **2×10 relationship strategy** — a teacher spends two minutes of non-academic conversation with a targeted student for ten consecutive days; widely used in positive behavior support implementations.

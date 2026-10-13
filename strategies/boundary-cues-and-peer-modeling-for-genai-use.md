@@ -50,6 +50,7 @@ This strategy operationalizes the contextual-support construct the article ident
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Cultivate learners' critical AI literacy and integrity-focused group practices for GenAI-supported group work](critical-ai-literacy-integrity-focused-group-practices.md)
+- [Help GenAI users articulate their use as an efficiency-enhancing practice to reduce negative peer evaluations](articulate-genai-use-efficiency-practice.md)
 
 ## Examples
 -

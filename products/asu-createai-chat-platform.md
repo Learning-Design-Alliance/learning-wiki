@@ -18,7 +18,7 @@ sources:
 # ASU CreateAI Chat platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 ASU CreateAI Chat is a secure, institutionally managed Arizona State University platform that provides a closed-system GPT-4o environment with retrieval-augmented generation for working with approved sources.
@@ -27,6 +27,9 @@ ASU CreateAI Chat is a secure, institutionally managed Arizona State University 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](../claims/rag-reduces-not-eliminates-hallucinations.md) [+W]
+- [Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls](../claims/genai-tooling-strategy-divergence.md) [+W]
 
 ## Related Products and Programmes
 -

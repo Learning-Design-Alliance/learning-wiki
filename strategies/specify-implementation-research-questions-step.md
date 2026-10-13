@@ -41,6 +41,7 @@ The guide treats the specification of implementation research questions as an ex
 - [Assess whether and how the planned intervention is implemented](assess-whether-and-how-intervention-implemented.md)
 - [Document the implementation context and measure the intervention-control contrast](document-context-and-measure-contrast.md)
 - [Link implementation and impact findings when analyzing and reporting impact studies](link-implementation-and-impact-findings.md)
+- [Define the target population as the first step in designing a generalizable impact study](define-target-population-first-generalizable-impact-studies.md)
 
 ## Examples
 -

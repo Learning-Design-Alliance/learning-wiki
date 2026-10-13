@@ -62,6 +62,7 @@ Cluster comparison on the eight Likert perception statements (Table III); statem
 
 
 ## Related Claims
+
 - [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](five-genai-usage-profiles-oop-course.md) — related
 - [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — reports the opposite
@@ -71,3 +72,4 @@ Cluster comparison on the eight Likert perception statements (Table III); statem
 - [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
 - [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related
+- [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md)

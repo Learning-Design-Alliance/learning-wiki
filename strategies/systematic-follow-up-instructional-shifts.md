@@ -39,7 +39,9 @@ The report's fourth lesson holds that lasting pedagogical change is more likely 
 - Lasting change in pedagogy
 
 ## Related Strategies
-- 
+
+- [Provide various forms of follow-up to sustain new practices learned in PD](follow-up-supports-sustain-pd-practices.md)
+- [Build Time for Self-Reflection](build_time_for_self-reflection.md)
 
 ## Examples
 -

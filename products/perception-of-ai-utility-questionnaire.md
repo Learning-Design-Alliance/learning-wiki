@@ -27,7 +27,8 @@ A 12-item Likert questionnaire developed by Suriá-Martínez et al. to measure h
 - [Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile](../claims/educational-support-ai-use-profile-differences.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AI adaptive learning environment perception scale (15 items, three dimensions)](ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions.md)
 
 ## Key Sources
 - Suriá-Martínez R, García-Castillo F, López-Sánchez C and García del Castillo JA (2026). Between perceived competence and artificial intelligence: academic self-efficacy profiles in university students with motor disabilities. Front. Educ. 11:1956192. https://doi.org/10.3389/feduc.2026.1956192

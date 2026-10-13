@@ -43,4 +43,6 @@ Qualitative synthesis from a May 2012 expert meeting convened to define data lit
 
 
 ## Related Claims
+
 - [The field lacks an agreed-upon definition of data literacy and often confuses it with assessment literacy](no-agreed-definition-data-literacy-confused-with-assessment-literacy.md) — related
+- [Data literacy and assessment literacy show complex interactions with considerable overlap and potential for differing knowledge and skills](data-literacy-assessment-literacy-overlap.md)

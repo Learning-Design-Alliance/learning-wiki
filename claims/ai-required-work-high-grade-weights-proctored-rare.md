@@ -43,5 +43,7 @@ Feature analysis of 14 conventional percentage-based courses (Table 4): AI-requi
 
 
 ## Related Claims
+
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — possibly the same claim (merge candidate)
 - [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](ai-se-topics-fundamentals-agentic-prompting-testing.md) — related
+- [In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment](students-reinvented-exams-in-ai-course-grading-design.md)

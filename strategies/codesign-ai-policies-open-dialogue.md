@@ -44,6 +44,7 @@ This strategy recommends that instructors move away from enforcement- and survei
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Establishing Classroom Norms](establishing_classroom_norms.md)
 - [Classroom Norms Co Construction](classroom-norms-co-construction.md)
+- [Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement](structural-support-educator-wellbeing-ai.md)
 
 ## Examples
 -

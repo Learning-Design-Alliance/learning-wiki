@@ -43,4 +43,6 @@ Descriptive walkthrough in Section 6 of the agent's traversal in the Figure 1 ex
 
 
 ## Related Claims
--
+
+- [The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space](camelot-jr-solver-solves-arbitrary-configurations.md)
+- [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md)

@@ -37,7 +37,8 @@ Because staff development programs differ in type and purpose, the authors repla
 - designing effective staff development programs
 
 ## Related Strategies
-- 
+
+- [Consider evaluation issues up front when launching educational reform initiatives](consider-evaluation-issues-when-launching-reform-initiatives.md)
 
 ## Examples
 -

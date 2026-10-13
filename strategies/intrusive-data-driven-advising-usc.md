@@ -43,6 +43,7 @@ USC's approach centers on systematically identifying students at risk of not gra
 - [Colleges can adopt evidence-based support practices—wrap-around advising, proactive advising, non-tuition financial support, co-requisite courses, early alert systems, and disaggregated data—to improve completion](evidence-based-college-completion-practices.md)
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](ninth-grade-on-track-data-strategy.md)
+- [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
 
 ## Examples
 -

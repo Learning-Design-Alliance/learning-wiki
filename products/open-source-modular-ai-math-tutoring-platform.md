@@ -28,7 +28,8 @@ An open-source modular platform developed by Jarosław A. Chudziak and colleague
 - [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](../claims/multimodal-emotion-aggregation-60-percent-accuracy.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Math Mysteries](math-mysteries.md)
 
 ## Key Sources
 - Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484

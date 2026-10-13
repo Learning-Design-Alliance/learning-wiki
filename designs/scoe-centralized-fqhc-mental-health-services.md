@@ -40,7 +40,9 @@ SCOE hires clinicians and places them in schools under the Sacramento County Hea
 - 
 
 ## Related Designs
-- 
+
+- [SCOE mental health career pathway employing peer specialists, graduate clinical interns, and associate clinicians](scoe-school-mental-health-career-pathway.md)
+- [Coordination of Services Teams (COST) link students to mental health supports within a multi-tiered system of supports](scoe-cost-mtss-referral-coordination.md)
 
 ## Examples
 -

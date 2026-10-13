@@ -56,6 +56,7 @@ The page specifies a professional development model for implementing Readable En
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Provide formative evaluation and implementation coaching to strengthen ADE initiative design](formative-evaluation-coaching-ade-initiatives.md)
+- [Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews](lightning-squad-tutor-training-support-strategy.md)
 
 ## Examples
 -

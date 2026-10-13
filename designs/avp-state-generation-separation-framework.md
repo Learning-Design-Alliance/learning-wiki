@@ -46,7 +46,8 @@ The AVP framework inserts an explicit behavioral-state module between the traine
 - [Avp Weight Ablation Exploration Dominant](../claims/avp-weight-ablation-exploration-dominant.md) [+M]
 
 ## Related Designs
-- 
+
+- [Transcript-derived patient profiles conditioning virtual patient behavior across seven dimensions](transcript-derived-virtual-patient-profiles.md)
 
 ## Examples
 -

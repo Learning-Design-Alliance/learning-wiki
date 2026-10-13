@@ -63,4 +63,6 @@ The brief reports CRDC restraint and seclusion figures, stating that "78% of stu
 
 
 ## Related Claims
--
+
+- [Black students lose five times as many instructional days to suspension as White students](black-students-lose-five-times-instructional-days.md)
+- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md)

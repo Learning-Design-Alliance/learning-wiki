@@ -39,6 +39,7 @@ Based on their findings that general-purpose LLMs sometimes failed to recognize 
 ## Related Strategies
 
 - [Design TTXs with assessment in mind so that log data capture the learning process](design-ttx-with-assessment-in-mind.md)
+- [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
 
 ## Examples
 -

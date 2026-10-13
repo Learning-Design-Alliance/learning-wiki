@@ -37,7 +37,8 @@ Zwick and Mislevy's recommendations to Smarter Balanced and PARCC, quoted in the
 - Valid, comparable summative proficiency scores aggregated across through-year test events
 
 ## Related Strategies
-- 
+
+- [States should weigh the tradeoff between easily measured indicators (understandable, low data burden) and more complex measures (greater nuance), and explore innovative readiness measures tied to long-term outcomes](balance-ease-and-nuance-postsecondary-indicators.md)
 
 ## Examples
 -

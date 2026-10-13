@@ -13,7 +13,7 @@ generated:
 # Asyncform (AF) dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A corpus of 863 AI-generated educational questions in English, Mathematics, and Science, labeled by K–12 teachers with Bloom Taxonomy levels and related subject, grade-level, objective, and question metadata; it was created and released by Michael Lawrence Castanares et al.
@@ -24,8 +24,15 @@ A corpus of 863 AI-generated educational questions in English, Mathematics, and 
 
 ### Claims
 
+- [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](../claims/lime-pos-reliance-varies-by-dataset.md) [+W]
+- [Appending learning objectives to questions improves Bloom classification on the AF dataset](../claims/learning-objectives-anchor-bloom-classification.md) [+M]
+- [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](../claims/ml-bloom-classifiers-degrade-ood-aeq.md) [+W]
+- [AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data](../claims/ood-aeq-textual-characteristics-differ-iid.md) [+W]
+- [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](../claims/llms-robust-ood-bloom-classification.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Dataset of 434 expert-labelled authentic learner questions augmented to balance class distributions](dataset-of-434-expert-labelled-authentic-learner-questions-augmented-to-balance-class-dist.md)
 
 ## Key Sources
 - Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749

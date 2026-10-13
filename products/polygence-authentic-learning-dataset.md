@@ -13,7 +13,7 @@ generated:
 # Polygence authentic learning dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A large anonymized multimodal dataset of more than 100,000 hours of longitudinal one-on-one project-based tutoring interactions between PhD-level mentors and K–12 or pre-college students, collected and maintained by Polygence.
@@ -24,8 +24,12 @@ A large anonymized multimodal dataset of more than 100,000 hours of longitudinal
 
 ### Claims
 
+- [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](../claims/fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) [+M]
+
 ## Related Products and Programmes
--
+
+- [Day2Day Environment multimodal longitudinal dataset](day2day-environment-multimodal-longitudinal-dataset.md)
+- [Large-scale dataset of authentic student–AI chat logs from six Technion courses](large-scale-dataset-of-authentic-studentai-chat-logs-from-six-technion-courses.md)
 
 ## Key Sources
 - Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087

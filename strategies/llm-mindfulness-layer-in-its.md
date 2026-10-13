@@ -38,7 +38,17 @@ The article recommends embedding mindfulness into structured ITSs through LLM-dr
 - Reducing state math anxiety while maintaining algebra learning gains
 
 ## Related Strategies
+
 - Math With Matt Mindful Its
+- [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
+- [Mindfulness And Breathing Exercises](mindfulness-and-breathing-exercises.md)
+- [Mindfulness Practice](mindfulness-practice.md)
+- [Mindfulness Techniques for Managing Emotional Impulses](mindfulness_techniques_for_managing_emotional_impulses.md)
+- [Breathing Techniques and Mindfulness Strategies](breathing_techniques_and_mindfulness_strategies.md)
+- [Mindfulness Techniques for Emotional Regulation](mindfulness_techniques_for_emotional_regulation.md)
+- [Breathing Exercises](breathing_exercises.md)
+- [Incorporate Mindfulness Techniques](incorporate_mindfulness_techniques.md)
+- [Mindfulness Techniques](mindfulness_techniques.md)
 
 ## Examples
 -

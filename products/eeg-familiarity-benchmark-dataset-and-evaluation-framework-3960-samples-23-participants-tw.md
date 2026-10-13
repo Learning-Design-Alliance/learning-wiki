@@ -26,7 +26,8 @@ A dataset and benchmarking framework released by Isuru Nanayakkara et al. contai
 - [Trial-independent EEG familiarity classification remains statistically significantly above chance for the 4-class, equations-only, and faces-only tasks under Bonferroni-corrected permutation tests](../claims/trial-independent-eeg-familiarity-above-chance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Isuru Nanayakkara and Thilina Halloluwa. (2026). Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction. https://arxiv.org/abs/2608.16541

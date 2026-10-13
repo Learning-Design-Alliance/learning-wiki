@@ -37,7 +37,8 @@ Drawing on Cohen et al. (2003), the report states that "education only improves 
 - deep engagement with curricular standards and skills through meaningful technology use
 
 ## Related Strategies
-- 
+
+- [Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline](seven-domain-pipeline-virtual-leadership-strategies.md)
 
 ## Examples
 -

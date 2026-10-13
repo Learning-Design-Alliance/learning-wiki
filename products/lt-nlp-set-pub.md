@@ -25,7 +25,8 @@ A GitHub repository maintained by the review authors containing the code, study 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [LLM-queries](llm-queries.md)
 
 ## Key Sources
 - Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939

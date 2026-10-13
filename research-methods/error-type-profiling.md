@@ -12,7 +12,7 @@ generated:
 # Error-type profiling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Error-type profiling is the analytic lens the article introduces to judge fairness interventions by how they redistribute false positives and false negatives across groups, rather than only by whether fairness metrics converge. The article introduces it as "a lens that translates fairness metrics into the terms advisors actually encounter: which students appear on caseloads and which are never seen." With predicted-successful as the positive class, a false negative is a successful student predicted at-risk who occupies a scarce advising slot and risks stigmatization, while a false positive is a struggling student predicted successful who never appears on any advisor's caseload.
@@ -23,6 +23,8 @@ Error-type profiling is the analytic lens the article introduces to judge fairne
 - **Iteration branch of the taxonomy: seven categories of loop difficulties**: The iteration branch classifies difficulties with loops into seven categories: the repeating nature of iteration statements, interaction with code outside the loop, order of execution of loop parts, state (including control-variable difficulties), difficulties with the loop condition, nesting, and break and continue. Examples include the "loop is if" belief and thinking nested loops execute simultaneously. The branch draws on both cited literature and the authors' own interview and test data. (Dimitri Eckert et al. (2026))
 
 ### Claims
+
+- [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](../claims/six-posthoc-interventions-redistribute-disparities.md) [+W]
 
 ## Related Research Methods
 -

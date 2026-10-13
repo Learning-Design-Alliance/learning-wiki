@@ -79,6 +79,7 @@ Praise functions as attributional feedback: it shapes what learners believe caus
 - Normalizing error and productive failure — shares the attributional goal of decoupling mistakes from ability judgments
 - Mastery-oriented grading — structural (rather than verbal) way to reward progress over fixed performance
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
+- [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Sixth graders praised for effort after a task subsequently chose more challenging problems and persisted longer after failure than those praised for intelligence.

@@ -30,7 +30,8 @@ Twig Science is Twig Education's phenomena-based K–8 science curriculum aligne
 - [Grades 6–8 students using Twig Science showed significantly greater gains on the Imagine Galileo science benchmark than matched non-using peers (effect size +0.15)](../claims/twig-science-greater-galileo-gains-middle-school.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Amplify Science](amplify-science.md)
 
 ## Key Sources
 - Twig Science — Evidence Rating: Promising. (2025). Imagine Learning program evidence summary. https://evidenceforessa.org/program/twig-science/

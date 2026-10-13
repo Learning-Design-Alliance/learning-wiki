@@ -27,7 +27,8 @@ Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et 
 - [Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items](../claims/mindful-agent-single-item-support.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [APLUS (Artificial Peer Learning Using SimStudent)](aplus-artificial-peer-learning-using-simstudent.md)
 
 ## Key Sources
 - Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611

@@ -40,7 +40,8 @@ The paper presents California's 2010s reforms, enacted while the author was Stat
 - 
 
 ## Related Designs
-- 
+
+- [CORE districts' multiple-measures accountability system spanning academic and social-emotional domains](core-districts-multiple-measures-system.md)
 
 ## Examples
 -

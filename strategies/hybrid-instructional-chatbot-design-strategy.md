@@ -38,7 +38,9 @@ The authors recommend treating the depth-efficiency trade-off not as a limitatio
 - Balancing rapid access to teaching ideas with reflective instructional development
 
 ## Related Strategies
-- 
+
+- [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
+- [Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone](finetuning-and-small-models-for-developmental-agents.md)
 
 ## Examples
 -

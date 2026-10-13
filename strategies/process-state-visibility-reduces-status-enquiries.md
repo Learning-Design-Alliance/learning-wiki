@@ -37,7 +37,9 @@ A design recommendation drawn from the study's finding that at least a fifth of 
 - Reducing avoidable help-seeking about pending administrative steps during onboarding
 
 ## Related Strategies
-- 
+
+- [Clear Online Communication](clear_online_communication.md)
+- [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 
 ## Examples
 -

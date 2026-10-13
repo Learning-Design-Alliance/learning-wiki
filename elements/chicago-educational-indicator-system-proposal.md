@@ -40,6 +40,7 @@ A proposed system to monitor critical aspects of schooling and regularly report 
 
 - [Individualized school reports (ISRs) tracking schools on core research-linked indicators](../products/5essentials-survey.md)
 - [Consortium on Chicago School Research five-year research agenda 2004-2008 by topic and study type](ccsr-research-agenda-2004-2008.md)
+- [Evidence-based public informing agenda on reform progress and challenges](evidence-based-public-informing-agenda.md)
 
 ## Examples
 

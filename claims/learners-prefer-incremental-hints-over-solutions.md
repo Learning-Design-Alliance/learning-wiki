@@ -41,4 +41,5 @@ Participant quote from the four-week study's feedback data. Early in the study, 
 
 
 ## Related Claims
--
+
+- [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md)

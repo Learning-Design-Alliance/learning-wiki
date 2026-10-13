@@ -37,7 +37,8 @@ The article's Notes for Practice recommend that "Future research should explore 
 - Improving literacy outcomes by addressing socio-emotional needs specific to gender
 
 ## Related Strategies
-- 
+
+- [Three design recommendations for gender-responsive AI literacy programs](gender-responsive-ai-literacy-program-recommendations.md)
 
 ## Examples
 -

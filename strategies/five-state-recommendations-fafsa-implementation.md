@@ -40,7 +40,8 @@ Based on its findings, the report recommends that state legislators, state board
 - navigating the financial aid application process to access college funding
 
 ## Related Strategies
-- 
+
+- [Seven state recommendations for designing and implementing universal FAFSA policies](universal-fafsa-policy-design-recommendations.md)
 
 ## Examples
 -

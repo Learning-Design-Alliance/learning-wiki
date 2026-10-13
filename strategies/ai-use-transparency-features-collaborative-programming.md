@@ -42,7 +42,8 @@ The article recommends designing learning analytics and pedagogical scaffolds th
 - Heuristic Inference Partner Ai Use Beliefs
 
 ## Related Strategies
-- 
+
+- [Use lightweight transparency cues about AI fallibility to encourage more cautious, help-seeking interaction strategies](lightweight-ai-fallibility-transparency-cues.md)
 
 ## Examples
 -

@@ -55,6 +55,7 @@ The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vy
 
 - [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
 - [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
+- [Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work](../strategies/sct-l2-research-avenues-strategy.md)
 
 ## Key Sources
 - Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847

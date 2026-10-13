@@ -24,7 +24,8 @@ Question Pot is a custom generative-AI chatbot agent built and deployed by Dai e
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CoLearn deployable containerised web system](colearn-deployable-containerised-web-system.md)
 
 ## Key Sources
 - Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00631-0

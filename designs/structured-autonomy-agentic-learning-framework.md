@@ -17,7 +17,7 @@ sources:
 # Structured autonomy: bounding generative agent behavior through layered pedagogical and domain constraints
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cybersecurity learning built on the principle of structured autonomy. The article states it "enables structured autonomy through ontology-guided validation, schema-governed behavioral control, and competency-based progression." Three layers regulate the system: a competency graph initializes gameplay, behavioral schemas bound each agent's instructional role, and a cybersecurity ontology validates all generated content before display. The design principle is that "generative flexibility should be bounded through structured autonomy rather than eliminated through static scripting."
@@ -41,10 +41,14 @@ CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cyb
 - Sustained engagement and iterative skill-building in practice-driven technical domains
 
 ### Claims
-- 
+
+- [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](../claims/ablation-structural-components-lower-judge-scores.md) [+W]
+- [LLM-as-judge evaluation scored CyberAGENTS highest on domain grounding (4.46) and agent role fidelity (4.35)](../claims/cyberagents-llm-judge-high-domain-grounding.md) [+W]
 
 ## Related Designs
-- 
+
+- [AISecKG ontology as a pre-display validation layer for agent-generated content](aiseckg-ontology-pre-display-validation.md)
+- [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](cyberagents-competency-mapping-module.md)
 
 ## Examples
 -

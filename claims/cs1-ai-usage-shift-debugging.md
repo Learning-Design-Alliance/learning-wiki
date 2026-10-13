@@ -43,6 +43,7 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 
 
 ## Related Claims
+
 - [More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment](rising-llm-adoption-debugging-across-semesters.md) — related
 - [Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)](expansive-strategies-increase-half-per-student.md) — related
 - [CS1-CR students reported overwhelmingly positive sentiment toward code reviews, with 65% agreeing they helped avoid over-reliance on AI and 90% reporting increased motivation to understand their code](cs1-cr-positive-sentiment-code-reviews.md) — related
@@ -58,3 +59,4 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — related
 - [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
 - [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related
+- [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md)

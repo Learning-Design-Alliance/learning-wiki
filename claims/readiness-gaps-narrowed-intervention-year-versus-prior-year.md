@@ -62,6 +62,10 @@ Significance tests contrasting prior-year and intervention-year regression coeff
 
 
 ## Related Claims
+
 - [During the intervention year, EL preschoolers' DRDP scores were predicted to increase more than Non-ELs' scores in all five DRDP domains after controlling for pretest, with statistically significant differences in ATL-REG and PD](els-grew-more-than-non-els-intervention-year-drdp.md) — related
 - [Intervention-year ELs reached higher DRDP developmental levels by spring than prior-year ELs, while Non-ELs showed no discernable difference or a slight prior-year advantage](intervention-year-els-reached-higher-developmental-levels.md) — related
 - [During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only](prior-year-gaps-widened-els-grew-less.md) — possibly the same claim (merge candidate)
+- [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md)
+- [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md)
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md)

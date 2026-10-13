@@ -40,7 +40,10 @@ The article names competency bias as "the inherent tendency of preference-tuned 
 - [Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes](../claims/studentsim-outperforms-baselines-guidance-responsiveness.md) [+M]
 
 ## Related Research Methods
--
+
+- [Epistemic State Specification (ESS)](epistemic-state-specification-ess.md)
+- [Goal-by-Environment framework for classifying simulated student systems](goal-by-environment-framework-for-classifying-simulated-student-systems.md)
+- [Three validation targets for educational simulation: behavioral believability, educational mechanism fidelity, and institutional counterfactual usefulness](three-validation-targets-for-educational-simulation-behavioral-believability-educational-m.md)
 
 ## Key Sources
 - Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280

@@ -42,7 +42,8 @@ The article's learning-context modeling approach maintains student-level learnin
 - 
 
 ## Related Designs
-- 
+
+- [Intelligent tutoring systems as three-model architectures operationalizing formative assessment](its-three-core-components-architecture.md)
 
 ## Examples
 -

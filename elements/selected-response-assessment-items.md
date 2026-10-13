@@ -74,8 +74,10 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Sound unit test outcome measure for the TEEMSS evaluation](../products/teemss-sound-unit-test.md)
 
 ## Examples
+
 - A true-false item testing whether "the U.S. Civil War Battle of Fort Sumter" occurred before or after a listed date, versus a poorly-worded version bundling two separate historical claims into one statement
 - A multiple-choice item testing application of the "law of diminishing returns" concept via a novel scenario, versus one merely testing recall of the definition
+- [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](../strategies/sequence-practice-easy-to-difficult-item-types.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

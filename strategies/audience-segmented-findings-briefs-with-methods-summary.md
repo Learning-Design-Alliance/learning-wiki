@@ -43,6 +43,7 @@ The article describes a dissemination approach in which a methods summary "accom
 
 - [Research Reports](research_reports.md)
 - [Provide teachers, administrators, and educational leaders with practical resources and strategies for assessment use](assessment-education-resources-for-educators.md)
+- [Document survey data collection procedures and results in a methodological summary](methodological-summary-for-survey-data-collection.md)
 
 ## Examples
 -

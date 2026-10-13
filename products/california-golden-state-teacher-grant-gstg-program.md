@@ -27,7 +27,8 @@ A California Student Aid Commission programme that provides grants to teacher an
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](../claims/gstg-reduced-award-lessens-impact.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md)
 
 ## Key Sources
 - Leung-Gagné, M., Maria Castillo, M., Patrick, S. K., Carver-Thomas, D., Kini, T., Bingener, C., & Giani, M. V. (2025). Strengthening the educator pipeline through service scholarships: California's Golden State Teacher Grant Program. Learning Policy Institute. https://doi.org/10.54300/518.478

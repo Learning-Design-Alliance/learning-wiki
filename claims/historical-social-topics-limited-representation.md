@@ -43,6 +43,9 @@ Tool-based coding of the 137 books in the sample that include historical or soci
 
 
 ## Related Claims
+
 - [Fewer than one-third of sampled books including groups or cultures of color provide complex representation; over half provide limited representation](groups-of-color-limited-representation.md) — related
 - [White authors rarely portray complex cultures of color: 41 of 64 limited-representation books have at least one White author, versus 15 of 36 complex-representation books](white-authors-rarely-complex-cultures.md) — related
 - [Just over half of centered people of color receive complex representation, while more than 40% receive limited representation, most often lacking agency](people-of-color-limited-representation.md) — related
+- [Intersecting marginalized identities are nearly absent from the sampled books, with gender identity, sexual orientation, disability, and justice-system representation extremely rare](intersecting-identities-nearly-absent-sample.md)
+- [White-centered books outnumber books centering any people of color combined groups, and non-human characters rival Black characters in share of centered people](white-centered-books-outnumber-people-of-color.md)

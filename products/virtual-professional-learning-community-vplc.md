@@ -18,7 +18,7 @@ sources:
 # Virtual professional learning community (vPLC)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The vPLC is a scalable professional-learning programme run by the ASSISTments initiative to help teachers, especially in rural and underresourced settings, implement ASSISTments effectively.
@@ -27,6 +27,10 @@ The vPLC is a scalable professional-learning programme run by the ASSISTments in
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](../claims/treatment-sample-rural-middle-schools-assistments.md) [+W]
+- [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](../claims/vplc-assistments-no-significant-overall-effect.md) [-W]
+- [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](../claims/vplc-assistments-low-performing-significant-gain.md) [+W]
 
 ## Related Products and Programmes
 -

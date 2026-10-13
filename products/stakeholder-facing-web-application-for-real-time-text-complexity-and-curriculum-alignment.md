@@ -24,7 +24,8 @@ A Flask-based application developed by Jordan J. Bird that lets non-technical ed
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [slidesqaqa](slidesqaqa.md)
 
 ## Key Sources
 - Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593

@@ -26,7 +26,9 @@ A Massachusetts Department of Elementary and Secondary Education dataset of K–
 - [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](../claims/screening-assessment-agreement-varies-47-85-percent.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Massachusetts DESE early literacy screening assessment dataset](massachusetts-dese-early-literacy-screening-assessment-dataset.md)
+- [Massachusetts early literacy screening assessment dataset linked with MCAS results](massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results.md)
 
 ## Key Sources
 - Early Literacy Performance in Massachusetts: Key Findings From 2023/24 School Year Data. (2025). WestEd. https://www.wested.org

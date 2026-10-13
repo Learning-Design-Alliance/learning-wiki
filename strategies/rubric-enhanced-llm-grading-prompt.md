@@ -38,7 +38,10 @@ This strategy supplies the automated grader with the same structured guidance hu
 - accurate automated grading of short bash command-line exam responses with partial credit
 
 ## Related Strategies
-- 
+
+- [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Achieve high-precision automated constructive assessment through prompt design alone—explicit role assignment plus human-scored hint examples—without fine-tuning](prompt-design-with-role-and-hints-for-llm-assessment.md)
+- [Mitigate LLM feedback errors by supplying course materials and compiler errors in the prompt, fact-checking generated feedback, and adapting feedback structure to student behavior](mitigate-llm-feedback-errors-context-and-fact-checking.md)
 
 ## Examples
 -

@@ -24,7 +24,9 @@ The report's fourth consideration addresses data availability: DLPs may lack ind
 ### Claims
 
 ## Related Research Methods
--
+
+- [Exploratory digital learning platform data analysis for research planning](exploratory-digital-learning-platform-data-analysis-for-research-planning.md)
+- [Digital learning platform process-data analysis](digital-learning-platform-process-data-analysis.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210

@@ -62,10 +62,12 @@ Role-play works because it combines behavioral rehearsal with observation of pee
 7. **Transfer.** Ask learners to identify a real situation where the strategy applies ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](../strategies/acting-role-play.md) — the broader role-play family; emotional scenarios are a specialized application
 - [Act It Out](../strategies/act_it_out.md) — kinesthetic enactment of concepts, useful as a warm-up to emotional role-play
 - ['What's My Emotion?' Game Check-in](../strategies/whats_my_emotion_game_check-in.md) — builds the emotional vocabulary that role-play scenarios depend on
 - [Case-Based Learning](../strategies/case-based-learning.md) — narrative analysis of interpersonal situations without enactment
+- [Five classroom use cases deploying social robots for emotional learning, conflict mediation, and one-on-one support](five-robot-use-cases-mindmatters.md)
 
 ## Related Elements
 - [Act](../elements/act.md) — the enactment element at the core of this strategy

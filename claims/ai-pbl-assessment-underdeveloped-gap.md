@@ -43,6 +43,7 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 
 
 ## Related Claims
+
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](no-comparative-conditions-hybrid-improvement-unvalidated.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
@@ -52,3 +53,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
 - [Empirical research on the ethical implications of teachers using AI for feedback remains scarce](empirical-gap-ethics-ai-feedback.md) — related
 - [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md)

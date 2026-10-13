@@ -37,7 +37,8 @@ Several RSF schools stood out for intensive professional development addressing 
 - Teacher instructional skill in literacy and mathematics, including teaching and assessing for mastery
 
 ## Related Strategies
-- 
+
+- [Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications](strategic-hiring-aligned-to-instructional-model.md)
 
 ## Examples
 -

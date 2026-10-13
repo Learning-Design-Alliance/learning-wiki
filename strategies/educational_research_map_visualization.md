@@ -83,6 +83,7 @@ Bibliometric maps reduce the search cost of navigating a large, unfamiliar liter
 - [Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency](partnering-with-academic-researchers.md)
 - [Concept Mapping](../elements/concept-mapping.md) — learner-constructed maps serve a similar structural-overview function at smaller scale
 - [Annotated Bibliographies](annotated-bibliographies.md) — the article-level follow-on once a topic cluster is identified
+- [Use transformer-based topic modeling (BERTopic) to map thematic structure and evolution of an emerging research field](use-bertopic-map-emerging-field-themes.md)
 
 ## Examples
 - **[Digital Promise Research Map](https://researchmap.digitalpromise.org)** — an interactive visualization of education research built from bibliographic coupling of journal articles; users explore topics, connections between topics, and save articles of interest.

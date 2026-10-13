@@ -17,7 +17,7 @@ sources:
 # Propensity-for-retention measure built by grade-specific logistic regression on prereform retention policy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A student-level covariate produced by logistic regression on 1987-1988 data with retention as the outcome and academic and demographic factors as predictors, applied to later years to yield "a propensity for retention for that student if the policy had remained the same since 1987." Students were then placed in a top retention category (top x% on the measure, where x is the 1987 retention percent for that grade) or not. It was built to adjust multilevel achievement-gain models for changing retention patterns.
@@ -35,6 +35,13 @@ A student-level covariate produced by logistic regression on 1987-1988 data with
 
 ### Target Learning Goals
 - Adjusting models of annual achievement gains for changing grade-retention patterns
+
+## Claims
+
+- [The propensity-for-retention measure discriminates retained from not-retained students, with first-grade log-odds of retention more than three times greater for actually retained students](../claims/propensity-measure-discriminates-retained-students.md) [+W]
+- [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](../claims/retention-associated-smaller-gains-than-promotion-chicago.md) [+W]
+- [Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probability](../claims/retention-predictors-vary-by-grade.md) [+W]
+- [Students in the top propensity-for-retention category showed higher gains than students not in the top category](../claims/top-retention-propensity-higher-gains.md) [+W]
 
 ## Related Elements
 - 

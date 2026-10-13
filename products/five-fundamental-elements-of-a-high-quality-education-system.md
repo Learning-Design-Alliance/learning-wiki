@@ -24,7 +24,10 @@ A policy framework from Oakes et al. for improving New Mexico education through 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Community schools framework: four pillars for a whole-child, whole-school, whole-community approach](community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap.md)
+- [Community schools approach](community-schools-approach.md)
+- [Whole Child Approach](whole-child-approach.md)
 
 ## Key Sources
 - Oakes, J., Espinoza, D., Darling-Hammond, L., Gonzales, C., DePaoli, J., Kini, T., Hoachlander, G., Burns, D., Griffith, M., & Leung, M. (2020). Improving education the New Mexico way: An evidence-based approach. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/improving-education-new-mexico-way

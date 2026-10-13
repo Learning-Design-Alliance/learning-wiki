@@ -17,7 +17,7 @@ sources:
 # Four-model ITS architecture with inner and outer loop pedagogical model
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 SCRIPT adopts the standard four-models ITS approach: "a Pedagogical Model, a Learner Model, a Domain Model, and a User Interface." The pedagogical model follows VanLehn's inner/outer loop differentiation: "The outer loop is responsible for task selection and the inner loop is responsible for generating feedback to steps inside programming tasks." The domain model holds tasks, a competency model (Q-matrix), and difficulty information; the learner model derives competency states from UI actions via a knowledge tracing algorithm. Models are designed to be easily replaceable and can be randomly assigned for A/B-testing.
@@ -38,10 +38,12 @@ SCRIPT adopts the standard four-models ITS approach: "a Pedagogical Model, a Lea
 - Python programming and data science skills
 
 ### Claims
-- 
+
+- [SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components](../claims/script-research-platform-data-collection.md) [+W]
 
 ## Related Designs
-- 
+
+- [Scrutable interfaces for generative AI: manipulable knowledge representations that let users shape outputs without understanding the model](scrutable-interfaces-knowledge-representation-generative-ai.md)
 
 ## Examples
 -

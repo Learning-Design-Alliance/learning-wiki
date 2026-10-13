@@ -18,7 +18,7 @@ sources:
 # RAMPUP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 RAMPUP is a named mathematics-learning programme developed and run by its project team, using contextualized activity structures to support students’ equivalence reasoning.
@@ -29,8 +29,11 @@ RAMPUP is a named mathematics-learning programme developed and run by its projec
 
 ### Claims
 
+- [In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity](../claims/el-language-monologic-authoritative-technical-growth.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [RAMPUP (Reimagining and Amplifying Mathematics Participation, Understanding, and Practices)](rampup-reimagining-and-amplifying-mathematics-participation-understanding-and-practices.md)
 
 ## Key Sources
 - Haiwen Chu, Brent Jackson. (2024). Engaging English Learners With Equivalence as a Crosscutting Concept in Mathematics. WestEd. https://www.wested.org/

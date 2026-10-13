@@ -41,7 +41,8 @@ The report recommends a multilevel policy approach so that diverse magnet school
 - positive academic and social outcomes in diverse schools
 
 ## Related Strategies
-- 
+
+- [Use job center and commuter shed analysis to site and design magnet schools](commuter-shed-magnet-siting-strategy.md)
 
 ## Examples
 -

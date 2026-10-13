@@ -17,7 +17,7 @@ sources:
 # Before using CALPADS course records for eligibility studies, align CALPADS A-G categorization with UC/CSU categorization for each year and school
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends reviewing how courses are categorized into A-G categories in CALPADS so that categorization matches what the UC/CSU systems use. It states that "A review of the categorization of courses into A-G categories in CALPADS so that it matches, for each year and school, the categorization used by the UC/CSU system would solve that challenge," addressing the very low elective (G) matching rate. This recommendation follows directly from the alignment analyses showing G-course non-alignment.
@@ -38,8 +38,10 @@ The report recommends reviewing how courses are categorized into A-G categories 
 - Accurate assessment of A-G course completion for higher education eligibility
 
 ### Claims
+
 - [G Elective Courses Low Alignment Calpads Uc](../claims/g-elective-courses-low-alignment-calpads-uc.md) [+M]
 - Calpads Challenges Eligibility Computation [+M]
+- [CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students](../claims/calpads-csu-alignment-slightly-lower.md) [+W]
 
 ## Related Designs
 - 

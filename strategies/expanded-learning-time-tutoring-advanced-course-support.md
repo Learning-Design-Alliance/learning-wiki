@@ -37,7 +37,10 @@ To ensure advanced courses have a safe, equitable, positive learning environment
 - Success and belonging in advanced STEM coursework
 
 ## Related Strategies
-- 
+
+- [Support belonging in AP classes through AP teachers of color, near-peer mentors, culturally sustaining curricula, and targeted supports](belonging-supports-advanced-coursework.md)
+- [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
+- [Adopt automatic enrollment and open enrollment policies for advanced courses to expand equitable access](automatic-open-enrollment-advanced-courses.md)
 
 ## Examples
 -

@@ -40,7 +40,8 @@ Across all five study districts, homeless program staff coordinated services pro
 - Districts Multi Strategy Identification Undercount Homeless Students [+M]
 
 ## Related Designs
-- 
+
+- [Wellness Center and Coordination of Services Team coordinating partnerships and supports](oakland-international-wellness-center-cost-team.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Six visualizations for tracing and comparing trustworthiness metric violations across LLM responses
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article co-designed six visualizations that help learning engineers trace where each trustworthiness metric was violated in an LLM response and compare relative performance across multiple responses. Key design features include "Highlighting violations in LLM response" and "Explanations for metric violations." Visualizations map each violation onto the span of the response, the learner's message, or the passage responsible, enabling raters to verify flags against the source text before acting on them.
@@ -39,7 +39,9 @@ The article co-designed six visualizations that help learning engineers trace wh
 - supporting A/B comparison of LLM responses
 
 ### Claims
-- 
+
+- [Trustworthiness metrics and visualizations surfaced previously overlooked pedagogical risks and enabled more deliberate reasoning about trade-offs between competing objectives](../claims/trustworthiness-tools-surface-risks-enable-tradeoff-reasoning.md) [+W]
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](../claims/trustworthiness-metrics-visualizations-increase-expert-agreement.md) [+W]
 
 ## Related Designs
 - 

@@ -25,7 +25,12 @@ A benchmark dataset and evaluation harness developed by Md Zabirul Islam et al. 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CourseBlueprint](courseblueprint.md)
+- [ISD-Agent-Bench](isd-agent-bench.md)
+- [Cross-dataset Bloom classification benchmark corpus of five datasets totaling 4,179 questions](cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totaling-4179-questio.md)
+- [EduClaw-Bench](educlaw-bench.md)
+- [TEACHARENA benchmark](teacharena-benchmark.md)
 
 ## Key Sources
 - Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608

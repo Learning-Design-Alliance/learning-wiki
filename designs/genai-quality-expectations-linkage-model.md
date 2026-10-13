@@ -17,7 +17,7 @@ sources:
 # A model linking Australian and institutional quality expectations to GenAI realities in Malaysian-campus journalism education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article contributes "a model that links Australian and institutional quality expectations to the realities of GenAI in journalism education in Malaysia campus." The model connects external quality assurance requirements with on-the-ground student GenAI practices, serving as a transferable artifact for campuses operating under one national quality regime while teaching in another context.
@@ -37,10 +37,13 @@ The article contributes "a model that links Australian and institutional quality
 - Quality-assured GenAI-integrated assessment
 
 ### Claims
-- 
+
+- [Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure](../claims/students-use-genai-strategically-with-concerns.md) [+W]
+- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](../claims/genai-policy-vignettes-mostly-restrictive-indeterminate.md) [+W]
 
 ## Related Designs
-- 
+
+- [An ethical framework integrating Experiential Learning Design with Bloom's revised taxonomy scaffolds GenAI-integrated journalism assessment](genai-journalism-assessment-ethical-framework.md)
 
 ## Examples
 -

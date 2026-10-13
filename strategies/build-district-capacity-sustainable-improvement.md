@@ -44,6 +44,7 @@ Because ESSA gives LEAs a central role in school improvement, the article report
 - [Recommendations for state education agencies and districts implementing formative assessment at scale](sea-lea-recommendations-formative-assessment-scale.md)
 - [Technical assistance providers should plan to work themselves out of a job by building districts' internal capacity](ta-providers-build-internal-capacity.md)
 - [Provide schools with resources, technical assistance, and well-validated measurement tools to support SEL](state-support-and-technical-assistance-for-sel.md)
+- [Assess district capacity (students per teacher and class periods per day) and learn from early implementer districts before scaling credit-requirement changes](assess-district-capacity-early-implementers.md)
 
 ## Examples
 -

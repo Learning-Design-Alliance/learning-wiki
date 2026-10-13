@@ -13,7 +13,7 @@ generated:
 # APLUS (Artificial Peer Learning Using SimStudent)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 APLUS is an online learning-by-teaching environment developed by its researchers in which students tutor the SimStudent virtual agent to solve algebraic equations through guided problem solving.
@@ -24,8 +24,11 @@ APLUS is an online learning-by-teaching environment developed by its researchers
 
 ### Claims
 
+- [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](../claims/kbr-predicts-tutor-posttest-conceptual-procedural.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Math with Matt](math-with-matt.md)
 
 ## Key Sources
 - Fathima Ameen, Tasmia Shahriar, Aditi Mallavarapu, Shiyan Jiang, Noboru Matsuda. (2026). Beyond prior knowledge: the predictive role of knowledge-building in tutor learning. Behaviormetrika. https://doi.org/10.1007/s41237-026-00294-9

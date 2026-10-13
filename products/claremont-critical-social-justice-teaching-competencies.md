@@ -13,7 +13,7 @@ generated:
 # Claremont Critical Social Justice Teaching Competencies
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework used by Claremont's Teacher Education Program to integrate critical social justice teaching competencies across coursework, clinical practice, reflection, and evaluation for teacher candidates.
@@ -24,8 +24,12 @@ A framework used by Claremont's Teacher Education Program to integrate critical 
 
 ### Claims
 
+- [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Teacher residency model](teacher-residency-model.md)
+- [UCLA IMPACT ECE/Multiple Subject Program](ucla-impact-ecemultiple-subject-program.md)
 
 ## Key Sources
 - Yun, C., & Fitz, J. (2025). Humanizing teacher preparation: Claremont Graduate University's teacher residency. Learning Policy Institute. https://doi.org/10.54300/338.812

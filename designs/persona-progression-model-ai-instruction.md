@@ -40,7 +40,8 @@ The persona progression model ties the AI instructor's tone and scaffolding dept
 - [Cc Self Train Pilot Self Efficacy Gains](../claims/cc-self-train-pilot-self-efficacy-gains.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-level pyramid hierarchy for AI-integrated engineering curricula based on scaffolded instruction](mlme-pyramid-scaffolded-hierarchy.md)
 
 ## Examples
 -

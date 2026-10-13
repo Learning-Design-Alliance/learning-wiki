@@ -25,7 +25,8 @@ Socrates is a playground-and-grader system developed by Xinming Yang et al. for 
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](../claims/socrates-low-operational-cost.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [VTDS](vtds.md)
 
 ## Key Sources
 - Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979

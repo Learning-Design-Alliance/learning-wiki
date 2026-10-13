@@ -45,7 +45,8 @@ The survey defines "learner variability" as a construct covering the abilities s
 - [Learner variability whole child framework: strengths and challenges across content, cognition, social-emotional learning, and student background](../products/learner-variability-project.md)
 
 ## Examples
--
+
+- [Learner Variability Project (LVP)](../products/learner-variability-project-lvp.md)
 
 ## Key Sources
 - Digital Promise Global (2019). Learning in the 21st Century: How the American Public, Parents, and Teachers View Students’ Potential and Their Learning Experience. Digital Promise Global: Washington, DC. https://digitalpromise.dspacedirect.org/items/32480546-27ed-4785-8703-bf66b74f6bfd

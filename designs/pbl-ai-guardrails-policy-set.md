@@ -17,7 +17,7 @@ sources:
 # AI guardrails policy set for PBL courses
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A five-part guardrail package governing student GenAI use in PBL courses: tool restrictions, data protection, disclosure and validation, code provenance, and equity of access. The article states that "Teams documented when and how they used AI tools, validated AI outputs for accuracy and bias, and anchored all literature claims in primary sources rather than AI-generated text." Approved tools (e.g., Copilot, Zoom AI Companion, Teams Premium) were provided to ensure equitable access, AI-assisted code segments were marked with comments, and no PII or protected health information could be submitted to any AI tool.
@@ -39,10 +39,13 @@ A five-part guardrail package governing student GenAI use in PBL courses: tool r
 - reproducible and transparent computational practice
 
 ### Claims
-- 
+
+- [Privacy and data protection was a critical governance theme, raised by over half the expert panel](../claims/privacy-data-protection-genai-governance-theme.md) [+W]
+- [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](../claims/genai-privacy-data-guardrails-convergence.md) [+W]
 
 ## Related Designs
-- 
+
+- [Aligned Generative AI Course Policy framework for deciding allowed and unallowed GenAI use per task](aligned-generative-ai-course-policy-framework.md)
 
 ## Examples
 -

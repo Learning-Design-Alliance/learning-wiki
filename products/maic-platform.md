@@ -13,7 +13,7 @@ generated:
 # MAIC platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An online learning environment developed by the article's authors that combines course-preparation workflows, multi-agent classrooms, customizable classmate agents, and large-model learning-analytics tools for instructors and university students.
@@ -24,8 +24,11 @@ An online learning environment developed by the article's authors that combines 
 
 ### Claims
 
+- [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](../claims/itas-dead-zone-finding.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md)
 
 ## Key Sources
 - Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, Haoxuan Li, Yuanchun Wang, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. Preprint. Under review. https://arxiv.org/abs/2409.03512

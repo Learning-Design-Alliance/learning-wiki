@@ -17,7 +17,7 @@ sources:
 # LI(A)RA: competition team for the Multi-Agent Programming Contest integrated with a course
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 LI(A)RA was one of LIA's first competition projects, developing intelligent agents for the Multi-Agent Programming Contest (MAPC) as a natural extension of the undergraduate course "Specialized Topics I" (STI). Students organized study groups analyzing previous competition editions, documented their knowledge in a booklet and a self-instructional online course, and achieved "fourth place in the final competition," with the solution documented in a book chapter. The project validated organizational practices later adopted by other LIA initiatives.
@@ -40,7 +40,8 @@ LI(A)RA was one of LIA's first competition projects, developing intelligent agen
 - teamwork and decision-making under realistic constraints
 
 ### Claims
-- 
+
+- [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](../claims/liara-outcomes-validate-framework.md) [+W]
 
 ## Related Designs
 - 

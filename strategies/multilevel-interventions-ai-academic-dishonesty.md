@@ -38,7 +38,8 @@ Because the study found AI-assisted dishonesty to be a multilevel outcome shaped
 - strengthening academic integrity
 
 ## Related Strategies
-- 
+
+- [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 
 ## Examples
 -

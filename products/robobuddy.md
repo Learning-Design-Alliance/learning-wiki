@@ -27,7 +27,8 @@ RoboBuddy is a browser-based teacher interface and locally deployable LLM-robot 
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](../claims/robot-storytelling-higher-enjoyment-than-explanation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [EduSim-LLM](edusim-llm.md)
 
 ## Key Sources
 - Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities. https://arxiv.org/abs/2508.16706

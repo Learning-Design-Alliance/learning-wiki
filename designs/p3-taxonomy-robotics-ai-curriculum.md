@@ -45,7 +45,10 @@ The curriculum comprised 10 lessons followed by a robotics engineering design ch
 - 
 
 ## Related Designs
-- 
+
+- [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
+- [Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression](four-track-dependency-gated-robotics-progression.md)
+- [ToddlerBot-based humanoid curriculum instantiation for grades 9-12 with eight CS+AI sessions](toddlerbot-high-school-rl-curriculum.md)
 
 ## Examples
 -

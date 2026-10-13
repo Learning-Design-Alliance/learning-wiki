@@ -41,7 +41,8 @@ PETSP-ML (Promotion of Explanatory Thinking Standard Process for Machine Learnin
 - 
 
 ## Related Designs
-- 
+
+- [ICE-T: a didactic framework integrating intermodal transfer, computational thinking, and explanatory thinking for ML education](ice-t-didactic-framework-ml.md)
 
 ## Examples
 -

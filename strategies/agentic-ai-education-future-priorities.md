@@ -42,6 +42,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 
 ## Examples
 -

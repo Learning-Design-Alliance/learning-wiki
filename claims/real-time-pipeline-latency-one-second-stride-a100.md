@@ -43,4 +43,7 @@ Deployment feasibility benchmark on an unseen subject recording; warm latency in
 
 
 ## Related Claims
--
+
+- [A DDQN-based attention quantification model trained on multimodal EEG-fNIRS features produces predicted attention levels at one-second temporal resolution](ddqn-multimodal-attention-quantification-accurate-stable.md)
+- [A modality-aware reference model outperforms sensor-free, statistical, deep temporal, foundation-model, and LLM-based baselines for estimating minute-level attention difficulty from wearable sensing](edugage-modality-aware-model-outperforms-baselines.md)
+- [Densely sampled visual frames and sensor representations offered no reliable predictive advantage over the 1 FPS setting in the higher-frequency experiment](higher-frequency-sampling-no-reliable-advantage-over-1fps.md)

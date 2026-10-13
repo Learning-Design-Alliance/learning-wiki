@@ -25,7 +25,8 @@ SPIRaL is Purdue's two-semester students-as-partners undergraduate research prog
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Partners for Algorithmic Literacy (PAL)](partners-for-algorithmic-literacy-pal.md)
 
 ## Key Sources
 - Maybee, C., LeGrand, S., & Fundator, R. (2025). Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies. ALISE Proceedings. https://doi.org/10.21900/j.alise.2025.2017

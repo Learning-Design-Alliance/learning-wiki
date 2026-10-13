@@ -40,6 +40,10 @@ Explanation questions are analyzed with a simple cause-effect model and split in
 
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
 
+## Related Theories
+
+- [Van Fraassen pragmatic theory of explanation as a theory of why-questions](van-fraassen-pragmatic-theory-of-explanation.md)
+
 ## Related Patterns
 
 - [Description questions are answered by addressing a topic-dependent subset of Wh- and How subquestions](../methods/description-questions-topic-dependent-subquestions.md)

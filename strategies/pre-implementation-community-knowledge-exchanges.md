@@ -37,7 +37,9 @@ Before implementation, project staff engaged pre-K and kindergarten teachers and
 - creating alignment between pre-K and kindergarten teaching and expectations
 
 ## Related Strategies
-- 
+
+- [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
+- [Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics](implementation-phase-supports.md)
 
 ## Examples
 -

@@ -43,4 +43,7 @@ Fisher-Freeman-Halton exact test across the review's corpus relating educational
 
 
 ## Related Claims
+
 - [Study type is significantly associated with inclusion of policy implications](study-type-associated-policy-implications.md) — related
+- [Nearly three-quarters of AI × SEL studies articulate no substantive policy implications](policy-deficit-ai-sel-studies-no-implications.md)
+- [Sample size is not associated with the presence of explicit policy implications](sample-size-not-associated-policy-implications.md)

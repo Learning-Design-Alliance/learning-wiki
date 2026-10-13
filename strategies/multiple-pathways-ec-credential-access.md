@@ -45,6 +45,8 @@ The eight studied institutions of higher education designed multiple pathways to
 - [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 - [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](multiple-demonstration-competence-ec-credential.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
+- [Target prospective teachers in childhood and early childhood education to earn special education certificates at first certification, and consider incentives redirecting teachers from administration toward shortage areas](promote-shortage-area-certification-at-first-certification.md)
+- [Create streamlined credit-transfer pathways between two-year and four-year institutions to raise completions](streamlined-transfer-pathways-policy.md)
 
 ## Examples
 -

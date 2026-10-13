@@ -46,8 +46,10 @@ Parent survey item analysis (Figures 7-11) comparing responses by APTT attendanc
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
 - [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related
 - [Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience](transition-program-benefits-families-without-preschool-experience.md) — related
 - [Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families](transition-program-valued-early-staff-contact-routines-social-connections.md) — related
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
+- [Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD](readiness-gaps-narrowed-intervention-year-versus-prior-year.md)

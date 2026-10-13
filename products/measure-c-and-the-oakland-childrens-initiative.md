@@ -13,7 +13,7 @@ generated:
 # Measure C and the Oakland Children's Initiative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 County and city early-childhood and education funding initiatives administered or implemented by First 5 Alameda and Oakland Promise to expand early learning access, improve provider conditions, support school readiness, and promote college persistence.
@@ -23,6 +23,8 @@ County and city early-childhood and education funding initiatives administered o
 - **Measure C and the Oakland Children's Initiative early childhood funding initiatives**: Measure C is a countywide transaction and use tax–funded initiative passed in March 2020 that will generate an estimated $150 million annually for a Child Care, Preschool, and Early Education Fund, with aims of expanded access to high-quality care, improved provider wages, and promotion of wellness and kindergarten readiness. The Oakland Children's Initiative, established through Measure AA in 2018, is expected to generate approximately $30 million annually, with about 62 percent of the remaining amount allocated to early childhood and 31 percent to college persistence and success implemented by Oakland Promise. First 5 Alameda administers Measure C and is the contracted implementation partner for the Oakland Children's Initiative Early Education Fund. (Walrond et al. (2025))
 
 ### Claims
+
+- [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](../claims/listening-session-shared-findings-themes.md) [+W]
 
 ## Related Products and Programmes
 -

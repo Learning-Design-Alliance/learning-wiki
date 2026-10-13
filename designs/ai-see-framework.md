@@ -43,7 +43,8 @@ AI-SEE (Artificial Intelligence-Integrated Sustainable Engineering Education) is
 - 
 
 ## Related Designs
-- 
+
+- [Evolving-artifact course organization: each module's output becomes the next module's input](evolving-artifact-module-chain.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Correlational analysis of the strict May 1–May 25 model-completed trajectory r
 
 
 ## Related Claims
+
 - [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](cache-dominant-82-9-percent-tokens.md) — related
+- [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](persistent-agent-96-active-days-75671-records.md)

@@ -42,7 +42,9 @@ The article specifies the implemented technologies behind the smart teaching eco
 - 
 
 ## Related Designs
-- 
+
+- [AI Expert Feedback Ecology: a closed-loop cognition framework linking AI Twins, AI Tutors, dashboards, and learners](ai-expert-feedback-ecology.md)
+- [Feedback History interface with LLM contribution tracking and draft management](feedback-history-llm-contribution-tracking.md)
 
 ## Examples
 -

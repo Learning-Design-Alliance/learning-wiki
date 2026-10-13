@@ -39,7 +39,8 @@ The article derives three design directions for future LLM-generated feedback sy
 - Understanding and application of the multimedia principle in instructional design
 
 ## Related Strategies
-- 
+
+- [Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load](agentic-rag-and-context-aware-audio-upgrades.md)
 
 ## Examples
 -

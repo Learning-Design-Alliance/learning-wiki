@@ -30,7 +30,9 @@ Lenses is a hybrid print-and-digital instructional programme run by teachers to 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Lenses on Literature](lenses-on-literature.md)
+- [Classtime](classtime.md)
 
 ## Key Sources
 - Lenses on Literature. (2013). Lenses on Literature. https://www.literacydesigncollaborative.org

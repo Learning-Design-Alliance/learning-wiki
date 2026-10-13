@@ -24,7 +24,8 @@ A North Carolina constitutional education framework defining the components of a
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [North Carolina Generative AI Implementation Recommendations](north-carolina-generative-ai-implementation-recommendations.md)
 
 ## Key Sources
 - WestEd, Learning Policy Institute, & Friday Institute for Educational Innovation at North Carolina State University. (2019). Sound Basic Education for All: An Action Plan for North Carolina. San Francisco, CA: WestEd. https://www.wested.org

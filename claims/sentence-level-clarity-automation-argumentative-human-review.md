@@ -43,6 +43,8 @@ Theoretical caveat in Section 3.1 of this conceptual paper. The article argues t
 
 
 ## Related Claims
+
 - [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](construct-clarity-predicts-coding-agreement.md) — related
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
 - [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
+- [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](students-teachers-see-ai-imperfect-prefer-human-control.md)

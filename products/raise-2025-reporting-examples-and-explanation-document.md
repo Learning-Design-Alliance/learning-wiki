@@ -25,7 +25,9 @@ A supplementary RAISE guidance document providing side-by-side bad and good repo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [RAISE 2025 Checklist (v1.0) with editable supplementary version](raise-2025-checklist-v10-with-editable-supplementary-version.md)
+- [RAISE 2025 Ethics and Risk Matrix](raise-2025-ethics-and-risk-matrix.md)
 
 ## Key Sources
 - Allison, J. (2026). RAISE the Standard: A Framework for Transparent Reporting of Artificial Intelligence Studies in Education. Journal of Educational Computing Research, 64(1), 3-15. https://doi.org/10.1177/07356331251377430

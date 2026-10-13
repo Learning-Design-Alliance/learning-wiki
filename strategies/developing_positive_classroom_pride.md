@@ -58,9 +58,11 @@ Recognition of learner success builds positive teacher-learner relationships, an
 5. Monitor distribution and sincerity: ensure every learner is recognized regularly and adjust the public/private balance to the age group and classroom climate.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the recognition mechanism through which pride is instilled; feedback naming concrete behavior is what makes pride earned rather than flattered
 - [Active Listening](active-listening.md) — noticing and reflecting learner accomplishments requires attending closely to what learners actually do
 - [Check-Ins](5-minute_writing_conferences.md) — routine one-to-one moments where private, age-appropriate recognition can be delivered
+- [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — elementary practice of "celebrating student work" through morning meeting shout-outs and displayed work, building collective classroom pride.

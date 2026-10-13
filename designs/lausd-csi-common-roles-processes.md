@@ -41,7 +41,8 @@ Each LAUSD community school implements common roles, processes, and structures c
 - 
 
 ## Related Designs
-- 
+
+- [Clearly define the community school coordinator's skills, responsibilities, and position classification before hiring to support selection and onboarding](coordinator-role-clarity-hiring-and-onboarding.md)
 
 ## Examples
 -

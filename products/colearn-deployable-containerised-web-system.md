@@ -27,7 +27,8 @@ CoLearn is a containerised web application developed by Kailai He et al. for ada
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](../claims/collearn-ab-personalised-question-preference.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Question Pot](question-pot.md)
 
 ## Key Sources
 - Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154

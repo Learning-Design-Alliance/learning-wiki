@@ -26,7 +26,8 @@ NFTE's entrepreneurship education program, developed and run by the Network for 
 - [89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains](../claims/nfte-alumni-89-percent-reported-development-gains.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [NFTE entrepreneurship courses](nfte-entrepreneurship-courses.md)
 
 ## Key Sources
 - Nakamoto, J. & Rice, J. (2017). Network for Teaching Entrepreneurship (NFTE) 2016 Alumni Survey Findings. San Francisco, CA: WestEd. https://www.wested.org

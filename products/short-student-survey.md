@@ -18,7 +18,7 @@ sources:
 # Short student survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
 
 ## Description
 A study-specific student questionnaire created and administered by the evaluation team to measure mathematical experiences, belonging, self-efficacy, and perceptions of instructional implementation.
@@ -29,8 +29,11 @@ A study-specific student questionnaire created and administered by the evaluatio
 
 ### Claims
 
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+
 ## Related Products and Programmes
--
+
+- [Computing career intentions survey instrument (32-item full version and 12-item short form)](computing-career-intentions-survey-instrument-32-item-full-version-and-12-item-short-form.md)
 
 ## Key Sources
 - Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://www.wested.org

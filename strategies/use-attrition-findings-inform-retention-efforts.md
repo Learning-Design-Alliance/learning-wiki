@@ -37,7 +37,8 @@ The brief positions its descriptive attrition findings as an input for retention
 - Maintaining a stable educator workforce to support student pandemic recovery
 
 ## Related Strategies
-- 
+
+- [Six state strategies for increasing the racial diversity of the educator workforce, from data visibility through COVID-relief investment](six-state-strategies-educator-diversity-workforce.md)
 
 ## Examples
 -

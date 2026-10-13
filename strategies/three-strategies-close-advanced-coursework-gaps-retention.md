@@ -40,6 +40,7 @@ The article offers education leaders three strategies for promoting equity in ad
 
 - [District and school leaders should hold widespread discussions of grading practices and pair any expansion of boys' advanced-course enrollment with supports for students and teachers](grading-practice-discussions-and-supported-advanced-placement.md)
 - [Offer high achievers in high-poverty schools accelerated and advanced programs, plus explicit support for college-knowledge and academic-behavior skills](accelerated-advanced-programs-high-poverty-schools.md)
+- [Four-part policy strategy for increasing student access to advanced mathematics and science courses](policy-strategies-advanced-course-access.md)
 
 ## Examples
 -

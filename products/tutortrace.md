@@ -28,7 +28,8 @@ TutorTrace is a dataset and taxonomy developed by its authors that uses IDE tele
 - [Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%](../claims/pre-query-effort-completion-descriptive-profiles.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [BILearn-CS](bilearn-cs.md)
 
 ## Key Sources
 - David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, and Yan Chen. 2026. TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education. https://arxiv.org/abs/2608.26184

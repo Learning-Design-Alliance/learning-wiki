@@ -40,7 +40,10 @@ The paper's responsible-use recommendations state that deployments of Unicode ba
 - Ai Code Handoff Problem
 
 ## Related Strategies
-- 
+
+- [Institutional safeguards for safe, transparent AI use in assessment](institutional-ai-safeguards-assessment.md)
+- [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 
 ## Examples
 -

@@ -24,7 +24,8 @@ The review proposes a construct-validity framework separating seven measurement 
 ### Claims
 
 ## Related Research Methods
--
+
+- [Reliance calibration as an output-contingent classification of reliance decisions](reliance-calibration-as-an-output-contingent-classification-of-reliance-decisions.md)
 
 ## Key Sources
 - Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education. Front. Psychol. 17:1965371. https://doi.org/10.3389/fpsyg.2026.1965371

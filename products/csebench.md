@@ -26,7 +26,8 @@ CSEBench is a publicly released benchmark dataset of 624 expert-annotated multip
 - [CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms](../claims/csebench-item-quality-reliability.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Shangchao Min, Shaonan Wang, Xinyu Gao, Hui Wang, Zhiling Jin, and 2 more. (2026). Standardized Assessment of LLM English Proficiency. https://doi.org/10.21203/rs.3.rs-8820245/v1

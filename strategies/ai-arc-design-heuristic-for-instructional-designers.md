@@ -43,7 +43,9 @@ As a design heuristic, AI-ARC helps instructional designers structure activities
 - Ai Arc Framework Ask Reflect Create
 
 ## Related Strategies
-- 
+
+- [Integrate AI literacy instruction into study programs alongside responsible tool design](integrate-ai-literacy-into-study-programs.md)
+- [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 
 ## Examples
 -

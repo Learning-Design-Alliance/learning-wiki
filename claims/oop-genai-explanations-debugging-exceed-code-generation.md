@@ -43,7 +43,10 @@ Survey of 210 respondents in a first-year OOP course; Friedman test across three
 
 
 ## Related Claims
+
 - [Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations](five-genai-usage-profiles-oop-course.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
+- [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md)
+- [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md)

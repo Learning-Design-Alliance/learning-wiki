@@ -44,7 +44,8 @@ HeuristicEdu is a two-phase alignment pipeline that redirects an instruction-tun
 - [Grpo Without Directness Raises Socratic Scaffolding Effectiveness](../claims/grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) [+M]
 
 ## Related Designs
-- 
+
+- [cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism](cc-self-train-adaptive-learning-system.md)
 
 ## Examples
 -

@@ -36,7 +36,8 @@ The report's usage guidelines state that the linking exists to inform tutoring p
 - Reading mastery placement and personalized reading tutoring aligned to students' current reading level
 
 ## Related Strategies
-- 
+
+- [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
 
 ## Examples
 -

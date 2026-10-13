@@ -37,7 +37,9 @@ The M-PLANS professional learning approach incorporates four themes from contemp
 - Teachers' knowledge and capability to select and implement timely, flexible, responsive instructional strategies
 
 ## Related Strategies
+
 - M Plans Program Element
+- [Reflective Practice](reflective-practice.md)
 
 ## Examples
 -

@@ -31,7 +31,8 @@ A dataset created by Gorgun et al. containing 4,217 discussion-forum posts from 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Stanford MOOC Posts](stanford-mooc-posts.md)
 
 ## Key Sources
 - Gorgun, G., Yildirim-Erbasli, S. N., & Demmans Epp, C. (2022). Predicting cognitive engagement in online course discussion forums. Proceedings of the 15th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.6853149

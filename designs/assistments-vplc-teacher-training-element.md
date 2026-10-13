@@ -42,7 +42,8 @@ The vPLC is a virtual professional learning model designed to connect rural and 
 - [Assistments Sole Tool Early Trends](../claims/assistments-sole-tool-early-trends.md) [+W]
 
 ## Related Designs
-- 
+
+- [vPLC-augmented ASSISTments intervention with four-step formative assessment process](vplc-augmented-assistments-intervention.md)
 
 ## Examples
 -

@@ -39,7 +39,8 @@ The learning task used a custom-built platform integrated with the DeepSeek Larg
 - 
 
 ## Related Designs
-- 
+
+- [Custom LLM practice platform with validated offloading classifier for extent-of-support labeling](llm-practice-platform-offloading-classifier.md)
 
 ## Examples
 -

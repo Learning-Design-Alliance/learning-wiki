@@ -40,7 +40,8 @@ The meta-analysis supports designing learning activities in which learners recei
 - Self Explanation Generative Inference Process
 
 ## Related Strategies
-- 
+
+- [Self Explanation Prompts](self-explanation-prompts.md)
 
 ## Examples
 -

@@ -25,7 +25,9 @@ bcause is open-source software for causal inference in Bayesian and credal netwo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Bayes Net Toolbox for Matlab](bayes-net-toolbox-for-matlab.md)
+- [BNL (Bayesian networks with logistic regression nodes)](bnl-bayesian-networks-with-logistic-regression-nodes.md)
 
 ## Key Sources
 - Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632

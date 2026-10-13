@@ -43,4 +43,10 @@ Large-scale survey (n = 776, recruited via Prolific, Germany, February 2025) wit
 
 
 ## Related Claims
--
+
+- [Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning](curiosity-driver-mistrust-barrier-llm-learning.md)
+- [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md)
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md)
+- [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md)
+- [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md)
+- [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md)

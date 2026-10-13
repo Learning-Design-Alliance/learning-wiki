@@ -43,4 +43,6 @@ Subgroup analysis within the same administrative-earnings study. The page states
 
 
 ## Related Claims
+
 - [Estimates of the return to college selectivity fall substantially, often to near zero, when earnings are tracked from 1983 through 2007 and for a 1989 entering cohort](college-selectivity-earnings-return-near-zero-long-horizon.md) — related
+- [The study extends a previous paper that examined the 1995 earnings of a cohort of students who entered college in 1976](selectivity-study-extends-1976-cohort-1995-earnings.md)

@@ -36,7 +36,8 @@ The paper's concluding recommendation is that schools launching technology initi
 - CTE pathway engagement, pursuit of student passions, future career preparation
 
 ## Related Strategies
-- 
+
+- [Co-Design Tools for Standards and Interest Balancing](co-design-tools-for-standards-and-interest-balancing.md)
 
 ## Examples
 -

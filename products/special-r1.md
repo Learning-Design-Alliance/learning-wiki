@@ -13,7 +13,7 @@ generated:
 # Special-R1
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Special-R1 is a released artifact suite comprising a ZPD-filtered multi-domain tutoring corpus, the SPED-Tutor-Mix disability-aware evaluation set, seven model checkpoints, and an evaluation pipeline created by Unggi Lee et al.
@@ -24,8 +24,13 @@ Special-R1 is a released artifact suite comprising a ZPD-filtered multi-domain t
 
 ### Claims
 
+- [The full Special-R1 model raises persona-aware Fit from 6.75 to 8.40 and SPED-rubric Helpfulness from 0.720 to 0.768 over a non-disability-aware baseline](../claims/special-r1-raises-persona-fit-and-sped-helpfulness.md) [+W]
+- [Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM](../claims/sped-training-no-ood-knowledge-cost.md) [+W]
+- [Specific learning disability in mathematics is the weakest persona profile across all GRPO-trained models](../claims/sld-math-weakest-persona-profile.md) [-W]
+
 ## Related Products and Programmes
--
+
+- [Open audit dataset of 1,800 LLM history-tutor responses across five personas](open-audit-dataset-of-1800-llm-history-tutor-responses-across-five-personas.md)
 
 ## Key Sources
 - Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670

@@ -13,7 +13,7 @@ generated:
 # CourseBlueprint
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 CourseBlueprint is a retrieval-augmented course-blueprint and instructional-video generation pipeline developed by Md Zabirul Islam et al. that uses typed pedagogy representations to sequence prerequisites, adapt explanations, and generate engagement-oriented narration.
@@ -24,8 +24,14 @@ CourseBlueprint is a retrieval-augmented course-blueprint and instructional-vide
 
 ### Claims
 
+- [Removing the engagement contract reduces judged engagement, adaptive scores, readability, and engagement-move counts in pedagogical video generation](../claims/engagement-contract-ablation-reduces-pck-scores.md) [+W]
+- [Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration](../claims/engagement-realizes-adaptive-style-in-narration.md) [+W]
+- [The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal](../claims/cycle-break-safety-mechanism-concept-graphs.md) [+W]
+- [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](../claims/slide-image-override-corpus-grounding-recovery.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [BMED 2300 benchmark corpus and evaluation harness](bmed-2300-benchmark-corpus-and-evaluation-harness.md)
 
 ## Key Sources
 - Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608

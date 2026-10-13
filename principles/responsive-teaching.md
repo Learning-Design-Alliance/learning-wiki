@@ -72,6 +72,8 @@ Responsive teaching operationalizes formative assessment as a moment-to-moment p
 
 ## Examples
 
+- [Three Moment Architecture for secondary mathematics lessons with English Learners](../designs/three-moment-architecture-secondary-math.md)
+
 ### Illustrative
 
 **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — A professional development program that trains elementary teachers to elicit children's informal solution strategies for arithmetic word problems, classify them against research-based strategy trajectories, and design instruction that builds from each child's current strategy. Carpenter et al. (1989) showed large achievement gains for students of CGI teachers.

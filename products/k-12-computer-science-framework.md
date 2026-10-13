@@ -25,7 +25,8 @@ A framework developed by ACM, CSTA, Code.org, and collaborating experts that def
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Computational Thinking Pathways](computational-thinking-pathways.md)
 
 ## Key Sources
 - Digital Promise. (2017). Computational Thinking for a Computational World. https://www.digitalpromise.org

@@ -41,7 +41,8 @@ A prerequisite knowledge graph extracted by GPT-4 from 26 lesson PDFs of a gradu
 - 
 
 ## Related Designs
-- 
+
+- [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](cyberagents-competency-mapping-module.md)
 
 ## Examples
 -

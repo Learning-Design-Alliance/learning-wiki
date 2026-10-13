@@ -32,7 +32,8 @@ Headsprout Early Reading is an Internet-based supplemental early-literacy curric
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](../claims/headsprout-positive-print-knowledge-preschool.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [SSL](ssl.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2009). Headsprout® Early Reading (WWC Intervention Report). https://ies.ed.gov/ncee/wwc/InterventionReport/211

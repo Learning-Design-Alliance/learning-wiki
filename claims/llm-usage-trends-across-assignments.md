@@ -62,5 +62,7 @@ Descriptive trajectory analysis of the 16 Low-Reliance students across assignmen
 
 
 ## Related Claims
+
 - [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
+- [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md)

@@ -41,6 +41,7 @@ The review's future-research agenda calls for "greater conceptual clarity in def
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Research recommendations: broaden program descriptions, account for prior experience and context, define outcomes, and use longitudinal mixed-methods designs](principal-learning-research-agenda.md)
 - [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
+- [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 
 ## Examples
 -

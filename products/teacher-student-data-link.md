@@ -37,7 +37,8 @@ An implementation initiative contracted by the Bill & Melinda Gates Foundation a
 - [The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities](../claims/tsdl-three-lasting-accomplishments.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [TSDL](tsdl.md)
 
 ## Key Sources
 - Kristin Hallgren, Cassie Pickens Jewell, Celina Kamler. (2013). The Teacher-Student Data Link Project: First-Year Implementation. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/the-teacherstudent-data-link-project-firstyear-implementation

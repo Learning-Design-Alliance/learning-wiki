@@ -44,6 +44,7 @@ The paper organizes its study around Erikson's lifespan psychosocial development
 ## Examples
 
 - [Replicate cross-cultural psychosocial studies with additional samples and in-country comparison groups](../strategies/replicate-cross-cultural-studies-with-in-country-comparison.md)
+- [Modified identity status interview](../elements/identity-status-interview.md)
 
 ## Key Sources
 - Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007

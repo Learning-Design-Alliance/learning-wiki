@@ -43,6 +43,8 @@ Descriptive analysis of DCPS health condition records identifying asthma as the 
 
 
 ## Related Claims
+
 - [About 27 percent of DCPS students had a reported health condition in 2018/19, which may be an undercount](dcps-27-percent-reported-health-condition-2018-19.md) — related
 - [Health conditions are most prevalent among DCPS students who are male, Black/non-Hispanic, economically disadvantaged, or attending school outside their ward of residence](dcps-health-condition-prevalence-demographic-patterns.md) — related
 - [DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition](dcps-health-condition-poorer-education-outcomes.md) — related
+- [Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program](dcps-28-percent-health-condition-504-iep-support.md)

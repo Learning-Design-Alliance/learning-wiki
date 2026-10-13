@@ -27,7 +27,10 @@ A publicly released dataset and code package containing field-study student resp
 - [Chatbot response patterns on MCQ assessments show statistically significantly higher person-fit statistics than human respondents across instruments, chatbots, and PFS measures](../claims/pfs-chatbot-higher-than-human-mcq.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MEDS dataset of 28,000 LLM runs across four mathematics-education tasks](meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks.md)
+- [VARIA benchmark package with follow-up harness](varia-benchmark-package-with-follow-up-harness.md)
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314

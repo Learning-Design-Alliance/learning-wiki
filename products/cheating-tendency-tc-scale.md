@@ -13,7 +13,7 @@ generated:
 # Cheating Tendency (TC) scale
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A 20-item, four-dimension Likert self-report scale developed by Yilmaz A to measure undergraduate students' cognitive predisposition toward academic dishonesty, including AI-assisted cheating.
@@ -22,6 +22,8 @@ A 20-item, four-dimension Likert self-report scale developed by Yilmaz A to meas
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](../claims/cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) [+W]
 
 ## Related Products and Programmes
 -

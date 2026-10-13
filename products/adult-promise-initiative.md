@@ -32,7 +32,8 @@ A Lumina Foundation multiyear state-grant program launched in 2017 to engage and
 - [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](../claims/online-tools-convenient-enrollment-adult-learners.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [College Promise](college-promise.md)
 
 ## Key Sources
 - Lisbeth Goble, Ashley Hong, Veronica Severn. (2021). From Outreach to Enrollment: Strategies to Engage Adults in Education Beyond High School. Mathematica. https://www.mathematica.org/publications/from-outreach-to-enrollment-strategies-to-engage-adults-in-education-beyond-high-school

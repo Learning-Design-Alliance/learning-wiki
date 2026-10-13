@@ -42,7 +42,8 @@ Table 2 of the report describes three components of dual language program implem
 - 
 
 ## Related Designs
-- 
+
+- [Dual-language program and Reader Identity Self-Assessment for biliteracy development](ucla-cs-dual-language-risa-biliteracy.md)
 
 ## Examples
 -

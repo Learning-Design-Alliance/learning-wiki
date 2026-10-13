@@ -37,7 +37,8 @@ EdTrust urges state legislators and state boards or departments of education to:
 - Increase FAFSA completion and submission and access to financial aid for postsecondary enrollment
 
 ## Related Strategies
-- 
+
+- [Five state recommendations for implementing universal FAFSA policies equitably](five-state-recommendations-fafsa-implementation.md)
 
 ## Examples
 -

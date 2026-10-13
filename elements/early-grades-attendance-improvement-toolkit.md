@@ -53,6 +53,7 @@ A companion artifact released Nov 21, 2019 by the same authors, titled "Strategi
 ## Examples
 
 - [Pair attendance-improvement efforts with a companion toolkit for districts, schools, and early childhood providers](../strategies/companion-toolkit-improving-prek-kindergarten-attendance.md)
+- [Choose and implement proven strategies to improve early-grade attendance](../strategies/choose-implement-proven-attendance-strategies.md)
 
 ## Key Sources
 - Martha Bleeker, Jaimie Grazi, and Felicia Hurwitz. (2019). Improving the School Attendance of New Jersey's Youngest Learners: Chronic Absenteeism in the Early Grades: Risk Factors and What Schools Can Do. Regional Educational Laboratory Mid-Atlantic. https://ies.ed.gov/ncee/edlabs/regions/mid-atlantic

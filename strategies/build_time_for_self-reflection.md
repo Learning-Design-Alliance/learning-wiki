@@ -59,9 +59,11 @@ Reflection converts experience into usable knowledge; without it, professional l
 5. Close the loop: the reflection ends with a specific revision to the next attempt, making the cycle iterative rather than terminal
 
 ## Related Strategies
+
 - [Peer Observation and Feedback](../strategies/peer-observation-and-feedback.md) — supplies the external evidence that individual reflection lacks
 - [Lesson Study](../strategies/lesson-study.md) — institutionalizes reflection as a collective, evidence-based cycle
 - [Action Research](../strategies/action-research.md) — formalizes the attempt–reflect–revise cycle into systematic inquiry
+- [Design for long-range engagement and systematic follow-up in teacher professional learning](systematic-follow-up-instructional-shifts.md)
 
 ## Examples
 - **Lesson study (Japan; e.g., Mills College Lesson Study Group)** — teachers jointly plan a research lesson, observe it, and hold a structured post-lesson reflection focused on student thinking rather than teacher performance ([https://www.lessonresearch.net](https://www.lessonresearch.net))

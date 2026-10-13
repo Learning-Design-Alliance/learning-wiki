@@ -42,7 +42,9 @@ The article proposes a middle-school LMS that couples standard capabilities (cou
 - 
 
 ## Related Designs
-- 
+
+- [Four-step formative assessment cycle: create assignments, assist students through immediate feedback, assess class performance, analyze answers together](four-step-formative-assessment-cycle-assistments.md)
+- [Closed-loop adaptive teaching assistance model integrating perception, evaluation, generation and feedback for music education](closed-loop-adaptive-music-teaching-assistance-model.md)
 
 ## Examples
 -

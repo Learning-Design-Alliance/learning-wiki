@@ -51,6 +51,7 @@ The report's AI theme defines the portfolio's most common technologies: 'Intelli
 ## Examples
 
 - [Amira AI reading tutor](../products/amira.md)
+- [A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.](../designs/element-dynamic-pairing-co-orchestration-ecosystem.md)
 
 ## Key Sources
 - Center for Innovative Research in Cyberlearning (2020). Ambitious mashups: Reflections on a decade of cyberlearning research. [Report]. Digital Promise. https://circlcenter.org/resources/reflections-report/

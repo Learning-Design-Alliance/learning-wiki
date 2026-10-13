@@ -48,6 +48,7 @@ Lantolf presents SCT as a dialectical, non-dualistic theory: humans begin with b
 ## Examples
 
 - [Concept-Based Language Instruction with Gal'perin's verbalization phases](../elements/concept-based-language-instruction-galperin-verbalization.md)
+- [Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work](../strategies/sct-l2-research-avenues-strategy.md)
 
 ## Key Sources
 - Karimi-Aghdam, S., & Lantolf, J. P. (2020). Dialectical Emergence of Language and Consciousness in Society: An Interview with Professor James P. Lantolf. The Journal of Applied Linguistics and Applied Literature: Dynamics and Advances, 8(2), 3-21. https://eric.ed.gov/?id=ED610078

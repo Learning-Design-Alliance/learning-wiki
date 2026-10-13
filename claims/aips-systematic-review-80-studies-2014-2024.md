@@ -43,5 +43,8 @@ Systematic review following PRISMA across five databases (IEEE Xplore, ACM, Spri
 
 
 ## Related Claims
+
 - [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
 - [A systematic review of 2017–2024 literature yielded 314 publications from which ten AI-in-leadership domains were inductively derived](systematic-review-314-publications-ten-ai-domains.md) — related
+- [Reported limitations across reviewed proctoring studies include undisclosed datasets, single-model evaluation, reproducibility failures, and missing metrics](aips-study-limitations-datasets-reproducibility.md)
+- [PRISMA review synthesized 93 studies on agentic workflows in education, with methodological quality skewed toward conceptual and early empirical work](prisma-review-93-agentic-education-studies.md)

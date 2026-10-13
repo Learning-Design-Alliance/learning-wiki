@@ -41,7 +41,9 @@ The framework formalizes context personalization of math problems as an iterativ
 - [Validator Reliability Highest Realism Lowest Authenticity](../claims/validator-reliability-highest-realism-lowest-authenticity.md) [~M]
 
 ## Related Designs
-- 
+
+- [Four specialized evaluation agents for LLM-generated problems](four-specialized-evaluation-agents-llm-problems.md)
+- [Multi-agent teacher-in-the-loop architecture for context personalization](multi-agent-teacher-in-the-loop-architecture.md)
 
 ## Examples
 -

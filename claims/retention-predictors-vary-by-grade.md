@@ -62,4 +62,6 @@ Same grade-specific logistic regressions of retention on 1987-1988 data. The art
 
 
 ## Related Claims
+
 - [Birth month is a significant predictor of retention at all grades, but its connection with achievement is substantial only in the lower primary grades](birth-month-predicts-retention-all-grades.md) — related
+- [The propensity-for-retention measure discriminates retained from not-retained students, with first-grade log-odds of retention more than three times greater for actually retained students](propensity-measure-discriminates-retained-students.md)

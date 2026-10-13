@@ -43,6 +43,7 @@ ATI-UP requires each school to "designate a team of at least three members (admi
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
+- [Run regular teacher-team data meetings around student-level indicator reports to identify struggling students, assign interventions, and coordinate support](ewi-team-data-meetings-coordinate-interventions.md)
 
 ## Examples
 -
