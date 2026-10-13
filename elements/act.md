@@ -13,7 +13,7 @@ generated:
 # Act
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 `Act` is the execution phase of a challenge-based or inquiry cycle, where learners move from investigation and planning into producing, testing, sharing, or implementing a response in the real world.
@@ -49,6 +49,7 @@ generated:
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [~W]
+- [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](../claims/small-pdsa-cycles-narrow-first-problem.md) [~W]
 
 ## Related Elements
 - [Application](application.md)

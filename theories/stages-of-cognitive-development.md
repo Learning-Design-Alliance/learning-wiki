@@ -12,7 +12,7 @@ generated:
 # Stages of Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Jean Piaget (1896–1980), a Swiss psychologist, proposed that children are not passive recipients of knowledge from parents or teachers but actively construct their own understanding of the world by progressing through four universal, sequential, and invariant stages of cognitive development. Each stage represents a qualitatively different way of reasoning; stages cannot be skipped, though the ages at which individual children pass through them vary with environment and background, and a child may show behaviors characteristic of more than one stage at a time. Piaget's work is the historical foundation on which later constructivist and constructionist theories are built.
@@ -62,6 +62,9 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 - Not well-suited on its own to specifying precise, measurable behavioral objectives — the theory is developmental/explanatory rather than prescriptive at that grain
 
 ## Claims
+
+- [Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account](../claims/animistic-explanations-persist-beyond-piagetian-stages.md) [-W]
+- [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](../claims/non-stem-majority-transitional-reasoners.md) [~W]
 
 ## Related Theories
 

@@ -27,7 +27,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (13 for, 2 mixed) · 15 studies (7 causal, 6 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 6 of 15 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (19 for, 5 mixed, 1 against) · 19 studies (9 causal, 6 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 7 of 19 report an effect size · 20 claims rest on one study
 
 ## Description
 Elaborative reasoning is the practice of prompting learners to expand on new material — explaining why it is true, connecting it to what they already know, generating their own examples, and drawing inferences beyond what was explicitly taught. Rather than receiving or rehearsing content verbatim, learners construct additional meaning around it. The recommendation is to design tasks and prompts that require this generative work, because elaborated encodings are richer, better organized, and more retrievable than surface-level ones.
@@ -83,6 +83,7 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Constructivism](../theories/constructivism.md) — broadly supportive, but cautions that learner-generated constructions may be idiosyncratic or wrong; elaboration requires verification against expert understanding
 
 ### Claims
+
 - [Analogical reasoning improves transfer to novel problems.](../claims/analogical-reasoning-improves-transfer.md) [+M] — generating analogical connections supports application beyond the original context
 - [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — comparing cases prompts elaboration of deep structure rather than surface features
 - [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M] — building explicit relational links is a structured form of elaborative reasoning
@@ -97,6 +98,16 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
 - [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
+- [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](../claims/depth-predicts-task-quality.md) [+W]
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](../claims/elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) [~W]
+- [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](../claims/durable-elaborative-interrogation-gains-six-months.md) [+W]
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](../claims/elaborative-interrogation-improves-science-fact-learning.md) [+W]
+- [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](../claims/elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) [-W]
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](../claims/elaborative-interrogation-reduces-confidence-in-errors.md) [+W]
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](../claims/elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) [+W]
+- [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](../claims/trained-students-higher-order-prompting-strategies.md) [+W]
+- [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~W]
 
 ## Related Principles
 

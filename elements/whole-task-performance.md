@@ -26,7 +26,7 @@ sources:
 # Whole-task performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 theoretical, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice. Rather than decomposing learning into isolated components, this element requires learners to coordinate knowledge across domains while solving meaningful, non-trivial problems. 
@@ -65,7 +65,7 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](../claims/authentic-intellectual-work-complex-thinking-gains.md) [+W]
 
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — drives inquiry through the structure of an authentic, ill-structured problem.

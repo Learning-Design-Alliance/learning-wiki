@@ -171,6 +171,7 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - Inquiry quality depends heavily on scaffolding. Without it, learners may gather information without building sound explanations.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — inquiry improves when support helps learners make better investigative moves without taking over the question
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — inquiry can improve transfer because learners are practicing integrated question-driven reasoning rather than isolated recall
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — novices often need more structure than open inquiry advocates sometimes assume because unguided search can waste effort
@@ -182,6 +183,8 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 
 > **Pattern** · [All patterns](index.md)
 > **Evidence** · 3 claims (3 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/furtak-metaanalysis-37-studies-inquiry-positive.md) [~W]
+- [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](../claims/ai-assisted-inquiry-largest-decision-making-gains-climate.md) [~W]
 
 ## Description
 Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.

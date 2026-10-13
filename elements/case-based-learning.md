@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 13 studies (5 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 15 studies (5 causal, 4 quant-synthesis, 4 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 15 report an effect size · 2 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -53,7 +53,8 @@ Case-based learning improves exam performance and supports transfer by forcing l
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
+- [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](../claims/business-case-discussion-reveals-business-mindsets.md) [~W]
 
 ## Related Elements
 

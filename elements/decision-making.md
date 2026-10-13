@@ -13,7 +13,7 @@ generated:
 # Decision-Making
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 12 studies (4 causal, 3 theoretical, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 13 studies (5 causal, 3 theoretical, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 Decision-making as an instructional element places learners at a genuine choice point within a structured activity: they must weigh options, justify a selection, and experience the consequences of that selection. Rather than being told the correct course of action, learners construct the reasoning that connects evidence, constraints, and goals to a commitment — making the quality of reasoning, not just the choice itself, the object of instruction.
@@ -55,7 +55,7 @@ Decision-making tasks support learning because they require learners to actively
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+W]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the group variant; negotiation of criteria is the added learning mechanism

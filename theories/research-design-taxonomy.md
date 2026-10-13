@@ -12,7 +12,7 @@ generated:
 # Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 4 studies (2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 **Quantitative research** typically starts with a focused research question or hypothesis, collects a small amount of data from each of a large number of individuals, describes the resulting data with statistical techniques, and draws general conclusions about a population. It is comparatively weak at generating novel, interesting research questions or providing rich description of behavior in particular situations. **Qualitative research** does the reverse: it can generate new questions and hypotheses, collects large amounts of relatively unfiltered data from a relatively small number of individuals, describes that data with non-statistical techniques, and can produce rich, detailed description of behavior in the real-world contexts where it occurs — what qualitative researchers call the "lived experience" of participants. Because the two approaches have complementary strengths, some researchers combine them into **mixed-methods research**, either by using qualitative work to generate hypotheses that quantitative work then tests, or through **triangulation** — using both approaches simultaneously on the same question and comparing results. Convergent results reinforce and enrich each other; divergent results raise a genuinely useful further question: why do they diverge, and how can that be reconciled?
@@ -39,7 +39,11 @@ People also perceive relationships between variables that don't actually exist a
 - Reading a correlational finding (in a study, a news article, or a claim page) without silently upgrading it to a causal one
 
 ## Claims
+
 - [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](../claims/illusory-correlations-persist-through-confirmation-bias.md) [X]
+- [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](../claims/steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) [+W]
+- [Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare](../claims/ai-pl-review-qualitative-dominance.md) [~W]
+- [Qualitative educator interviews corroborate and explain the quantitative path findings](../claims/educator-interviews-explain-ai-learning-mechanisms.md) [+W]
 
 ## Related Theories
 - [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly

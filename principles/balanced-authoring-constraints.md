@@ -17,7 +17,7 @@ sources:
 # Authoring constraints should encourage goal-directed creation without being so restrictive that creators feel unable to make what they want.
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This principle holds that constraints in level editors should steer creators toward operating with an end-goal in mind while preserving enough freedom to avoid disengagement. The article states the editor constraints "are meant to encourage players to operate" with an end-goal in mind, while cautioning that students may find constraints too restrictive, which risks disengagement.
@@ -38,7 +38,9 @@ This principle holds that constraints in level editors should steer creators tow
 - understanding of puzzle design quality
 
 ### Claims
+
 - Constrained Authoring Improves Puzzle Quality [+M]
+- [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](../claims/anvil-educators-instructor-control-editability.md) [~W]
 
 ## Related Principles
 - 

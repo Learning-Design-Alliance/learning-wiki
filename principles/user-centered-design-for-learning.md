@@ -13,7 +13,7 @@ generated:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 8 studies (5 design, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Learning technologies fail not only when the pedagogy is wrong, but when the interface itself creates barriers — a learner who cannot find an assignment or navigate a confusing menu is paying a cognitive cost that has nothing to do with the content being taught (Earnshaw, Tawfik, & Schmidt, 2018). **Usability** describes how easily an interface can be used as intended; **user experience (UX)** is the broader "person's perceptions and responses that result from the use... of a product, system, or service" (ISO, 2010). **User-centered design (UCD)** is the practice of centering users' needs and mental models throughout the design process rather than treating the interface as an afterthought to the pedagogy.
@@ -47,6 +47,13 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](../claims/ta-engagement-six-elements-interviews.md) [+W] — attached 2026-10-08 from Kara Conroy et al. (2021), which proposed "Six-element pattern for engaging training and technical assistance design"; tests this page's relationship.
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](../claims/thermos-lad-sus-good-excellent-usability.md) [+W] — attached 2026-10-08 from de Vreugd et al. (2024), which proposed "Plan an explicit usability exploration and adjustment phase before evaluating a LAD's perceived usefulness".
+- [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](../claims/aissa-sus-usability-83.md) [+W]
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [~W]
+- [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](../claims/icub-storytelling-sus-76-good-usability.md) [+W]
+- [91% of UAT participants rated the Taklif.AI user interface as intuitive](../claims/uat-91-percent-rate-interface-intuitive.md) [+W]
+- [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](../claims/hero-elementary-game-loading-time-navigation-issues.md) [~W]
+- [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](../claims/star-link-beneath-score-improves-usability.md) [+W]
+- [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](../claims/year-over-year-salience-mixed-effects.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

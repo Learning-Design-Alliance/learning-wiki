@@ -17,7 +17,7 @@ sources:
 # Exponential Forgetting Curve with Item Difficulty
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article adopts a variant of the exponential forgetting curve, in which recall is binary and recall probability decays exponentially with time since last review at a rate reduced by memory strength. It adds that "there is a constant, item-speciﬁc component of the memory decay rate" through a difficulty parameter, and its final form uses Leitner deck position as strength with a global difficulty.
@@ -40,10 +40,12 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 - Retention of reviewed items over time
 
 ### Claims
+
 - [Delay Term Improves Exponential Forgetting Curve Recall Prediction](../claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) [+M]
 - [Leitner Deck Position Predicts Recall Better Than Review Count](../claims/leitner-deck-position-predicts-recall-better-than-review-count.md) [+M]
 - [Exponential Forgetting Models With Delay Perform Comparably To 1Pl Irt](../claims/exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) [+M]
 - [Item Specific Difficulty Helps Only At Low And High Leitner Decks](../claims/item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) [~M]
+- [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](../claims/memory-features-improve-fit-for-fact-learning-datasets.md) [+W]
 
 ## Related Theories
 - [Spaced Repetition](../elements/spaced-repetition.md)

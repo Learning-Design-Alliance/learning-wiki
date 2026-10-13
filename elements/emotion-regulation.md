@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (3 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -55,7 +55,9 @@ Emotions are not noise around learning — they shape attention, working memory 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](../claims/ai-simulation-safe-practice-environments.md) [+W]
+- [Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative](../claims/micro-intervention-triple-function-validate-reframe-connect.md) [+W]
+- [Three simultaneous negative-emotion alerts prompted a collective reframing of the task that coincided with branching of multiple students' engagement structures at once](../claims/simultaneous-alerts-prompt-collective-branching.md) [+W]
 
 ## Related Elements
 - [Check-In](check-in.md) — a routine that surfaces emotional states so regulation strategies can be matched to them

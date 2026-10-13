@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (2 associational, 1 review, 1 qualitative, 1 theoretical), `q2` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -30,6 +30,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions](../claims/hiawassee-laptop-outcomes.md) [+W]
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](../claims/integrated-hours-beat-standalone-tech-courses.md) [+W]
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](../claims/increased-web-technology-use-over-project.md) [+W]
+- [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](../claims/pli-digital-collaboration-associated-with-scores.md) [+W]
+- [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](../claims/ai-collaborative-learning-challenges-bias-overreliance.md) [~W]
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)

@@ -13,7 +13,7 @@ generated:
 # Moderation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Moderation is the active facilitation of discussion by an instructor or trained facilitator who shapes participation, keeps dialogue on task, and pushes learners toward deeper reasoning. The moderator does not lecture or supply answers but structures turn-taking, probes claims, surfaces disagreement, and ensures that conversational norms support knowledge building rather than social drift.
@@ -53,7 +53,7 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](../claims/online-stem-plcs-growing-phenomenon.md) [+W]
 
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md) — the task that moderation operates on; prompt quality bounds what moderation can achieve

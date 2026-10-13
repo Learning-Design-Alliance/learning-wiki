@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (12 for, 1 mixed) · 12 studies (5 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 7 claims rest on one study
+> **Evidence** · 18 claims (17 for, 1 mixed) · 14 studies (5 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 12 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -55,6 +55,11 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty.md) [+W]
 - [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](../claims/expanding-isis-better-than-fixed-tentative.md) [+W]
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
+- [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spacing-effect-robust-verbal-recall.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

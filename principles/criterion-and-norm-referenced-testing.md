@@ -13,7 +13,7 @@ generated:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (6 for, 14 mixed, 2 against) · 12 studies (8 theoretical, 2 design, 1 review, 1 associational), `q1`–`q2` · 0 of 12 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (6 for, 15 mixed, 3 against) · 14 studies (8 theoretical, 2 associational, 2 design, 1 causal, 1 review), `q1`–`q2` · 0 of 14 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,11 @@ The designer's objective here is an accurate decision: the right next teaching, 
 ## What would revise this model?
 
 The model should weaken if teachers given skill-level criterion-referenced reports chose next teaching no better, or learners learned no more, than with norm-referenced percentiles on the same content; if criterion-referenced "mastered" classifications agreed no better with later performance on real tasks than percentiles did; or if a second check near the cut changed few decisions. It should strengthen if a comparison found that matching the score's frame to the decision improved later performance on the skills taught or the accuracy of selection by group. A study comparing decision consistency for different cut placements on classroom checks, or one testing whether learners' self-scoring against criteria stays calibrated across a term, would settle two of the proposals above.
+
+## Claims
+
+- [Both treatment and comparison students scored below the 7th-grade national norm on average, and bottom-quartile treatment students remained below the national average despite relative gains](../claims/assistments-gains-below-national-norms.md) [~W]
+- [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](../claims/criterion4-barrier-reclassification.md) [-W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

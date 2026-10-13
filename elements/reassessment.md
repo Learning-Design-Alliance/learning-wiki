@@ -13,7 +13,7 @@ generated:
 # Reassessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (4 quant-synthesis, 3 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Reassessment asks learners to revisit and revise their own answers after discussion, feedback, or additional instruction. It converts an initial response — right or wrong — into an object of reflection, making the gap between first thinking and improved thinking visible and revisable.
@@ -52,7 +52,8 @@ Reassessment leverages the testing effect a second time: the initial response fu
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [~W]
+- [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the initial response is a low-stakes assessment event; reassessment is its second act

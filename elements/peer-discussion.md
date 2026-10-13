@@ -30,7 +30,7 @@ sources:
 # Peer Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Peer discussion places learners in structured conversation with classmates to articulate, defend, and revise their understanding of ideas. It converts passive reception into generative processing: learners must externalize reasoning, encounter alternative interpretations, and resolve discrepancies between their thinking and others'.
@@ -71,7 +71,7 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](../claims/socratic-test-pilot-beyond-recall.md) [~W]
 
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the whole-group variant; peer discussion is typically nested inside it as a think stage

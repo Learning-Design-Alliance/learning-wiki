@@ -18,7 +18,7 @@ sources:
 # Self-Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.
@@ -50,6 +50,7 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]
 - [Rereading is less effective than retrieval practice](../claims/rereading-less-effective-than-retrieval-practice.md) [+S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)

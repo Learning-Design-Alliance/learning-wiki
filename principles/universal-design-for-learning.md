@@ -226,10 +226,12 @@ UDL shifts the design question from "how do we fix this learner?" to "how do we 
 - Cognitive Load Theory also qualifies UDL: unlimited learner choice imposes navigation load that novices cannot spare [~M]
 
 ### Claims
+
 - [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S] — multiple means of representation create redundant memory codes
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S] — structured, segmented presentation lowers extraneous load
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — meaningful choice in engagement and expression supports motivation
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — feedback must remain actionable across varied expression formats
+- [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](../claims/educator-adaptations-greater-access-virtual-content.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — UDL's multiple options must be curated to avoid imposing navigation load on novices

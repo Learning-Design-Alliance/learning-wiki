@@ -125,6 +125,8 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
+- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](../claims/generative-processing-principles-mayer-2008.md) [+W]
+- [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [+W]
 
 ## Design
 
@@ -133,6 +135,7 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 - [Digital Learning](../elements/digital-learning.md)
 
 ## Claims
+
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [~W]
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M]
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]
@@ -144,6 +147,9 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+- [Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept](../claims/anvil-pedagogical-mismatch-risk.md) [~W]
+- [Learner flow control over animations was rarely used and did not correlate with learning performance](../claims/flow-control-unused-no-learning-correlation.md) [-W]
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
 
 ## Description
 The article's practical recommendation is that multimedia designers and teachers working with middle school students should use spoken rather than written text alongside visual materials. As the authors put it, "They should prefer using narration rather than on-screen text with visual materials in a multimedia instruction for more effective learning," because this makes it "possible to avoid extraneous cognitive load for learners." The recommendation rests on the study's modality findings in real middle school settings.

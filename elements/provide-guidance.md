@@ -13,7 +13,7 @@ generated:
 # Provide guidance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 14 studies (6 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 11 claims (6 for, 3 mixed, 2 against) · 18 studies (8 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.
@@ -53,7 +53,10 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](../claims/agent-enacted-conflict-shifts-design-thinking.md) [-W]
+- [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
+- [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
+- [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](../claims/chatgpt-hint-error-rate-self-consistency.md) [~W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the most heavily researched form of guidance; complete solution models for study

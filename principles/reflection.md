@@ -174,6 +174,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 - [Self-Regulated Learning](../theories/self-regulated-learning.md)
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is most useful when it helps learners evaluate current performance and choose a stronger next action
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — reflection often benefits from focusing on process changes rather than only end results
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining one’s reasoning can deepen the learning value of reflection beyond simple description
@@ -185,6 +186,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 theoretical, 1 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 0 of 6 report an effect size
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [+W]
 
 ## Description
 Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.

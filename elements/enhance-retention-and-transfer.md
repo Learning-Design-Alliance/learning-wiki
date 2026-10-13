@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (2 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -55,7 +55,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 
 ## Related Elements
 - [Analogies](analogies.md) — explicit mapping between domains is a primary mechanism for cross-context transfer

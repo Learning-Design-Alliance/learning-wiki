@@ -177,7 +177,10 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
+- [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](../claims/ai-agent-validation-rate-within-human-range.md) [~W]
 
 ## Design
 

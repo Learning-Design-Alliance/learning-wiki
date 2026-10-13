@@ -12,7 +12,7 @@ generated:
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.
@@ -39,6 +39,10 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 
 ### Target Learning Objectives
 - Recognizing which developmental claims a given study's design can and cannot support — age-difference versus age-change being the central distinction
+
+## Claims
+
+- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](../claims/correlational-design-limits-epistemic-freedom-study.md) [+W]
 
 ## Related Theories
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](research-design-taxonomy.md) — the general research-design taxonomy this specializes for studying change over time

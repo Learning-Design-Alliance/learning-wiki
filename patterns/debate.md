@@ -189,7 +189,9 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
+
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it](../claims/claim-controversial-debates-improve-discussion-prompted-accuracy.md) [~W]
 
 ## Design
 

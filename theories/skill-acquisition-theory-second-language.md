@@ -12,7 +12,7 @@ generated:
 # Skill acquisition theory in second language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 8 studies (3 theoretical, 2 causal, 2 review, 1 design), `q1`–`q3` · 1 of 8 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 10 studies (4 review, 3 theoretical, 2 causal, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 16 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej912917, eric-ej1488626, eric-ej1344843, eric-ej1412014, eric-ej912912, eric-ej1066572, eric-ed604148, eric-ed296585. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -42,6 +42,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - Proceduralizing form–meaning mappings for low-salience or low-frequency features.
 
 ## Claims
+
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+W]
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](../claims/low-salience-elements-need-extensive-practice.md) [+W]
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](../claims/mechanical-drills-limited-use-meaning-form.md) [~W]
@@ -56,6 +57,8 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [-W]
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [-M]
+- [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](../claims/ai-improves-speaking-proficiency-feedback-practice.md) [~W]
+- [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 
 ## Related Theories
 

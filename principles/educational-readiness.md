@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Readiness traditionally refers to a student's preparedness to cope with or profit from the activities and expectations of school — for example, whether a kindergartner is in good health, has moderately good social skills, can manage personal physical needs unsupervised, and can use a pencil to draw simple shapes. At older ages, this same idea is often called **prerequisites** instead of readiness (e.g., a student needs advanced algebra before taking physics).
@@ -35,6 +35,11 @@ This traditional framing focuses attention entirely on the student's adjustment 
 
 ### Target Learning Objectives
 - Not itself a content objective — readiness is a precondition-diagnosis concept that determines which objectives are currently reachable
+
+## Claims
+
+- [Many children enter kindergarten without the foundational mathematics skills needed to succeed](../claims/children-enter-kindergarten-without-foundational-math-skills.md) [+W]
+- [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](../claims/kindergarten-transition-difficulty-academic-risk.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md) — once a mismatch between student readiness and task demand is identified, scaffolding is one primary response

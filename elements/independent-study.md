@@ -13,7 +13,7 @@ generated:
 # Independent Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 10 studies (3 quant-synthesis, 3 review, 2 causal, 2 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 11 studies (3 quant-synthesis, 3 review, 2 causal, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Independent study assigns learners primary responsibility for working through content, tasks, or inquiry without direct instructor mediation during the learning episode. The instructor's role shifts to designing the task, providing materials and structure, and checking progress, while the learner supplies pacing, persistence, and self-monitoring.
@@ -53,7 +53,7 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](../claims/divergence-structure-versus-autonomy-in-projects.md) [~W]
 
 ## Related Elements
 - [Check-In](check-in.md) — the checkpoint that keeps independent work from drifting off course

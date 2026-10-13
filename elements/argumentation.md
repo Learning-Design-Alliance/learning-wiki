@@ -13,7 +13,7 @@ generated:
 # Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design), `q1`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Argumentation asks learners to construct, defend, and critique claims using evidence and reasoning, rather than simply stating conclusions. It functions both as a learning activity and as a target skill: engaging in argument makes disciplinary norms of justification visible while deepening conceptual understanding through the need to justify and rebut [Engaging in argumentation improves conceptual understanding by requiring learners to articulate and defend reasoning.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
@@ -53,7 +53,8 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](../claims/argument-gains-without-llm-support.md) [+W]
+- [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](../claims/argumentative-writing-gains-scaffolded-llm-assignments.md) [+W]
 
 ## Related Elements
 - [Debate](debate.md) — a formalized, adversarial format for argumentation with assigned positions and timed turns

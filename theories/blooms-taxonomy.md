@@ -12,7 +12,7 @@ generated:
 # Bloom's Taxonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (3 for, 2 mixed, 3 against) · 6 studies (3 associational, 3 design), `q1`–`q2` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 Benjamin Bloom (1913-1999), working with his mentor Ralph W. Tyler at the University of Chicago and with collaborators Engelhart, Furst, Hill, and Krathwohl, published *Taxonomy of Educational Objectives: Handbook I, The Cognitive Domain* in 1956, followed by a second handbook on the affective domain in 1964 (Krathwohl, Bloom, & Masia, 1973). Bloom et al. (1956) identified three domains of educational goals — often summarized as **KSA**:
@@ -84,6 +84,13 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 ## Claims
 
 - [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](../claims/context-intent-joint-association.md) [+W] — attached 2026-10-10 from Taelin Karidi et al. (2026), which proposed "Two-dimensional annotation framework: cognitive intent (Bloom level) and interaction context".
+- [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](../claims/marzano-over-bloom-rationale-genai-literacy.md) [-W]
+- [Most student–AI interactions occur at the understand and apply Bloom levels, with analyze appearing rarely](../claims/cognitive-intent-mostly-understand-apply.md) [~W]
+- [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](../claims/llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) [-W]
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](../claims/synthesis-evaluation-measure-general-ability-lower-grades.md) [~W]
+- [Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps](../claims/dual-lens-attention-aligns-expert-pedagogical-focus.md) [+W]
+- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](../claims/y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) [-W]
+- [Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses](../claims/ols-complexity-predictors.md) [+W]
 
 ## Related Theories
 

@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -57,6 +57,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+- [Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment](../claims/student-objection-visible-instructor-ai-delegation.md) [-W]
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md)

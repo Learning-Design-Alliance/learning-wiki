@@ -19,7 +19,7 @@ sources:
 # Rhetorical Skill Development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 8 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 4 claims (1 for, 3 unmarked) · 9 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect. It is useful when learning goals include persuasion, rebuttal, explanation, or public argument.
@@ -62,10 +62,12 @@ Rhetorical skill development matters when learning requires more than having ide
 - [Behaviorism](../theories/behaviorism.md) — repeated performance can improve delivery routines, but rhetorical quality depends on judgment and audience adaptation, not habit alone
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — learners often strengthen rhetorical quality by explaining and justifying their reasoning explicitly
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — rhetorical novices often improve more when instruction targets process moves than when it focuses only on final persuasive impact
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — rhetorical performance improves when learners monitor audience, structure, and evidence quality against criteria
 - [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](../claims/expansion-generalization-beyond-classroom.md) [+W]
 
 ## Related Principles
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound

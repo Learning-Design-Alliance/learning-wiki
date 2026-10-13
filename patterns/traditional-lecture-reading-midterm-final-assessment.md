@@ -19,7 +19,7 @@ grain_size: course
 # Traditional Lecture / Reading / Midterm / Final Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 11 studies (5 review, 3 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 mixed, 1 against) · 13 studies (6 review, 3 causal, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final assessments. It is useful in this wiki as a baseline reference pattern because many other designs are defined partly in response to its limitations.
@@ -66,8 +66,11 @@ The pattern can work reasonably well for broad content coverage and for learners
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 #### Contradicting
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~W]
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [-W]
 
 ## Design
 

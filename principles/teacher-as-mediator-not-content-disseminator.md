@@ -35,7 +35,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 against) · 6 studies (4 theoretical, 1 review, 1 qualitative), `q1`–`q2` · 0 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 against) · 8 studies (5 theoretical, 2 qualitative, 1 review), `q1`–`q2` · 0 of 8 report an effect size · 10 claims rest on one study
 
 ## Description
 Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding. The article states that "educators are expected to leave their role of 'a content disseminator' and take the responsibility to act as a facilitator who brings forth meaningful learning, self -competence, intentional behaviours and familiarity with novelty". In the study's lesson, the teacher offered objectives, asked critical questions, and fostered creativity and independent action.
@@ -83,6 +83,8 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](../claims/method-of-thought-cannot-be-transferred.md) [+W]
 - [Collaborative Learning Is An Extension Of Social Constructionism Into Composition](../claims/collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) [+W]
 - [Research on value education in India reports that lecturing on values does not transact values effectively to children](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+W] — attached 2026-10-07 from Sankaranarayanan Paleeri (2014), which proposed "Integrate value education into regular subject teaching through a constructivist, facilitator role rather than separate lecture classes"; tests this page's relationship.
+- [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](../claims/instructor-role-shift-orchestrating-genai.md) [+W]
+- [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](../claims/e-teacher-shift-to-facilitator-role.md) [+W]
 
 ## Related Principles
 - [Constructivism](constructivism.md)

@@ -18,7 +18,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 18 studies (9 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 20 studies (9 causal, 3 quant-synthesis, 3 qualitative, 2 review, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 4 of 20 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,7 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 - [Behaviorism](../theories/behaviorism.md) — purely performance-focused instruction may underrepresent epistemic judgment because observable correctness does not capture warrant quality
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — requiring learners to explain why a claim is justified can deepen epistemic understanding
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — overconfident error can be instructionally useful when it is followed by evidence-based correction
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — epistemic judgment improves when learners monitor the quality of their evidence and certainty
@@ -186,3 +187,5 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](../claims/collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) [+M] — extends epistemic cognition to evaluating psychological/social-science evidence specifically
 
 -->
+- [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](../claims/iterative-verification-of-genai-explanations.md) [+W]
+- [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](../claims/children-trust-test-chatbot-with-known-answers.md) [~W]

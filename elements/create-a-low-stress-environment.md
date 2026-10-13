@@ -13,7 +13,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (5 review), `q1`–`q2` · 0 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
@@ -28,6 +28,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
 - [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](../claims/unsafe-environments-trigger-stress-response-impeding-cognition.md) [+W]
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 
 ## Related Elements
 - [Create a Relaxed Learning Environment](create-a-relaxed-learning-environment.md)

@@ -184,7 +184,10 @@ Transfer of learning improves when learners encounter underlying structure acros
 - [Cognitive Flexibility](cognitive-flexibility.md)
 
 ### Claims
+
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — Learners transfer more effectively when they practice integrated tasks that preserve the structure of later performance.
+- [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](../claims/no-three-way-interaction-test-question-type-transfer.md) [+W]
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

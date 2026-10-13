@@ -13,7 +13,7 @@ generated:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 12 studies (4 causal, 4 quant-synthesis, 2 review, 2 qualitative), `q1`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Responsive teaching means continuously eliciting learner thinking and adjusting instruction in real time — re-sequencing, re-explaining, extending, or redirecting — based on what students actually say and do rather than on the planned lesson script. It treats student ideas, including errors and partial understandings, as the primary evidence for instructional decisions.
@@ -58,10 +58,13 @@ Responsive teaching operationalizes formative assessment as a moment-to-moment p
 - [Direct Instruction](../patterns/direct-instruction.md) — highly scripted, teacher-led models assume the instructional sequence can be specified in advance; responsiveness trades some efficiency and coverage for adaptivity, and scripted approaches can outperform improvised ones when teacher diagnostic skill is weak [~M]
 
 ### Claims
+
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+S] — support calibrated to the learner's current understanding outperforms fixed support
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — responsive moves should target the task and the reasoning, not the person
 - [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — responsive support should be progressively withdrawn
 - [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — treating student errors as objects of analysis supports conceptual change
+- [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
+- [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](../claims/tools-should-surface-misconceptions-track-difficulties.md) [~W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — responsive teaching is formative assessment enacted at the level of moment-to-moment instructional decisions

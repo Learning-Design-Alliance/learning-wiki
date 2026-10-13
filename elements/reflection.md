@@ -30,7 +30,7 @@ sources:
 # Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Reflection is the deliberate act of analyzing one's own experiences, actions, or decisions after (or during) a learning task in order to extract lessons and adjust future behavior. It converts raw experience into usable knowledge by prompting learners to examine what happened, why it happened, and what they would do differently. Schön (1983) distinguished *reflection-on-action* (after the fact) from *reflection-in-action* (during performance), and both forms are designable instructional elements.
@@ -71,7 +71,7 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [-W]
 
 ## Related Elements
 - Journaling — the most common written vehicle for structured reflection over time

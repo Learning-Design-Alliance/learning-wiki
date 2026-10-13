@@ -197,8 +197,12 @@ Pre-reading questioning improves comprehension when it gives learners a reason t
 - Some texts are better entered first with open noticing before specific questions are introduced.
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — pre-reading questions help learners check what they already think and revise it as they read
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
+- [The pretesting effect on text memory grows with retention interval, being largest at one week](../claims/pretesting-effect-grows-with-retention-interval.md) [+W]
+- [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.

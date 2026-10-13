@@ -13,7 +13,7 @@ generated:
 # Performance Technology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Performance Technology (also called Human Performance Technology, HPT) holds that instructional designers should not assume training is the answer to a performance problem until they have analyzed the gap between desired and actual performance and identified its cause. HPT emerged in the 1960s–70s out of behaviorism — its "father," Thomas Gilbert, was a student of B.F. Skinner — and is grounded in general systems theory: any solution must be understood as operating inside a larger system of people, processes, and organizational culture, not in isolation (Stefaniak, 2018).
@@ -45,6 +45,8 @@ Rossett and Schafer (2007) offer a concrete taxonomy for one of these non-instru
 - Rooted in behaviorism and general systems theory (Stefaniak, 2018); a systems view is "holistic," focuses on interactions among elements rather than the elements themselves, and treats systems as nested within larger systems (Foshay, Villachica, & Stepich, 2014)
 
 ## Claims
+
+- [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](../claims/organizational-climate-influences-teaching-behavior.md) [~W]
 
 ## Related Theories
 

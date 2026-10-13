@@ -17,7 +17,7 @@ sources:
 # Design inquiry activities around student ownership and authenticity to real science and engineering practices
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 design, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 4 studies (3 design, 1 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The article frames its inquiry design with two stated keys: "Keys to inquiry are ownership of students over their learning and authenticity of the activity to real-life science and engineering practices". The digital-images activity operationalizes this through open investigation, question generation, and an engineering design challenge tied to science goals such as mapping sunspots.
@@ -43,6 +43,8 @@ The article frames its inquiry design with two stated keys: "Keys to inquiry are
 - [Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale](../claims/digital-images-inquiry-student-feedback-ratings.md) [+W]
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W]
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
+- [Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design](../claims/students-found-tradeoffs-difficult-in-inquiry.md) [-W]
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](../claims/cyberagents-positive-learner-perceptions.md) [+W]
 
 ## Related Principles
 

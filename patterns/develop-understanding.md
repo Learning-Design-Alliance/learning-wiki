@@ -172,9 +172,12 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 
 ### Theory
 #### Supporting
+
 - Constructivist perspectives — understanding develops by connecting new ideas to prior knowledge.
 - Generative learning perspectives — explanation, connection, and use strengthen conceptual processing.
 - Guided instruction traditions — learners often need support before independent application.
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]
+
 #### Contradicting / Qualifying
 - The pattern should not become lecture plus token practice; the central work is in sense-making and connection.
 - Some topics require more iterative revisit than a single understanding-building lesson can provide.
@@ -185,7 +188,9 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 #### Contradicting
+
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [~W]
 
 ## Design
 

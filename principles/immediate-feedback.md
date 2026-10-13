@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (5 causal, 5 review, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (5 for, 7 mixed) · 19 studies (6 review, 5 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,8 +155,12 @@ Immediate feedback works because correction is most usable while the learner’s
 - The effect depends on feedback quality. Fast but vague feedback often adds little.
 
 ### Claims
+
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — feedback is especially powerful when it interrupts and corrects an active misconception before it is rehearsed again
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — timely feedback helps learners connect outcome to strategy while the attempt is still fresh
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — immediate feedback helps most when it addresses the actual decision or misconception that just occurred
 
 -->
+- [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [~W]
+- [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](../claims/its-improve-learning-outcomes-with-actionable-feedback.md) [+W]
+- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~W]

@@ -22,7 +22,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 14 studies (7 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 15 studies (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 15 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,7 +148,9 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 - [Constructivism](../theories/constructivism.md) — analogies support construction of meaning, but only if learners actively interpret and test the mapping rather than accept it uncritically
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — analogies can support chunking and organization when the relational mapping is coherent
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies become stronger when learners explain why the mapping works
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
 -->
+- [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]

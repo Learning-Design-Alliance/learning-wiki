@@ -13,7 +13,7 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (3 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).
@@ -54,7 +54,7 @@ Perspective-taking deepens learning when learners must actively construct the ot
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](../claims/stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) [-W]
 
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints

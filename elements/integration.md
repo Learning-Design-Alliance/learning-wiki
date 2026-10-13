@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 11 studies (4 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.
@@ -53,7 +53,9 @@ Integration activities convert learning from an isolated instructional event int
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
+- [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md) — the primary vehicle for integration; structured prompts turn experience into learning

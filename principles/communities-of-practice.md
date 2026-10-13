@@ -18,7 +18,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 18 studies (4 causal, 3 quant-synthesis, 3 review, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (13 for, 3 mixed, 1 against) · 20 studies (4 causal, 4 review, 3 quant-synthesis, 3 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,9 +156,14 @@ Communities of practice support learning because people often learn complex work
 - Coaching and feedback inside communities are most effective when responsive to actual learner need rather than generic advice [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — communities become more educative when members articulate and compare reasoning, not just exchange resources
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — newcomers benefit when experienced members provide responsive prompts, hints, and mediation
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong communities shift responsibility from experts to broader member participation over time
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
 
 -->
+- [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](../claims/cop-relationships-combat-aie-director-isolation.md) [+W]
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](../claims/honours-community-safe-supportive-learning-environment.md) [+W]
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](../claims/principal-networks-professional-learning-communities.md) [+W]
+- [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+W]

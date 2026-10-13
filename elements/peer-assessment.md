@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 quant-synthesis, 3 associational, 2 causal), `q2`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (3 quant-synthesis, 3 associational, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -47,6 +47,8 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
+- [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](../claims/peer-self-assessment-improve-performance-equally.md) [+W]
+- [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
 
 ## Related Elements
 - [Peer Review](peer-review.md)

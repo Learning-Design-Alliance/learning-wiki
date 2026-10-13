@@ -13,7 +13,7 @@ generated:
 # Formative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q3` · 0 of 4 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (2 review, 2 qualitative, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.
@@ -52,7 +52,10 @@ Formative assessment closes the gap between current and desired performance by m
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [+W]
+- [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](../claims/formative-feedback-constraints-gateway-math.md) [~W]
+- [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](../claims/stakeholder-feedback-llm-formative-assessment.md) [+W]
+- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](../claims/formative-assessment-produces-substantial-learning-gains-cited.md) [+W]
 
 ## Related Elements
 - [Quizzes](quizzes.md) — the most common low-stakes instrument; frequent quizzing doubles as retrieval practice

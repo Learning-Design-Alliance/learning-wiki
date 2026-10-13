@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 0 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 9 studies (3 causal, 3 review, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 0 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -67,6 +67,9 @@ Information processing models are often criticized as overly linear and serial, 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [+W] — attached 2026-10-13 from Brunmair et al. (2019), which proposed "Attentional bias framework (sequential attention theory) of interleaved learning".
+- [Attention can move within the visual field without eye movements, selecting among simultaneous inputs](../claims/attention-mobility-visual-field.md) [+W]
+- [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
+- [Infants retain verbal material over delays, indicating adult-like storage of speech](../claims/infant-verbal-memory-retention.md) [+W]
 
 ## Related Theories
 

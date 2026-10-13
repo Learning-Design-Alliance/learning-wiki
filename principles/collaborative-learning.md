@@ -18,7 +18,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (4 for, 8 mixed) · 19 studies (5 causal, 5 quant-synthesis, 3 qualitative, 2 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (6 for, 9 mixed) · 22 studies (5 causal, 5 quant-synthesis, 3 review, 3 qualitative, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Collaborative learning is strongest when the task genuinely benefits from multip
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — collaboration can increase processing demands if tasks, roles, or communication structures are poorly designed
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining ideas to peers can deepen understanding and reveal gaps
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — collaboration improves when support and facilitation respond to learner needs rather than assuming groups will self-organize productively
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — collaborative work is stronger when learners and groups monitor progress against visible goals and criteria
@@ -142,3 +143,6 @@ Collaborative learning is strongest when the task genuinely benefits from multip
 - [Well-defined tasks and accessible materials support shared creative influence in group work](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [~M] — without shared domain knowledge to argue from, creative influence in a group defaults to social dominance rather than merit
 
 -->
+- [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](../claims/large-group-size-limited-participation-confidence.md) [~W]
+- [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](../claims/collaborative-group-work-beats-competitive-classrooms-k12.md) [+W]
+- [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]

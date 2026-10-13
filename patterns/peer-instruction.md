@@ -138,9 +138,12 @@ In practice, students typically answer individually via clickers or a handheld r
 
 ### Theory
 #### Supporting
+
 - Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.
 - Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.
 - Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.
+- [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](../claims/revealing-answer-undesired-feedback-higher-succscore.md) [+W]
+
 #### Contradicting / Qualifying
 - Peer instruction is not just polling; without discussion and debrief it loses much of its value.
 - The pattern is stronger for conceptual reasoning than for pure procedural fluency.

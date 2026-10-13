@@ -17,7 +17,7 @@ sources:
 # Bayesian Knowledge Tracing (Two-State Hidden Markov Model)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 3 studies (1 causal, 1 review, 1 design), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and Anderson, as a special case of the Hidden Markov Model with learning parameters (transition, forgetting) and performance parameters (guess, slip) plus an initial mastery probability. "BKT operates within a two-state student modeling framework: knowledge is either learned or unlearned, and there is no forgetting once a student has mastered the knowledge." Dynamic Bayesian knowledge tracing extends it to model hierarchies and relationships among knowledge concepts jointly.
@@ -39,8 +39,12 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - Monitoring students' evolving knowledge states on knowledge concepts and predicting performance on future exercises
 
 ### Claims
+
 - [Bkt Overestimates Accuracy After A Day Elapses](../claims/bkt-overestimates-accuracy-after-a-day-elapses.md) [-W]
 - [Individualized Bkt Reduces Questions Needed For Mastery](../claims/individualized-bkt-reduces-questions-needed-for-mastery.md) [+W]
+- [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.](../claims/bkt-sequence-recommendation-students-solved-harder-exercises.md) [+W]
+- [No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis](../claims/no-credible-cue-effects-learning-rate.md) [~W]
+- [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](../claims/problem-counts-by-knowledge-tracing-condition.md) [~W]
 
 ## Related Theories
 

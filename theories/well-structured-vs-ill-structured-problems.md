@@ -13,7 +13,7 @@ generated:
 # Well-Structured vs. Ill-Structured Problems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (1 mixed, 1 against) · 3 studies (1 causal, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Problems vary along two related dimensions: how much of the information needed for a solution is actually given, and how many (and how clear) the rules or procedures for reaching a solution are. A **well-structured problem** provides most of the needed information and can, in principle, be solved with relatively few clearly understood rules — the word problems common in math classes are a classic example, since everything needed is contained in the stated problem and the solution procedure is relatively clear and precise. An **ill-structured problem** has the opposite qualities: the needed information is not necessarily contained in the problem itself, many different procedures are potentially applicable, and multiple different solutions are plausible (Voss, 2006) — extreme examples include "How can the world achieve lasting peace?" or "How can teachers ensure that students learn?"
@@ -36,6 +36,10 @@ Many real problems are not purely one or the other. A nine-dot puzzle ("connect 
 
 ### Strategies for Solving Ill-Structured Problems
 Beyond recognizing structure, several general strategies help regardless of a problem's specific content (Thagard, 2005): **problem analysis** — identifying a problem's component parts and working on each separately, especially useful for ill-structured problems (e.g., "devise a plan to improve bicycle transportation in the city" decomposes into installing bike lanes, educating cyclists and motorists, fixing potholes, and revising relevant traffic laws); [working backward](../strategies/direct_instruction-problem-solving_strategies.md) — starting from the target solution and reasoning back to the given problem, useful when a well-structured problem contains distracting or misleading elements; and [analogical thinking](../principles/analogical-reasoning.md) — using a structurally similar prior problem or experience to guide a new one (e.g., applying lessons from improving conditions for cars to the bicycle-transportation problem, since both involve roadway and driver-education measures).
+
+## Claims
+
+- [Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)](../claims/verification-type-varies-by-assignment-context.md) [~W]
 
 ## Related Theories
 

@@ -17,7 +17,7 @@ sources:
 # Design retrieval tools for easy, accurate, and complete access to rapidly growing knowledge
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article motivates Entrez by the explosive growth of information molecular biologists must access: the literature adds about 6,000 peer-reviewed articles per month and sequence databases double in size every 20 months. It concludes that "Biologists need a retrieval tool which offers easy, accurate and complete access to this type of information", which drove the design of integrated, linked, and neighboring-based retrieval.
@@ -41,6 +41,7 @@ The article motivates Entrez by the explosive growth of information molecular bi
 - [Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued](../claims/internet-entrez-use-grew-cd-rom-plateaued.md) [+W]
 - [Browsing term lists (selection mode) helps searchers who do not know the exact query term](../claims/selection-mode-browsing-helps-uncertain-searchers.md) [+W]
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](../claims/single-form-boolean-query-preferred-by-some-users.md) [+W]
+- [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](../claims/retrieval-misses-attributed-to-query-formulation.md) [~W]
 
 ## Related Principles
 

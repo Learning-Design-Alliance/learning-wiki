@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies (4 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational), `q2`–`q4` · 1 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 16 studies (5 review, 4 causal, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 16 report an effect size · 4 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../patterns/flipped-classroom.md), shifting information transmission outside the group learning space.
@@ -55,7 +55,9 @@ Pre-class video works only when paired with accountability and application: stud
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats](../claims/moocs-low-completion-embodied-music-learning.md) [-W]
+- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [~W]
+- [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the text-based alternative for pre-class first exposure; video offers better control of pace and tone, text offers faster skimming and search

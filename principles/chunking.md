@@ -133,6 +133,7 @@ Chunking matters because learners cannot process unlimited novelty at once. When
 - **Miller's Law (Miller 1956)** — establishes the average working memory limit of 7 (±2) units.
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — organizing information into meaningful units lowers working-memory burden and improves manageability
 -->
 
@@ -142,6 +143,9 @@ Chunking matters because learners cannot process unlimited novelty at once. When
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+- [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~W]
+- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
 
 ## Description
 The chunking study outline (CSO) is a teacher-provided study aid consisting of chapter, section, and subsection headings plus key words that students process in quantities matching their cognitive processing capacity. The article's evidence shows longer outlines with added definitions and descriptions lower test performance, so outlines "should be limited to headings of. chapters, sections and subsections" and key words. This principle operationalizes the CSO as a "critical element" of the chunking method.

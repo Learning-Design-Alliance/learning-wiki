@@ -17,7 +17,7 @@ sources:
 # Maximize Learning Rate When Calibrating Leitner Review Schedules
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes the maximum speed of learning as the design target for spaced repetition software: its formalization "suggests the maximum speed of learning as a natural design metric for spaced rep- etition software". Deck review rates and the new-item rate are calibrated with a queueing-theory program rather than heuristics, and the new-item rate should stay below the phase-transition threshold.
@@ -40,9 +40,11 @@ The article proposes the maximum speed of learning as the design target for spac
 - Maximizing the rate of mastered items in long-term learning
 
 ### Claims
+
 - [Leitner Queue Network Phase Transition In Learning Rate](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+M]
 - [Excess New Item Rate Leaves Items Stuck In First Leitner Deck](../claims/excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck.md) [+M]
 - [Optimal Leitner Schedule Reviews Lower Decks More Often](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
+- [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](../claims/leitner-learning-rate-shows-increasing-returns-to-review-budget.md) [~W]
 
 ## Related Principles
 - [Spaced Repetition Scheduling](../strategies/spaced-repetition-scheduling.md)

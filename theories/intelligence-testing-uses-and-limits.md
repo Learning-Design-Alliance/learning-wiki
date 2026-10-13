@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 3 studies (3 review), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies (3 review, 2 associational, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -50,7 +50,11 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) [~M] — if intelligence is genuinely multi-component, a single g-focused score cannot represent a learner's full range of ability
 
 ### Claims
+
 - [Average scores on intelligence tests have risen substantially across generations worldwide](../claims/flynn-effect-rising-iq-scores-over-generations.md) [~M] — the basis for the requirement that tests be periodically re-standardized
+- [Teacher reports of noncognitive skills add predictive power beyond baseline IQ for most school outcomes](../claims/teacher-reports-add-power-beyond-iq.md) [~W]
+- [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](../claims/synthesis-evaluation-measure-general-ability-lower-grades.md) [~W]
+- [Test scores measure accumulated knowledge at a moment in time, not innate student ability](../claims/test-scores-measure-opportunity-not-innate-ability.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

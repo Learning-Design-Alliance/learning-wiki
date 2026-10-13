@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -53,7 +53,10 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
+- [The classroom testing effect increases with the number of test repetitions on the same content.](../claims/test-repetitions-positive-relationship-classroom.md) [+W]
+- [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
+- [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](../claims/al-simple-effects-mirror-human-pattern.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — retrieval is the memory-consolidation component of practice; application tasks embed retrieval in use

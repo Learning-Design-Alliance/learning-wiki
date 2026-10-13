@@ -12,7 +12,7 @@ generated:
 # Locus of Control
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (2 associational, 1 causal), `q2`–`q3` · 2 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Julian Rotter (1966) proposed locus of control as a cognitive factor shaping behavior and personality, distinct from [Self-Efficacy Theory](self-efficacy-theory.md): self-efficacy is a belief about one's own *ability* to perform a specific task, while locus of control is a broader belief about *who or what controls outcomes* in one's life generally. People with an **internal locus of control** ("internals") tend to believe their outcomes are the direct result of their own effort; people with an **external locus of control** ("externals") tend to believe their outcomes are controlled by other people, luck, or chance. Rotter framed the two orientations as ends of a continuum rather than a strict dichotomy.
@@ -36,6 +36,12 @@ A student who does poorly on a test after skipping study time illustrates the co
 - Not itself an instructional-objective framework — it describes a learner disposition relevant to how feedback and attributions for success/failure should be framed
 
 ## Claims
+
+- [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](../claims/prior-claim-achievement-independent-of-intelligence-questioned.md) [~W]
+- [Aware external subjects reported greater incentive value of the verbal reinforcer than aware internal subjects](../claims/aware-externals-greater-reinforcer-incentive.md) [+W]
+- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](../claims/intelligence-locus-correlation-both-groups.md) [+W]
+- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](../claims/achievement-locus-correlation-only-normal-adolescents.md) [~W]
+- [Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem](../claims/locus-of-control-negatively-predicts-subjective-well-being.md) [+W]
 
 ## Related Theories
 

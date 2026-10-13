@@ -26,7 +26,7 @@ sources:
 # Self-Explanation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 5 claims (2 for, 3 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
@@ -61,7 +61,12 @@ Explaining their thinking improves learning because it forces learners to make r
 - **Constructivism** — emphasizes that knowledge is actively built by the learner through meaningful interaction with the content.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — making reasoning explicit helps learners connect steps, principles, and assumptions instead of leaving them implicit
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](../claims/computer-generated-self-explanation-prompts-recommendation.md) [~W]
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](../claims/faded-steps-hypothesized-trigger-self-explanations.md) [~W]
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [+W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — self-explanation is most effective when applied to the study of worked solutions.

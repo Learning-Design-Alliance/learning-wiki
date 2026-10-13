@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 mixed) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (3 theoretical, 2 review, 1 causal), `q1`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):
@@ -45,6 +45,9 @@ The shared claim across all three models is that low-value technology integratio
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [~W] — attached 2026-10-10 from AlSheikh MH et al. (2026), which proposed "SAMR model of technology integration levels (Substitution, Augmentation, Modification, Redefinition)".
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](../claims/chatgpt-free-use-originality-gains-vanish-unassisted.md) [~W] — attached 2026-10-12 from Wong et al. (2026), which proposed "ISAR model: four types of AI effects on learning".
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](../claims/ai-substitution-inclusion-and-time-tradeoffs.md) [~W] — attached 2026-10-12 from Rummel et al. (2026), which proposed "SAMR model: four levels of technology use from substitution to redefinition".
+- [Most GenAI educational applications operate at SAMR's lowest level, substitution, replicating rather than transforming practice](../claims/genai-apps-samr-substitution-level.md) [+W]
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](../claims/vr-reinforcement-not-substitute.md) [+W]
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+W]
 
 ## Related Theories
 

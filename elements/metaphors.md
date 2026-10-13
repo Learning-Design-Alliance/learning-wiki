@@ -13,7 +13,7 @@ generated:
 # Metaphors
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size
 
 ## Description
 Metaphors are explanatory comparisons that map a less familiar concept onto a more familiar image or experience. They are useful when learners need a concrete entry point into abstract or complex ideas.
@@ -37,7 +37,7 @@ Metaphors are explanatory comparisons that map a less familiar concept onto a mo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
 
 ## Related Elements
 - [Analogies](analogies.md)

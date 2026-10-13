@@ -13,7 +13,7 @@ generated:
 # Generative Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 16 studies (5 causal, 5 review, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 5 claims rest on one study
 
 ## Description
 Generative processing is the cognitive work learners do to actively construct meaning from instructional material — summarizing, self-explaining, drawing, mapping, questioning, or teaching — rather than passively receiving it. It originates in generative learning theory (Wittrock), which holds that learning occurs when learners generate relations between new content and their prior knowledge and between different parts of the material. In Mayer's cognitive theory of multimedia learning, generative processing is one of three demands on working memory, alongside extraneous processing and essential processing; instruction must manage the first two to leave capacity for the third.
@@ -53,7 +53,10 @@ Learning improves when learners are prompted to generate content-relevant cognit
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [~W]
+- [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — retrieval practice is a generative act; generation and retrieval reinforce each other

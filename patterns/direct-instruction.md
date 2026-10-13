@@ -149,6 +149,7 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 - [Guided Practice](../elements/guided-practice.md)
 
 ## Claims
+
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~W]
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
@@ -169,6 +170,10 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 
 > **Pattern** · [All patterns](index.md)
 > **Evidence** · no claims cited
+- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
+- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
+- [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 
 ## Description
 Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.

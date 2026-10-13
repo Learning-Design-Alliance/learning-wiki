@@ -13,7 +13,7 @@ generated:
 # Assigned Readings
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Assigned readings place curated texts — textbook chapters, articles, cases, or primary sources — in learners' hands so they build conceptual foundations at their own pace. The element shifts first exposure to content outside of group time, freeing synchronous sessions for application, discussion, and clarification.
@@ -53,7 +53,7 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students rate clicker questions and lecture as more helpful than the textbook](../claims/clickers-and-lecture-rated-above-textbook.md) [-W]
 
 ## Related Elements
 - [Lecture](lectures.md) — readings front-load content so lecture time can focus on elaboration and application

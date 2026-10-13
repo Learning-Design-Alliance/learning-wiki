@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 5 claims (2 for, 3 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 qualitative, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Video replay analysis uses recorded performance, instruction, or interaction as an object for review. Learners or instructors pause, revisit, and analyze moments that would otherwise pass too quickly to examine. This makes it possible to notice decisions, patterns, cues, and missed opportunities with much more precision than relying on memory alone.
@@ -74,9 +74,12 @@ Video replay analysis is powerful because it gives learners a stable record of p
 - Learners may need to analyze others before analyzing themselves if self-review is too cognitively or emotionally demanding at first.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — replay makes it easier for learners to compare actual performance to intended performance
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — explaining specific replay moments can deepen understanding of what went right or wrong
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — guided questioning and feedback help learners extract more from replay than unguided rewatching
+- [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](../claims/learners-value-repeatable-practice-question-gaps.md) [+W]
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](../claims/mentor-mentee-talk-time-classroom-management-dialogues.md) [~W]
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.

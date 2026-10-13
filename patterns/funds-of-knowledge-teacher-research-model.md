@@ -17,7 +17,7 @@ sources:
 # Funds of Knowledge Teacher-Research Model (Tucson Project)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A research model, described in the digest, in which teachers and university researchers in education and anthropology "enter minority households and discover knowledge and other resources therein" and then build classroom practice from what they find. It had three components: an ethnographic community study of household funds of knowledge, after-school teacher labs, and classroom studies implementing innovations based on the household study.
@@ -42,9 +42,12 @@ A research model, described in the digest, in which teachers and university rese
 - Teachers' view of households as resources for learning
 
 ### Claims
+
 - [Home Visits Reveal Abundant Diverse Household Funds Of Knowledge](../claims/home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) [+W]
 - [Funds Of Knowledge Research Raises Teacher Expectations](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W]
 - [Teacher Researcher Difficulties Eased By Reflective Labs](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [~W]
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](../claims/household-exchange-networks-are-reciprocal-and-build-trust.md) [+W]
+- [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](../claims/teachers-have-readier-household-entree-than-anthropologists.md) [+W]
 
 ## Related Patterns
 - [After School Teacher Research Labs](../elements/after-school-teacher-research-labs.md)

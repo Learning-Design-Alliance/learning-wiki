@@ -13,7 +13,7 @@ generated:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (6 causal, 2 quant-synthesis), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 5 claims (5 for) · 10 studies (6 causal, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Disciplinary literacy is the principle that literacy instruction in subject areas should teach the specialized ways of reading, writing, thinking, and communicating that define each discipline. Instead of treating "reading strategies" as content-neutral tools applied uniformly across subjects, it positions learners as apprentices to disciplinary practices: interrogating sources like historians, weighing evidence like scientists, or evaluating arguments like literary critics. The recommendation is to make these discipline-specific practices explicit, model them, and give learners supervised practice in authentic disciplinary tasks.
@@ -57,9 +57,12 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — authentic disciplinary texts impose high intrinsic load; without [Cognitive Load Management](cognitive-load-management.md) and scaffolding, novices may flounder rather than apprentice
 
 ### Claims
+
 - [Civic online reasoning instruction improves learners' evaluation of sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M] — instruction in expert evaluation heuristics (sourcing, corroboration) improves how learners judge documents and web sources
 - [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — contrasting expert and novice readings of the same text makes disciplinary heuristics visible
 - [Argumentation improves reasoning.](../claims/argumentation-improves-reasoning.md) [+M] — discipline-appropriate argument construction deepens reasoning about evidence
+- [AI literacy requires discipline-specific calibration beyond prompt-writing skills](../claims/ai-literacy-discipline-specific-calibration.md) [+W]
+- [Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation](../claims/disciplinary-variation-communication-assessment.md) [+W]
 
 ## Related Principles
 - [Annotating](annotating.md) — annotation schemes can be discipline-specific (e.g., sourcing marginalia in history), making expert reading moves visible

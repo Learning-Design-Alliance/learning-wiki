@@ -12,7 +12,7 @@ generated:
 # Critical Pedagogy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Social reconstructionism was founded as a response to the atrocities of World War II and the Holocaust, aiming at social reform that would help prepare students to build a better world by instilling democratic values. Critical pedagogy emerged from that foundation.
@@ -36,6 +36,10 @@ Critical pedagogy de-centers the traditional teacher-centered classroom. Curricu
 
 ### Target Learning Objectives
 - Critical consciousness — the capacity to analyze and act on social, environmental, or economic injustice — rather than neutral mastery of disciplinary content alone
+
+## Claims
+
+- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]
 
 ## Related Theories
 

@@ -14,7 +14,7 @@ grain_size: course
 # Successive Approximation Model (SAM)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies (4 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (4 quant-synthesis, 2 theoretical, 1 causal, 1 review), `q1`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.
@@ -63,6 +63,9 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 - [Behaviorism](../theories/behaviorism.md) — the criterion-referenced tradition assumes objectives are fixed before design begins, which SAM deliberately relaxes
 
 ### Claims
+
+- [Early objective and subjective feedback helps evaluate program effectiveness and prevents small problems from growing](../claims/early-objective-subjective-feedback-program-effectiveness.md) [+W]
+
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the standard each review cycle has to meet
 - [Goal setting improves performance.](../claims/goal-setting-improves-performance.md) [~M] — iteration does not remove the need for a target; it defers how precisely it is specified

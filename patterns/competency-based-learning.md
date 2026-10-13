@@ -135,8 +135,11 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 - Competency frameworks can become reductive if complex performance is broken into isolated fragments.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W]
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
 
 ## Design
 

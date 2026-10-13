@@ -214,10 +214,17 @@ Social presence is one of three presences in the [Community of Inquiry](communit
 - [Constructivism](../theories/constructivism.md) — qualifies rather than contradicts: presence-building is valuable only insofar as it feeds generative cognitive engagement; sociability is not itself learning
 
 ### Claims
+
  --><!-- TODO: add claim links when evidence pages exist --><!-- deprecated 2026-10-05 (continued): 
 - Social presence correlates with satisfaction and perceived learning in online courses [+S] (Richardson et al., 2017 meta-analysis)
 - Instructor social presence behaviors (responsiveness, personal communication) improve online learner outcomes [+M]
 - [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M] — relational quality underpins the trust that social presence design aims to build
+- [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [+W]
+- [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](../claims/ai-cannot-capture-social-emotional-dynamics.md) [+M]
+- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [+W]
+- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]
+- [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](../claims/motivation-social-presence-boost-engagement-agentic-ai.md) [+W]
+- [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](../claims/nd-nt-prefer-some-instructor-involvement-in-person.md) [~W]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

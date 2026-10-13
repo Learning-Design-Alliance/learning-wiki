@@ -14,7 +14,7 @@ grain_size: program, school
 # Data Wise Improvement Process
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 The Data Wise Improvement Process, developed at the Harvard Graduate School of Education, is a structured cycle through which school teams systematically examine student learning data, connect findings to instructional practice, and act on what they learn. It organizes collaborative data work into three phases — **Prepare**, **Inquire**, and **Act** — comprising eight steps, and is deliberately scaffolded by norms and protocols so that conversations about data stay focused on evidence rather than blame. The problem it solves is common in schools: assessment data are collected extensively but rarely translated into changed instruction, because teams lack a shared process for interpreting evidence and agreeing on next steps.
@@ -62,6 +62,9 @@ Program or school — the cycle operates at the level of instructional teams, de
 - [Behaviorism](../theories/behaviorism.md) — accountability regimes that treat data as incentive signals (rewards/sanctions) undermine the inquiry stance Data Wise requires; the same data can support either approach, but not both simultaneously
 
 ### Claims
+
+- [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](../claims/data-often-fails-to-drive-education-decisions.md) [-W]
+
 #### Supporting
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S] — the process operationalizes formative assessment at the institutional level
 - Structured collaborative data use is associated with instructional improvement when time, data literacy, and leadership conditions are met [~M] — see Schildkamp (2019) meta-review

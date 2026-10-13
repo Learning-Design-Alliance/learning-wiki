@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 6 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 10 report an effect size · 7 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -43,6 +43,10 @@ Retrieval practice is the element in which learners recall information from memo
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [+W]
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](../claims/retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) [+W]
+- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
+- [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
 
 ## Related Elements
 - [Self-Testing](self-testing.md)

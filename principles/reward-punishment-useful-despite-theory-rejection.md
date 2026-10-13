@@ -17,7 +17,7 @@ sources:
 # Use reward and punishment selectively in the classroom while rejecting behaviorism as a comprehensive theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 quant-synthesis, 1 review), `q1`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review concludes that although behaviorism should not be accepted as a comprehensive theory, its reinforcement concepts remain practically useful. It states that "one can not deny its usefulness in the classroom, notably, the concept of reward and punishment," and that behaviorism's "ideas and research must be given some due consideration."
@@ -37,7 +37,9 @@ The review concludes that although behaviorism should not be accepted as a compr
 - shaping positive learning behavior through reinforcement
 
 ### Claims
+
 - [Behaviorist Reinforcement Effective Positive Behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+M]
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/high-information-feedback-d099-versus-reinforcement-d024.md) [-W]
 
 ## Related Principles
 - 

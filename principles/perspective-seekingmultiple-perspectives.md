@@ -25,7 +25,7 @@ sources:
 # Perspective Seeking/Multiple Perspectives
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem. It differs from simple exposure because learners are asked to investigate how and why different people interpret the same issue differently. In educational settings, this can strengthen reasoning, critical reading, dialogue, and humility by showing that understanding often improves when learners compare interpretations instead of remaining inside a single frame.
@@ -67,10 +67,12 @@ Perspective seeking improves reasoning when learners compare how different peopl
 - More perspectives are not automatically better; quality, relevance, and ethical framing matter.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — perspective comparison deepens reasoning when learners explain how and why interpretations differ
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple perspectives can prompt learners to notice limits in their first interpretation and revise it
 
 The current claim inventory supports explanation and reflective revision mechanisms more directly than perspective-seeking as a standalone intervention.
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W]
 
 ## Related Principles
 

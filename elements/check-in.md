@@ -13,7 +13,7 @@ generated:
 # Check In
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (4 quant-synthesis, 2 causal, 2 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 A check in is a short, deliberate touchpoint — a question, poll, one-minute paper, or brief conference — through which an instructor or system elicits learners' current state: their understanding, misconceptions, progress, or emotional readiness. It functions as a diagnostic and relational mechanism, feeding information forward so instruction can be adjusted rather than delivered blind.
@@ -52,7 +52,7 @@ Check ins make learner status visible early enough to act on, converting assumpt
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool](../claims/polling-image-identification-82-percent.md) [~W]
 
 ## Related Elements
 - [Assessment](assessment.md) — check ins are ungraded, low-stakes cousins of assessment; both gather evidence of learner state

@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 15 studies (5 causal, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 1 of 15 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 18 studies (5 causal, 3 quant-synthesis, 3 review, 3 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,8 +148,12 @@ Community of inquiry is most useful when learning depends on sustained discourse
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — discussion-rich environments can overload learners if the discourse is poorly structured or insufficiently scaffolded
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — discussion is stronger when learners articulate and refine their own reasoning
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — teaching presence matters because inquiry often needs responsive support and facilitation
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — communities are more effective when learners and groups monitor the quality and direction of their inquiry
 
 -->
+- [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](../claims/online-labs-better-with-instructor-scaffolds.md) [+W]
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](../claims/gai-overreliance-risks-presence-and-skills.md) [-W]
+- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]

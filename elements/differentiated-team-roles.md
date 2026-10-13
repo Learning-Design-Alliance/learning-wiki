@@ -13,7 +13,7 @@ generated:
 # Differentiated Team Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 review, 2 design, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Differentiated team roles assign each member of a collaborative group a distinct function — such as facilitator, recorder, skeptic, or resource manager — so that participation is structured rather than optional. Roles create positive interdependence: the group cannot succeed unless each member performs their function, which raises individual accountability and distributes cognitive labor across the team.
@@ -54,7 +54,8 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Neurodivergent students feel most comfortable in teams with defined roles rather than no specific roles](../claims/nd-prefer-defined-team-roles.md) [+W]
+- [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
 
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the more general mechanism of assigning seats or functions within group work

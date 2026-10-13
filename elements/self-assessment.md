@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 7 studies (2 quant-synthesis, 1 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 2 of 7 report an effect size · 6 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -55,6 +55,9 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 - [Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university](../claims/reflection-builds-responsibility-and-confidence-transition.md) [+W] — attached 2026-10-11 from Pedlow et al. (2026), which proposed "GenAI-focused reflective self-assessment instrument for commencing university students".
 - [APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration](../claims/apca-improves-self-assessment-accuracy-overconfidence.md) [+W] — attached 2026-10-11 from Dai (2026), which proposed "APCA Assessment-Performance Calibration Activity"; tests this page's relationship.
+- [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](../claims/guided-reflection-self-assessment-responsible-genai-engagement.md) [+W]
+- [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
+- [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
 
 ## Related Elements
 - [Reflection](reflection.md)

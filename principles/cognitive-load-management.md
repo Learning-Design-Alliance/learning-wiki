@@ -159,6 +159,7 @@ Cognitive load management matters when instruction risks overwhelming working me
 - [Cognitive Load Theory](cognitive-load-theory.md)
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — reducing unnecessary processing and organizing material into coherent units preserves capacity for schema formation
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — supports that help novices can become inefficient or redundant as learner expertise increases
 -->
@@ -169,6 +170,11 @@ Cognitive load management matters when instruction risks overwhelming working me
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+- [English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies](../claims/double-burden-language-of-ai-instruction.md) [~W]
+- [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [~W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W]
+- [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
 
 ## Description
 The article concludes that although many instructional design principles are framed as "one size fits all," their effects on student cognition may depend on students' level of prior knowledge. Revisions based on signaling, contiguity, and coherence principles reduced cognitive load and processing for low prior knowledge students but increased them for middle prior knowledge students. Curriculum developers should therefore consider prior knowledge when applying such principles, and the authors caution it "may be premature to apply these principles to curriculum development on a large scale."

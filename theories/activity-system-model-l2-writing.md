@@ -17,7 +17,7 @@ sources:
 # Activity theory models learning as participation in a collective activity system whose elements dynamically interact
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents activity theory, tracing it to Vygotsky and Leont'ev and using Engestrom's (1987) graphical model of a human activity system. The system comprises subject, instruments, object, rules, community, division of labor, and outcome; what ties the elements together is "a collective object and motive [that] is realized in goal-oriented individual and group actions". Activity systems are dynamic, continually adjusting, and overlap, as when a teacher's and students' systems share a classroom but differ in object. Development proceeds through appropriation (internalization) and externalization, driven by contradictions between elements or systems.
@@ -37,7 +37,8 @@ The article presents activity theory, tracing it to Vygotsky and Leont'ev and us
 - learning to write argumentatively in a second language
 
 ### Claims
-- 
+
+- [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](../claims/synchronized-interactional-behaviors-stabilize-activity.md) [+W]
 
 ## Related Theories
 

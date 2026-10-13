@@ -162,6 +162,7 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 - Language supports should fade as learner control grows, or they risk becoming a crutch [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — limiting and organizing new terms reduces the linguistic load learners must carry at once
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — vocabulary becomes durable when learners explain and apply it in their own words
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — language support is most effective when instructors respond to the learner's actual confusion rather than pre-scripted simplification
@@ -174,6 +175,9 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](../claims/linguistic-simplification-improves-math-performance.md) [+W]
+- [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [+W]
+- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](../claims/simplification-and-glossary-supported-second-cycle-gains.md) [+W]
 
 ## Description
 The package holds that written workplace genres (narrative, informal, instructional, imperative) each demand different reading skills, and that "Many writers of instructional or imperative material lose sight of the reading skills of their intended audience and hence the material becomes incomprehensible". Supervisors therefore practise converting officialese and jargonistic training text into Plain English, selecting style according to audience and purpose.

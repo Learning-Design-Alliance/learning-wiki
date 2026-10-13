@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 10 studies (4 quant-synthesis, 3 associational, 1 causal, 1 qualitative, 1 design), `q2`–`q4` · 4 of 10 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 11 studies (4 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design), `q2`–`q4` · 4 of 11 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -143,7 +143,9 @@ A large U.S. Department of Education meta-analysis of K-12 and higher-education 
 - [Flipped Learning](flipped-classroom.md)
 
 ## Claims
+
 - [Blended Learning Improves Outcomes](../claims/blended-learning-improves-outcomes.md) [+W]
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](../claims/blended-teaching-shifts-identity-to-co-facilitator.md) [+W]
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W]
 -->
+- [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](../claims/nd-nt-prefer-some-instructor-involvement-in-person.md) [~W]

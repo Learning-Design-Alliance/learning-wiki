@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (4 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (4 causal, 4 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 4 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
@@ -54,7 +54,8 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps](../claims/prompt-features-predict-dok-gap.md) [~W]
+- [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](../claims/teacher-readiness-belief-predicts-first-prompt-growth.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — prompts are a form of generative practice; the same fading logic applies (framed → scaffolded → open)

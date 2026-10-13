@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (16 for, 2 mixed, 2 against) · 23 studies (8 quant-synthesis, 7 causal, 4 review, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (21 for, 2 mixed, 2 against) · 29 studies (9 quant-synthesis, 8 review, 7 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 29 report an effect size · 14 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -76,6 +76,11 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
+- [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](../claims/ai-contextual-affordances-scaffolding-simulation.md) [+M]
+- [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](../claims/ai-simulation-improves-clinical-confidence-nursing.md) [+W]
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
+- [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](../claims/expert-evaluation-realism-and-feedback-awareness.md) [+W]
+- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

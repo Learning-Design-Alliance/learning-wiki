@@ -13,7 +13,7 @@ generated:
 # Evidence-Based Reasoning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design), `q1`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Evidence-based reasoning asks learners to evaluate two or more competing models or explanations against real-world data, deciding which model best accounts for the evidence and articulating why. Rather than receiving a canonical explanation, learners weigh alternative claims, coordinate evidence with theory, and revise their understanding — a process that targets epistemic cognition as much as domain content.
@@ -53,7 +53,7 @@ Evidence-based reasoning supports conceptual change by requiring learners to con
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](../claims/mm04-workflow-boundary-failures.md) [~W]
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the discourse structure through which evidence-based reasoning is expressed and refined

@@ -14,7 +14,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 11 studies (4 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 12 studies (4 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 5 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -71,7 +71,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](../claims/instructional-no-immediate-mkc-mrc-change.md) [-W]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — pre-lecture readings free lecture time for explanation and application rather than first exposure

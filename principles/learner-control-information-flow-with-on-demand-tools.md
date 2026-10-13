@@ -18,7 +18,7 @@ sources:
 # Keep the learner in control of the information flow with on-demand tools and supports
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues interactive video's power lies in providing context and contextual clues while giving learners control of the information flow, which research suggests is very necessary. The technology can provide many kinds of tools or supports such as dictionaries, glossaries, explanatory comments, and feedback, instantaneously and under student control, so that exercises can "provide a holistic experience, while at the same time providing specific tools when needed." The authors attribute the success of their annotated-videodisc comparison to students having complete control over information flow with helps available at the stroke of a key.
@@ -39,7 +39,9 @@ The article argues interactive video's power lies in providing context and conte
 - language use as a social tool
 
 ### Claims
+
 - [Annotated Videodisc Beats Videotape Retention Recall](../claims/annotated-videodisc-beats-videotape-retention-recall.md) [+M]
+- [Learner flow control over animations was rarely used and did not correlate with learning performance](../claims/flow-control-unused-no-learning-correlation.md) [-W]
 
 ## Related Principles
 - 

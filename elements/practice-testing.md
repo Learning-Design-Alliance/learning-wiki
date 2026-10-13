@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 18 claims (14 for, 4 mixed) · 13 studies (5 quant-synthesis, 4 review, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 13 report an effect size · 16 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -58,6 +58,20 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](../claims/repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) [+M]
 - [Learners Misjudge Retrieval Benefit](../claims/learners-misjudge-retrieval-benefit.md) [+M]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
+- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
+- [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](../claims/retrieval-practice-benefits-persist-six-to-nine-months.md) [~W]
+- [Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials](../claims/feedback-timing-moderates-pretesting.md) [~W]
+- [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
+- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
+- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
+- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
+- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
+- [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](../claims/spontaneous-strategy-transfer-one-week-delay.md) [+W]
+- [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review

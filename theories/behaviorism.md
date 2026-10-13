@@ -12,7 +12,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (1 for, 3 mixed, 1 against, 1 unmarked) · 12 studies (4 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -59,10 +59,13 @@ Bandura's observational learning — "of the many cues that influence behavior, 
 Behaviorism is criticized as overly deterministic and as denying free will; by treating only observable behavior as scientifically valid, it has little to say about internal mental processes and struggles to explain behavior change that isn't traceable to an environmental input. Research by ethologists has also shown that conditioning principles are not universal across species and contexts, countering behaviorism's original claim of equipotentiality — that any stimulus could be conditioned to any response with equal ease.
 
 ## Claims
+
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — behaviorist routines are stronger when performance targets are specific and demanding
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible criteria and progress tracking can strengthen performance shaping
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice skill acquisition may benefit when repeated performance is coupled with attention to process, not only outcomes
+- [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](../claims/praise-positive-criticism-negative-learning.md) [+W]
+- [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](../claims/good-idea-reward-no-incentive-effect.md) [-W]
 
 ## Related Theories
 

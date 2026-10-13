@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 20 studies (11 causal, 4 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 22 studies (12 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 22 report an effect size · 6 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -50,6 +50,8 @@ Worked examples are the element in which learners study complete or partial solu
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+S]
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
+- [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](../claims/variability-effect-format-interaction.md) [~W]
+- [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

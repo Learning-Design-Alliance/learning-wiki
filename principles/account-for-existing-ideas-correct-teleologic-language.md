@@ -16,7 +16,7 @@ sources:
 # Take account of learners' existing ideas when teaching science, since teleologic and anthropomorphic languages are correctable
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Drawing on constructivist tenets in learning science, the article argues that teaching science is more effective when account is taken of the learner's existing ideas. It encapsulates tenets including that "Learning science is an actve process of constructng personal knowledge" and "It is possible to teach science more efectvely if account is taken of the learner’s existng ideas". On this basis it concludes that teleologic and anthropomorphic languages are really correctable, and that this affordance is expected to diminish as other levels of explanation become available.
@@ -42,6 +42,7 @@ Drawing on constructivist tenets in learning science, the article argues that te
 - [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](../claims/english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) [+W]
 - [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](../claims/intervention-age-curriculum-interaction-not-significant.md) [~W]
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W]
 
 ## Related Principles
 - 

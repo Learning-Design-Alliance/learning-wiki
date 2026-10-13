@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (6 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 15 studies (8 causal, 3 quant-synthesis, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -64,6 +64,11 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Constructivism](../theories/constructivism.md) — desirable difficulty and productive struggle are experiences a usability frame reads as defects
 
 ### Claims
+
+- [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](../claims/hero-elementary-game-loading-time-navigation-issues.md) [~W]
+- [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](../claims/teacher-usability-study-average-rating-above-8-1.md) [+W]
+- [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](../claims/year-over-year-salience-mixed-effects.md) [~W]
+
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on
 - [Coherence Principle Irrelevant Material Hurts Learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S] — decoration that costs attention harms learning, which is the usability case stated instructionally

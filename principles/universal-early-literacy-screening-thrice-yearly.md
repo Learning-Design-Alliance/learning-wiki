@@ -17,7 +17,7 @@ sources:
 # Administer universal early literacy screening three times per year plus dyslexia-characteristics screening in K–2
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The toolkit prescribes universal early literacy screeners for all K–3 students "administered three times per year with progress monitoring along the way," serving as a "first alert" that a student may need extra help and helping teachers tailor instruction. It additionally requires screening all students for characteristics of dyslexia at the end of Kindergarten and the beginning of 1st and 2nd grades, with diagnosis reserved to licensed professionals.
@@ -40,7 +40,9 @@ The toolkit prescribes universal early literacy screeners for all K–3 students
 - Tailoring instruction to student needs
 
 ### Claims
-- 
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](../claims/significantly-below-benchmark-persists-across-years.md) [+W]
+- [PA Lessons implementation included testing students with the Phonological Awareness Screener for Intervention every three weeks to target instruction](../claims/pa-screener-every-three-weeks-targeting.md) [~W]
 
 ## Related Principles
 - 

@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -46,6 +46,12 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 ### Theory
 #### Contradicting / Qualifying
 - [Social Interdependence](../principles/social-interdependence.md) [-M] — relative grading's built-in incentive against helping classmates runs directly counter to cooperative-learning goals; a class using both should recognize the tension rather than assume they coexist without friction
+
+## Claims
+
+- [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](../claims/ai-required-work-high-grade-weights-proctored-rare.md) [~W]
+- [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](../claims/class-peer-achievement-lowers-grades.md) [~W]
+- [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](../claims/letter-grades-hide-within-grade-score-variation.md) [+W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

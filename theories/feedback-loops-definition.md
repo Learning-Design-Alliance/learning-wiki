@@ -16,7 +16,7 @@ sources:
 # Feedback loops: purposeful, bidirectional, iterative interactions that transform knowledge, actions, or goals
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 design, 1 qualitative), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report defines a feedback loop as an interaction between two or more parties that is purposeful, bidirectional, and iterative and transforms the knowledge, actions, or goals of the engaged parties. Unlike simple feedback systems such as surveys, which send information in one direction, feedback loops move information both ways, change over time through their participants' interactions, and produce direct benefits for all participants, not only improved outputs. The authors state that feedback systems may contain one or more of these characteristics, while feedback loops feature all four.
@@ -39,6 +39,7 @@ The report defines a feedback loop as an interaction between two or more parties
 
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
+- [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](../claims/ai-provisional-thinking-partner-iterative-design.md) [~W]
 
 ## Related Theories
 

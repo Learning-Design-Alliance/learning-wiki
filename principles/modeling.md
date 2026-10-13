@@ -193,9 +193,11 @@ Modeling matters when learners cannot infer expert processes from finished produ
 - [Constructivism](../theories/constructivism.md) — observing a model is not enough unless learners actively process, explain, and apply what they saw
 
 ### Claims
+
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — learners benefit when modeled solutions reduce blind search and make correct structure visible
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — modeling is stronger when learners explain the modeled decisions rather than merely watch them
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the value of highly explicit modeling declines as expertise grows and support should be faded
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+W]
 
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional

@@ -17,7 +17,7 @@ sources:
 # Design with students rather than for them by interviewing the actual users of the curriculum
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues that designers "tend to unconsciously default to imagined users whose experiences are similar to their own", producing what Costanza-Chock calls "a spiral of exclusion". Empathy interviews counter this by having teachers hear the stories of the students who will actually use what they design. The guide invokes the disability rights mantra "Nothing about us without us" as the rationale for designing with rather than designing for marginalized learners.
@@ -37,7 +37,10 @@ The article argues that designers "tend to unconsciously default to imagined use
 - Inclusive computing curriculum design responsive to students' identities and experiences
 
 ### Claims
-- 
+
+- [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](../claims/empathy-interviews-adopted-by-improvement-teams.md) [+W]
+- [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](../claims/empathy-interviews-central-equity-practice.md) [+W]
+- [The authors argue partnership in course design is a promising avenue for LIS educators to begin decolonizing classroom hierarchies](../claims/partnership-decolonizing-classroom-hierarchies.md) [+W]
 
 ## Related Principles
 - 

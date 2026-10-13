@@ -20,7 +20,7 @@ grain_size: lesson
 # Guided Discovery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 12 studies (4 causal, 4 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles. The key word is guided. Learners are not left to discover ideas entirely on their own; the instructor shapes the sequence, materials, and questions so that exploration becomes productive rather than random.
@@ -69,7 +69,10 @@ The pattern is useful when the goal is to build conceptual understanding through
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
+
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [~W]
+- [Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery](../claims/age-moderates-discovery-effects.md) [~W]
 
 ## Design
 

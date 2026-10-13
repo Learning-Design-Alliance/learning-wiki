@@ -247,6 +247,7 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the same theory warns that controlling extrinsic rewards can crowd out intrinsic motivation, especially for tasks learners already value
 
 ### Claims
+
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [+M] — cognitive g = .49 held in the more rigorous studies; motivational and behavioural effects did not
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — mechanics that preserve learner choice sustain motivation; controlling rewards do not
 - [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M] — reward-based mechanics risk crowding out intrinsic interest
@@ -260,6 +261,8 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](../claims/quizizz-gamification-better-memorization.md) [+W]
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
+- [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](../claims/gamified-security-games-confidence-understanding.md) [+W]
+- [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](../claims/gamified-modules-beat-mimecast-phishing.md) [+W]
 
 ## Design Decisions
 

@@ -13,7 +13,7 @@ generated:
 # Application
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 11 studies (5 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 12 studies (5 causal, 3 theoretical, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Application asks learners to use newly acquired knowledge and skills to perform meaningful tasks — solving problems, producing artifacts, or working through realistic scenarios — rather than merely recalling or recognizing content. It converts declarative knowledge into procedural competence by requiring learners to act on what they know under conditions that approximate real use.
@@ -55,7 +55,7 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](../claims/authentic-intellectual-work-complex-thinking-gains.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — application at scale; repeated, spaced, and varied application constitutes practice

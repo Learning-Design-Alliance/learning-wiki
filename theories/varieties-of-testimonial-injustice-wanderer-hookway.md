@@ -17,7 +17,7 @@ sources:
 # Varieties of Testimonial Injustice (Wanderer and Hookway)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A taxonomy the article compiles in its Table 1. Wanderer (2017) "suggests three perspectives on testimonial injustice: transactional testimonial injustice, structural testimonial injustice, and testimonial betrayal", covering exchanges between two people, unequal distribution of epistemic goods such as education, and trust relations. Hookway (2010) adds participatory prejudice (lacking a sense of relevance) and informational prejudice (lacking capacity to provide relevant information).
@@ -37,7 +37,9 @@ A taxonomy the article compiles in its Table 1. Wanderer (2017) "suggests three 
 - Recognizing forms of credibility discounting that obstruct students' participation in collective epistemic activities
 
 ### Claims
+
 - [Black Girls Face Testimonial And Structural Hermeneutical Injustice In School](../claims/black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) [+W]
+- [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](../claims/teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) [+W]
 
 ## Related Theories
 - [Epistemic Injustice](epistemic-injustice.md)

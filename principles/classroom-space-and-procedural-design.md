@@ -13,7 +13,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 qualitative, 2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 The easiest management problems to solve are the ones that never happen. Before the school year begins, arranging classroom furniture and materials to focus attention on learning already reduces behavior problems; once school begins, procedures, rules, and paced instruction extend that prevention further.
@@ -48,7 +48,10 @@ The easiest management problems to solve are the ones that never happen. Before 
 - [Kounin's Classroom Management Research](../theories/kounins-classroom-management-research.md) [+M] — the broader evidence base that these early-planning, procedure-teaching practices distinguish effective from less effective managers
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — supports calibrating structure to the zone of proximal development rather than applying one fixed level
+- [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](../claims/students-report-routines-help-and-rushed-pacing-hurts.md) [+W]
+- [Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning](../claims/lausd-csi-case-study-practice-shifts.md) [+W]
 
 ## Related Principles
 - [Scaffolding & Fading](scaffolding-and-fading.md) — the general principle behind moderate, calibrated structure that fades over time

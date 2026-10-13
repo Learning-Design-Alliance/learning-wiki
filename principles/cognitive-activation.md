@@ -18,7 +18,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 18 studies (6 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 19 studies (7 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,8 +174,11 @@ Cognitive activation is strongest when instruction asks learners to interpret, c
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — activation is only productive when challenge stays within a range learners can actually process
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explanation prompts are one of the clearest mechanisms for cognitive activation
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — cognitively activating tasks can be especially productive when they expose misconceptions and then correct them
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — activation is stronger when reasoning tasks are organized well enough that effort goes into meaning-making rather than disorientation
 
 -->
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [+W]
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]

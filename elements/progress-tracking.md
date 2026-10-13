@@ -18,7 +18,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -42,6 +42,8 @@ Progress tracking is the element in which learners or instructors monitor advanc
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](../claims/orienting-reflection-to-own-tracking-fosters-monitoring.md) [+W]
+- [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](../claims/dashboard-monitoring-orchestration-type.md) [~W]
+- [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](../claims/progress-monitoring-guides-next-steps-instruction.md) [+W]
 
 ## Examples
 

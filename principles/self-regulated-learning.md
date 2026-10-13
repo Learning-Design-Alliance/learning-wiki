@@ -140,6 +140,7 @@ Self-regulated learning improves when instruction makes planning, monitoring, an
 - [Self-Regulated Learning](../theories/self-regulated-learning.md)
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — Explicit progress checks and comparison to criteria improve learners’ ability to adjust strategy, effort, and help-seeking.
 -->
 
@@ -149,6 +150,15 @@ Self-regulated learning improves when instruction makes planning, monitoring, an
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 theoretical, 1 causal, 1 review), `q3` · 0 of 4 report an effect size
+- [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](../claims/beagle-profile-strategy-differentiation.md) [~W]
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](../claims/checking-ai-claims-predicts-gains.md) [+W]
+- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](../claims/confidence-predicts-offloading-no-feedback-only.md) [~W]
+- [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](../claims/genai-prompt-offloading-learning-tasks.md) [-W]
+- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [+W]
+- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [~W]
+- [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](../claims/srl-strategies-large-effect-academic-achievement.md) [+W]
+- [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](../claims/teacher-role-shifted-diagnosis-coaching.md) [~W]
 
 ## Description
 Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking. It matters when learners need to notice what they understand, where they are confused, and what strategy or support they should use next.

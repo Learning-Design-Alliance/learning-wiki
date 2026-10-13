@@ -20,7 +20,7 @@ grain_size: unit
 # Cognitive Flexibility Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 12 studies (4 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts. Rather than presenting knowledge as a single linear explanation, the pattern helps learners see how ideas shift depending on context, representation, and problem framing. It is especially useful where oversimplified rules break down and learners need to interpret complexity rather than apply a fixed procedure.
@@ -64,6 +64,9 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - For novices, example-based or more guided approaches may need to precede flexible case navigation.
 
 ### Claims
+
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](../claims/multiple-representations-aid-understanding-faculty-time.md) [+W]
+
 #### Supporting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
