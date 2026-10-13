@@ -73,3 +73,4 @@ gamified vocabulary practice.
 - [Academic LMS gamification centers on the PBL triad and relies heavily on extrinsic motivation](lms-gamification-pbl-triad-extrinsic-motivation.md) — related
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — a narrower finding that bears on this claim
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](gamification-engagement-mixed-evidence.md) — a narrower finding that bears on this claim
+- [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related

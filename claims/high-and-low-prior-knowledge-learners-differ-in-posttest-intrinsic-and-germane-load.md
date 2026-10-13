@@ -75,3 +75,4 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [Prior knowledge (portion A) scores correlate with transfer (portion C) scores for Fraction Division but not for Fraction Generalization](prior-knowledge-correlates-transfer-division-not-generalization.md) — related
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related

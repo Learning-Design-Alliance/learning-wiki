@@ -65,3 +65,5 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — possibly the same claim (merge candidate)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) — related
+- [Explicit instruction produces greater learning than unassisted discovery learning under most conditions](explicit-instruction-beats-unassisted-discovery.md) — related
+- [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related

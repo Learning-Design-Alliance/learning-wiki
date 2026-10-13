@@ -1,0 +1,49 @@
+---
+type: claim
+title: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
+description: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
+id: high-intensity-active-learning-narrows-gaps
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-13
+evidence_strength: moderate
+sources:
+  - id: theobald-elli-j-et-al-2020
+    resource: "https://doi.org/10.1073/pnas.1916903117"
+    title: "Theobald Elli J. et al. (2020). Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1916903117"
+    author: Theobald Elli J. et al
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 3
+---
+
+# Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+
+## Subclaims
+`q3 i?` With low-intensity active learning the examination gap is −0.48 SDs (a 22% reduction versus lecturing) and the passing-rate gap −9.6%; with high-intensity active learning the gaps are −0.36 SDs (42% reduction) and −2.0% (76% reduction). [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)
+
+## Evidence
+
+### Theobald Elli J. et al 2020
+
+Theobald Elli J. et al. (2020). Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1916903117
+
+`q3 · i?` · `quant-synthesis · r3`
+
+Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, with intensity defined as the reported proportion of class time students spent actively engaged on in-class activities. Only high-intensity classes narrowed gaps; low-intensity classes showed smaller reductions (22% exam, 16% passing). The article reports no standardized effect-size statistic for this moderator finding.
+
+> "students from MGS vs. non-MGS average a difference of −0.48 (95% CI: −0.60 to −0.37) with low-intensity active learning, but only −0.36 (95% CI: −0.45 to −0.27) with high-intensity active learning"
+
+## Discussion
+
+
+## Related Claims
+- [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
+- [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
+- [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related
+- [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

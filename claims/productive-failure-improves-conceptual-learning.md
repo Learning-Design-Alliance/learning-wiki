@@ -104,3 +104,4 @@ Two randomized controlled studies compared teaching a new math concept first wit
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
 - [Productive failure, problem-solving before instruction, shows a measured benefit of about d = 0.36 rising to about 0.58 at high design fidelity (as reported)](productive-failure-problem-solving-before-instruction-effect.md) — possibly the same claim (merge candidate)
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related

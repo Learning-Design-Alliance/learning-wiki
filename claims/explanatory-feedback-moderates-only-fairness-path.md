@@ -67,3 +67,4 @@ In the PROCESS regression predicting decision acceptance (R2 = 0.57, F = 51.60, 
 - [Providing explanations widens the human–AI gap in perceived fairness, with a larger fairness improvement in the teacher condition](explanations-widen-fairness-gap.md) — a narrower finding that bears on this claim
 - [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](aissa-students-iterative-use-selective-uptake.md) — related
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](students-accept-teacher-decisions-more-than-ai-decisions.md) — related
+- [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related

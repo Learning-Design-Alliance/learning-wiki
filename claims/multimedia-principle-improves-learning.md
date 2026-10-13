@@ -133,3 +133,5 @@ Open questions include how the effect scales across media formats (static illust
 - [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
+- [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — related
+- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related

@@ -23,7 +23,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 3 mixed, 1 unmarked) · 16 studies (6 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 unmarked) · 17 studies (6 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 17 report an effect size · 6 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.
@@ -87,6 +87,7 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Sgd Preference Over Pe And Manual Signs](../claims/sgd-preference-over-pe-and-manual-signs.md) [+M]
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](../claims/heterogeneous-competency-benefits-individualized-education.md) [~W] — attached 2026-10-08 from John Deke (2006), which proposed "Individualize competency development rather than applying a one-size-fits-all approach".
 - [Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting](../claims/thinking-reward-effective-only-with-adaptive-prompting.md) [+W] — attached 2026-10-11 from Unggi Lee et al. (2026), which proposed "Calibrate both the amount and the style of tutor support to the learner: support level from baseline accuracy, style from disability-specific access needs"; tests this page's relationship.
+- [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+W] — attached 2026-10-13 from Kalyuga (2007), which proposed "Instruction should be tailored to the learner's level of prior knowledge or expertise".
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
@@ -104,6 +105,7 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 - [Individual Plans of Study (IPS): personalized education and career plans for middle and high school students](../elements/individual-plans-of-study-ips.md)
 - [Expand the pool of potential tutors rather than expanding group sizes when scaling tutoring to all students](../strategies/tutoring-expand-tutor-pool-not-group-size.md)
+- [Design learner-tailored instructional systems by applying expertise reversal findings](../strategies/apply-expertise-reversal-to-adaptive-design.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

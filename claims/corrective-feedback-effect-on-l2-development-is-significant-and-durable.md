@@ -78,3 +78,5 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — a narrower finding that bears on this claim
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
+- [Feedback channel is a non-significant moderator of feedback effects](feedback-channel-non-significant-moderator.md) — related
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](high-information-feedback-d099-versus-reinforcement-d024.md) — related

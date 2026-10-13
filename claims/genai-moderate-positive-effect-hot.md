@@ -51,3 +51,4 @@ Random-effects meta-analysis of 59 effect sizes from 29 experimental and quasi-e
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
 - [GenAI-supported learning is associated with higher learning motivation on average (g = 0.764), but with very high between-study heterogeneity (I2 = 93.7%)](genai-positive-average-effect-learning-motivation-g-0764.md) — related
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — related
+- [Study quality moderated estimated effects: quasi-experimental designs yielded higher effect size estimates than random designs, and strong validity reporting was associated with higher estimates](study-design-moderates-scaffolding-effect.md) — related

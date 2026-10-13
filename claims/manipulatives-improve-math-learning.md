@@ -62,3 +62,4 @@ This claim currently lacks evidence entries. Studies establishing when manipulat
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Using more representations of mathematical ideas is associated with increased student math achievement](more-representations-mathematical-ideas-higher-achievement.md) — related
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
+- [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related

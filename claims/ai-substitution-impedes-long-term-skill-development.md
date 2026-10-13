@@ -57,3 +57,4 @@ The position paper asserts this in its education section, citing Al-Obaydi & Pik
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — a narrower finding that bears on this claim
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a narrower finding that bears on this claim
 - [AI assistants can improve short-term task performance while harming durable, independent learning once the AI is removed](ai-assistant-short-term-gains-harm-durable-learning.md) — a narrower finding that bears on this claim
+- [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related

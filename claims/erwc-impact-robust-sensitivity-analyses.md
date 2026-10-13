@@ -45,3 +45,4 @@ Sensitivity analyses in the impact evaluation chapter varied the matching approa
 ## Related Claims
 - [ERWC students gained more than matched non-ERWC students on the EPT (ES +0.13)](erwc-ept-effect-size-013.md) — related
 - [In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample](grade-12-erwc-no-significant-impact.md) — related
+- [Meta-analytic estimates are robust to the assumed within-study effect size correlation in sensitivity analyses](sensitivity-analysis-robust-to-within-study-correlation.md) — related

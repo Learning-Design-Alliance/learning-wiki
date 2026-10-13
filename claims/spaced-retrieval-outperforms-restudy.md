@@ -61,3 +61,4 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](spaced-retrieval-beats-massed-g-0-74.md) — possibly the same claim (merge candidate)

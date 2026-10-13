@@ -83,3 +83,5 @@ A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventi
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — possibly the same claim (merge candidate)
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
+- [Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative](fi-meta-analysis-mean-d-41-over-38-percent-negative.md) — related
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](high-information-feedback-d099-versus-reinforcement-d024.md) — possibly the same claim (merge candidate)

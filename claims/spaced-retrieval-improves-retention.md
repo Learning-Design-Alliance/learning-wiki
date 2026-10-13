@@ -91,3 +91,9 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
+- [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — related
+- [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
+- [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval practice (g = 0.74)](spaced-retrieval-beats-massed-g-0-74.md) — possibly the same claim (merge candidate)
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — related

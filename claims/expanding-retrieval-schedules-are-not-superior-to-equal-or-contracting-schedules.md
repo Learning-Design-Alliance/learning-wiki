@@ -125,3 +125,5 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 ## Related Claims
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related

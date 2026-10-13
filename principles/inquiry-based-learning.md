@@ -27,7 +27,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 18 studies (6 causal, 5 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 18 studies (6 causal, 5 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -90,6 +90,8 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Students Difficulties Solar Movement Observable Changes](../claims/students-difficulties-solar-movement-observable-changes.md) [+M]
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [+W] — attached 2026-10-07 from Sharples et al. (2015), which proposed "Scripted Personally Meaningful Inquiry"; tests this page's relationship.
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W] — attached 2026-10-07 from Morzinski et al. (2010), which proposed "Design inquiry activities around student ownership and authenticity to real science and engineering practices".
+- [Explicit instruction produces greater learning than unassisted discovery learning under most conditions](../claims/explicit-instruction-beats-unassisted-discovery.md) [+W] — attached 2026-10-13 from Alfieri et al. (2011), which proposed "Provide feedback, worked examples, scaffolding, and elicited explanations rather than unassisted discovery"; tests this page's relationship.
+- [Worked examples confer a larger advantage over unassisted discovery than direct teaching does](../claims/worked-examples-largest-advantage-over-unassisted-discovery.md) [+W] — attached 2026-10-13 from Alfieri et al. (2011), which proposed "Provide feedback, worked examples, scaffolding, and elicited explanations rather than unassisted discovery"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

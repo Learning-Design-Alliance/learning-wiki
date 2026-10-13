@@ -95,3 +95,6 @@ A meta-analysis of 57 independent experimental studies, mostly with postsecondar
 - [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
+- [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related
+- [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
+- [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — a narrower finding that bears on this claim

@@ -97,3 +97,4 @@ Citing prior Consortium research, the report states that predicting ninth-grade 
 - [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
 - [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
+- [The growth mindset intervention was estimated to prevent about 5.3% of US lower-achieving ninth-graders per year from being off track for graduation](growth-mindset-reduces-off-track-gpa-rates.md) — related

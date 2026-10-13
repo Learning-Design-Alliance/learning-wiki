@@ -65,3 +65,4 @@ The chapter reports, citing Carpenter et al. (2009), research with middle-school
 - [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
+- [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related

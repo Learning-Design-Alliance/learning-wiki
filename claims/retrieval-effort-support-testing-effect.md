@@ -1,0 +1,48 @@
+---
+type: claim
+title: The meta-analysis supports retrieval effort as a contributor to the testing effect
+description: The meta-analysis supports retrieval effort as a contributor to the testing effect
+id: retrieval-effort-support-testing-effect
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-13
+evidence_strength: moderate
+sources:
+  - id: meta-2
+    title: meta-2
+    q: 4
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
+---
+
+# The meta-analysis supports retrieval effort as a contributor to the testing effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+
+## Subclaims
+`q4 i?` The meta-analysis's key results support the role of effortful processing in the testing effect. [→ meta-2](#meta-2)
+
+## Evidence
+
+### meta-2
+
+Rowland, C. A. (2014, August 25). The Effect of Testing Versus Restudy on Retention: A Meta-Analytic Review of the Testing Effect. Psychological Bulletin. http://dx.doi.org/10.1037/a0037559
+
+`q4 · i?` · `quant-synthesis · r?`
+
+The meta-analysis's summary of its own key results states "support for the role of effortful processing as a contributor to the testing effect", with recall initial tests yielding larger benefits than recognition tests.
+
+> "Key results indicate support for the role of effortful processing as a contributor to the testing effect, with initial recall tests yielding larger testing benefits than recognition tests."
+
+## Discussion
+
+
+## Related Claims
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — related
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

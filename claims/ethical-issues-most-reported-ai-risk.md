@@ -76,3 +76,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a narrower finding that bears on this claim
 - [Faculty opt-out of generative AI is more substantial than student non-use, with value-, identity- and risk-based reasons](faculty-ai-optout-shata-2025.md) — related
 - [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
+- [Awareness of Creative Commons licensing lags behind copyright and public domain awareness among both faculty and academic leaders](creative-commons-awareness-lags-copyright.md) — related

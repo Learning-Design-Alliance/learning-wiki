@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (72 for, 25 mixed, 8 against) · 80 studies (21 associational, 18 review, 17 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 80 report an effect size · 97 claims rest on one study
+> **Evidence** · 109 claims (74 for, 26 mixed, 9 against) · 81 studies (21 associational, 18 review, 17 causal, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 18 of 81 report an effect size · 101 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -138,6 +138,10 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](../claims/metacognition-gates-genai-use-quality.md) [+M] — instruction changes it
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](../claims/socratic-prompts-reflection-directive-overload-qualitative.md) [~M] — instruction changes it
 - [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation](../claims/socratic-feedback-comprehension-monitoring-task-orientation.md) [~M] — instruction changes it
+- [Metacognitive planning measured by the Cognitive Assessment System correlates with standardized achievement at values ranging from .12 to .50 across ages 5 to 17](../claims/cas-planning-correlations-achievement-ranging.md) [+W] — learners who differ on it differ in outcomes
+- [Metacognitive strategic planning measured by think-aloud protocol showed a .94 correlation with science program placement in one study of 34 eleventh-graders](../claims/think-aloud-strategic-planning-correlate-program-placement.md) [+W] — learners who differ on it differ in outcomes
+- [Metacognitive strategy correlations with achievement vary widely across studies, from negative values near -.28 to values such as .66 and .94](../claims/metacognitive-strategy-correlations-variable-range.md) [~W] — learners who differ on it differ in outcomes
+- [Some strategy-achievement correlations are near zero or negative even within the same instrument family, including 3rd-graders' strategy use (-.05) and elaboration (.00)](../claims/null-and-negative-strategy-correlations-present.md) [-W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

@@ -114,3 +114,6 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — reports the opposite
 - [In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance](simulation-ai-assisted-students-score-increase.md) — a narrower finding that bears on this claim
 - [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related
+- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — possibly the same claim (merge candidate)
+- [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — a narrower finding that bears on this claim
+- [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect](scaffolding-design-features-no-moderation.md) — a narrower finding that bears on this claim

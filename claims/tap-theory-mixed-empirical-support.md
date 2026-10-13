@@ -1,0 +1,44 @@
+---
+type: claim
+title: TAP theory has received mixed empirical support as an account of the testing effect
+description: TAP theory has received mixed empirical support as an account of the testing effect
+id: tap-theory-mixed-empirical-support
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-13
+evidence_strength: weak
+sources:
+  - id: tap-1
+    title: tap-1
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
+---
+
+# TAP theory has received mixed empirical support as an account of the testing effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+
+## Subclaims
+`q2 i?` Empirical support for TAP theory is mixed: some studies fit its predictions while others produced results problematic for it. [→ tap-1](#tap-1)
+
+## Evidence
+
+### tap-1
+
+Rowland, C. A. (2014, August 25). The Effect of Testing Versus Restudy on Retention: A Meta-Analytic Review of the Testing Effect. Psychological Bulletin. http://dx.doi.org/10.1037/a0037559
+
+`q2 · i?` · `quant-synthesis · r?`
+
+Narrative review of TAP evidence: the article reports compatible results (e.g., matching effects) but also that "a body of research has also produced results problematic for the theory", such as free recall initial testing yielding the best performance regardless of final test format.
+
+> "Despite such evidence that is compatible with TAP theory, a body of research has also produced results problematic for the theory."
+
+## Discussion
+
+
+## Related Claims
+-

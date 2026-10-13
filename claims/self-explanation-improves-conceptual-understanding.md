@@ -177,3 +177,6 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — a narrower finding that bears on this claim
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — related
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](self-explanation-prompts-meta-analysis-g-055.md) — related

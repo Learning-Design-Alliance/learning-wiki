@@ -67,3 +67,4 @@ This is sometimes called the "completion effect" in cognitive load literature. H
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — a narrower finding that bears on this claim

@@ -241,6 +241,128 @@ Reply: {{"links": [{{"n": <number>, "relation": "<relation>", "marker": "<only f
             "model": model, "cost_usd": gen.cost_usd, "provider": gen.provider}
 
 
+# Concept pages a claim can be cited from: every principle, pattern and process, and the
+# elements and theories marked canonical (the batch-written ones are mostly one paper's terms).
+ORPHAN_TARGETS = ("principles", "patterns", "processes", "elements", "theories")
+
+
+def concept_targets(pages: dict) -> set:
+    out = set()
+    for k, p in pages.items():
+        f = k.split("/")[0]
+        if f not in ORPHAN_TARGETS:
+            continue
+        if f in ("principles", "patterns", "processes"):
+            out.add(k)
+            continue
+        head = p.read_text(encoding="utf-8")[:3000]
+        if re.search(r"^canonical:\s*true\s*$", head, re.M):
+            out.add(k)
+    return out
+
+
+def orphan_claims() -> list:
+    """Claims no page outside claims/ cites, from the committed reverse index: evidence
+    no principle, pattern or element uses, so a designer reading those pages never meets it."""
+    rev = json.loads((WIKI_ROOT / "reverse-index.json").read_text(encoding="utf-8"))
+    cited = {slug for slug, by in rev["edges"].get("claims", {}).items() if any(f != "claims" for f in by)}
+    return sorted(f"claims/{p.stem}" for p in (WIKI_ROOT / "claims").glob("*.md")
+                  if p.stem != "index" and p.stem not in cited)
+
+
+ORPHAN_PROMPT = """CLAIM: {title}
+{description}
+[evidence: {evidence}]
+
+CONCEPT PAGES:
+{listing}
+
+Which concept pages is this claim evidence about? A claim is evidence about a page only if it
+tests, qualifies or counts against what that page says or recommends, for comparable learners
+and goals. Sharing a topic word is not enough; a claim about one programme's outcomes is not
+evidence for a general principle unless it isolates that principle. At most three pages, and an
+empty list is a good answer when none fits.
+For each, give its number and a marker for how the claim bears on THAT page: direction (+ supports
+it, ~ depends on conditions, - counts against it) and strength from the evidence line above, not
+the title (S strong: several studies, experiments or meta-analysis; M moderate; W weak: one small
+or non-experimental study, or an argument), e.g. "+W".
+Reply: {{"pages": [{{"n": <number>, "marker": "<marker>"}}]}}"""
+
+
+def classify_claim(rec: dict, cands: list, key: str, model: str) -> dict:
+    """The reverse of classify(): one claim, shown the concept pages most like it, names
+    those it is evidence about. Written as an `evidence` link from each such page."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    listing = "\n".join(f"{i + 1}. [{KIND[c['folder']]}] {c['title']} — {c['description'][:200]}"
+                        for i, c in enumerate(cands))
+    prompt = ORPHAN_PROMPT.format(title=rec["title"], description=rec["description"],
+                                  evidence=rec["evidence"] or "none recorded", listing=listing)
+    gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=6000,
+                      reasoning_effort="low" if "glm" in model else None)
+    data = extract_json(gen.raw_text)
+    links = []
+    cap = strength_cap(rec["evidence"])
+    for item in ((data.get("pages") or []) if isinstance(data, dict) else [])[:3]:
+        n, marker = item.get("n"), item.get("marker")
+        if not (isinstance(n, int) and 1 <= n <= len(cands) and isinstance(marker, str) and MARKER_RE.match(marker)):
+            continue
+        page = cands[n - 1]["key"]
+        if not allowed(page, rec["key"], "evidence"):
+            continue
+        extra = ({"marker": marker[0] + cap, "model_marker": marker}
+                 if "WMS".index(marker[1]) > "WMS".index(cap) else {"marker": marker})
+        links.append({"page": page, "target": rec["key"], "relation": "evidence", **extra})
+    return {"claim": rec["key"], "candidates": [c["key"] for c in cands], "links": links,
+            "model": model, "cost_usd": gen.cost_usd}
+
+
+def run_orphans(keys: list, out: Path, model: str, concurrency: int) -> list:
+    """Ask, for each orphan claim, which concept pages it is evidence about. Returns the
+    decisions regrouped by concept page, the shape verify() and apply() take."""
+    api_key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
+    pages = all_pages()
+    targets = concept_targets(pages)
+    search_index.ensure().close()
+    cache = {}
+
+    def rec(k):
+        if k not in cache:
+            cache[k] = record(k, pages[k])
+        return cache[k]
+
+    def worker(k):
+        local = sqlite3.connect(search_index.DB_PATH)
+        try:
+            r = rec(k)
+            rows = search_index.query(local, r["title"] + " " + r["description"], limit=80, mode="OR")
+            cands = [rec(c) for c in dict.fromkeys(f"{x[1]}/{x[2]}" for x in rows) if c in targets][:12]
+            return classify_claim(r, cands, api_key, model) if cands else {"claim": k, "candidates": [], "links": []}
+        except Exception as e:
+            return {"claim": k, "error": f"{type(e).__name__}: {e}"[:300]}
+        finally:
+            local.close()
+
+    decisions = []
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with out.open("a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(concurrency) as ex:
+        for res in ex.map(worker, keys):
+            fh.write(json.dumps(res) + "\n")
+            fh.flush()
+            decisions.append(res)
+    print(f"asked {len(decisions)}, errors {sum(1 for d in decisions if d.get('error'))}, "
+          f"cost ${sum(d.get('cost_usd') or 0 for d in decisions):.4f}")
+    return regroup(decisions)
+
+
+def regroup(decisions: list) -> list:
+    by_page = collections.defaultdict(list)
+    for d in decisions:
+        for l in d.get("links") or []:
+            by_page[l["page"]].append({k: l[k] for k in ("target", "relation", "marker")})
+    return [{"page": p, "links": ls} for p, ls in by_page.items()]
+
+
 def run(keys: list, out: Path, model: str, concurrency: int, folder: str = None) -> list:
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -456,6 +578,10 @@ def main() -> None:
     src.add_argument("--from", dest="from_file", help="apply a previous run's decisions without re-asking")
     src.add_argument("--claims-for", nargs="+", metavar="FOLDER",
                      help="pages in these folders that cite no claim, shown claims only (evidence links)")
+    src.add_argument("--orphan-claims", action="store_true",
+                     help="claims no concept page cites, each shown the canonical concept pages most like it")
+    src.add_argument("--from-orphans", metavar="FILE",
+                     help="apply an earlier --orphan-claims run's decisions without re-asking")
     ap.add_argument("--out", default=None)
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--verify", action="store_true",
@@ -467,6 +593,14 @@ def main() -> None:
 
     if args.from_file:
         results = [json.loads(l) for l in Path(args.from_file).read_text(encoding="utf-8").splitlines() if l.strip()]
+    elif args.from_orphans:
+        results = regroup([json.loads(l) for l in Path(args.from_orphans).read_text(encoding="utf-8").splitlines()
+                           if l.strip()])
+    elif args.orphan_claims:
+        keys = orphan_claims()
+        out = Path(args.out) if args.out else WIKI_ROOT / "eval" / "runs" / "page-links" / "orphan-claims.ndjson"
+        print(f"{len(keys)} claim(s) no concept page cites; asking {args.model}; decisions -> {out}", flush=True)
+        results = run_orphans(keys, out, args.model, args.concurrency)
     else:
         folder = None
         if args.claims_for:

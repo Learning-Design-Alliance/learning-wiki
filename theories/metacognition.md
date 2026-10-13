@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (11 for, 2 mixed) · 11 studies (6 causal, 3 qualitative, 1 review, 1 theoretical), `q2`–`q3` · 3 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 12 studies (6 causal, 3 qualitative, 2 review, 1 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 12 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -55,6 +55,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](../claims/novices-refine-prompts-trial-and-error.md) [+W] — attached 2026-10-12 from Nicola Brocca (2026), which proposed "Human-in-the-loop LLM workflow as a metacognitive framework for AI-assisted learning".
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](../claims/output-evaluation-competence-gains.md) [+W] — attached 2026-10-12 from Nicola Brocca (2026), which proposed "Human-in-the-loop LLM workflow as a metacognitive framework for AI-assisted learning".
 - [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](../claims/regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) [+W] — attached 2026-10-12 from Li Shijin et al. (2026), which proposed "Reciprocal monitoring–control architecture with planning as prospective control and regulation as adaptive control".
+- [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](../claims/underuse-stems-from-false-beliefs-and-counterintuition.md) [+W] — attached 2026-10-13 from Carpenter et al. (2022), which proposed "Learner metacognition as awareness and regulation of one's own learning".
 
 ## Related Theories
 

@@ -65,3 +65,4 @@ The report cites Census data showing aggregation conceals disparities: "you woul
 - [Many teachers of color in California work in schools with no other same-race colleague, reaching 70.4% of American Indian/Alaska Native and 47.0% of multiracial teachers](california-teachers-of-color-racial-isolation-schools.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Low-income graduate degree completers and Black, Latino, and Native American and Pacific Islander students are overrepresented among Grad PLUS borrowers](grad-plus-overrepresentation-low-income-students-of-color.md) — related
+- [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related

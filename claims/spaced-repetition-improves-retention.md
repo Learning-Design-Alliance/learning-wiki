@@ -105,3 +105,7 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompting-insufficient-long-term-retention.md) — related
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — a narrower finding that bears on this claim
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
+- [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — related

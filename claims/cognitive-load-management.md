@@ -85,3 +85,9 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — related
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related
+- [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
+- [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — a narrower finding that bears on this claim
+- [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-effect-retention-transfer-meta-analysis.md) — related
+- [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — a narrower finding that bears on this claim
+- [Segmentation increases learning time](segmenting-increases-learning-time.md) — a narrower finding that bears on this claim
+- [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — possibly the same claim (merge candidate)
