@@ -17,7 +17,7 @@ sources:
 # Industrial arts pyramid program across operational levels
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide recommends a pyramid program structure (Figure 4) in which elementary level activities introduce industrial technology in the world of work with emphasis on self-concepts, insights, and awareness; junior high core courses provide comprehensive exploration of industrial-technological clusters; and senior high cluster specialization courses enable exploration in depth and beginning specialization. The pyramid concept is "aimed at helping all students to become familiar with the values of an industrial-technological society, to integrate these values into their personal value system, and to implement these values."
@@ -37,7 +37,8 @@ The guide recommends a pyramid program structure (Figure 4) in which elementary 
 - Career and industrial-technological awareness, self-concept development, exploration, and specialization
 
 ### Claims
-- 
+
+- [The literature review reports a converging consensus that middle school is the ideal time to begin career exploration](../claims/middle-school-ideal-time-career-exploration-consensus.md) [+W]
 
 ## Related Patterns
 

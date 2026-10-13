@@ -13,7 +13,7 @@ generated:
 # Probing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 14 studies (8 quant-synthesis, 4 causal, 1 review, 1 associational), `q2`–`q4` · 7 of 14 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (8 quant-synthesis, 4 causal, 1 review, 1 associational, 1 design), `q2`–`q4` · 7 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 Probing is the instructional element of asking follow-up questions that press past a learner's first response — asking for justification, elaboration, counterexamples, or connections to prior knowledge. It functions as a form of [Assessment for Learning](../principles/assessment-for-learning.md): the probe diagnoses the learner's current understanding while simultaneously prompting the learner to reconstruct and extend it.
@@ -54,7 +54,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](../claims/followup-low-initiation-high-completion.md) [~W]
 
 ## Related Elements
 - [Articulation](articulation.md) — probing is the elicitation side; articulation is the learner's response side of the same exchange

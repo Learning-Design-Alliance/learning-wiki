@@ -24,7 +24,7 @@ grain_size: course
 # Flipped Classroom
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size
+> **Evidence** · 6 claims (2 for, 4 mixed) · 16 studies (6 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 2 claims rest on one study
 
 ## Description
 Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback. The key design move is not simply assigning video before class; it is reallocating synchronous time toward higher-value interaction and practice.
@@ -68,11 +68,15 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 
 ### Theory
 #### Supporting
+
 - Blended and active-learning perspectives — class time is more valuable when used for interaction and guided application.
 - Self-regulated learning perspectives — learners manage part of the initial exposure outside class.
 - Formative assessment perspectives — instructors can use class time to respond to learner needs rather than broadcast content uniformly.
 - Active-learning and blended-learning perspectives.
 - Self-regulated learning perspectives.
+- [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](../claims/flipped-models-higher-question-accuracy.md) [+W]
+- [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
+
 #### Contradicting / Qualifying
 - Flipping is a scheduling pattern, not a pedagogy by itself; the quality of pre-class and in-class design matters more than the label.
 - Some learners need stronger preparation scaffolds or alternative access routes for pre-class materials.

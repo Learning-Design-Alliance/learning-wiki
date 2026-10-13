@@ -17,7 +17,7 @@ sources:
 # Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawing on Berquist and Phillips (1975), the article argues that an effective program should take into account the preferred teaching style of the faculty member, the preferred learning style of students, the content emphasis of the course, and the nature of the educational environment. Each of these four factors interacts with the others to help or hinder learning.
@@ -43,6 +43,7 @@ Drawing on Berquist and Phillips (1975), the article argues that an effective pr
 - [Student Faculty Subject Matter Mismatch](../claims/student-faculty-subject-matter-mismatch.md) [+M]
 - [Faculty across departments describe the same ideal learning style for students](../claims/faculty-uniform-ideal-learning-style.md) [+W]
 - [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](../claims/student-learning-style-department-differences.md) [+W]
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
 
 ## Related Principles
 

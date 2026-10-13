@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (3 qualitative, 1 review, 1 design, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -53,7 +53,12 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students](../claims/adaptive-courseware-eased-covid-transition.md) [~W]
+- [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+W]
+- [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
+- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
+- [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](../claims/milestones-adapt-exercise-pace-per-team.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

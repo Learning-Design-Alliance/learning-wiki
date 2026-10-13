@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 12 studies (6 causal, 3 qualitative, 2 review, 1 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 32 claims (18 for, 13 mixed, 1 against) · 27 studies (12 causal, 6 theoretical, 5 review, 4 qualitative), `q1`–`q3` · 3 of 27 report an effect size · 30 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -56,6 +56,24 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](../claims/output-evaluation-competence-gains.md) [+W] — attached 2026-10-12 from Nicola Brocca (2026), which proposed "Human-in-the-loop LLM workflow as a metacognitive framework for AI-assisted learning".
 - [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](../claims/regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) [+W] — attached 2026-10-12 from Li Shijin et al. (2026), which proposed "Reciprocal monitoring–control architecture with planning as prospective control and regulation as adaptive control".
 - [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](../claims/underuse-stems-from-false-beliefs-and-counterintuition.md) [+W] — attached 2026-10-13 from Carpenter et al. (2022), which proposed "Learner metacognition as awareness and regulation of one's own learning".
+- [People are well-calibrated about their own independent completion times](../claims/accurate-independent-completion-time-predictions.md) [~W]
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](../claims/ai-performance-learning-gains-diverge.md) [~W]
+- [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](../claims/ai-literacy-confidence-knowledge-gap.md) [~W]
+- [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](../claims/confidence-correlates-with-financial-behaviors-not-knowledge.md) [~W]
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](../claims/checking-ai-claims-predicts-gains.md) [~W]
+- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](../claims/confidence-predicts-offloading-no-feedback-only.md) [~W]
+- [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](../claims/mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) [+W]
+- [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](../claims/developmental-shift-cognitive-offloading.md) [~W]
+- [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](../claims/reliance-awareness-most-valued-outcome.md) [+W]
+- [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](../claims/offloading-illusion-ai-effort-savings.md) [+W]
+- [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
+- [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](../claims/strategic-offloading-intentional-transformative-learning.md) [~W]
+- [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](../claims/speedup-illusion-ai-time-savings.md) [+W]
+- [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](../claims/reminder-bias-overuse-external-aids.md) [~W]
+- [Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them](../claims/surface-validation-works-substantive-validation-fails.md) [~W]
+- [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
+- [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](../claims/trained-students-remediate-genai-deficiencies.md) [+W]
+- [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](../claims/trust-but-cant-verify-novices.md) [~W]
 
 ## Related Theories
 

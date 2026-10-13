@@ -13,7 +13,7 @@ generated:
 # Articulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Articulation asks learners to verbalize their thought processes, reasoning, and problem-solving strategies as they work — explaining what they are doing, why, and how they know. It functions as both a learning mechanism (verbalization forces organization of knowledge) and an assessment mechanism (instructors can diagnose reasoning errors that silent work conceals). In [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md), articulation is the phase that follows modeling and coaching: learners make their own thinking visible just as the expert made theirs visible during demonstration.
@@ -54,7 +54,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Teachers report difficulty locating conceptual gaps because students stop progressing silently after difficulty, making disengagement hard to detect during class](../claims/silent-disengagement-stuck-points-theme.md) [+W]
 
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the private, prompted form of articulation; articulation adds a social or diagnostic audience

@@ -18,7 +18,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that relationship-building is among the most important building blocks of education: a facilitator must relate to different personalities and backgrounds. A productive working relationship "helps the instructor convey expectations and feedback, facilitates effective communication," lets adults express needs, and, when adults believe they have an active role, can "build a sense of community" (Johnson, 2010).
@@ -42,6 +42,7 @@ The article argues that relationship-building is among the most important buildi
 ### Claims
 
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](../claims/positive-school-climate-mitigates-homicide-effects.md) [+W] — attached 2026-10-09 from Johnson et al. (2024), which proposed "Build trusting educator-student relationships and broadly restorative responses to misconduct to protect students from adversity".
+- [Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work](../claims/trust-first-goal-foster-care-students.md) [+W]
 
 ## Related Principles
 

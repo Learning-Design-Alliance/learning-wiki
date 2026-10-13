@@ -203,9 +203,13 @@ Flipped learning is most valuable when synchronous time is scarce and worth pres
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — flipped models depend heavily on learner preparation and time management before class
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — flipped learning depends in part on learners tracking and completing pre-class work
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — the payoff increases when class time is used for adaptive coaching and responsive support
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — pre-class prompts and in-class explanation can make flipped designs stronger than content exposure alone
+- [Preparation-purpose homework benefits students more than same-day extra-time homework](../claims/preparation-homework-beats-same-day-homework.md) [+W]
+- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](../claims/video-views-declined-across-quarter.md) [-W]
+- [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
 
 ## Related Principles
 - [Digital Learning](digital-learning.md) — often supplies the delivery infrastructure for pre-class exposure

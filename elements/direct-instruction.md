@@ -13,7 +13,7 @@ generated:
 # Direct instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (3 causal, 3 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 causal, 3 review, 2 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.
@@ -53,7 +53,7 @@ Direct instruction reduces unguided search during initial learning, which is whe
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
 
 ## Related Elements
 - [Explicit Teaching](explicit-teaching.md) — the closely aligned element emphasizing teacher-led explanation and modeling

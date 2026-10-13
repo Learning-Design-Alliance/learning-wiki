@@ -26,7 +26,7 @@ sources:
 # Model Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Model revision asks learners to articulate a working conceptual model, confront it with evidence and feedback, and deliberately revise it. The element treats the learner's initial understanding as a draft to be evaluated and improved rather than a fixed starting point, making the *process* of conceptual change visible and iterative.
@@ -66,7 +66,7 @@ Model revision supports conceptual change by forcing learners to compare their p
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
 
 ## Related Elements
 - [Scientific Reasoning](scientific-reasoning.md) — supplies the evaluative standards learners apply when judging their model against evidence

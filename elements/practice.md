@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (17 for, 10 mixed, 2 against) · 36 studies (15 causal, 11 quant-synthesis, 6 review, 4 theoretical), `q1`–`q4` · 9 of 36 report an effect size · 16 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 37 studies (15 causal, 11 quant-synthesis, 6 review, 5 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 17 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -82,7 +82,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](../claims/task-repetition-fluency-complexity-same-task-only.md) [~W]
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](../claims/mechanical-drills-limited-use-meaning-form.md) [-W]
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](../claims/automatization-requires-practice-consistent-environment.md) [+W]
-
+- [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](../claims/ai-substitution-impedes-long-term-skill-development.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

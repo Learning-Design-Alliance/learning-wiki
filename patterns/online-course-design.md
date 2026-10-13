@@ -205,6 +205,9 @@ Course-design literature converges on a recurring set of moves that build these 
 
 ### Claims
 
+- [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [~W]
+- [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
+
 ## Design
 
 ### Sequence

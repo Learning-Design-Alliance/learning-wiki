@@ -13,7 +13,7 @@ generated:
 # Group Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 design, 1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Group roles are assigned or negotiated responsibilities — such as facilitator, recorder, checker, or resource manager — that structure how members of a small group contribute to a shared task. Roles function as a form of procedural scaffolding: they specify who does what, reduce coordination overhead, and prevent the free-riding and status hierarchies that undermine collaborative work.
@@ -53,7 +53,8 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
+- [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](../claims/puzzlets-debugging-progress-and-collaboration-growth.md) [+W]
 
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the physical/positional counterpart used in whole-class and lab settings

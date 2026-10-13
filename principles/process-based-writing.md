@@ -236,12 +236,17 @@ Process-based writing helps because strong writing rarely emerges from a single 
 - Process instruction should not make writing feel like a rigid formula that ignores audience, voice, or purpose.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — writers improve when they can track what is working across drafts and choose better next steps
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — developing writers often need concrete stage-by-stage goals rather than only a final performance target
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+W]
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](../claims/plan-quality-improves-after-llm-adaptive-feedback.md) [~W]
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](../claims/penny-feedback-successful-uptake.md) [~W]
+- [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](../claims/synchronous-suggestions-shape-subsequent-writing.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

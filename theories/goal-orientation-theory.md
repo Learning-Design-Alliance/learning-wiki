@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 5 studies (4 associational, 1 review), `q2` · 1 of 5 report an effect size · 9 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -63,6 +63,13 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](../claims/approach-goals-mediate-support-engagement-ai.md) [+W] — attached 2026-10-12 from Yongliang Wang et al. (2026), which proposed "Goal-setting Theory extended to AI-assisted learning: approach-oriented goals as the primary motivational pathways from external support to engagement".
 - [Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning](../claims/teacher-support-predicts-approach-goals-ai-efl.md) [+W] — attached 2026-10-12 from Yongliang Wang et al. (2026), which proposed "Goal-setting Theory extended to AI-assisted learning: approach-oriented goals as the primary motivational pathways from external support to engagement".
+- [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](../claims/department-differences-mindset-goal-orientation.md) [~W]
+- [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](../claims/goal-orientations-predict-engagement-ai-efl.md) [+W]
+- [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](../claims/mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) [+W]
+- [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](../claims/mindset-goal-orientation-correlation-student-teachers.md) [+W]
+- [Work-avoidant orientation correlates negatively with GPA in the project-based course](../claims/gpa-negative-correlation-work-avoidant.md) [+W]
+- [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](../claims/high-epistemic-engagement-111-percent-mastery-justification.md) [+W]
+- [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](../claims/teacher-support-correlations-avoidance-goals-null.md) [+W]
 
 ## Related Theories
 - [Expectancy-Value Theory](expectancy-value-theory.md) — task value and goal orientation both address why a learner engages, though EVT frames it as a value judgment while goal orientation frames it as the purpose behind pursuing a goal

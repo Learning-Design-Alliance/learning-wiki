@@ -17,7 +17,7 @@ sources:
 # Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The report recommends that administrators, instructional leaders, and teachers designing professional development "might consider a NIC or incorporating features of NICs." Interview analysis indicated NICs may be useful PD because "the work was directly connected to their classrooms, included opportunities to share and brainstorm new ideas with other teachers, and created a sense of accountability for addressing challenges and making incremental improvements." The BMTN embodied long-identified effective PD features: content focused, job embedded, and collaborative. Teachers also valued choosing their own improvement projects, an opportunity rarely available in other professional learning structures.
@@ -38,8 +38,12 @@ The report recommends that administrators, instructional leaders, and teachers d
 - improving instructional routines that deepen student engagement with math content
 
 ### Claims
+
 - [Pdsa Testing Routines Structure Teacher Reflection](../claims/pdsa-testing-routines-structure-teacher-reflection.md) [+M]
 - [Networking Opportunities Greatest Instructional Influence](../claims/networking-opportunities-greatest-instructional-influence.md) [+M]
+- [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](../claims/pd-collaboration-prevalence-and-gains.md) [+W]
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](../claims/teacher-reported-engagement-opportunities-increased.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [~W]
 
 ## Related Principles
 - 

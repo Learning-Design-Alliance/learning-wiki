@@ -13,7 +13,7 @@ generated:
 # Rebuttals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 A rebuttal asks learners to directly counter an opposing viewpoint with evidence-based reasoning, rather than merely restating their own position. The element forces engagement with the strongest version of the other side — identifying its claims, evaluating its evidence, and articulating why it falls short — which builds counterargument skill and cognitive flexibility.
@@ -56,7 +56,7 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](../claims/ps-genai-pf-improves-rebuttals-and-opposing-view.md) [+W]
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the foundational skill; rebuttal is argumentation under opposition

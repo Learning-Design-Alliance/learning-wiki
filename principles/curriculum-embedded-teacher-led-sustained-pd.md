@@ -17,7 +17,7 @@ sources:
 # Design professional development around curriculum-embedded, teacher-led, sustained learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (2 review, 1 qualitative, 1 design), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 MISE's core guiding principles for professional development remained constant across a decade of adaptation. Professional development should be "Linked to specific curriculum units and focused on the content teachers must teach," based on a clear vision of good practice, immediately useful in classrooms, respectful of teachers and grounded in a coherent theory of adult learning, intensive yet extended over time with on-site support, led by accomplished teachers modeling good practice, easily accessible, and sustainable over time by local districts. The article notes these principles are consistent with the prevailing consensus on effective professional development and that MISE's use of district priorities, rather than individual teacher choice, aimed to build shared vision and communities of practice.
@@ -43,6 +43,9 @@ MISE's core guiding principles for professional development remained constant ac
 - High Hours Professional Development Linked Reform Practice [+M]
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](../claims/leader-teacher-diffusion-uneven.md) [+M]
 - [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](../claims/nonparticipant-barriers-professional-development.md) [+W]
+- [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
 
 ## Related Principles
 - 

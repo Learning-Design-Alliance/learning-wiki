@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; and overwhelming commentary on every weakness. Feedback is most useful when understood, so teachers should comment in complete sentences or detailed phrases that are clear, specific, and concrete, prioritize a few features of the text, and articulate their feedback philosophies and expectations to learners.
@@ -41,6 +41,9 @@ Teachers should avoid responding in ways that cause frustration: unclear or cryp
 ### Claims
 
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](../claims/ai-feedback-higher-perceived-quality-value.md) [+W] — attached 2026-10-11 from Chloe Qianhui Zhao et al. (2026), which proposed "Design feedback as structured, progressively disclosed, and context-enhanced to reduce extraneous cognitive load".
+- [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](../claims/teachers-found-ecree-useful-but-some-students-overwhelmed.md) [~W]
+- [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](../claims/feedback-source-discrepancies-cause-confusion.md) [~W]
+- [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](../claims/synthesizer-expected-reduce-overload-support-affect.md) [+W]
 
 ## Related Principles
 

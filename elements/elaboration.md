@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 17 studies (8 causal, 5 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 4 of 17 report an effect size
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 19 studies (10 causal, 5 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 19 report an effect size · 6 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -53,7 +53,12 @@ Elaboration improves retention and comprehension because deeper processing at en
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](../claims/durable-elaborative-interrogation-gains-six-months.md) [+W]
+- [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](../claims/elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) [-W]
+- [Elaborative interrogation increased perceived difficulty and time spent with the lesson](../claims/elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) [~W]
+- [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~W]
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](../claims/elaborative-interrogation-improves-science-fact-learning.md) [+W]
+- [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](../claims/elaborative-interrogation-reduces-confidence-in-errors.md) [+W]
 
 ## Related Elements
 - [Analogies](analogies.md) — a specific elaboration form connecting new content to familiar domains

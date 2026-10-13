@@ -13,7 +13,7 @@ generated:
 # Rhetorical Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Rhetorical strategies are deliberate moves learners use to persuade, frame, emphasize, appeal to an audience, or strengthen the force of an argument. They are useful when communication goals depend on audience awareness as well as evidence and logic.
@@ -36,7 +36,7 @@ Rhetorical strategies are deliberate moves learners use to persuade, frame, emph
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](../claims/mission-statement-rhetorical-corruptions.md) [~W]
 
 ## Related Elements
 - [Persuasion](persuasion.md)

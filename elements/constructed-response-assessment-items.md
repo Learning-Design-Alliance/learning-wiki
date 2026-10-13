@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (6 mixed, 1 against) · 6 studies (2 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 1 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -47,7 +47,13 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](../claims/ela-writing-prompts-shift-instruction.md) [~W]
+- [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](../claims/llm-logical-inconsistency-scoring-feedback.md) [-W]
+- [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](../claims/llm-overrate-short-essays-overpenalize-errors.md) [~W]
+- [The mixed-scenario essay-last design lowered essay scores and reduced essay writing time and word count relative to the single-scenario essay-last design](../claims/mixed-scenario-lower-scores-less-writing.md) [~W]
+- [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](../claims/model-answer-in-prompt-lowered-reliability.md) [~W]
+- [Different LLMs rely on different subsets of rubric traits when assigning essay scores](../claims/llms-weight-rubric-traits-differently.md) [~W]
+- [For short-answer questions, real student responses received higher LLM-likelihood estimates than LLM-generated responses, a reversal of the pattern in other tasks](../claims/short-answer-detection-reversal.md) [~W]
 
 ## Related Elements
 

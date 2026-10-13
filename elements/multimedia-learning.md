@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (9 for) · 11 studies (7 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 5 of 11 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 14 studies (9 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 14 report an effect size · 9 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -46,6 +46,9 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+W]
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](../claims/animation-phase-dependent-attention-to-print.md) [+W]
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W]
+- [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](../claims/segmenting-principle-mayer-2008.md) [+W]
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

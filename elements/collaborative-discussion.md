@@ -18,7 +18,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (3 causal, 2 qualitative, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
@@ -46,6 +46,7 @@ Collaborative discussion is the element in which learners build understanding to
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
 
 ## Related Elements
 - [Peer Discussion](peer-discussion.md)

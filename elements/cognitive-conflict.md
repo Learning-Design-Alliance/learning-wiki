@@ -13,7 +13,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 4 claims (4 for) · 7 studies (3 causal, 2 quant-synthesis, 1 associational, 1 design), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.
@@ -53,7 +53,8 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](../claims/constructive-conflict-increases-idea-editing.md) [+M]
+- [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](../claims/conflict-seed-induces-deeper-reflection.md) [+W]
 
 ## Related Elements
 - [Discrepant Events](discrepant-events.md) — the demonstration-based form: an observed outcome that violates prediction

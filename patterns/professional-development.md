@@ -201,10 +201,17 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 
 ### Theory
 #### Supporting
+
 - [Situated Learning](../theories/situated-learning.md) (Lave & Wenger) — teacher learning is most effective when embedded in authentic classroom practice and professional [communities of practice](../theories/situated-learning.md), not decontextualized workshops
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) (Collins, Brown, & Newman) — expert teaching is tacit; PD works by modeling, coaching, and fading support as teachers gain independence
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — observation of modeled practice, especially via video, builds self-efficacy and provides vicarious rehearsal
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — goal-setting, self-observation, and reflective cycles turn PD into sustained professional self-improvement
+- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](../claims/coaching-meta-analysis-instruction-effects-p12.md) [+W]
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
+- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
 
 #### Contradicting / Qualifying
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — highly scaffolded, scripted PD can impede experienced teachers who already have well-developed routines; support must be calibrated to prior expertise [~M]

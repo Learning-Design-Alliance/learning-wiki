@@ -210,9 +210,18 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - Some skills still require specific formats for valid assessment, even within a flexible overall design.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — varied assessment evidence matters when it improves the quality of feedback and the next instructional move
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — complex outcomes are often judged more credibly through integrated performances than through one narrow format
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple evidence sources can help learners compare their understanding across formats and adjust accordingly
+- [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](../claims/dual-assessment-ai-free-and-ai-allowed.md) [+W]
+- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](../claims/multimethod-approach-richer-portrayal-child-performance.md) [+W]
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
+- [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](../claims/performance-assessments-complement-multiple-choice-tests.md) [+W]
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
+- [Students performed better on oral measures than written measures in comparison studies](../claims/students-perform-better-oral-than-written.md) [+W]
+- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](../claims/tutor-gain-concentrated-in-written-reasoning-depth.md) [+W]
+- [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](../claims/standardized-tests-problematic-young-children-outcomes.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

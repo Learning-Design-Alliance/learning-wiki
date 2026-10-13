@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 6 claims (2 for, 1 mixed, 3 unmarked) · 14 studies (3 causal, 3 quant-synthesis, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.
@@ -56,9 +56,13 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — collaborative meaning-making can still fail when task demands and discussion structures overload learners
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation and explanation are central mechanisms in social constructivist learning
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — interaction is strongest when teachers or peers can respond adaptively rather than leaving sensemaking entirely unsupported
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — co-constructed learning improves when learners monitor the quality and direction of their discussion and shared work
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
+- [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — the broader principle that learning can happen through interaction with others

@@ -26,7 +26,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 9 studies (3 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 4 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 15 studies (4 review, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 0 of 15 report an effect size · 13 claims rest on one study
 
 ## Description
 Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality. Their value is not novelty by itself. They are useful when they make otherwise inaccessible experiences visible, repeatable, safer, or more manipulable than the real setting would allow. Good simulations help learners coordinate knowledge, perception, and action under conditions that resemble authentic performance.
@@ -76,6 +76,15 @@ Simulations and immersive environments work when they let learners rehearse mean
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](../claims/simulation-near-transfer-robust-far-transfer-weak.md) [+W] — attached 2026-10-09 from Kelly McNeil et al. (2026), which proposed "Implementation grains for simulations: single lesson, multi-week unit, and schoolwide event, with larger doses producing deeper learning when well-supported"; tests this page's relationship.
 - [Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer](../claims/ai-enables-authentic-contextualized-science-experiences.md) [+W] — attached 2026-10-12 from Li (2025), which proposed "Complementary learning ecosystem combining virtual labs and simulations with generative AI assistants".
+- [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](../claims/ai-simulation-inferior-bse-skills.md) [~W]
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](../claims/ai-simulation-safe-practice-environments.md) [+W]
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
+- [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](../claims/ixr-vet-positive-effects-procedural-motivation.md) [+W]
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](../claims/immersive-tech-underused-positive-outcomes-robotics.md) [~W]
+- [Learners in immersive media environments tend to treat pedagogical agents as real people, relying primarily on biologically primary communication patterns](../claims/casa-primary-communication-immersive-agents.md) [~W]
+- [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](../claims/teacher-time-confidence-barriers-simulation-implementation.md) [~W]
+- [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](../claims/teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) [+W]
+- [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](../claims/xr-higher-agent-realism-than-non-immersive.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

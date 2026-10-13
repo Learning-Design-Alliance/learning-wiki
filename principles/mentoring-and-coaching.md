@@ -26,7 +26,7 @@ sources:
 # Mentoring/Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 19 studies (6 associational, 4 causal, 4 qualitative, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 19 report an effect size · 15 claims rest on one study
 
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
@@ -68,9 +68,24 @@ Mentoring and coaching are effective because they attach support to the learner�
 - Relationship quality matters enough that poor mentoring can produce little benefit or even discourage learners.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — mentoring and coaching work best when prompts and feedback are tailored to the learner’s actual performance
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — strong coaching deliberately shifts responsibility from helper to learner over time
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — coaching is most valuable when it stays tied to real tasks and decisions learners will later handle on their own
+- [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](../claims/deep-coaching-online-next-year-plans.md) [~W]
+- [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](../claims/cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) [+W]
+- [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](../claims/coaching-increases-technology-use-frequency.md) [+W]
+- [At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews](../claims/foxglove-assignment-feedback-and-progress-reviews.md) [+W]
+- [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](../claims/faculty-mentors-pivotal-responsible-research-development.md) [+W]
+- [Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction](../claims/l2c-higher-subjective-ratings.md) [~W]
+- [Highlighted institutions attribute Pell success to deliberate support strategies, with peer mentoring and fixed tuition associated with gains](../claims/institutional-support-strategies-pell-success.md) [+W]
+- [Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity](../claims/principal-internships-expert-coaching-value.md) [+W]
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](../claims/principal-mentoring-coaching-improves-practice.md) [+W]
+- [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](../claims/mentoring-activity-time-varied-widely.md) [~W]
+- [The mentoring topics first-year teachers most frequently received guidance on were noninstructional rather than instructional](../claims/mentoring-focused-on-noninstructional-topics.md) [~W]
+- [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](../claims/rtap-mentorship-value-and-variability.md) [~W]
+- [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](../claims/rtap-mentors-of-color-especially-valuable.md) [~W]
+- [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](../claims/web-folders-enable-coaching.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

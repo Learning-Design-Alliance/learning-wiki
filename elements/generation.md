@@ -13,7 +13,7 @@ generated:
 # Generation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 causal), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Generation asks learners to actively produce content — completing a missing word, stating a rule, drawing a diagram, or answering a question before seeing the answer — instead of passively reading the same material. The act of constructing the response, even an incorrect one, creates richer encoding than reception. It is the constructive counterpart to [Practice](practice.md): where practice strengthens retrieval of already-taught material, generation forces the learner to build the response before instruction confirms it.
@@ -54,6 +54,7 @@ Generation reliably improves retention of the generated material relative to rea
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
+- [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](../claims/ai-removing-struggle-short-circuits-desirable-difficulties.md) [+W]
 
 ## Related Elements
 - [Practice](practice.md) — generation often precedes practice; practice then consolidates what generation constructed

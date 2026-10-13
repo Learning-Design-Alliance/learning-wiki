@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 10 studies (4 review, 3 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size
+> **Evidence** · 5 claims (5 mixed) · 12 studies (4 review, 3 causal, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner. It is useful when instruction relies on collaboration, external representations, or shared expertise.
@@ -51,9 +51,12 @@ Distributed cognition matters when successful performance depends on how learner
 - [Information Processing Theory](../theories/information-processing-theory.md) — qualifies that individual attention, memory, and processing limits still matter inside distributed systems
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — external representations can reduce internal memory burden when they are organized and interpretable
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — distributed systems become stronger when progress and roles are visible enough to monitor
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — tools and collaborators are most helpful when support is responsive rather than generic
+- [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](../claims/developmental-shift-cognitive-offloading.md) [~W]
+- [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](../claims/strategic-offloading-intentional-transformative-learning.md) [~W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

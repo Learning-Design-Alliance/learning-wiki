@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (2 for, 3 unmarked) · 4 studies (4 causal), `q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (2 for, 1 against, 3 unmarked) · 5 studies (4 causal, 1 design), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -75,3 +75,7 @@ Record: **prompt/task → permitted and actual help → response/reasoning → c
 [Worked examples](../elements/worked-examples.md), [demonstration](../elements/demonstration.md), [fading](../elements/fading.md), and [practice](../elements/practice.md).
 
 This pattern is scoped to selecting solution support for structured tasks. Open-ended generation, incorrect examples, productive-failure lessons and competency certification need distinct configurations and evidence. The present policy supports observation and design reasoning; predictive accuracy and the learner-significance mechanism remain to be tested with actual learners.
+
+## Claims
+
+- [Pedagogical-criterion breakdown shows worked examples in only about 42% of responses, the weakest criterion despite 312 practice problems in the knowledge base](../claims/algorag-worked-example-retrieval-42-percent.md) [-W]

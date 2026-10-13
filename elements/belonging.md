@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 4 claims (4 for) · 7 studies (2 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -53,7 +53,8 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Short belonging interventions in college settings can produce significant and lasting effects](../claims/brief-belonging-interventions-lasting-effects.md) [+W]
+- [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](../claims/students-of-color-receive-belonging-signals.md) [+W]
 
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early

@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (2 theoretical, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Teachers commonly speak of students' **learning styles** — preferred ways of engaging with material — but the term can misleadingly imply more cross-situational consistency than actually exists: a student who prefers diagrams to outlines can typically still learn well from either, given the chance (Loo, 2004; Stahl, 2002). **Cognitive styles** are a more specific and better-evidenced construct: relatively stable (though not perfectly so) individual differences in *how* a person typically perceives, remembers, and solves problems, rather than a mere preference (Zhang & Sternberg, 2006).
@@ -54,8 +54,12 @@ There are two distinct ways to use knowledge of a student's cognitive style (Pri
 - [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) [~M] — critics (Morgan, 1996, cited on that page) argue MI theory's proposed "intelligences" may in part simply relabel existing cognitive-style research rather than identify genuinely separate abilities, suggesting real conceptual overlap between the two frameworks
 
 ## Claims
+
 - [Schools Reward Executive Styles](../claims/schools-reward-executive-styles.md) [+W]
 - [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+W]
+- [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](../claims/cultural-background-influences-learning-style-measurement.md) [~W]
+- [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](../claims/stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) [~W]
+- [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](../claims/embedded-figures-test-sex-difference-intelligence-correlation.md) [~W]
 
 ## Related Principles
 - [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)

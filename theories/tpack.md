@@ -13,7 +13,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 7 studies (4 associational, 1 causal, 1 review, 1 theoretical), `q1`–`q2` · 2 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (11 for, 9 mixed) · 12 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q2` · 4 of 12 report an effect size · 20 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -55,6 +55,15 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK](../claims/ai-tk-indirect-path-aick.md) [+M] — attached 2026-10-12 from Meijuan Xie (2025), which proposed "AI-TPACK framework: integrating artificial intelligence into TPACK".
 - [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement](../claims/teaching-beliefs-negative-aick.md) [~W] — attached 2026-10-12 from Meijuan Xie (2025), which proposed "AI-TPACK framework: integrating artificial intelligence into TPACK".
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](../claims/genai-tpk-ethical-dimensions-cross-cutting.md) [~W] — attached 2026-10-12 from Ó Ceallaigh et al. (2026), which proposed "GenAI-specific Technological Pedagogical Knowledge (TPK) as a context-dependent knowledge domain extending TPACK".
+- [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](../claims/developmental-asymmetry-ck-over-tpack.md) [~W]
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+W]
+- [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](../claims/faculty-high-traditional-low-technology-integrated-genai-knowledge.md) [~W]
+- [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](../claims/behavior-alone-insufficient-predict-ai-tpack.md) [~W]
+- [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](../claims/sdt-driven-redesign-capacity-willingness-gains.md) [+W]
+- [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](../claims/tk-strongly-associated-technology-integrated-domains.md) [+W]
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](../claims/teacher-beliefs-mediate-ai-integration.md) [+W]
+- [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](../claims/teacher-educators-shallow-genai-understanding-gaps.md) [~W]
+- [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](../claims/no-grade-differences-in-aick.md) [~W]
 
 ## Related Theories
 

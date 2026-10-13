@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 30 claims (8 for, 21 mixed, 1 against) · 9 studies (6 causal, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q3` · 2 of 9 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (10 for, 24 mixed, 1 against) · 10 studies (6 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 34 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -40,6 +40,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - Grammatical development through interactional feedback such as recasts. Here the fetched studies are quasi-experiments with short delays.
 
 ## Claims
+
 - [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](../claims/interactionally-modified-input-aids-comprehension-not-retention.md) [~M]
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](../claims/negotiation-benefit-limited-lower-ability-learners.md) [~M]
@@ -70,6 +71,11 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](../claims/discussion-board-no-negative-feedback-synchrony-required.md) [~M]
 - [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference](../claims/self-correction-dominates-negative-feedback-face-saving.md) [~M]
 - [Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short](../claims/content-triggers-dominate-syntactic-triggers-absent-text-chat.md) [~M]
+- [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](../claims/pairing-language-interaction-nom-l2-only.md) [+W]
+- [All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent](../claims/no-comprehension-checks-child-efl-nom.md) [~W]
+- [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](../claims/input-stage-patterns-predict-quality.md) [+W]
+- [Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1](../claims/clarification-requests-three-way-interaction.md) [~W]
+- [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](../claims/strategy-specific-factor-effects.md) [~W]
 
 ## Related Theories
 

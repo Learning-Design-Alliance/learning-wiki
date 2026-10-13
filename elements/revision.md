@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 12 studies (4 causal, 2 quant-synthesis, 2 associational, 2 qualitative, 1 review, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 6 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -53,7 +53,12 @@ Revision converts feedback into measurable learning gains only when learners act
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](../claims/iterative-lesson-planning-before-clinical-placement.md) [+W]
+- [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](../claims/soft-barrier-shifts-users-toward-editing.md) [~W]
+- [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](../claims/constructive-conflict-increases-idea-editing.md) [+W]
+- [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%](../claims/low-comment-rewriting-across-attempts.md) [-W]
+- [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](../claims/review-revise-iterations-quality-stabilizes.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork

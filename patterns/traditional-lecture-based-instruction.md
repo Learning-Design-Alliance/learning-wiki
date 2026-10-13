@@ -15,7 +15,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 against) · 3 studies (2 review, 1 causal), `q2`–`q3` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (2 against) · 4 studies (2 review, 1 causal, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
@@ -37,6 +37,10 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 
 ### Related Patterns
 - [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
+
+## Claims
+
+- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [-W]
 
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.

@@ -13,7 +13,7 @@ generated:
 # Problem Presentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (2 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 associational, 1 design), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Problem presentation is the instructional element in which learners are confronted with an authentic, ill-structured problem before receiving instruction on how to solve it. The problem functions as the organizing stimulus for inquiry: it activates prior knowledge, creates a need to know, and situates subsequent learning in a meaningful context. It is the opening move of [Problem-Based Learning](../patterns/problem-based-learning.md) and [Goal-Based Scenarios](../patterns/goal-based-scenarios.md), where the quality of the problem largely determines the quality of the learning that follows.
@@ -54,7 +54,7 @@ A well-presented problem engages learners in authentic problem-solving by making
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](../claims/reasoning-llm-outperforms-standard-on-dp-quality.md) [+W]
 
 ## Related Elements
 - [Case Study](case-study.md) — a related element that presents an already-analyzed situation; problem presentation differs in that the resolution is unknown and learner-driven

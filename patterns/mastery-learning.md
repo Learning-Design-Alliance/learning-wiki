@@ -139,14 +139,21 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 
 ### Theory
 #### Supporting
+
 - Bloom's mastery learning tradition.
 - [Self-Regulated Learning](../theories/self-regulated-learning.md)
+- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [+W]
+
 #### Contradicting / Qualifying
 - Not all complex performances can be reduced to a single mastery threshold.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
+- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](../claims/mastery-mixed-teacher-variable-effects.md) [~W]
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](../claims/mastery-effects-larger-elementary.md) [~M]
 
 ## Design
 

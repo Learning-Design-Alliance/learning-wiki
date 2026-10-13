@@ -17,7 +17,7 @@ sources:
 # Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents Vygotsky's core theoretical position: unlike Piaget's focus on biological and structural development, Vygotsky "stressed the contribution of culture, social interaction and the historical dimension of mental development" (Ivic 2000, as cited). The article explains that because children learn mainly through interactions with people in their immediate social world, everything they learn is colored by the expectations and norms of their social and cultural contexts. Development proceeds through internalization of social interactions, with language as the fundamental medium.
@@ -41,6 +41,8 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 
 - [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](../claims/vygotsky-challenging-tasks-promote-growth.md) [+W]
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](../claims/vygotsky-private-speech-inner-speech.md) [+W]
+- [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](../claims/motor-milestones-vary-by-cultural-childcare-practices.md) [+W]
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [+W]
 
 ## Related Theories
 

@@ -15,7 +15,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (5 causal, 5 quant-synthesis, 4 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 17 studies (5 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 The workshop model organizes instruction around a predictable three-part structure: a brief whole-class [mini-lesson](../elements/demonstration.md) (typically 10–15 minutes), an extended work session in which students practice independently or collaboratively while the teacher confers with individuals and small groups, and a closing share or reflection. Developed in literacy education by Atwell and Calkins and grounded in the gradual release of responsibility, it solves the problem of transmission-only teaching by making sustained, supported practice — not explanation — the center of the lesson. The teacher's role shifts during the work session from presenter to coach, differentiating through one-to-one [conferences](../elements/feedback.md) rather than whole-class pacing.
@@ -53,10 +53,12 @@ Lesson (the daily arc) and unit (a cycle of mini-lessons building toward a publi
 
 ### Theory
 #### Supporting
+
 - [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md) — the mini-lesson models expert practice; the work session is coaching with fading
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — extended independent work with goal-setting and reflection develops monitoring and control
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the consistent routine and short focused instruction manage extraneous load during acquisition
 - [Social Learning Theory](../theories/social-learning-theory.md) — the share session lets students learn from peers' modeled strategies
+- [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](../claims/students-want-teachers-supporting-as-learners.md) [+W]
 
 #### Contradicting / Qualifying
 - [Constructivism](../theories/constructivism.md) — some workshop implementations drift toward minimally guided discovery; research on guided instruction suggests the explicit mini-lesson and conferring are what carry the effect, not independent exploration alone [~M]

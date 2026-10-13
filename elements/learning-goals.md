@@ -13,7 +13,7 @@ generated:
 # Learning Goals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q3` · 4 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 2 causal, 2 review, 1 design), `q1`–`q3` · 4 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Learning goals are explicit statements of the intended outcomes of instruction — what learners should know, understand, or be able to do. They function as the anchor for [Constructive Alignment](../patterns/constructive-alignment.md): activities, materials, and assessments are all designed backward from them, and learners use them to monitor their own progress.
@@ -53,7 +53,7 @@ Well-specified goals improve achievement by directing learner attention to what 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
 
 ## Related Elements
 

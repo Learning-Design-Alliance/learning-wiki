@@ -17,7 +17,7 @@ sources:
 # Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (1 causal, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The toolkit's retention principle holds that students unable to demonstrate sufficient reading skills for promotion be retained and given "more intensive interventions and a highly effective teacher." To ensure "one test on one day is not the sole determining factor," students get multiple demonstration options (state test, alternative test, portfolio), and good cause exemptions cover specified students with disabilities, English Language Learners, and previously retained students.
@@ -41,8 +41,10 @@ The toolkit's retention principle holds that students unable to demonstrate suff
 - Intensive reading intervention
 
 ### Claims
+
 - [Mississippi Retention Sustained Ela Gains](../claims/mississippi-retention-sustained-ela-gains.md) [+M]
 - [Retention Threat Raises Grade 3 Performance](../claims/retention-threat-raises-grade-3-performance.md) [+M]
+- [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](../claims/retention-associated-smaller-gains-than-promotion-chicago.md) [-M]
 
 ## Related Principles
 

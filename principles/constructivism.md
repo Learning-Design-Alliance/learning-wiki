@@ -13,7 +13,7 @@ generated:
 # Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application. In practice, the principle pushes design toward tasks that make thinking visible, surface misconceptions, and require learners to organize meaning rather than passively receive it.
@@ -47,8 +47,11 @@ Constructivism implies that learning strengthens when learners have to make sens
 - Constructivist activity still benefits from guidance, modeling, and scaffolded inquiry.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — constructivist tasks work best when learners explain and connect ideas rather than only encounter them
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — conceptual change can deepen when learners revise confidently held misconceptions after evidence or feedback
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](../claims/ai-answers-bypass-effortful-meaning-making.md) [~W]
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
 
 ## Related Principles
 

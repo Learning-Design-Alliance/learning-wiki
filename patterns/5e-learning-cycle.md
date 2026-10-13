@@ -15,7 +15,7 @@ grain_size: unit, lesson
 # 5E Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 22 studies (10 quant-synthesis, 7 causal, 4 review, 1 theoretical), `q2`–`q4` · 10 of 22 report an effect size
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 23 studies (10 quant-synthesis, 7 causal, 4 review, 1 associational, 1 theoretical), `q2`–`q4` · 10 of 23 report an effect size · 1 claim rests on one study
 
 ## Description
 The 5E Learning Cycle is an instructional sequence for science (and other inquiry-oriented) teaching built on the earlier Karplus learning cycle. Learners first **Engage** with a phenomenon that surfaces prior ideas and creates curiosity, then **Explore** it through hands-on or data-based investigation, then receive formal **Explain** instruction that connects their experience to canonical concepts, then **Elaborate** by applying concepts to new situations, and finally **Evaluate** their own and others' understanding. Its core design move is delaying direct explanation until after concrete experience, so that new concepts answer questions learners have already begun to ask.
@@ -58,11 +58,13 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 
 ### Theory
 #### Supporting
+
 - [Constructivism](../theories/constructivism.md) — knowledge is built through experience; the Explore-before-Explain sequence lets learners construct concepts from evidence
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — concrete experience before formal explanation provides a schema anchor, but insufficient guidance during Explore can overload novices
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — the Evaluate phase positions learners as assessors of their own understanding
 - [Sociocultural Theory](../theories/sociocultural-theory.md) — the Explain stage's introduction of formal terminology by the teacher-as-expert, after the student already has an experiential referent, mirrors scaffolded vocabulary acquisition within a zone of proximal development
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
+- [Teachers' reported weekly use of the 5E instructional model for lesson planning rose from 13 percent to 42 percent over the Initiative](../claims/ngss-early-implementers-5e-use-increased.md) [+W]
 
 #### Contradicting / Qualifying
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the expertise-reversal literature qualifies the model: learners with high prior knowledge often benefit more from explanation-first sequences [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]

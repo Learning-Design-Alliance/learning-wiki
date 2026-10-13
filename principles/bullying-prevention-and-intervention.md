@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Bullying is defined by two features together, not either alone: a **power imbalance** between the parties (physical, social, or otherwise) and **repetition** over time — a single conflict between peers of roughly equal standing is not bullying in this technical sense, even if it is a serious behavior problem in its own right. Bullying takes several forms: verbal (name-calling, threats), social/relational (exclusion, rumor-spreading, damaging relationships), and physical.
@@ -51,6 +51,7 @@ Reporting rates are low: national survey data (2012 Indicators) find roughly 40%
 ## Claims
 
 - [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](../claims/asd-teens-cyberbullying-targets-missed-cues.md) [+W] — attached 2026-10-07 from Internet Safety for Teens with ASD. Autism at-a-Glance, which proposed "Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use".
+- [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](../claims/rj-bullying-response-requires-trained-facilitators.md) [~W]
 
 ## Related Principles
 - [Character Education](character-education.md) — schoolwide relationship-focused, non-punitive climate is a preventive foundation bullying-specific intervention builds on

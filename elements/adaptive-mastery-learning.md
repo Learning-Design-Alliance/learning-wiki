@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 15 studies (6 review, 3 causal, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 8 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -56,6 +56,13 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](../claims/remediation-path-efficiency-baselines.md) [+W] — attached 2026-10-10 from Feng Z et al. (2026), which proposed "Shortest remediation path algorithm converting diagnosed knowledge states into prerequisite-respecting learning sequences".
+- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](../claims/dda-adaptation-direction-determines-outcomes.md) [~W]
+- [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](../claims/adaptive-learning-engine-of-personalization.md) [+W]
+- [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
+- [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](../claims/adaptivity-bottleneck-llm-path-planning.md) [~W]
+- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
+- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions

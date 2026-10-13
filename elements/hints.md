@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (2 design, 1 causal, 1 associational), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -52,6 +52,9 @@ Hints are partial prompts or cues that help learners continue a task without ful
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](../claims/hint-takers-spend-less-time-than-attempters.md) [~W]
+- [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](../claims/learners-prefer-incremental-hints-over-solutions.md) [+W]
+- [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed.md) [~W]
+- [Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback](../claims/advanced-students-attempt-reduction-novices-not.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md)

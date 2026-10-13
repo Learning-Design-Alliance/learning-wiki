@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 review, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn. This can range from short movement breaks to physically active tasks or longer routines that help learners recover from fatigue and re-engage. The instructional value is usually indirect: physical activity does not teach content by itself, but it can improve the conditions under which focus, mood, and persistence are more available.
@@ -68,7 +68,9 @@ Physical activity is most useful as a readiness and regulation support rather th
 - Physical activity should support learning rather than function as a mandatory performance unrelated to instructional goals.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — routines that help learners notice and regulate their state can improve later strategy adjustment and persistence
+- [Physical well-being — exercise, sleep, and nutrition — impacts learning](../claims/physical-wellbeing-impacts-learning.md) [+W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

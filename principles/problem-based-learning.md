@@ -148,6 +148,7 @@ Problem-based learning is strongest when the problem requires learners to integr
 - Reigeluth (2011), in [Learner-Centered Paradigm of Education](../theories/learner-centered-paradigm.md), identifies four specific weaknesses of problem-based instruction — team assessment can hide an individual "loafer," insufficient repeated practice for transfer, no automaticity training, and inefficient unguided search — addressed by the [Project Space and Instructional Space](../patterns/project-and-instructional-space.md) pattern.
 
 ### Claims
+
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — integrated, authentic problem solving is often better preparation for later transfer than isolated subskill practice
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — learners benefit when facilitation responds to where their inquiry or reasoning is actually breaking down
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need explicit investigation and decision routines before open-ended success criteria become productive
@@ -155,6 +156,10 @@ Problem-based learning is strongest when the problem requires learners to integr
 -->
 
 <!-- deprecated 2026-10-02: superseded after the brief test, which found answers following the previous version into problem-first designs for novices.
+- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [+W]
+- [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](../claims/coding-experience-associated-with-pbl-performance.md) [~W]
 
 ## Conditional relationship
 

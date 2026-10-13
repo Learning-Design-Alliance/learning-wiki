@@ -17,7 +17,7 @@ sources:
 # Ecological Paradigm of Interdisciplinary Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 4 studies (2 qualitative, 1 causal, 1 review), `q1`–`q2` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The ecological paradigm contrasts with the field's dominant **cognitivist paradigm** of interdisciplinary learning (IDL) research, in which success is measured by an individual's cognitive integration of disciplinary insights (groundedness, integration, reflectiveness — Boix Mansilla & Duraisingh's three dimensions). The ecological paradigm instead studies IDL as a **group-level, socio-material process**: learners are treated as agents who interact with peers, artifacts, communities, institutions, and — depending on the activity — the natural environment, and success is measured by the interdisciplinary *practices* a group develops (epistemic practices, identity development, authentic research productivity), not only by what settles in an individual mind afterward.
@@ -42,7 +42,11 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - Designing learning environments and infrastructures that make such group-level integration possible
 
 ## Claims
+
 - (none directly authored by this synthesis paper — its evidentiary weight comes from the empirical studies it draws design implications from; see linked patterns below)
+- [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](../claims/ai-mediation-cognitive-and-relational-dimensions.md) [~W]
+- [Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it](../claims/collaboration-fundamentally-relational.md) [+W]
+- [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](../claims/genai-reconfigures-group-knowledge-development.md) [+W]
 
 ## Related Theories
 

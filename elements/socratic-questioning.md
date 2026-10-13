@@ -18,7 +18,7 @@ sources:
 # Socratic Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (5 for, 4 mixed, 3 against) · 7 studies (5 causal, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 12 claims rest on one study
 
 ## Description
 Socratic questioning is the element in which prompts are used to probe assumptions, clarify reasoning, test evidence, and extend implications. It is useful when the goal is not simply to elicit an answer, but to strengthen the quality of explanation and judgment behind the answer.
@@ -53,6 +53,12 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](../claims/question-specificity-rises-over-socratic-ai-dialogue.md) [+W] — attached 2026-10-11 from Syed Furqan Abbas Hashmi (2025), which proposed "Custom Socratic AI physics chatbot with dual GPT-4o Instructor and Verifier agents that logs full dialogue transcripts".
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](../claims/socratic-full-context-ai-ta-lowest-task-completion-rating.md) [-W] — attached 2026-10-11 from Madeleine Eastwood et al. (2026), which proposed "Four GPT-4o-backed AI TA configurations with pedagogical guardrails on a web-based coding platform".
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](../claims/ai-ta-query-volume-and-message-length.md) [~W] — attached 2026-10-11 from Madeleine Eastwood et al. (2026), which proposed "Four GPT-4o-backed AI TA configurations with pedagogical guardrails on a web-based coding platform".
+- [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](../claims/agent-consumer-distinction-epistemic-agency.md) [+W]
+- [In the Opus-only ablation, a prompt-only Socratic instruction outscores the full routed policy on judged pedagogy at near-tied helpfulness](../claims/socratic-prompt-only-matches-routed-pedagogy.md) [+W]
+- [Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10](../claims/socratic-mode-progressive-disengagement.md) [-W]
+- [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](../claims/direct-conditions-higher-full-comprehension.md) [~W]
+- [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](../claims/prompt-specificity-shapes-tutor-pedagogy.md) [~W]
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](../claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) [-W]
 
 ## Related Elements
 - [Conceptual Questioning](conceptual-questioning.md)

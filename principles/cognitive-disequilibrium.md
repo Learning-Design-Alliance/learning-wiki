@@ -18,7 +18,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 21 studies (8 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,7 +149,12 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — too much unresolved contradiction or complexity can overload learners rather than productively activate them
 
 ### Claims
+
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — confidently held but corrected errors can produce especially strong learning when feedback is clear
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — learners often need to explain the mismatch to get beyond surprise and into conceptual revision
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contradiction is more productive when support adapts to learner confusion and response
 -->
+- [The number of conflicting labels before discussion shows no relationship with accuracy gains from AI agent discussions, while post-discussion conflict frequency negatively predicts gains](../claims/claim-conflicting-labels-before-discussion-no-gain.md) [-W]
+- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
+- [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [~W]
+- [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](../claims/programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) [+W]

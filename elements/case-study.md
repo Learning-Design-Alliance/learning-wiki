@@ -13,7 +13,7 @@ generated:
 # Case Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 2 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 14 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 A case study presents learners with a rich, realistic scenario — a business decision, a patient presentation, a legal dispute — that they must analyze, discuss, and resolve using concepts from the domain. The case functions as an authentic problem context: learners bridge theory and practice by deciding what matters, what principles apply, and what to recommend, rather than receiving those judgments pre-packaged.
@@ -55,7 +55,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](../claims/business-case-discussion-reveals-business-mindsets.md) [~W]
 
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md) — broader family of simulated contexts; a case study is a text- or narrative-based scenario with analysis as the task

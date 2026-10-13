@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 causal), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -40,6 +40,7 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](../claims/students-adjust-easily-to-busier-text-pages.md) [+W]
+- [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](../claims/l1-glosses-no-reading-comprehension-gain.md) [-W]
 
 ## Related Elements
 

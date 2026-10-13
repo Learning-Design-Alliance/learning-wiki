@@ -195,9 +195,11 @@ Program or course — durable effects require multi-year implementation with sus
 
 ### Theory
 #### Supporting
+
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — social and emotional skills are acquired through observation and modeling of competent others
 - [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — autonomy, competence, and relatedness are basic needs; SEL environments that support them sustain motivation
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — the self-management competency of SEL overlaps directly with SRL's forethought, monitoring, and reflection phases
+- [SEL program effects are sustained over long-term follow-up periods](../claims/sel-long-term-sustained-effects.md) [+W]
 
 #### Contradicting / Qualifying
 - [Behaviorism](../theories/behaviorism.md) — pure contingency-management approaches to classroom behavior can undermine the autonomy and internalization SEL aims for; reward-heavy climates may crowd out intrinsic motivation [~M]
@@ -211,9 +213,11 @@ Program or course — durable effects require multi-year implementation with sus
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — process-level feedback supports the self-management competency without triggering ego threat
 
 #### Contradicting
+
 -->
 - <!-- TODO: add claim links when evidence pages exist -->
 <!-- deprecated 2026-10-05 (continued):
+- [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](../claims/intentional-sel-instruction-deaf-students.md) [~W]
 
 ## Design
 

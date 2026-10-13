@@ -225,7 +225,9 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — a single case study found that a teacher's in-the-moment departure from the written PBL sequence, to respond to an unplanned real-world event tied to the driving question, produced deeper student-initiated inquiry than the pre-designed ("contrived") authentic scenario
 #### Contradicting
+
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
 
 ## Design
 

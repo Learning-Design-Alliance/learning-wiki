@@ -13,7 +13,7 @@ generated:
 # Sentence Starters
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 causal, 4 quant-synthesis, 3 review, 1 qualitative), `q2`–`q4` · 2 of 13 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 14 studies (5 causal, 4 quant-synthesis, 3 review, 2 qualitative), `q1`–`q4` · 2 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Sentence starters are partial openings — "The evidence suggests that…", "One difference between X and Y is…", "I disagree because…" — that learners complete when speaking or writing. They function as a linguistic scaffold: the rhetorical and syntactic structure is supplied, so working memory and attention can go to the ideas being expressed.
@@ -53,7 +53,7 @@ Sentence starters lower the barrier to productive academic language, particularl
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [In the Montebello blended science-language program, sentence frames limited student responses and teachers raised their expectations of English learners](../claims/montebello-program-teacher-insights.md) [-W]
 
 ## Related Elements
 - [Articulation](articulation.md) — starters are a support for the articulation they are meant to elicit

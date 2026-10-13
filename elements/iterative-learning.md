@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 quant-synthesis, 1 causal, 1 design), `q1`–`q4` · 2 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 9 studies (3 design, 2 causal, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -42,6 +42,11 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](../claims/iterative-design-steady-growth-no-excellent.md) [+W]
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]
 - [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [+M]
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](../claims/iterative-lesson-planning-before-clinical-placement.md) [+W]
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](../claims/review-revise-iterations-quality-stabilizes.md) [+W]
+- [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](../claims/refinement-iterations-and-beam-size-tuning-results.md) [~W]
+- [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](../claims/models-struggle-acknowledging-debugging-progression.md) [-W]
 
 ## Related Elements
 - [Revision](revision.md)

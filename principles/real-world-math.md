@@ -21,7 +21,7 @@ sources:
 # Real-world Math
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 qualitative, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 1 of 13 report an effect size · 4 claims rest on one study
 
 ## Description
 Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study. The point is not merely to decorate abstract content with a story problem; it is to show how mathematical reasoning helps make sense of actual decisions, quantities, tradeoffs, and patterns. For adult learners especially, relevance can improve persistence and reduce the sense that math is disconnected from everyday competence.
@@ -65,9 +65,13 @@ Real-world math improves engagement and transfer when the mathematical structure
 - Context should support abstraction, not trap learning inside a single familiar example.
 
 ### Claims
+
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
+- [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
+- [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](../claims/contextualized-story-problems-sense-making.md) [+W]
+- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
 
 ## Related Principles
 

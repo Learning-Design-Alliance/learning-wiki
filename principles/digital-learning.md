@@ -228,9 +228,16 @@ Digital learning matters when technology changes what learners can access, rehea
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — digital environments can either reduce or increase load depending on interface design, modality choices, and tool complexity
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — digital systems are often most effective when they make progress visible and usable for learner adjustment
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — adaptive hints, feedback, and platform supports can help when they respond to learner performance rather than staying generic
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — digital tools that prompt explanation, annotation, or reasoning can outperform passive content delivery
+- [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](../claims/adult-ed-out-of-class-use-mobile-gap.md) [~W]
+- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [~W]
+- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [~W]
+- [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
+- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt-access-supported-practice-poorer-unaided-test.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

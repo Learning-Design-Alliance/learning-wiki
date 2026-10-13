@@ -17,7 +17,7 @@ sources:
 # Balance challenge and support when instructing inexperienced library users
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper recommends that librarians provide support while consistently presenting small challenges, because both extremes harm progress: over-challenged students give up, and over-supported students stay dependent. It states "It requires skill on the instructor's part to provide the correct balance of challenge and support at this level." The balance is achieved through individualized instruction, a safe environment for asking questions, and hands-on experience.
@@ -40,6 +40,7 @@ The paper recommends that librarians provide support while consistently presenti
 
 - [Challenge Support Imbalance Effects Novice Learners](../claims/challenge-support-imbalance-effects-novice-learners.md) [+M]
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
+- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 
 ## Related Principles
 - 

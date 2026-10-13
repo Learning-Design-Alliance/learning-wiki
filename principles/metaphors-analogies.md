@@ -25,7 +25,7 @@ sources:
 # Metaphors & Analogies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 6 claims (2 for, 4 mixed) · 12 studies (4 qualitative, 2 causal, 2 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
@@ -67,8 +67,13 @@ Metaphors and analogies work because they let learners reason from a known struc
 - Learners may need help separating productive metaphor from literal truth, especially in science, mathematics, and policy topics.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](../claims/legitimacy-disciplinary-identity-resistance.md) [~W]
+- [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
+- [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
+- [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — analogies often become more useful when represented visually.

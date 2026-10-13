@@ -17,7 +17,7 @@ sources:
 # Skill-based training programmes should extend beyond short-term skill enhancement towards persistent retention and sustainability of acquired knowledge and skills
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The protocol argues that skill-based training programmes delivered alongside the conventional academic curriculum — via independent workshops, practical sessions or short courses — promote domain-specific professional competencies and bridge the gap between individual capabilities and organisational expectations. However, it recommends such programmes must extend their focus beyond immediate short-term skill enhancement towards ensuring persistent retention and sustainability of acquired knowledge and skills so students can translate them in real-world professional contexts.
@@ -38,7 +38,10 @@ The protocol argues that skill-based training programmes delivered alongside the
 - evidence synthesis skills and their translation into real-world professional contexts
 
 ### Claims
+
 - [Short Term Training Challenges Long Term Skill Retention](../claims/short-term-training-challenges-long-term-skill-retention.md) [+M]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [~W]
+- [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](../claims/ai-training-short-term-embedded-existing-courses.md) [-W]
 
 ## Related Principles
 - 

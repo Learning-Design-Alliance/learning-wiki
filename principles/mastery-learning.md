@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies (4 quant-synthesis, 4 review, 2 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (4 for, 6 mixed) · 16 studies (5 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 16 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,7 +121,12 @@ Mastery learning works when progression is tied to credible performance and lear
 - The principle is weaker when mastery is defined only as repeated test performance.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — mastery cycles improve learning when feedback and reteaching respond to the learner’s current gap
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — visible progress toward mastery helps learners judge readiness and adjust effort
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — mastery learning depends on standards that are clear enough to guide attention and persistence
 -->
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](../claims/mastery-effects-larger-elementary.md) [~M]
+- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](../claims/mastery-mixed-teacher-variable-effects.md) [~W]
+- [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold](../claims/socratic-more-attempts-many-never-reach-mastery.md) [~M]

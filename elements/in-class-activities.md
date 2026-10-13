@@ -13,7 +13,7 @@ generated:
 # In-Class Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (5 quant-synthesis, 1 causal, 1 review, 1 design), `q2`–`q4` · 6 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 In-class activities are structured tasks — problem solving, discussions, simulations, peer instruction, case analysis — that require learners to actively generate, apply, or critique content during class time rather than passively receive it. They shift class time from information transmission to supervised application, with the instructor acting as facilitator and feedback source.
@@ -54,7 +54,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Undergraduate physics students react highly positively to the IF-AT format](../claims/students-highly-positive-reaction-to-if-at.md) [+W]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md) — the social structure most in-class activities run on; peer explanation drives elaboration

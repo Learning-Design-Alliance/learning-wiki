@@ -18,7 +18,7 @@ sources:
 # Task Management
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Task management is the element in which learners organize, track, assign, or sequence work across a project or collaborative activity. It is useful when success depends on planning and coordination, not just content knowledge.
@@ -41,7 +41,7 @@ Task management is the element in which learners organize, track, assign, or seq
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](../claims/student-engagement-authenticity-clear-sequence.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md)

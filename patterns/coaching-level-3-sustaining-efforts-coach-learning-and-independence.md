@@ -17,7 +17,7 @@ sources:
 # Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 At the third level, mentoring turns inward: coaches attend district, regional, and national professional development to deepen literacy knowledge and support sustaining efforts. Advocacy shifts to helping teacher groups "support each other in their effort to improve instructional skills as independent learning communities." Michelle's monthly all-district coaching meetings and Diane's facilitation of a reciprocal teaching group that begins meeting independently illustrate this level.
@@ -43,6 +43,7 @@ At the third level, mentoring turns inward: coaches attend district, regional, a
 
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W]
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [-W]
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](../claims/ongoing-pd-mentorship-critical-coach-growth.md) [+W]
 
 ## Related Patterns
 

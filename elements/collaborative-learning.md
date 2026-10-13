@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -55,7 +55,8 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](../claims/calli-districts-valued-peer-learning-experts-structure.md) [+W]
+- [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [~W]
 
 ## Related Elements
 

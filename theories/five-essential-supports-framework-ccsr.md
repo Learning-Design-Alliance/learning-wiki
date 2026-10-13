@@ -17,7 +17,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 5 studies (3 associational, 1 causal, 1 design), `q2` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 21 claims (14 for, 7 mixed) · 16 studies (9 associational, 3 qualitative, 1 causal, 1 review, 1 design, 1 theoretical), `q1`–`q3` · 1 of 16 report an effect size · 21 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -48,6 +48,18 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](../claims/strong-supports-linked-community-social-capital-low-crime.md) [~M]
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [~M]
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](../claims/nbct-clusters-elementary-stronger-essential-supports.md) [+W]
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
+- [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](../claims/engaged-principals-prioritize-teacher-math-learning.md) [+W]
+- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]
+- [Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction](../claims/leadership-achievement-between-schools-via-climate.md) [+W]
+- [At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs](../claims/organizational-strategic-factors-associated-with-attitudes.md) [+W]
+- [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](../claims/school-climate-setting-level-indicator-five-supports.md) [+W]
+- [Schools with strong professional community show faster instructional pacing than schools with weak professional community, including among high-poverty schools](../claims/professional-community-faster-pacing.md) [+W]
+- [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](../claims/small-by-design-schools-higher-teacher-influence-and-capacity.md) [~W]
+- [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](../claims/teacher-collaboration-time-scarce-contract.md) [~W]
+- [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](../claims/subject-centered-reform-dropout-risk.md) [+W]
+- [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](../claims/sci-stronger-than-personnel-resources-for-bto.md) [~W]
+- [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](../claims/strong-leadership-schools-split-test-score-growth.md) [~W]
 
 ## Related Theories
 

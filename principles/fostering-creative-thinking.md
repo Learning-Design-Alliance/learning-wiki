@@ -23,7 +23,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 12 studies (3 causal, 3 review, 3 theoretical, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 14 studies (4 causal, 4 review, 3 theoretical, 2 quant-synthesis, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 5 claims rest on one study
 
 ## Description
 Creativity is the ability to make or do something new that is also useful or valued by others (Gardner, 1993) — the "something" can be an object, a skill, or an action, but to count as creative it cannot simply be bizarre, nor merely accidental (a poem produced by typing letters at random is not creative even if the result happens to be pleasing). This experience is not restricted to a few geniuses or to specific fields like art or music; most people have had it at some point (Kaufman & Baer, 2006). **Creative thinking** specifically is the generation of ideas that are new as well as useful, productive, and appropriate — and it is a form of thinking teachers can deliberately stimulate.
@@ -63,6 +63,7 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 - evaluating existing heuristics and models
 
 ## Claims
+
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](../claims/functional-fixedness-limits-problem-solving.md) [+M]
 - [Short-term creativity interventions can be effective in changing creativity positively](../claims/short-term-interventions-change-creativity.md) [+W]
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
@@ -70,6 +71,8 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 - [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](../claims/grading-harms-maker-education-outcomes.md) [+W]
 - [Anonymity Mitigates Evaluation Apprehension](../claims/anonymity-mitigates-evaluation-apprehension.md) [+W]
+- [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](../claims/genai-possible-benefits-children-creative-thinking.md) [~W]
+- [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](../claims/stepwise-conflict-guidance-reduces-idea-addition.md) [-W]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

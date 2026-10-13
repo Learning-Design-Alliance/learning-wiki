@@ -12,7 +12,7 @@ generated:
 # Ellsworth's Framework of Educational Change
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 review, 1 qualitative), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Ellsworth surveys the research on educational change and groups it into a small set of perspectives, or "models", each represented by one author or group. Following Rogers's observation that change is a special case of communication, Ellsworth arranges them into one framework. A **change agent** wishes to communicate an **innovation** to an **intended adopter**. This is done through a **change process**, which opens a channel through the **change environment**. The environment also contains **resistance**, which can disrupt the process or distort how the innovation appears to the adopter. Each model addresses one part of that picture:
@@ -46,7 +46,10 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 - A diagnosis of the system an innovation is entering, including what it would have to change around it
 
 ## Claims
+
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
+- [Change is a specialized instance of the general communication model](../claims/change-as-specialized-communication-instance.md) [+W]
+- [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](../claims/genai-resistance-entangled-neurodiversity-authenticity.md) [~W]
 
 ## Related Theories
 

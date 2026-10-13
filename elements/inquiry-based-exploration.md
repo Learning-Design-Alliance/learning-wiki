@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -55,7 +55,9 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](../claims/inquiry-based-stem-activities-enhance-problem-solving-reported.md) [+W]
+- [Open-ended tasks produce higher AI literacy performance than structured tasks](../claims/oet-outperforms-stt-ai-literacy-performance.md) [+M]
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation

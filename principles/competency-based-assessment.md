@@ -170,6 +170,7 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 - Support should fade toward independent demonstration rather than becoming a permanent feature of the assessment [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
+
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — competency judgments are stronger when they rest on integrated performances that resemble actual use
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — well-specified mastery criteria focus effort and make expectations legible
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need process-level guidance before a mastery judgment is meaningful
@@ -181,6 +182,13 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (2 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
+- [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](../claims/agentic-assessment-rater-agreement-and-helpfulness.md) [~W]
+- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](../claims/large-scale-cat-threshold-method-comparison.md) [~W]
+- [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](../claims/ai-not-best-practice-competency-based-assessment.md) [~W]
+- [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](../claims/prompting-limited-uneven-proficiency-control-writing-simulation.md) [~W]
+- [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](../claims/vcp-rubric-lacked-calibration-and-clarity.md) [~W]
+- [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](../claims/student-reported-grading-errors-lata.md) [~W]
+- [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 
 ## Description
 Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.

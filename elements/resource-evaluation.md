@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 12 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -54,7 +54,8 @@ Resource evaluation works when learners actively apply criteria to real, contras
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](../claims/children-trust-test-chatbot-with-known-answers.md) [+W]
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [-W]
 
 ## Related Elements
 - [Research](research.md) — evaluation is the filtering stage within a research cycle

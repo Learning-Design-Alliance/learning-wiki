@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (4 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 unmarked) · 17 studies (6 quant-synthesis, 3 causal, 3 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 6 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -52,7 +52,12 @@ Feedback is among the most powerful influences on learning, but its effects are 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](../claims/formative-feedback-constraints-gateway-math.md) [~W]
+- [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning](../claims/hattie-high-effect-size-instructional-factors.md) [+M]
+- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/high-information-feedback-d099-versus-reinforcement-d024.md) [+W]
+- [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](../claims/outcome-feedback-impedes-complex-task-learning-mcpl.md) [~W]
+- [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed.md) [~W]
+- [In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details](../claims/teacher-feedback-more-items-first-task-vocabulary-technical.md) [+W]
 
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance

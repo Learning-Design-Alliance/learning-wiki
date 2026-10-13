@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 7 claims (6 for, 1 against) · 10 studies (5 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Positive Behavioral Interventions and Supports (PBIS) is a multi-tiered framework for establishing the social culture and behavioral supports needed for all students to succeed. Rather than reacting to misbehavior with escalating punishment, schools define a small set of positively stated expectations, explicitly teach them like academic content, and consistently acknowledge students who meet them. Support is organized in three tiers: universal expectations for all students (Tier 1), targeted small-group support for students at risk (Tier 2), and individualized intensive interventions (Tier 3). The framework is implemented at the whole-school level, with teams using behavioral data (e.g., office discipline referrals) to guide decisions.
@@ -57,9 +57,13 @@ Program or whole school — PBIS is designed as a school-wide system, not a clas
 
 ### Theory
 #### Supporting
+
 - [Behaviorism](../theories/behaviorism.md) — behavior is shaped by its consequences; systematically reinforcing expected behavior increases its frequency
 - [Social Learning Theory](../theories/social-learning-theory.md) — students learn expectations through modeling and observation of peers and adults
 - [Self-Determination Theory](../theories/self-determination-theory.md) — well-designed PBIS supports competence and relatedness; acknowledgment systems must avoid undermining [autonomy](../principles/autonomy.md) [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- [PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores](../claims/pbis-reduces-syndrome-scores-ed-students.md) [+W]
+- [Intensive interventions should be planned and provided based on data and guided by evidence-based practices](../claims/intensive-interventions-data-based-evidence-guided.md) [+W]
+- [Because schools implementing Tiers 1 and 2 with fidelity showed no effect, the authors attribute the reduction in exclusions to fidelity-implemented intensive (Tier 3) supports](../claims/tier3-intensive-supports-drove-exclusion-reduction.md) [+W]
 
 #### Contradicting / Qualifying
 - [Self-Determination Theory](../theories/self-determination-theory.md) — extrinsic token-based reinforcement can crowd out intrinsic motivation if rewards feel controlling rather than informational [~M]
@@ -71,7 +75,9 @@ Program or whole school — PBIS is designed as a school-wide system, not a clas
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — acknowledgment systems should be informational, not controlling
 
 #### Contradicting
+
 - None identified — though evidence for academic gains is weaker than for behavioral outcomes [~M]
+- [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](../claims/pbis-fidelity-conditions-no-difference-iss-single-oss.md) [-W]
 
 ## Design
 

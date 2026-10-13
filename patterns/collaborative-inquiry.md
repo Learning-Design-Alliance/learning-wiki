@@ -19,7 +19,7 @@ grain_size: unit
 # Collaborative Inquiry
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 10 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public. It differs from traditional research assignments by making inquiry collective and iterative rather than individual and linear. The group's evolving questions and explanations become the main engine of learning.
@@ -55,9 +55,12 @@ The pattern is most useful when the instructional goal is not just finding infor
 
 ### Theory
 #### Supporting
+
 - Social constructivist perspectives — learning strengthens through dialogue and co-construction of understanding.
 - Inquiry-oriented perspectives — knowledge grows through questioning, investigation, and revision.
 - Knowledge-building traditions — learners can work as a community to improve ideas rather than only complete tasks.
+- [Research question co-design builds community and moves research closer to practice](../claims/co-design-builds-community-closer-practice.md) [+W]
+
 #### Contradicting / Qualifying
 - Inquiry quality depends on structure; not all collaboration is inquiry.
 - Learners often need scaffolds for question quality, evidence use, and synthesis.

@@ -17,7 +17,7 @@ sources:
 # Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Boud and Walker (1998) identified weaknesses in how schools of education applied reflective practice: a "checklist" or "reflection on demand" mentality, reflection processes with no link to conceptual frameworks, failure to encourage students to challenge teaching practices, and personal disclosure demands beyond some young teachers' capacity. The digest reports their suggestion "that these weaknesses can be addressed when the teacher-coaches create an environment of trust and build a context for reflection unique to every learning situation."
@@ -44,6 +44,7 @@ Boud and Walker (1998) identified weaknesses in how schools of education applied
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](../claims/teacher-educator-coaching-reflective-practice-methods.md) [+W]
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+W]
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](../claims/reflective-practice-deeper-understanding-effectiveness.md) [+W]
+- [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](../claims/personalized-coaching-coherence-fit.md) [+W]
 
 ## Related Principles
 

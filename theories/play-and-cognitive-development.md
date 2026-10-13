@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -45,6 +45,9 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - Social-emotional: negotiation, turn-taking, perspective-taking, self-regulation, persistence, adaptability
 
 ## Claims
+
+- [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](../claims/block-play-complexity-predicts-later-math-achievement.md) [+W]
+- [Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five](../claims/toy-structure-little-difference-fantasy-predisposition.md) [~W]
 
 ## Related Theories
 

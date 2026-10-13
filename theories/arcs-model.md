@@ -12,7 +12,7 @@ generated:
 # ARCS Model of Motivational Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons (Park, 2018).
@@ -56,6 +56,8 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [Self-Determination Theory](self-determination-theory.md) [+M] — Relevance and Confidence both draw on SDT's autonomy and competence needs
 
 ## Claims
+
+- [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](../claims/arcs-strongest-correlations-intention-use.md) [+W]
 
 ## Related Theories
 

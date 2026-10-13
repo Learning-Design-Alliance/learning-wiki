@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (7 for) · 6 studies (4 quant-synthesis, 2 review), `q2`–`q3` · 2 of 6 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (4 quant-synthesis, 2 review), `q2`–`q3` · 2 of 6 report an effect size · 5 claims rest on one study
 
 ## Description
 The review argues that intentional instruction and incidental exposure should complement each other: initial intentional learning builds the lexical knowledge that later incidental acquisition depends on, and gloss or task strategies blend both modes. The review states that "a combination of intentional and incidental learning could definitely solve some issues that come from an only-incidental learning point of view and would enhance L2 learners' vocabulary learning experience."
@@ -46,6 +46,7 @@ The review argues that intentional instruction and incidental exposure should co
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](../claims/intentional-beats-incidental-vocabulary-gains.md) [+M]
 - [Incidental Vocabulary Exposure Limited](../claims/incidental-vocabulary-exposure-limited.md) [+M]
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
+- [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](../claims/incidental-vocabulary-learning-through-reading-for-meaning.md) [~M]
 
 ## Related Principles
 - 

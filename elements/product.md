@@ -13,7 +13,7 @@ generated:
 # Product
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 11 studies (4 theoretical, 3 quant-synthesis, 2 review, 2 design), `q1`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 A product is the concrete output of learning — an essay, prototype, solution, presentation, or performance — that makes learner competence visible and assessable. It functions as both the goal that organizes instruction and the evidence from which learning is evaluated. In task-centered designs, the product is what distinguishes completing a learning task from merely engaging with content.
@@ -53,7 +53,10 @@ Defining the product up front gives learners a clear performance goal and gives 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Research suggests student work is the most powerful artifact of mastery for Deeper Learning](../claims/student-work-most-powerful-artifact-of-mastery.md) [+W]
+- [Observable output alone is insufficient evidence of learning when generative AI can produce sophisticated work without underlying cognitive change](../claims/behavioral-equivalence-problem-generative-ai.md) [-W]
+- [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](../claims/proposition-1-ownership-predicts-transfer.md) [~W]
+- [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](../claims/visual-media-assessments-not-passable-by-chatgpt.md) [~W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the product is the primary evidence assessment evaluates

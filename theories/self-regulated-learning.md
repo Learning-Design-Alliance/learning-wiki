@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 20 studies (8 associational, 6 causal, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 6 of 20 report an effect size · 15 claims rest on one study
+> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 30 studies (12 associational, 8 causal, 3 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 25 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -70,6 +70,17 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback, with no effect on feedback regulation](../claims/socratic-feedback-comprehension-monitoring-task-orientation.md) [~M] — attached 2026-10-12 from Han Xue et al. (2026), which proposed "Multidimensional framework for examining AI-generated feedback in self-directed learning".
 - [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](../claims/genai-qualitative-shift-requires-meta-level-interventions.md) [+W] — attached 2026-10-12 from Linus Brunnström et al. (2026), which proposed "AI-interaction literacy: the capacity to steer, evaluate, and learn from iterative GenAI interaction".
 - [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](../claims/dual-mediation-ai-efficacy-srl-opposite-patterns.md) [~W] — attached 2026-10-12 from Liu Xu et al. (2026), which proposed "Dual-drive dual-mediation model of AI support and pre-service teachers' innovative competence".
+- [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](../claims/asr-feedback-and-reflection-tasks-reflective-behavior.md) [~M]
+- [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](../claims/beagle-profile-strategy-differentiation.md) [+W]
+- [Because learner feedback was positively skewed, tutors used automated feedback as a self-monitoring tool for improvement and reassurance](../claims/automated-feedback-self-monitoring-tool.md) [~W]
+- [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](../claims/ena-metacognition-invitations-versus-reasoning.md) [~W]
+- [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](../claims/effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) [~W]
+- [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](../claims/genai-weakens-effort-adjustment-to-incentives.md) [-W]
+- [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](../claims/genai-srl-moderator.md) [+W]
+- [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](../claims/reflective-engagement-predicts-independent-outcomes.md) [+W]
+- [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
+- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](../claims/srl-is-domain-specific-strategy-use-varies-by-subject.md) [~W]
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](../claims/profiles-differ-in-self-regulatory-resources-except-help-seeking.md) [~W]
 
 ## Related Theories
 

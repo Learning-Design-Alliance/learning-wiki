@@ -23,7 +23,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 7 studies (2 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that "talking and writing are a means to learning" (p.50). It argues for an instructional model based on dialogue between student and teacher using speech and writing as instruments for learning, encouraging a collaborative learning environment, constructing a student-centered environment guided and facilitated by the teacher, and emphasizing higher level cognitive skills rather than correction of surface forms.
@@ -60,6 +60,8 @@ The article presents the Bullock Report's basic tenet, adopted by Cummins for mi
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W] — attached 2026-10-07 from Kimberly Miller Linnell (2010), which proposed "Establish meaningful communication first, then layer in focus on form gradually".
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](../claims/el-collaborative-discussion-sociocultural-benefit.md) [+W] — attached 2026-10-09 from Barbara Jones et al. (2024), which proposed "Design regular structured opportunities for academic discourse and use them as a major source of evidence of learning".
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](../claims/chatgpt-teachable-agent-knowledge-gains.md) [+W] — attached 2026-10-10 from Angxuan Chen et al. (2024), which proposed "Use natural-language teaching tasks with ChatGPT agents to promote deeper cognitive processing in learning-by-teaching"; tests this page's relationship.
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](../claims/interactive-genai-dialogue-promotes-engagement.md) [+W]
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)

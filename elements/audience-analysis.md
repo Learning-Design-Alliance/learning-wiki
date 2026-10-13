@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 5 claims (5 for) · 10 studies (5 causal, 2 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -53,7 +53,8 @@ Audience analysis improves learning primarily by aligning instruction with learn
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [+W]
+- [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bridge built from what analysis reveals about prior knowledge to new content

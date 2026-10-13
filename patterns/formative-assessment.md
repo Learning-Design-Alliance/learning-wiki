@@ -170,7 +170,10 @@ This is the article's described classroom pattern for formative assessment in la
 - checking whether reading assignments were done
 
 ### Claims
+
 - [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+M]
+- [GenAI can help students overcome contextual constraints when eliciting feedback](../claims/genai-overcomes-eliciting-constraints.md) [~W]
+- [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](../claims/group-cycle-interactions-formative-outcomes.md) [~M]
 
 ## Related Patterns
 - 

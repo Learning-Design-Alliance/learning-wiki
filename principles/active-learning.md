@@ -22,7 +22,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (4 for, 7 mixed) · 20 studies (6 causal, 5 quant-synthesis, 5 review, 3 associational, 1 theoretical), `q2`–`q4` · 6 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 review, 4 associational, 2 theoretical, 1 design), `q2`–`q4` · 6 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,9 +128,16 @@ The effect size for active learning in STEM is unusually large and consistent fo
 - Active learning still needs structure, modeling, and feedback to be instructionally effective.
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — active tasks are strongest when learners explain, compare, or justify rather than only complete an action
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — prediction and discussion tasks can make errors instructionally valuable when they are surfaced and corrected
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S] — in STEM gateway courses, a uniformly applied active-learning redesign has been shown to disproportionately benefit already-disadvantaged students, narrowing rather than just shifting the overall achievement distribution
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M] — direct observational evidence for why moving from passive lecture toward active formats changes the kind of thinking students actually do in class
 
 -->
+- [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [+W]
+- [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](../claims/active-learning-conditions-more-other-pedagogical-features.md) [~W]
+- [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](../claims/class-size-level-discipline-not-significant-moderators.md) [+W]
+- [Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation](../claims/annotation-more-effective-than-lectures-for-bias.md) [+W]
+- [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](../claims/clicker-participation-and-homework-completion-predict-exam-performance.md) [+W]
+- [Amount of listening time while active was not significantly related to End-of-Unit exam performance](../claims/listening-time-not-significantly-related-to-exam-score.md) [~W]

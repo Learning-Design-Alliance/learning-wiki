@@ -13,7 +13,7 @@ generated:
 # Application of Knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 19 studies (6 causal, 5 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 19 report an effect size · 4 claims rest on one study
 
 ## Description
 Application of Knowledge asks learners to use newly acquired concepts, procedures, or principles to solve real-world problems, analyze case studies, or complete authentic tasks. Rather than ending instruction at recall or explanation, it requires learners to act on content — deciding, diagnosing, designing, or performing — which consolidates understanding and reveals gaps that passive study conceals.
@@ -54,7 +54,8 @@ Application is where learning consolidates: retrieving and using knowledge in va
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 
 ## Related Elements
 - [Hands-on Learning](hands-on-learning.md) — the physical-manipulation form of application

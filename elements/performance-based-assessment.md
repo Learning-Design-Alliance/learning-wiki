@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 review, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -42,7 +42,8 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
+- [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](../claims/visual-media-assessments-not-passable-by-chatgpt.md) [~W]
 
 ## Related Elements
 

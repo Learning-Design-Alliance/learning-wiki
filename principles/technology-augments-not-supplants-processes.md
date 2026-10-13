@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (42 for, 5 mixed, 1 against) · 34 studies (10 qualitative, 8 theoretical, 6 review, 5 causal, 4 design, 1 associational), `q1`–`q4` · 2 of 34 report an effect size · 48 claims rest on one study
+> **Evidence** · 87 claims (59 for, 21 mixed, 7 against) · 67 studies (16 theoretical, 14 qualitative, 13 review, 11 causal, 9 design, 4 associational), `q1`–`q4` · 4 of 67 report an effect size · 87 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -107,6 +107,45 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](../claims/genai-agency-supportive-patterns.md) [+W] — attached 2026-10-12 from Wang Guanhua et al. (2026), which proposed "Embed GenAI pedagogically as scaffolded, augmentation-oriented support rather than replacement-oriented direct-answer use".
 - [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](../claims/genai-agency-mechanism-clusters.md) [+W] — attached 2026-10-12 from Wang Guanhua et al. (2026), which proposed "Embed GenAI pedagogically as scaffolded, augmentation-oriented support rather than replacement-oriented direct-answer use".
 - [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](../claims/ai-partnership-novel-theoretical-empirical-reflection.md) [+W] — attached 2026-10-12 from Dalsgaard et al. (2026), which proposed "Cultivate, do not ban: teach students to use AI as a mediating tool for reflective thought within process-oriented assignments".
+- [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](../claims/ai-automation-reduces-productive-struggle.md) [~W]
+- [AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing](../claims/ai-peer-feedback-higher-cognitive-engagement.md) [~W]
+- [Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks](../claims/ai-reflection-demands-effort-counters-outsourcing.md) [+W]
+- [Design thesis: AI in socio-emotional teacher development is acceptable and potentially valuable when it functions as relational infrastructure rather than a substitutive emotional agent, evaluated through relational densification](../claims/ai-relational-infrastructure-design-thesis.md) [~W]
+- [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](../claims/ai-risks-when-reflective-inquiry-bypassed.md) [+W]
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [~W]
+- [Students in an academic writing course developed a more nuanced understanding of AI's capabilities and limitations, engaging with it as a support tool rather than a substitute for original work](../claims/ai-support-tool-nuanced-understanding-academic-writing.md) [+W]
+- [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](../claims/ai-task-scaffolding-positive-higher-order-outcomes.md) [+W]
+- [Trained teachers position AI as supportive across instructional stages: planning, lesson introduction, implementation, assessment and feedback, and out-of-class learning](../claims/ai-roles-across-instructional-stages.md) [+W]
+- [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](../claims/ai-scaffold-authorship-retained-theme1.md) [+W]
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [~W]
+- [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](../claims/complementary-human-genai-interaction-model.md) [~W]
+- [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](../claims/cognitive-offloading-shifts-to-cognitive-surrender.md) [~W]
+- [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](../claims/efficiency-trap-critical-thinking-decline.md) [-W]
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](../claims/cognitive-offloading-reduces-engagement-critical-thinking.md) [+W]
+- [LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs](../claims/gai-scaffolding-reconceptualised-epistemic-regulation.md) [~W]
+- [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](../claims/five-ai-misconceptions-for-educators.md) [+W]
+- [Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being](../claims/cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing.md) [-W]
+- [Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress](../claims/genai-augmentation-associated-perceived-learning.md) [+W]
+- [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](../claims/genai-instructional-design-tensions-agency-authorship.md) [~W]
+- [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](../claims/genai-delegation-erodes-epistemic-agency.md) [+W]
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](../claims/interactive-genai-dialogue-promotes-engagement.md) [~W]
+- [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](../claims/genai-higher-order-thinking-mixed.md) [~W]
+- [Human-GenAI pedagogical partnership is positively associated with both cognitive vigilance and cognitive offloading among business students](../claims/genai-partnership-activates-vigilance-and-offloading.md) [~W]
+- [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](../claims/replacement-frame-near-universal-in-essays.md) [-W]
+- [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](../claims/student-validation-of-ai-simulations-promotes-understanding.md) [+W]
+- [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](../claims/pre-instruction-skepticism-llm-learning-impacts.md) [+W]
+- [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](../claims/teacher-concern-overreliance-ai-degrades-skills.md) [+W]
+- [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](../claims/students-offload-critical-thinking-ai-debugging.md) [-W]
+- [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](../claims/llm-cognitive-debt-weakens-critical-thinking.md) [-W]
+- [Learners in agent interaction became locked in lower-order self-transition loops (e.g., Understand z = 49.08, Application z = 51.48) and rarely transitioned spontaneously to higher-order cognition](../claims/lower-order-self-transition-lock.md) [-W]
+- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [~W]
+- [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](../claims/unscaffolded-ai-replaces-self-regulation.md) [+W]
+- [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](../claims/teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) [+W]
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](../claims/vr-reinforcement-not-substitute.md) [+W]
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
+- [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](../claims/withdrawal-condition-ai-instruction-frameworks.md) [~W]
+- [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](../claims/genai-outcomes-differ-by-use-type.md) [+W]
 
 ## Related Principles
 

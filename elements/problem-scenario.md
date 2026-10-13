@@ -19,7 +19,7 @@ sources:
 # Problem Scenario
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies (2 quant-synthesis, 2 review, 2 theoretical, 1 causal, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 11 studies (3 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 A problem scenario places learners inside a structured, realistic situation — a business decision, a patient case, a design brief — that cannot be resolved without applying target knowledge. Unlike a [Case Study](case-study.md), which typically presents how a situation unfolded, a problem scenario is deliberately incomplete: learners must define the problem, gather or request information, and commit to decisions with consequences.
@@ -68,6 +68,8 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
+- [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](../claims/reasoning-llm-outperforms-standard-on-dp-quality.md) [+W]
 
 ## Related Elements
 - [Case Study](case-study.md) — the retrospective sibling; cases show how a situation resolved, while problem scenarios ask learners to resolve it themselves

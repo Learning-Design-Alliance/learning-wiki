@@ -136,6 +136,7 @@ Direct instruction is strongest when learners need a clear model of what success
 - [Constructivism](../theories/constructivism.md) — qualifies that explanation alone is insufficient for deep understanding and that learners still need to actively process, explain, and apply what they are taught
 
 ### Claims
+
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — novice learners benefit when instruction reduces unguided search and makes correct structure visible
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — direct instruction is stronger when teacher support adapts to learner performance rather than following a rigid script alone
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the usefulness of high-guidance instruction drops as learner expertise increases
@@ -147,6 +148,11 @@ Direct instruction is strongest when learners need a clear model of what success
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q3`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
+- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
+- [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
+- [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](../claims/tbi-advantage-larger-under-oet-interaction.md) [~W]
 
 ## Description
 Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.

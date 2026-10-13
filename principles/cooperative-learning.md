@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 14 studies (6 causal, 6 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 6 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (4 for, 6 mixed) · 16 studies (7 quant-synthesis, 6 causal, 1 review, 1 qualitative, 1 design), `q2`–`q4` · 7 of 16 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Cooperative learning is among the most consistently supported instructional appr
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — for novices on complex material, coordination and communication demands add extraneous load; cooperative formats should follow, not precede, initial schema building
 
 ### Claims
+
 - [Cooperative learning improves achievement when groups have positive interdependence and individual accountability.](../claims/cooperative-learning-improves-achievement.md) [+S] — the two defining conditions drive the effect
 - [Cooperative learning outperforms competitive and individualistic structures.](../claims/cooperative-learning-improves-achievement.md) [+S] — meta-analytic advantage across subjects and levels
 - [Cooperative learning without individual accountability produces free-rider effects and reduced learning.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [-M] — group-only rewards invite social loafing
@@ -149,3 +150,5 @@ Cooperative learning is among the most consistently supported instructional appr
 - [Belonging interventions improve outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M] — cooperative structures can support belonging
 
 -->
+- [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](../claims/cooperative-learning-location-moderator.md) [~M]
+- [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](../claims/large-group-size-limited-participation-confidence.md) [~W]

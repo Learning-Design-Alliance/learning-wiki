@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 design, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -37,9 +37,12 @@ In instruction, constructivism is less a single method than a family resemblance
 - Learner agency in explanation, interpretation, and problem solving
 
 ## Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
+- [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]
 
 ## Related Theories
 

@@ -13,7 +13,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 quant-synthesis, 1 causal, 1 qualitative), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (3 quant-synthesis, 2 qualitative, 1 causal), `q2`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
@@ -42,6 +42,7 @@ Group work is the element in which learners work together on a shared task, prod
 - [Well-defined tasks and accessible materials support shared creative influence in group work](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [+W]
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+- [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](../claims/ai-workspaces-equitable-collaborative-problem-solving.md) [+W]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)

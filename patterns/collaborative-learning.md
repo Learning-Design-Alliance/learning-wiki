@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (7 for, 5 mixed) · 12 studies (3 causal, 3 quant-synthesis, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 14 studies (4 quant-synthesis, 3 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -103,6 +103,7 @@ Collaborative learning is the short-form canonical pattern for shared work, disc
 - [Collaboration](../elements/collaboration.md)
 
 ## Claims
+
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](../claims/third-space-distributes-authority-among-students.md) [+M]
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+M]
@@ -110,3 +111,5 @@ Collaborative learning is the short-form canonical pattern for shared work, disc
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+M]
 
 -->
+- [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](../claims/ai-partners-evidence-but-more-work-needed.md) [~W]
+- [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](../claims/large-group-size-limited-participation-confidence.md) [~W]

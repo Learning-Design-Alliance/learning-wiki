@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 18 studies (6 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (7 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,7 +179,10 @@ Error analysis works when mistakes are treated as information rather than only a
 - **Generative Learning** — guessing an answer (even incorrectly) before being told is more effective than passive reading.
 
 ### Claims
+
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — confidently held mistakes can become especially memorable learning opportunities when corrected clearly
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — comparing incorrect and correct examples can deepen conceptual understanding when learners can interpret the contrast
 
 -->
+- [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](../claims/error-versus-mistake-analysis-procedure.md) [+W]
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [+W]

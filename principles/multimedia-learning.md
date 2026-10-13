@@ -156,6 +156,7 @@ Multimedia learning is strongest when multiple representations clarify a concept
 - [Information Processing Theory](../theories/information-processing-theory.md) — multiple channels still compete for limited attention; multimedia succeeds only when design helps learners select and organize relevant information
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — multimedia can help when it organizes information into more meaningful units, but only if the design is coherent
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia environments become stronger when learners are prompted to explain the relationship between representations
@@ -167,6 +168,15 @@ Multimedia learning is strongest when multiple representations clarify a concept
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](../claims/generative-processing-principles-mayer-2008.md) [+W]
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [~W]
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
+- [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](../claims/segmenting-principle-mayer-2008.md) [+W]
+- [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
+- [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
+- [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
+- [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](../claims/treatment-science-pretest-independent-effects.md) [~W]
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 
 ## Description
 The article concludes that relevant visual information such as diagrams in texts can improve learning, though not under all instructional conditions: "diagrams fostered students' application of the lesson content relative to text alone only if students read the lesson twice, and not if they answered questions while reading". Visual representations may be beneficial only if students have adequate resources available to process them, so teachers should consider the resource demands of working with visuals.

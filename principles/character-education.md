@@ -23,7 +23,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Character education goes beyond teaching a list of rules ("always tell the truth," "obey the teacher"). Effective programs integrate three components: cognitive understanding of ethical concepts, emotional/caring responsiveness to others, and concrete moral action — recognizing that mature moral behavior requires both conscious reasoning and embodied, intuitive response in the moment a choice actually arises. Programs that work well tend to operate at the schoolwide level, not just within individual classrooms: all staff — teachers, administrators, and support staff alike — orient around positive relationships, with cooperation and mutual care as the explicit theme rather than competition. Discipline in these settings is framed around conflict resolution rather than obedience or punishment, and democratic practices (class meetings where students help set rules and resolve disagreements) are a significant, recurring mechanism rather than an occasional activity.
@@ -67,10 +67,13 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 - [Turiel's Social Domain Theory](../theories/turiels-social-domain-theory.md) — effective programs distinguish genuinely moral concerns (fairness, harm) from conventional classroom norms, rather than treating every rule with equal moral weight
 
 ## Claims
+
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](../claims/service-learning-improves-civic-and-personal-outcomes.md) [+W]
 - [Civic Subject Alone Insufficient](../claims/civic-subject-alone-insufficient.md) [+M]
 - [Moral Knowledge Product Of Moral Inquiry](../claims/moral-knowledge-product-of-moral-inquiry.md) [+W]
 - [Character Education Didacticism Critique Dewey Bridge](../claims/character-education-didacticism-critique-dewey-bridge.md) [+W]
+- [Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations](../claims/dewey-virtues-not-fixed-meaning.md) [~W]
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](../claims/reflective-methods-internalized-as-habit.md) [+W]
 
 ## Related Principles
 

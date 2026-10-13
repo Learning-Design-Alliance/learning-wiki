@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -72,6 +72,10 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Situated Learning](../theories/situated-learning.md) — outcome-tagged resource use is a thin proxy for participation in a practice, and improving the proxy is not the same as improving the learning
 
 ### Claims
+
+- [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](../claims/effortless-ai-use-creates-illusion-of-learning.md) [+W]
+- [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](../claims/process-tracing-measures-for-learning.md) [+W]
+
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative
 - [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S] — the assessment data the loop runs on has to be worth acting on for learners first, or the design signal is built on an instrument nobody should trust

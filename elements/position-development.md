@@ -13,7 +13,7 @@ generated:
 # Position Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 design), `q1`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Position development asks learners to form, articulate, and defend a stance on a genuinely contested issue, then refine that stance in response to evidence and counterargument. The stance is treated as provisional: the learning happens in the cycle of claiming, justifying, and revising rather than in arriving at a "correct" answer.
@@ -54,7 +54,7 @@ Position development works because it forces learners to retrieve, organize, and
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](../claims/argument-gains-without-llm-support.md) [+W]
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the skill component; position development is argumentation applied to a contested issue the learner owns

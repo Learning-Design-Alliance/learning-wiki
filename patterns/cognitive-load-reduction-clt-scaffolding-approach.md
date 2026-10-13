@@ -27,7 +27,7 @@ grain_size: lesson
 # Cognitive Load Reduction (CLT Scaffolding Approach)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning. In practice, it often combines clear sequencing, worked examples, careful multimedia use, segmentation, and guided practice that fades over time. The aim is not to make learning effortless; it is to prevent avoidable overload so learners can focus on understanding and performance.
@@ -63,9 +63,12 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 ### Theory
 #### Supporting
+
 - Cognitive load theory — instruction should manage intrinsic load and minimize extraneous load.
 - Worked-example traditions — examples can reduce unproductive search for novices.
 - Scaffolding and fading perspectives — support should adapt to current competence and then withdraw.
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+
 #### Contradicting / Qualifying
 - Load reduction is not the only goal; learners still need productive struggle and meaningful performance.
 - Expertise reversal limits the usefulness of novice-oriented supports.
@@ -76,7 +79,9 @@ The pattern is especially useful when material is conceptually dense or when nov
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 #### Contradicting
+
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
+- [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](../claims/ai-intelligent-scaffolding-lowers-knowledge-threshold.md) [~W]
 
 ## Design
 

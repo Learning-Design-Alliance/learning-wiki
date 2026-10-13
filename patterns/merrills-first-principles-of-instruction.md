@@ -24,7 +24,7 @@ grain_size: course
 # Merrill's First Principles of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 10 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
@@ -78,7 +78,9 @@ Its practical strength is that it balances authenticity with structured support.
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
+
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
 
 ## Design
 

@@ -17,7 +17,7 @@ sources:
 # Preschool curricula should include executive function (and theory of mind) training to foster language development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that preschool institutions modernize curricula to include activities fostering executive functions and theory of mind, because both relate to semantic fluency, which predicts later school success. It states "it is of utmost importance to offer different curricula in preschool institutions that would take into consideration the importance of EF and TOM", citing curricula such as Tools of the Mind and Reflection Training as examples shown to improve EF.
@@ -37,9 +37,11 @@ The article recommends that preschool institutions modernize curricula to includ
 - language development, specifically semantic fluency and later academic skills
 
 ### Claims
+
 - [Ef Significant Effect Semantic Fluency Preschool](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
 - [Pass Both Ef Tom Higher Semantic Fluency](../claims/pass-both-ef-tom-higher-semantic-fluency.md) [+M]
 - [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~M]
+- [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
 
 ## Related Principles
 - 

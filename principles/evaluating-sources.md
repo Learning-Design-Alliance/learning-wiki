@@ -181,10 +181,12 @@ Evaluating sources improves learning when learners move beyond surface cues and 
 - Learners need active comparison and justification, not only exposure to misinformation examples
 
 ### Claims
+
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — source evaluation improves when learners explain why a source is or is not trustworthy
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need explicit evaluation routines rather than only being told to “use credible sources”
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — instructor coaching improves learners’ source judgments when prompts respond to the actual weakness in their reasoning
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — evaluation improves when credibility criteria and evidence expectations are explicit
+- [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](../claims/persistent-incorrect-trust-cue-beliefs.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality

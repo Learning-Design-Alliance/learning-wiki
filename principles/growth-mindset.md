@@ -26,7 +26,7 @@ sources:
 # Growth Mindset
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (5 for, 2 against) · 11 studies (4 causal, 4 review, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 12 studies (5 review, 4 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 1 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Growth mindset is the belief that intellectual and performance abilities are malleable and can be developed through effort, effective strategies, and help-seeking. As a design principle, it recommends (a) explicitly teaching learners about the malleability of ability and how the brain changes with learning, and (b) aligning feedback, task design, and grading practices so that effort, strategy use, and progress — not innate talent — are what get noticed and rewarded.
@@ -102,6 +102,8 @@ Mindset interventions are best understood as small motivational levers, not stan
 - [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](../claims/reading-failure-fixed-ability-attribution.md) [-W]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — challenge supports growth only when expectations are clear enough to orient effort and progress
+- [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](../claims/growth-mindset-interventions-conditional-teacher-context.md) [~W]
+- [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](../claims/peer-norms-sustain-mindset-gpa-effects.md) [~M]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — formative assessment frames errors as information, the structural condition under which growth framing works

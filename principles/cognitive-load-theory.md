@@ -118,6 +118,7 @@ Cognitive Load Theory implies that performance problems are often design problem
 - Load management should support meaningful learning, not strip away all challenge.
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — design choices that organize information and reduce unnecessary search help preserve working-memory capacity
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — guidance calibrated for novices can lose value or become burdensome as expertise increases
 -->
@@ -128,6 +129,10 @@ Cognitive Load Theory implies that performance problems are often design problem
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+- [How commonly the increased efficiency effect is present in test data is unclear](../claims/increased-efficiency-prevalence-unclear.md) [~W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only](../claims/descriptive-process-estimates-support-layers.md) [~W]
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
 
 ## Description
 Drawing on the negative extraneous-germane correlation, the authors state that "in order to increase learners’ efforts to learn (germane cognitive load), the educators must improve the design of instructional materials to lower the extraneous cognitive load", for example by removing redundancy or split-attention content. They also suggest interest may be used as a proxy for germane load.

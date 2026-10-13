@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 13 studies (6 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 17 studies (7 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 17 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,9 +182,14 @@ Guided practice matters because early application is where misunderstanding beco
 - Guided practice should not replace authentic performance; it should prepare learners for it.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] — guided practice works best when support responds to the learner’s actual error pattern and current need
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — guidance should narrow as competence grows so practice leads toward independent performance
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S] — guided practice is especially effective when learners move from modeled examples into closely related attempts
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — prolonged high guidance can become redundant once learners no longer need the same level of support
 
 -->
+- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt-access-supported-practice-poorer-unaided-test.md) [~W]
+- [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [~W]
+- [Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling](../claims/support-form-differentiates-engagement.md) [~W]

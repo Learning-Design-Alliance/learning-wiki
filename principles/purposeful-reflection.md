@@ -29,7 +29,7 @@ sources:
 # Purposeful Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 6 claims (2 for, 4 mixed) · 11 studies (3 causal, 3 theoretical, 2 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next. The key distinction is intention: reflection is tied to a learning goal, experience, product, or decision rather than being a generic request to "think about it." Well-designed reflection helps learners consolidate meaning, monitor progress, and connect present learning to future action.
@@ -73,9 +73,13 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 - Reflection should complement, not replace, direct practice, feedback, and explicit instruction.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is strongest when it helps learners evaluate progress and choose a better next move
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — putting reasoning into words can deepen understanding of what happened and why
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — beginners usually reflect better when prompts focus on process, cues, and next actions
+- [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](../claims/constructive-conflict-guidance-increases-reconsideration.md) [~W]
+- [Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+- [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling is one common routine for structured reflection over time.

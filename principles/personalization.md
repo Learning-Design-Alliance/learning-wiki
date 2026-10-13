@@ -23,7 +23,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 3 mixed, 1 unmarked) · 17 studies (6 causal, 5 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 23 claims (13 for, 7 mixed, 2 against, 1 unmarked) · 30 studies (9 causal, 8 review, 4 theoretical, 3 qualitative, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 30 report an effect size · 19 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.
@@ -88,6 +88,20 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](../claims/heterogeneous-competency-benefits-individualized-education.md) [~W] — attached 2026-10-08 from John Deke (2006), which proposed "Individualize competency development rather than applying a one-size-fits-all approach".
 - [Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting](../claims/thinking-reward-effective-only-with-adaptive-prompting.md) [+W] — attached 2026-10-11 from Unggi Lee et al. (2026), which proposed "Calibrate both the amount and the style of tutor support to the learner: support level from baseline accuracy, style from disability-specific access needs"; tests this page's relationship.
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](../claims/expertise-reversal-prior-knowledge-interaction.md) [+W] — attached 2026-10-13 from Kalyuga (2007), which proposed "Instruction should be tailored to the learner's level of prior knowledge or expertise".
+- [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](../claims/courseware-bridges-learning-gaps-gateway-math.md) [+W]
+- [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](../claims/adult-learner-groups-more-heterogeneous.md) [+W]
+- [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
+- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](../claims/dda-adaptation-direction-determines-outcomes.md) [~W]
+- [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](../claims/personalized-paths-lower-cognitive-load.md) [+W]
+- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](../claims/personalized-paths-experiment-outcomes.md) [+S]
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+W]
+- [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](../claims/one-shot-generation-lowers-adaptivity.md) [~W]
+- [Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model](../claims/emotion-plus-theory-prompting-ablation-gain.md) [~W]
+- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+- [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](../claims/refinement-strategy-trade-offs-in-case-analysis.md) [~W]
+- [Students frequently reported that personalized problem topics did not match their interests](../claims/students-report-topic-mismatch-interests.md) [-W]
+- [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](../claims/specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

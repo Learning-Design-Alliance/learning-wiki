@@ -12,7 +12,7 @@ generated:
 # High-Stakes Testing and Accountability Effects
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 18 claims (1 for, 11 mixed, 5 against, 1 unmarked) · 18 studies (7 associational, 5 review, 3 qualitative, 2 theoretical, 1 causal), `q1`–`q3` · 1 of 18 report an effect size · 18 claims rest on one study
 
 ## Description
 Standardized testing is "high-stakes" when performance carries real consequences — for students (a graduation test required for a diploma, a licensure exam required for a career), or for schools (under the No Child Left Behind Act, or NCLB, failing to reach targeted proficiency levels can trigger reduced funding or restructuring). Accountability, standardized testing, academic content standards, and teacher quality are the four components of the broader Standards-Based Reform movement in U.S. education, dating to the 1980s.
@@ -54,7 +54,25 @@ Standardized testing is "high-stakes" when performance carries real consequences
 - [Assessment for Learning](assessment-for-learning.md) [-M] — high-stakes accountability testing is explicitly assessment *of* learning for external certification, and the pressure it creates can actively distort assessment *for* learning's low-stakes, revision-friendly design goals
 
 ## Claims
+
 - [Effective teachers compound their advantage over consecutive years](../claims/teacher-effectiveness-compounds-over-consecutive-years.md) [+M] — direct evidence for why growth-based accountability measures matter, and why teacher assignment patterns can compound rather than correct disadvantage
+- [Two combined features of state school accountability systems make middle schools more likely than other schools to be identified for TSI because of the performance of their students with disabilities](../claims/accountability-features-combined-make-middle-schools-more-likely-tsi.md) [~W]
+- [Incorporating the ACT into high-stakes accountability has not, by itself, produced instructional practices teaching more high-level skills](../claims/act-accountability-alone-insufficient-for-rigor.md) [~W]
+- [Some CHSRI small schools struggle to align their themes with CPS graduation standards and PSAE content, and accountability pressure is reshaping instruction](../claims/chsri-theme-standards-psae-alignment-difficulty.md) [~W]
+- [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](../claims/excellence-for-all-questionable.md) [-W]
+- [Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test](../claims/disengagement-minimal-impact-school-aggregations.md) [~W]
+- [High-stakes testing without investment did not improve achievement and narrowed instruction](../claims/high-stakes-testing-without-investment-failed.md) [-W]
+- [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](../claims/isat-scores-noncomparable-over-time.md) [~W]
+- [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](../claims/nclb-targets-sanctions-without-capacity-barrier.md) [~W]
+- [NCLB had negative effects on AI/AN education, including declines in Navajo students' standardized test scores of up to 50 percent over three years under scripted English-only programs](../claims/nclb-negative-effects-ai-an-students.md) [~W]
+- [ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut](../claims/non-proficient-els-low-first-grade-access-growth.md) [+W]
+- [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](../claims/pog-assessment-integration-challenges.md) [~W]
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]
+- [Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects](../claims/standardized-tests-partial-information-learning.md) [~W]
+- [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](../claims/sanction-threats-short-run-score-gains-gaming-uncertain.md) [~W]
+- [The 1995 Illinois governance law and test-based accountability measures put Chicago schools, including Annenberg network schools, on notice that survival depended on standardized test score targets](../claims/test-based-accountability-pressured-annenberg-network-schools.md) [~W]
+- [In many NCLB waiver states, performance against improvement and gap-closing goals does not factor into school accountability ratings](../claims/waiver-states-goals-dont-count-in-ratings.md) [-W]
+- [Standardized test data proved too statistically unreliable for determining individual teacher effectiveness, and support for its use is waning](../claims/test-based-teacher-effectiveness-unreliable.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — high-stakes accountability testing under NCLB is predominantly criterion-referenced

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 against) · 19 studies (8 causal, 6 quant-synthesis, 5 review), `q2`–`q4` · 5 of 19 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (6 for, 2 against) · 20 studies (8 causal, 6 quant-synthesis, 5 review, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 2 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -53,7 +53,7 @@ Because working memory is severely limited and attention is selective, instructi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — defines the unit of attention; attention management without chunking has nothing well-sized to point at

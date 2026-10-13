@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -36,7 +36,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

@@ -13,7 +13,7 @@ generated:
 # Self Affirmation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (4 causal, 1 review), `q2`–`q3` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self affirmation is a brief psychological intervention in which learners write or reflect on core personal values — relationships, creativity, family, religion — that are unrelated to the domain under evaluation. Grounded in Steele's (1988) self-affirmation theory, the activity bolsters the self's overall integrity so that threats in a specific domain (a difficult test, a stereotype, critical feedback) are less likely to trigger defensive avoidance. In learning design, it is typically deployed as a short in-class or online writing exercise before high-stakes assessments or at the start of a course.
@@ -58,8 +58,10 @@ Self affirmation works by decoupling self-worth from performance in the threaten
 - None identified — though the threat-dependency of effects qualifies any claim that affirmation improves learning generally
 
 ### Claims
+
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [+M] — values-affirmation interventions improve academic performance for threatened groups
 - [Belonging interventions improve outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — a closely related identity-threat intervention, with the same contingency on threat being present
+- [Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years](../claims/values-affirmation-long-term-benefits-black-students.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks

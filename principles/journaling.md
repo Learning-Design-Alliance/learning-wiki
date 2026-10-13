@@ -202,8 +202,10 @@ Journaling helps when writing is used to inspect thinking rather than just recor
 - Some learners may reflect better through speech, drawing, or other modalities unless journaling is adapted flexibly.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — journals deepen learning when they require learners to explain connections, decisions, or shifts in understanding
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
+- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — journaling is one concrete routine for structured reflection.

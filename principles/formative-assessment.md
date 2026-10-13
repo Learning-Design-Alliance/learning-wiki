@@ -119,7 +119,10 @@ The article argues that student turns in tutoring dialogues, not only tutor turn
 - Understanding student progress and providing more targeted feedback in human and AI tutoring
 
 ### Claims
+
 - [Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [~W]
+- [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](../claims/no-pronunciation-assessment-clt-bangladesh.md) [~W]
+- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

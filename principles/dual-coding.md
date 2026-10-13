@@ -185,7 +185,9 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 - [Cognitive Load Theory](cognitive-load-theory.md)
 
 ### Claims
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — coordinated verbal and visual representations can reduce inferential burden and make structure easier to hold in mind
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](../claims/multiple-representations-aid-understanding-faculty-time.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md)

@@ -26,7 +26,7 @@ sources:
 # Peer Feedback/Peer Review
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 8 claims (4 for, 4 mixed) · 15 studies (4 causal, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
@@ -68,9 +68,15 @@ Peer feedback improves learning when it teaches learners to recognize quality an
 - Anonymous peer review can reduce some social friction, but it can also reduce accountability or relational learning depending on the context.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — peer review helps recipients and reviewers monitor quality and identify concrete next steps
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer feedback improves when the process includes modeled prompts, protocols, and responsive support
+- [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](../claims/ai-and-peer-feedback-complementary.md) [~W]
+- [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](../claims/business-writing-students-value-ai-feedback-but-find-it-general.md) [+W]
+- [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](../claims/counter-endorse-pronounce-subcategory-patterns.md) [~W]
+- [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](../claims/ai-revisions-most-appraisal-resources.md) [+W]
+- [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](../claims/feedback-focus-shift-across-tasks.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — peer review is a more criteria-driven form of peer discussion centered on improvement.

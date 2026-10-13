@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies (4 causal, 3 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 design), `q2`–`q4` · 1 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 15 studies (4 causal, 4 qualitative, 3 quant-synthesis, 2 review, 1 associational, 1 design), `q2`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation. Knowledge and utilization of existing informal and formal social networks to raise awareness of local learning opportunities can improve persistence and feelings of Safety. This can have a significant impact on vulnerable populations, especially adults who have been negatively impacted by Adverse Experiences, Socioeconomic Status, language barriers, and physical or cognitive limitations. When it comes to getting a job, networks are especially important to low-skilled workers and immigrants.​
@@ -76,12 +76,15 @@ Expanding social networks matters because access to opportunity is often mediate
 - Network effects can be slow and indirect, so programs should not assume immediate measurable outcomes from a single intervention
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — mentoring and networked support are most useful when people respond to learners’ actual needs rather than offering generic advice
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — networks become more educative when learners explain problems, reasoning, and goals clearly to others
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong networks support independence over time rather than permanent dependency on a single gatekeeper
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — networking support is stronger when learners have clear goals for who they need to meet and why
 - [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](../claims/cop-relationships-combat-aie-director-isolation.md) [+W]
+- [New network nodes were developed through field-based activities such as regional councils and faculty work groups](../claims/new-nodes-developed-through-field-based-activities.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

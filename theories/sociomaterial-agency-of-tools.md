@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 qualitative, 1 causal, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -37,6 +37,8 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 
 - [Material choice, not just instruction, shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+S]
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](../claims/zhimo-revision-meaning-negotiation.md) [+W] — attached 2026-10-12 from Zhaozhe Wang (2025), which proposed "Assemblage and rhizomaticity as posthumanist concepts for AI-mediated literacy".
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](../claims/ai-non-neutral-embeds-power-relations.md) [+W]
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](../claims/interactive-genai-dialogue-promotes-engagement.md) [~W]
 
 ## Related Theories
 - [Constructivism](constructivism.md) — this perspective extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned

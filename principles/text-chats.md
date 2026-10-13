@@ -18,7 +18,7 @@ sources:
 # Text Chats
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 7 studies (2 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies (2 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Text chats use live or near-live written exchange as a learning space for discussion, coordination, questioning, and low-stakes composition. They are useful because they blend social interaction with writing practice: learners have to formulate ideas for an audience, respond to others, and keep pace with an unfolding conversation. In some contexts, chats also lower the participation threshold for learners who are less ready to speak aloud in front of a group.
@@ -62,8 +62,10 @@ Text chats are useful when they create a lower-stakes written channel for learne
 - Chat works best for focused exchange, not for every deep discussion or extended explanation.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — live written exchange can help learners compare their understanding with others and adjust quickly
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — chat discussions often need active prompting and moderation to remain focused and useful
+- [Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)](../claims/itas-question-category-distribution.md) [+W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — text chat is one medium for structured peer exchange.

@@ -12,7 +12,7 @@ generated:
 # First Principles of Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 First Principles of Instruction (Merrill, 2002, 2013) is M. David Merrill's answer to the question "what makes instruction effective, efficient, and engaging?" Reviewing a wide range of existing instructional design theories and models, Merrill argued that despite differing vocabularies and areas of emphasis, they converge on a small common set of principles. He deliberately avoided the term "presentation" in favor of "demonstration," on the grounds that showing (not just telling) is what most instruction is missing.
@@ -52,6 +52,8 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - Presented as a synthesis of convergent principles across many named instructional design theories and models (Merrill, 2002), rather than a wholly new theory
 
 ## Claims
+
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
 
 ## Related Theories
 

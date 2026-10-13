@@ -157,6 +157,7 @@ Scaffolding and fading work because novices often need temporary support to perf
 - **Cognitive Apprenticeship** — utilizes modeling, coaching, and scaffolding/fading as core instructional methods.
 
 ### Claims
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] — support is most effective when it adapts to the learner’s current difficulty instead of staying fixed
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
 - [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [~M] — contingency alone did not predict whether students applied support; timely fading (checking understanding before withdrawing) did
@@ -169,6 +170,12 @@ Scaffolding and fading work because novices often need temporary support to perf
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 3 claims (3 unmarked) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
+- [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-W]
+- [Learners learned most about those principles that were faded](../claims/learners-learn-most-about-faded-principles.md) [+W]
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [~W]
+- [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
+- [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 
 ## Description
 Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.

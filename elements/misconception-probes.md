@@ -13,7 +13,7 @@ generated:
 # Misconception Probes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (3 causal, 3 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.
@@ -53,7 +53,8 @@ Probes work because learners cannot revise a belief they do not realize they hol
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](../claims/tools-should-surface-misconceptions-track-difficulties.md) [+W]
+- [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the complementary move: probes surface faulty structure, organizers supply correct structure

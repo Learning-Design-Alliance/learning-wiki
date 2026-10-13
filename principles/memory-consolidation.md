@@ -192,9 +192,14 @@ Memory consolidation matters because initial understanding is not the same as du
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — retrieval and revisiting still need to be calibrated so that effort supports reactivation rather than overload
 
 ### Claims
+
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — corrected prediction errors can strengthen later retention under the right feedback conditions
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — explanation can help stabilize knowledge by integrating it more deeply
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — better organization can support consolidation by making knowledge easier to encode and later retrieve
+- [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](../claims/ai-practice-improved-writing-skill-persisted-one-day.md) [+W]
+- [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [+W]
+- [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](../claims/vocabulary-forgetting-pattern-decline-then-rise.md) [~W]
+- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [-W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

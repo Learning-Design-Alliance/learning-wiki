@@ -13,7 +13,7 @@ generated:
 # Activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Activation prompts learners to retrieve and make explicit what they already know before encountering new material. It functions as a bridge: existing knowledge structures provide the slots into which new information must be organized, so learning that begins with activation is faster and more coherent than learning that begins cold.
@@ -52,7 +52,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provides relevant subsuming concepts when learners cannot retrieve them independently

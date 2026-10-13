@@ -13,7 +13,7 @@ generated:
 # Makerspace
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A makerspace is "an informal site for creative production in art, science, and engineering where people of all ages blend digital and physical technologies to explore ideas, learn technical skills, and create new products" (Sheridan et al., 2014, as cited in Dousay, 2017). Makerspaces sit at the intersection of [Constructivism](../theories/constructivism.md) (learning through social interaction, at the learner's own pace) and constructionism (Papert & Harel) — the idea that learning is strengthened specifically by making a tangible artifact.
@@ -49,7 +49,7 @@ Learning in a makerspace is driven by a learner-centered, self-regulated dynamic
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Maker learning implementation clusters into five common areas, with an emerging balance between dedicated makerspaces and classroom making](../claims/five-maker-implementation-areas-makerspace-classroom-balance.md) [~W]
 
 ## Related Elements
 - [Simulations](simulation.md)

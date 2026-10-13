@@ -203,9 +203,11 @@ Developing cultural awareness improves instruction when it changes how educators
 - Awareness alone is insufficient if it is not paired with changes to interaction, materials, and instructional decision-making.
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — instructors improve cultural awareness when they monitor recurring patterns in their own interpretation and practice
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — awareness becomes instructionally meaningful when it changes how support is calibrated for real learners
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
+- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](../claims/suspension-disparities-reflect-policies-and-adult-biases.md) [+W]
 
 ## Related Principles
 

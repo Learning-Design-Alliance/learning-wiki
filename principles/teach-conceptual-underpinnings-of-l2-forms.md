@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (3 theoretical, 1 associational), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The article argues that learner difficulties such as avoidance and overgeneralization "are consequences that are not successfully remedied by only placing attention to the structural aspects of forms in the L2 classroom or by teaching units formulaically". Instead, CL proposes more focus on the conceptual underpinnings of language use, since patterns of use may differ from learners' L1s in subtle ways learners never identify on their own. Explicit instruction is proposed as the route to mastering appropriate L2 contexts.
@@ -40,6 +40,8 @@ The article argues that learner difficulties such as avoidance and overgeneraliz
 - [Cl Core Sense Preposition Instruction Improves Use](../claims/cl-core-sense-preposition-instruction-improves-use.md) [+M]
 - [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](../claims/conceptual-deviation-awareness-guides-teacher-attention.md) [+W]
 - [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](../claims/error-analysis-limitations.md) [+W]
+- [Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible](../claims/language-entails-conceptually-different-world.md) [~W]
+- [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](../claims/thai-overuse-because-l1-influence.md) [+W]
 
 ## Related Principles
 - 

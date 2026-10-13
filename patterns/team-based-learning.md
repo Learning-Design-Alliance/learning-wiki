@@ -148,9 +148,11 @@ Unit and course — the readiness assurance cycle repeats per unit, and team for
 
 ### Theory
 #### Supporting
+
 - [Social Learning Theory](../theories/social-learning-theory.md) — team discussion exposes students to peers' reasoning, making diverse problem-solving approaches observable and imitable
 - [Self-Determination Theory](../theories/self-determination-theory.md) — permanent teams build relatedness; appeals and team autonomy support competence and autonomy needs [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — moving first exposure to pre-class reading reserves limited class time for application, where collaborative processing distributes load across team members
+- [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](../claims/weekly-tests-ranked-accountability.md) [+W]
 
 #### Contradicting / Qualifying
 - [Constructivism](../theories/constructivism.md) — TBL is highly structured and instructor-scripted; pure discovery-oriented constructivists would critique its fixed sequence, though the structure is precisely what prevents unproductive group work
@@ -162,7 +164,12 @@ Unit and course — the readiness assurance cycle repeats per unit, and team for
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — permanent teams build the peer connectedness that supports persistence
 
 #### Contradicting
+
 - None identified — though meta-analytic evidence shows effects depend on faithful implementation of the full sequence, not just team grouping [~M]
+- [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](../claims/low-stress-tbl-higher-perceived-effectiveness.md) [~W]
+- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [~W]
+- [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](../claims/rat-section-difference-same-trend.md) [~W]
+- [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](../claims/tbl-team-dynamics-no-format-differences.md) [~W]
 
 ## Design
 

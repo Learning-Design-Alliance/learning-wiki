@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 quant-synthesis, 1 causal, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 8 studies (3 quant-synthesis, 2 design, 1 causal, 1 review, 1 qualitative), `q1`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -41,6 +41,7 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [+W]
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](../claims/amsti-inquiry-science-higher-reading-achievement.md) [+W]
 
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)

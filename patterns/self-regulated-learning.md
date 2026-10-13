@@ -117,10 +117,16 @@ Self-Regulated Learning is the pattern-level target for designs that explicitly 
 
 ### Theory
 #### Supporting
+
 - [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](../claims/agentic-srl-coaching-rct-86-significant-strategy-gain.md) [+W]
 
 ### Claims
+
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
+- [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
+- [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
 
 ## Design
 

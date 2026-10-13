@@ -187,9 +187,12 @@ The pattern works best when the object being evaluated admits comparison and jus
 
 ### Theory
 #### Supporting
+
 - Social constructivist perspectives — evaluative understanding deepens through comparison and dialogue.
 - Formative assessment perspectives — using criteria collaboratively helps learners internalize standards of quality.
 - Reflective judgment perspectives — learners improve by defending and revising claims in response to alternatives.
+- [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
+
 #### Contradicting / Qualifying
 - Collaboration does not guarantee quality; the value comes from evidence-based reasoning, not simply group discussion.
 - Consensus should not erase minority interpretations when disagreement is instructionally valuable.
@@ -200,7 +203,9 @@ The pattern works best when the object being evaluated admits comparison and jus
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
+
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [~W]
 
 ## Design
 

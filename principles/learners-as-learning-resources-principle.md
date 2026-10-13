@@ -18,7 +18,7 @@ sources:
 # Treat other people and technology as learning resources whose selection and evaluation learners control
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's fifth assumption holds that other learners, teachers, family members, community people, employers, and technology tools are learning resources, and that learners should gain control over selecting and evaluating them. The author notes collaborative learning describes learning with others toward a common goal, but cautions that 'not all learners function well with others,' so each learner should decide if and how others can help.
@@ -40,6 +40,7 @@ The article's fifth assumption holds that other learners, teachers, family membe
 ### Claims
 
 - [GenAI feedback limitations require students to exercise evaluative judgement](../claims/genai-limitations-require-evaluative-judgement.md) [+W] — attached 2026-10-12 from Ying Zhan et al. (2025), which proposed "Orchestrate GenAI feedback with student feedback literacy for positive alignment".
+- [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](../claims/agentic-ai-invalidates-three-ai-literacy-assumptions.md) [-W]
 
 ## Related Principles
 - 

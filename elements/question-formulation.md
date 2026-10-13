@@ -13,7 +13,7 @@ generated:
 # Question Formulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Question Formulation asks learners to generate, refine, and prioritize their own questions about a topic before or during inquiry, rather than responding only to instructor-posed questions. The questions learners produce become the driving agenda for research, discussion, or investigation, positioning them as owners of the inquiry process.
@@ -53,7 +53,9 @@ Generating questions forces learners to surface gaps in their own understanding,
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](../claims/designing-for-learner-agency-dimension.md) [+W]
+- [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](../claims/students-rarely-ask-specific-questions.md) [~W]
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](../claims/question-quality-limited-first-cycle-outcomes.md) [~W]
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the instructor-led counterpart; Socratic sequences can model the question forms learners then generate themselves

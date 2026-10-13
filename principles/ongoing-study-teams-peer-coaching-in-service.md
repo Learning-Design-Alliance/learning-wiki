@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (3 qualitative, 1 causal, 1 review, 1 associational), `q2` · 1 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 9 studies (4 associational, 3 qualitative, 1 causal, 1 review), `q2` · 1 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.
@@ -58,6 +58,9 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](../claims/coaching-culture-increases-teacher-participation.md) [+W] — attached 2026-10-09 from Hardy et al. (2021), which proposed "Foster a non-evaluative culture of coaching in which coaching is framed as continuous improvement, not evaluation".
 - [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](../claims/coaching-dosage-quality-over-quantity.md) [+W] — attached 2026-10-10 from Schachner et al. (2024), which proposed "Effective coaching combines a strong coach-educator partnership, reflection and individualized feedback, focused observations, intentional coaching plans, and job-embedded active learning".
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](../claims/coaching-effective-all-delivery-modes.md) [~W] — attached 2026-10-10 from Schachner et al. (2024), which proposed "Effective coaching combines a strong coach-educator partnership, reflection and individualized feedback, focused observations, intentional coaching plans, and job-embedded active learning".
+- [Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS](../claims/ccss-teacher-collaboration-grade-level-teams-observations.md) [+W]
+- [Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation](../claims/coaching-partnership-voluntary-non-evaluative.md) [~W]
+- [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](../claims/informal-pd-more-satisfying-than-in-service.md) [+W]
 
 ## Related Principles
 

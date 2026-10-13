@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -41,6 +41,9 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - Analyzing the reliability and validity of information; asking key questions; evaluating evidence; reasoning logically and objectively; expressing conclusions clearly; applying these habits across more than one domain
 
 ## Claims
+
+- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](../claims/critical-questions-competency-based-science-assessment.md) [+W]
+- [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](../claims/llm-errors-prompt-validation-cycles-critical-thinking.md) [+W]
 
 ## Related Theories
 
