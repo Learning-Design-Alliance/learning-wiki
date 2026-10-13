@@ -104,8 +104,11 @@ def run(slugs: list, workers: int) -> None:
         settled = cats.pop() if len(cats) == 1 and None not in cats else None
         return {"claim": slug, "category": settled, "votes": votes}
 
+    # Written as each finishes, not in order: one slow call must not hold back every record after it.
     with OUT.open("a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(workers) as ex:
-        for i, rec in enumerate(ex.map(one, todo)):
+        futures = [ex.submit(one, s) for s in todo]
+        for i, fut in enumerate(concurrent.futures.as_completed(futures)):
+            rec = fut.result()
             fh.write(json.dumps(rec) + "\n")
             fh.flush()
             if i % 500 == 0:
