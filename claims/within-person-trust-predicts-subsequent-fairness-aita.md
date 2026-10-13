@@ -45,5 +45,5 @@ Three-wave RI-CLPM of N = 450 undergraduates surveyed at Weeks 0, 4, and 8. All 
 
 ## Related Claims
 - [Within-person reciprocal effects from fairness back to trust are weaker than trust-to-fairness effects, indicating an asymmetric rather than strictly unidirectional pattern](asymmetric-reciprocal-fairness-trust-aita.md) — related
-- [The three trust dimensions (ability, benevolence, integrity) are empirically distinct at the item level in students' responses about AI teaching assistants](three-trust-dimensions-empirically-distinct-aita.md) — related
+- The three trust dimensions (ability, benevolence, integrity) are empirically distinct at the item level in students' responses about AI teaching assistants — related
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](within-person-fairness-mediates-trust-motivation.md) — related

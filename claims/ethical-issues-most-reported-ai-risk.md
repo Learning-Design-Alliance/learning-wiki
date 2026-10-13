@@ -44,7 +44,7 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 
 ## Related Claims
 - [AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies](ai-applications-mostly-affect-learning-process-outcomes.md) — related
-- [ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies](chatgpt-conversational-robots-most-used-ai-tools.md) — related
+- ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies — related
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — a broader claim this one bears on
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
@@ -58,7 +58,7 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — reports the opposite
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
-- [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
+- Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025 — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — a broader claim this one bears on
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

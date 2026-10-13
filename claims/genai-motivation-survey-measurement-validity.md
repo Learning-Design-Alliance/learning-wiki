@@ -46,7 +46,7 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
-- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related
+- Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
 - [A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories](211-educators-survey-50-genai-tools-nine-categories.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

@@ -45,7 +45,7 @@ Bibliometric trend analysis of annual publication counts (Figure 2) over the 201
 ## Related Claims
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — possibly the same claim (merge candidate)
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
-- [Research output on AI and sustainability grew rapidly after 2015, peaking in 2021](ai-sustainability-publications-grew-after-2015.md) — related
-- [GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs](genai-medical-education-evidence-growth-153-reports.md) — related
-- [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
-- [Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015](publication-growth-metacognition-stem-after-2015.md) — related
+- Research output on AI and sustainability grew rapidly after 2015, peaking in 2021 — related
+- GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs — related
+- Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025 — related
+- Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related

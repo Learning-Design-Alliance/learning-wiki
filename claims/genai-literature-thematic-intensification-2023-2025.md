@@ -43,5 +43,5 @@ Sankey diagram of thematic concentrations and temporal patterns across the 2023�
 
 
 ## Related Claims
-- [Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics](four-keyword-clusters-genai-higher-education-literature.md) — related
-- [Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration](three-keyword-clusters-ai-medical-education.md) — related
+- Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics — related
+- Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related

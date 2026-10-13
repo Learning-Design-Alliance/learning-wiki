@@ -43,8 +43,8 @@ Comparison of top-5%-FWCI rates across AI-assisted and human-written groups, wit
 
 
 ## Related Claims
-- [Research teams using AI-assisted writing have a lower average career age than human-written teams](ai-assisted-writing-younger-teams.md) — related
-- [Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications](ai-assisted-writing-smaller-teams.md) — related
+- Research teams using AI-assisted writing have a lower average career age than human-written teams — related
+- Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications — related
 - [Most publications show very low AI usage scores, with higher mean AI usage in PLoS than Nature](low-ai-usage-scores-higher-mean-plos.md) — related
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
 - [AI-assisted teams comprise more junior authors and fewer senior authors](ai-assisted-teams-more-junior-fewer-senior-authors.md) — related

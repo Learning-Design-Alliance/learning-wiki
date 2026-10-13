@@ -43,6 +43,6 @@ Robust meta-regression with HC3 standard errors across the 11-study main synthes
 
 
 ## Related Claims
-- [Risk of bias was not a statistically significant moderator of either productivity or learning effects, though descriptively higher-risk studies reported larger effect sizes.](risk-of-bias-not-significant-moderator.md) — reports the opposite
+- Risk of bias was not a statistically significant moderator of either productivity or learning effects, though descriptively higher-risk studies reported larger effect sizes. — reports the opposite
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — related

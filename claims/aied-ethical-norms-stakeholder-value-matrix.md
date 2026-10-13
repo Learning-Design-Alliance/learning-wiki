@@ -45,4 +45,4 @@ Analysis step of the systematic review in which 15 articles' ethical norms, code
 ## Related Claims
 - [A systematic review identifies six main ethical values of AIED: non-discrimination, data stewardship, human oversight, goodwill, explicability, and educational aptness](six-main-ethical-values-aied.md) — related
 - [Educational aptness is the only main AIED ethical value not overlapping existing general AI ethics frameworks, indicating a need for an education-related value theme](educational-aptness-distinct-aied-value.md) — related
-- [AIED ethics literature rarely integrates ethics into research design: methodology papers and original research make up only 12% of included studies, and K-12 education receives limited attention](aied-ethics-research-design-gaps.md) — related
+- AIED ethics literature rarely integrates ethics into research design: methodology papers and original research make up only 12% of included studies, and K-12 education receives limited attention — related

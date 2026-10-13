@@ -43,6 +43,6 @@ Narrative review section attributing this finding to Alferez-Pastor (2023): teac
 
 
 ## Related Claims
-- [In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%)](competence-frameworks-most-frequent-strategy-digitally-supported-teacher-education.md) — related
+- In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related

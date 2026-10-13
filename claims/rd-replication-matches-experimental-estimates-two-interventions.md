@@ -45,7 +45,7 @@ The report compares RD-based impact estimates with experimental impact estimates
 ## Related Claims
 - [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
-- [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — related
+- The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — related
 - [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](rd-qualification-criteria-forcing-variable.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
@@ -53,7 +53,7 @@ The report compares RD-based impact estimates with experimental impact estimates
 - [Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff](assignment-variable-manipulation-biases-rd-estimates.md) — related
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — related
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
-- [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — a broader claim this one bears on
+- Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — a broader claim this one bears on
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — a broader claim this one bears on
 - [Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision](rd-designs-need-9-to-17-times-rct-sample.md) — related
 - [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related

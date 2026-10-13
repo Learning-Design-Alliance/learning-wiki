@@ -45,4 +45,4 @@ The authors' analysis of draft regulatory language § 600.11, which would automa
 ## Related Claims
 - [More than 35% of accredited colleges graduate fewer than half of their students, yet fewer than 1% ultimately lose accreditation](accredited-colleges-poor-graduation-rates-rarely-sanctioned.md) — related
 - [Accreditors' structural conflict of interest — being composed of and funded by the institutions they accredit — creates incentives to preserve federal aid access rather than sanction](accreditor-conflict-of-interest-funding-institutions.md) — related
-- [ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes](ed-competition-rationale-lacks-empirical-evidence.md) — related
+- ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes — related

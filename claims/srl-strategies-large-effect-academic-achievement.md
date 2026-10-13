@@ -46,8 +46,8 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
 - [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](di-medium-positive-effect-academic-achievement.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
-- [The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs](srl-effect-no-study-design-difference.md) — related
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
+- The pooled effect of self-regulated learning does not differ significantly between empirical and relational study designs — related
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

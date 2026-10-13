@@ -58,7 +58,7 @@ Descriptive analysis of the motivational-outcome subset of the meta-analysis. Th
 
 
 ## Related Claims
-- [Feedback effect estimates are higher in pre-post designs (d = 0.63) than controlled designs (d = 0.42) and in journal articles (d = 0.49) than dissertations (d = 0.36)](feedback-design-and-publication-moderators.md) — related
+- Feedback effect estimates are higher in pre-post designs (d = 0.63) than controlled designs (d = 0.42) and in journal articles (d = 0.49) than dissertations (d = 0.36) — related
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — a broader claim this one bears on
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance](explanatory-feedback-moderates-only-fairness-path.md) — related

@@ -41,5 +41,5 @@ The review's narrative synthesis of 22 primary empirical studies, summarized des
 
 
 ## Related Claims
-- [The evidence base on GenAI and children's creative thinking is dominated by small, short-term, exploratory studies with few controlled comparisons and no longitudinal designs](genai-children-creativity-evidence-base-small-exploratory.md) — related
-- [The review included 24 evidence sources: 22 primary empirical studies and two secondary syntheses used only for contextual interpretation](genai-children-creativity-24-sources-22-primary.md) — related
+- The evidence base on GenAI and children's creative thinking is dominated by small, short-term, exploratory studies with few controlled comparisons and no longitudinal designs — related
+- The review included 24 evidence sources: 22 primary empirical studies and two secondary syntheses used only for contextual interpretation — related

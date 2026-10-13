@@ -43,7 +43,7 @@ The article's own abstract states its scope: it reviews quantitative homeschooli
 
 
 ## Related Claims
-- [Using available homeschooling data carries pitfalls that the research literature must address](homeschooling-data-pitfalls.md) — a narrower finding that bears on this claim
+- Using available homeschooling data carries pitfalls that the research literature must address — a narrower finding that bears on this claim
 - [Rising survey cooperation among homeschooling families may mean pre-2012 NHES estimates undercounted homeschoolers and overstated the growth rate](nhes-response-bias-may-overstate-homeschooling-growth.md) — a narrower finding that bears on this claim
 - [NHES-based estimates of homeschooling grew from 1.4% of U.S. schoolchildren in 1996 to 3.4% (about 1,773,000 children) in 2012](nhes-homeschooling-growth-1-4-to-3-4-percent.md) — a narrower finding that bears on this claim
 - [Children were equally likely to be homeschooled in the elementary, middle, and high school grades](homeschooling-equal-across-grade-levels.md) — a narrower finding that bears on this claim

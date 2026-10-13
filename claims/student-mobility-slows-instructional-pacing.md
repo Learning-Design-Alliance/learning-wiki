@@ -44,5 +44,5 @@ The agenda reports prior research (citing Kerbow) showing mobility harms schools
 
 ## Related Claims
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related
-- [Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves](sparse-research-spillovers-mid-year-entry-stable-classmates.md) — related
+- Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves — related
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — related

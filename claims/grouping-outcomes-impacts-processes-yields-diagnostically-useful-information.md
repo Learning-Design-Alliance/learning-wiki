@@ -46,4 +46,4 @@ The report's framing statement asserts that organizing performance measure data 
 - [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
-- [Psychometric reporting in character education evaluation research is inconsistent: reliability was reported for 62 of 95 scales and validity information was available for only 5 of 36 programs](character-ed-psychometric-reporting-inconsistent.md) — related
+- Psychometric reporting in character education evaluation research is inconsistent: reliability was reported for 62 of 95 scales and validity information was available for only 5 of 36 programs — related

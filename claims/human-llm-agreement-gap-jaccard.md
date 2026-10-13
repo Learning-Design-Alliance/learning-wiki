@@ -78,10 +78,10 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
 - [Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier](low-urgency-rank-agreement.md) — related
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
-- [Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity](jaccard-agreement-multilabel-codebook-052.md) — related
+- Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity — related
 - [Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps](claim-opposing-cosine-similarity-codebook-excerpt.md) — related
 - [An open-source Llama3 model reached substantial agreement with a human coder when sentiment-labeling pre-extracted student reflection quotes](llama3-substantial-kappa-sentiment-labeling-quotes.md) — a narrower finding that bears on this claim
-- [Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus](human-human-screening-agreement-low-coverage-overlap.md) — related
+- Human–human screening agreement on the coverage overlap was low (36/51; Cohen's κ=0.11; PABAK=0.41), and coverage labels do not recode the corpus — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related

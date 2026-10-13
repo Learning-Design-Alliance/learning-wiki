@@ -63,7 +63,7 @@ Baseline imbalance study note: the treatment group scored higher on ScienceQuest
 ## Related Claims
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
 - [Item-level analysis found significant post-intervention improvement on five ScienceQuest items corresponding to the Changing Motion and Classifying Matter playlists](sciencequest-item-level-gains-changing-motion-classifying-matter.md) — related
-- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
+- Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [In a cluster-randomized trial of the virtual Hero Elementary program, treatment students scored higher than control students on a science post-assessment, but the difference was not statistically significant (effect size 0.15)](hero-elementary-virtual-pivot-nonsignificant-achievement-effect.md) — related
 - [The study enrolled 34 second-grade teachers with 810 students across 20 California schools, with 318 students completing both assessments in the impact sample.](hero-elementary-multisite-cluster-randomized-design-34-teachers.md) — related
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related

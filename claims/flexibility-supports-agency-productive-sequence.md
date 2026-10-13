@@ -46,4 +46,4 @@ This is the authors' interpretation regarding ESPB, which has no hard constraint
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](implicit-scaffolding-supports-immediate-exploration.md) — a narrower finding that bears on this claim
 - [A student used slider extremes to make qualitative comparisons of skater mass effects](slider-extremes-support-qualitative-comparisons.md) — a narrower finding that bears on this claim
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
-- [Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects](simulation-explores-model-plausibility.md) — related
+- Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects — related

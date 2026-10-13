@@ -43,5 +43,5 @@ Simulation-and-readiness exercise modelling three higher-education design-studio
 
 
 ## Related Claims
-- [The three-studio architectural-category chart sums to 104 displayed counts, an unexplained five-row discrepancy against the 109-row cognitive total](architectural-chart-104-versus-109-coverage-discrepancy.md) — related
+- The three-studio architectural-category chart sums to 104 displayed counts, an unexplained five-row discrepancy against the 109-row cognitive total — related
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related

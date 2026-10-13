@@ -45,7 +45,7 @@ The report describes its own evaluation design: a large-scale national study com
 ## Related Claims
 - [The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.](math-curricula-relative-effects-disadvantaged-first-second-graders.md) — possibly the same claim (merge candidate)
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — a broader claim this one bears on
-- [A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools.](nonexperimental-comparison-methods-tested-against-charter-rct-benchmark.md) — related
+- A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](three-math-curricula-outperform-fourth-after-two-years.md) — related
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — related
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](ies-math-curricula-evaluation-second-report.md) — related

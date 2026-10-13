@@ -44,11 +44,11 @@ Methodological case study reporting the consolidated output of LLM-human collabo
 
 ## Related Claims
 - [Systematic human coding added five codes the LLM-assisted phases had not surfaced, extending the codebook from 67 to 72 items and 18 to 19 categories](human-coding-added-five-codes-llm-missed.md) — related
-- [Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity](jaccard-agreement-multilabel-codebook-052.md) — related
+- Multi-label intercoder agreement measured by Jaccard similarity reached a mean pairwise 0.52 at item level, with agreement rising at coarser granularity — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — a broader claim this one bears on
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — a broader claim this one bears on
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%)](instructional-practices-largest-domain-36-5-percent.md) — related
-- [Open, axial, and selective coding of student interviews yielded 286 meaning units, 44 initial codes, and 11 axial categories integrated into the four focal constructs](qualitative-four-dimensions-coding-saturation.md) — related
+- Open, axial, and selective coding of student interviews yielded 286 meaning units, 44 initial codes, and 11 axial categories integrated into the four focal constructs — related
 - [Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles](eleven-digital-literacy-element-categories-review.md) — related
 - [Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes](four-ai-practices-eleven-subprocesses-upper-secondary.md) — related

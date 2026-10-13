@@ -43,7 +43,7 @@ The report's concluding assessment, offered as an authors' interpretation rather
 
 
 ## Related Claims
-- [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — a broader claim this one bears on
+- Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — a broader claim this one bears on
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — related
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](rd-qualification-criteria-forcing-variable.md) — related

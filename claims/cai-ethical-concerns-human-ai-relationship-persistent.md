@@ -52,7 +52,7 @@ The review's synthesis of ethical aspects across 34 review articles (RQ3), ident
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — reports the opposite
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
-- [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related
+- Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025 — related
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — related
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related

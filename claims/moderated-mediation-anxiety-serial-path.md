@@ -52,4 +52,4 @@ Index of moderated mediation with Monte Carlo confidence intervals (20,000 draws
 - [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
 - [Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety](indirect-appraisal-paths-dominate-support-anxiety-association.md) — related
-- [The Monte Carlo power analysis indicates limited statistical power for several hypothesised direct and indirect effects](monte-carlo-limited-power-sem-effects.md) — related
+- The Monte Carlo power analysis indicates limited statistical power for several hypothesised direct and indirect effects — related

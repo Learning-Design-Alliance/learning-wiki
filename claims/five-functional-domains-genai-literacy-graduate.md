@@ -42,5 +42,5 @@ Qualitative grounded theory study interviewing 14 professors from Double First-C
 
 ## Related Claims
 - [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related
-- [Coding achieved satisfactory inter-coder reliability and the model reached theoretical saturation](coding-reliability-saturation-genai-literacy-model.md) — related
+- Coding achieved satisfactory inter-coder reliability and the model reached theoretical saturation — related
 - [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related

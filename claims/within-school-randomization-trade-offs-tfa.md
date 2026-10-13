@@ -43,4 +43,4 @@ The article's framing statement: it discusses "the trade-offs associated with st
 
 
 ## Related Claims
-- [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related
+- Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related

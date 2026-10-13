@@ -47,6 +47,6 @@ The review's synthesis characterizes chatbot evidence as "promising" rather than
 
 ## Related Claims
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
-- [Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings](ai-vet-research-asia-clustered-no-workplace-settings.md) — related
+- Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings — related
 - [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](ixr-vet-positive-effects-procedural-motivation.md) — related
-- [The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies](ai-vet-evidence-base-only-five-randomized-studies.md) — related
+- The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — related

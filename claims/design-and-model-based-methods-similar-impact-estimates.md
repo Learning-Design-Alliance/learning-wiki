@@ -46,5 +46,5 @@ Re-analysis of data from nine past education RCTs, estimating impacts with desig
 - [Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance](clustered-rct-estimators-identical-significance-findings.md) — related
 - [Asymptotic properties of design-based estimators using group-level averages match those using individual data](group-level-design-based-estimators-match-individual-data-asymptotically.md) — related
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](cace-variance-formulas-similar-significance-findings.md) — related
-- [Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods](design-model-differences-no-greater-than-model-model.md) — related
+- Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related

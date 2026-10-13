@@ -66,4 +66,4 @@ Paired samples t-test within the lecture-based control group (n = 36), pre-test 
 - [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)](ccct-improved-cooperativeness-attitudes.md) — related
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](ccct-outperformed-lecture-achievement.md) — a broader claim this one bears on
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related
-- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
+- Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related

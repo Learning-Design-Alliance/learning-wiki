@@ -44,7 +44,7 @@ Frequency counts from grounded theory coding of 1,054 student responses. The Out
 
 ## Related Claims
 - [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
-- [Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators](five-dimensions-ai-fatigue-grounded-theory.md) — a broader claim this one bears on
+- Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on
 - [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
 - [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related
 - [First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample](high-support-high-strain-coexistence-first-years.md) — a broader claim this one bears on

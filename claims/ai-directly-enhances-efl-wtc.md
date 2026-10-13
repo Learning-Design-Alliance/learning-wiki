@@ -41,4 +41,4 @@ Thematic synthesis of the 73 included studies groups findings by inferential str
 
 
 ## Related Claims
-- [AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots](ai-wtc-research-rapid-growth-asian-concentration.md) — related
+- AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots — related

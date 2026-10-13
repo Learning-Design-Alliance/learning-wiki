@@ -48,5 +48,5 @@ This is a single-classroom qualitative study without a comparison condition, so 
 - (none yet linked)
 - [In one experiment, refutational text (misbelief stated first, then fact) enhanced free recall relative to traditional text and free and cued recall relative to inverted refutational text, but its reported 14-day recognition advantage was over inverted refutational text only](refutational-text-order-enhances-retention.md) — related
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
-- [Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects](simulation-explores-model-plausibility.md) — related
-- [The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up](simulation-rigor-enforcement-claim-overstated.md) — related
+- Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects — related
+- The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up — related

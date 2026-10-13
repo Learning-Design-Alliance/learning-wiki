@@ -44,6 +44,6 @@ Frequency counts from grounded theory coding. Representative statements include 
 
 ## Related Claims
 - [Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification](cognitive-overload-most-reported-ai-fatigue-dimension.md) — related
-- [Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators](five-dimensions-ai-fatigue-grounded-theory.md) — a broader claim this one bears on
+- Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on
 - [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](guided-ai-use-verification-rules.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related

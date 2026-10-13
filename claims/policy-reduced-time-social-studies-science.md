@@ -46,4 +46,4 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 - [Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder](retention-threat-motivates-students-teacher-beliefs.md) — related
 - [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
 - [Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success](teachers-view-retention-as-beneficial.md) — related
-- [Nearly three-quarters of AI × SEL studies articulate no substantive policy implications](policy-deficit-ai-sel-studies-no-implications.md) — related
+- Nearly three-quarters of AI × SEL studies articulate no substantive policy implications — related

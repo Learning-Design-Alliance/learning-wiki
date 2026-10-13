@@ -45,8 +45,8 @@ Bibliometric analysis of 213 peer-reviewed articles (2015–2024) from the Dimen
 ## Related Claims
 - [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
-- [Co-word analysis of AI-in-business-education research reveals three conceptual trends: technological transformation, integration of generative AI tools, and advancements in educational quality](three-conceptual-trends-ai-business-education.md) — related
+- Co-word analysis of AI-in-business-education research reveals three conceptual trends: technological transformation, integration of generative AI tools, and advancements in educational quality — related
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
-- [Research on AI in instructional design is dominated by perception studies, with fewer evaluative and far fewer tool-development studies, indicating a formative field](ai-id-research-objectives-three-themes-formative.md) — related
-- [Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics](four-keyword-clusters-genai-higher-education-literature.md) — related
+- Research on AI in instructional design is dominated by perception studies, with fewer evaluative and far fewer tool-development studies, indicating a formative field — related
+- Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics — related

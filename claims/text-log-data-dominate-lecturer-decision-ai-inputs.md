@@ -45,4 +45,4 @@ Frequency analysis of seven inductively identified input data types across the 2
 ## Related Claims
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
-- [Log data and gaze data are the most common multimodal data sources in K–8 MMLA research](mmla-k8-log-gaze-most-common.md) — related
+- Log data and gaze data are the most common multimodal data sources in K–8 MMLA research — related

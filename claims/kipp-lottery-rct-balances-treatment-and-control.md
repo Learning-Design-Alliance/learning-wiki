@@ -43,7 +43,7 @@ The report describes its randomized controlled trial design: lottery-offered stu
 
 
 ## Related Claims
-- [Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes](charter-lottery-comparison-rigorous-college-outcome-evidence.md) — possibly the same claim (merge candidate)
+- Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes — possibly the same claim (merge candidate)
 - [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — possibly the same claim (merge candidate)
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related

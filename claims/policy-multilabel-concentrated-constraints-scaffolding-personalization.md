@@ -44,5 +44,5 @@ Qualitative synthesis coding Policy across the 90-system corpus into 12 categori
 
 ## Related Claims
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — related
-- [Educational objects in LLM-based family education research concentrate on language, literacy, and narrative development, with mathematical, scientific, and embodied learning weakly represented](llm-family-education-objects-language-concentration.md) — related
+- Educational objects in LLM-based family education research concentrate on language, literacy, and narrative development, with mathematical, scientific, and embodied learning weakly represented — related
 - [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](dlp-subfield-small-and-fragmented.md) — related

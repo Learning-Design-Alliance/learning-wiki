@@ -45,4 +45,4 @@ Narrative review statement in the brief's universal supports section. It notes t
 ## Related Claims
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
-- [Drawing promising practices from program evaluations and extant character-development studies is challenging](challenge-identifying-practices-from-evaluations.md) — a broader claim this one bears on
+- Drawing promising practices from program evaluations and extant character-development studies is challenging — a broader claim this one bears on

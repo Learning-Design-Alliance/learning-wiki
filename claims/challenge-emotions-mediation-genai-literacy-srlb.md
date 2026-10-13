@@ -51,4 +51,4 @@ Bootstrap serial mediation analysis (5,000 resamples); the indirect path through
 - [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
 - [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](partial-mediation-direct-effect-genai-literacy-srlb.md) — related
 - [GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates](genai-literacy-positive-srlb-special-education-undergraduates.md) — related
-- [GenAI literacy, learning agency, challenge emotions, and SRLB are empirically distinguishable constructs, though the four-factor model's absolute fit was less than optimal](four-construct-distinctiveness-genai-srl-model.md) — related
+- GenAI literacy, learning agency, challenge emotions, and SRLB are empirically distinguishable constructs, though the four-factor model's absolute fit was less than optimal — related

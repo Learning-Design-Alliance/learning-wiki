@@ -44,7 +44,7 @@ Descriptive participant reporting in the Settings and Participants section of th
 
 ## Related Claims
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
-- [A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03)](vcg-baseline-equivalence-assistments-vplc-study.md) — related
+- A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related

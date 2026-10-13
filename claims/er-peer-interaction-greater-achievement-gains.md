@@ -47,7 +47,7 @@ The article reports, citing Manning and Manning (1984), a pretest-posttest study
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](cl-not-magic-wand-for-er-motivation.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
 - [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related
-- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
+- The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](five-rationales-peer-element-er.md) — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related

@@ -43,5 +43,5 @@ The review reports, citing Bosman et al. (2023), that curriculum design tools em
 
 
 ## Related Claims
-- [The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps](ai-math-research-gaps-longitudinal-equity.md) — related
+- The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

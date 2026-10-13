@@ -43,12 +43,12 @@ Theoretical argument in Phase 3 (experimentation and evidence-based inference). 
 
 
 ## Related Claims
-- [Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research](ai-epistemic-dependence-diffuse-accountability.md) — related
+- Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
-- [Existing philosophical accounts of AI in education share a Western architecture presupposing subject-object dualism, individualist epistemic agency, and representational knowledge](western-accounts-subject-object-dualism.md) — related
+- Existing philosophical accounts of AI in education share a Western architecture presupposing subject-object dualism, individualist epistemic agency, and representational knowledge — related
 - [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](llm-redistributed-labor-rules-leave-interpretation-responsibility.md) — a narrower finding that bears on this claim
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related

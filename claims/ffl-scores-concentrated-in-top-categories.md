@@ -65,5 +65,5 @@ The report's summary states that "in both pilot years, variation in scores was l
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-cluster-top-performance-levels.md) — possibly the same claim (merge candidate)
-- [School leaders who scored higher in one FFL category tended to score higher in the other categories](ffl-scores-correlated-across-categories.md) — related
+- School leaders who scored higher in one FFL category tended to score higher in the other categories — related
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related

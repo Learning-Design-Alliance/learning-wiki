@@ -43,5 +43,5 @@ The guide's own systematic search of college access intervention research. More 
 
 
 ## Related Claims
-- [Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations](22-of-130-ost-studies-met-wwc-standards.md) — related
+- Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations — related
 - [The evidence base for summer bridge programs on postsecondary outcomes is small: only one of 31 eligible studies met WWC group design standards](summer-bridge-evidence-base-small-one-study.md) — related

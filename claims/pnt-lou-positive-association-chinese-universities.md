@@ -74,8 +74,8 @@ Explained-variance results for the endogenous constructs in the hypothesised str
 
 
 ## Related Claims
-- [The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency](five-factor-measurement-fit-and-replication.md) — related
+- The five-factor measurement representation (PNT, LOU, ACS, SRL, CT) showed unusually close fit, replicated in a held-out subsample, and the constructs did not collapse into one general tendency — related
 - [The PNT–LOU association remains positive after adjustment for guidance clarity, demographic covariates, institution exclusion, and ordinal estimation](pnt-lou-association-robustness-adjustments.md) — related
 - [The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model](six-path-model-structurally-incomplete-exploratory-pnt-paths.md) — related
 - [Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent](pnt-lou-temporal-direction-not-identified.md) — related
-- [PLS-SEM and CB-SEM estimators converge on the direction and significance of all hypothesised relationships, supporting robustness of the findings](dual-estimator-convergence-genai-model.md) — related
+- PLS-SEM and CB-SEM estimators converge on the direction and significance of all hypothesised relationships, supporting robustness of the findings — related

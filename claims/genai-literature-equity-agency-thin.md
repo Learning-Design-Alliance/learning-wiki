@@ -43,6 +43,6 @@ Systematic review of 67 publications on AI and GenAI literacy (2023–2025), eac
 
 
 ## Related Claims
-- [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — related
+- The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — related
 - [Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation](existing-ai-literacy-frameworks-consumer-model.md) — related
-- [Equity considerations have received the least research attention among GenAI perception areas despite their critical importance](genai-equity-least-researched-global-south.md) — related
+- Equity considerations have received the least research attention among GenAI perception areas despite their critical importance — related

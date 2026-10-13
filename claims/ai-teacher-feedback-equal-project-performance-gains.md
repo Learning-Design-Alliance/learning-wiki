@@ -44,6 +44,6 @@ Quasi-experimental study: 47 student groups (N = 238) randomly assigned to GPT-o
 
 ## Related Claims
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
-- [Randomization produced baseline-equivalent conditions across the four feedback designs](baseline-equivalence-four-feedback-conditions.md) — related
+- Randomization produced baseline-equivalent conditions across the four feedback designs — related
 - [Equivalence analyses indicated practical comparability between GPT-o4-mini and teacher feedback, while DeepSeek R1 demonstrated non-inferiority to teacher feedback](gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback.md) — possibly the same claim (merge candidate)
 - [Students' perceptions of mastery, emotions, and satisfaction were similarly high across all three feedback conditions](student-perceptions-similarly-high-ai-and-teacher-feedback.md) — related

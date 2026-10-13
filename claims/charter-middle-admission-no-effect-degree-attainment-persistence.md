@@ -44,7 +44,7 @@ The same lottery-based study comparing 1,723 lottery winners offered admission w
 
 ## Related Claims
 - [Charter middle schools' success in improving college outcomes was not related to their success in improving middle school achievement](charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) — related
-- [Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes](charter-lottery-comparison-rigorous-college-outcome-evidence.md) — related
+- Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes — related
 - [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
 - [Being admitted to a charter middle school in the National Evaluation of Charter Middle Schools did not affect students' chances of enrolling in or completing college](charter-middle-school-admission-no-college-outcome-effect.md) — possibly the same claim (merge candidate)
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related

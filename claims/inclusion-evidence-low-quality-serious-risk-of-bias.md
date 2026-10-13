@@ -43,7 +43,7 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 
 
 ## Related Claims
-- [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
+- Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes](seven-studies-only-special-education-class-size-review.md) — related
 - [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](risk-of-bias-varies-by-study-design.md) — related
 - [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — related

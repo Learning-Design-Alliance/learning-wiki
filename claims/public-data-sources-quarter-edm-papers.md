@@ -43,6 +43,6 @@ Section 5.3 analysis of data sources in EDM2008/EDM2009 papers versus earlier wo
 
 
 ## Related Claims
-- [Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence](edm-citation-impact-limited-2009.md) — related
+- Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence — related
 - [Modeling frameworks from Item Response Theory, Bayes Nets, and Markov Decision Processes appeared in 28% of EDM2008 and EDM2009 papers after being rare early in the field](psychometric-frameworks-28-percent-edm-papers.md) — related
 - [Discovery with models emerged as the second most common EDM research category by 2008-2009 (19% of papers), after being absent from the 1995-2005 survey](discovery-with-models-emerged-second-category.md) — related

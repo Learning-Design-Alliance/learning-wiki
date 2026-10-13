@@ -44,5 +44,5 @@ Trend analysis in Section 5.2 of framework prominence across EDM's history. The 
 
 ## Related Claims
 - [Discovery with models emerged as the second most common EDM research category by 2008-2009 (19% of papers), after being absent from the 1995-2005 survey](discovery-with-models-emerged-second-category.md) — related
-- [Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence](edm-citation-impact-limited-2009.md) — related
+- Only a handful of EDM articles had achieved more than 50 citations by 2009, indicating considerable scope for growth in the field's scientific influence — related
 - [By 2008-2009 roughly a quarter of EDM conference papers used publicly available data, via the PSLC DataShop (14%) or instrumentation of existing online courses (12%)](public-data-sources-quarter-edm-papers.md) — related

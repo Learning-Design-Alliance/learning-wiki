@@ -43,9 +43,9 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 
 
 ## Related Claims
-- [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related
+- The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
-- [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
+- The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88) — related
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related

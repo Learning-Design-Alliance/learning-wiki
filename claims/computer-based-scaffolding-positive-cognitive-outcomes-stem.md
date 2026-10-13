@@ -45,7 +45,7 @@ Random-effects meta-analysis of 144 experimental studies (333 outcomes) of compu
 ## Related Claims
 - [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect](scaffolding-design-features-no-moderation.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — possibly the same claim (merge candidate)
-- [Study quality moderated estimated effects: quasi-experimental designs yielded higher effect size estimates than random designs, and strong validity reporting was associated with higher estimates](study-design-moderates-scaffolding-effect.md) — related
+- Study quality moderated estimated effects: quasi-experimental designs yielded higher effect size estimates than random designs, and strong validity reporting was associated with higher estimates — related
 - [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](education-population-moderates-scaffolding-effect.md) — related
 - [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](principles-level-assessment-highest-scaffolding-effect.md) — related
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related

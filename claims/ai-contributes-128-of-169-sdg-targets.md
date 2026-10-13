@@ -43,5 +43,5 @@ The review's synthesis stage reports this figure, attributing it to prior resear
 
 
 ## Related Claims
-- [Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework](fragmented-ai-sdg-scholarship-research-gap.md) — related
+- Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — related
 - [Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14](uneven-sdg-attention-sdg9-versus-sdg4-sdg14.md) — related

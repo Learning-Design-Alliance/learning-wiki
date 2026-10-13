@@ -43,4 +43,4 @@ This is the article's own conceptual argument, not an empirical test: the author
 
 
 ## Related Claims
-- [The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign](lack-of-practical-genai-assessment-redesign-literature.md) — related
+- The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign — related

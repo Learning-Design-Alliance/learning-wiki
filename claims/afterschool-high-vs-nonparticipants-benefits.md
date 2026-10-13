@@ -44,4 +44,4 @@ The review reports a comparison-type moderator: "some benefits occurred when par
 
 ## Related Claims
 - [Greater amounts of participation in afterschool programs show little relation to academic, behavioral, or socio-emotional outcomes](afterschool-dose-little-support-outcomes.md) — related
-- [The relationship between afterschool participation and outcomes depends on how participation is conceptualized and measured and on the methodology used](afterschool-participation-measurement-moderates-outcomes.md) — a broader claim this one bears on
+- The relationship between afterschool participation and outcomes depends on how participation is conceptualized and measured and on the methodology used — a broader claim this one bears on

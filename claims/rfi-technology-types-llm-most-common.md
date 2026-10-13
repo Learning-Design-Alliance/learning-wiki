@@ -46,7 +46,7 @@ Descriptive statistics on technology selections across projects (Figure 5, N=666
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
-- [Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems](aied-2025-majority-papers-use-llms.md) — related
+- Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems — related
 - [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
-- [Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research](llm-chatbots-most-common-ai-online-he.md) — related
+- Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research — related

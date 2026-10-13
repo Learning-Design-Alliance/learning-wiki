@@ -44,7 +44,7 @@ Heterogeneity test comparing the Q statistic to the χ2 table with df = n-1; bec
 
 ## Related Claims
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — possibly the same claim (merge candidate)
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — possibly the same claim (merge candidate)
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

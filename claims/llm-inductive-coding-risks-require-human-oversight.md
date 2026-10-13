@@ -107,7 +107,7 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)](expert-review-six-cross-case-themes.md) — related
 - [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — a narrower finding that bears on this claim
 - [During member checks, multilingual 8th-grade students contested both LLM classifications of their talk and the coding scheme itself, especially the Off-task and Claim codes](students-contest-llm-talk-classifications-and-coding-scheme.md) — a narrower finding that bears on this claim
-- [The study's comparative qualitative design yields experiential patterns, not estimates of causal effects or effect sizes](ai-see-non-causal-qualitative-design.md) — related
+- The study's comparative qualitative design yields experiential patterns, not estimates of causal effects or effect sizes — related
 - [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](chatgpt-feedback-hallucination-undermines-trust.md) — a narrower finding that bears on this claim
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — related
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related

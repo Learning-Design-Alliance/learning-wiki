@@ -47,4 +47,4 @@ Within-subjects experiment with 26 pair-programming dyads comparing ProPACT feed
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Proactive multimodal feedback significantly reduces debugging time on task compared to control](propact-feedback-reduces-debugging-time.md) — related
-- [No order effect of condition sequence on any dependent measure in the within-subjects design](propact-no-order-effect-dependent-variables.md) — related
+- No order effect of condition sequence on any dependent measure in the within-subjects design — related

@@ -46,5 +46,5 @@ Systematic review of 89 papers (PRISMA, three databases, 2000–2024) categorizi
 ## Related Claims
 - [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related
 - [Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes](rl-education-effect-sizes-intermediate-large.md) — related
-- [RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24)](rl-education-evaluation-strategy-distribution.md) — related
+- RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related

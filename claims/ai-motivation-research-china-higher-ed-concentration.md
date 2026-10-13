@@ -62,11 +62,11 @@ Charted educational levels of the 156 included studies. The review reports highe
 
 
 ## Related Claims
-- [Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America](genai-children-creativity-research-geographic-concentration.md) — related
-- [Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings](ai-vet-research-asia-clustered-no-workplace-settings.md) — related
-- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
-- [Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors](ai-pl-review-geographic-spread.md) — related
-- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — related
-- [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
-- [General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research](ai-motivation-studies-narrow-constructs.md) — related
+- Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America — related
+- Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings — related
+- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- Research on AI and personalized learning is geographically spread globally, with China and India the leading contributors — related
+- GAI research in education is geographically concentrated in Europe, the United States, and Asia — related
+- Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
+- General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research — related
 - [Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined](ai-motivation-studies-short-duration-novelty-effect.md) — related

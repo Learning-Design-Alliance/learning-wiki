@@ -45,4 +45,4 @@ The review's effect-size analysis (Fig. 9) covers Cohen's d and 95% confidence i
 ## Related Claims
 - [Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications](rl-education-content-adaptation-outnumbers-guidance.md) — related
 - [Among RL-in-education papers testing statistical significance, 18 of 35 report at least one RL policy significantly outperforming all baselines, while over half of all reviewed papers report no statistical analysis](rl-education-significance-18-of-35-outperform.md) — related
-- [RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24)](rl-education-evaluation-strategy-distribution.md) — related
+- RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related

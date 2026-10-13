@@ -46,5 +46,5 @@ Frequency counts from grounded theory coding. Representative statements include 
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators](five-dimensions-ai-fatigue-grounded-theory.md) — a broader claim this one bears on
+- Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related

@@ -43,7 +43,7 @@ Heterogeneity testing of the pooled effect sizes, supported by a Galbraith plot 
 
 
 ## Related Claims
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — a broader claim this one bears on
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — a broader claim this one bears on
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — a broader claim this one bears on
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — a broader claim this one bears on
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — a broader claim this one bears on

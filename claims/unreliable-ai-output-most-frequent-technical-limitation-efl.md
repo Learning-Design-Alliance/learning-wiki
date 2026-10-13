@@ -43,7 +43,7 @@ Qualitative evidence synthesis of 54 Scopus-indexed empirical studies (2021–20
 ## Related Claims
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — related
-- [The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation](co-occurrence-system-performance-cognitive-autonomy-risks.md) — related
+- The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on

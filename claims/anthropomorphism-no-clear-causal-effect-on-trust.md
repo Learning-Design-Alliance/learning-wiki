@@ -62,11 +62,11 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 
 
 ## Related Claims
-- [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — a broader claim this one bears on
+- Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — a broader claim this one bears on
 - [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — reports the opposite
 - [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
-- [Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies](self-report-dominant-trust-measurement.md) — related
+- Self-report remains the dominant trust measurement method in post-2023 AI trust research, used as the sole measure in 72.73% of studies — related
 - [Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability](text-based-interfaces-preferred-for-trust.md) — related
 - [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related

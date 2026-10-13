@@ -45,5 +45,5 @@ Systematic review of outcome measurement across 36 randomly selected character e
 ## Related Claims
 - [Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies](character-ed-most-measured-student-constructs.md) — related
 - [School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed](character-ed-school-climate-most-measured-nonstudent.md) — related
-- [Psychometric reporting in character education evaluation research is inconsistent: reliability was reported for 62 of 95 scales and validity information was available for only 5 of 36 programs](character-ed-psychometric-reporting-inconsistent.md) — related
-- [Nearly half of the 95 scaled measures used in character education program studies were developed for the study under review, with only 32 available off the shelf](character-ed-scales-half-study-developed.md) — related
+- Psychometric reporting in character education evaluation research is inconsistent: reliability was reported for 62 of 95 scales and validity information was available for only 5 of 36 programs — related
+- Nearly half of the 95 scaled measures used in character education program studies were developed for the study under review, with only 32 available off the shelf — related

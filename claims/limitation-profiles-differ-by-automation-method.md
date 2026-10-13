@@ -43,6 +43,6 @@ Supplementary limitation-prevalence analysis (Supplementary Figure S2) by approa
 
 
 ## Related Claims
-- [Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base](automation-shift-toward-llm-software-evidence-altering-stages.md) — related
+- Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base — related
 - [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — a narrower finding that bears on this claim
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related

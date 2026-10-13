@@ -47,4 +47,4 @@ The study determines "the extent to which mid-year entrants' characteristics med
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
 - [Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC](mid-year-entry-small-negative-short-run-effects-stable-students.md) — a broader claim this one bears on
 - [Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure](mid-year-entry-negative-math-effects-persist-beyond-exposure-year.md) — related
-- [Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves](sparse-research-spillovers-mid-year-entry-stable-classmates.md) — related
+- Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves — related

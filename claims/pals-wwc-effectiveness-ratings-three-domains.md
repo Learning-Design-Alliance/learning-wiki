@@ -43,7 +43,7 @@ The report's effectiveness summary synthesizes three studies (2 RCTs meeting sta
 
 
 ## Related Claims
-- [PALS outcomes in reading fluency and general literacy achievement were excluded from the WWC rating because they did not meet baseline equivalence standards](pals-fluency-literacy-outcomes-excluded-baseline-equivalence.md) — related
+- PALS outcomes in reading fluency and general literacy achievement were excluded from the WWC rating because they did not meet baseline equivalence standards — related
 - [Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)](read-naturally-mixed-effects-reading-fluency.md) — related
 - [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — related
 - [Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)](read-naturally-potentially-positive-general-reading-achievement.md) — related

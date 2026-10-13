@@ -42,7 +42,7 @@ The review's synthesis across its representative evidence matrix, which also sta
 
 ## Related Claims
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — a narrower finding that bears on this claim
-- [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — related
+- The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a narrower finding that bears on this claim
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related

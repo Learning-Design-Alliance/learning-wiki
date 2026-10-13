@@ -44,7 +44,7 @@ Synthesis report of the SSI Youth Solutions project papers. The authors state th
 
 ## Related Claims
 - [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
-- [Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges](ssi-youth-solutions-papers-evidence-gaps.md) — related
+- Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - [Identifying SSI youth for outreach is challenging under the current transition system](identifying-ssi-youth-for-outreach-challenging.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related

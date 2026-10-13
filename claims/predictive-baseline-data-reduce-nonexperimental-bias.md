@@ -44,7 +44,7 @@ The study benchmarks nonexperimental regression and propensity score estimators 
 
 ## Related Claims
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
-- [A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools.](nonexperimental-comparison-methods-tested-against-charter-rct-benchmark.md) — a broader claim this one bears on
+- A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — a broader claim this one bears on
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
 - [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related

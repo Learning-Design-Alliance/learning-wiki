@@ -44,4 +44,4 @@ Footnote to the multilevel model of screening assessment data reports these null
 
 ## Related Claims
 - [Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for](demographics-not-independent-reform-predictors.md) — related
-- [The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning](school-mobility-timing-versus-cumulative-design.md) — related
+- The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — related

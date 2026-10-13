@@ -63,14 +63,14 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 
 ## Related Claims
 - [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](bert-generalizes-external-self-affirmation-dataset.md) — a narrower finding that bears on this claim
-- [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
-- [Collaborative learning is the most prominent educational task addressed with NLP in learning analytics research, followed by assessment and feedback](nlp-la-collaborative-learning-most-prominent-task.md) — related
-- [NLP-for-LA research is heavily biased toward English-language texts and small datasets, with almost no open datasets](nlp-la-english-small-dataset-bias.md) — related
-- [Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use](nlp-la-gap-model-development-practical-use.md) — related
+- Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related
+- Collaborative learning is the most prominent educational task addressed with NLP in learning analytics research, followed by assessment and feedback — related
+- NLP-for-LA research is heavily biased toward English-language texts and small datasets, with almost no open datasets — related
+- Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use — related
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
-- [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
+- The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88) — related
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — a narrower finding that bears on this claim
-- [An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome](second-coder-moderate-agreement-kappa-0395.md) — a narrower finding that bears on this claim
+- An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — a narrower finding that bears on this claim
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — a narrower finding that bears on this claim
 - [Benchmarking shows NLP-based automated essay scoring achieves grading times up to 80% faster than human graders while maintaining comparable accuracy](nlp-grading-80-percent-faster-benchmark.md) — related

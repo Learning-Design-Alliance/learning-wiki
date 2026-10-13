@@ -43,5 +43,5 @@ This is the authors' analytical argument about their own proposed metric, not an
 
 
 ## Related Claims
-- [Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized](aied-2025-lack-cost-sustainability-reporting.md) — related
+- Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized — related
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related

@@ -46,5 +46,5 @@ Phenomenological analysis of written reflections from N=49 students in an online
 - [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
 - [Positive perceptions of training and of the technique largely co-occurred across the two themes](positive-interaction-change-co-occurs-positive-technique-attitude.md) — related
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
-- [Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time](monitoring-relies-on-interaction-records-single-point-attitudes.md) — related
+- Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time — related
 - [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related

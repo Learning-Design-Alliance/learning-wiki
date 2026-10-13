@@ -43,5 +43,5 @@ The review's C2 'Relational practices' theme, citing Collie et al. (2015) on SEL
 
 
 ## Related Claims
-- [Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes](three-themes-ai-sec-review.md) — related
+- Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes — related
 - [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related

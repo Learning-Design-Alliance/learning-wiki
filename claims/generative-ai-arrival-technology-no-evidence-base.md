@@ -43,5 +43,5 @@ Theoretical argument, drawing on Reich and Dukes (2025), that AI inverted the ad
 
 
 ## Related Claims
-- [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — a broader claim this one bears on
+- Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact — a broader claim this one bears on
 - [Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches](breakthrough-discontinuity-departs-dominant-approaches.md) — related

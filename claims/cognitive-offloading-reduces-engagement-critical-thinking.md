@@ -71,5 +71,5 @@ The article reports, citing Stadler et al. (2024), a comparison of university st
 - [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](llm-substitution-negative-critical-thinking-correlation.md) — related
 - [Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being](cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
-- [ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI](acm-dl-critical-thinking-ai-growth.md) — related
+- ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI — related
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related

@@ -43,6 +43,6 @@ Descriptive prevalence from the review's evidence map of 421 studies, coded on t
 
 
 ## Related Claims
-- [SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones](set-nlp-expansion-without-technological-substitution.md) — related
+- SET-NLP shows expansion of the methodological repertoire without simple replacement of earlier approaches by newer ones — related
 - [Sentiment analysis is the modal NLP task in SET research (300/421), while diagnostic/generative depth (D4–D5, 28.2%) and formal fairness metrics (1.9%) are rare](set-nlp-sentiment-modal-depth-fairness-rare.md) — related
 - [High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns](llm-agreement-is-consistency-not-accuracy.md) — related

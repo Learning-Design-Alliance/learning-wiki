@@ -43,7 +43,7 @@ Descriptive frequency analysis of primary barriers in the RQ1/RQ2 subset (N = 15
 
 
 ## Related Claims
-- [In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%)](competence-frameworks-most-frequent-strategy-digitally-supported-teacher-education.md) — related
+- In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%) — related
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related

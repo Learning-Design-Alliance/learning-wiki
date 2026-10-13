@@ -65,5 +65,5 @@ Gain-score (posttest minus pretest) Pearson correlation in the same full sample.
 - [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
-- [The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments.](pretest-posttest-correlation-affects-statistical-power.md) — related
+- The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related

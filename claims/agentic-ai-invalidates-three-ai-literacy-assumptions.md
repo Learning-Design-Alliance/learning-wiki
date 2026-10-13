@@ -49,7 +49,7 @@ Theoretical argument in a conceptual paper: the author analyzes how agentic syst
 - [Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty](hope-theories-presuppose-predictability.md) — related
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
-- [Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework](fragmented-ai-sdg-scholarship-research-gap.md) — a broader claim this one bears on
+- Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — a broader claim this one bears on
 - [No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents](agent-operational-competence-measurement-gap.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related

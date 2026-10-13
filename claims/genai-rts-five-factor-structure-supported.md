@@ -43,7 +43,7 @@ Competing-model confirmatory factor analysis in a survey of 382 undergraduates (
 
 
 ## Related Claims
-- [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — a narrower finding that bears on this claim
+- Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — a narrower finding that bears on this claim
 - [Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives](gaa-ls-cfa-model-comparison.md) — possibly the same claim (merge candidate)
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — related
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related

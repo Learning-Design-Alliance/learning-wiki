@@ -47,7 +47,7 @@ Validity analysis of the measurement model in the 533-student sample; Table 7 re
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
-- [Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets](critical-evaluation-dependent-empirically-distinct.md) — related
+- Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — related
 - [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](llm-substitution-negative-critical-thinking-correlation.md) — related
 - [Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being](cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing.md) — related
-- [Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges](critical-thinking-rarely-defined-hci-ai-research.md) — related
+- Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — related

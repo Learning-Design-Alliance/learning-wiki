@@ -43,6 +43,6 @@ Thematic coding of the 49-essay corpus: "Agency surfaced in 43 of 49 essays (88%
 
 
 ## Related Claims
-- [An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome](second-coder-moderate-agreement-kappa-0395.md) — related
+- An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — related
 - [Emotion was the rarest essay theme, raised ambivalently by a minority of students](emotion-rarest-essay-theme.md) — related
 - [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) — related

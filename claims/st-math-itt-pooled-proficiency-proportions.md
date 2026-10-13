@@ -48,4 +48,4 @@ Pooled HLM analyses (Exhibit 3) of adjusted proportions across 926 grades in 544
 - [Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not](st-math-itt-grade2-only-significant.md) — a narrower finding that bears on this claim
 - [Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5](st-math-provided-schools-higher-math-outcomes.md) — related
 - [Implementation fidelity was defined as at least 85 percent student enrollment and at least 50 percent grade-level content coverage in ST Math](st-math-fidelity-definition-85-enrollment-50-coverage.md) — related
-- [Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation](st-math-evaluation-baseline-balance-matching.md) — related
+- Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related

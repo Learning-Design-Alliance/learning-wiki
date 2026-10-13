@@ -65,4 +65,4 @@ QLG early-prediction curves on Pyrenees (Section 5.3.2, Figure 12); the article 
 - [BKT and BKT+SK are the best models for predicting students' post-test scores in tutoring systems with elicit and tell interventions](bkt-best-post-test-prediction-intervention-tutors.md) — related
 - [BKT+SK reliably predicts post-test scores using only the earliest 50% of training sequences](bkt-sk-early-posttest-prediction-50-percent.md) — related
 - [LSTM and LSTM+SK outperform the Bayesian models on predicting quantized learning gains](lstm-best-learning-gain-prediction.md) — related
-- [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
+- Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related

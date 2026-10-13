@@ -44,5 +44,5 @@ Risk of bias assessment of the 18 included RCTs by three reviewers using the ROB
 
 ## Related Claims
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
-- [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
+- Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — related

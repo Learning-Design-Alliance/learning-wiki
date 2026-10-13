@@ -48,5 +48,5 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
-- [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
+- Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — a narrower finding that bears on this claim

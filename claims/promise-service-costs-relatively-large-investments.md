@@ -47,5 +47,5 @@ Cost finding from the national PROMISE evaluation. The authors report that "PROM
 - [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](web-based-ca-instructor-time-burden.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — related
-- [Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges](ssi-youth-solutions-papers-evidence-gaps.md) — related
+- Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related

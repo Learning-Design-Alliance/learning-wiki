@@ -43,9 +43,9 @@ A corpus-level topic-modeling study analyzing 1,048 AIOL publications with BERTo
 
 
 ## Related Claims
-- [AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support](aiol-increasing-multimodal-emotion-personalization.md) — related
-- [AIOL research shows a temporal shift from early traditional AI applications toward machine learning and deep learning approaches](aiol-shift-traditional-ai-to-machine-deep-learning.md) — related
-- [Topic modeling can be used to examine thematic development in emerging research fields](topic-modeling-tracks-thematic-development-emerging-fields.md) — related
+- AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support — related
+- AIOL research shows a temporal shift from early traditional AI applications toward machine learning and deep learning approaches — related
+- Topic modeling can be used to examine thematic development in emerging research fields — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related

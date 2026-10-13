@@ -43,5 +43,5 @@ Correlational analysis across all children in the Greek cross-sectional study, w
 
 
 ## Related Claims
-- [The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation](collaboration-sub-scales-intercorrelated.md) — related
+- The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related
 - [The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated](passage-attributes-intercorrelated.md) — related

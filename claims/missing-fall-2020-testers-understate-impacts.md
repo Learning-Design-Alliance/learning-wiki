@@ -49,5 +49,5 @@ Descriptive finding from the authors' prior analysis of the same NWEA data, repo
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — possibly the same claim (merge candidate)
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
-- [Researchers deployed stopgaps to address missing data caused by COVID disruptions](researcher-stopgaps-missing-covid-data.md) — a broader claim this one bears on
+- Researchers deployed stopgaps to address missing data caused by COVID disruptions — a broader claim this one bears on
 - [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related

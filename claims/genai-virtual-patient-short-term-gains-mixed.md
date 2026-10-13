@@ -65,7 +65,7 @@ The review reports countervailing findings in the same category, including that 
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](genai-collaborative-troubleshooting-varied-by-group.md) — related
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
-- [Evidence clustered at reaction and short-term performance levels: only 13 reports contained follow-up signals and none evaluated patient outcomes](genai-med-ed-evidence-maturity-gap.md) — related
+- Evidence clustered at reaction and short-term performance levels: only 13 reports contained follow-up signals and none evaluated patient outcomes — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — a narrower finding that bears on this claim
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — a narrower finding that bears on this claim
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — a narrower finding that bears on this claim

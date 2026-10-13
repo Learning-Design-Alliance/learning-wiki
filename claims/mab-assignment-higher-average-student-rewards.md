@@ -43,11 +43,11 @@ Simulation results shown in Figure 4 comparing average reward per step for MAB v
 
 
 ## Related Claims
-- [MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes](mab-assignment-reduces-experimental-power.md) — related
+- MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes — related
 - [Over long horizons, MAB assignment places fewer total students in the less effective condition than a shorter uniform experiment followed by committing to one condition](mab-fewer-students-in-worse-condition-long-horizon.md) — related
 - [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](mab-overestimates-effect-sizes.md) — related
 - [MAB assignment increases the Type I (false positive) error rate above the nominal alpha level](mab-assignment-increases-type-i-error-rate.md) — related
-- [Type S errors (significant findings in the wrong direction) are rare under both MAB and uniform assignment](mab-type-s-errors-rare.md) — related
+- Type S errors (significant findings in the wrong direction) are rare under both MAB and uniform assignment — related
 - [An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits](optimistic-prior-mitigates-mab-power-loss.md) — related
 - [A multi-armed bandit controller achieves scoring accuracy comparable to exhaustive grid search while reducing LLM calls by 78.4% and token consumption by 72.8%](mab-prompt-selection-reduces-aes-costs.md) — related
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related

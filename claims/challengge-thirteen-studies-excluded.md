@@ -48,6 +48,6 @@ The WWC review of 14 studies found several ineligible because they "does not use
 - [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
 - [The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards](everyday-mathematics-small-evidence-base-one-qualifying-study.md) — related
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
-- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related
+- The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
 - [The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains](werp-evidence-base-single-study.md) — related
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related

@@ -47,9 +47,9 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage](twitter-discourse-more-practice-oriented-than-policy-media.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
-- [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
-- [ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance](chatgpt-literature-skews-toward-classroom-practice.md) — related
+- Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications — related
+- ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance — related
 - [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related
 - [The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation](entanglement-distribution-reflects-institutional-accommodation.md) — related
-- [AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis](aied-2024-educators-prominent-stakeholders.md) — related
+- AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

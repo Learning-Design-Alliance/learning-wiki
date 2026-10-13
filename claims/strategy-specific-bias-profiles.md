@@ -44,5 +44,5 @@ Bias analysis across the 300 responses (Results section 4.4, Table 5): Fs+CoT to
 
 ## Related Claims
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
-- [Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies](median3r-aggregation-minor-effect-ordering-preserved.md) — related
+- Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related
 - [RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)](rag-systematic-leniency-overscoring.md) — a narrower finding that bears on this claim

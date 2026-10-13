@@ -43,6 +43,6 @@ The authors' comparative synthesis of their Twitter corpus against prior analyse
 
 
 ## Related Claims
-- [Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes](ai-ethics-practice-based-keyword-orientation.md) — related
+- Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related

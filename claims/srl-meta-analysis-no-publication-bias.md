@@ -48,5 +48,5 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — possibly the same claim (merge candidate)
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
-- [Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test](publication-bias-minimal-influence-meta-analysis.md) — related
+- Publication-bias diagnostics suggest minimal influence on the meta-analytic findings, with a borderline Begg's test — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related

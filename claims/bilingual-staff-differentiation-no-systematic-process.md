@@ -50,4 +50,4 @@ Interview study of CSPP coordinators. Bilingual SLPs and school psychologists co
 - [Systems constraints on pre-referral include lack of appropriate observation tools, over-identification fears, and COVID-19 effects](prereferral-constraints-tools-perceptions-covid.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — related
 - [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related
-- [Multidisciplinary team collaboration is the most prominent theme in research on supports for multilingual learners with suspected disabilities](multidisciplinary-collaboration-prominent-theme.md) — related
+- Multidisciplinary team collaboration is the most prominent theme in research on supports for multilingual learners with suspected disabilities — related

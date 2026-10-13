@@ -44,7 +44,7 @@ Comparison of three GPT-4o-mini prompting strategies against teacher mean scores
 
 ## Related Claims
 - [LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies](dimension-specific-scoring-reasoning-strongest-terminology-weakest.md) — related
-- [Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies](median3r-aggregation-minor-effect-ordering-preserved.md) — related
+- Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related
 - [Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)](strategy-specific-bias-profiles.md) — related
 - [Self-Consistency is the most reproducible strategy across repeated runs yet shows weaker agreement with teacher mean scores (ICC (2,1) = 0.537)](sc-repeatable-but-weaker-agreement.md) — related
 - [RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)](rag-systematic-leniency-overscoring.md) — related

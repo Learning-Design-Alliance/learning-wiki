@@ -44,7 +44,7 @@ Narrative synthesis: the review attributes these failure modes to multiple cited
 
 ## Related Claims
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
-- [A structured narrative synthesis of GenAI/AI in STEAM education screened 107 records and included 15 sources in the reviewed corpus](genai-steam-review-15-source-corpus.md) — related
+- A structured narrative synthesis of GenAI/AI in STEAM education screened 107 records and included 15 sources in the reviewed corpus — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — a narrower finding that bears on this claim
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — a narrower finding that bears on this claim
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a narrower finding that bears on this claim

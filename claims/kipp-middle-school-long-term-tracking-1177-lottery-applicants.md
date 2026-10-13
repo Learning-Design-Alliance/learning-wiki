@@ -43,7 +43,7 @@ Report abstract describing the study scope: a long-term tracking study of 1,177 
 
 
 ## Related Claims
-- [Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes](charter-lottery-comparison-rigorous-college-outcome-evidence.md) — a broader claim this one bears on
+- Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes — a broader claim this one bears on
 - [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
 - [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](kipp-tracking-1177-lottery-applicants-13-schools.md) — possibly the same claim (merge candidate)
 - [KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs](kipp-middle-offer-nonsignificant-four-year-enrollment.md) — related

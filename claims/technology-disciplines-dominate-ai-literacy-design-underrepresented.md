@@ -67,4 +67,4 @@ Same disciplinary mapping analysis (Fig. 7). The review reports the Design dimen
 - [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
 - [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related
 - [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — related
-- [Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts](agentic-ai-research-concentrates-higher-education-cs.md) — related
+- Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts — related

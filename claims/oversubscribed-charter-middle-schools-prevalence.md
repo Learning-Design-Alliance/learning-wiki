@@ -43,7 +43,7 @@ The article reports, from the National Evaluation of Charter School Impacts, "ev
 
 
 ## Related Claims
-- [Lottery-based research on schools of choice faces identifiable challenges](lottery-based-research-challenges-schools-of-choice.md) — related
+- Lottery-based research on schools of choice faces identifiable challenges — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related

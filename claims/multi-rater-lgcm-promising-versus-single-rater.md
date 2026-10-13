@@ -45,4 +45,4 @@ The abstract states the model's performance was examined "relative to more crude
 ## Related Claims
 - [Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data](few-models-for-growth-with-multiple-raters.md) — related
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
-- [Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years](typical-longitudinal-survey-scoring-practice.md) — related
+- Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years — related

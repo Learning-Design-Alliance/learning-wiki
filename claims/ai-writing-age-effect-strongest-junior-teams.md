@@ -45,6 +45,6 @@ Quantile regression at the 25th, 50th, and 75th percentiles of team age on post-
 ## Related Claims
 - [AI-assisted teams have a higher probability of producing top-5%-FWCI publications than human-written teams](ai-assisted-teams-higher-top-5-fwci.md) — related
 - [AI-assisted teams comprise more junior authors and fewer senior authors](ai-assisted-teams-more-junior-fewer-senior-authors.md) — related
-- [Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications](ai-assisted-writing-smaller-teams.md) — related
-- [Research teams using AI-assisted writing have a lower average career age than human-written teams](ai-assisted-writing-younger-teams.md) — a broader claim this one bears on
+- Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications — related
+- Research teams using AI-assisted writing have a lower average career age than human-written teams — a broader claim this one bears on
 - [Most publications show very low AI usage scores, with higher mean AI usage in PLoS than Nature](low-ai-usage-scores-higher-mean-plos.md) — related

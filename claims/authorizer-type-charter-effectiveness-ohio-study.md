@@ -43,7 +43,7 @@ The publication abstract describes the study's design: analysis of individual st
 
 
 ## Related Claims
-- [A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools.](nonexperimental-comparison-methods-tested-against-charter-rct-benchmark.md) — related
+- A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
 - [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — related
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related

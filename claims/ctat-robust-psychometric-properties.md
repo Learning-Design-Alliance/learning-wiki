@@ -64,7 +64,7 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 ## Related Claims
 - [College students scored significantly higher on CTAT than vocational school students](college-students-outscore-vocational-on-ctat.md) — related
 - [The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts](aeegs-reliability-cronbach-086.md) — related
-- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related
+- Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related

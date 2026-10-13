@@ -44,7 +44,7 @@ Reliability comparison across the three annotation dyads in the same 42-group da
 
 ## Related Claims
 - [Agent-refined frameworks improved cross-model agreement but remained below the human-refined framework and varied across foundation models](agent-refined-frameworks-below-human-refined.md) — related
-- [Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages](human-annotators-near-perfect-agreement-7point-icap.md) — related
+- Trained human annotators reach near-perfect agreement on the 7-point engagement scale, improving across refinement stages — related
 - [The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation](human-refined-framework-gains-humans-not-llms.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — possibly the same claim (merge candidate)

@@ -44,7 +44,7 @@ Key finding from the 2012/13 pilot ratings of principals and assistant principal
 
 ## Related Claims
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
-- [School leaders who scored higher in one FFL category tended to score higher in the other categories](ffl-scores-correlated-across-categories.md) — possibly the same claim (merge candidate)
+- School leaders who scored higher in one FFL category tended to score higher in the other categories — possibly the same claim (merge candidate)
 - [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-cluster-top-performance-levels.md) — related
 - [The FFL shows good internal consistency across its full scale and its four categories of leadership practices](ffl-good-internal-consistency.md) — related

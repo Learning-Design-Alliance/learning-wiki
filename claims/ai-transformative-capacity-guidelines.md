@@ -44,7 +44,7 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 
 ## Related Claims
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — a narrower finding that bears on this claim
-- [Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes](three-themes-ai-sec-review.md) — possibly the same claim (merge candidate)
+- Thematic analysis of AI and SEC literature yields three AI themes and two SEC themes — possibly the same claim (merge candidate)
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
@@ -53,4 +53,4 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](ai-feedback-tool-supports-feedback-literacy-development.md) — a narrower finding that bears on this claim
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — a narrower finding that bears on this claim
-- [AIED ethics literature rarely integrates ethics into research design: methodology papers and original research make up only 12% of included studies, and K-12 education receives limited attention](aied-ethics-research-design-gaps.md) — related
+- AIED ethics literature rarely integrates ethics into research design: methodology papers and original research make up only 12% of included studies, and K-12 education receives limited attention — related

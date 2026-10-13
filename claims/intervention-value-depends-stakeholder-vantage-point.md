@@ -43,6 +43,6 @@ Interpretive synthesis claim from the report's key findings: the authors state t
 
 
 ## Related Claims
-- [Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges](ssi-youth-solutions-papers-evidence-gaps.md) — related
+- Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - [Identifying SSI youth for outreach is challenging under the current transition system](identifying-ssi-youth-for-outreach-challenging.md) — related

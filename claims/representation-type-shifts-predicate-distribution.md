@@ -63,5 +63,5 @@ Cross-representation comparison of verification-judgement association rates and 
 
 ## Related Claims
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](ai-use-positive-adaptation-associations.md) — related
-- [In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group](genai-abstracts-ai-dominant-actor-providers-invisible.md) — related
+- In GenAI higher-education abstracts, AI is the most frequent named actor and dominates action predicates, while commercial providers are the least visible actor group — related
 - [Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts](students-associated-with-epistemic-predicates.md) — related

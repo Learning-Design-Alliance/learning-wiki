@@ -43,7 +43,7 @@ Analysis of Zhimo's draft revision of a run-on sentence in his argumentative ess
 
 
 ## Related Claims
-- [Of 24 reviewed studies on AI and metacognition in STEM, 23 were human-centred and only one was explicitly posthumanist](23-of-24-ai-metacognition-studies-human-centred.md) — related
+- Of 24 reviewed studies on AI and metacognition in STEM, 23 were human-centred and only one was explicitly posthumanist — related
 - [A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions](posthumanist-literacy-tension-humanistic-assumptions.md) — a broader claim this one bears on
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](task-genre-audience-shape-ai-literacy-approaches.md) — related
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — related

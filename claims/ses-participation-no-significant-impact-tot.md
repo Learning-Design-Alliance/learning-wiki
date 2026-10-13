@@ -45,5 +45,5 @@ Fuzzy RD treatment-on-the-treated analysis accounting for the 14 percent of stud
 ## Related Claims
 - [Offering SES to eligible applicants near the cutoff in oversubscribed districts has no statistically significant impact on reading or math achievement](ses-offer-no-significant-impact-itt.md) — possibly the same claim (merge candidate)
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related
-- [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — related
+- The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — related
 - [Participants in supplemental educational services experienced significant gains in achievement](ses-participants-significant-achievement-gains.md) — reports the opposite

@@ -45,4 +45,4 @@ Review of eligible group design studies under the guide's protocol: intervention
 ## Related Claims
 - [Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact](academic-advising-mixed-college-enrollment.md) — related
 - [The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students](career-pathways-evidence-base-21-studies.md) — related
-- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related
+- The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related

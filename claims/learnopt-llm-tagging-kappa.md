@@ -45,5 +45,5 @@ Reliability check computing Cohen's kappa between qwen2.5:7b and llama-3.1-8b-in
 ## Related Claims
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
-- [An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome](second-coder-moderate-agreement-kappa-0395.md) — related
+- An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — related
 - [Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models](boundary-compliance-drives-safety-divergence-academiclaw.md) — related

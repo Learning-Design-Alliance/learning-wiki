@@ -43,8 +43,8 @@ Case-study member checks with four focal students in one 8th-grade math classroo
 
 
 ## Related Claims
-- [The coding scheme lacked codes for guessing and brainstorming, so students' exploratory solution talk was misclassified as Claim](coding-scheme-missing-guessing-brainstorming-codes.md) — a narrower finding that bears on this claim
-- [Ximena contested three Off-task labels on utterances that referenced math, arguing her math-related frustration and self-talk were on task](off-task-labels-contested-math-related-talk.md) — a narrower finding that bears on this claim
+- The coding scheme lacked codes for guessing and brainstorming, so students' exploratory solution talk was misclassified as Claim — a narrower finding that bears on this claim
+- Ximena contested three Off-task labels on utterances that referenced math, arguing her math-related frustration and self-talk were on task — a narrower finding that bears on this claim
 - [Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships](ethnographic-methods-surface-context-transcripts-omit.md) — related
 - [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
 - [Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding](agreement-quality-divergence-human-consensus-bias.md) — related

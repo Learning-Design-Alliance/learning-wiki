@@ -45,8 +45,8 @@ Theme 1 of the article's thematic analysis of studies in its Tables 2 and 3, an 
 ## Related Claims
 - [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
-- [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — related
+- Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact — related
 - [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
 - [The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation](three-pathways-ai-empowered-stem-education.md) — related
 - [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related
-- [Most published studies of AI agents in higher education concern task-specific tools or single-agent systems, with only about 8% covering agentic multi-agent systems](thematic-analysis-ai-architecture-distribution-higher-education.md) — related
+- Most published studies of AI agents in higher education concern task-specific tools or single-agent systems, with only about 8% covering agentic multi-agent systems — related

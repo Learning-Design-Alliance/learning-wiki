@@ -48,11 +48,11 @@ Reliability assessment of the on-premises Mistral LLM classifications against hu
 - [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](construct-clarity-predicts-coding-agreement.md) — a broader claim this one bears on
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](llm-within-configuration-reliability-high.md) — related
-- [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related
+- The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](educlaw-bench-simulator-calibration.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
-- [An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome](second-coder-moderate-agreement-kappa-0395.md) — related
+- An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [During member checks, multilingual 8th-grade students contested both LLM classifications of their talk and the coding scheme itself, especially the Off-task and Claim codes](students-contest-llm-talk-classifications-and-coding-scheme.md) — related

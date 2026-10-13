@@ -43,8 +43,8 @@ Systematic review (PRISMA) of 197 studies published 2016–2024 on GAI in K-12 e
 
 
 ## Related Claims
-- [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
+- Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023 — related
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
-- [The GAI-in-K-12 literature lacks concrete studies, experiments beyond STEM, and practical examples for daily teaching](gai-literature-gaps-concrete-studies.md) — related
+- The GAI-in-K-12 literature lacks concrete studies, experiments beyond STEM, and practical examples for daily teaching — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related

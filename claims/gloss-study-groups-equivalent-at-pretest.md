@@ -43,9 +43,9 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 
 
 ## Related Claims
-- [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
+- The three treatment groups were equivalent in reading comprehension at pretest — related
 - [The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment](baseline-equality-four-da-age-groups.md) — related
 - [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
-- [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — related
-- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related
+- Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
+- Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related

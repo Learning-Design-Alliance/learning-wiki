@@ -43,8 +43,8 @@ Descriptive temporal analysis of case records found rising co-occurrence of the 
 
 
 ## Related Claims
-- [Assertion-only allegations declined from 7.6% of evidence items in 2023 to approximately 2.5% by 2025](assertion-only-allegations-declined.md) — related
+- Assertion-only allegations declined from 7.6% of evidence items in 2023 to approximately 2.5% by 2025 — related
 - [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
-- [Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues](30-hallucinated-references-14-papers-csed.md) — related
+- Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — related
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
 - [GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload](genai-misconduct-allegations-grew-2023-2025.md) — related

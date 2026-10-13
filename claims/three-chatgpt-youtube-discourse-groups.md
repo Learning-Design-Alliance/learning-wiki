@@ -44,7 +44,7 @@ PRISMA-selected corpus of 52 educational YouTube videos (557 coded chunks) analy
 
 ## Related Claims
 - [Learning-oriented video groups differ significantly from the productivity-oriented group on the primary ENA axis, with large effect sizes](ena-group-differences-large-effects.md) — a narrower finding that bears on this claim
-- [G2 is distinguished from G1 by a strong Pedagogical–Active_Recall co-occurrence that code frequencies alone cannot reveal](ena-pedagogical-active-recall-edge.md) — related
+- G2 is distinguished from G1 by a strong Pedagogical–Active_Recall co-occurrence that code frequencies alone cannot reveal — related
 - [Titles and thumbnails mirror transcript framing: learning-oriented language and imagery dominate G1/G2 while productivity and urgency language dominate G3](multimodal-titles-thumbnails-mirror-framing.md) — related
 - [Productivity-oriented ChatGPT videos achieved platform reach comparable to skill-oriented videos despite weaker learning-oriented framing](productivity-framing-comparable-reach.md) — related
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related

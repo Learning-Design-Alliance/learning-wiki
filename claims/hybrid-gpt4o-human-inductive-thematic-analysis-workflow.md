@@ -77,7 +77,7 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations](artifact-indexing-improves-analytical-retrieval.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
 - [Students most valued code reviews for motivating deeper learning (58 of 94), while their main complaints were TA inconsistency (31 of 92) and scheduling difficulties (20 of 92)](cs1-cr-qualitative-perceptions-themes.md) — related
-- [Topic modeling can be used to examine thematic development in emerging research fields](topic-modeling-tracks-thematic-development-emerging-fields.md) — related
+- Topic modeling can be used to examine thematic development in emerging research fields — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
 - [Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use](experts-judge-ai-plans-applicable-after-correction.md) — related
 - [Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%](hitl-workflow-reduces-human-scoring-workload-50-percent.md) — related

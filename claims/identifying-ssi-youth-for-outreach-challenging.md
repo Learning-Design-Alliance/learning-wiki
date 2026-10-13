@@ -44,7 +44,7 @@ A system-level finding from the national PROMISE evaluation about outreach. The 
 
 ## Related Claims
 - [The intensive case management offered by PROMISE might be difficult to sustain in the current system](promise-intensive-case-management-sustainability-uncertain.md) — related
-- [Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges](ssi-youth-solutions-papers-evidence-gaps.md) — related
+- Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related

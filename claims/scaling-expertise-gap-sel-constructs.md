@@ -43,7 +43,7 @@ The article asserts a gap between assessment-scaling expertise and practice in s
 
 
 ## Related Claims
-- [Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years](typical-longitudinal-survey-scoring-practice.md) — related
+- Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years — related
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](response-style-growth-effects-vary-by-construct-and-model.md) — related
 - [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](response-styles-affect-growth-parameter-estimates.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related

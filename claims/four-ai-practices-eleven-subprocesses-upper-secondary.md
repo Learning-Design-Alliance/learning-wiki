@@ -44,7 +44,7 @@ Qualitative reflexive thematic analysis of eight group interviews with 48 studen
 
 ## Related Claims
 - [AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI](ai-explanation-creation-expanded-not-novel-practices.md) — related
-- [Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics](four-keyword-clusters-genai-higher-education-literature.md) — related
-- [Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration](three-keyword-clusters-ai-medical-education.md) — related
-- [Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes](ai-ethics-practice-based-keyword-orientation.md) — related
+- Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics — related
+- Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
+- Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
 - [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — related

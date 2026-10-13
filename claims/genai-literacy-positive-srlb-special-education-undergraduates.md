@@ -47,7 +47,7 @@ Cross-sectional online survey of 434 special education undergraduates in four Ch
 
 ## Related Claims
 - [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](challenge-emotions-mediation-genai-literacy-srlb.md) — related
-- [GenAI literacy, learning agency, challenge emotions, and SRLB are empirically distinguishable constructs, though the four-factor model's absolute fit was less than optimal](four-construct-distinctiveness-genai-srl-model.md) — related
+- GenAI literacy, learning agency, challenge emotions, and SRLB are empirically distinguishable constructs, though the four-factor model's absolute fit was less than optimal — related
 - [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](partial-mediation-direct-effect-genai-literacy-srlb.md) — possibly the same claim (merge candidate)
 - [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — a narrower finding that bears on this claim
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — a narrower finding that bears on this claim

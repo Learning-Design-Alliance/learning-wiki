@@ -43,5 +43,5 @@ The review's discussion of globality and inclusivity reports that "Of the 23 stu
 
 
 ## Related Claims
-- [Most of the 23 reviewed CA studies for novice programmers relied on subjective usability measures, with only three using objective pre/post-test designs to measure knowledge gains](ca-programming-studies-mostly-subjective-measures.md) — related
+- Most of the 23 reviewed CA studies for novice programmers relied on subjective usability measures, with only three using objective pre/post-test designs to measure knowledge gains — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — a broader claim this one bears on
