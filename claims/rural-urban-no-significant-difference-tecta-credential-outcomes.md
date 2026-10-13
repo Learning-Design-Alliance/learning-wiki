@@ -63,8 +63,8 @@ Cumulative link mixed modeling of highest credential earned among TECTA entrants
 
 ## Related Claims
 - [Black TECTA participants took 7.4 more months on average to earn a CDA after orientation than white participants](black-tecta-participants-longer-cda-completion-time.md) — related
-- TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher — related
-- Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation — related
+- [TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher](tecta-credential-attainment-concentrated-below-bachelors.md) — related
+- [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md) — related
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related

@@ -46,5 +46,5 @@ The article's concluding argument, offered without empirical data: the epistemol
 - [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
-- Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills — related
+- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

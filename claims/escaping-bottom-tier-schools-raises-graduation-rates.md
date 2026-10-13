@@ -44,7 +44,7 @@ IPW analysis of CPS graduation outcomes (top-tier overall n = 48,510; mid-tier n
 
 ## Related Claims
 - [Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage](top-tier-schools-improve-college-outcomes-selective-do-not.md) — related
-- Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school — related
+- [Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school](top-tier-nonselective-schools-raise-act-scores.md) — related
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
@@ -52,7 +52,7 @@ IPW analysis of CPS graduation outcomes (top-tier overall n = 48,510; mid-tier n
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](math-corps-higher-graduation-rates-than-detroit-public-schools.md) — related
-- Undermatch occurs when students attend a college less selective than their high school academic achievement would allow — related
+- [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
 - [Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college](charter-high-schools-higher-college-attendance.md) — related
 - [Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school](charter-high-schools-higher-diploma-completion.md) — related
 - [Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications](college-match-benefits-rise-with-qualifications.md) — related

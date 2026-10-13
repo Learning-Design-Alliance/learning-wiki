@@ -44,6 +44,6 @@ The report attributes this finding to prior research on Idaho's Campus Choice pr
 
 ## Related Claims
 - [Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites](opt-out-advanced-enrollment-raises-access.md) — related
-- Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2% — related
+- [Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2%](illinois-fafsa-policy-mixed-first-year-result.md) — related
 - [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
 - [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — related

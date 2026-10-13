@@ -43,5 +43,5 @@ Exploratory cross-tabulation (visualized as a heatmap in Fig. 1) of regulatory a
 
 
 ## Related Claims
-- Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware) — related
+- [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

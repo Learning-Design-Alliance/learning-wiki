@@ -46,5 +46,5 @@ Survey of education leaders and technology executives (over 300 respondents, 59 
 ## Related Claims
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — related
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
-- Company size did not relate strongly or consistently to provider perceptions of procurement — related
+- [Company size did not relate strongly or consistently to provider perceptions of procurement](company-size-not-related-provider-perceptions.md) — related
 - [Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs](vendor-incentives-average-learner-design.md) — related

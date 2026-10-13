@@ -49,7 +49,7 @@ Exploratory latent profile analysis (BIC-supported five-profile solution) follow
 - [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
-- Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities — related
+- [Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities](self-efficacy-profile-distribution-102-students.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups](profiles-differ-core-self-evaluation-stepwise.md) — related
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](task-difficulty-adaptation-no-learning-benefit-second-grade.md) — related

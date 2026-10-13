@@ -43,5 +43,5 @@ Secondary finding from the same regression models predicting overall and subscor
 
 
 ## Related Claims
-- Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains — related
+- [Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains](chicago-honors-course-gains-due-to-better-prepared-students.md) — related
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related

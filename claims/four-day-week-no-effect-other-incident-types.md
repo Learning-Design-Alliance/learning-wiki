@@ -47,5 +47,5 @@ The Oklahoma difference-in-differences analysis of disciplinary incidents during
 - [Four-day school weeks decrease per-pupil fighting incidents among high school students by approximately 31%](four-day-week-decreases-fighting-incidents.md) — related
 - [Four-day school weeks have no detectable effect on high school attendance](four-day-week-no-effect-attendance.md) — related
 - [Four-day school weeks have no detectable effect on high school students' ACT scores](four-day-week-no-effect-act-scores.md) — related
-- School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year — reports the opposite
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — reports the opposite
 - [Students on the four-day school week have lower English language arts and math test scores over time than peers on five-day schedules](four-day-week-lower-ela-math-scores.md) — related

@@ -46,7 +46,7 @@ Direct-path results from the structural equation model of the 1243-student surve
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](genai-use-negatively-associated-genai-learning-procrastination.md) — related
 - [Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination](tpb-constructs-negatively-associated-genai-procrastination.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
-- Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI — related
+- [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
 - [TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association](tpb-indirect-path-genai-use-procrastination.md) — related

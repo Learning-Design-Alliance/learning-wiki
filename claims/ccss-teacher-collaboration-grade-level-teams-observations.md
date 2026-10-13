@@ -43,6 +43,6 @@ In 2016 teachers, rather than administrators, were asked how often they met in g
 
 
 ## Related Claims
-- Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers — related
-- Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation — related
+- [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
+- [Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation](ccss-teachers-report-fewer-barriers-than-administrators.md) — related
 - [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](ivy-progress-monitoring-tiered-supports.md) — related

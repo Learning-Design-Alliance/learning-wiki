@@ -47,4 +47,4 @@ Descriptive comparison by degree from Table 5 of the February 2025 log data (64,
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
 - [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](syntea-usage-declines-older-cohorts.md) — related
-- Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students — related
+- [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — related

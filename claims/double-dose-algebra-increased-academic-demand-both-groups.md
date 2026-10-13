@@ -73,5 +73,5 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](peer-skill-explains-above-norm-test-gains.md) — related
-- Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences — related
+- [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related

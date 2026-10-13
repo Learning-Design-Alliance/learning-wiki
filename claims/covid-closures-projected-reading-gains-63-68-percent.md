@@ -47,8 +47,8 @@ Projection study based on absenteeism-literature estimates and summer learning p
 - [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](covid-projections-reading-63-68-percent-gains.md) — possibly the same claim (merge candidate)
 - [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-projections-math-37-50-percent-gains.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
-- In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started — related
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](covid-learning-loss-not-universal-top-third-reading-gains.md) — related
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — a broader claim this one bears on
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related

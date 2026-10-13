@@ -45,4 +45,4 @@ The same interrupted time-series analysis links the composition change to achiev
 ## Related Claims
 - [Academic composition of algebra classrooms affects math achievement among high-skill students](academic-composition-affects-math-achievement.md) — possibly the same claim (merge candidate)
 - [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
-- District math and English language arts achievement declined in Philadelphia following the discipline policy reform — related
+- [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related

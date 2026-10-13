@@ -42,5 +42,5 @@ Model 3 regression predicting creativity concern (N = 1,183). "Higher AI Readine
 
 ## Related Claims
 - [Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure](two-track-structure-teacher-genai-beliefs.md) — related
-- Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers — related
+- [Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers](country-specific-genai-concern-profiles-qatar-india.md) — related
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](sem-genai-dependence-positive-paths-creativity.md) — reports the opposite

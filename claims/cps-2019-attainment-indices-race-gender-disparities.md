@@ -47,12 +47,12 @@ Table 1 takeaway from this descriptive report, disaggregating the DBDAI, BDAI, a
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related
 - [The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark](cps-pai-27-percent-2020.md) — related
-- Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average — related
-- CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group — related
-- College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree — related
-- If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway — related
+- [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
+- [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
+- [If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway](cps-2019-bdai-20-percent-bachelors.md) — related
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — related
-- College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened — related
+- [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
 - [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
-- College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment — related
-- White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions — related
+- [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions](completion-gaps-persist-within-income-groups.md) — related

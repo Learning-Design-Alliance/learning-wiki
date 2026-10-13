@@ -44,4 +44,4 @@ Descriptive analysis of first-year implementation: "Twenty four percent of non-t
 
 ## Related Claims
 - [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related
-- Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects — related
+- [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related

@@ -62,9 +62,9 @@ The report states the original $20,000 maximum award "covered, on average, 80% o
 
 
 ## Related Claims
-- Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt — related
+- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color](gstg-perceived-impact-career-decisions.md) — related
 - [Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate](gstg-recipients-pell-eligible-financial-need.md) — related
-- GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation — related
+- [GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation](gstg-recipients-high-need-schools-subjects.md) — related
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
-- Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related

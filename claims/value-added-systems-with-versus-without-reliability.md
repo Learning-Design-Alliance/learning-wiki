@@ -45,4 +45,4 @@ The abstract's fourth listed area is the "reliability of teacher evaluation syst
 ## Related Claims
 - [The paper compares the reliability of value-added measures of teacher performance with standards for evaluations in other fields](value-added-reliability-compared-other-fields.md) — related
 - [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — related
-- Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers — related
+- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related

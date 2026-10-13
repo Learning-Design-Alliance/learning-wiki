@@ -45,7 +45,7 @@ Analysis relating officers' perceived AI likelihood to GPTZero provenance classi
 ## Related Claims
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](perceived-ai-use-lowers-staff-quality-ratings.md) — related
-- By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition — related
+- [By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition](majority-applicants-submitted-ai-generated-essays-2025.md) — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)](beagle-traces-turing-test-indistinguishable.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related

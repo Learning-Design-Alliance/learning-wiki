@@ -62,7 +62,7 @@ Journal analysis of reported verification workflows. Common strategies included 
 
 
 ## Related Claims
-- Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
+- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related

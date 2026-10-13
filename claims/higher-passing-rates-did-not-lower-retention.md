@@ -64,5 +64,5 @@ Trend analysis of waiver/promotion decisions among students failing the cutoff, 
 ## Related Claims
 - [Passing rates improved from 1997 to 1998 in third and sixth grades, but retention rates did not decline because fewer students received waivers](passing-up-retention-flat-1998-fewer-waivers.md) — possibly the same claim (merge candidate)
 - [Passing rates under the Chicago promotional policy increased in all three grades from 1997 to 1999, mostly during the school year rather than Summer Bridge](chicago-promotion-passing-rates-rose-1997-1999.md) — a broader claim this one bears on
-- Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates — related
+- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](waivers-promoted-failing-students-1997.md) — related
 - [Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well](waived-students-poor-outcomes-second-gate.md) — related

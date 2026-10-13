@@ -43,6 +43,6 @@ Descriptive analysis of help-seeking rates by semester (Table 3: e.g., 834 Piazz
 
 
 ## Related Claims
-- More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment — related
+- [More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment](rising-llm-adoption-debugging-across-semesters.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related

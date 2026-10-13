@@ -44,7 +44,7 @@ The research brief describes its own evidence base: an analysis of 2M students a
 
 ## Related Claims
 - [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related
-- The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade — possibly the same claim (merge candidate)
+- [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — possibly the same claim (merge candidate)
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](older-student-disparities-present-at-kindergarten.md) — related

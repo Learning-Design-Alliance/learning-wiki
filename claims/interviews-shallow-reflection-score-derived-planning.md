@@ -58,5 +58,5 @@ Pre-learning Planning was the least coded dimension, with competing coursework a
 
 
 ## Related Claims
-- CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected — related
+- [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](srl-uneven-only-execution-monitoring-predicts-gains.md) — related

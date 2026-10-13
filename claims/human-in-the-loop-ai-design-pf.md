@@ -43,7 +43,7 @@ Within the human-AI collaboration theme of the focus group findings, participant
 
 
 ## Related Claims
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — related

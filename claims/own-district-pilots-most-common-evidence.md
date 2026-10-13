@@ -44,4 +44,4 @@ Descriptive frequency results from the June 2018 survey (Figure 3) on evidence t
 
 ## Related Claims
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
-- The types of evidence used for program adoption decisions differ sharply by role, with district administrators favoring local pilots and school leaders favoring developer research — related
+- [The types of evidence used for program adoption decisions differ sharply by role, with district administrators favoring local pilots and school leaders favoring developer research](evidence-types-vary-by-role.md) — related

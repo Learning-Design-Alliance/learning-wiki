@@ -44,5 +44,5 @@ Across the 15 focus groups, participants with jobs and family responsibilities e
 
 ## Related Claims
 - [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related
-- Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related
-- HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions — related
+- [Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options](chicago-closings-families-chose-welcoming-schools-priorities-and-barriers.md) — related
+- [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related

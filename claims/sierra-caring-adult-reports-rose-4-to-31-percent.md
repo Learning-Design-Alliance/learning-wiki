@@ -43,4 +43,4 @@ Whole-student-body survey at Sierra, where a 2019–20 needs assessment had foun
 
 
 ## Related Claims
-- Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24 — related
+- [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related

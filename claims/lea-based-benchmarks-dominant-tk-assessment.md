@@ -43,4 +43,4 @@ Descriptive survey results on TK assessments (Table 3). Other common tools were 
 
 
 ## Related Claims
-- Use of the DRDP assessment in TK increased notably to 34% of LEAs while LEA-developed assessment use fell from 66% to 44% — reports the opposite
+- [Use of the DRDP assessment in TK increased notably to 34% of LEAs while LEA-developed assessment use fell from 66% to 44%](tk-assessment-drdp-increase.md) — reports the opposite

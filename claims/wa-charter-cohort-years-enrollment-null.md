@@ -44,4 +44,4 @@ Joint analysis by entry-year cohort and years of enrollment (Figure 5), designed
 
 ## Related Claims
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — a narrower finding that bears on this claim
-- Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers — a narrower finding that bears on this claim
+- [Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers](wa-charter-gains-by-years-enrolled.md) — a narrower finding that bears on this claim

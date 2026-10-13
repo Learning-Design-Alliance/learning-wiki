@@ -44,7 +44,7 @@ The report's key-findings section describes a pathway analysis in which policy c
 
 ## Related Claims
 - [Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups](chicago-prek-policy-favorable-second-grade-math.md) — related
-- Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students — related
+- [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
-- After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups — related
+- [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related

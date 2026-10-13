@@ -64,9 +64,9 @@ The review reports, citing Perfect et al. (2016), a systematic review of school-
 ## Related Claims
 - [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) — related
 - [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
-- Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students — related
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — a narrower finding that bears on this claim
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](implementation-not-associated-most-outcomes.md) — related
-- Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms — related
+- [Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms](educator-depression-anxiety-ptsd-171-study.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related

@@ -49,3 +49,4 @@ High school findings from the observational CPS analysis: school civic engagemen
 - [Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments](non-test-based-indicators-poorly-suited-to-stabilization.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
+- [As of 2018, 42 states required a civics or government course, 8 required a full year, and 19 required a civics exam to graduate](state-civics-graduation-requirements-2018.md)

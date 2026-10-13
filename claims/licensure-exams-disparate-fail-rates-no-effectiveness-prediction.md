@@ -46,6 +46,6 @@ The review reports that even after exam modifications, fail-rate disparities per
 - [African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.](certification-test-racial-disparities.md) — possibly the same claim (merge candidate)
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
-- African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications. — related
-- New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State — related
+- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
+- [New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State](nyc-teachers-fail-licensure-exams-higher-rates.md) — related
 - [Michigan repealed its basic skills test requirement after finding it disproportionately excluded people of color from preparation programs](michigan-repealed-basic-skills-test-gatekeeper.md) — a narrower finding that bears on this claim

@@ -51,4 +51,4 @@ The brief's own description states its central research question: it "examines w
 - [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](algebra-placement-8th-versus-9th-grade-outcomes.md) — related
 - [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](algebra-8th-grade-placement-readiness-enrollment-outcomes.md) — related
 - [The study examined both school Algebra offerings and student placement practices](algebra-access-two-mechanisms-offerings-and-placement.md) — related
-- School offerings and placement practices limit opportunity for 8th-grade algebra access — related
+- [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related

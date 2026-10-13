@@ -59,4 +59,4 @@ Study 2 temporal analysis of question content across three chronological session
 
 ## Related Claims
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
-- Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks — related
+- [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related

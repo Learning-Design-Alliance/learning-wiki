@@ -43,7 +43,7 @@ A two-year study by IERC and UChicago Consortium assessing the statewide policy 
 
 
 ## Related Claims
-- Reduced enrollments affected nearly all redesigned principal preparation programs, with uneven recovery across programs — related
-- Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels — related
-- A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates — related
+- [Reduced enrollments affected nearly all redesigned principal preparation programs, with uneven recovery across programs](illinois-principal-preparation-reduced-enrollments.md) — related
+- [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
+- [A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates](illinois-principal-preparation-pipeline-shortage-concern.md) — related
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related

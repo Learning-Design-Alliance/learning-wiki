@@ -45,5 +45,5 @@ The report states ELs with identified disabilities "made progress, but at a slow
 ## Related Claims
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](bilingual-services-higher-el-outcomes-than-refusal.md) — related
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
-- English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges — related
+- [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related
 - [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](low-screener-scores-performance-not-attendance.md) — related

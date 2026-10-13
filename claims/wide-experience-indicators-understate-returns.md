@@ -44,3 +44,6 @@ A study of elementary and middle schools in a large urban school district in a s
 
 ## Related Claims
 
+- [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md)
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md)
+- [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md)

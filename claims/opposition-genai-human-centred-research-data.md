@@ -45,7 +45,7 @@ RQ2 theme on human-centred research data: the focus-group analysis reports "stro
 ## Related Claims
 - [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
-- Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness — related
+- [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — a broader claim this one bears on
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related

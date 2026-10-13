@@ -47,8 +47,8 @@ Descriptive statement from the NWEA Research page about the tool's purpose: it w
 - [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — a narrower finding that bears on this claim
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
-- NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading — related
+- [NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading](post-covid-middle-school-reading-urgent-challenge.md) — related
 - [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — related
-- Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress — related
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
-- The American Rescue Plan provides $122 billion for COVID recovery in schools — related
+- [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — related
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- [The American Rescue Plan provides $122 billion for COVID recovery in schools](arp-provides-122-billion-covid-school-recovery.md) — related

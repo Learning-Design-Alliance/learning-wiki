@@ -43,4 +43,4 @@ Comparison across the study's three regression models (Models 2 and 3, N = 1,162
 ## Related Claims
 - [Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity](ai-readiness-predicts-greater-creativity-concern.md) — related
 - [AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance](ai-readiness-strongest-predictor-positive-genai-beliefs.md) — related
-- Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers — related
+- [Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers](country-specific-genai-concern-profiles-qatar-india.md) — related

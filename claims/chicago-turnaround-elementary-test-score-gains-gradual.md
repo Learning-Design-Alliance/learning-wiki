@@ -66,7 +66,7 @@ Trend analysis of standardized reading and math scores four years after interven
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-pedagogy-assignments-predict-achievement-gains.md) — related
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
-- The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress — related
+- [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
 - [Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school](sanction-threat-math-gains-persist-middle-school.md) — related
 - [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — related
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — a broader claim this one bears on

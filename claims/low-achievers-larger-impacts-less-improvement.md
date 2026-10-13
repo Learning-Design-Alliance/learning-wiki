@@ -43,9 +43,9 @@ Longitudinal follow-up of a subset of 1 million students whose pre-pandemic achi
 
 
 ## Related Claims
-- The achievement divide between high and low achievers widened significantly over the last two years of the pandemic — related
+- [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — possibly the same claim (merge candidate)
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
-- End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points) — related
-- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
+- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — related

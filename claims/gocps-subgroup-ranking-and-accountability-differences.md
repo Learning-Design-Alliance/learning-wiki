@@ -45,7 +45,7 @@ Descriptive analysis of Round 1 GoCPS choice-application rankings by neighborhoo
 ## Related Claims
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Lottery-based selection under GoCPS worked as intended: lottery numbers and offers were unrelated to student characteristics and to how highly applicants ranked programs](gocps-lottery-selection-random.md) — related
-- GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted — related
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](gocps-post-application-requirement-noncompletion-gaps.md) — related
 - [Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students](gocps-preferences-vary-by-student-background.md) — related
 - [Majority-Black community areas had the highest school dispersion: 21 of the 25 community areas with the highest dispersion ratios were majority-Black](majority-black-areas-most-dispersed-across-high-schools.md) — related

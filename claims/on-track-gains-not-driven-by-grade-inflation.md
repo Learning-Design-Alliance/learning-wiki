@@ -43,7 +43,7 @@ Grade-distribution analysis in the 17 secondary-mover schools. The summary repor
 
 
 ## Related Claims
-- The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes — related
+- [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related

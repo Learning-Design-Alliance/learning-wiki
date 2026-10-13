@@ -45,4 +45,4 @@ Quasi-experimental estimates from an Illinois policy change making the ACT a gra
 ## Related Claims
 - [Within schools, higher-achieving students are more likely to take the ACT](positive-within-school-selection-act-participation.md) — related
 - [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
-- Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related
+- [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related

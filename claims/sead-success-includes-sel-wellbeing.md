@@ -43,8 +43,8 @@ Qualitative focus groups with 70 students and 70 family members of color across 
 
 
 ## Related Claims
-- Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color — related
+- [Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color](families-distrust-schools-for-sel.md) — related
 - [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — a narrower finding that bears on this claim
-- Participants believe social-emotional development starts in the home but schools share responsibility because children spend substantial time there — related
+- [Participants believe social-emotional development starts in the home but schools share responsibility because children spend substantial time there](sel-starts-home-schools-share-responsibility.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related

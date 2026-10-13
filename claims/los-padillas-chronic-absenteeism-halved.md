@@ -47,6 +47,6 @@ Outcome reporting in the brief's "Progress at Los Padillas Elementary School" se
 
 ## Related Claims
 - [Los Padillas Elementary improved reading and math achievement and cut chronic absence by 50% between 2021 and 2024 after adopting community schools](los-padillas-achievement-gain-chronic-absence-reduction.md) — a broader claim this one bears on
-- Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — related
+- [Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22](los-padillas-kindergarten-formative-gains.md) — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
-- Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math — related
+- [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — related

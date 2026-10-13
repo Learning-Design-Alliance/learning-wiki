@@ -51,5 +51,5 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
-- Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams — related
+- [Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams](state-leadership-enables-school-improvement.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

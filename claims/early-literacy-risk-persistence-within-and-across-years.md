@@ -69,7 +69,7 @@ Comparison of year-to-year risk persistence by grade in the 2023/24 and earlier 
 - [About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY](within-year-risk-persistence.md) — related
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — related
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related
-- Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3 — related
-- Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points — related
+- [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — related
+- [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
-- The percentage of students who stay at risk across time periods increases across grade levels K–3 — related
+- [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related

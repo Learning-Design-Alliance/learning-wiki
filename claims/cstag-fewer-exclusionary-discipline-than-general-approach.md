@@ -45,6 +45,6 @@ The report's synthesis of comparison-group outcome studies states that "studies 
 ## Related Claims
 - [Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects](cstag-causal-reduces-discipline-increases-counseling.md) — related
 - [CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies](cstag-training-shifts-staff-knowledge-beliefs.md) — related
-- Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors — related
+- [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
 - [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](exclusionary-discipline-harms-and-disproportionality.md) — related
-- Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related

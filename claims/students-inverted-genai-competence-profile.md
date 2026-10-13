@@ -62,6 +62,6 @@ Guttman chart inspection of student response vectors. The authors report that "3
 
 
 ## Related Claims
-- Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed — related
+- [Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed](academics-linear-genai-skill-trajectory.md) — related
 - [Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering](student-metacognitive-ceiling-genai.md) — related
-- Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort — related
+- [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — related

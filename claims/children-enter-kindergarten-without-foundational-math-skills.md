@@ -43,9 +43,9 @@ The article states, citing Garcia & Weiss (2015), that many children enter kinde
 
 
 ## Related Claims
-- Many U.S. students enter elementary school with poor math skills — possibly the same claim (merge candidate)
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — possibly the same claim (merge candidate)
 - [Students from poor families lag behind more affluent peers in early elementary math performance](poor-families-lag-affluent-peers-early-math.md) — a narrower finding that bears on this claim
-- Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001) — a narrower finding that bears on this claim
+- [Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)](ecls-kindergarten-literacy-math-gap-one-sd.md) — a narrower finding that bears on this claim
 - [In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests](naz-29-percent-kindergarten-literacy-benchmarks-2010.md) — a narrower finding that bears on this claim
 - [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related

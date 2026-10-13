@@ -44,6 +44,6 @@ Interview finding on communication: amid evolving policies and multi-organizatio
 
 ## Related Claims
 - [Apprentices saw RTAPs as a better return on investment than other pathways, yet low salaries still posed financial hardship](rtap-affordability-roi-but-low-salary-hardship.md) — related
-- Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge — related
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Teacher apprentices of color primarily learned about their programs through word-of-mouth from school colleagues and leaders](rtap-recruitment-word-of-mouth.md) — related

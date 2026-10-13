@@ -44,6 +44,6 @@ The report's narrative review of in-service learning describes networks and prof
 
 ## Related Claims
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
-- Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content — related
+- [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
 - [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
 - [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](league-professional-development-networking-ratings.md) — related

@@ -62,5 +62,5 @@ The report's policy analysis finds that "only 7 of the 20 states mandating schoo
 
 
 ## Related Claims
-- Black students and students with disabilities are disproportionately referred for behavioral threat assessments — related
-- Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
+- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related
+- [Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list](california-ece-data-limitations-unique-identifier.md) — related

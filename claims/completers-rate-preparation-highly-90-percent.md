@@ -43,4 +43,4 @@ Analysis of CTC program completer survey responses from almost 60,000 completers
 
 
 ## Related Claims
-- Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively — related
+- [Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively](cooperating-teachers-employers-ratings-lower.md) — related

@@ -43,8 +43,8 @@ Figure 5 reports median debt balances by income band: $46,000 (under $25,000), $
 
 
 ## Related Claims
-- Low-income students and students of color disproportionately rely on Grad PLUS loans — related
+- [Low-income students and students of color disproportionately rely on Grad PLUS loans](grad-plus-reliance-disproportionate-low-income-students-color.md) — related
 - [80% of surveyed Black borrowers support government forgiveness of all student debt, more than any other proposed solution](black-borrowers-support-full-debt-cancellation.md) — related
-- Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt — related
+- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Most Black borrowers in repayment are enrolled in income-driven repayment plans, which many describe as a lifetime debt sentence](idr-plans-lifetime-debt-sentence-black-borrowers.md) — related
-- Low-income graduate degree completers and Black, Latino, and Native American and Pacific Islander students are overrepresented among Grad PLUS borrowers — related
+- [Low-income graduate degree completers and Black, Latino, and Native American and Pacific Islander students are overrepresented among Grad PLUS borrowers](grad-plus-overrepresentation-low-income-students-of-color.md) — related

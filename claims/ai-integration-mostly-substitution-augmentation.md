@@ -43,8 +43,8 @@ Systematic review of 22 studies of AI in undergraduate higher education, coded w
 
 
 ## Related Claims
-- Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
-- Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies — a narrower finding that bears on this claim
+- [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — a narrower finding that bears on this claim
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — possibly the same claim (merge candidate)
 - [Most GenAI educational applications operate at SAMR's lowest level, substitution, replicating rather than transforming practice](genai-apps-samr-substitution-level.md) — related
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related

@@ -44,7 +44,7 @@ Survey-based analysis of new CPS teachers in the 2004-05 school year comparing s
 
 
 ## Related Claims
-- Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes — related
+- [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
 - [High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support](strong-supports-50-point-retention-plan-high-school.md) — related
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related

@@ -41,6 +41,6 @@ SEANCE dictionary-feature results for the physical activity outcomes in the with
 
 
 ## Related Claims
-- Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33 — related
+- [Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33](semester-decline-wearable-outcomes-academic-year.md) — related
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — a broader claim this one bears on
 - [Zero-shot classification of concern topics showed no consistent evidence of association with wearable outcomes, while affective dimensions showed more associations that did not survive correction](topic-classification-null-affective-more-signal.md) — related

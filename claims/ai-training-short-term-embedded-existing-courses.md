@@ -43,5 +43,5 @@ Systematic review synthesis of 11 studies answering research question 1 on train
 ## Related Claims
 - [Methodological scope of existing research is limited: small samples, single courses, and short-term interventions](short-term-small-sample-ai-writing-studies.md) — a broader claim this one bears on
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
-- AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators — related
+- [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time](monitoring-relies-on-interaction-records-single-point-attitudes.md) — related

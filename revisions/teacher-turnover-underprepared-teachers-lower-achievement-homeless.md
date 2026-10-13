@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/teacher-turnover-underprepared-teachers-lower-achievement-homeless.md
+---
+
+# Revision history: [claims/teacher-turnover-underprepared-teachers-lower-achievement-homeless](../claims/teacher-turnover-underprepared-teachers-lower-achievement-homeless.md)
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from eric-ed614376 (Students Experiencing Homelessness: The Conditions and Outcomes of Homelessness among California Students) via eval_harness.py + ingest_extractions.py

@@ -44,6 +44,6 @@ Descriptive counts of training participation reported in the brief's awareness-c
 
 ## Related Claims
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — related
-- Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce — related
-- Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs — a broader claim this one bears on
-- School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23 — related
+- [Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce](scoe-cal-well-training-833-and-3104.md) — related
+- [Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs](cal-well-trained-155000-nonworkforce-25000-workforce.md) — a broader claim this one bears on
+- [School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23](cal-well-dnusd-staff-mental-health-perceptions-increase.md) — related

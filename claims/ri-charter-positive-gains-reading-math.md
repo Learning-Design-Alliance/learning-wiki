@@ -49,5 +49,5 @@ Quasi-experimental matched-comparison analysis using Virtual Control Records mat
 - [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — related
 - [National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math](ri-charter-students-outperformed-tps-national-studies.md) — related
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — reports the opposite
-- Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18 — reports the opposite
+- [Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18](sc-charter-math-gap-narrows-over-growth-periods.md) — reports the opposite
 - [A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)](ri-charter-schools-outperform-share-vs-credo-2013.md) — related

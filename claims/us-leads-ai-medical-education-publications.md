@@ -43,6 +43,6 @@ Country-level publication counts from the bibliometric dataset, visualized in Fi
 
 
 ## Related Claims
-- Citation strength in the field is concentrated at Harvard Medical School (1,009 citations), Stanford (858), and UCSF (662) — related
+- [Citation strength in the field is concentrated at Harvard Medical School (1,009 citations), Stanford (858), and UCSF (662)](citation-strength-concentrated-harvard-stanford-ucsf.md) — related
 - [The most-cited publications on AI ethics in medical education center on explainable AI and ChatGPT's capability, led by Tjoa and Guan's survey (1,475 citations)](most-cited-works-capability-testing-not-governance.md) — related
-- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related

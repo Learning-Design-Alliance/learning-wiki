@@ -62,9 +62,9 @@ The same dashboard comparison shows low-income DC students at 10% versus 5% asso
 
 
 ## Related Claims
-- Advanced course completion and dual credit graduation vary by district poverty concentration, with Latino students completing advanced courses and graduating with DC at higher rates in high-poverty districts — related
+- [Advanced course completion and dual credit graduation vary by district poverty concentration, with Latino students completing advanced courses and graduating with DC at higher rates in high-poverty districts](district-poverty-completion-patterns.md) — related
 - [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — a broader claim this one bears on
-- Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average — related
+- [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
 - [Dallas ISD's P-TECH and Early College expansion produced large increases in graduates with dual credit across all student groups from 2018-19 to 2020-21](dallas-isd-ptech-dc-increases.md) — related
 - [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](dual-enrollment-college-algebra-23-percent-degree-attainment.md) — a broader claim this one bears on
 - [Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree](college-level-high-school-courses-linked-graduation-degree.md) — a broader claim this one bears on

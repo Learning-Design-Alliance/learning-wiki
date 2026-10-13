@@ -45,7 +45,7 @@ The white paper's framing statement, based on the author's review of education r
 ## Related Claims
 - [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
 - [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — possibly the same claim (merge candidate)
-- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](ci-groundwork-strong-theory-link-and-equity-depth-limited.md) — related
-- Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process — related
+- [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related
 - [Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes](personal-bias-influences-ci-investigations.md) — related

@@ -44,7 +44,7 @@ The key findings state that "Grades are lower both for the course taken online a
 
 ## Related Claims
 - [The estimated online-course effects are local to students with access to both online and in-person options](online-course-effects-local-to-dual-option-students.md) — related
-- Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects — a broader claim this one bears on
+- [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — a broader claim this one bears on
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — a broader claim this one bears on
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — possibly the same claim (merge candidate)

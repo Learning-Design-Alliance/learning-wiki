@@ -43,7 +43,7 @@ Kaplan-Meier analysis by major (elementary n=69, early childhood n=29, secondary
 
 
 ## Related Claims
-- The overall estimated average graduation time for PCC teacher education students was at least 2.6 years — related
+- [The overall estimated average graduation time for PCC teacher education students was at least 2.6 years](overall-average-graduation-time-2-6-years.md) — related
 - [Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience](prior-college-experience-faster-pcc-graduation.md) — related
-- Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students — related
-- Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years — related
+- [Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students](moe-affiliated-students-faster-graduation.md) — related
+- [Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years](pcc-teacher-education-thirty-percent-ontime-graduation.md) — related

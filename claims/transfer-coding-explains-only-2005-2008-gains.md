@@ -43,4 +43,4 @@ Analysis of transfer-rate trends and conservative rate estimates counting all tr
 
 
 ## Related Claims
-- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related

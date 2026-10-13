@@ -44,6 +44,6 @@ This is the review's culminating synthesis, naming three drivers whose combined 
 
 ## Related Claims
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
-- AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently — related
+- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — related
 - [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — related
 - [Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity](normative-friction-equity-epistemic-integrity-interdependent.md) — a narrower finding that bears on this claim

@@ -62,11 +62,11 @@ The brief reports, citing Mayer and Leone (1999), that "students are more likely
 
 
 ## Related Claims
-- Metal detectors impose substantial equipment, personnel, training and time costs on schools — related
-- Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily — related
+- [Metal detectors impose substantial equipment, personnel, training and time costs on schools](metal-detector-costs-equipment-personnel-time.md) — related
+- [Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily](metal-detectors-disproportionate-students-of-color.md) — related
 - [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
 - [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
-- Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting — related
+- [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — a broader claim this one bears on
 - [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

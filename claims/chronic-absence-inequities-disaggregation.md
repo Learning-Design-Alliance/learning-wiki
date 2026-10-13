@@ -44,6 +44,6 @@ The brief states these groups are "more likely to be chronically absent from sch
 
 ## Related Claims
 - [Low-income and multilingual parents report less welcoming school staff and more negative school experiences than higher-income and English-speaking parents](unwelcoming-staff-barrier-low-income-multilingual-parents.md) — related
-- Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors — related
+- [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
 - [Multilingual learners in California are disproportionately represented in special education, especially in the Specific Learning Disability category](california-ml-overrepresentation-sld.md) — related
 - [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](removing-criterion4-increases-reclassification.md) — related

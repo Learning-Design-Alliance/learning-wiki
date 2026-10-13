@@ -49,4 +49,4 @@ The article reports, citing Cristia et al. (2017), a randomized evaluation of th
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — reports the opposite
 - [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](emints-math-effect-015-strong.md) — reports the opposite
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

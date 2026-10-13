@@ -62,11 +62,11 @@ Descriptive comparison of academic trajectories for the non-proficient-by-eighth
 
 
 ## Related Claims
-- More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school — related
+- [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
 - [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](el-gpas-reading-grades-ontrack-similar.md) — related
-- Students who began as ELs were not overidentified for special education services relative to students never classified as ELs — related
+- [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](low-screener-scores-performance-not-attendance.md) — related
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related
 - [English learner students were more often identified at risk overall, but those with low English proficiency on ACCESS were not necessarily below benchmark; a little over one third of English learners meeting benchmark scored at the two lowest ACCESS proficiency levels](el-low-access-proficiency-not-always-below-benchmark.md) — related

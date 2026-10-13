@@ -47,6 +47,6 @@ Survey study validating three measurement models via PLS-SEM with 171 students a
 - [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — a narrower finding that bears on this claim
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — a narrower finding that bears on this claim
 - [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related
-- Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities — related
-- Evaluations of leadership competency increase with hierarchical position in Vietnamese universities — related
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
 - [Six iterations of the 360 Global Ed Model since 2013 are reported by the authors to demonstrate effectiveness for educating socially responsible global citizens](six-iterations-360-model-effectiveness.md) — related

@@ -44,5 +44,5 @@ The report cites U.S. Bureau of Labor Statistics projections, stating "informati
 
 ## Related Claims
 - [Alabama's cybersecurity labor market shows sustained demand, with about 18,778 professionals employed and 8,373 new job openings posted in 2024](alabama-cybersecurity-demand-18778-employed-8373-openings.md) — a narrower finding that bears on this claim
-- The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year — related
+- [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — related
 - [Talladega County's cybersecurity program grew from 81 participating students in 2023-24 to 208 in 2024-25](talladega-cyber-program-enrollment-growth-81-to-208.md) — related

@@ -44,7 +44,7 @@ Subgroup analysis benchmarking Fort Worth Black students' 2018-19 growth to the 
 
 ## Related Claims
 - [District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver](credo-cohort1-district-weaker-growth-exceptions.md) — a broader claim this one bears on
-- Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage — related
-- Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state — related
-- Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth — related
+- [Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage](fort-worth-charter-beats-district-reading-growth.md) — related
+- [Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state](fort-worth-cmo-outperforms-independent-charters.md) — related
+- [Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth](fort-worth-ell-students-charter-advantage-reading.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related

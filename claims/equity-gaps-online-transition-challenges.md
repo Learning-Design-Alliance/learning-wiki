@@ -64,7 +64,7 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 ## Related Claims
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — related
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — possibly the same claim (merge candidate)
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — possibly the same claim (merge candidate)
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
@@ -74,7 +74,7 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
 - [Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide](pandemic-funding-narrowed-access-not-use-divide.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
-- Technology access problems during remote learning fell more heavily on minoritized and lower-income students — related
+- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work](bipoc-more-likely-report-workplace-racial-discrimination.md) — related

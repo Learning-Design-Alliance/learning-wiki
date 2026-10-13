@@ -44,4 +44,4 @@ Two-level HGLM models with 58 high schools at level 2, using teacher assessment 
 
 ## Related Claims
 - [School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications](college-going-climate-predicts-enrollment-steps.md) — possibly the same claim (merge candidate)
-- Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment — related
+- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related

@@ -44,9 +44,9 @@ The authors' inference from the attrition analysis: since lower-achieving and mi
 
 ## Related Claims
 - [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — possibly the same claim (merge candidate)
-- Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested — a narrower finding that bears on this claim
+- [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — a narrower finding that bears on this claim
 - [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](missing-fall-2020-testers-understate-impacts.md) — possibly the same claim (merge candidate)
 - [Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students](map-growth-attrition-school-concentration-pattern.md) — a narrower finding that bears on this claim
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
-- Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools — related
+- [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related
 - [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](el-exit-censorship-underestimates-growth.md) — related

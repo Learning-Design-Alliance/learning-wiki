@@ -46,5 +46,5 @@ Descriptive survey analysis of alumni respondents. The report also states 91 per
 - [89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains](nfte-alumni-89-percent-reported-development-gains.md) — related
 - [One-quarter of NFTE alumni respondents launched a business, with launch rates varying by program (over 42 percent for BizCamp and Startup Summer versus 16 percent for a single course)](nfte-alumni-business-launch-rates-vary-by-program.md) — related
 - [Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years](stopping-out-early-warning-non-completion.md) — related
-- Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve — related
-- Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
+- [Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve](late-completers-enrolled-more-than-eight-terms.md) — related
+- [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related

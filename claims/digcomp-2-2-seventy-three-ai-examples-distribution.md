@@ -43,5 +43,5 @@ Review analysis of DigComp 2.2's AI-related examples as concrete expansion of di
 
 
 ## Related Claims
-- Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving — related
+- [Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving](regional-digcomp-coverage-developed-vs-developing.md) — related
 - [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related

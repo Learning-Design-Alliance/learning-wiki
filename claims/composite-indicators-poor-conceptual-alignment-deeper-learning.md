@@ -46,5 +46,5 @@ The report's conceptual analysis of Oklahoma's A–F letter grades argues that c
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills](assessments-one-indicator-college-readiness-stakeholders.md) — possibly the same claim (merge candidate)
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
-- More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems — related
+- [More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems](77-percent-essa-plans-postsecondary-readiness-indicator.md) — related
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](oklahoma-achievement-declined-2012-2014-under-a-f.md) — related

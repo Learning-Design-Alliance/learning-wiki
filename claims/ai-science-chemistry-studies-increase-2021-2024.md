@@ -47,4 +47,4 @@ Systematic review of 18 included journal articles coded by four coders per PRISM
 - [ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies](chatgpt-conversational-robots-most-used-ai-tools.md) — related
 - [Research on AI and GAI in education surged after ChatGPT's late-2022 release, with 54% of reviewed articles published in 2023](gai-research-surge-2023-chatgpt.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — related
-- Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation — related
+- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related

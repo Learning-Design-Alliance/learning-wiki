@@ -45,5 +45,5 @@ Baseline OLS regression on pre-workshop survey data from Npre = 199 Australian s
 ## Related Claims
 - [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](females-broader-gains-career-interest-narrow-gap.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
-- New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population — related
+- [New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population](new-mexico-cte-enrollment-breadth-and-equity-gaps.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related

@@ -43,5 +43,5 @@ Survey and interview findings from Finding 2 of the study. Of repaying borrowers
 
 
 ## Related Claims
-- IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR — related
+- [IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR](idr-enrollees-worse-mental-health-financial-stress.md) — related
 - [Median debt loads of Black borrowers are near or above the $50,000 cancellation mark at every income level, challenging means-tested cancellation](median-debt-above-50k-every-income-level.md) — related

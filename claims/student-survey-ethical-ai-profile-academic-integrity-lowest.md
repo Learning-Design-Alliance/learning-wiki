@@ -43,8 +43,8 @@ Descriptive statistics from the student survey. The article reports the highest 
 
 
 ## Related Claims
-- Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI — related
-- Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item — related
+- [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
+- [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related

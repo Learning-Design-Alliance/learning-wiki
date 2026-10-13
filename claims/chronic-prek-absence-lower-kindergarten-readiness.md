@@ -44,7 +44,7 @@ Observational district study relating pre-k absence levels to learning outcomes 
 
 ## Related Claims
 - [Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades](prek-chronic-absence-predicts-later-chronic-absence.md) — related
-- Chronic absenteeism is extremely common among CPS preschoolers, with 45 percent of three-year-olds and 36 percent of four-year-olds missing at least 10 percent of enrolled days — related
+- [Chronic absenteeism is extremely common among CPS preschoolers, with 45 percent of three-year-olds and 36 percent of four-year-olds missing at least 10 percent of enrolled days](preschool-chronic-absenteeism-extremely-high-cps.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](multiyear-chronic-absenteeism-lower-second-grade-reading.md) — related
 - [Preschool students who miss more school have lower kindergarten readiness scores on math, letter recognition, and social-emotional measures, controlling for incoming skills](preschool-absence-lower-kindergarten-readiness.md) — related

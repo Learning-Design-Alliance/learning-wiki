@@ -45,5 +45,5 @@ Subgroup analysis within the same quasi-experimental study of Chicago Public Sch
 ## Related Claims
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — a broader claim this one bears on
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
-- Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — related
+- [Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims](victims-fear-attack-higher-than-nonvictims.md) — related
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](supportive-environment-predicts-bullying-fear-reduction.md) — related

@@ -91,7 +91,7 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
 - [Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.](no-conceptual-hallucinations-28-contexts.md) — related
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — a broader claim this one bears on
 - [Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use](experts-judge-ai-plans-applicable-after-correction.md) — related

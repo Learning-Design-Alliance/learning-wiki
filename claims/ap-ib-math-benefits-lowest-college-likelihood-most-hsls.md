@@ -44,5 +44,5 @@ Empirical analysis of the nationally representative HSLS:09 dataset with an anal
 
 ## Related Claims
 - [Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention](ap-fourth-year-math-enrollment-not-retention.md) — related
-- Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended — related
+- [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit](hsls-mentee-fidelity-attribution-better-than-decisions.md) — related

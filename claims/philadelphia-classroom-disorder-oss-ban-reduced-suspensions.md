@@ -45,9 +45,9 @@ Difference-in-differences analysis of a Philadelphia district reform prohibiting
 ## Related Claims
 - [In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected](full-implementation-schools-peer-outcomes-unaffected.md) — related
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
-- In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased — related
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
-- The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct — related
-- Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses — related
+- [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) — related
+- [Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses](many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related
-- Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related
+- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related

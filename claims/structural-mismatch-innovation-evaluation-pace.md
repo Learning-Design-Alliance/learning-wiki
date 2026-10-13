@@ -43,11 +43,11 @@ The article's framing statement, offered as an analytical diagnosis rather than 
 
 
 ## Related Claims
-- The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months — a narrower finding that bears on this claim
+- [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — a narrower finding that bears on this claim
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — a narrower finding that bears on this claim
 - [AI agents can now navigate and complete tasks within learning management systems](ai-agents-navigate-and-complete-lms-tasks.md) — related
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related
-- Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form — a narrower finding that bears on this claim
+- [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — a narrower finding that bears on this claim
 - [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — a narrower finding that bears on this claim
-- Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI — related
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related

@@ -45,5 +45,5 @@ Figure 7 of the survey ranks solutions: forgiveness of existing loans (80%), low
 ## Related Claims
 - [Most Black borrowers in the study report no positive returns on their student loans and regret taking them out](black-borrowers-regret-loans-no-positive-returns.md) — related
 - [Most surveyed Black borrowers disagree that student loans advance racial equality or build wealth for Black borrowers](black-borrowers-disagree-loans-advance-racial-equality.md) — related
-- Forty percent of Black women in college are parents, a higher proportion than any other group — related
+- [Forty percent of Black women in college are parents, a higher proportion than any other group](black-women-college-student-parents-40-percent.md) — related
 - [Median debt loads of Black borrowers are near or above the $50,000 cancellation mark at every income level, challenging means-tested cancellation](median-debt-above-50k-every-income-level.md) — related

@@ -43,6 +43,6 @@ Analysis of institutional-level gaps among 1,104 institutions with at least 30 P
 
 
 ## Related Claims
-- Closing all institutional Pell/non-Pell completion gaps would cut the 14-point national gap only in half, to 7 percentage points — related
-- About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points — related
+- [Closing all institutional Pell/non-Pell completion gaps would cut the 14-point national gap only in half, to 7 percentage points](closing-institutional-gaps-halves-national-gap.md) — related
+- [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — related
 - [Pell Grant recipients at four-year institutions graduate at a rate 14 percentage points lower than non-Pell students nationally (51% vs. 65% in six years)](pell-nonpell-national-gap-14-points.md) — related

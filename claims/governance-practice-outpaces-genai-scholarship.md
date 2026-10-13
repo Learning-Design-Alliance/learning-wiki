@@ -43,10 +43,10 @@ Reflexive thematic analysis of ten semi-structured interviews with academic staf
 
 
 ## Related Claims
-- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — related
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [The GenAI higher-education literature invokes responsibility frequently but almost never assigns accountability to AI or names a responsible bearer](responsibility-invoked-but-bearer-unnamed.md) — related

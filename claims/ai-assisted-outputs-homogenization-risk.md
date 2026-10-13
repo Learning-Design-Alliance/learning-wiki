@@ -47,6 +47,6 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — possibly the same claim (merge candidate)
 - [AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding)](ai-creativity-individual-gain-collective-diversity-loss.md) — possibly the same claim (merge candidate)

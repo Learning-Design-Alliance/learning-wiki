@@ -62,4 +62,4 @@ Multilevel model results (Table A.1). The appendix states the inclusion of the n
 
 
 ## Related Claims
-- The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points — related
+- [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related

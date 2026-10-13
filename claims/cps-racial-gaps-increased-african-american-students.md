@@ -63,22 +63,22 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 
 ## Related Claims
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
-- Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined — related
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — related
-- African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level — related
+- [African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level](african-american-mobility-gap-widened.md) — related
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related
-- The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates — related
-- African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities — related
-- Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent) — related
-- No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000 — reports the opposite
+- [The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates](cps-african-american-test-score-gap-widened-1990s.md) — related
+- [African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities](cps-graduation-improvement-racial-geographic-inequity.md) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
+- [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — reports the opposite
 - [During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement](phase-one-weak-gains-disadvantaged-schools.md) — related
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
-- Achievement disparities by student race/ethnicity widened substantively during the pandemic — related
-- Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates — related
+- [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
+- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [Black students in LBUSD score behind all other ethnic groups and ELLs on the 2024 SBAC, with only 20 percent meeting or exceeding achievement in math and 34 percent in ELA](lbusd-black-students-sbac-gaps-2024.md) — related
-- Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students — related
+- [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related
-- Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district — related
+- [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
-- Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers — related
+- [Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers](black-latino-low-ses-lower-advanced-math-course-taking.md) — related

@@ -45,4 +45,4 @@ Implementation-fidelity analysis in the developmental evaluation of PKTP's first
 ## Related Claims
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants](pktp-transition-message-unclear-to-participants.md) — related
-- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related

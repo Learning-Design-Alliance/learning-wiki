@@ -44,4 +44,4 @@ The brief asserts, citing research literature without reporting specific studies
 
 ## Related Claims
 - [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — related
-- Texas's non-binding tutoring guidance leaves no mechanism to ensure districts follow outlined best practices — related
+- [Texas's non-binding tutoring guidance leaves no mechanism to ensure districts follow outlined best practices](texas-nonbinding-tutoring-guidance-risk.md) — related

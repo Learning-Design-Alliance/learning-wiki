@@ -46,4 +46,4 @@ Cross-sectional questionnaire survey of 51 principals and teachers sampled from 
 - [The article asserts that excellent accountability management systems and digital transformation capabilities guarantee equal access to education for all students](accountability-and-digitalization-equal-access-assertion.md) — related
 - [Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores](accountability-indicators-outscore-digital-transformation-indicators.md) — related
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
-- Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators — related
+- [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related

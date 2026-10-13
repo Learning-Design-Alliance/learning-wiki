@@ -45,9 +45,9 @@ The Education Trust's analysis of 2018-19 Texas K-12 public and charter school s
 ## Related Claims
 - [In Illinois (2018-19), 52% of K-12 public school students are people of color but only 18% of teachers are](illinois-52-percent-students-18-percent-teachers-of-color.md) — related
 - [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — related
-- In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color — related
-- In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers — related
-- In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce — a broader claim this one bears on
-- North Carolina's teacher workforce is far less racially diverse than its student population — related
-- In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related
-- In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students) — related
+- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- [In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers](pa-teachers-of-color-6-4-percent-vs-35-1-students.md) — related
+- [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — a broader claim this one bears on
+- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- [In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are](california-students-77-percent-teachers-39-percent-of-color.md) — related
+- [In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students)](georgia-leader-diversity-gap-2021-22.md) — related

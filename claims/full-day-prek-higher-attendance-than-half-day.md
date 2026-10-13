@@ -43,10 +43,10 @@ District-wide observational analysis of CPS administrative attendance data, 2012
 
 
 ## Related Claims
-- The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points — related
+- [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](nlci-year-one-attendance-difference-not-significant.md) — related
 - [Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools](nlci-full-day-pre-k-significantly-higher-attendance.md) — related
-- Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved — related
+- [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related

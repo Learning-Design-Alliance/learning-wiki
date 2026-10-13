@@ -66,4 +66,4 @@ Across the seven occupational groups, total hours devoted to learning projects d
 - [Penland's 1979 national survey found about 80% of US adults considered themselves continuing learners and over three quarters had planned their own learning projects in the prior year](penland-1979-national-self-initiated-learning.md) — related
 - [Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each](tough-1967-adults-self-teach-with-helpers.md) — related
 - [Over 95% of Canadian adults are involved in some form of informal learning activities they identify as significant](over-95-percent-canadian-adults-informal-learning.md) — related
-- Employed Canadian adults report about 6 hours per week of employment-related informal learning — related
+- [Employed Canadian adults report about 6 hours per week of employment-related informal learning](employment-related-informal-learning-hours.md) — related

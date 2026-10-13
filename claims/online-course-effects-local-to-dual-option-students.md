@@ -45,4 +45,4 @@ The abstract states the scope limit: the estimates are "local average treatment 
 ## Related Claims
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — related
 - [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — related
-- Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects — related
+- [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — related

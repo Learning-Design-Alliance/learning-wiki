@@ -63,7 +63,7 @@ The guide’s Chicago policy timeline reports, since 2011–2012, a "67% decreas
 
 ## Related Claims
 - [Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes](oakland-reduced-girls-suspension-rates-over-time.md) — related
-- In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted — related
+- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
-- California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer — a broader claim this one bears on
-- Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related
+- [California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer](california-suspension-decline-safer-schools.md) — a broader claim this one bears on
+- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related

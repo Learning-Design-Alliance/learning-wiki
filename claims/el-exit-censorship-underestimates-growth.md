@@ -46,5 +46,5 @@ Chapter I's Limitations section explains that faster-progressing, higher-attaini
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — possibly the same claim (merge candidate)
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
 - [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — related
-- More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school — related
-- More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related
+- [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
+- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related

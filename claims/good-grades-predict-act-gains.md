@@ -46,5 +46,5 @@ Analysis from the CCSR ACT preparation study of test score growth from fall elev
 - [Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores](academic-culture-raises-act-scores.md) — related
 - [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — a narrower finding that bears on this claim
 - [Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development](act-scores-similar-across-pd-levels.md) — related
-- CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related

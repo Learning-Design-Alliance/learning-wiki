@@ -44,4 +44,4 @@ Qualitative case study of Sakaarah (IB program, weighted GPA 3.5, ACT in the mid
 
 ## Related Claims
 - [Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college](parental-and-structured-school-support-college-search.md) — related
-- Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit — related
+- [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related

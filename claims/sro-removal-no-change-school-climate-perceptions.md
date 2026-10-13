@@ -62,7 +62,7 @@ Null results for the 5Essentials Student-Teacher Trust measure and the supplemen
 
 
 ## Related Claims
-- High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students — related
+- [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — related
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related

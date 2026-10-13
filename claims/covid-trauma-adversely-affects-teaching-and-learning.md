@@ -46,7 +46,7 @@ The fact sheet asserts, without presenting data or citations, that returning stu
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — a broader claim this one bears on
 - [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) — related
 - [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
-- Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students — related
-- Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic — related
-- Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma — related
-- Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms — related
+- [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
+- [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
+- [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
+- [Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms](educator-depression-anxiety-ptsd-171-study.md) — related

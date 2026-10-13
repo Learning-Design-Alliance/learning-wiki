@@ -47,8 +47,8 @@ The brief's summary of its analysis of 2020-21 school-year gains states that "on
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related
 - [Math growth in 2020-2021 was more variable than in prior years, with much of the gains among initially high-performing students](math-growth-more-variable-high-performers-pulled-ahead.md) — related
-- In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started — related
+- [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — related
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
-- The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development — related
+- [The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development](pandemic-increased-disruptions-and-sead-harm.md) — related

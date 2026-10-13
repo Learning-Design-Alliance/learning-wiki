@@ -67,4 +67,4 @@ Matched-case comparison of false-declaration vignettes against their disclosed c
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — related
 - [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
 - [Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves)](students-avoid-ai-declarations-fearing-consequences.md) — related
-- Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation — related
+- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related

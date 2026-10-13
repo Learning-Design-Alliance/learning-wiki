@@ -45,9 +45,9 @@ The brief's key findings report that the reforms "were also associated with lear
 ## Related Claims
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — a broader claim this one bears on
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — reports the opposite
-- The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress — related
-- For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading — related
-- Impacts of the DC reforms on NAEP math scores were largest for Black students — related
+- [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
+- [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](dcps-grades-6-8-gains-significant-both-subjects.md) — related
+- [Impacts of the DC reforms on NAEP math scores were largest for Black students](dc-reforms-naep-math-impacts-largest-black-students.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
 - [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — possibly the same claim (merge candidate)
 - [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](dc-reforms-larger-expected-grade4-math-reading-naep.md) — related

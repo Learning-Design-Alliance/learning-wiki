@@ -45,6 +45,6 @@ Key takeaway from the eight-state administrator discussion groups, reporting acc
 ## Related Claims
 - [Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported](employer-reluctance-no-mass-cancellations.md) — related
 - [Minimal rigorous research is available on the development and implementation of teacher apprenticeship programs](minimal-rigorous-research-teacher-apprenticeships.md) — related
-- State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic — related
+- [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success](data-infrastructure-performance-measurement-dimension.md) — related
-- Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly — related
+- [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related

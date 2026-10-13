@@ -43,6 +43,6 @@ The page lists this as the third of three key questions the visualizations explo
 
 
 ## Related Claims
-- The visualizations address how students performed in fall 2020 compared to a typical school year — related
+- [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
-- The visualizations address how student growth changed since school buildings closed in March 2020 — related
+- [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — related

@@ -44,4 +44,4 @@ Qualitative expert-led curriculum mapping (collaborative profiling sessions) wit
 
 ## Related Claims
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
-- Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters — related
+- [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related

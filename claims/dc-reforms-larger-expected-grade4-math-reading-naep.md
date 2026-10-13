@@ -43,9 +43,9 @@ Comparative analysis of nearly a quarter century of NAEP data (early 1990s to 20
 
 
 ## Related Claims
-- The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress — possibly the same claim (merge candidate)
+- [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — possibly the same claim (merge candidate)
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — related
-- Impacts of the DC reforms on NAEP math scores were largest for Black students — a narrower finding that bears on this claim
+- [Impacts of the DC reforms on NAEP math scores were largest for Black students](dc-reforms-naep-math-impacts-largest-black-students.md) — a narrower finding that bears on this claim
 - [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](dc-reform-analysis-statistical-controls.md) — related
 - [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — related

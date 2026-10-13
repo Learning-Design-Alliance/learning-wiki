@@ -47,4 +47,4 @@ A national research brief analyzing MAP Growth K-2 assessment data states in its
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — a narrower finding that bears on this claim
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
-- Redshirting trends among U.S. kindergartners were examined between fall 2017 and 2025 using data on over three million students — related
+- [Redshirting trends among U.S. kindergartners were examined between fall 2017 and 2025 using data on over three million students](redshirting-trends-2017-2025-map-growth.md) — related

@@ -45,5 +45,5 @@ Authors' design rationale in the equity discussion section, not an empirical tes
 ## Related Claims
 - [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](indigenous-perspectives-integral-across-sail-levels.md) — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
-- GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support — a broader claim this one bears on
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — a broader claim this one bears on
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — a broader claim this one bears on

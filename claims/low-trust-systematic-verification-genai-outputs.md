@@ -62,8 +62,8 @@ Discouragement item (n=219 responses). The inaccuracy reason was rated 'a lot' b
 
 
 ## Related Claims
-- Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
-- Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern — a broader claim this one bears on
+- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — a broader claim this one bears on
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — a broader claim this one bears on
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — a broader claim this one bears on

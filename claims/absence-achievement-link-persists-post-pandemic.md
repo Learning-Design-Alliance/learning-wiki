@@ -62,7 +62,7 @@ Figure 3 descriptive analysis of average test scores by absence rate for sixth a
 
 
 ## Related Claims
-- Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years — related
+- [Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years](higher-gpas-same-absence-post-pandemic.md) — related
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)](post-pandemic-k2-scores-still-predict-third-grade-outcomes.md) — related

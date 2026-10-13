@@ -44,7 +44,7 @@ The report's review cites studies of successful programs at Bank Street College,
 
 
 ## Related Claims
-- 21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource — related
+- [21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource](21csla-equity-work-challenges-and-reputation.md) — related
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related

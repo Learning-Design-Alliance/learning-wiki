@@ -64,5 +64,5 @@ Survey agreement ratings on parent confidence in science talk after show viewing
 ## Related Claims
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](app-promotes-question-and-check-talk-moves.md) — related
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
-- Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone — related
+- [Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone](splash-bubbles-station-study-coviewing-majority.md) — related
 - [No statistically significant difference in children's post-assessment ocean science scores between intervention and comparison groups](app-no-child-science-knowledge-difference.md) — related

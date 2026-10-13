@@ -48,4 +48,4 @@ An REL Mid-Atlantic infographic presents the argument that "staff feedback" from
 - [Teacher survey measures correlate most with the Instruction, Talent, and School Culture domains of DCPS principal supervisor assessments](survey-measures-most-correlated-instruction-talent-culture.md) — related
 - [When a school gets a new principal, Insight survey domain scores change more than student proficiency rates](new-principal-survey-scores-change-more-than-proficiency.md) — related
 - [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](survey-supervisor-rating-correlations-026-046.md) — related
-- Evaluations of leadership competency increase with hierarchical position in Vietnamese universities — related
+- [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related

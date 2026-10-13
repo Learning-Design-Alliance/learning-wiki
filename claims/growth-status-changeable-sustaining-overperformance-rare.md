@@ -45,4 +45,4 @@ Longitudinal transition analysis of 6,274 schools present in both grade levels (
 ## Related Claims
 - [Schools beating the odds — moving from underperformer to overperformer growth status between Grades 1 and 2 — are rare (about 1% of schools)](beat-the-odds-under-to-over-transition-rare.md) — related
 - [School growth status was changeable rather than stable: only 0.5% of schools stayed overperformers across all three years, while 40.5% stayed average](school-growth-status-unstable-overperforming-hard-to-sustain.md) — related
-- Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2 — related
+- [Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2](school-level-variation-math-growth-grade1-2.md) — related

@@ -43,8 +43,8 @@ Qualitative finding from the discussion groups' Barriers section. One administra
 
 
 ## Related Claims
-- Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better — related
-- Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption — related
+- [Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better](student-behavior-most-negative-teacher-reports.md) — related
+- [Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption](chicago-classroom-disruption-widespread.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related

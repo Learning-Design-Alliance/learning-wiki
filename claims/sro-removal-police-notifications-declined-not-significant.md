@@ -43,8 +43,8 @@ School-level difference-in-difference analysis of police notifications in CPS hi
 
 
 ## Related Claims
-- High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students — related
+- [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
 - [Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels](sro-removal-reduces-high-level-discipline-infractions.md) — related
-- Local School Council decisions collectively produced racialized differences in SRO presence, with Black students more than twice as likely as other students to have an SRO in their school — related
+- [Local School Council decisions collectively produced racialized differences in SRO presence, with Black students more than twice as likely as other students to have an SRO in their school](lsc-sro-decisions-racialized-differences.md) — related
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related

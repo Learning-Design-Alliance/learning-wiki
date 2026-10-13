@@ -44,7 +44,7 @@ Teacher reflections from the 2022 data (N=23 context) show teachers framing CT a
 
 ## Related Claims
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — related
-- Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization — related
+- [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
 - [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](puzzlets-debugging-progress-and-collaboration-growth.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related

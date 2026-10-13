@@ -43,6 +43,6 @@ Qualitative portion of the mixed-methods study drawing on interviews with staff 
 
 
 ## Related Claims
-- School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year — related
-- School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics — related
-- Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — related
+- [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](school-closings-severed-social-connections-mourning.md) — related
+- [Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options](chicago-closings-families-chose-welcoming-schools-priorities-and-barriers.md) — related

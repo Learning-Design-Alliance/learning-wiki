@@ -44,4 +44,4 @@ The report's own framing of its investigation: an analysis of NWEA MAP Growth in
 
 ## Related Claims
 - [Interpreting differences in school-aggregate test scores as real differences in school performance raises accuracy concerns even under routine schooling conditions, which the pandemic may exacerbate](aggregate-score-interpretation-accuracy-concerns.md) — a broader claim this one bears on
-- School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions — related
+- [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related

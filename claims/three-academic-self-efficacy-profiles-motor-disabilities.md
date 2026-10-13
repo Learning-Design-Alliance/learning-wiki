@@ -43,6 +43,6 @@ Latent Profile Analysis on standardized scores of 102 students with motor disabi
 
 
 ## Related Claims
-- Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities — related
+- [Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities](self-efficacy-profile-distribution-102-students.md) — related
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related

@@ -43,12 +43,12 @@ The report cites a study of rural Michigan school districts: "students with no h
 
 
 ## Related Claims
-- Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](assistments-classwork-shift-rural-equity.md) — related
-- Rural youth report less access to internship opportunities than urban peers (38% vs. 55%) — related
+- [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — related
 - [Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

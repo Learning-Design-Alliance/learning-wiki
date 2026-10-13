@@ -43,10 +43,10 @@ Descriptive distribution analysis of students in grades 3-8 in school year 2018-
 
 
 ## Related Claims
-- Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
-- Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average — related
+- [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](subgroup-categories-mask-within-category-variation.md) — related
-- Black and Latinx students generally feel less safe at school than their White peers — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related

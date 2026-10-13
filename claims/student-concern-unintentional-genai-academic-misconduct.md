@@ -44,8 +44,8 @@ Survey finding from the mixed-methods study of 149 first-year business undergrad
 
 ## Related Claims
 - [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — a broader claim this one bears on
-- Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences — related
-- Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges — related
+- [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](academic-integrity-paramount-genai-policy-concern.md) — related
+- [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](self-reported-cheating-rates-college-high-school.md) — related
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related

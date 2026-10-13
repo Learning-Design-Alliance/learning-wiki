@@ -44,6 +44,6 @@ The review reports this secondhand, citing Reza et al.'s study of AI praxically 
 
 ## Related Claims
 - [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](aied-u-positive-indirect-effect-via-effort-reduction.md) — related
-- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — related
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [Praxical teacher-AI grading teaming decreased grading time by 44% and increased accuracy by 6% versus manual grading](praxical-grading-time-accuracy-gains.md) — related
 - [NLP-based automated grading in a MOOC platform reduced grading time by 70% and increased learner satisfaction by 15%](mooc-nlp-grading-70-percent-time-reduction.md) — related

@@ -43,4 +43,4 @@ Observational analysis of eighth-grade math gain scores by test-form transition,
 
 
 ## Related Claims
-- CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades — related
+- [CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades](cps-productivity-gains-peaked-1997.md) — related

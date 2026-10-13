@@ -45,7 +45,7 @@ Report finding drawing on key leader interviews, focus groups, and survey data a
 ## Related Claims
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — related
-- Principals' positive perceptions of TPE rose 17 to 37 percentage points and teachers' rose 20 to 31 percentage points between 2013 and 2016 — related
-- Principals are generally more positive about TPE than teachers, but perception gaps are narrowing — related
-- Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items — related
-- Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers — related
+- [Principals' positive perceptions of TPE rose 17 to 37 percentage points and teachers' rose 20 to 31 percentage points between 2013 and 2016](tpe-perception-gains-2013-2016.md) — related
+- [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
+- [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
+- [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related

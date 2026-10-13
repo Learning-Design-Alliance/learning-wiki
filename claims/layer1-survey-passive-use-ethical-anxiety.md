@@ -42,7 +42,7 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 
 ## Related Claims
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
-- Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%) — related
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Over two semesters the LearnAI deployment reached 18 courses (293 enrolled students) and 35 co-creation clients who produced 36 portfolio websites and over 20 deployed applications](learnai-reach-artifacts-two-semesters.md) — related
@@ -50,4 +50,4 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 - [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related
 - [Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)](anticipatory-ai-guilt-exceeds-experienced-guilt.md) — related
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
-- Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it — related
+- [Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it](certainty-proof-gap-ai-detection.md) — related

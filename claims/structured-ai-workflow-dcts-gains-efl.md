@@ -67,5 +67,5 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 ## Related Claims
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
-- In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test — related
+- [In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test](science-educators-mean-ai-literacy-16-7-of-30.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related

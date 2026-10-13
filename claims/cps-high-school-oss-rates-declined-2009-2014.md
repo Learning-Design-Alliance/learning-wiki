@@ -44,10 +44,10 @@ Descriptive analysis of CPS administrative suspension data from 2008-09 to 2013-
 
 ## Related Claims
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
-- Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
-- Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined — related
+- [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
+- [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict — related
-- Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS — related
+- [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
+- [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
-- Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment — related
+- [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related

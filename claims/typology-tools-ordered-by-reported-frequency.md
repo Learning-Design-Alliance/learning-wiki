@@ -43,5 +43,5 @@ Methodological description of the typology's organization from the Introduction:
 
 
 ## Related Claims
-- A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories — related
+- [A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories](211-educators-survey-50-genai-tools-nine-categories.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related

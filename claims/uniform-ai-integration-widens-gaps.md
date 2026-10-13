@@ -45,8 +45,8 @@ Theoretical argument coupling a cognitive mechanism to a social structure: the s
 ## Related Claims
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — a broader claim this one bears on
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — related
-- AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment — related
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
+- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
 - [Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI](critical-evaluation-of-ai-outputs-increased-unevenly.md) — related
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related

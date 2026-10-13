@@ -65,6 +65,6 @@ Analysis of 2014 school survey data comparing schools at the full implementation
 - [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related
 - [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related
 - [Kansas schools moved from exploration to initial implementation of MTSS between 2012 and 2014, while full implementation stayed near 8%](kansas-mtss-schools-advance-implementation-stages.md) — related
-- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training — related
+- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
 - [Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time](kansas-mtss-implementation-stages-advancing.md) — related
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related

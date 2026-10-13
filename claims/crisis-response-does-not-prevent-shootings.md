@@ -43,11 +43,11 @@ The brief argues that lockdown procedures and survival trainings such as "Run, H
 
 
 ## Related Claims
-- 95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans — related
+- [95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans](95-percent-us-schools-conduct-lockdown-drills.md) — related
 - [Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes](behavioral-skills-training-mastery-lockdown-steps.md) — related
 - [Lockdown training and drill participation improved students' knowledge and perceptions of preparedness without increasing anxiety, per the studies the brief reviews](lockdown-training-improves-preparedness-without-trauma.md) — related
-- Research on SRO effectiveness does not address whether their presence deters mass shootings, though schools with police are more likely to have emergency plans and regular safety checks — related
+- [Research on SRO effectiveness does not address whether their presence deters mass shootings, though schools with police are more likely to have emergency plans and regular safety checks](sro-research-does-not-address-mass-shooting-deterrence.md) — related
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
-- State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment — related
+- [State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment](state-safety-legislation-focuses-emergency-management.md) — related
 - [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

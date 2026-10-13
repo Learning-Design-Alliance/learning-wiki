@@ -66,5 +66,5 @@ The same hired-cohort analysis found mentor qualifications "including their year
 - [Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired](cps-hired-vs-not-hired-no-difference-mentor-ratings.md) — related
 - [CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance](cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
-- Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS — related
+- [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
 - [Mentoring residents improves mentors' own teaching practice](mentoring-residents-improves-mentor-practice.md) — related

@@ -62,7 +62,7 @@ Table 4's first row printed verbatim: "Kenwood Academy 66 55", giving the number
 
 
 ## Related Claims
-- Freshman on-track performance varied across Kenwood's five successive ninth-grade classes from 1993-94 to 1997-98 — related
+- [Freshman on-track performance varied across Kenwood's five successive ninth-grade classes from 1993-94 to 1997-98](kenwood-freshman-trend-1993-1998.md) — related
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 1997 cohort](vivaldi-1997-on-track-varies-by-high-school.md) — related
 - [Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001](vivaldi-first-year-on-track-over-time.md) — related
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related

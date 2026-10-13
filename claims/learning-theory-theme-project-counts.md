@@ -43,5 +43,5 @@ CIRCL team's document coding of the project portfolio, reported in the learning 
 
 
 ## Related Claims
-- The cyberlearning community comprised about 450 projects and two thousand investigators, with teachers as partners in 58% of projects — related
+- [The cyberlearning community comprised about 450 projects and two thousand investigators, with teachers as partners in 58% of projects](cyberlearning-community-composition-450-projects.md) — related
 - [Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen](research-methods-theme-project-counts.md) — related

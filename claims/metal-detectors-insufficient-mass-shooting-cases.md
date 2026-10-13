@@ -44,12 +44,12 @@ Case evidence cited in the brief: despite a standing metal detector at Red Lake 
 
 ## Related Claims
 - [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related
-- Metal detectors impose substantial equipment, personnel, training and time costs on schools — related
+- [Metal detectors impose substantial equipment, personnel, training and time costs on schools](metal-detector-costs-equipment-personnel-time.md) — related
 - [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
 - [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — related
 - [Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors](metal-detectors-lower-student-safety-perceptions.md) — related
 - [School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely](no-consistent-school-shooter-profile.md) — related
-- Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting — related
+- [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](arming-staff-no-evidence-of-safety-benefit.md) — related
 - [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

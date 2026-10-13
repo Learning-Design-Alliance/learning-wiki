@@ -63,6 +63,6 @@ A multistate random assignment study of the University of Washington's CEL progr
 
 ## Related Claims
 - [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — a narrower finding that bears on this claim
-- Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals — related
+- [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — a narrower finding that bears on this claim

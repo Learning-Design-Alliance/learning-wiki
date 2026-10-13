@@ -45,4 +45,4 @@ In the same district-wide observational analysis, the author reports that course
 ## Related Claims
 - [High school course-taking differs substantially among English learners depending on years spent as an EL](course-taking-heterogeneity-by-years-as-el.md) — reports the opposite
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related
-- Prior studies find significant course access gaps between ELs and non-ELs — related
+- [Prior studies find significant course access gaps between ELs and non-ELs](prior-studies-el-non-el-course-access-gaps.md) — related

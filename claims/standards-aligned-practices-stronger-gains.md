@@ -43,7 +43,7 @@ This is a school-level comparison from the districtwide study of surveys, interv
 
 
 ## Related Claims
-- Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform — related
+- [Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform](chicago-instruction-improved-standards-reform.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related
 - [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — related
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related

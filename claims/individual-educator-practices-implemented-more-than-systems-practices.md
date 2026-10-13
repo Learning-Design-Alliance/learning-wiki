@@ -43,6 +43,6 @@ Descriptive analysis of 2022 survey component scales across 271 schools (figure 
 
 
 ## Related Claims
-- Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices — related
+- [Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices](alaska-schools-mostly-emerging-trauma-engaged-implementation.md) — related
 - [Schools reporting higher awareness or use of Alaska's Trauma-Engaged Schools resources reported higher implementation of trauma-engaged practices](resource-awareness-use-associated-with-higher-implementation.md) — related
-- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related

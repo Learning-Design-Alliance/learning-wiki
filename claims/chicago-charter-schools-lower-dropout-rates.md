@@ -43,5 +43,5 @@ School-by-school comparison of TAP performance and dropout rates across CPS high
 
 
 ## Related Claims
-- Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict — related
-- There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled — related
+- [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related

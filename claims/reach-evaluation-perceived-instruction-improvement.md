@@ -43,7 +43,7 @@ Districtwide survey of approximately 12,000 CPS teachers plus administrators aft
 
 
 ## Related Claims
-- Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive — related
+- [Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive](diverging-views-personnel-decisions-reach.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — related

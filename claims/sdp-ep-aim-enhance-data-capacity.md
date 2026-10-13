@@ -43,12 +43,12 @@ Descriptive statement of the programs' aims as printed in the study overview. Th
 
 
 ## Related Claims
-- Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training — a narrower finding that bears on this claim
+- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — a narrower finding that bears on this claim
 - [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](agency-profiles-interview-data-practices.md) — related
 - [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — a narrower finding that bears on this claim
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-staff-placement-capacity-theory-of-action.md) — possibly the same claim (merge candidate)
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — a narrower finding that bears on this claim
-- Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings — a narrower finding that bears on this claim
+- [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — a narrower finding that bears on this claim
 - [The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity](bpss-medium-term-ade-capacity-outcomes.md) — related

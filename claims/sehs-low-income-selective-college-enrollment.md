@@ -43,6 +43,6 @@ Regression discontinuity study comparing students just above and just below the 
 
 
 ## Related Claims
-- There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled — related
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
 - [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
 - [CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group](ib-dp-increases-four-year-and-selective-college-enrollment.md) — related

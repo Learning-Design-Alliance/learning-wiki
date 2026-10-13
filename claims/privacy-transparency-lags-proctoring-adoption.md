@@ -44,7 +44,7 @@ The review's own synthesis (attributed to Khalil et al. 2022 and Nigam et al. 20
 
 ## Related Claims
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
-- Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities — related
+- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](mmla-tiered-data-access-preferences.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — a broader claim this one bears on

@@ -43,7 +43,7 @@ Implementation review of the first two terms (spring and fall 2018) of the new c
 
 
 ## Related Claims
-- Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability — related
+- [Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability](corequisite-success-variability-across-institutions.md) — related
 - [First-year success rates differed by pathway: 79 percent overall for Quantway College with Corequisite versus 54 percent overall for Statway College with Corequisite](quantway-versus-statway-corequisite-success-rates.md) — related
 - [First-year corequisite success rates exceeded those of the traditional developmental math sequence, which the report attributes to prior research showing 20 percent earning college-level math credit within three years and 6 percent within one year](corequisite-success-exceeds-traditional-sequence.md) — related
 - [Higher total contact hours for the paired courses were associated with higher institutional success rates (4 hours: 39%; 5 hours: 61%; 6 hours: 67%)](contact-hours-success-rate-association.md) — related

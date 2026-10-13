@@ -43,4 +43,4 @@ OLS analysis of earnings premiums by MSI type using College Scorecard, PVC frame
 
 
 ## Related Claims
-- Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood — related
+- [Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood](demographics-threshold0-likelihood.md) — related

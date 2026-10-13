@@ -44,5 +44,5 @@ Theme 'Erasure of Educator Efficacy and Wellbeing' built from post P31 (r/Profes
 
 ## Related Claims
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
-- Academic burnout is widespread among secondary vocational students — related
+- [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
 - [Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing](seven-forms-academic-erasure-educator-discourse.md) — related

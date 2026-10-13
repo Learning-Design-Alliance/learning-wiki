@@ -45,4 +45,4 @@ District report of 2024 SBAC assessment results for LBUSD. The brief states Blac
 ## Related Claims
 - [At-risk students show substantially lower achievement than non-At-risk peers on state tests](at-risk-students-lower-achievement-sbac.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
-- No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000 — related
+- [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — related

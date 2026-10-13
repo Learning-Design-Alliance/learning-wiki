@@ -43,8 +43,8 @@ Value-added analysis tracing short-term outcomes of attending schools with stron
 
 
 ## Related Claims
-- More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic — related
-- Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy — related
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
+- [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
 - [Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities](absences-explain-course-performance-gaps-disabilities.md) — related
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related

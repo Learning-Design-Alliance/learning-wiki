@@ -76,5 +76,5 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
-- LLM learners are younger, more likely male, and score higher on technology affinity than non-learners — related
+- [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

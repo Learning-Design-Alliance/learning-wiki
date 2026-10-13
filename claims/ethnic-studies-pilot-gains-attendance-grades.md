@@ -43,4 +43,4 @@ The report cites Dee and Penner (2016) research showing ethnic studies classes h
 
 
 ## Related Claims
-- The ethnic studies movement originated in the 1968 San Francisco State University student strike demanding a non-Eurocentric curriculum — related
+- [The ethnic studies movement originated in the 1968 San Francisco State University student strike demanding a non-Eurocentric curriculum](ethnic-studies-origins-1968-sfsu-strike.md) — related

@@ -63,4 +63,4 @@ Thread-level analysis of mixed-role threads shows "Students initiate 68% of mixe
 
 ## Related Claims
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
-- GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn — related
+- [GenAI education discourse evolved through three phases: detection crisis, enforcement surge, and practical turn](genai-discourse-three-phase-evolution.md) — related

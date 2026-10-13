@@ -62,4 +62,4 @@ Change Idea Summary analysis of second-year focal DEAs: "69% of teachers focused
 
 
 ## Related Claims
-- The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019 — related
+- [The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019](bmtn-student-deep-engagement-aim-exceeded.md) — related

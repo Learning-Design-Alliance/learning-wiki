@@ -43,4 +43,4 @@ Analysis relating district attendance data and Google Meets participation to 202
 
 
 ## Related Claims
-- High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences — related
+- [High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences](hs-remote-absence-driven-by-minutes.md) — related

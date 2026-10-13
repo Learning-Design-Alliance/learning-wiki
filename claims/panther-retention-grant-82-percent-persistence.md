@@ -45,5 +45,5 @@ The brief cites Georgia State University's Panther Retention Grant program as ev
 ## Related Claims
 - [Offering experimental Pell Grants for very short-term occupational training programs increased program enrollment and completion by about 10 percentage points](pell-experiment-very-short-programs-10-point-enrollment-completion.md) — related
 - [Offering experimental Pell Grants for short occupational programs to low-income students who already hold a bachelor's degree increased program enrollment and completion by about 20 percentage points](pell-experiment-bachelors-degree-20-point-enrollment-completion.md) — related
-- In the A2S baseline, the average six-year graduation rate for Pell recipients was 45 percent versus 57 percent for higher-income students — related
+- [In the A2S baseline, the average six-year graduation rate for Pell recipients was 45 percent versus 57 percent for higher-income students](pell-graduation-gap-45-versus-57.md) — related
 - [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

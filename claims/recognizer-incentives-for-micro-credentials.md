@@ -49,7 +49,7 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](kettle-moraine-salary-linked-micro-credential-adoption.md) — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related
 - [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
-- U.S. recertification policy relies heavily on seat-time CEUs: 44 states require them while only six require performance indicators for licensure renewal — related
+- [U.S. recertification policy relies heavily on seat-time CEUs: 44 states require them while only six require performance indicators for licensure renewal](recertification-seat-time-ceu-dominance.md) — related
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related
 - [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](bcps-stat-pilot-cpd-credit.md) — a narrower finding that bears on this claim
 - [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — related
@@ -58,7 +58,7 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies](credentialing-market-demand-shorter-competency-credentials.md) — related
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
 - [In Kentucky, educators used micro-credentials to advance from Rank II to Rank I, increasing their yearly salaries](kvec-microcredentials-teacher-rank-and-salary-increase.md) — related
-- Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — related
 - [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](microcredential-motivation-and-risks.md) — related
 - [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming](rural-microcredential-learners-report-skill-and-employment-gains.md) — a broader claim this one bears on
 - [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — a broader claim this one bears on

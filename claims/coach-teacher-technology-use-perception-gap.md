@@ -62,4 +62,4 @@ The survey found 76 percent of coaches report supporting educators in using tech
 
 
 ## Related Claims
-- About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
+- [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related

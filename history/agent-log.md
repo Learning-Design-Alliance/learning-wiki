@@ -49,6 +49,12 @@ at the top, under this paragraph.
     about 41% design findings, 32% descriptive context, 19% research method or AI-model
     performance. Retrieval now runs per kind and offers strategies and learner variables; 932
     more verified links were written.
+  - **Correction, same day: the removal below was reverted.** The maintainer had asked for a view,
+    not a ruling, and then pointed out that "method" claims such as knowledge-tracing accuracy are
+    design evidence for a course that relies on KT. The classifier's prompt had defined method as
+    "not about learners learning", which filed component reliability as not-design by construction.
+    The pages, revision cards and links were restored, and claims are being re-sorted on the test
+    "could a design decision change because of this?" (CLAUDE.md).
   - **1,959 descriptive-context claims removed** (maintainer: "Context claims are only useful as
     filters on evidence, not evidence by itself"). Each was cited by no concept page and called
     context by both models. `scripts/remove_pages.py` took their links and revision cards with

@@ -62,5 +62,5 @@ Moderator analysis in the learning-time section of the survey: schools with less
 
 
 ## Related Claims
-- Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math — a broader claim this one bears on
-- Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models — related
+- [Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math](learning-time-decreases-spring-2020.md) — a broader claim this one bears on
+- [Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models](self-directed-learning-increase-universal.md) — related

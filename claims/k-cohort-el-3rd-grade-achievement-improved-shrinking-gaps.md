@@ -60,6 +60,6 @@ Using the K-cohort framework (tracking all students who started kindergarten as 
 
 
 ## Related Claims
-- More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related
+- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related
 - [Improvements in English proficiency acquisition occurred across all initial proficiency levels but were largest for students with the lowest initial scores, though large gaps remained by end of elementary school](proficiency-gains-by-initial-level.md) — related
 - [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](el-english-speaker-gap-increasing-statewide.md) — related

@@ -43,7 +43,7 @@ RQ1 theme on transformation of learner identity and agency, drawn from teacher a
 
 
 ## Related Claims
-- Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related
 - [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — related
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related

@@ -44,9 +44,9 @@ The report's review of state vacancy reporting found that because districts were
 
 ## Related Claims
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
-- Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most — related
-- Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them — related
-- Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20 — related
-- Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in 2017-18 — related
-- U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023 — related
-- Increased retirements and resignations contributed to shortages in most large districts surveyed — related
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — related
+- [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
+- [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
+- [Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in 2017-18](nc-teacher-workforce-cuts-vacancies-rural-turnover.md) — related
+- [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
+- [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related

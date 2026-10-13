@@ -41,6 +41,6 @@ Cross-sectional survey in one School of a research-intensive UK university (86 c
 
 
 ## Related Claims
-- Staff showed more negativity in attitudes towards student use of GAI than students did — related
-- Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves — related
+- [Staff showed more negativity in attitudes towards student use of GAI than students did](staff-more-negative-attitudes-student-gai.md) — related
+- [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — related
 - [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related

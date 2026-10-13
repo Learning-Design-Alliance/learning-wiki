@@ -45,4 +45,4 @@ A narrative policy review by the authors asserts, based on the behavioral scienc
 ## Related Claims
 - [Behavioral science research shows accountability comes in many forms that activate different mechanisms](accountability-many-forms-different-mechanisms.md) — possibly the same claim (merge candidate)
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](accountability-effects-depend-on-type-context-task.md) — related
-- Schooling's mix of public and private purposes requires accountability to multiple constituencies — related
+- [Schooling's mix of public and private purposes requires accountability to multiple constituencies](school-accountability-multiple-constituencies.md) — related

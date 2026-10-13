@@ -45,4 +45,4 @@ HSLS:09 survey analysis of student-reported school climate by advanced course-ta
 ## Related Claims
 - [High-achieving underserved students who took advanced math had higher high school GPAs and four-year graduation rates than those who did not](advanced-math-higher-hs-gpa-graduation.md) — related
 - [Among high-achieving Black students, advanced-math takers more often had counselors who set high standards and spent more time on college preparation, though the standards difference was not statistically significant](counselor-standards-college-prep-advanced-math.md) — related
-- Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected — related
+- [Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected](gateway-climate-survey-belonging.md) — related

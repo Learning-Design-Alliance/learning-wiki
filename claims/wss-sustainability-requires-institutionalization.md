@@ -52,7 +52,7 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — a narrower finding that bears on this claim
-- Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions — related
+- [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related

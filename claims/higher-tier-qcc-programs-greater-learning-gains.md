@@ -45,4 +45,4 @@ Regression analysis of fall and spring DRDP scores for approximately 70,000 chil
 - [Children with disabilities showed larger gains in higher-tier programs than children without disabilities](children-with-disabilities-larger-gains-higher-tiers.md) — a narrower finding that bears on this claim
 - [Multilingual learners gained more in higher-tier programs than non-multilingual learners, with Tier 5 gains of 2.6–2.8 additional months](multilingual-learners-larger-gains-higher-tiers.md) — a narrower finding that bears on this claim
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — a narrower finding that bears on this claim
-- Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs — related
+- [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](black-hispanic-multiracial-children-underrepresented-high-tier.md) — related

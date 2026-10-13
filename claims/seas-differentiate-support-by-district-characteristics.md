@@ -43,11 +43,11 @@ Interview finding from the 10-SEA study. The article reports that districts with
 
 
 ## Related Claims
-- An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration. — related
+- [An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration.](four-sea-lea-role-categories-essa-plans.md) — related
 - [SEA staff describe their role as providing both support and accountability to LEAs, and describe struggling to balance the two.](seas-balance-support-and-accountability.md) — related
 - [SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.](seas-take-multiple-malleable-roles.md) — a broader claim this one bears on
-- SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies. — related
-- Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind. — related
-- The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans. — related
-- Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
-- SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
+- [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
+- [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
+- [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
+- [Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact](sea-data-use-for-support-refinement-nascent.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

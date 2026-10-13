@@ -82,8 +82,8 @@ Same challenge-scale analysis by household income (Table 2); the report also fou
 
 ## Related Claims
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — a narrower finding that bears on this claim
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
-- Technology access problems during remote learning fell more heavily on minoritized and lower-income students — related
+- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related

@@ -50,4 +50,4 @@ This narrative synthesis reports that "AI-enhanced tools facilitate adaptive tes
 - [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
-- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — related
+- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related

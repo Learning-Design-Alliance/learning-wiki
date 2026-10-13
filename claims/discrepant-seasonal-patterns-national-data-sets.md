@@ -47,4 +47,4 @@ The abstract's concluding sentence identifies "discrepant seasonal patterns acro
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](seven-million-students-three-seasonal-occasions.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — related
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
-- Schooling does not show a compensatory effect on math skill inequality — related
+- [Schooling does not show a compensatory effect on math skill inequality](no-compensatory-effect-math-inequality.md) — related

@@ -51,12 +51,12 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
-- Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade — related
+- [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
 - [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related
 - [The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective](value-added-misclassification-consequences-teachers-students.md) — related
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Teachers improve faster in supportive professional environments, with gaps widening over time](supportive-environments-faster-teacher-improvement.md) — related
 - [Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee](cumulative-teacher-sequence-effects-tennessee.md) — related
 - [In Dallas, sequences of three effective versus three ineffective teachers separated students by more than 35 percentile points in reading and 50 points in math](dallas-teacher-sequence-reading-math-gaps.md) — related
-- Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences — possibly the same claim (merge candidate)
+- [Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences](inequitable-teacher-distribution-achievement-consequences.md) — possibly the same claim (merge candidate)
 - [Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover](teacher-sequence-effectiveness-gains-losses.md) — related

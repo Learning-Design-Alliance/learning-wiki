@@ -46,8 +46,8 @@ The report cites Willis et al. (2020) administrative data showing multilingual l
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California — possibly the same claim (merge candidate)
-- English learners, particularly Hispanic Spanish-speaking students, were disproportionately identified for special education in the Specific Learning Disability category — a narrower finding that bears on this claim
-- Experts report likely overrepresentation of foster children in special education and no direct clear evidence that special education works for them — related
-- Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities — related
+- [Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California](disproportionate-identification-english-learners-socioeconomically-disadvantaged.md) — possibly the same claim (merge candidate)
+- [English learners, particularly Hispanic Spanish-speaking students, were disproportionately identified for special education in the Specific Learning Disability category](english-learners-disproportionate-sld-identification.md) — a narrower finding that bears on this claim
+- [Experts report likely overrepresentation of foster children in special education and no direct clear evidence that special education works for them](foster-care-special-education-effectiveness-gap.md) — related
+- [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — related
 - [Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent](chronic-absence-inequities-disaggregation.md) — related

@@ -43,5 +43,5 @@ The brief reports a data-driven analysis of publicly available census data for C
 
 
 ## Related Claims
-- The five Chicago neighborhood groupings reflect longstanding residential segregation and racial and economic inequities — related
+- [The five Chicago neighborhood groupings reflect longstanding residential segregation and racial and economic inequities](chicago-neighborhood-groupings-reflect-segregation.md) — related
 - [Neighborhood groupings reveal variation within Chicago's 77 community areas that typical analyses miss](groupings-finer-grained-than-77-community-areas.md) — related

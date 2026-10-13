@@ -43,4 +43,4 @@ The report's North Carolina case study summary attributes this correlational fin
 
 
 ## Related Claims
-- Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved — related
+- [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related

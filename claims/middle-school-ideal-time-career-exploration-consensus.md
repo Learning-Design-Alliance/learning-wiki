@@ -43,4 +43,4 @@ Narrative review section attributing this consensus to AdvanceCTE & ACTE (2020),
 
 
 ## Related Claims
-- The state-developed Middle School Engage! Career Exploration and Readiness course was underutilized, accounting for just 0.4 percent of statewide enrollments — related
+- [The state-developed Middle School Engage! Career Exploration and Readiness course was underutilized, accounting for just 0.4 percent of statewide enrollments](nebraska-engage-career-exploration-course-underutilized.md) — related

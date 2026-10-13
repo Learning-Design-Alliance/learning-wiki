@@ -44,7 +44,7 @@ The review's cross-study synthesis reports recurring concerns about generative A
 
 ## Related Claims
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — related
-- ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek — related
+- [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [The evidence base on AI in Arab EL2 classrooms is limited by perception-based designs, varied samples, and insufficient reporting of AI versions and implementation](arab-ai-el2-evidence-limitations.md) — related
@@ -55,12 +55,12 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [Students in an academic writing course developed a more nuanced understanding of AI's capabilities and limitations, engaging with it as a support tool rather than a substitute for original work](ai-support-tool-nuanced-understanding-academic-writing.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — a narrower finding that bears on this claim
 - [Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy](trust-not-equivalent-to-ai-accuracy.md) — related
-- Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training — related
+- [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](under-10-percent-arab-he-formal-ai-training.md) — related
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — related
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
-- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
 - [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related

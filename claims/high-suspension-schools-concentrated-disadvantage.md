@@ -45,9 +45,9 @@ Observational analysis of Chicago district discipline data. The report identifie
 ## Related Claims
 - [Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14](abuse-neglect-history-high-suspension-risk.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
-- Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict — related
+- [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
+- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related
-- Black and poor students are suspended from US schools at higher rates than White and nonpoor students — related
+- [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — related

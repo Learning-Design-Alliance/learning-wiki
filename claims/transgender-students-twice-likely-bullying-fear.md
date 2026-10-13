@@ -48,6 +48,6 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — a broader claim this one bears on
-- Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — related
-- Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students — related
-- Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students — related
+- [Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims](victims-fear-attack-higher-than-nonvictims.md) — related
+- [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
+- [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related

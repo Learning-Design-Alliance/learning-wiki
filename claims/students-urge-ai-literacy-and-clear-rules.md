@@ -43,20 +43,20 @@ Final questionnaire question, "What should higher education institutions do abou
 
 
 ## Related Claims
-- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
-- Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators — related
+- [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
-- AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent — related
-- Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines — related
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
+- [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](genai-use-high-ethical-guidelines-rare.md) — related
 - [First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks](ma-students-cautious-pragmatic-genai-use.md) — related
-- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
-- Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment — related
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
 - [Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines](genai-partial-integration-preferences-hss.md) — related
 - [The GenAI higher-education literature invokes responsibility frequently but almost never assigns accountability to AI or names a responsible bearer](responsibility-invoked-but-bearer-unnamed.md) — related
 - [Comprehensive institutional GenAI guidelines translate to course-level guidelines at higher rates (48.3–71.4%) than moderately comprehensive ones (30.8–31.2%)](comprehensive-institutional-guidelines-translate-to-course-level.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — a broader claim this one bears on
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related
-- Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration — related
+- [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — related
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related

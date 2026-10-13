@@ -62,8 +62,8 @@ Chapter 5 regression-controlled comparison of PLAN and ACT scores in the primary
 
 
 ## Related Claims
-- There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled — related
-- Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance — related
-- On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements — related
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
+- [Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance](cps-charter-incoming-skills-feeder-pool.md) — related
+- [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](cps-charter-similar-or-lower-behaviors-promotion.md) — related
 - [Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college](charter-high-schools-higher-college-attendance.md) — related
-- Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions — related
+- [Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions](higher-performing-schools-better-student-experiences.md) — related

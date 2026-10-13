@@ -43,7 +43,7 @@ Exploratory k-means cluster analysis in the 109-respondent survey produced four 
 
 
 ## Related Claims
-- AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt — related
+- [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
 - [Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt](ai-non-users-report-higher-guilt-than-users.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related

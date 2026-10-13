@@ -43,6 +43,6 @@ The paper's synthesis of charter school research reports that "urban charter sch
 
 
 ## Related Claims
-- Urban charter schools have more positive impacts on student achievement than other charter schools — a narrower finding that bears on this claim
+- [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — a narrower finding that bears on this claim
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — a narrower finding that bears on this claim
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related

@@ -45,7 +45,7 @@ Newmann, Bryk, and Nagaoka analyzed about 2,000 assignments and standardized tes
 ## Related Claims
 - [Ninety-five Chicago elementary schools showed substantial improvement in academic productivity, accumulating an extra half year of learning in reading and over 1.25 years in mathematics over eight grades](95-improving-schools-extra-half-year-reading-1-25-math.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
-- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
+- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
 - [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](demanding-assignments-benefit-all-achievement-levels.md) — possibly the same claim (merge candidate)
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — possibly the same claim (merge candidate)
 - [Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments](classroom-composition-not-linked-assignment-quality.md) — related

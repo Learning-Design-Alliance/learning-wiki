@@ -44,5 +44,5 @@ Descriptive frequency analysis of primary advantages across the RQ1/RQ2 subset (
 
 ## Related Claims
 - [In the retrieved corpus of digitally supported teacher education research, competence and ICT-integration frameworks are the most frequent primary strategy (46.5%)](competence-frameworks-most-frequent-strategy-digitally-supported-teacher-education.md) — related
-- Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education — related
+- [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related
 - [In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier](ai-subset-approaches-and-barriers-teacher-education.md) — related

@@ -62,7 +62,7 @@ Survey finding on LEA size as a moderator of classroom model. The report attribu
 
 
 ## Related Claims
-- There was no common model for how LEAs planned to structure TK classes, with many planning stand-alone classes and many others combination classes — related
-- More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners — related
-- Stand-alone TK classrooms increased to 77% of TK classrooms in 2023–24 while TK–kindergarten combination classes fell to 20% — related
-- Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs — related
+- [There was no common model for how LEAs planned to structure TK classes, with many planning stand-alone classes and many others combination classes](no-common-tk-delivery-model.md) — related
+- [More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners](quarter-of-leas-no-tk-language-model.md) — related
+- [Stand-alone TK classrooms increased to 77% of TK classrooms in 2023–24 while TK–kindergarten combination classes fell to 20%](tk-stand-alone-classrooms-increased.md) — related
+- [Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs](full-day-tk-and-expanded-day-by-lea-size.md) — related

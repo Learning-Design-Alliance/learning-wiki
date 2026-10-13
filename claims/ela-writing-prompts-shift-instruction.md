@@ -45,4 +45,4 @@ The report cites several studies (endnoted) as evidence that assessment content 
 ## Related Claims
 - [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — related
 - [The Teacher Potential Project produced positive impacts on specific Common Core-aligned instructional practices, including engaging students with texts, supporting text evidence use, and supporting higher order thinking](tpp-positive-impacts-ccss-aligned-practices.md) — related
-- Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions — a broader claim this one bears on
+- [Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions](systemwide-actors-shape-instruction-via-assessment.md) — a broader claim this one bears on

@@ -50,4 +50,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related
-- Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes — related
+- [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related

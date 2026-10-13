@@ -62,11 +62,11 @@ The same Century Foundation analysis, as reported by the brief, found that "afte
 
 
 ## Related Claims
-- Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing — related
-- Parent PLUS loans take up a larger share of typical Black family income than of typical White family income — related
-- Black Parent PLUS borrowers default at disproportionately high rates compared with White parent borrowers — related
-- Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments — related
-- Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt — related
-- Parent PLUS borrowers lack direct access to income-driven repayment plans and can only reach the least generous plan via consolidation — related
-- Upward economic mobility from low-income childhood is far rarer for Black children than White children — related
-- Monthly payments under the new RAP plan are much higher than under the SAVE plan for a middle-income family of four — related
+- [Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing](black-parents-highest-parent-plus-take-up-rate.md) — related
+- [Parent PLUS loans take up a larger share of typical Black family income than of typical White family income](parent-plus-loans-larger-share-black-family-income.md) — related
+- [Black Parent PLUS borrowers default at disproportionately high rates compared with White parent borrowers](black-parent-plus-borrowers-disproportionate-default.md) — related
+- [Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments](black-women-least-family-help-repaying-loans.md) — related
+- [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related
+- [Parent PLUS borrowers lack direct access to income-driven repayment plans and can only reach the least generous plan via consolidation](parent-plus-borrowers-limited-idr-access.md) — related
+- [Upward economic mobility from low-income childhood is far rarer for Black children than White children](racial-gap-upward-economic-mobility.md) — related
+- [Monthly payments under the new RAP plan are much higher than under the SAVE plan for a middle-income family of four](rap-payments-much-higher-than-save.md) — related

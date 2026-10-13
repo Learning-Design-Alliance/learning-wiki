@@ -43,9 +43,9 @@ Program outcome reporting for the UCLA IMPACT ECE/Multiple Subject program (2010
 
 
 ## Related Claims
-- Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers — a broader claim this one bears on
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — a broader claim this one bears on
 - [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — a broader claim this one bears on
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — a broader claim this one bears on
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — a broader claim this one bears on
 - [Fresno Unified's TK–3 residency placed 30 new early-grade teachers in 2 years with an 83% retention rate as of spring 2022](fresno-tk3-residency-30-teachers-83-percent-retention.md) — related
-- Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related

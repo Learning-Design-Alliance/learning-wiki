@@ -62,11 +62,11 @@ Completion broken down by college type: immediate four-year enrollees completed 
 
 
 ## Related Claims
-- A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate — related
-- Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
-- Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees — related
-- CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate — a broader claim this one bears on
-- Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent) — related
-- Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees — related
-- Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent) — related
-- Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers — related
+- [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
+- [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related
+- [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — a broader claim this one bears on
+- [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md) — related
+- [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md) — related
+- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- [Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers](foster-care-graduation-college-gaps.md) — related

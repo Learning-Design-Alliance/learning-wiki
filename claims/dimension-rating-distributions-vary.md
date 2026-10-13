@@ -63,5 +63,5 @@ Rating distributions across the same 201-lesson sample. Not Present was most fre
 
 ## Related Claims
 - [Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently](contextualized-story-problems-sense-making.md) — related
-- Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions — related
+- [Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions](majority-lessons-no-high-expert-rating.md) — related
 - [Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity](participation-structures-access-challenging-math.md) — related

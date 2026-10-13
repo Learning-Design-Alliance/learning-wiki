@@ -43,5 +43,5 @@ Analysis of Civil Rights Data Collection AP enrollment (2021-2022) comparing Mic
 
 
 ## Related Claims
-- Students in Michigan's wealthiest districts have, on average, over 7 times more AP course options than students in the highest-poverty districts — related
-- Michigan AP exam score distributions differ sharply by race: 16.6% of exams taken by white students earned a 5 versus 5.6% for Black students — related
+- [Students in Michigan's wealthiest districts have, on average, over 7 times more AP course options than students in the highest-poverty districts](michigan-ap-options-sevenfold-poverty-gap.md) — related
+- [Michigan AP exam score distributions differ sharply by race: 16.6% of exams taken by white students earned a 5 versus 5.6% for Black students](michigan-ap-score-racial-disparities.md) — related

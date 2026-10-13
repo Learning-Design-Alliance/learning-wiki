@@ -43,7 +43,7 @@ Correlation analysis of survey responses relating ownership and creativity items
 
 
 ## Related Claims
-- Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
+- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
 - [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — reports the opposite

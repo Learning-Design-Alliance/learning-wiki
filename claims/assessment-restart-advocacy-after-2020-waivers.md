@@ -45,5 +45,5 @@ A descriptive account in the article's introduction of the policy context: feder
 ## Related Claims
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
-- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
+- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Assessments are framed as one indicator among many of student impact from COVID-19](assessments-one-indicator-among-many-covid-impact.md) — related

@@ -68,4 +68,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
-- LLM learners are younger, more likely male, and score higher on technology affinity than non-learners — reports the opposite
+- [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — reports the opposite

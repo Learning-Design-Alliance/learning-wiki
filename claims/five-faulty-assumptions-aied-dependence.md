@@ -46,7 +46,7 @@ This is a theoretical argument in a position paper, not an empirical test. The a
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related
-- The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months — related
+- [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
 - [Agency develops only within an intensely communal (attachment) relationship](agency-evolves-within-communal-relationship.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related

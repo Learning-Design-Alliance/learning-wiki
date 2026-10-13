@@ -44,7 +44,7 @@ The article's own description of the accompanying technical appendix states the 
 
 ## Related Claims
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — related
-- The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic — related
+- [The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic](algebra-enrollment-gender-during-after-pandemic.md) — related
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — related
 - [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
 - [Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic](gender-gap-trends-three-national-assessments-8th-grade.md) — related

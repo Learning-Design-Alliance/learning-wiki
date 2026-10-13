@@ -43,11 +43,11 @@ Descriptive geographic mapping of the 42 included studies (Results, RQ1, Figure 
 
 
 ## Related Claims
-- Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
+- [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — a broader claim this one bears on
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
-- GAI research in education is geographically concentrated in Europe, the United States, and Asia — reports the opposite
+- [GAI research in education is geographically concentrated in Europe, the United States, and Asia](gai-studies-geographic-distribution.md) — reports the opposite
 - [Research on GenAI and children's creative thinking is geographically concentrated in Southeast Asia, East Asia, and North America](genai-children-creativity-research-geographic-concentration.md) — related
-- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
 - [Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings](ai-vet-research-asia-clustered-no-workplace-settings.md) — related
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related

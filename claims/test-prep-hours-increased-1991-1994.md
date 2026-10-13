@@ -44,6 +44,6 @@ Comparison of the 245 elementary schools that participated in both the 1991 and 
 
 ## Related Claims
 - [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
-- The share of CPS elementary teachers spending 12 or more hours on test preparation rose from 44 percent in 1991 to 64 percent in 1997 — possibly the same claim (merge candidate)
+- [The share of CPS elementary teachers spending 12 or more hours on test preparation rose from 44 percent in 1991 to 64 percent in 1997](test-prep-hours-rising-44-to-64-percent.md) — possibly the same claim (merge candidate)
 - [Chicago elementary teachers are moderately positive about school reform, with about 60 percent agreeing their school is getting better since reform began](cps-teachers-moderately-positive-reform-1991.md) — related
 - [Chicago elementary teachers spent an estimated 155,464 hours preparing students for standardized tests in 1990-1991](test-preparation-hours-chicago-1990-91.md) — related

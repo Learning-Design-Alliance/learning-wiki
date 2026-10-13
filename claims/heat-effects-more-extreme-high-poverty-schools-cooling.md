@@ -47,4 +47,4 @@ The page's description frames the high-poverty moderation as a question the repo
 - [Higher temperatures most strongly affect math scores on test days](heat-most-strongly-affects-math-scores.md) — related
 - [The heat-achievement analysis links daily temperature data to MAP Growth scores for grades 3–8 in six states](heat-analysis-map-growth-six-states-design.md) — related
 - [Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents](hot-test-days-lower-math-reading-performance.md) — a broader claim this one bears on
-- As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days — related
+- [As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days](schools-hvac-upgrades-heat-closures.md) — related

@@ -43,7 +43,7 @@ The chapter reports, citing Ben-David & Zohar (2009), a benefit of inquiry activ
 
 
 ## Related Claims
-- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
+- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — a broader claim this one bears on
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](furtak-metaanalysis-37-studies-inquiry-positive.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related

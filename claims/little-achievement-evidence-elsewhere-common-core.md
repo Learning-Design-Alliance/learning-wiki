@@ -43,5 +43,5 @@ The release attributes this to prior studies of other places, noting they examin
 
 
 ## Related Claims
-- Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
+- [Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools](press-support-unequal-school-distribution.md) — related
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related

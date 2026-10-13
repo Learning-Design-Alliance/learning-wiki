@@ -44,5 +44,5 @@ The report presents median household net worth by race and education (Table 3), 
 
 ## Related Claims
 - [Single Black women under 35 have nearly nonexistent median net worth compared to single White men and women](single-black-women-under-35-median-net-worth.md) — related
-- Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments — related
+- [Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments](black-women-least-family-help-repaying-loans.md) — related
 - [Black women with a bachelor's degree or higher working full time year-round earn far less than White men with equivalent education](black-women-ba-plus-earnings-gap-white-men.md) — related

@@ -47,20 +47,20 @@ The review argues, citing UNESCO and van Dijk, that because AI platforms depend 
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — related
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
-- Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race — related
+- [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
-- Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions — related
+- [Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions](infrastructure-readiness-determines-ai-scalability.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — possibly the same claim (merge candidate)
 - [Linguistic inequality in access to scientific knowledge limits science learning opportunities, particularly for students and teachers of low-resource languages such as Basque](linguistic-inequality-limits-science-learning-low-resource-languages.md) — related
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
-- GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support — related
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — a narrower finding that bears on this claim
 - [Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools](turkish-prompts-yield-poorer-edbl-alignment-than-english.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

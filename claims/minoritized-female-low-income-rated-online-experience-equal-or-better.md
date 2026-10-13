@@ -44,7 +44,7 @@ The report's executive summary states an exception to the challenges-satisfactio
 
 ## Related Claims
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related
-- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
-- Technology access problems during remote learning fell more heavily on minoritized and lower-income students — related
+- [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
 - [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — related

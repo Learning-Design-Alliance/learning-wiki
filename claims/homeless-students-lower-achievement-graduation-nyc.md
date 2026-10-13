@@ -43,9 +43,9 @@ The report attributes these figures to a study of student homelessness in New Yo
 
 
 ## Related Claims
-- Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions — related
+- [Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions](doubled-up-majority-homelessness.md) — related
 - [Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science](homelessness-lower-academic-proficiency.md) — related
 - [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related
-- Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities — related
-- Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension — related
-- California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide — a narrower finding that bears on this claim
+- [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — related
+- [Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension](homeless-students-high-mobility-and-suspension.md) — related
+- [California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide](homeless-students-lower-graduation-college-going.md) — a narrower finding that bears on this claim

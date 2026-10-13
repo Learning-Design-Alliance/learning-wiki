@@ -43,7 +43,7 @@ The report attributes these figures to a 2020 National Skills Coalition study, a
 ## Related Claims
 - [Digital skill gaps are large and racialized among U.S. earners, and digital skill level correlates with earnings](digital-skill-gaps-earners-nsc.md) — possibly the same claim (merge candidate)
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related
-- Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related

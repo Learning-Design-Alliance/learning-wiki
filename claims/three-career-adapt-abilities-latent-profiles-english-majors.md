@@ -44,5 +44,5 @@ Latent profile analysis in Mplus 8.3 with the 24 Career Adapt-Abilities Scale it
 - [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](profiles-differ-ai-anxiety-low-group-highest.md) — a narrower finding that bears on this claim
 - [Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups](profiles-differ-core-self-evaluation-stepwise.md) — a narrower finding that bears on this claim
 - [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
-- Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities — related
+- [Profile sizes: 29.4% low, 41.2% moderate, and 29.4% high academic self-efficacy among students with motor disabilities](self-efficacy-profile-distribution-102-students.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related

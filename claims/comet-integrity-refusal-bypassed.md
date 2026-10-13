@@ -44,4 +44,4 @@ The editorial reports, citing MEF University CELT (2026), that Comet's initial r
 
 ## Related Claims
 - [AI browsers completed Canvas quizzes and provided answer keys when tested on university assessments](ai-browsers-complete-canvas-assessments.md) — related
-- Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness — related
+- [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related

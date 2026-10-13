@@ -44,5 +44,5 @@ Observational analysis of test volumes and average RIT scores by school year (Fi
 
 ## Related Claims
 - [Course-specific test volumes dropped sharply in spring 2020 and hit record highs in 2021/22](test-volume-pandemic-drop-and-record-high.md) — related
-- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
-- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
+- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related

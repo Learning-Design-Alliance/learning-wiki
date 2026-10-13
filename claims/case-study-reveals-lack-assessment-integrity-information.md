@@ -43,7 +43,7 @@ Multi-institutional case study analysis conducted over several months during 202
 
 
 ## Related Claims
-- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — a broader claim this one bears on
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

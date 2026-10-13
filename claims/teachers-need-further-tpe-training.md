@@ -43,9 +43,9 @@ Statewide survey capacity-building items comparing 2014 and 2015 teacher respons
 
 
 ## Related Claims
-- Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth — related
-- Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items — related
+- [Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth](educator-capacity-support-needs-tpe.md) — related
+- [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — related
 - [Educators who participated in TPE-related training agree more with positive statements about TPE than those without training or information](tpe-training-linked-to-more-positive-educator-perceptions.md) — related
-- Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked — related
+- [Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked](maryland-tpe-four-year-perception-gains.md) — related
 - [Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges](slo-implementation-challenges-training-and-quality-rubrics.md) — related

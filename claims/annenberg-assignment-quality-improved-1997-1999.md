@@ -49,4 +49,4 @@ Trend analysis of teacher-submitted writing and mathematics assignments from Ann
 - [More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge](math-assignments-remained-low-challenge-1999.md) — related
 - [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — related
 - [A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given](baseline-assignments-rudimentary-but-students-completed-demanding-tasks.md) — related
-- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
+- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related

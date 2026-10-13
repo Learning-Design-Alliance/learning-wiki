@@ -43,6 +43,6 @@ Cross-LEA qualitative finding from Design Team interviews. Four LEAs pursued com
 ## Related Claims
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related
 - [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related
-- Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic — related
-- Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs — related
-- Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed — related
+- [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
+- [Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs](pa-attrition-gaps-early-career-charter-large-leas.md) — related
+- [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related

@@ -43,7 +43,7 @@ The brief asserts, drawing on Ed Trust research and EOS partner-school findings,
 
 
 ## Related Claims
-- Even among high-achieving students in schools offering advanced math, Black, Latino, and low-SES students took AP/IB calculus at far lower rates than Asian, White, and high-SES peers — related
-- Only a fraction of eligible Black and Latino students are enrolled in AP Biology, Chemistry, and Physics courses — related
-- Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers — related
-- Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools — related
+- [Even among high-achieving students in schools offering advanced math, Black, Latino, and low-SES students took AP/IB calculus at far lower rates than Asian, White, and high-SES peers](high-achievers-ap-ib-calculus-access-gap.md) — related
+- [Only a fraction of eligible Black and Latino students are enrolled in AP Biology, Chemistry, and Physics courses](fraction-eligible-black-latino-students-enrolled-ap-stem.md) — related
+- [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](black-latino-underrepresented-ap-test-takers.md) — related
+- [Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools](majority-black-latino-schools-less-likely-offer-ap.md) — related

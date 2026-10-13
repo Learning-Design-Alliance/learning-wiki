@@ -44,5 +44,5 @@ Key findings statement from the brief’s observational analysis exploiting coun
 
 ## Related Claims
 - [The effect of learning mode on children’s SSI applications was largest among elementary school children](learning-mode-effect-largest-elementary-children.md) — a narrower finding that bears on this claim
-- Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications — related
-- Children’s SSI applications bounced back to some extent as students returned to in-person learning — related
+- [Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications](school-staff-referral-and-informal-networks-drive-ssi-applications.md) — related
+- [Children’s SSI applications bounced back to some extent as students returned to in-person learning](ssi-applications-rebounded-with-in-person-return.md) — related

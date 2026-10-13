@@ -43,4 +43,4 @@ The paper cites a recent report reviewing nine studies of professional developme
 
 
 ## Related Claims
-- Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation — related
+- [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related

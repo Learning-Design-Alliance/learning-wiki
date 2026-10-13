@@ -43,9 +43,9 @@ Ongoing analysis of 2022/23 literacy screening data from about 67,000 K–3 stud
 
 
 ## Related Claims
-- Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3 — a narrower finding that bears on this claim
-- Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points — related
-- Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates — related
+- [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — a narrower finding that bears on this claim
+- [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
+- [Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates](ma-above-national-average-literacy.md) — related
 - [Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia](massachusetts-k3-52-percent-ever-at-risk.md) — related
 - [In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent over three years](massachusetts-k3-persistent-significant-risk-rates.md) — related
 - [About one third of Massachusetts K–3 students were identified as significantly below benchmark at least once in 2023/24, with 19 percent identified in all three periods](one-third-k3-significantly-below-benchmark-massachusetts.md) — related

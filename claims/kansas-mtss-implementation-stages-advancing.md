@@ -43,13 +43,13 @@ Analysis of the annual Kansas MTSS School Survey (Table 1 and Figure 1) shows sc
 
 
 ## Related Claims
-- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training — related
+- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
 - [Kansas schools moved from exploration to initial implementation of MTSS between 2012 and 2014, while full implementation stayed near 8%](kansas-mtss-schools-advance-implementation-stages.md) — a narrower finding that bears on this claim
 - [Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics](kansas-mtss-fidelity-monitoring-stronger-implementation.md) — related
 - [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related
 - [Data-based decision making is the least-met full-implementation criterion while universal screening is the most-met](kansas-mtss-data-decision-making-least-met-criterion.md) — related
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](kansas-mtss-screening-gains-small-sample-inconclusive.md) — related
-- Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten — related
+- [Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten](kansas-mtss-screening-gains-full-implementation.md) — related
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related
-- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate — related
+- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate](kansas-mtss-broad-training-reach.md) — related
 - [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related

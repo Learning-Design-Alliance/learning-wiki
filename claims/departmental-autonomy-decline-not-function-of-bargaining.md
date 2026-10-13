@@ -43,8 +43,8 @@ The author's assertion, from his presidential experience at two institutions, th
 
 
 ## Related Claims
-- Campus polarization predates unionization, and with effective union leadership it tends to diminish rather than increase — a narrower finding that bears on this claim
-- Increasing explicitness and centralization of university governance is driven by fiscal stringency and other underlying factors, not by unionization — a broader claim this one bears on
+- [Campus polarization predates unionization, and with effective union leadership it tends to diminish rather than increase](campus-polarization-predates-unionization.md) — a narrower finding that bears on this claim
+- [Increasing explicitness and centralization of university governance is driven by fiscal stringency and other underlying factors, not by unionization](governance-centralization-not-caused-by-unionization.md) — a broader claim this one bears on
 - [In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability](todays-excellence-tomorrows-ignorance.md) — related
-- Faculty quality decline is not a demonstrated or necessary consequence of academic collective bargaining, though the risk exists with or without a union — related
-- Faculty senate authority broadened under collective bargaining without the senate becoming union-dominated — related
+- [Faculty quality decline is not a demonstrated or necessary consequence of academic collective bargaining, though the risk exists with or without a union](faculty-quality-decline-not-necessary-consequence-of-bargaining.md) — related
+- [Faculty senate authority broadened under collective bargaining without the senate becoming union-dominated](senate-authority-broadened-not-union-dominated.md) — related

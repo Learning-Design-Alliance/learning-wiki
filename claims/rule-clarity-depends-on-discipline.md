@@ -43,6 +43,6 @@ Survey Question C2 analysis (Fig. 4) in the n = 416 sample. Even in computer sci
 
 
 ## Related Claims
-- Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted — related
+- [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
 - [Perceived institutional AI regulation differs significantly across STEM subjects, with mathematics and natural sciences perceived as prohibitive and computer science as permissive](subject-specific-ai-regulation-perceptions.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

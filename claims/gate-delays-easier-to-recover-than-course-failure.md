@@ -43,6 +43,6 @@ Cohort recovery analysis (Section III, Figure 7). The report interprets that "it
 
 
 ## Related Claims
-- Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little — related
+- [Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little](off-schedule-earlier-but-stable-by-age-16.md) — related
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
-- Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort — related
+- [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](chicago-gate-dropout-rates-flat-then-declined.md) — related

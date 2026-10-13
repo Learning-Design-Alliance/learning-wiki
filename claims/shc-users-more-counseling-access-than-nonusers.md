@@ -43,6 +43,6 @@ Annual evaluation of the 28 Alameda County SHCs for 2023–24 reports that "34 p
 
 
 ## Related Claims
-- Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023 — related
-- Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data — related
+- [Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023](cal-well-staff-adequate-services-59-to-70-percent.md) — related
+- [Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data](nhuhsd-chks-counselor-barriers-declined.md) — related
 - [In Los Angeles Unified, student attendance increased following visits to a school health center](shc-visits-linked-attendance-gains-lausd.md) — related

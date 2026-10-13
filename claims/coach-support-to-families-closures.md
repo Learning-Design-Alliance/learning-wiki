@@ -46,4 +46,4 @@ Survey of 148 edtech coaches (Figure 10) on family support: "more than 60 percen
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
 - [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related
-- During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more — related
+- [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related

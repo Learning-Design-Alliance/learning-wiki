@@ -45,7 +45,7 @@ Cross-year analysis linking students' screening status across grade levels in 20
 ## Related Claims
 - [Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades](cross-year-recovery-higher-earlier-grades.md) — possibly the same claim (merge candidate)
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — a broader claim this one bears on
-- Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3 — related
+- [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — related
 - [Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)](early-literacy-persistence-below-benchmark.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — related

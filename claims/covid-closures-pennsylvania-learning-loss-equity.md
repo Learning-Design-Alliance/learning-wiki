@@ -51,7 +51,7 @@ The publication's framing statement, offered by the authors as an interpretation
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related
 - [Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools](chicago-closings-affected-students-more-disadvantaged.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
-- Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters — related
+- [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — related

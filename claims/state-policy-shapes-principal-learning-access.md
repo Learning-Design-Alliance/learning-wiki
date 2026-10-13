@@ -46,12 +46,12 @@ Cross-state survey comparison found California principals reported greater acces
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring — related
+- [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](principal-pd-access-student-achievement.md) — related
-- Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content — related
-- More than two thirds of principals want equity-focused professional development, with significant differences by community type — related
-- Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities — related
+- [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
+- [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related
+- [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
 - [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
 - [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related

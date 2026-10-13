@@ -43,5 +43,5 @@ Teacher survey data reported in Charting Reform: The Teachers' Turn, cited in th
 
 
 ## Related Claims
-- The share of CPS elementary teachers spending 12 or more hours on test preparation rose from 44 percent in 1991 to 64 percent in 1997 — related
+- [The share of CPS elementary teachers spending 12 or more hours on test preparation rose from 44 percent in 1991 to 64 percent in 1997](test-prep-hours-rising-44-to-64-percent.md) — related
 - [Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items](test-prep-hours-increased-1991-1994.md) — related

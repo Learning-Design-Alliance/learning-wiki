@@ -41,17 +41,17 @@ Thematic analysis of interviews across the pilot districts identified four barri
 
 
 ## Related Claims
-- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](small-writing-groups-attendance-confidence-growth.md) — related
 - [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — related
-- Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions — related
+- [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
 - [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
-- District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements — related
+- [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
 - [Students and staff co-designed evaluation criteria, and resultant challenges were explored through dialogue, interview, and thematic analysis](co-designed-evaluation-criteria-challenges-thematic-analysis.md) — related

@@ -43,7 +43,7 @@ Table 1 ranks the top 10 most cited publications in the retrieved corpus. The ar
 
 
 ## Related Claims
-- Citation strength in the field is concentrated at Harvard Medical School (1,009 citations), Stanford (858), and UCSF (662) — related
+- [Citation strength in the field is concentrated at Harvard Medical School (1,009 citations), Stanford (858), and UCSF (662)](citation-strength-concentrated-harvard-stanford-ucsf.md) — related
 - [Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications](healthcare-dominates-citation-impact-education-conceptual.md) — related
 - [The United States leads publication volume (533) and citation influence on AI ethics in medical education, ahead of China (189) and England (95)](us-leads-ai-medical-education-publications.md) — related
 - [The field's foundational literature called for curricular integration, yet its most-cited contributions concentrated on capability benchmarking such as ChatGPT's USMLE performance](divergence-governance-calls-versus-capability-benchmarking.md) — related

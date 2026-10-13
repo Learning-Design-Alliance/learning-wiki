@@ -45,5 +45,5 @@ The article's key findings state the headline result: an instrumental variables 
 ## Related Claims
 - [The estimated online-course effects are local to students with access to both online and in-person options](online-course-effects-local-to-dual-option-students.md) — related
 - [Students taking courses online are less likely to remain enrolled at the university](online-course-taking-reduces-reenrollment.md) — related
-- Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects — a broader claim this one bears on
+- [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — a broader claim this one bears on
 - [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — possibly the same claim (merge candidate)

@@ -45,7 +45,7 @@ The review reports, citing Lintner's 2024 systematic review, that no AI literacy
 ## Related Claims
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
 - [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](prompt-injection-attacks-bypass-user-literacy.md) — related
-- The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months — related
+- [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — a narrower finding that bears on this claim
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related

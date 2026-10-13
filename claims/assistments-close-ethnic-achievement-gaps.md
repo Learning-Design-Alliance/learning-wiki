@@ -45,7 +45,7 @@ Subgroup analyses of the follow-up ITT sample tested differential impacts by stu
 
 ## Related Claims
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
-- Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading — related
-- Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color — related
-- Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017 — related
+- [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
+- [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related
+- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related
