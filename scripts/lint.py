@@ -66,11 +66,24 @@ def all_pages() -> dict[str, Path]:
 DOC_FILES = {"CLAUDE.md", "README.md"}  # contain illustrative example paths, not real links
 
 
+def each_page(pages: dict[str, Path]):
+    """(slug, path) once per page FILE. all_pages() keys every page twice, by bare slug and by
+    folder/slug, and the checks used to skip the folder-qualified keys to avoid seeing a page
+    twice. But a bare slug shared by two folders keeps only the last folder's page, so the other
+    pages with that slug, and every folder's index.md but one, were never checked: a link to a
+    page that does not exist, written on principles/productive-failure.md (a slug strategies/
+    also has), passed (2026-10-13)."""
+    seen = set()
+    for slug, path in pages.items():
+        if path in seen:
+            continue
+        seen.add(path)
+        yield path.stem, path
+
+
 def check_broken_links(pages: dict[str, Path]) -> list[dict]:
     issues = []
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue  # skip duplicates (folder-qualified keys)
+    for slug, path in each_page(pages):
         if path.name in DOC_FILES:
             continue
         text = path.read_text(encoding="utf-8")
@@ -175,8 +188,8 @@ def check_dead_anchors(pages: dict[str, Path]) -> list[dict]:
                 anchor_cache[key] = set()
         return anchor_cache[key]
 
-    for slug, path in pages.items():
-        if "/" in slug or path.name in DOC_FILES:
+    for slug, path in each_page(pages):
+        if path.name in DOC_FILES:
             continue
         text = path.read_text(encoding="utf-8")
         anchor_cache[str(path)] = page_anchors(text)
@@ -222,9 +235,7 @@ def check_merge_markers(pages: dict[str, Path]) -> list[dict]:
     The `[Conflicts]` check next door is about competing claims between pages,
     not merge conflicts, which makes its OK line actively misleading here."""
     issues = []
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue
+    for slug, path in each_page(pages):
         text = path.read_text(encoding="utf-8")
         hits = MERGE_MARKER_RE.findall(text)
         if hits:
@@ -241,9 +252,7 @@ def check_merge_markers(pages: dict[str, Path]) -> list[dict]:
 
 def check_draft_no_description(pages: dict[str, Path]) -> list[dict]:
     issues = []
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue
+    for slug, path in each_page(pages):
         text = path.read_text(encoding="utf-8")
         status_m = STATUS_RE.search(text)
         if not status_m or status_m.group(1).strip() != "draft":
@@ -358,9 +367,7 @@ def check_open_conflicts(pages: dict[str, Path]) -> list[dict]:
     """Find <!-- CONFLICT: ... --> markers anywhere in the wiki."""
     conflicts = []
     conflict_re = re.compile(r"<!--\s*CONFLICT:\s*(.+?)-->", re.DOTALL)
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue
+    for slug, path in each_page(pages):
         text = path.read_text(encoding="utf-8")
         for m in conflict_re.finditer(text):
             conflicts.append({
@@ -377,9 +384,7 @@ def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
     has actually checked THIS page) — a page can be evidence_strength: strong and still be
     entirely unverified."""
     issues = []
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue
+    for slug, path in each_page(pages):
         text = path.read_text(encoding="utf-8")
         status_m = STATUS_RE.search(text)
         if not status_m or status_m.group(1).strip() != "stable":
@@ -513,9 +518,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
     """Promote draft pages with no issues to status: review."""
     issue_files = {i["file"] for i in all_issues}
     promoted = 0
-    for slug, path in pages.items():
-        if "/" in slug:
-            continue
+    for slug, path in each_page(pages):
         rel = str(path.relative_to(WIKI_ROOT))
         if rel in issue_files:
             continue

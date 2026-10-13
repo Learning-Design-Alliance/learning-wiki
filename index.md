@@ -12,7 +12,7 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (376)
+### [Principles](principles/index.md) (377)
 Research-backed design commitments: what to do and why.
 
 ### [Elements](elements/index.md) (1080)
