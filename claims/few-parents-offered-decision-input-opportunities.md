@@ -63,9 +63,9 @@ Survey 2, shown in Figure 5. Lower-income parents reported fewer input opportuni
 
 ## Related Claims
 - [Most parents and teachers say their schools are culturally inclusive, but about one-fifth of parents and one-quarter of teachers disagree that instruction connects students' cultures to learning](culturally-sustainable-instruction-lags-inclusion.md) — related
-- [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related
-- [LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively](lsc-self-assessments-little-variation.md) — related
+- Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process — related
+- LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively — related
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
-- [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
+- Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior — related

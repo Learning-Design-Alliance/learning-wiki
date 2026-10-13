@@ -46,4 +46,4 @@ Study scope as printed in the note to Figure 1 of the brief, sourcing Backes & H
 - [Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading](mcl-team-teachers-gains-top-quartile.md) — related
 - [Opportunity Culture schools spur schoolwide academic growth even in classrooms not led by Opportunity Culture teachers](oc-schoolwide-growth-beyond-oc-classrooms.md) — related
 - [In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures](nc-oc-schools-outperformed-2015-16.md) — related
-- [By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support](oc-scale-2017-18-150-schools.md) — related
+- By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support — related

@@ -43,10 +43,10 @@ Descriptive results from the ten-item Principal Leadership scale. The report con
 
 
 ## Related Claims
-- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
-- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related
-- [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
+- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
+- Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders — related
+- Teachers rate principal instructional leadership highly even in many bottom-quartile schools — related
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](instructional-leadership-high-ratings-both-quartiles-1997.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
-- [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
-- [About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership](teachers-rate-principals-highly.md) — related
+- Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools — related
+- About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related

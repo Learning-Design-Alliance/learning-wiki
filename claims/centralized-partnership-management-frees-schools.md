@@ -43,6 +43,6 @@ Qualitative case study findings on Oakland Unified's district infrastructure; th
 
 
 ## Related Claims
-- [Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports](costs-universally-connect-students-to-supports.md) — related
+- Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports — related
 - [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related

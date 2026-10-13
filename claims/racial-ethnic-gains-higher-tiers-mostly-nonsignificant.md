@@ -42,9 +42,9 @@ Regression analysis disaggregated by race/ethnicity (Table 4). The article attri
 
 
 ## Related Claims
-- [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](black-hispanic-multiracial-children-underrepresented-high-tier.md) — related
+- Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs — related
 - [Children with disabilities showed larger gains in higher-tier programs than children without disabilities](children-with-disabilities-larger-gains-higher-tiers.md) — related
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](higher-tier-qcc-programs-greater-learning-gains.md) — a broader claim this one bears on
 - [Multilingual learners gained more in higher-tier programs than non-multilingual learners, with Tier 5 gains of 2.6–2.8 additional months](multilingual-learners-larger-gains-higher-tiers.md) — related
-- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry — related
 - [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — related

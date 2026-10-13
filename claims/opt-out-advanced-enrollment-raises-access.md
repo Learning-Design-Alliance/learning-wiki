@@ -51,5 +51,5 @@ The brief reports, citing researchers without naming them, that opt-out placemen
 - [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — related
 - [Direct admissions policies paired with FAFSA requirements are associated with increased in-state college enrollment, as in Idaho's Campus Choice program](direct-admissions-increases-in-state-enrollment.md) — related
 - [Educators of color are more likely to refer students of color for advanced courses](educators-of-color-more-likely-refer-students-of-color.md) — related
-- [U.S. high schools with high student of color enrollment are less likely to offer advanced science courses than schools with low student of color enrollment](high-student-of-color-schools-offer-fewer-advanced-science-courses.md) — related
+- U.S. high schools with high student of color enrollment are less likely to offer advanced science courses than schools with low student of color enrollment — related
 - [Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap](washington-automatic-enrollment-equity-course-access.md) — a narrower finding that bears on this claim

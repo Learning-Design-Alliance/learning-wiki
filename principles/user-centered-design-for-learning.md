@@ -13,7 +13,7 @@ generated:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 8 studies (5 design, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 9 studies (6 design, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 Learning technologies fail not only when the pedagogy is wrong, but when the interface itself creates barriers — a learner who cannot find an assignment or navigate a confusing menu is paying a cognitive cost that has nothing to do with the content being taught (Earnshaw, Tawfik, & Schmidt, 2018). **Usability** describes how easily an interface can be used as intended; **user experience (UX)** is the broader "person's perceptions and responses that result from the use... of a product, system, or service" (ISO, 2010). **User-centered design (UCD)** is the practice of centering users' needs and mental models throughout the design process rather than treating the interface as an afterthought to the pedagogy.
@@ -54,6 +54,7 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](../claims/hero-elementary-game-loading-time-navigation-issues.md) [~W]
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](../claims/star-link-beneath-score-improves-usability.md) [+W]
 - [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](../claims/year-over-year-salience-mixed-effects.md) [~W]
+- [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](../claims/bloom-ui-low-workload-high-usability.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

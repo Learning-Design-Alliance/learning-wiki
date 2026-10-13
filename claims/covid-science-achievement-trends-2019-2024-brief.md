@@ -45,10 +45,10 @@ Descriptive statement from the brief's own landing-page description: it is "the 
 ## Related Claims
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024](covid-influenced-science-achievement-seven-school-years.md) — possibly the same claim (merge candidate)
-- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
-- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
-- [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related
-- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
-- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools — related
+- Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23 — related
+- BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6 — related
+- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related

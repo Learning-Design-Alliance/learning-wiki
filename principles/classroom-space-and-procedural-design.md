@@ -13,7 +13,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 qualitative, 2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (4 qualitative, 2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 The easiest management problems to solve are the ones that never happen. Before the school year begins, arranging classroom furniture and materials to focus attention on learning already reduces behavior problems; once school begins, procedures, rules, and paced instruction extend that prevention further.
@@ -52,6 +52,7 @@ The easiest management problems to solve are the ones that never happen. Before 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — supports calibrating structure to the zone of proximal development rather than applying one fixed level
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](../claims/students-report-routines-help-and-rushed-pacing-hurts.md) [+W]
 - [Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning](../claims/lausd-csi-case-study-practice-shifts.md) [+W]
+- [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](../claims/strict-ai-prohibition-intensifies-moral-conflict.md) [~W]
 
 ## Related Principles
 - [Scaffolding & Fading](scaffolding-and-fading.md) — the general principle behind moderate, calibrated structure that fades over time

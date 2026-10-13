@@ -17,7 +17,7 @@ sources:
 # State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that Massachusetts require public higher education institutions to be "transparent and consistent in awarding college credit" (e.g., Bills S.838 and H.1280, barring minimum score requirements above 3 without stated reasoning), expand course eligibility via automatic enrollment with family opt-out based on multiple measures, eliminate AP exam fee barriers, report enrollment data separated by course type and disaggregated by race and ethnicity, and invest in recruiting AP teachers of color, near-peer mentors, culturally sustaining curricula, and targeted supports such as AP Bootcamps.
@@ -37,6 +37,10 @@ The brief recommends that Massachusetts require public higher education institut
 
 ### Target Learning Goals
 - equitable access to and success in advanced coursework (AP, IB, dual enrollment) and college credit attainment
+
+## Claims
+
+- [High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education](../claims/curricular-rigor-top-predictor-college-completion.md) [+W]
 
 ## Related Strategies
 

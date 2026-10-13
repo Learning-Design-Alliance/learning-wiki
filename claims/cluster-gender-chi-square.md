@@ -44,5 +44,5 @@ Chi-square analysis of cluster membership against the two demographic variables 
 
 ## Related Claims
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — reports the opposite
-- [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
+- Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics — related
 - [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — related

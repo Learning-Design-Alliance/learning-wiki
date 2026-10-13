@@ -19,7 +19,7 @@ sources:
 # Guided Equation Appropriation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 When a student encounters a physics equation directly (e.g., looked up or given), they can often derive or apply it long before they understand what it means or implies. This pattern sequences instruction to build understanding in the other direction: mechanistic, intuitive reasoning first, formal equation second, deep interpretive reading of the equation third — with a mentor making seven specific kinds of moves throughout to keep the student's own reasoning central rather than substituting the mentor's expertise for it.
@@ -53,7 +53,9 @@ Unit (the source study analyzed an equation-focused sequence unfolding across mu
 #### Supporting
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~M]
 #### Contradicting
+
 - (none yet linked)
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](../claims/network-of-intuitive-ideas-stabilizes-thinking.md) [~W]
 
 ## Design
 

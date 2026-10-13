@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 30 studies (12 associational, 8 causal, 3 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 25 claims rest on one study
+> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 44 studies (19 associational, 10 causal, 4 design, 3 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 44 report an effect size · 35 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -81,6 +81,21 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
 - [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](../claims/srl-is-domain-specific-strategy-use-varies-by-subject.md) [~W]
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](../claims/profiles-differ-in-self-regulatory-resources-except-help-seeking.md) [~W]
+- [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](../claims/ai-monitors-socially-shared-regulation-scenarios.md) [+W]
+- [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](../claims/asr-reflection-motivation-predict-oral-gains.md) [~M]
+- [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](../claims/ai-enhances-learning-relevance-goal-career.md) [~W]
+- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](../claims/behavioral-signals-associated-topic-understanding.md) [~W]
+- [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](../claims/academic-emotions-mediate-ai-environment-srl.md) [~W]
+- [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](../claims/asr-usage-frequency-reflection-not-motivation.md) [+W]
+- [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](../claims/keystroke-patterns-suggest-cognitive-engagement.md) [+W]
+- [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](../claims/metacognition-problem-solving-correlation.md) [+W]
+- [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](../claims/proficiency-moderates-reflection-oral-gains.md) [~M]
+- [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](../claims/reflective-thinking-correlates-epistemological-beliefs.md) [+W]
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](../claims/verification-routines-ethical-self-regulation.md) [+W]
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](../claims/repeated-rapid-guessing-self-efficacy-self-management.md) [~M]
+- [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](../claims/within-group-gains-design-and-ai-readiness-only.md) [-W]
+- [Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students](../claims/writing-code-as-prompt-strategy-correlates-solving.md) [~W]
 
 ## Related Theories
 

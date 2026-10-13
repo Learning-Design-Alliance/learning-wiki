@@ -62,12 +62,12 @@ Subgroup analysis of the same disciplinary outcome for Black students, the group
 
 
 ## Related Claims
-- [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — a broader claim this one bears on
-- [A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in math and reading](lcff-spending-graduation-college-readiness-gains.md) — related
-- [LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school](lcff-spending-reduces-grade-repetition-elementary.md) — related
+- Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula — a broader claim this one bears on
+- A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in math and reading — related
+- LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school — related
 - [LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8](lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains.md) — related
 - [LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants](lcff-spending-improved-math-reading-achievement.md) — related
-- [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
-- [A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California](california-lcff-graduation-gains.md) — related
+- Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years — related
+- A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California — related
 - [School resource officers have limited effects on school safety and increase suspensions, expulsions, police referrals, and arrests, with larger negative effects for Black students and students with disabilities](sros-limited-safety-gains-negative-discipline-outcomes.md) — related
 - [Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes](oakland-reduced-girls-suspension-rates-over-time.md) — related

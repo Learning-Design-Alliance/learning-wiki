@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (7 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (7 causal, 4 quant-synthesis, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,10 @@ For example, nursing students practising drug-dose calculations may want to pass
 The erroneous-example expectation should be strengthened if comparisons with older learners, other domains and delayed conceptual tests reproduce it against correct-examples-only, and weakened if they do not. If studies find erroneous examples harm learners without a correct model, step 1 of the default design becomes a finding rather than a precaution; if they find no such harm, it can be relaxed. If hypercorrection is shown not to hold for conceptual errors or professional judgements, the confidence-first step should be confined to recall. If more data link strings of errors with confusion to lower later performance, the switch rule in step 7 needs a tested threshold. Do not protect the model by calling every failure a learner who was not ready.
 
 Correct procedures, conceptual understanding, recall of a correction and comfort with error are separate claims. The present evidence does not establish how many erroneous examples to use, when in a unit to introduce them, or that error analysis works the same for children, adults and professionals.
+
+## Claims
+
+- [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+W]
 
 ## Related Principles
 - [Explaining Their Thinking](self-explanation.md) — self-explanation is the mechanism by which error analysis works.

@@ -43,10 +43,10 @@ State demographic table compiled from federal CCD (2017-18) student data and NTP
 
 
 ## Related Claims
-- [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — a broader claim this one bears on
-- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce — a broader claim this one bears on
+- North Carolina's teacher workforce is far less racially diverse than its student population — related
 - [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — related
 - [In Texas (2018-19), people of color were 72.5% of students but only 41.4% of teachers](texas-teacher-student-diversity-gap-2018-19.md) — related
-- [In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers](pa-teachers-of-color-6-4-percent-vs-35-1-students.md) — related
-- [In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are](california-students-77-percent-teachers-39-percent-of-color.md) — related
-- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers — related
+- In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related
+- In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color — related

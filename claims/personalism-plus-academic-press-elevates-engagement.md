@@ -45,5 +45,5 @@ Schools were divided into nine categories by low, moderate, or high average rati
 ## Related Claims
 - [Personalism and academic press each had only small influences on engagement, but their combination elevated student academic engagement substantially](personalism-press-combined-engagement.md) — possibly the same claim (merge candidate)
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related
-- [Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools](press-support-unequal-school-distribution.md) — related
+- Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
 - [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](personalism-plus-press-toward-academic-work-achievement.md) — related

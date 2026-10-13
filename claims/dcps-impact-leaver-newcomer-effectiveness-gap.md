@@ -43,5 +43,5 @@ The report's second research question frames an analysis of whether the average 
 
 
 ## Related Claims
-- [The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time](dcps-impact-retention-effective-teachers-research-question.md) — related
-- [In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control](dcps-39-percent-principals-did-not-return-2008-09.md) — related
+- The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time — related
+- In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control — related

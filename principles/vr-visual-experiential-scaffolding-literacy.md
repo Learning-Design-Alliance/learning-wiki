@@ -17,7 +17,7 @@ sources:
 # Use VR tools to provide visual and experiential scaffolding that builds prior knowledge before reading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's central recommendation is that reading-language arts teachers use VR as an affordable way to extend the traditional use of images as scaffolds for prior knowledge into "field trip"-like experiential experiences. VR tools may provide a way to support students through visual and experiential scaffolding, building background knowledge about content and motivating students through authentic and engaging experiences before they read related texts.
@@ -37,7 +37,9 @@ The article's central recommendation is that reading-language arts teachers use 
 - Building background knowledge and motivation for comprehending new texts
 
 ### Claims
+
 - [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
+- [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](../claims/cybersickness-prevalence-vr-ar-immersive-learning.md) [-W]
 
 ## Related Principles
 - 

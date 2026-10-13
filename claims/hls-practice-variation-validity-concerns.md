@@ -43,5 +43,5 @@ The paper's review of state identification practices, drawing on Bailey & Kelly'
 
 
 ## Related Claims
-- [US states use four common HLS practices, ranging from a mandated single statewide form to no HLS requirement](four-common-state-hls-practices.md) — related
+- US states use four common HLS practices, ranging from a mandated single statewide form to no HLS requirement — related
 - [No states have conducted validity studies of Home Language Surveys, so little is known about the quality of information HLS yield](no-hls-validity-studies-by-states.md) — a narrower finding that bears on this claim

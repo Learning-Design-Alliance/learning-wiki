@@ -12,7 +12,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior (Park, 2018). Weiner (2010) classifies these attributions along three independent dimensions:
@@ -50,6 +50,8 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - Weiner's (1986) attribution framework draws on locus, stability, and controllability as the three dimensions organizing how causal beliefs translate into motivational and emotional consequences
 
 ## Claims
+
+- [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](../claims/chatgpt-support-attribution-bias.md) [+M]
 
 ## Related Theories
 

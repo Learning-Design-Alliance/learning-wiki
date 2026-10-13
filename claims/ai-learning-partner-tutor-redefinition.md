@@ -48,4 +48,4 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](replacement-frame-near-universal-in-essays.md) — reports the opposite
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
-- [AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance](efficiency-sustainability-substitution-mechanism.md) — related
+- AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance — related

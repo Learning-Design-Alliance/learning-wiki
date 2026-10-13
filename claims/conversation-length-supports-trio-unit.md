@@ -43,4 +43,4 @@ Descriptive distribution of conversation length in the validation sample, shown 
 
 
 ## Related Claims
-- [In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%)](instructional-practices-largest-domain-36-5-percent.md) — related
+- In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%) — related

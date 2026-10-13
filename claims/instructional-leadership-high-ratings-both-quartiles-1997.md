@@ -43,9 +43,9 @@ Descriptive quartile comparison from the Instructional Leadership scale summary,
 
 
 ## Related Claims
-- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
-- [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
+- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
+- Teachers rate principal instructional leadership highly even in many bottom-quartile schools — related
 - [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related
 - [Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools](principal-leadership-regard-quartile-contrast.md) — related
-- [About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership](teachers-rate-principals-highly.md) — related
-- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related
+- About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
+- Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders — related

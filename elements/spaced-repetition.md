@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (17 for, 1 mixed) · 14 studies (5 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 20 claims (17 for, 3 mixed) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 14 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -60,6 +60,8 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spacing-effect-robust-verbal-recall.md) [+W]
+- [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
+- [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

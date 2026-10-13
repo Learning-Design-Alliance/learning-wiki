@@ -43,7 +43,7 @@ The study uses a rigorous causal identification strategy with longitudinal data 
 
 
 ## Related Claims
-- [Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry](disadvantaged-students-disproportionately-exposed-mid-year-entry.md) — related
-- [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — a narrower finding that bears on this claim
+- Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry — related
+- Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics — a narrower finding that bears on this claim
 - [Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure](mid-year-entry-negative-math-effects-persist-beyond-exposure-year.md) — related
 - [Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves](sparse-research-spillovers-mid-year-entry-stable-classmates.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learning Objectives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies (5 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 5 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning objectives are explicit statements of the knowledge, skills, or dispositions learners should acquire, typically phrased in observable terms ("analyze," "construct," "compare" rather than "understand" or "appreciate"). They function as the design contract of a learning experience: aligning content, activities, and assessment around a shared target.
@@ -54,6 +54,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)](../claims/objective-assessment-alignment-theory-advantage.md) [~W]
+- [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](../claims/higher-order-objectives-courses-emphasize-gai-skills-more.md) [+W]
 
 ## Related Elements
 

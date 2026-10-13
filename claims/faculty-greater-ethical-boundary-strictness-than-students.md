@@ -42,5 +42,5 @@ Supplementary group-level comparison of an unmatched faculty sample with the stu
 
 ## Related Claims
 - [A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms](ai-adaptation-gap-students-faculty-staff.md) — related
-- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
+- Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

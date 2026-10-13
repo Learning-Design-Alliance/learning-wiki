@@ -24,7 +24,7 @@ grain_size: course
 # Flipped Classroom
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 16 studies (6 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 17 studies (6 causal, 5 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 17 report an effect size · 3 claims rest on one study
 
 ## Description
 Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback. The key design move is not simply assigning video before class; it is reallocating synchronous time toward higher-value interaction and practice.
@@ -88,7 +88,9 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
+
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](../claims/ai-flipped-classroom-behavioral-engagement-null.md) [~W]
 
 ## Design
 

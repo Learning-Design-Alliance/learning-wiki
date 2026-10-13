@@ -44,6 +44,6 @@ Interview data from teachers in six randomly selected CPS schools. One teacher r
 
 ## Related Claims
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — reports the opposite
-- [Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive](diverging-views-personnel-decisions-reach.md) — related
+- Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related

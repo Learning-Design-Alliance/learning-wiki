@@ -12,7 +12,7 @@ generated:
 # Student Orientation Toward Achievement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Students' motivation can be decomposed along two independent spectrums: how strongly they are motivated to *approach success*, and how strongly they are motivated to *avoid failure* (Bohlin, 2011). Crossing these two spectrums yields four student profiles, closely paralleling the approach/avoidance distinction in [Goal Orientation Theory](goal-orientation-theory.md).
@@ -51,6 +51,9 @@ To protect a sense of self-worth, both failure-avoiding and failure-accepting st
 - [Attribution Theory](attribution-theory.md) [+S] — failure-accepting students' external-success/internal-failure attribution pattern is a direct application of attribution theory's locus dimension
 
 ## Claims
+
+- [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](../claims/structural-similarity-unsupported-ai-motivation-profiles.md) [~W]
+- [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](../claims/learning-behavior-attenuates-profile-score-differences.md) [~W]
 
 ## Related Theories
 - [Goal Orientation Theory](goal-orientation-theory.md) — success-oriented students closely resemble a mastery-approach orientation; overstrivers resemble performance-approach mixed with performance-avoidance; failure-avoiding students resemble performance-avoidance and failure-avoidant goals directly

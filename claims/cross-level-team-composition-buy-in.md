@@ -44,7 +44,7 @@ Interviews with districts that continued into CALLI 201 found that rethought tea
 
 ## Related Claims
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
-- [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
+- Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions — related
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
 - [Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data](principals-in-leadership-teams-ground-cop-in-practice.md) — related
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related

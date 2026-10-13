@@ -17,7 +17,7 @@ sources:
 # Report distributional quantities alongside average effects when evaluating AI learning resources
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that evaluations of AI learning resources report, alongside any average effect, three distributional quantities: "the change in the share of students below the grade boundaries that matter for progression and employment, the change in dispersion, and the threshold or quantile profile of the effect". The motivation is that an average treatment effect combines the outcomes of the students the resources are meant to help with everyone else's and cannot test equity claims; in this study the average effect was statistically fragile while the threshold effect was robust.
@@ -35,6 +35,10 @@ The article proposes that evaluations of AI learning resources report, alongside
 
 ### Target Learning Goals
 - examination and course outcomes evaluated across the attainment distribution rather than in the mean
+
+## Claims
+
+- [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](../claims/chatbot-quantile-effects-middle-distribution.md) [+W]
 
 ## Related Strategies
 - 

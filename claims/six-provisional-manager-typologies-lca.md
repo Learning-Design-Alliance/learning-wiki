@@ -62,8 +62,8 @@ Bootstrap stability analysis with 100 resamples of the six-class LCA solution, e
 
 
 ## Related Claims
-- [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related
-- [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](four-chatgpt-acceptance-profiles-lpa.md) — related
+- Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers — related
+- Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related

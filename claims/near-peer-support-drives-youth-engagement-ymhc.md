@@ -45,4 +45,4 @@ Year 1 implementation report synthesizing observations across four state profile
 ## Related Claims
 - [Schools with YMHC members reported reductions in behavioral referrals and improved student attendance in Year 1](ymhc-schools-reported-referral-and-attendance-gains.md) — related
 - [YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment](ymhc-certifications-employment-outcomes.md) — related
-- [Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports](costs-universally-connect-students-to-supports.md) — related
+- Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports — related

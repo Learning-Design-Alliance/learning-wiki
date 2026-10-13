@@ -30,7 +30,7 @@ sources:
 # Text-to-Speech
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (1 for, 10 mixed) · 17 studies (7 review, 4 quant-synthesis, 3 causal, 3 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (2 for, 10 mixed) · 18 studies (7 review, 4 causal, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,10 @@ For example, an adult in a workplace programme may want to read the safety proce
 The expectation should weaken if comparisons of reading with text-to-speech against print alone, on assigned texts with comparable learners and content outcomes, show no advantage for learners with decoding or vision barriers, or show that the gain on the day does not carry to later tests on the same content. If read-along (print shown and spoken together) does worse than listening alone or reading alone for older learners too, as one second-grade study reported, the default of keeping print in view should change to a choice. If learners with access barriers do no better with the section-break routine than with uninterrupted speech, step 4 should go. If speech used across content classes is found to slow progress in word reading even when decoding instruction continues, step 6 should say so. Do not protect the model by calling every failure "passive use" or "the wrong voice" after the fact.
 
 Understanding with speech on, understanding without it, reading the words unaided, delayed retention and use of the content in the setting the learner values are separate claims. The present evidence establishes no rate, no section length, no voice and no criterion for withdrawing speech.
+
+## Claims
+
+- [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](../claims/lwpa-by-exam-subsection-interaction.md) [+W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — simpler language and audio support often work together.

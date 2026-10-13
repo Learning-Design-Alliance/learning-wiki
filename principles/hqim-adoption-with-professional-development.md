@@ -17,7 +17,7 @@ sources:
 # Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The toolkit states that core curricula choices "greatly impact student learning and teacher practice" and that high-quality instructional materials should be aligned to the science of reading and state standards. Citing Opfer et al. (2016), it argues HQIM adoption gives teachers quality content and assignments, "significantly reducing the need for teachers to search for lower quality" materials online, and must be paired with professional development on the materials and shifts in practice.
@@ -41,6 +41,7 @@ The toolkit states that core curricula choices "greatly impact student learning 
 ### Claims
 
 - [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](../claims/standards-aligned-practice-reports-improved-with-pl.md) [+W]
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](../claims/hqim-teacher-guides-vary-in-educative-guidance-depth.md) [~W]
 
 ## Related Principles
 

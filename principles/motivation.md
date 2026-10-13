@@ -27,7 +27,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (18 for, 9 mixed) · 34 studies (14 review, 9 causal, 6 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 5 of 34 report an effect size · 17 claims rest on one study
+> **Evidence** · 40 claims (25 for, 13 mixed, 2 against) · 47 studies (15 review, 12 causal, 6 quant-synthesis, 6 qualitative, 5 theoretical, 2 design, 1 associational), `q1`–`q4` · 6 of 47 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,22 @@ The matching rule should be dropped if comparisons show that a move aimed at the
 
 Starting, effort, voluntary persistence, enjoyment, reported motivation and learning of the target are separate claims. The present evidence does not establish how to diagnose the low component reliably, how long a raised level lasts, or how much motivation is enough.
 
+## Claims
+
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](../claims/ai-over-reliance-reduces-deep-engagement.md) [-W]
+- [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](../claims/belonging-mdp-reduces-effort-and-threat-perceptions.md) [+W]
+- [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](../claims/guided-note-taking-supported-remote-engagement.md) [+W]
+- [Students with a better understanding of how AI systems work show higher academic self-efficacy](../claims/ai-understanding-higher-self-efficacy.md) [+W]
+- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](../claims/career-fear-apathy-outcomes-over-process.md) [~W]
+- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](../claims/self-efficacy-growth-generative-ai-semester.md) [+W]
+- [Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations](../claims/self-efficacy-course-type-not-predict-continued-ai-conversations.md) [-W]
+- [A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students](../claims/ability-signal-increases-ap-participation-49-points.md) [+W]
+- [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](../claims/assessment-redesign-insights-tlc-convening.md) [+W]
+- [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](../claims/chatgpt-lower-code-ownership.md) [~W]
+- [Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs](../claims/m-plans-student-perceptions-linked-to-motivation.md) [+W]
+- [Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use](../claims/peer-ai-use-social-comparison-devalues-effort.md) [~W]
+- [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](../claims/value-effort-tension-ai-shortcuts.md) [~W]
+
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — motivation often strengthens when learners can see progress toward meaningful goals
@@ -234,13 +250,6 @@ Motivation matters because learners do not invest effort purely because instruct
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear and challenging goals can increase effort and persistence when learners are committed
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — motivation may be more sustainable for novices when goals focus on manageable process rather than distant outcomes
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can strengthen motivation by making effort feel productive
-- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](../claims/ai-over-reliance-reduces-deep-engagement.md) [-W]
-- [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](../claims/belonging-mdp-reduces-effort-and-threat-perceptions.md) [+W]
-- [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](../claims/guided-note-taking-supported-remote-engagement.md) [+W]
-- [Students with a better understanding of how AI systems work show higher academic self-efficacy](../claims/ai-understanding-higher-self-efficacy.md) [+W]
-- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](../claims/career-fear-apathy-outcomes-over-process.md) [~W]
-- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](../claims/self-efficacy-growth-generative-ai-semester.md) [+W]
-- [Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations](../claims/self-efficacy-course-type-not-predict-continued-ai-conversations.md) [-W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**713 entries** · 0 stable · 0 in review · 713 drafts
+**714 entries** · 0 stable · 0 in review · 714 drafts
 
 ---
 
@@ -726,6 +726,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Tough as Nails project: a K-8 coding pathway research-practice partnership in Kentucky Appalachia](tough-as-nails-project.md) - Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (grants #1923314 and #2219401) creating a K-8 Computational Thinking Pathway in Floyd County and Pikeville Independent Schools by applying...
 * [Transcript-derived patient profiles conditioning virtual patient behavior across seven dimensions](transcript-derived-virtual-patient-profiles.md) - Four anonymized patient profiles (two male, two female) were synthesized with GPT-5.2 from 4–7 real ACT sessions each, which \"averaged 58–92 therapist-patient turn pairs and lasted 38–60 minutes\".
 * [Transformative learning theory combined with ethical decision-making frameworks as the design basis for GenAI professional development](mezirow-transformative-learning-ethical-decision-frameworks-genai-pd.md) - The article grounds its professional development design in Mezirow's Transformative Learning Theory together with \"established ethical decision-making frameworks in educational technology.\" This combined framework pos...
+* [Treat model choice, evidence selection, serving compatibility, and product design as a joint engineering decision when building a campus AI tutor](joint-engineering-decision-campus-ai-tutor.md) - The article argues that a tutoring system's quality cannot be improved by swapping one component in isolation: latency, memory, retrieval, and product surfaces interact.
 * [Tri-annual teacher survey operationalizing dosage, adherence, instructional quality, and support](hqim-implementation-teacher-survey-instrument.md) - A teacher self-report survey administered \"three times annually during the 2024–2027 study period\" to all participating grades 6–8 teachers, designed to take no longer than 30 minutes per administration.
 * [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](fraction-face-off-cooperative-lesson-structure.md) - Each lesson follows a sequence in which tutors introduce \"concepts, skills, problem-solving strategies, and procedures,\" after which \"students work in groups, sharing solutions and helping others.\" Lessons have a spor...
 * [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](tutor-led-strategies-adult-language-lessons.md) - The guide enumerates tutor-led strategies that \"enhance this particular process and make the learning more effective\": structure the learning so material is \"coherent and meaningful, with supporting interconnections m...

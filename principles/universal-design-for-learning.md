@@ -31,7 +31,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 27 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 27 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 28 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 6 of 28 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,11 @@ For example, an adult with dyslexia on a health-and-safety course may want to pa
 
 The expectation should weaken if comparisons of a design with several routes against the same design with one route, with comparable learners and the same criterion-referenced outcome, show no increase in the share of learners reaching the criterion, or show that the options cost novices more than they help. If gains appear only in engagement and not in attainment, keep that split rather than calling both "learning". If alternative expression formats consistently yield different judgments of the same capability, the format options should be narrowed to those shown to measure the same thing. If targeted accommodations alone match a universal design for the learners who need them, the case for universal options rests on the stigma and timeliness arguments, not on learning. Do not protect the model by calling every failure "weak implementation" after the fact.
 
+## Claims
+
+- [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](../claims/educator-adaptations-greater-access-virtual-content.md) [+W]
+- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
+
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md) — holds the conditional model for coordinated modes and alternative modes where one is inaccessible.
 - [Accessible Vocabulary and Syntax](accessible-vocabulary-syntax.md) — holds removing language the objective does not require.
@@ -231,7 +236,6 @@ UDL shifts the design question from "how do we fix this learner?" to "how do we 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S] — structured, segmented presentation lowers extraneous load
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — meaningful choice in engagement and expression supports motivation
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — feedback must remain actionable across varied expression formats
-- [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](../claims/educator-adaptations-greater-access-virtual-content.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — UDL's multiple options must be curated to avoid imposing navigation load on novices

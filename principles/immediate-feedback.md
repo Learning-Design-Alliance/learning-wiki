@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 19 studies (6 review, 5 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (5 for, 8 mixed) · 20 studies (6 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,10 @@ For example, an adult learning Italian on a phone app may want each answer marke
 An advantage for immediate over delayed feedback should be stated if controlled comparisons with comparable learners, tasks and aligned delayed outcomes reproduce one, for example in procedural skills or school mathematics, where none is recorded here. If more studies like the vocabulary report find delayed feedback better for retention, say so as a default for that task type. If immediate feedback is shown to reduce learners' attempts or later unaided performance, add that as a constraint with its evidence. Do not protect the model by relabelling every null as feedback that was too slow or too vague after the fact.
 
 Accuracy during practice, delayed retention, transfer and the learner's wish for prompt answers are separate claims. The present evidence does not establish an optimal delay, a timing rule across domains, or that faster feedback is better.
+
+## Claims
+
+- [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.

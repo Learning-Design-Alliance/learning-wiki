@@ -43,6 +43,6 @@ The brief's second stated takeaway is that "teachers need support to meet studen
 
 
 ## Related Claims
-- [No school is totally low-risk from weather-related disruptions](no-school-totally-low-risk-weather-disruptions.md) — related
-- [Many U.S. schools face major budget and infrastructure challenges related to severe weather](schools-face-budget-infrastructure-challenges-severe-weather.md) — related
+- No school is totally low-risk from weather-related disruptions — related
+- Many U.S. schools face major budget and infrastructure challenges related to severe weather — related
 - [A day of school missed after a severe weather event can translate to more than a day of learning lost](weather-missed-day-more-than-day-learning-lost.md) — related

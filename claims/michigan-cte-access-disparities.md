@@ -46,5 +46,5 @@ Research on Michigan's CTE landscape cited in the report also finds students fro
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Only a small share of Washington students completing CTE dual credit courses earn transferable college credit, with Black students among the least likely to earn credit](wa-cte-dc-credit-transfer-problem.md) — related
-- [Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78%](michigan-algebra-i-pass-rate-gaps.md) — related
+- Only a small share of Washington students completing CTE dual credit courses earn transferable college credit, with Black students among the least likely to earn credit — related
+- Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78% — related

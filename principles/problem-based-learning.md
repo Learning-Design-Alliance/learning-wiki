@@ -22,7 +22,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 3 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (5 for, 13 mixed, 1 against) · 24 studies (7 causal, 6 review, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 24 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -85,6 +85,16 @@ The problem-first expectation should weaken if comparable learners, with compara
 An engaging problem phase, an immediate conceptual gain, delayed retention, transfer to practice and the learner's valued use are separate claims. The evidence recorded here does not establish an optimal amount of guidance, a readiness threshold for open problems, or the effect of whole PBL curricula against conventional instruction.
 
 At the curriculum level, the expectation of a small and variable average should change if bias-corrected syntheses with stated comparators and horizons show a consistent effect, or if moderators (guidance, consolidation, prior knowledge, outcome type) are found that explain the variation.
+
+## Claims
+
+- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
+- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [+W]
+- [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](../claims/coding-experience-associated-with-pbl-performance.md) [~W]
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
+- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
+- [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
@@ -156,10 +166,6 @@ Problem-based learning is strongest when the problem requires learners to integr
 -->
 
 <!-- deprecated 2026-10-02: superseded after the brief test, which found answers following the previous version into problem-first designs for novices.
-- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
-- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
-- [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](../claims/ai-supports-problem-centered-critical-thinking.md) [+W]
-- [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](../claims/coding-experience-associated-with-pbl-performance.md) [~W]
 
 ## Conditional relationship
 

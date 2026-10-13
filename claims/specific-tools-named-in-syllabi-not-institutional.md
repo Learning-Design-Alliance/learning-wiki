@@ -48,4 +48,4 @@ Course syllabus coding of the 98 CS syllabi recorded tool mentions; Table 2 rate
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
 - [Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance](both-levels-emphasize-citation-transparency.md) — related
 - [Comprehensive institutional GenAI guidelines translate to course-level guidelines at higher rates (48.3–71.4%) than moderately comprehensive ones (30.8–31.2%)](comprehensive-institutional-guidelines-translate-to-course-level.md) — related
-- [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
+- Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware) — related

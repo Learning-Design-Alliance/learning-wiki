@@ -62,6 +62,6 @@ End-of-course grade data from the three institutions offering Statway College wi
 
 
 ## Related Claims
-- [Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability](corequisite-success-variability-across-institutions.md) — related
+- Success rates varied substantially across and within institutions, with within-institution section variability slightly less than between-institution variability — related
 - [In their first year, 65.1% of the 410 students in Quantway and Statway College with Corequisite earned a grade of C or better and college-level math credit in a single term](quantway-statway-corequisite-65-percent-success.md) — related
 - [Higher total contact hours for the paired courses were associated with higher institutional success rates (4 hours: 39%; 5 hours: 61%; 6 hours: 67%)](contact-hours-success-rate-association.md) — related

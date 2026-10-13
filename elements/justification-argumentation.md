@@ -13,7 +13,7 @@ generated:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.
@@ -56,6 +56,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](../claims/socratic-test-pilot-beyond-recall.md) [+W]
+- [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](../claims/argumentation-implementation-challenges.md) [~W]
 
 ## Related Elements
 

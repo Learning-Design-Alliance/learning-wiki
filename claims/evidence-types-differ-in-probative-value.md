@@ -65,5 +65,5 @@ The credential analysis found interview-inconsistency items uniformly rated beca
 - [AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024](ai-detection-evidence-near-disappeared-2025.md) — related
 - [Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025](fabricated-references-co-occur-with-admissions-growth.md) — related
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
-- [GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload](genai-misconduct-allegations-grew-2023-2025.md) — related
+- GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload — related
 - [Simple paraphrasing and self-editing counter-measures collapse AI detection rates to near-random levels](paraphrasing-defeats-ai-detectors.md) — related

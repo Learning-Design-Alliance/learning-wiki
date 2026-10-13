@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (63 for, 18 mixed, 25 against) · 87 studies (26 causal, 17 quant-synthesis, 16 review, 13 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 24 of 87 report an effect size · 99 claims rest on one study
+> **Evidence** · 107 claims (64 for, 18 mixed, 25 against) · 88 studies (26 causal, 18 quant-synthesis, 16 review, 13 associational, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 25 of 88 report an effect size · 100 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -139,6 +139,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](../claims/pronunciation-self-efficacy-associated-with-wtc.md) [+M] — learners who differ on it differ in outcomes
 - [Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages](../claims/bilingual-pairs-cross-lingual-technique-transfer.md) [+M] — an instructional effect differs with it
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [~W] — an instructional effect differs with it
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

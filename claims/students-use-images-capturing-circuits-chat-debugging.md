@@ -43,6 +43,6 @@ Thematic analysis of voluntarily shared chat logs from a 30-minute timed hands-o
 
 
 ## Related Claims
-- [More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment](rising-llm-adoption-debugging-across-semesters.md) — related
+- More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment — related
 - [LLM factual errors during collaborative circuit debugging occurred almost exclusively after image inputs, attributed to limited 3D spatial reasoning from breadboard or PCB photos](llm-factual-errors-after-image-inputs-3d-reasoning.md) — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related

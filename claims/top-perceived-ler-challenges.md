@@ -44,4 +44,4 @@ Thematic analysis of participant-advisor reflections on showcased LER technologi
 - [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — possibly the same claim (merge candidate)
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — related
 - [Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem](transcript-integration-inaccuracies-pervasive.md) — a narrower finding that bears on this claim
-- [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
+- HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions — related

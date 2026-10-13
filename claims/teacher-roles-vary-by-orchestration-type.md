@@ -67,4 +67,4 @@ Inductive coding of roles not captured by the existing framework found that the 
 - [AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)](ai-mediating-orchestration-type.md) — related
 - [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related
 - [Explain-the-screen was the most frequent orchestration type (24 of 46 episodes), and in AI-based lessons it was dynamically reconfigured in real time by AI-generated learning data](explain-the-screen-most-frequent-reconfigured.md) — related
-- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use — related

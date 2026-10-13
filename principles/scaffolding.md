@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 17 studies (8 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 17 report an effect size · 11 claims rest on one study
+> **Evidence** · 25 claims (12 for, 11 mixed, 2 against) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 24 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +87,18 @@ The expectation should weaken if supported attempts fail to beat unsupported one
 
 Assisted performance, unassisted immediate performance, delayed retention, transfer and use in the learner's own setting are separate claims. The evidence above establishes no best kind or amount of support, no individual readiness criterion and no classroom-scale effect.
 
+## Claims
+
+- [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](../claims/ai-scaffolding-developmental-impact-conditional.md) [~W]
+- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [+W]
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]
+- [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](../claims/principles-level-assessment-highest-scaffolding-effect.md) [+W]
+- [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](../claims/gpt4-access-worse-after-removal-math.md) [~W]
+- [Scaffolding's effect was greatest among adult learners, though based on a single outcome](../claims/scaffolding-effect-greatest-adult-learners.md) [+W]
+- [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](../claims/no-short-term-dependence-cost-unsupported-application.md) [~W]
+- [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](../claims/genai-supported-performance-independent-divergence.md) [+M]
+- [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](../claims/scaffolding-varies-by-request-and-assignment.md) [-W]
+
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)
 
@@ -139,13 +151,6 @@ Scaffolding is useful when learners can succeed with support but not yet on thei
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
-- [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](../claims/ai-scaffolding-developmental-impact-conditional.md) [~W]
-- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [+W]
-- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]
-- [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](../claims/principles-level-assessment-highest-scaffolding-effect.md) [+W]
-- [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](../claims/gpt4-access-worse-after-removal-math.md) [~W]
-- [Scaffolding's effect was greatest among adult learners, though based on a single outcome](../claims/scaffolding-effect-greatest-adult-learners.md) [+W]
-- [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](../claims/no-short-term-dependence-cost-unsupported-application.md) [~W]
 
 ## Description
 The article proposes that the quality of student-authored questions depends substantially on the material and support provided before authoring. It states: "It is our hypothesis that the higher quality of student-authored questions found in the present study is connected to the introductory exercises and scaﬀolding activities that we provided to students ahead of the ﬁrst PeerWise assessment task." The scaffolding set a high bar via a worked example and pushed students beyond what they currently know. This remains an untested hypothesis in this study.

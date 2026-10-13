@@ -44,4 +44,4 @@ Key leader interviews and four-district case study findings on technology and da
 
 ## Related Claims
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
-- [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
+- Principals are generally more positive about TPE than teachers, but perception gaps are narrowing — related

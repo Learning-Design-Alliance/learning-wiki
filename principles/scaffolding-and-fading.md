@@ -35,7 +35,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 19 report an effect size · 11 claims rest on one study
+> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 25 studies (10 causal, 4 review, 4 theoretical, 2 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -92,6 +92,17 @@ For example, a student writing a lab report may want a good grade on this report
 The expectation should weaken if contingent support fails to beat fixed or no support on unassisted, aligned outcomes for comparable learners, beyond one-to-one tutoring. It should also weaken if the gain is matched by explicit strategy instruction at lower cost, as the dynamic-assessment synthesis hints. If faded and unfaded scaffolds keep producing the same outcomes, as in the computer-based scaffolding meta-analysis, the withdrawal half of the relationship is unsupported for that setting and should be stated as a design preference only. If checking understanding before withdrawal does not change uptake when tested experimentally, drop that diagnostic branch. Do not protect the model by calling every failure "faded too early" or "faded too late" after the fact. A threshold for withdrawal must be stated before the outcome is seen.
 
 Assisted performance, unassisted immediate performance, delayed retention, transfer and use in the learner's own setting are separate claims. The evidence above establishes no optimal fading rate, no individual readiness criterion and no classroom-scale effect of contingency.
+
+## Claims
+
+- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
+- [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-W]
+- [Learners learned most about those principles that were faded](../claims/learners-learn-most-about-faded-principles.md) [+W]
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [~W]
+- [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
+- [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
+- [How genAI is used, not who uses it, predicts whether independent performance declines or improves](../claims/genai-usage-mode-predicts-independent-performance.md) [~W]
+- [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — often the first stage in a scaffolded sequence.
@@ -170,12 +181,6 @@ Scaffolding and fading work because novices often need temporary support to perf
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 3 claims (3 unmarked) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
-- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [+W]
-- [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](../claims/ai-assistance-impairs-unassisted-fraction-performance-exp1.md) [-W]
-- [Learners learned most about those principles that were faded](../claims/learners-learn-most-about-faded-principles.md) [+W]
-- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [~W]
-- [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](../claims/faded-step-position-no-learning-outcome-effect.md) [~W]
-- [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 
 ## Description
 Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.

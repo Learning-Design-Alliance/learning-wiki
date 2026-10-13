@@ -46,5 +46,5 @@ Human validation phase: three trained coders applied the codebook to 2,560 new m
 - [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — related
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — a broader claim this one bears on
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
-- [In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%)](instructional-practices-largest-domain-36-5-percent.md) — related
+- In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%) — related
 - [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — related

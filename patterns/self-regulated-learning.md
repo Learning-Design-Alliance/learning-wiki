@@ -20,7 +20,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 21 claims (10 for, 11 mixed) · 18 studies (5 quant-synthesis, 4 review, 4 theoretical, 3 causal, 2 associational), `q1`–`q4` · 6 of 18 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -88,6 +88,17 @@ Record: **task and criterion → supports present (prompts, model, rubric, feedb
 
 This pattern is scoped to regulation attached to subject-matter tasks over a unit. Standalone study-skills courses, motivational interventions, behavioural self-monitoring for on-task conduct and adaptive systems that take regulation decisions for the learner are distinct configurations with their own evidence. The present policy supports observation and design reasoning; its branches, fading rule and the role of the learner's valued goal remain to be tested with actual learners.
 
+## Claims
+
+- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](../claims/agentic-srl-coaching-rct-86-significant-strategy-gain.md) [+W]
+- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
+- [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
+- [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
+- [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](../claims/delegating-evaluation-self-defeating.md) [+W]
+- [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](../claims/srl-strategies-large-effect-academic-achievement.md) [+W]
+- [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](../claims/srl-effect-no-course-type-difference.md) [~W]
+- [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](../claims/verification-bottleneck-confidence-dissociation.md) [~W]
+
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 
@@ -119,14 +130,10 @@ Self-Regulated Learning is the pattern-level target for designs that explicitly 
 #### Supporting
 
 - [Self-Regulated Learning](../principles/self-regulated-learning.md)
-- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](../claims/agentic-srl-coaching-rct-86-significant-strategy-gain.md) [+W]
 
 ### Claims
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
-- [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
-- [Within-session SRL change shows no detectable association with unaided post-test performance](../claims/srl-change-no-posttest-association.md) [~W]
 
 ## Design
 

@@ -43,4 +43,4 @@ The editors' introduction identifies this as the second common challenge across 
 
 
 ## Related Claims
-- [Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts](pilot-testing-versus-scaled-change-challenge.md) — possibly the same claim (merge candidate)
+- Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts — possibly the same claim (merge candidate)

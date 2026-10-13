@@ -44,6 +44,6 @@ Trend analysis of CPS student record data from 1995 to 2007 reported in Chapter 
 
 ## Related Claims
 - [High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006](hs-stability-driven-by-dropout-decline.md) — related
-- [African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level](african-american-mobility-gap-widened.md) — related
+- African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level — related
 - [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related

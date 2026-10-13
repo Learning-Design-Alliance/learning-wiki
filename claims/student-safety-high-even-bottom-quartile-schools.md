@@ -43,5 +43,5 @@ Descriptive results from the four-item student safety scale covering classes, ha
 
 
 ## Related Claims
-- [Students report feeling mostly safe even in bottom-quartile schools](students-feel-mostly-safe-even-bottom-quartile-schools.md) — possibly the same claim (merge candidate)
+- Students report feeling mostly safe even in bottom-quartile schools — possibly the same claim (merge candidate)
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related

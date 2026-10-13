@@ -43,6 +43,6 @@ Survey subgroup comparison by school level (Table 4). The report states "Element
 
 
 ## Related Claims
-- [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related
-- [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
-- [Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)](newer-teachers-more-positive-about-tpe-than-veterans.md) — related
+- Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers — related
+- Principals are generally more positive about TPE than teachers, but perception gaps are narrowing — related
+- Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years) — related

@@ -43,7 +43,7 @@ Report's analysis of U.S. Department of Education budget tables (Figure 3); it c
 
 
 ## Related Claims
-- [Per-student spending on homeless programs varied considerably across the five study districts, from $128 to $556](homeless-program-spending-varies-128-556-per-student.md) — related
-- [Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts](mckinney-vento-funding-low-not-proportional-to-need.md) — related
-- [Only four states (California, Massachusetts, New York, Washington) dedicate state funding specifically to students experiencing homelessness](only-four-states-dedicated-funding.md) — related
-- [Fewer than 24% of LEAs receive McKinney-Vento grants, and over one third of students experiencing homelessness attend districts receiving none](mckinney-vento-uneven-distribution.md) — related
+- Per-student spending on homeless programs varied considerably across the five study districts, from $128 to $556 — related
+- Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts — related
+- Only four states (California, Massachusetts, New York, Washington) dedicate state funding specifically to students experiencing homelessness — related
+- Fewer than 24% of LEAs receive McKinney-Vento grants, and over one third of students experiencing homelessness attend districts receiving none — related

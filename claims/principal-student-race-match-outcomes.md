@@ -44,4 +44,4 @@ The playbook's research summary reports that "Attendance, gifted program enrollm
 
 
 ## Related Claims
-- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
+- Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race — related

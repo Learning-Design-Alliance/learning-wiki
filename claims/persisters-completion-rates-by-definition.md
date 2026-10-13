@@ -67,8 +67,8 @@ Descriptive analysis (Figures 10 and 11) of six-year credential completion for t
 ## Related Claims
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term definition](persistence-definition-variants-rate-differences.md) — related
-- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
-- [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related
-- [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
-- [Half of CPS 2017 graduates who immediately enrolled in a four-year college completed a bachelor's degree within six years](cps-2017-four-year-enrollee-completion-50.md) — related
-- [Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years](cps-2014-four-vs-six-year-completion-30-51.md) — related
+- Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent) — related
+- Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
+- Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees — related
+- Half of CPS 2017 graduates who immediately enrolled in a four-year college completed a bachelor's degree within six years — related
+- Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years — related

@@ -43,6 +43,6 @@ A district example from the Examples of Addressing Resource Inequities section, 
 
 
 ## Related Claims
-- [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
+- Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities — related
 - [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — related
-- [Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities](needs-based-staffing-addresses-inequity.md) — related
+- Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities — related

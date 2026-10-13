@@ -22,7 +22,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (4 for, 8 mixed, 2 against) · 24 studies (8 causal, 7 quant-synthesis, 7 review, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 24 report an effect size · 5 claims rest on one study
+> **Evidence** · 17 claims (6 for, 9 mixed, 2 against) · 25 studies (8 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 25 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,12 @@ The expectation should weaken if classroom studies with comparable readers and t
 
 The present evidence establishes no number of questions, no length of attempt, no delay over which the gain holds and no effect on comprehension of a whole text.
 
+## Claims
+
+- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
+- [The pretesting effect on text memory grows with retention interval, being largest at one week](../claims/pretesting-effect-grows-with-retention-interval.md) [+W]
+- [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
+
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.
 - [Note-taking](note-taking.md) — pre-reading questions help determine what learners should attend to and record.
@@ -200,9 +206,6 @@ Pre-reading questioning improves comprehension when it gives learners a reason t
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — pre-reading questions help learners check what they already think and revise it as they read
-- [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](../claims/pretesting-enhances-memory-tested-text.md) [+W]
-- [The pretesting effect on text memory grows with retention interval, being largest at one week](../claims/pretesting-effect-grows-with-retention-interval.md) [+W]
-- [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.

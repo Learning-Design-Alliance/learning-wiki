@@ -51,4 +51,4 @@ This is the second research question of the EPIC report on Michigan district res
 - [Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person](stronger-teacher-peer-relationships-remote-year.md) — related
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
-- [Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d. below 2011 levels](parent-support-declined-middle-grades.md) — related
+- Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d. below 2011 levels — related

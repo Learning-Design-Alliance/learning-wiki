@@ -44,7 +44,7 @@ Thematic analysis of seven focus groups with 28 PGR students at the University o
 
 ## Related Claims
 - [Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks](disciplinary-norms-shape-genai-acceptability.md) — related
-- [Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants](editing-proofreading-most-prevalent-genai-use.md) — related
+- Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants — related
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](genai-authorship-boundary-rejected-substitution.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related

@@ -63,6 +63,6 @@ Same descriptive trend analysis: the report characterizes the difference in line
 
 ## Related Claims
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related
-- [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related
+- Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19 — related
 - [Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates](secondary-schools-more-attendance-texting-grade-configuration.md) — related
 - [Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish](targeted-attendance-texts-and-translation-use.md) — related

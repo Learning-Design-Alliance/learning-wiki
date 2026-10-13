@@ -45,4 +45,4 @@ Post-treatment t-test (Table 8) comparing teachers' (n = 32, mean 18.94) and TI 
 ## Related Claims
 - [IELTS-task-instructed learners outperformed TOEFL-materials-instructed learners on listening post-test performance](ielts-task-instruction-outperforms-toefl-listening.md) — related
 - [Task-based instruction changed learners' views toward TBLT to align with teachers' views](task-instruction-shifts-learner-tblt-views.md) — related
-- [Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views](teachers-learners-tblt-views-differ-baseline.md) — related
+- Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views — related

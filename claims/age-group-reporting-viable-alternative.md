@@ -44,6 +44,6 @@ Cross-sectional comparison of mean ITBS scores by age groups (Figure 14), define
 
 ## Related Claims
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
-- [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](cps-reading-trends-flattened-declined-younger-ages.md) — related
-- [After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12](cps-elementary-scores-continued-improving-after-adjustments.md) — related
-- [Math test scores in CPS elementary schools continued long-term improvements for all age levels through 2000](cps-math-scores-long-term-improvement-1992-2000.md) — related
+- Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000 — related
+- After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12 — related
+- Math test scores in CPS elementary schools continued long-term improvements for all age levels through 2000 — related

@@ -20,7 +20,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 24 studies (8 causal, 8 quant-synthesis, 3 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 24 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 26 studies (8 causal, 8 quant-synthesis, 5 review, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,14 @@ Record: **performance named and task conditions → criteria and exemplars share
 
 This pattern is scoped to judging a performance capability through an extended, realistic task with revision. Knowledge that a test checks well, and decisions that need many independent observations, need other configurations or a mix ([direct instruction](direct-instruction.md) for the components, [formative assessment](formative-assessment.md) for the moment-to-moment loop, [competency-based learning](competency-based-learning.md) for progression). The policy supports observation and design reasoning; whether assessing through an authentic task, rather than a conventional test of the same outcome, changes what learners can do later, for which learners, at what cost in assessor time and with what reliability, remains to be tested.
 
+## Claims
+
+- [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](../claims/llms-support-competency-based-assessment-design.md) [+W]
+- [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](../claims/aa-designs-predominantly-professional-authenticity.md) [~W]
+- [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](../claims/aa-formative-feedback-dominates-sustainable-rare.md) [~M]
+- [Students are typically passive users of assessment rubrics in authentic assessment designs](../claims/aa-students-passive-users-of-rubrics.md) [-W]
+- [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](../claims/aa-cognitive-challenges-knowledge-and-21st-century-skills.md) [+W]
+
 ## Related Patterns
 - [Constructive Alignment](constructive-alignment.md) — authentic assessment is the assessment half of alignment; outcomes, tasks, and criteria must point at the same competence
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — authentic tasks provide the realistic practice context in which modeling, coaching, and fading unfold
@@ -191,7 +199,6 @@ Unit or course — authentic tasks typically anchor an extended sequence of prep
 - [Situated Learning](../theories/situated-learning.md) (Lave & Wenger) — knowledge is inseparable from the context of its use; assessment should therefore occur in authentic practice contexts
 - [Constructivism](../theories/constructivism.md) — learners build understanding through active, meaningful tasks rather than reproduction of transmitted content
 - [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — autonomy, relevance, and competence feedback in authentic tasks support intrinsic motivation
-- [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](../claims/llms-support-competency-based-assessment-design.md) [+W]
 
 #### Contradicting / Qualifying
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — ill-structured authentic tasks can overwhelm novices; means-ends search in open problems imposes extraneous load, so scaffolding or worked examples are needed before full authentic performance
@@ -206,9 +213,6 @@ Unit or course — authentic tasks typically anchor an extended sequence of prep
 #### Contradicting
 
 - [Checklist-based evaluation is ineffective in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [~M] — mechanical rubric application can substitute compliance for judgment
-- [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](../claims/aa-designs-predominantly-professional-authenticity.md) [~W]
-- [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](../claims/aa-formative-feedback-dominates-sustainable-rare.md) [~M]
-- [Students are typically passive users of assessment rubrics in authentic assessment designs](../claims/aa-students-passive-users-of-rubrics.md) [-W]
 
 ## Design
 

@@ -17,7 +17,7 @@ sources:
 # Self-originated elaboration account of acceptance without comprehension
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's preferred formulation is a cognitive response account in which acceptance rests on the recipient's own thoughts rather than on message meaning. It reports that "a meaningless message could Suffice to instigate sufficient own thoughts for confident reporting of differential message acceptance," and concludes that "the locus of meaning... was not anywhere in the message but in the self-otigin_ted elaborations of the message recipient." This account is offered against comprehension-based persuasion models.
@@ -41,6 +41,7 @@ The article's preferred formulation is a cognitive response account in which acc
 - [Unintelligible Messages Increase Idiosyncratic Elaboration](../claims/unintelligible-messages-increase-idiosyncratic-elaboration.md) [+M]
 - [Unintelligible Beats No Message Control](../claims/unintelligible-beats-no-message-control.md) [+M]
 - [Students agree with and list cognitive responses to unintelligible communications](../claims/students-agree-with-unintelligible-messages.md) [+W]
+- [Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition](../claims/need-for-cognition-moderates-unintelligible-persuasion.md) [+W]
 
 ## Related Theories
 

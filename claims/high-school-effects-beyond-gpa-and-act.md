@@ -45,8 +45,8 @@ Authors' synthesis of the variance-component results across models (n=17,753): s
 ## Related Claims
 - [Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models](act-plus-hsgpa-reduces-high-school-variance.md) — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — possibly the same claim (merge candidate)
-- [College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs](school-variance-same-hsgpa-graduation.md) — a narrower finding that bears on this claim
+- College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs — a narrower finding that bears on this claim
 - [HSGPAs have a strong, consistent relationship with college graduation that is larger than school effects, while ACT scores have a weak relationship smaller than high school effects with slopes varying by school](hsgpa-strong-act-weak-college-graduation-predictors.md) — related
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa-graduation.md) — related
-- [Students with the same HSGPA or the same ACT score graduate at very different rates depending on which high school they attended](same-gpa-act-different-graduation-rates-by-high-school.md) — related
+- Students with the same HSGPA or the same ACT score graduate at very different rates depending on which high school they attended — related

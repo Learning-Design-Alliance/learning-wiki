@@ -43,6 +43,6 @@ Descriptive comparison of lagged CCD demographics of closed versus open schools.
 
 
 ## Related Claims
-- [U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25](closure-rate-dip-rebound-post-pandemic.md) — related
+- U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25 — related
 - [High-poverty schools are overrepresented among closed schools across the study period](high-poverty-schools-overrepresented-closures.md) — related
 - [Racial disparities in 2024-25 closure likelihood hold after accounting for enrollment declines and poverty](racial-closure-disparity-holds-controlling-enrollment.md) — related

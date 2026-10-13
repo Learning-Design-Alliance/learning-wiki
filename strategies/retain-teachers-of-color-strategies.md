@@ -17,7 +17,7 @@ sources:
 # Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief's Goal 5 recommends investing in high-retention pathways, leadership development, induction and mentoring of at least two years, and culturally responsive training for school and district leaders. Massachusetts "invests in leadership pipelines for teachers of color through opportunities like the InSPIRED Fellowship for aspiring superintendents" and "launched two new professional development academies for school and district teams this year" to build culturally responsive environments, but the brief recommends investing in induction providing at least two years of mentor support.
@@ -38,6 +38,10 @@ The brief's Goal 5 recommends investing in high-retention pathways, leadership d
 
 ### Affordances
 - [Five Goal Educator Diversity Policy Framework](../products/five-goal-state-policy-framework-for-increasing-educator-workforce-diversity.md)
+
+## Claims
+
+- [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](../claims/residency-leaky-pipeline-limited-roi.md) [~W]
 
 ## Related Strategies
 

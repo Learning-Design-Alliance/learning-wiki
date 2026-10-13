@@ -13,7 +13,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 19 studies (7 causal, 7 quant-synthesis, 4 review, 1 associational), `q1`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 22 studies (7 causal, 7 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,13 @@ The expectation should weaken if studies that widen classroom norms (wait time, 
 
 Response quality during questioning, accuracy of the teacher's judgement, participation, discipline, belonging and achievement are separate outcomes; evidence for one is not evidence for another. The present evidence establishes no wait time for any cultural group, no share of all-student response, and no effect of teaching conventions explicitly.
 
+## Claims
+
+- [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](../claims/ai-an-students-question-answer-participation.md) [+W]
+- [Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives](../claims/collaborative-response-formats-ai-an-classrooms.md) [+W]
+- [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](../claims/us-classes-expected-more-talk-than-japanese.md) [~W]
+- [Teachers give disinvited students less wait time than invited students when they cannot answer questions](../claims/wait-time-invited-disinvited-students.md) [-W]
+
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — cooperative-learning structures directly serve students whose cultural background favors an interdependent self-concept
 - [Gender-Equitable Classroom Interaction](gender-equitable-classroom-interaction.md) — a parallel case of well-intentioned teachers unknowingly applying an interaction norm unevenly across a student population
@@ -197,10 +204,6 @@ Genuinely accommodating this diversity requires more than adding cultural conten
 ## Claims
 
 - [Increasing Wait Time Improves Response Quality](../claims/increasing-wait-time-improves-response-quality.md) [+M]
-- [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](../claims/ai-an-students-question-answer-participation.md) [+W]
-- [Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives](../claims/collaborative-response-formats-ai-an-classrooms.md) [+W]
-- [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](../claims/us-classes-expected-more-talk-than-japanese.md) [~W]
-- [Teachers give disinvited students less wait time than invited students when they cannot answer questions](../claims/wait-time-invited-disinvited-students.md) [-W]
 
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — cooperative-learning structures directly serve students whose cultural background favors an interdependent self-concept

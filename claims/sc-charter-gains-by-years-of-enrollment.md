@@ -43,8 +43,8 @@ Analysis limited to students first enrolling in charters between 2014-15 and 201
 
 
 ## Related Claims
-- [New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled](nm-charter-third-year-reading-gain.md) — reports the opposite
-- [Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers](sc-charter-grade-configuration-differences.md) — related
-- [Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth](idaho-charter-grade-configuration-effects.md) — related
-- [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related
-- [Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers](wa-charter-gains-by-years-enrolled.md) — reports the opposite
+- New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled — reports the opposite
+- Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers — related
+- Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth — related
+- About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform — related
+- Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers — reports the opposite

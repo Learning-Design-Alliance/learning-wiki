@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 17 studies (7 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 17 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (6 for, 8 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 19 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,11 @@ For example, an adult in a literacy programme may want to fill in a job applicat
 The expectation should weaken if comparisons of guided against independent practice after the same model, with comparable learners and aligned unaided outcomes, show no advantage, or show that a gain at the end of the session disappears at a delay. If prompting learners to construct the next step matches feedback-giving support, as one tutoring study suggests, the model should say "prompted practice" rather than "practice with feedback". If guided practice works no better at class scale, where few attempts are seen, than self-checked practice with automatic feedback, the contingent part is a one-to-one design preference only. If success rates during skill practice behave unlike those in retrieval practice, drop the three-in-four guide. Do not protect the model by calling every failure "too little practice" or "support removed too early" after the fact.
 
 Assisted success during practice, unaided immediate performance, delayed retention, transfer and use in the setting the learner values are separate claims. The present evidence establishes no number of guided rounds, no success threshold for skill practice and no hand-over criterion.
+
+## Claims
+
+- [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](../claims/llm-feedback-fewer-attempts.md) [~W]
+- [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](../claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) [~W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — guided practice often follows worked examples so learners can apply a model immediately.

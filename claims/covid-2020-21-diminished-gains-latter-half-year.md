@@ -45,9 +45,9 @@ The brief's summary describes an analysis of within-year gains on MAP Growth ass
 ## Related Claims
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
-- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
 - [The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024](covid-influenced-science-achievement-seven-school-years.md) — related
-- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — possibly the same claim (merge candidate)
+- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — possibly the same claim (merge candidate)
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related
 - [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — possibly the same claim (merge candidate)

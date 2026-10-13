@@ -44,7 +44,7 @@ Survey and interview findings on sustainability conditions; risks cited include 
 
 ## Related Claims
 - [Interviewees unanimously predicted College Promise will improve college enrollment, persistence, and completion, and most expected institutional changes](perceived-promise-outcomes-enrollment-persistence-completion.md) — related
-- [Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion](stakeholder-definitions-access-completion-goals.md) — related
-- [Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books](ca-promise-last-dollar-financial-models.md) — related
-- [Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports](ca-promise-academic-support-services-prevalence.md) — related
+- Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion — related
+- Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books — related
+- Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports — related
 - [College Promise programs are defined by place-based eligibility and direct financial support, and all 42 California programs met these criteria in fall 2017](college-promise-defining-features-42-ca-programs.md) — related

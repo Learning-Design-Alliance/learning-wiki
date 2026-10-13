@@ -44,4 +44,4 @@ Analysis of 42,456 matched CPS students' EXPLORE and ACT scores across 2005-2007
 
 ## Related Claims
 - [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
-- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores — related

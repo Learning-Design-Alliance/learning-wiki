@@ -62,7 +62,7 @@ The manual quotes the 1999 data brief: "more than 80 percent of sixth and eighth
 
 
 ## Related Claims
-- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
+- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — related
 - [Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments](classroom-composition-not-linked-assignment-quality.md) — related
 - [The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998](annenberg-assignment-quality-improved-1997-1999.md) — possibly the same claim (merge candidate)

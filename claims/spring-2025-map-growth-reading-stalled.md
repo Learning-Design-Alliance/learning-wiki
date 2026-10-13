@@ -46,7 +46,7 @@ The brief's description contrasts the two subjects in one sentence: math shows "
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [MAP Growth data shows U.S. reading improving after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-turnaround-2025-2026.md) — reports the opposite
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — a broader claim this one bears on
-- [NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading](post-covid-middle-school-reading-urgent-challenge.md) — related
+- NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — a narrower finding that bears on this claim
-- [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — a narrower finding that bears on this claim
+- Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress — a narrower finding that bears on this claim

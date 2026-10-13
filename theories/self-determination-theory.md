@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 15 studies (4 review, 4 associational, 3 causal, 2 theoretical, 1 qualitative, 1 design), `q2`–`q3` · 3 of 15 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 18 studies (6 associational, 4 review, 3 causal, 2 design, 2 theoretical, 1 qualitative), `q2`–`q3` · 3 of 18 report an effect size · 19 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -75,6 +75,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](../claims/school-side-support-genai-engagement.md) [+W]
 - [GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage](../claims/gai-core-only-supplementary-autonomy-configuration.md) [~W]
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
+- [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](../claims/educator-buy-in-engagement-fidelity-edtech-pilots.md) [+W]
+- [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](../claims/inattention-moderates-ai-benefit-associations.md) [~W]
+- [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](../claims/openness-relatedness-indirect-via-competence.md) [~W]
 
 ## Related Theories
 

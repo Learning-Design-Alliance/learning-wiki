@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3` · 2 of 4 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q1`–`q3` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -52,7 +52,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](../claims/brain-breaks-teacher-adoption-after-presentation.md) [+W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

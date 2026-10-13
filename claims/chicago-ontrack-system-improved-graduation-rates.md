@@ -47,5 +47,5 @@ The chapter's framing question and overview assert that an iterative research-po
 - [Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient](ontrack-accountability-realtime-data-graduation-gains.md) — possibly the same claim (merge candidate)
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [On-track rates in Chicago improved over time alongside indicator-based data tool use](chicago-ontrack-rates-improved-over-time.md) — possibly the same claim (merge candidate)
-- [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
-- [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes — related
+- CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014 — related

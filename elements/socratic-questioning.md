@@ -18,7 +18,7 @@ sources:
 # Socratic Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (5 for, 4 mixed, 3 against) · 7 studies (5 causal, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (6 for, 4 mixed, 3 against) · 8 studies (5 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 8 report an effect size · 13 claims rest on one study
 
 ## Description
 Socratic questioning is the element in which prompts are used to probe assumptions, clarify reasoning, test evidence, and extend implications. It is useful when the goal is not simply to elicit an answer, but to strengthen the quality of explanation and judgment behind the answer.
@@ -59,6 +59,7 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](../claims/direct-conditions-higher-full-comprehension.md) [~W]
 - [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](../claims/prompt-specificity-shapes-tutor-pedagogy.md) [~W]
 - [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](../claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) [-W]
+- [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](../claims/llm-participants-stage-goal-clarification.md) [+W]
 
 ## Related Elements
 - [Conceptual Questioning](conceptual-questioning.md)

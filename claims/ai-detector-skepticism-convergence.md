@@ -44,4 +44,3 @@ Document analysis of academic-integrity and teaching-center guidance across the 
 
 ## Related Claims
 
-- [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md)

@@ -13,7 +13,7 @@ generated:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 theoretical, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 7 studies (3 theoretical, 2 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Most children worldwide grow up bilingual or multilingual; the United States is unusual in its relative monolingualism and in schooling practices that sometimes implicitly treat a student's home language as an obstacle to English acquisition rather than an asset. Bilingual proficiency ranges from balanced fluency in both languages to more uneven competence across domains, and many bilingual students in U.S. schools are in the process of losing proficiency in a heritage language while still developing English — a pattern of language attrition that research links to *slower*, not faster, English development: a strong vocabulary base in a first language facilitates rather than competes with acquiring a second (Hansen, Umeda, & McKinney, 2002). Fully proficient bilingual learners also show cognitive advantages in metalinguistic awareness — the ability to reflect on language as an object, not just use it — and in flexibility of concept expression (Jimenez, Garcia, & Pearson, 1995; Francis, 2006).
@@ -52,6 +52,8 @@ Most children worldwide grow up bilingual or multilingual; the United States is 
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+W]
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](../claims/l1-maintenance-supports-l2-without-cost.md) [+W]
 - [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](../claims/spanish-home-use-does-not-limit-english-learning.md) [+W]
+- [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](../claims/early-exit-transitional-transition-unsupported-inappropriate.md) [+W]
+- [Most LEAs planned English-only TK with home-language support or dual language programs, but 17% planned no language supports](../claims/tk-language-support-plans-vary.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

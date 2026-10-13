@@ -25,7 +25,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 16 studies (10 quant-synthesis, 2 causal, 2 review, 2 design), `q1`–`q4` · 8 of 16 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 19 studies (11 quant-synthesis, 2 causal, 2 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 19 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -92,6 +92,13 @@ Record: **individual starting response → group, task, roles and reward scheme 
 [Group work](../elements/group-work.md), [group roles](../elements/group-roles.md), [group processing](../elements/group-processing.md), [peer explanation](../elements/peer-explanation.md), [class discussion](../elements/class-discussion.md), [assessment](../elements/assessment.md), [quizzes](../elements/quizzes.md) and [feedback](../elements/feedback.md).
 
 This pattern is scoped to small-group work where each member's individual learning is the target. Collaboration skill as an outcome, intergroup relations, belonging, online or adult workplace teams, and long-running project teams need their own outcome measures and evidence. The policy supports observation and design reasoning; its predictive accuracy and the role of learners' valued goals remain to be tested with actual learners.
+
+## Claims
+
+- [A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures](../claims/threefold-cooperative-learning-staff-development-plan.md) [+W]
+- [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](../claims/cooperative-learning-location-moderator.md) [~M]
+- [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W]
+- [Accountability can produce positive or negative effects depending on type, decision context, and task nature](../claims/accountability-effects-depend-on-type-context-task.md) [~W]
 
 ## Related Patterns
 
@@ -168,7 +175,6 @@ Lesson to unit — a single cooperative activity can run 15–40 minutes; longer
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — peers model strategies and persistence; observing similar others strengthens self-efficacy
 - [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — cooperative structures support relatedness and autonomy, sustaining intrinsic motivation
 - [Situated Learning](../theories/situated-learning.md) (Lave & Wenger) — group work situates learning in collaborative practice resembling real communities of practice
-- [A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures](../claims/threefold-cooperative-learning-staff-development-plan.md) [+W]
 
 #### Contradicting / Qualifying
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — collaboration itself imposes coordination costs; for well-structured individual tasks, group work adds load without benefit, and novices may lack the schemas needed to profit from peer explanation
@@ -183,7 +189,6 @@ Lesson to unit — a single cooperative activity can run 15–40 minutes; longer
 #### Contradicting
 
 - None identified — though the accountability claim is conditional: benefits disappear when either component is missing [~S]
-- [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](../claims/cooperative-learning-location-moderator.md) [~M]
 
 ## Design
 

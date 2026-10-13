@@ -44,7 +44,7 @@ Descriptive analysis of the review's 65-paper corpus, coded at paper level for p
 
 ## Related Claims
 
-- [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
+- Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy — related
 - [Sample size is not associated with the presence of explicit policy implications](sample-size-not-associated-policy-implications.md) — related
 - [Educational level is significantly associated with the presence of policy implications](educational-level-associated-policy-implications.md)
 - [Study type is significantly associated with inclusion of policy implications](study-type-associated-policy-implications.md)

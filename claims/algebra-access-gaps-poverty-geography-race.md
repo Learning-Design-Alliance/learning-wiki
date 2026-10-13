@@ -46,4 +46,4 @@ The brief reports that its analysis of eighth-grade students "point[s] to signif
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — a broader claim this one bears on
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related
 - [The study examined both school Algebra offerings and student placement practices](algebra-access-two-mechanisms-offerings-and-placement.md) — related
-- [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related
+- School offerings and placement practices limit opportunity for 8th-grade algebra access — related

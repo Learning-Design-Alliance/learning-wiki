@@ -44,6 +44,6 @@ Further analysis of 2014 self-reported survey data on the nine full-implementati
 
 ## Related Claims
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](kansas-mtss-screening-gains-small-sample-inconclusive.md) — related
-- [Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten](kansas-mtss-screening-gains-full-implementation.md) — related
+- Universal screening data from full-implementation schools show average fall-to-spring gains in reading and math, largest in kindergarten — related
 - [Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time](kansas-mtss-implementation-stages-advancing.md) — related
-- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
+- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training — related

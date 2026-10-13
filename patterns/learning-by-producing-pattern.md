@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 27 studies (9 quant-synthesis, 8 causal, 3 design, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 27 report an effect size · 8 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 28 studies (9 quant-synthesis, 8 causal, 3 design, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 28 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,10 @@ Record: **content and audience → each learner's starting explanation and what 
 [Multimedia production project](../elements/multimedia-production-project.md), [exemplars](../elements/exemplars.md), [explicit teaching](../elements/explicit-teaching.md), [rubrics](../elements/rubrics.md), [self-assessment](../elements/self-assessment.md), [group roles](../elements/group-roles.md), [revision](../elements/revision.md), [peer feedback](../elements/peer-feedback.md) and [feedback](../elements/feedback.md). Strategies: [assign diverse production roles](../strategies/role-assignment-production-teams.md) and [act as a learning supporter during production](../strategies/teacher-learning-supporter-strategy.md).
 
 This pattern is scoped to units in which a team or individual makes a media product that carries named content to an audience, with the content taught and checked before production. Open-ended maker or studio work with no content target, a single "make a poster" activity at the end of a unit, and products judged only on polish or engagement need other configurations and evidence. The wiki records no comparison of learning by producing with another approach; the diagnostic branches above remain to be tested with learners.
+
+## Claims
+
+- [Digital literacy means understanding how to use tools while digital fluency means creating something new with them](../claims/digital-literacy-versus-digital-fluency-distinction.md) [+W]
 
 ## Related Patterns
 

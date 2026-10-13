@@ -17,7 +17,7 @@ sources:
 # CRESST model of problem solving
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The problem-solving assessment model from the National Center for Research on Evaluation, Standards, and Student Testing, used as this study's theoretical frame. It "consists of three components: (a) content understanding, (b) problem-solving strategies, and (c) self-regulation". Strategies divide into domain-independent and domain-specific; self-regulation divides into metacognition (self-monitoring, planning) and motivation (effort, self-efficacy). The study measured content understanding with knowledge maps and strategies with retention and transfer questions.
@@ -37,7 +37,9 @@ The problem-solving assessment model from the National Center for Research on Ev
 - Assessment of problem solving in game-based and computer-based tasks
 
 ### Claims
+
 - [Trait Self Regulation Relates Only To Knowledge Map Scores In A Puzzle Game](../claims/trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game.md) [~W]
+- [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](../claims/metacognition-problem-solving-correlation.md) [+W]
 
 ## Related Theories
 

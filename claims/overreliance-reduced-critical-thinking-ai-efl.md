@@ -51,4 +51,4 @@ Qualitative synthesis of the 54 included studies codes pedagogical limitations i
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — a narrower finding that bears on this claim
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
-- [ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI](acm-dl-critical-thinking-ai-growth.md) — related
+- ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI — related

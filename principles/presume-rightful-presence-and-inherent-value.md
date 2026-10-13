@@ -17,7 +17,7 @@ sources:
 # Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The principle holds that building a culture of true belonging must begin "with the presumption of the rightful presence and inherent value of the disenfranchised." Inherent value means a person's value is assumed to exist without needing to be proven, and it is educators' and institutions' responsibility to look until that value is seen, honoring people's humanity, intersectional identities, and culture.
@@ -42,6 +42,7 @@ The principle holds that building a culture of true belonging must begin "with t
 
 - Inclusion Alone Cannot Bring Substantial Change [+M]
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [+W]
+- [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](../claims/subgroup-differences-reflect-opportunities-to-learn.md) [~W]
 
 ## Related Principles
 

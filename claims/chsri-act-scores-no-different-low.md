@@ -43,9 +43,9 @@ Comparative analysis of junior-year ACT composite scores (taken as part of the P
 
 
 ## Related Claims
-- [Fewer than half of CPS juniors meet ACT college-readiness benchmarks in any subject, with science lowest at 9 percent](cps-act-benchmark-meeting-rates-low.md) — related
-- [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
-- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- Fewer than half of CPS juniors meet ACT college-readiness benchmarks in any subject, with science lowest at 9 percent — related
+- CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected — related
+- CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores — related
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
 - [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related

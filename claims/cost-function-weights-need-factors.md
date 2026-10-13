@@ -43,9 +43,9 @@ Cost function analysis using an instrumental variables approach on the 50-colleg
 
 
 ## Related Claims
-- [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related
+- Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student — related
 - [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](conditional-regression-need-factors-milestones.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — a broader claim this one bears on
-- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related
+- Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student — related
 - [Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost](first-generation-larger-adequacy-gaps.md) — related
-- [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
+- Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities — related

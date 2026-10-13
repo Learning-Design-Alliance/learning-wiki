@@ -31,7 +31,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,6 +80,12 @@ For example, a new support agent may value handling a whole customer call in the
 The expectation should weaken if learners who are novices on the task, given material grouped at conceptual breaks, repeatedly do no better than with continuous or ungrouped versions under defensible comparisons with aligned outcomes, or if grouped and arbitrarily grouped material do equally well (which would mean the benefit is pacing or pausing, not meaning). The prior-knowledge qualification should be revised if, as the segmenting meta-analysis reports for retention, more knowledgeable learners repeatedly benefit more. If smaller units lower reported effort without any gain in performance or transfer, the claim about learning is not supported for that design. Do not protect the model by calling every failure a badly chosen boundary after the fact.
 
 Easier study, immediate performance on a unit, recombined whole-task performance and delayed retention are separate claims. The present evidence does not establish an ideal unit size or a fixed number of items per chunk, a rule for where to place boundaries, or when to lengthen units as a learner progresses.
+
+## Claims
+
+- [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~W]
+- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — chunking is often the first step in a scaffolded instructional sequence.
@@ -143,9 +149,6 @@ Chunking matters because learners cannot process unlimited novelty at once. When
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
-- [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~W]
-- [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](../claims/long-recorded-lectures-impeded-focus.md) [+W]
-- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](../claims/cpc-difference-delayed-posttest-only.md) [~W]
 
 ## Description
 The chunking study outline (CSO) is a teacher-provided study aid consisting of chapter, section, and subsection headings plus key words that students process in quantities matching their cognitive processing capacity. The article's evidence shows longer outlines with added definitions and descriptions lower test performance, so outlines "should be limited to headings of. chapters, sections and subsections" and key words. This principle operationalizes the CSO as a "critical element" of the chunking method.

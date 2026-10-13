@@ -17,7 +17,7 @@ sources:
 # Create streamlined credit-transfer pathways between two-year and four-year institutions to raise completions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Facing a college-completion crisis, states are using articulation agreements to build streamlined pathways through the post-secondary landscape. As the paper states, "states are exploring policy options to increase the number of graduates through increasing enrollments and reducing the number of students who leave school prior to earning a degree," and one such option is creating policies around transfer of credits and credentials between institutions.
@@ -36,6 +36,10 @@ Facing a college-completion crisis, states are using articulation agreements to 
 ### Target Learning Goals
 - increased college enrollment
 - reduced attrition prior to degree completion
+
+## Claims
+
+- [A study estimates the effects of statewide articulation agreement policies on college enrollment, associate degree attainment, and bachelor's degree attainment using IPEDS data and a Difference-in-Difference approach](../claims/articulation-agreements-did-ipeds-study.md) [+W]
 
 ## Related Strategies
 

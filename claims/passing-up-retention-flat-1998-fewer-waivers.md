@@ -45,4 +45,4 @@ Comparison of 1997 and 1998 passing, retention, and waiver rates (Figure 1-6); "
 ## Related Claims
 - [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](higher-passing-rates-did-not-lower-retention.md) — possibly the same claim (merge candidate)
 - [Passing rates under the Chicago promotional policy increased in all three grades from 1997 to 1999, mostly during the school year rather than Summer Bridge](chicago-promotion-passing-rates-rose-1997-1999.md) — related
-- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](waivers-promoted-failing-students-1997.md) — related
+- Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates — related

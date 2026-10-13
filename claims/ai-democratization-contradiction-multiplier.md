@@ -44,7 +44,7 @@ Theoretical argument acknowledging AI's genuine democratizing potential: expert 
 
 ## Related Claims
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — a narrower finding that bears on this claim
-- [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — a narrower finding that bears on this claim
+- Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy — a narrower finding that bears on this claim
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — possibly the same claim (merge candidate)
 - [Linguistic inequality in access to scientific knowledge limits science learning opportunities, particularly for students and teachers of low-resource languages such as Basque](linguistic-inequality-limits-science-learning-low-resource-languages.md) — related
 - [Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling](teaching-narrow-pass-gap-not-ceiling.md) — related

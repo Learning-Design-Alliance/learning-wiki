@@ -43,6 +43,6 @@ In the five-college student focus groups, most students were unaware of the stak
 
 
 ## Related Claims
-- [Large majorities of incoming California community college students place into remedial-level mathematics and English](ca-cc-remedial-placement-rates.md) — related
+- Large majorities of incoming California community college students place into remedial-level mathematics and English — related
 - [Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process](placement-perceived-one-shot-deal.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related

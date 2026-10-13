@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 19 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 21 studies (5 causal, 5 quant-synthesis, 5 review, 4 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -85,6 +85,11 @@ Record: **question and intended distinction → individual answer, confidence an
 
 This pattern is scoped to conceptual questions with a defensible answer. Open-ended discussion, procedural fluency, first exposure to unfamiliar material and attitude change need different configurations and evidence. The policy supports observation and design reasoning; its branches, any discussion threshold and its effect on delayed or transfer outcomes remain to be tested with learners.
 
+## Claims
+
+- [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](../claims/revealing-answer-undesired-feedback-higher-succscore.md) [+W]
+- [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](../claims/clicker-vote-patterns-null-on-homework-explanations.md) [~W]
+
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)
 - [Discussion Group](discussion-based-learning.md)
@@ -142,7 +147,6 @@ In practice, students typically answer individually via clickers or a handheld r
 - Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.
 - Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.
 - Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.
-- [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](../claims/revealing-answer-undesired-feedback-higher-succscore.md) [+W]
 
 #### Contradicting / Qualifying
 - Peer instruction is not just polling; without discussion and debrief it loses much of its value.

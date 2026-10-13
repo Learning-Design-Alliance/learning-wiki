@@ -43,5 +43,5 @@ The brief reports these 2019 wealth figures to show that "For single Black women
 
 
 ## Related Claims
-- [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related
+- Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt — related
 - [Black adults with a college degree have less wealth than White adults without a high school diploma](college-degree-wealth-gap-persists.md) — related

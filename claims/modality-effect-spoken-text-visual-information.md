@@ -54,3 +54,4 @@ Mousavi et al.'s (1995) geometry-learning experiment, first test of the modality
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — possibly the same claim (merge candidate)
+- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-audio-with-visuals-improves-learning.md) — possibly the same claim (merge candidate)

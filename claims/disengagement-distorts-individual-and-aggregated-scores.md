@@ -51,7 +51,7 @@ The article states accumulated research has advanced "our understanding of its d
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
-- [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related
+- School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions — related
 - [Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs](six-insights-test-taking-disengagement-international-programs.md) — related
 - [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — a narrower finding that bears on this claim
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related

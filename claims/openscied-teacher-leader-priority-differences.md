@@ -50,5 +50,5 @@ Subgroup comparison within the 155-respondent survey between 113 classroom teach
 - [Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials](leader-investment-lever-teacher-confidence-satisfaction-skyline.md) — related
 - [School leaders allocated resources to expand organizational capacity around adoption and implementation of the Skyline ELA curriculum in grades K-2](leaders-allocated-resources-expand-organizational-capacity-skyline.md) — related
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
-- [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
+- Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support — related
 - [OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison](open-scied-greater-science-growth-single-district.md) — related

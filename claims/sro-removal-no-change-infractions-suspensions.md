@@ -62,7 +62,7 @@ Null difference-in-difference result for suspensions, inclusive of in-school and
 
 
 ## Related Claims
-- [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
+- High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students — related
 - [Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels](sro-removal-reduces-high-level-discipline-infractions.md) — related
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related
 - [Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant](sro-removal-police-notifications-declined-not-significant.md) — related

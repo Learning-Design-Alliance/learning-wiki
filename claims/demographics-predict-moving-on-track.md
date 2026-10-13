@@ -62,7 +62,7 @@ Reading status-change models (Table 2, Panels C and D) in the same hierarchical 
 
 
 ## Related Claims
-- [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
+- Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school — related
 - [Large-scale longitudinal study measures middle school academic trajectories relative to college readiness benchmarks for more than 360,000 US students](college-readiness-trajectories-360k-students.md) — a broader claim this one bears on
 - [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — a broader claim this one bears on
 - [Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math](demographics-predict-falling-off-track.md) — related

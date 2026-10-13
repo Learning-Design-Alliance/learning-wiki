@@ -14,7 +14,7 @@ grain_size: course
 # Design Thinking
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 8 studies (3 quant-synthesis, 2 causal, 2 theoretical, 1 review), `q1`–`q4` · 3 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 10 studies (3 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.
@@ -66,6 +66,10 @@ The same five moves are also used *with learners* — students empathizing with 
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — open exploration is expensive for a novice, and that holds for novice *designers* too; the process presumes enough instructional expertise to evaluate the options it generates
 
 ### Claims
+
+- [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](../claims/students-unknow-questions-until-too-late.md) [~W]
+- [Design-thinking practices with AI are uneven: iterative prompting is common while feedback collection and structured needs assessment are least developed](../claims/uneven-design-practices-feedback-gap.md) [~W]
+
 #### Supporting
 - [Multiple varied cases support learning in ill-structured domains.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M] — the case for encountering several framings of a problem before committing to one
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — what makes a prototype test informative rather than a popularity check

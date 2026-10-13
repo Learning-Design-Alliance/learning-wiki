@@ -46,4 +46,4 @@ Descriptive account of Alder's continuous improvement infrastructure from the ca
 - [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related
 - [Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders](alder-graduates-hiring-effectiveness-ratings.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
-- [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](state-summer-data-collection-uses.md) — related
+- States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding — related

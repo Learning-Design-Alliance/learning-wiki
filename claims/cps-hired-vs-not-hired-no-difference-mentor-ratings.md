@@ -44,4 +44,4 @@ Among the 2014-15 cohort, of which almost 30 percent became CPS teachers-of-reco
 
 ## Related Claims
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related
-- [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
+- Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS — related

@@ -46,4 +46,4 @@ Observational analysis of 28,683 Moltbook posts classified as procedural or conc
 - [AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities](ai-agent-communities-extreme-participation-inequality.md) — related
 - [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related
 - [AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes](ai-agents-statement-bias-11-to-1.md) — related
-- [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — reports the opposite
+- Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72) — reports the opposite

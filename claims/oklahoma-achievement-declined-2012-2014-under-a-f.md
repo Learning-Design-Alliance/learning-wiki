@@ -43,6 +43,6 @@ Three-year growth analysis of Oklahoma math and reading scale scores by 2011–1
 
 
 ## Related Claims
-- [In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014](frl-reading-gap-a-b-schools-2012-2014.md) — related
+- In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014 — related
 - [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related

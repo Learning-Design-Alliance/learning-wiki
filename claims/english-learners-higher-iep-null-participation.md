@@ -44,4 +44,4 @@ Descriptive participation rates by programmatic indicators (Figure 4). The repor
 
 
 ## Related Claims
-- [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
+- Students with greater economic need participated at higher rates in Chicago Connected — related

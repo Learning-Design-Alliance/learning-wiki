@@ -26,7 +26,7 @@ sources:
 # Mindfulness Activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 3 studies (1 causal, 1 review, 1 theoretical), `q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 mixed, 1 against) · 4 studies (2 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting. In learning settings, these activities are often used to support focus, emotional regulation, transition into challenging work, or recovery from stress. Their instructional value is usually indirect: they do not teach content by themselves, but they can improve the conditions under which learners are ready to engage, persist, and monitor themselves.
@@ -71,6 +71,7 @@ Mindfulness activities are best treated as readiness supports rather than as cor
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — mindfulness routines are most defensible when they help learners notice and regulate attention or stress before engaging in work
 - [Math learning gains did not differ between the Mindful and Cognitive conditions](../claims/no-condition-difference-math-learning.md) [-W]
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](../claims/mbi-evidence-base-variability-limitation.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — mindfulness routines can function as a brief transition or readiness check-in.

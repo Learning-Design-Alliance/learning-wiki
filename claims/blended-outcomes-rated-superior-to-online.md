@@ -62,5 +62,5 @@ Survey item on the promise of blended versus fully online courses, tracked since
 
 
 ## Related Claims
-- [In 2015, 71.4% of academic leaders rated online learning outcomes as the same or superior to face-to-face, with perceptions strongly tied to institutional distance engagement](online-outcomes-rated-same-or-superior-71-percent.md) — related
+- In 2015, 71.4% of academic leaders rated online learning outcomes as the same or superior to face-to-face, with perceptions strongly tied to institutional distance engagement — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related

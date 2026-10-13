@@ -62,4 +62,4 @@ Group-specific regression results (table 2), all associations significant at p <
 
 
 ## Related Claims
-- [Among 2018 on-time graduates, the most frequently unmet CCR requirements were laboratory science (37 percent), fine arts (29 percent), and world languages (23 percent)](most-unmet-requirements-science-arts-languages.md) — related
+- Among 2018 on-time graduates, the most frequently unmet CCR requirements were laboratory science (37 percent), fine arts (29 percent), and world languages (23 percent) — related

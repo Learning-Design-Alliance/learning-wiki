@@ -23,13 +23,15 @@ kind of link, and nowhere else:
     evidence    the other is a claim bearing on this page -> `### Claims` with
                 the model's [±~][SMW] marker, on the kinds whose template has a
                 Claims section (theory, principle, pattern, process, learner
-                variable); on a pattern, `#### Supporting` or `#### Contradicting`
-                by polarity
+                variable, element); on a pattern, `#### Supporting` or
+                `#### Contradicting` by polarity; on a strategy, a `## Claims`
+                section of its own, added before its Related tail
 
 `applies` is refused unless the other page is the more abstract kind (a theory
-does not apply a strategy), and a claim is never written onto a strategy or an
-element, whose templates weave claims into prose sections a script should not
-edit. A marker is the model's reading of how this page uses the claim, as the
+does not apply a strategy). A strategy's template weaves claims into prose sections
+(Target Learners, Target Learning Goals) a script should not edit, so a claim was
+never written onto one; since 2026-10-13 it goes in a separate `## Claims` section,
+which edits no prose: about a thousand findings about a strategy had no other place. A marker is the model's reading of how this page uses the claim, as the
 extractor's markers are; the decision record keeps it, so it can be audited.
 
     python3 scripts/link_pages.py --unlinked --out eval/runs/page-links/unlinked.ndjson
@@ -70,7 +72,7 @@ RANK = {"theories": 4, "learner-variables": 4, "principles": 3, "patterns": 2, "
         "designs": 1, "products": 1, "research-methods": 1, "elements": 1, "strategies": 1, "methods": 1,
         "claims": 0}
 CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables", "elements", "designs",
-             "products", "research-methods"}
+             "products", "research-methods", "strategies"}
 MARKER_RE = re.compile(r"^[+~-][SMW]$")
 LINK_RE = re.compile(r"\]\(<?([^)>\s#]+\.md)")
 HEAD_RE = re.compile(r"^(#{2,4}) +(.+?)\s*$")
@@ -243,7 +245,9 @@ Reply: {{"links": [{{"n": <number>, "relation": "<relation>", "marker": "<only f
 
 # Concept pages a claim can be cited from: every principle, pattern and process, and the
 # elements and theories marked canonical (the batch-written ones are mostly one paper's terms).
-ORPHAN_TARGETS = ("principles", "patterns", "processes", "elements", "theories")
+# Strategies and learner variables were added after the first pass (2026-10-13): a classifier
+# put most of the claims it left unlinked under one of those two kinds, which it never offered.
+ORPHAN_TARGETS = ("principles", "patterns", "processes", "elements", "theories", "strategies", "learner-variables")
 
 
 def concept_targets(pages: dict) -> set:
@@ -252,7 +256,7 @@ def concept_targets(pages: dict) -> set:
         f = k.split("/")[0]
         if f not in ORPHAN_TARGETS:
             continue
-        if f in ("principles", "patterns", "processes"):
+        if f in ("principles", "patterns", "processes", "strategies", "learner-variables"):
             out.add(k)
             continue
         head = p.read_text(encoding="utf-8")[:3000]
@@ -335,8 +339,14 @@ def run_orphans(keys: list, out: Path, model: str, concurrency: int) -> list:
         local = sqlite3.connect(search_index.DB_PATH)
         try:
             r = rec(k)
-            rows = search_index.query(local, r["title"] + " " + r["description"], limit=80, mode="OR")
-            cands = [rec(c) for c in dict.fromkeys(f"{x[1]}/{x[2]}" for x in rows) if c in targets][:12]
+            # Retrieved per kind: searched across the whole wiki, the top rows were nearly all other
+            # claims, and 3,607 claims reached the model with no candidate at all.
+            cands = []
+            for f in ORPHAN_TARGETS:
+                rows = search_index.query(local, r["title"] + " " + r["description"], folder=f,
+                                          limit=40, mode="OR")
+                cands += [c for c in dict.fromkeys(f"{x[1]}/{x[2]}" for x in rows) if c in targets][:3]
+            cands = [rec(c) for c in cands][:15]
             return classify_claim(r, cands, api_key, model) if cands else {"claim": k, "candidates": [], "links": []}
         except Exception as e:
             return {"claim": k, "error": f"{type(e).__name__}: {e}"[:300]}
@@ -409,13 +419,22 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
     replacing an empty template placeholder; else add `## fallback` before the
     page's Related/Examples/Key Sources tail, or at the end when it has none."""
     lines = path.read_text(encoding="utf-8").split("\n")
+    # A heading inside an HTML comment is not a section: a converted page keeps its old body in a
+    # <!-- deprecated --> block with its own `### Claims`, and 334 links written there in one pass
+    # counted for nothing (2026-10-13).
+    live, depth = [], 0
+    for l in lines:
+        live.append(depth == 0)
+        depth += l.count("<!--") - l.count("-->")
+        depth = max(depth, 0)
     at = None
     for want in heads:
-        at = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and m.group(2) == want), None)
+        at = next((i for i, l in enumerate(lines) if live[i] and (m := HEAD_RE.match(l)) and m.group(2) == want),
+                  None)
         if at is not None:
             break
     if at is None:
-        tail = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
+        tail = next((i for i, l in enumerate(lines) if live[i] and (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
                      and (m.group(2).startswith("Related ") or m.group(2) in ("Examples", "Key Sources"))), None)
         if tail is None:
             while lines and not lines[-1].strip():
@@ -424,7 +443,10 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
         else:
             lines[tail:tail] = [f"## {fallback}", "", bullet, ""]
     else:
-        end = next((i for i in range(at + 1, len(lines)) if HEAD_RE.match(lines[i])), len(lines))
+        # The section also ends where a comment opens and runs on (a deprecated block), so the
+        # bullet is not appended inside it; a one-line template hint does not end it.
+        end = next((i for i in range(at + 1, len(lines))
+                    if HEAD_RE.match(lines[i]) or lines[i].count("<!--") > lines[i].count("-->")), len(lines))
         body = [l for l in lines[at + 1:end] if l.strip() not in ("-",)]
         while body and not body[-1].strip():
             body.pop()
@@ -443,8 +465,11 @@ def cites_claim(path: Path) -> bool:
 
 
 def links_to(path: Path, dst: str) -> bool:
+    """Whether the page links `dst` outside an HTML comment: a link kept in a deprecated
+    block counts for nothing, so it must not stop a live one being written."""
     root = WIKI_ROOT.resolve()
-    for m in LINK_RE.finditer(path.read_text(encoding="utf-8")):
+    text = re.sub(r"<!--.*?-->", "", path.read_text(encoding="utf-8"), flags=re.S)
+    for m in LINK_RE.finditer(text):
         try:
             if str((path.parent / unquote(m.group(1))).resolve().relative_to(root).with_suffix("")) == dst:
                 return True
@@ -586,9 +611,10 @@ def main() -> None:
     src.add_argument("--claims-for", nargs="+", metavar="FOLDER",
                      help="pages in these folders that cite no claim, shown claims only (evidence links)")
     src.add_argument("--orphan-claims", action="store_true",
-                     help="claims no concept page cites, each shown the canonical concept pages most like it")
+                     help="claims no concept page cites, each shown the concept pages most like it, a few per kind")
     src.add_argument("--from-orphans", metavar="FILE",
                      help="apply an earlier --orphan-claims run's decisions without re-asking")
+    ap.add_argument("--only", metavar="FILE", help="with --orphan-claims: only these claim keys, one per line")
     ap.add_argument("--out", default=None)
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--verify", action="store_true",
@@ -605,6 +631,9 @@ def main() -> None:
                            if l.strip()])
     elif args.orphan_claims:
         keys = orphan_claims()
+        if args.only:
+            only = {l.strip() for l in Path(args.only).read_text(encoding="utf-8").splitlines() if l.strip()}
+            keys = [k for k in keys if k in only]
         out = Path(args.out) if args.out else WIKI_ROOT / "eval" / "runs" / "page-links" / "orphan-claims.ndjson"
         print(f"{len(keys)} claim(s) no concept page cites; asking {args.model}; decisions -> {out}", flush=True)
         results = run_orphans(keys, out, args.model, args.concurrency)

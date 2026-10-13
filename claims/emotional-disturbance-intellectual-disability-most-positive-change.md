@@ -71,5 +71,5 @@ The key findings compare disability groups: "youth with emotional disturbance or
 ## Related Claims
 
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
-- [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
+- Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities — related
 - [Among 2012 disability groups, youth with intellectual disability, autism, deaf-blindness, multiple disabilities, and orthopedic impairments were most at-risk in preparation for life after high school](five-disability-groups-most-at-risk-transition-preparation.md) — related

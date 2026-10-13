@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (2 associational, 1 review, 1 qualitative, 1 theoretical), `q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 23 studies (8 associational, 4 review, 4 qualitative, 3 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 23 report an effect size · 24 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -32,6 +32,24 @@ Technology integration is the element in which digital tools are used in direct 
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](../claims/increased-web-technology-use-over-project.md) [+W]
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](../claims/pli-digital-collaboration-associated-with-scores.md) [+W]
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](../claims/ai-collaborative-learning-challenges-bias-overreliance.md) [~W]
+- [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](../claims/ai-knowledge-significant-gain-integrated-biology-lessons.md) [+W]
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](../claims/ai-reliance-correlated-lower-critical-thinking-offloading.md) [~W]
+- [The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)](../claims/ai-id-challenge-pedagogical-alignment.md) [~W]
+- [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](../claims/coaching-raises-teacher-itu-confidence.md) [+W]
+- [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](../claims/lindsay-usd-digital-equity-outcomes.md) [~W]
+- [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
+- [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](../claims/ai-use-in-green-energy-teaching-predicts-integration-ability.md) [+W]
+- [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](../claims/teachers-ai-tool-use-accuracy-concerns.md) [~W]
+- [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](../claims/chatgpt-steam-ibl-learner-challenges.md) [-W]
+- [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](../claims/effective-ai-use-increases-over-reliance-harming-learning.md) [-W]
+- [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](../claims/staff-equity-concerns-genai-access-uncertain-responsibilities.md) [~W]
+- [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](../claims/ai-online-learning-challenges-integrity-equity-privacy-policy.md) [~W]
+- [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](../claims/chatgpt-rated-high-for-speed-of-completion.md) [+W]
+- [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](../claims/ai-pbl-ethical-concerns-privacy-bias-autonomy.md) [~W]
+- [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](../claims/ai-use-positively-associated-critical-thinking-medical-students.md) [+W]
+- [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](../claims/genai-use-concentrates-in-uncertain-design-phases.md) [~W]
+- [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](../claims/genai-overreliance-threatens-clinical-readiness.md) [~W]
+- [Faculty with negative versus positive AI pedagogical orientation differ in how they interpret AI's role in thinking: cautious peripheral use versus integrated use with managed concerns](../claims/orientation-extremes-differ-in-epistemic-interpretation-of-ai.md) [~W]
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)

@@ -43,10 +43,10 @@ Long-run trajectory analysis on a reduced sample of students with data three yea
 
 
 ## Related Claims
-- [One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects](achievement-returns-to-expected-after-closing.md) — related
-- [School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed](announcement-year-achievement-loss-school-closings.md) — related
-- [Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement](receiving-school-academic-quality-moderates-gains.md) — related
+- One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects — related
+- School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed — related
+- Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement — related
 - [Displaced students in receiving schools with high student-teacher trust and teacher personal attention showed larger reading and math gains than those in low-support schools](teacher-relationships-moderate-displaced-student-gains.md) — related
 - [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related
-- [The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year](math-gap-persisted-four-years-post-closings.md) — reports the opposite
+- The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year — reports the opposite
 - [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — reports the opposite

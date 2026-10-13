@@ -17,7 +17,7 @@ sources:
 # Evaluate charter school impacts by matching students to demographically and academically similar comparison students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report measures a charter school's impact by identifying a comparison group of students in other district and charter schools who were similar on observed characteristics, then comparing outcomes. As the report states, "we identified a group of students in other Kansas City district and charter schools who had similar demographic characteristics and achievement at the end of 4th grade." This matching strategy grounds the year-7 impact estimates.
@@ -36,6 +36,11 @@ The report measures a charter school's impact by identifying a comparison group 
 
 ### Target Learning Goals
 - Estimating school-level impacts on achievement growth and college-readiness outcomes
+
+## Claims
+
+- [Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics](../claims/cps-charter-better-attendance-test-scores.md) [+W]
+- [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](../claims/charter-students-more-days-learning-reading-math.md) [+W]
 
 ## Related Strategies
 

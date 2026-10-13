@@ -17,7 +17,7 @@ sources:
 # Manage TPE as a district-wide priority with clear expectations, training, principal evaluation, and technology platforms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes how effective district leaders make teacher and principal evaluation manageable by treating it as a district-wide priority: they set clear expectations tied to instruction, train principals and teachers, build a meaningful principal evaluation system, and create technology platforms that let districts spot recurring challenges across classrooms and schools. The article states that "The leaders who are effective in implementing TPE make it a district-wide priority to thoughtfully support and manage the evaluation system."
@@ -38,6 +38,10 @@ The report describes how effective district leaders make teacher and principal e
 ### Target Learning Goals
 - Instructional improvement
 - Effective implementation of educator evaluation
+
+## Claims
+
+- [Educators report that district and school support for TPE is more helpful than state support](../claims/school-district-support-valued-over-state-support-for-tpe.md) [+W]
 
 ## Related Strategies
 

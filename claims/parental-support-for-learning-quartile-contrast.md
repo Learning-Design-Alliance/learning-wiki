@@ -43,4 +43,4 @@ Descriptive results from the eleven-item student scale on parents' involvement i
 
 
 ## Related Claims
-- [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](parental-support-higher-top-quartile-schools.md) — possibly the same claim (merge candidate)
+- Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools — possibly the same claim (merge candidate)

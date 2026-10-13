@@ -44,10 +44,10 @@ Achievement-trend modeling of test scores from 4.9 million U.S. students in Grad
 
 
 ## Related Claims
-- [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
+- Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines — related
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related
 - [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related
-- [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — a broader claim this one bears on
-- [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
+- End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points) — a broader claim this one bears on
+- Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students — related
 - [After the U.S. Department of Education offered assessment waivers to all 50 states in 2019-2020, many educators and policymakers advocated restarting assessment programs in 2020-2021 to evaluate teaching and learning and inform recovery policies](assessment-restart-advocacy-after-2020-waivers.md) — related
 - [Researchers have translated test scores into months of learning to claim how many months or years students are behind in school](test-scores-translated-to-months-of-learning.md) — related

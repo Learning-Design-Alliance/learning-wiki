@@ -17,7 +17,7 @@ sources:
 # Design mobile learning around the features students already use frequently, while recognising this is not a panacea
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that mobile learning design take the target users' existing feature-use patterns into account. Because eclectic and Internet users together account for 68% of the students and "eclectic user s also use features requiring Internet access with high frequency", the authors conclude that "requiring the use of Internet on mobile phones in support of learning is likely to result in ea se of adoption for a majority of the students". However, they caution that "targeting the features that the students already use frequently may enhance mobile learning adoption, it is not a panacea" because general use does not translate into voluntary educational usage.
@@ -37,6 +37,10 @@ The article recommends that mobile learning design take the target users' existi
 ### Target Learning Goals
 - mobile learning adoption
 - design of mobile learning delivery
+
+## Claims
+
+- [Latent class analysis of Caribbean higher-education students' mobile phone feature use yields four user types: eclectic, Internet, basic, and offline entertainment users](../claims/four-mobile-user-types-caribbean-higher-education.md) [~W]
 
 ## Related Strategies
 - 

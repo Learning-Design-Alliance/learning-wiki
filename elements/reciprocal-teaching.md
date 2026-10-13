@@ -13,7 +13,7 @@ generated:
 # Reciprocal Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 10 studies (3 associational, 2 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Reciprocal Teaching is a structured small-group procedure in which learners take turns acting as the discussion leader, applying four comprehension strategies — predicting, questioning, clarifying, and summarizing — to shared text or content. The teacher initially models the strategies, then gradually hands the "teacher" role to students, who guide the dialogue while peers respond and contribute.
@@ -53,7 +53,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The RT propensity–learning relationship is strongest early in the class session and attenuates later](../claims/rt-learning-relationship-strongest-early-session.md) [~M]
 
 ## Related Elements
 

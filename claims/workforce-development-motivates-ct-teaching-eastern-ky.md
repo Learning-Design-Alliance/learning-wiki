@@ -43,5 +43,5 @@ A 2020 teacher survey (N=56) in the two partner districts asked why teaching CT 
 
 
 ## Related Claims
-- [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — a broader claim this one bears on
+- Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization — a broader claim this one bears on
 - [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — related

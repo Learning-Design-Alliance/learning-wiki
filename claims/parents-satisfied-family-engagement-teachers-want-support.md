@@ -62,10 +62,10 @@ Same Survey 2, teacher sample of approximately 300 first and second grade teache
 
 
 ## Related Claims
-- [Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it](half-parents-lack-grade-level-expectation-information.md) — related
+- Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
-- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
+- American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities — related
 - [Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options](parents-want-virtual-engagement-continued.md) — related
 - [Most parents and teachers say their schools are culturally inclusive, but about one-fifth of parents and one-quarter of teachers disagree that instruction connects students' cultures to learning](culturally-sustainable-instruction-lags-inclusion.md) — related
 - [Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning](informal-pd-engagement-and-intrinsic-reasons.md) — related
-- [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
+- Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation — related

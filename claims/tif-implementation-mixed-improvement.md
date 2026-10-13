@@ -45,7 +45,7 @@ Two-year implementation comparison in the TIF evaluation snapshot: year-two awar
 ## Related Claims
 - [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](tif-bonuses-easily-earned-top-performers-larger.md) — related
 - [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](tif-bonuses-reading-gain-one-percentile.md) — related
-- [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — possibly the same claim (merge candidate)
+- Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size — possibly the same claim (merge candidate)
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — a broader claim this one bears on
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related
 - [The TIF evaluation is designed to estimate impacts of performance pay on student achievement and on educators' attitudes, awareness, mobility, and recruitment](tif-evaluation-outcome-domains-design.md) — related

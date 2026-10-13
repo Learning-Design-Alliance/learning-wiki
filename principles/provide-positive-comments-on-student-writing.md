@@ -18,7 +18,7 @@ sources:
 # Provide positive comments alongside constructive criticism when responding to student writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Because instructional feedback is inherently evaluative and can pose identity threats, teachers should acknowledge positive aspects of student work and highlight the strengths of their writing. The article reports that even simple positive remarks such as "Well said" or "Good point" can build student motivation and confidence, and that a blend of encouragement and constructive criticism validates student effort and keeps students open to further feedback.
@@ -41,6 +41,7 @@ Because instructional feedback is inherently evaluative and can pose identity th
 ### Claims
 
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [+W]
+- [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](../claims/indiscriminate-affirmation-reflection-agent.md) [-W]
 
 ## Related Principles
 

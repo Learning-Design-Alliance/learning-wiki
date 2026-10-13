@@ -43,5 +43,5 @@ Citywide survey of CPS elementary teachers administered in late May and June of 
 
 
 ## Related Claims
-- [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
+- Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior — related
 - [Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items](test-prep-hours-increased-1991-1994.md) — related

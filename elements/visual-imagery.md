@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 13 studies (5 causal, 5 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 14 studies (6 review, 5 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -53,6 +53,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [EEG alpha power attenuation is an indicator of visual imagery and is more affected by visual than abstract mentation](../claims/alpha-attenuation-visual-imagery-indicator.md) [~W]
+- [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](../claims/fading-builds-memorable-images.md) [+W]
 
 ## Related Elements
 

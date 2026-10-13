@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (15 for, 6 mixed) · 31 studies (9 causal, 7 review, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design, 2 associational), `q1`–`q4` · 2 of 31 report an effect size · 12 claims rest on one study
+> **Evidence** · 22 claims (16 for, 6 mixed) · 32 studies (9 causal, 7 review, 4 qualitative, 4 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 2 of 32 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,10 @@ The expectation should weaken if comparisons of narrated with silent modelling, 
 
 Imitation right after the model, unaided immediate performance, delayed retention, transfer, confidence and use in the setting the learner values are separate claims. The present evidence establishes no segment length, no number of models, no kind of model and no point at which to stop modelling.
 
+## Claims
+
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+W]
+
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional
 - [Explicit Instruction](direct-instruction.md) — modeling is one of the core mechanisms that makes explicit teaching actually explicit
@@ -197,7 +201,6 @@ Modeling matters when learners cannot infer expert processes from finished produ
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — learners benefit when modeled solutions reduce blind search and make correct structure visible
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — modeling is stronger when learners explain the modeled decisions rather than merely watch them
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the value of highly explicit modeling declines as expertise grows and support should be faded
-- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+W]
 
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional

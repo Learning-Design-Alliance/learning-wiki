@@ -43,7 +43,7 @@ The study's abstract reports a comparison of stability of academic achievement r
 
 
 ## Related Claims
-- [Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation](nslp-participation-associated-lower-growth-goal-attainment.md) — related
+- Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation — related
 - [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related

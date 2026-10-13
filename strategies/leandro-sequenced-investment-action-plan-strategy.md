@@ -17,7 +17,7 @@ sources:
 # Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The action plan recommends that the state take immediate and six-year sequenced actions to transform its education system: ensuring an adequate supply of qualified teachers and principals, improving curriculum, instruction and assessment, expanding access to high-quality early childhood education, directing adequate and equitable funding to students with greater needs, strengthening supports for high-poverty schools and low-performing schools, and revising the state assessment and accountability systems to measure progress toward the Leandro tenets. Investments are phased in over an eight-year period across short-term and ongoing scenarios for K-12 district operations, early childhood programs, and state-level supports, with cost estimates provided for each critical need area.
@@ -39,6 +39,10 @@ The action plan recommends that the state take immediate and six-year sequenced 
 - Equal opportunity to a sound basic education
 - College-, career-, and civic-life-readiness
 - Closing achievement gaps among student groups
+
+## Claims
+
+- [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](../claims/residency-leaky-pipeline-limited-roi.md) [~W]
 
 ## Related Strategies
 

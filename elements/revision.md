@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 12 studies (4 causal, 2 quant-synthesis, 2 associational, 2 qualitative, 1 review, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 20 studies (9 causal, 3 associational, 3 qualitative, 2 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 20 report an effect size · 10 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -59,6 +59,12 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%](../claims/low-comment-rewriting-across-attempts.md) [-W]
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
 - [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](../claims/review-revise-iterations-quality-stabilizes.md) [+W]
+- [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](../claims/ai-peer-feedback-agentive-revision-strategies.md) [+M]
+- [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](../claims/expert-revision-improves-generated-medical-storylines.md) [+W]
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+W]
+- [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](../claims/multilingual-students-critically-evaluate-ai-feedback-pairr.md) [~W]
+- [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](../claims/drafting-support-largest-ownership-decrease.md) [+W]
+- [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](../claims/revision-hotspots-multi-step-block-heavy-modification.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork

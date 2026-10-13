@@ -48,4 +48,4 @@ Longitudinal performance-progression analysis of grantees' screening benchmark s
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — related
 - [Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds](massachusetts-early-benchmark-status-predicts-later-mcas.md) — related
 - [Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades](cross-year-recovery-higher-earlier-grades.md) — related
-- [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — related
+- Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3 — related

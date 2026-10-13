@@ -44,10 +44,10 @@ The brief tracked "the gap in achievement between the COVID year student group c
 
 ## Related Claims
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
-- [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — a narrower finding that bears on this claim
+- The average student needs an estimated 4.5 additional months of schooling to catch up in math — a narrower finding that bears on this claim
 - [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related
-- [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — a narrower finding that bears on this claim
-- [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
-- [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — reports the opposite
+- The average student needs an estimated 4.1 additional months of schooling to catch up in reading — a narrower finding that bears on this claim
+- The achievement divide between high and low achievers widened significantly over the last two years of the pandemic — related
+- Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022 — reports the opposite
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — a broader claim this one bears on
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — possibly the same claim (merge candidate)

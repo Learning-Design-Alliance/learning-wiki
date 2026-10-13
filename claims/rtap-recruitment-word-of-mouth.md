@@ -44,4 +44,4 @@ Qualitative interview study by EdTrust and TECA with 32 apprentices of color (19
 
 ## Related Claims
 - [Apprentices desired clearer, more consistent program communication, especially about financial obligations](rtap-communication-clarity-desired.md) — related
-- [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — related
+- In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce — related

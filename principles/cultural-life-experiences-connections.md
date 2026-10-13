@@ -35,7 +35,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 9 mixed) · 33 studies (9 causal, 9 qualitative, 5 review, 4 quant-synthesis, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 33 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (17 for, 9 mixed) · 35 studies (10 qualitative, 9 causal, 6 review, 4 quant-synthesis, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 35 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,13 @@ The expectation should weaken if comparisons of the same content taught with and
 
 The present evidence establishes no dose, no sequence, no effect on achievement and no durability beyond the studies' own windows.
 
+## Claims
+
+- [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](../claims/appalachian-cultural-capital-connects-ct.md) [+W]
+- [Connecting CT education to real community opportunities is powerful for teachers and students](../claims/connect-ct-to-community-opportunities.md) [+W]
+- [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
+- [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](../claims/teacher-brings-home-culture-into-teaching.md) [+W]
+
 ## Related Principles
 
 - [Building Empathy](building-empathy.md) — cultural connection often depends on taking learners' lived realities seriously.
@@ -235,9 +242,6 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](../claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) [+M] — assessment tasks built around family-interview-identified community practices surfaced computational thinking in young children that a generic task would likely miss
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](../claims/lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) [+W] — minoritized youths' own embodied and community experience functioned as legitimate evidence alongside, not subordinate to, official pandemic data
 - [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+W] — validating learners' trained movement vocabularies as legitimate scientific expression extends cultural-connection to embodied, not just verbal or artifact-based, resources
-- [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](../claims/appalachian-cultural-capital-connects-ct.md) [+W]
-- [Connecting CT education to real community opportunities is powerful for teachers and students](../claims/connect-ct-to-community-opportunities.md) [+W]
-- [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 
 ## Related Principles
 

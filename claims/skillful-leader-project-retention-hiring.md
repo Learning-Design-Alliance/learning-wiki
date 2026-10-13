@@ -43,10 +43,10 @@ The Fresno case study reports that after the Skillful Leader Project trained pri
 
 
 ## Related Claims
-- [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
-- [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
-- [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
-- [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
-- [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
-- [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — a broader claim this one bears on
+- U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023 — related
+- Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them — related
+- Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20 — related
+- New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply — related
+- California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number — related
+- High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages — a broader claim this one bears on
 - [Fresno Unified's TK–3 residency placed 30 new early-grade teachers in 2 years with an 83% retention rate as of spring 2022](fresno-tk3-residency-30-teachers-83-percent-retention.md) — related

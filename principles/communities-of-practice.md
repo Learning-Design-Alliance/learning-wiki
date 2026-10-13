@@ -18,7 +18,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (13 for, 3 mixed, 1 against) · 20 studies (4 causal, 4 review, 3 quant-synthesis, 3 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (14 for, 3 mixed, 1 against) · 20 studies (4 causal, 4 review, 3 quant-synthesis, 3 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +87,10 @@ For example, in a teacher inquiry group the designer's objective may be that tea
 The model should weaken if comparisons of comparable learners who do and do not take part in a structured community show no difference in observed practice or understanding at a term-or-longer horizon, or if structured entry points and trust norms make no difference to newcomers' participation. If outcomes keep diverging from stated aims, the model should say plainly that a community's learning cannot be designed toward a target, only observed. If non-central members turn out to learn as much as central ones by other measures, the trajectory toward the centre should stop being treated as the indicator of learning. Do not protect the model by calling every unchanged practice a sign that norms have not yet formed.
 
 Changed participation norms, changed understanding, changed practice and a member's sense of professional identity are separate claims. The present evidence does not establish how long a community needs, what size or mix of expertise works, whether online communities behave like co-located ones, or that communities outperform other forms of professional learning.
+
+## Claims
+
+- [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [+W]
 
 ## Related Principles
 - [Ask Experts](ask-experts.md) — communities widen access to expertise beyond isolated expert encounters

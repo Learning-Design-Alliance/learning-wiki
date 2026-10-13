@@ -45,17 +45,17 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 ## Related Claims
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
-- [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
+- Students earned higher average grades in CS courses than in core courses, with few failing CS — related
 - [High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs](black-students-disproportionate-gpa-declines.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
-- [Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds](school-attended-determines-suspension-risk-more-than-background.md) — related
+- Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
-- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
-- [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related
-- [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
+- Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year — related
+- Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict — related
+- Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
-- [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
+- High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus — related
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
 - [Ninth-grade course failure rates varied substantially across CPS high schools even after controlling for demographics and prior achievement, and student-teacher relationship measures were associated with better-than-expected Freshman OnTrack rates](cross-school-variation-student-teacher-relationships-ontrack.md) — related
-- [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related
+- Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color — related

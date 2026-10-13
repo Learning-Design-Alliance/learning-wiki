@@ -63,14 +63,14 @@ The same statewide VCR comparison finds no statistically significant math differ
 
 ## Related Claims
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — related
-- [Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects](idaho-brick-and-mortar-charter-gains.md) — related
-- [Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth](idaho-charter-grade-configuration-effects.md) — related
-- [Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016](idaho-charter-growth-period-reading.md) — related
-- [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — related
+- Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects — related
+- Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth — related
+- Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016 — related
+- Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially — related
 - [Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects](idaho-online-charter-learning-deficits.md) — related
-- [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
+- About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math — related
 - [Rural Idaho charter students outperform their TPS VCRs while urban, suburban and town charter students perform similarly](idaho-rural-charter-advantage.md) — a narrower finding that bears on this claim
-- [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
-- [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
-- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
-- [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related
+- Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers — related
+- Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math — related
+- Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students — related
+- Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics — related

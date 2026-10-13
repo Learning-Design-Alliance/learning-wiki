@@ -17,7 +17,7 @@ sources:
 # Use LLM-generated design problems in supervised, time-bound exam-like settings to assess individual higher-order thinking where AI use or teamwork obscures mastery
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends deploying DPs as short, supervised, individual assessments to elicit individual reasoning in novel contexts, particularly when generative AI use or collaborative work may compromise assessment validity. Instructors noted DPs are "most convincing in settings requiring students to work independently, such as time-bound in-class assessments." LLMs reduce the creation bottleneck while instructors remain responsible for review and adaptation of generated prompts.
@@ -35,6 +35,10 @@ The article recommends deploying DPs as short, supervised, individual assessment
 
 ### Target Learning Goals
 - individual demonstration of transfer-oriented higher-order thinking
+
+## Claims
+
+- [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](../claims/dp-performance-varies-by-administration-mode.md) [~W]
 
 ## Related Strategies
 

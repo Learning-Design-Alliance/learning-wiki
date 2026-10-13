@@ -48,4 +48,4 @@ Quasi-experimental matched comparison of Title I CSR and non-CSR schools using s
 - [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md) — related
 - [No relationship existed between elementary reading achievement gains and selection of a model with a scientific research base](elementary-reading-no-relationship-research-model.md) — related
 - [Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years](low-performing-elementary-csr-math-gains-research-models.md) — related
-- [Only one-third of CSR schools adopted reform models identified as having a scientific research base](one-third-csr-schools-research-based-models.md) — related
+- Only one-third of CSR schools adopted reform models identified as having a scientific research base — related

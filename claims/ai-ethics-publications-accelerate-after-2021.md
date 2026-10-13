@@ -44,4 +44,4 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 
 ## Related Claims
 - [Cumulative AI ethics publication growth is nonlinear and accelerating, with a fitted polynomial trend of R² = 0.7949](ai-ethics-nonlinear-growth-curve.md) — possibly the same claim (merge candidate)
-- [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related
+- Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025 — related

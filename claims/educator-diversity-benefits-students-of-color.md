@@ -43,10 +43,10 @@ The brief asserts, citing research without providing study details, that Black s
 
 
 ## Related Claims
-- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- North Carolina's teacher workforce is far less racially diverse than its student population — related
 - [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — related
-- [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — related
-- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — related
-- [Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide](cps-principal-student-race-match-and-gender.md) — related
+- Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs — related
+- Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students — related
+- Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide — related
 - [Teacher-student racial match benefits students, including lower dropout and higher college enrollment for Black students](teacher-student-racial-match-benefits.md) — a narrower finding that bears on this claim
 - [Teacher-student racial match is linked to better social, emotional, and academic outcomes, including lower dropout and higher college enrollment for Black students](teacher-student-racial-match-sead-benefits.md) — a narrower finding that bears on this claim

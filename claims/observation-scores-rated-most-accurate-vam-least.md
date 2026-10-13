@@ -43,8 +43,8 @@ Survey of approximately 12,000 CPS teachers comparing perceived accuracy of REAC
 
 
 ## Related Claims
-- [Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive](diverging-views-personnel-decisions-reach.md) — related
-- [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related
+- Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive — related
+- Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects — related
 - [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](ratings-moderately-correlated-with-student-learning.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related

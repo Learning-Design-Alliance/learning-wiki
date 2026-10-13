@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 18 studies (7 quant-synthesis, 6 causal, 4 review, 1 theoretical), `q1`–`q4` · 8 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 17 claims (8 for, 7 mixed, 2 against) · 23 studies (8 causal, 7 quant-synthesis, 4 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -85,6 +85,17 @@ Record: **item and format → time since study, notes allowed → individual res
 
 The retrieval evidence supports the readiness tests as retrieval with feedback; it does not support the claim that the whole cycle beats other designs, nor any team size, grading weight or application format. The response-dependent branches above, and the delayed reobservation step, are proposals to be tested with learners.
 
+## Claims
+
+- [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](../claims/weekly-tests-ranked-accountability.md) [+W]
+- [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](../claims/low-stress-tbl-higher-perceived-effectiveness.md) [~W]
+- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [~W]
+- [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](../claims/rat-section-difference-same-trend.md) [~W]
+- [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](../claims/tbl-team-dynamics-no-format-differences.md) [~W]
+- [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W]
+- [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](../claims/nd-semester-long-team-discomfort.md) [~W]
+- [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W]
+
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting
 - [Case-Based Learning](case-based-learning.md) — TBL's application phase is typically case-based; the Harvard method variant pairs naturally with TBL team structure
@@ -152,7 +163,6 @@ Unit and course — the readiness assurance cycle repeats per unit, and team for
 - [Social Learning Theory](../theories/social-learning-theory.md) — team discussion exposes students to peers' reasoning, making diverse problem-solving approaches observable and imitable
 - [Self-Determination Theory](../theories/self-determination-theory.md) — permanent teams build relatedness; appeals and team autonomy support competence and autonomy needs [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — moving first exposure to pre-class reading reserves limited class time for application, where collaborative processing distributes load across team members
-- [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](../claims/weekly-tests-ranked-accountability.md) [+W]
 
 #### Contradicting / Qualifying
 - [Constructivism](../theories/constructivism.md) — TBL is highly structured and instructor-scripted; pure discovery-oriented constructivists would critique its fixed sequence, though the structure is precisely what prevents unproductive group work
@@ -166,10 +176,6 @@ Unit and course — the readiness assurance cycle repeats per unit, and team for
 #### Contradicting
 
 - None identified — though meta-analytic evidence shows effects depend on faithful implementation of the full sequence, not just team grouping [~M]
-- [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](../claims/low-stress-tbl-higher-perceived-effectiveness.md) [~W]
-- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [~W]
-- [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](../claims/rat-section-difference-same-trend.md) [~W]
-- [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](../claims/tbl-team-dynamics-no-format-differences.md) [~W]
 
 ## Design
 

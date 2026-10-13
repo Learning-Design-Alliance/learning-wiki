@@ -59,10 +59,12 @@ Interleaving works because it trains problem *identification* alongside problem 
 6. Return to each type repeatedly across sessions, spacing exposure over days or weeks.
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — interleaving's natural companion; both trade short-term fluency for long-term retention
 - [Retrieval Practice](retrieval-practice-activities.md) — interleaved items double as spaced retrieval attempts
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side contrast trains the same discrimination skill with more scaffolding
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md) — sequencing within a type, complementary to sequencing across types
+- [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 
 ## Examples
 - **Rohrer's interleaved math workbooks** — Algebra and geometry problem sets rewritten so each page mixes previously taught problem types; delayed test scores roughly doubled relative to blocked versions of the same problems (https://sites.usf.edu/rohrer/).

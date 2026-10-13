@@ -13,7 +13,7 @@ generated:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (6 for, 15 mixed, 3 against) · 14 studies (8 theoretical, 2 associational, 2 design, 1 causal, 1 review), `q1`–`q2` · 0 of 14 report an effect size · 24 claims rest on one study
+> **Evidence** · 25 claims (7 for, 15 mixed, 3 against) · 15 studies (8 theoretical, 3 associational, 2 design, 1 causal, 1 review), `q1`–`q2` · 0 of 15 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 
 - [Both treatment and comparison students scored below the 7th-grade national norm on average, and bottom-quartile treatment students remained below the national average despite relative gains](../claims/assistments-gains-below-national-norms.md) [~W]
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](../claims/criterion4-barrier-reclassification.md) [-W]
+- [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](../claims/elpac-pl4-threshold-validated-replication.md) [+W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

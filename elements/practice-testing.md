@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (14 for, 4 mixed) · 13 studies (5 quant-synthesis, 4 review, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 15 studies (6 quant-synthesis, 4 review, 3 causal, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 15 report an effect size · 23 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -72,6 +72,13 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](../claims/spontaneous-strategy-transfer-one-week-delay.md) [+W]
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [~W]
+- [Post-baseline practice condition has a significant multivariate effect on combined posttest performance and observed practice effort after adaptive AI-assisted pretesting](../claims/condition-multivariate-effect-posttest-effort.md) [+W]
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
+- [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](../claims/testing-yields-transfer-versus-reexposure-control-d-040.md) [+W]
+- [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
+- [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
+- [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review

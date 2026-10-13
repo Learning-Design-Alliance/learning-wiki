@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 5 studies (2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -38,6 +38,9 @@ Digital learning is the element in which instruction, resources, or interaction 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](../claims/tool-change-most-disruption-online-teaching.md) [+W]
 - [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](../claims/online-stem-plcs-growing-phenomenon.md) [+W]
+- [Advanced technology's hyperinteractivity can intensify social inequality in education](../claims/hyperinteractivity-can-intensify-inequality.md) [-W]
+- [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](../claims/hero-elementary-training-discussion-facilitation-online-resources-challenge.md) [~W]
+- [Elementary students given access and scheduled time for an AI literacy platform use it minimally, with nearly half never using it](../claims/low-take-up-ai-literacy-platform-access-only.md) [~W]
 
 ## Related Elements
 

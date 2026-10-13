@@ -44,5 +44,5 @@ Findings from formal and informal interviews with teens during the nine-month ob
 
 ## Related Claims
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related
-- [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
-- [Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options](chicago-closings-families-chose-welcoming-schools-priorities-and-barriers.md) — related
+- School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice — related
+- Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related

@@ -43,10 +43,10 @@ Market-overview section compares spending figures: the U.S. "conservatively spen
 
 
 ## Related Claims
-- [US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget](adult-ed-market-underserved-and-underdigitized.md) — related
+- US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget — related
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
-- [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
-- [Edtech spending grew from $26B in 2018–2019 to $41B in 2022–2023, with projections over $145B](edtech-market-spending-growth.md) — related
+- Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training — related
+- Edtech spending grew from $26B in 2018–2019 to $41B in 2022–2023, with projections over $145B — related
 - [Only 11 percent of the 36 million low-skilled U.S. adults who could benefit from education and training are currently served by the public and private educational system](36-million-low-skilled-adults-only-11-percent-served.md) — related
 - [Capacity gap in adult education — programs serve about four million of 36 million U.S. adults reading at a 3rd grade level or below — alongside high smart phone ownership among adult education students](adult-ed-access-gap-and-mobile-readiness.md) — related
 - [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related

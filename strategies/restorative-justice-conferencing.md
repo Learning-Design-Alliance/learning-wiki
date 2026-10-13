@@ -12,7 +12,7 @@ generated:
 # Restorative Justice Conferencing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (6 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (6 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Restorative Justice Conferencing (RJC) brings together the person who caused harm, those harmed, and sometimes family or community members, in a structured meeting facilitated by a trained coordinator. Participants describe what happened, discuss its impact, and jointly agree on steps to repair the harm — apologies, restitution, service, or behavioral commitments. In schools, the same structure replaces exclusionary discipline with accountability conversations that keep students in community.
@@ -56,6 +56,10 @@ RJC works as a learning intervention because it converts a disciplinary event in
 4. **Acknowledge responsibility.** The offender names the harm and its causes without deflection; the facilitator guards against minimization.
 5. **Agree on repair.** The group co-constructs concrete, time-bound repair actions ([Action Planning](../strategies/action_planning.md)).
 6. **Follow up.** The facilitator monitors completion and reconvenes if commitments are unmet ([Check-In](../elements/check-in.md)).
+
+## Claims
+
+- [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](../claims/denver-restorative-justice-suspension-gap-narrowed.md) [~W]
 
 ## Related Strategies
 - [Restorative Circles](../strategies/restorative-circles.md) — proactive community-building variant used before harm occurs

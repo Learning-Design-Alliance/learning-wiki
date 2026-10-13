@@ -48,4 +48,3 @@ SEM analysis of the 300-staff survey. The article reports that compatibility wit
 - [Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems](innovation-attributes-drive-intention-and-adoption.md) — related
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
-- [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md)

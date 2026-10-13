@@ -85,5 +85,5 @@ The review reports, citing Rosenblum et al. (2020), that with 10 teachers of the
 - [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — related
 - [A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics](multisensory-tablet-no-difference-tactile-graphics.md) — related
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) — related
-- [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- Half of reported developmental barriers stem from academic-related challenges (50.39%) — related
 - [The item-quality and prediction work is part of a larger project aiming to make online math more accessible to students with visual impairments](larger-project-online-math-accessibility-vi.md) — related

@@ -43,6 +43,6 @@ Qualitative interview and focus-group findings on SLO implementation challenges.
 
 
 ## Related Claims
-- [Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile](slo-support-district-quartile-gap.md) — related
-- [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
+- Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile — related
+- Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items — related
 - [About 45% of teachers still report needing further TPE-related training despite year-over-year improvement](teachers-need-further-tpe-training.md) — related

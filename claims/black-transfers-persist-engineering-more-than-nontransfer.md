@@ -43,5 +43,5 @@ The authors report, from their own earlier longitudinal study of engineering stu
 
 
 ## Related Claims
-- [Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions](black-engineering-students-transfer-more-from-four-year.md) — related
+- Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions — related
 - [For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men](gender-gpa-drive-two-year-black-transfer-graduation.md) — related

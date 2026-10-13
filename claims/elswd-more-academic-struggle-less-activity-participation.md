@@ -48,7 +48,7 @@ Descriptive comparison of in-school academic struggle and activity participation
 ## Related Claims
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
 - [English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance](elswd-more-socioeconomic-disadvantage-similar-functional-performance-than-swd.md) — related
-- [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related
+- English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges — related
 - [Most differences between English learner students with disabilities and other students with disabilities diminish when background characteristics are held constant](elswd-swd-differences-diminish-holding-background-constant.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
 - [In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs](youth-disabilities-academic-struggle-fewer-postsecondary-steps.md) — related

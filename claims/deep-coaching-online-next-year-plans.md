@@ -43,9 +43,9 @@ Survey of 148 edtech coaches (Figure 12): "70 percent" plan to provide deep coac
 
 
 ## Related Claims
-- [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
+- About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons — related
 - [Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers](deep-coaching-reduced-during-closures.md) — reports the opposite
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
 - [Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures](coach-support-to-administrators-closures.md) — related
-- [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related
+- During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more — related
 - [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](coach-support-to-families-closures.md) — related

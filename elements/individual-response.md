@@ -13,7 +13,7 @@ generated:
 # Individual Response
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 4 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 12 studies (5 causal, 4 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.
@@ -51,7 +51,7 @@ Requiring an independent answer before discussion converts passive listening int
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [+W]
 
 ## Related Elements
 - [Peer Instruction](peer-instruction.md) — individual response is the mandatory first phase; without it, peer discussion degenerates into answer-sharing

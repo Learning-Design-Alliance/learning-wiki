@@ -43,9 +43,9 @@ Systemwide observational comparison of the 2017 and 2018 entering CSU cohorts (5
 
 
 ## Related Claims
-- [First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent](eo1110-a2-completion-unchanged.md) — related
+- First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent — related
 - [Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV](eo1110-credit-accumulation-declines-by-placement.md) — related
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
 - [EO 1110 significantly increased first-year completion of the quantitative reasoning (B4) requirement, roughly doubling completion among students needing additional support](eo1110-increased-first-year-b4-completion.md) — related
-- [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
-- [Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students](eo1110-retention-unchanged-for-support-students.md) — related
+- Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort — related
+- Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students — related

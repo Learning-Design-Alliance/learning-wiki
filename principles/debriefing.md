@@ -26,7 +26,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 31 studies (11 quant-synthesis, 10 causal, 4 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 5 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 33 studies (11 causal, 11 quant-synthesis, 4 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 9 of 33 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,11 @@ The expectation should weaken if studies comparing the same experience with and 
 
 A good debrief conversation, a correct stated change, the next performance, delayed retention and use in the real setting are separate claims. The present evidence establishes no debrief length, no best debriefing model and no timing rule.
 
+## Claims
+
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
+- [Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
 - [Error Analysis](error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
@@ -218,8 +223,6 @@ Debriefing matters because experience by itself does not reliably produce learni
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — examining confidently held mistakes after a performance can create durable learning
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and responsive questioning improve the quality of post-event reflection
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debriefs benefit from process-focused reflection on strategies and cues, not only whether the outcome was correct
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
-- [Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.](../claims/reflection-debriefing-time-underscheduled.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action

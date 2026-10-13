@@ -45,8 +45,8 @@ Findings from the statewide scan phase of the I-PREP mixed methods study, based 
 ## Related Claims
 - [Respondents identified five main areas of benefit from the redesigned principal preparation policy, including more rigorous selection and a more extensive competency-based internship](illinois-principal-preparation-five-benefit-areas.md) — related
 - [Illinois' shift to selective, principal-specific preparation programs caused substantial but anticipated enrollment declines](illinois-principal-preparation-enrollment-declines.md) — related
-- [A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates](illinois-principal-preparation-pipeline-shortage-concern.md) — related
-- [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
+- A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates — related
+- Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels — related
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
 - [The new policy strengthened university-district partnerships so principal preparation reflects local school needs](policy-strengthened-university-district-partnerships.md) — related
 - [Competency-focused internships improved the depth, clarity, and practicality of principal preparation internships compared with hour-accumulation models](competency-focused-internships-improved-experience.md) — related

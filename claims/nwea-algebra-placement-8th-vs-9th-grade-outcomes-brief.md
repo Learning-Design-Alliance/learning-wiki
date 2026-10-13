@@ -53,4 +53,4 @@ The page's own description of the 2026 brief "Getting Algebra Placement Right." 
 - [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](algebra-placement-8th-versus-9th-grade-brief.md) — possibly the same claim (merge candidate)
 - [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](algebra-placement-8th-versus-9th-grade-outcomes.md) — possibly the same claim (merge candidate)
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — a narrower finding that bears on this claim
-- [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related
+- School offerings and placement practices limit opportunity for 8th-grade algebra access — related

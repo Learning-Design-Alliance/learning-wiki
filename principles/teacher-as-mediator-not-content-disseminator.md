@@ -35,7 +35,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (9 for, 1 against) · 8 studies (5 theoretical, 2 qualitative, 1 review), `q1`–`q2` · 0 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 11 studies (5 theoretical, 4 qualitative, 2 review), `q1`–`q2` · 0 of 11 report an effect size · 13 claims rest on one study
 
 ## Description
 Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding. The article states that "educators are expected to leave their role of 'a content disseminator' and take the responsibility to act as a facilitator who brings forth meaningful learning, self -competence, intentional behaviours and familiarity with novelty". In the study's lesson, the teacher offered objectives, asked critical questions, and fostered creativity and independent action.
@@ -85,6 +85,9 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [Research on value education in India reports that lecturing on values does not transact values effectively to children](../claims/lecturing-on-values-does-not-transact-values-effectively.md) [+W] — attached 2026-10-07 from Sankaranarayanan Paleeri (2014), which proposed "Integrate value education into regular subject teaching through a constructivist, facilitator role rather than separate lecture classes"; tests this page's relationship.
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](../claims/instructor-role-shift-orchestrating-genai.md) [+W]
 - [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](../claims/e-teacher-shift-to-facilitator-role.md) [+W]
+- [AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)](../claims/ai-mediating-orchestration-type.md) [+W]
+- [AI integration shifted staff roles from direct instruction to facilitation and increased workload](../claims/ai-integration-shifted-staff-roles-facilitation.md) [~W]
+- [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](../claims/teacher-mediation-institutional-support-ai-integration.md) [+W]
 
 ## Related Principles
 - [Constructivism](constructivism.md)

@@ -17,7 +17,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 16 studies (9 associational, 3 qualitative, 1 causal, 1 review, 1 design, 1 theoretical), `q1`–`q3` · 1 of 16 report an effect size · 21 claims rest on one study
+> **Evidence** · 39 claims (28 for, 11 mixed) · 29 studies (13 associational, 6 qualitative, 5 review, 3 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 39 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -60,6 +60,24 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](../claims/subject-centered-reform-dropout-risk.md) [+W]
 - [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](../claims/sci-stronger-than-personnel-resources-for-bto.md) [~W]
 - [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](../claims/strong-leadership-schools-split-test-score-growth.md) [~W]
+- [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](../claims/climate-stronger-association-than-resources.md) [+W]
+- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](../claims/five-essential-supports-ten-times-substantial-gains.md) [+W]
+- [Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for](../claims/demographics-not-independent-reform-predictors.md) [~W]
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+W]
+- [As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students](../claims/instructional-leadership-pd-underserved-students.md) [+W]
+- [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](../claims/math-expertise-coaches-associated-greater-gains.md) [+W]
+- [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](../claims/nm-community-schools-improved-outcomes-three-sites.md) [+W]
+- [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](../claims/integrated-supports-let-teachers-focus-on-learning.md) [+W]
+- [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](../claims/positive-school-climate-improves-attendance-achievement.md) [+W]
+- [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](../claims/rural-community-commitment-boosts-turnaround.md) [+W]
+- [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](../claims/principal-pd-access-student-achievement.md) [~W]
+- [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](../claims/principal-framework-knowledge-subjectivity-perception.md) [~W]
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](../claims/california-principal-preparation-pd-outcomes.md) [+W]
+- [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](../claims/effective-principals-positive-student-outcomes.md) [+W]
+- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](../claims/leadership-improvement-key-questions.md) [~W]
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+W]
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](../claims/school-climate-associated-higher-teacher-evaluation-scores.md) [+W]
+- [Teachers' verbal and math skills, measured by teacher test scores, are significantly related to student achievement](../claims/teacher-test-scores-predict-student-achievement.md) [+W]
 
 ## Related Theories
 

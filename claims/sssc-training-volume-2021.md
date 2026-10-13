@@ -62,8 +62,8 @@ Smartsheet activity records submitted by 9 SSSCs from nine different states docu
 
 
 ## Related Claims
-- [Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational](over-65-percent-states-report-sssc-operational.md) — related
-- [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related
-- [SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs](sssc-missions-resources-training-safer-schools.md) — related
-- [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related
-- [Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants](ssscs-housed-in-state-agencies-state-federal-funding.md) — related
+- Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational — related
+- SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally — related
+- SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs — related
+- Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%) — related
+- Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants — related

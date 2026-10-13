@@ -94,6 +94,25 @@ def _extract_pdf_text(content: bytes) -> str:
     return text
 
 
+def _extract_docx_text(content: bytes) -> str:
+    """The text of a Word document, which some repositories hold as the open copy. Read as
+    a web page it was cached as zip bytes, and the model rejected the paper as out of scope
+    (Noetel et al. 2021, batch 71)."""
+    import re as _re
+    import zipfile
+    try:
+        xml = zipfile.ZipFile(io.BytesIO(content)).read("word/document.xml").decode("utf-8", "replace")
+    except (zipfile.BadZipFile, KeyError):
+        raise FetchError("a zip file that is not a Word document")
+    xml = _re.sub(r"</w:p>", "\n", xml)
+    text = _re.sub(r"<[^>]+>", "", xml)
+    import html as _html
+    text = _html.unescape(text)
+    if len(text.strip()) < 500:
+        raise FetchError("Word document text is suspiciously short (<500 chars)")
+    return text
+
+
 def _extract_html_text(html: str) -> str:
     """The readable text of a report or article page: <main>/<article> when the page
     has one, else <body>, with scripts, styles, navigation, headers and footers
@@ -179,6 +198,10 @@ def _fetch_web(fetch_url: str) -> str:
     ctype = resp.headers.get("Content-Type", "").lower()
     if "pdf" in ctype or resp.content[:5] == b"%PDF-":
         return _extract_pdf_text(resp.content)
+    if resp.content[:2] == b"PK":
+        return _extract_docx_text(resp.content)
+    if b"\0" in resp.content[:2000]:
+        raise FetchError(f"{fetch_url} sent a binary file that is neither PDF nor Word ({ctype or 'no type'})")
     pdf = _report_pdf_link(resp.text, resp.url)
     if pdf:
         try:

@@ -43,7 +43,7 @@ Case-study evidence from Moises and Grady: Grady discussed his college list dail
 
 
 ## Related Claims
-- [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
+- Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit — related
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
-- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
-- [Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors](parents-most-common-source-postsecondary-planning-help.md) — related
+- Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment — related
+- Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors — related

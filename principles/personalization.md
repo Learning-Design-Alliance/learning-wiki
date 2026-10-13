@@ -23,7 +23,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 7 mixed, 2 against, 1 unmarked) · 30 studies (9 causal, 8 review, 4 theoretical, 3 qualitative, 3 design, 2 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 30 report an effect size · 19 claims rest on one study
+> **Evidence** · 43 claims (25 for, 14 mixed, 3 against, 1 unmarked) · 50 studies (17 review, 12 causal, 8 qualitative, 5 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 5 of 50 report an effect size · 39 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.
@@ -102,6 +102,26 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Students frequently reported that personalized problem topics did not match their interests](../claims/students-report-topic-mismatch-interests.md) [-W]
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
 - [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](../claims/specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) [+W]
+- [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](../claims/ai-adaptive-pathways-support-engagement.md) [+W]
+- [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](../claims/ai-enhances-teaching-administration-education.md) [+W]
+- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
+- [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](../claims/ai-personalized-learning-reported-benefits.md) [+W]
+- [Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona](../claims/avp-subjective-ratings-persona-divergence.md) [~W]
+- [ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach](../claims/genai-feedback-individualized-per-student.md) [+W]
+- [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](../claims/gai-k12-personalization-assessment-opportunities.md) [+W]
+- [Participants required GSR user-knowledge of learning goals, progress, learning type, emotions, and background, with privacy safeguards and informed consent](../claims/gsr-user-knowledge-personalization-requirements.md) [~W]
+- [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](../claims/its-beats-large-group-cbi-textbooks-not-human-tutoring.md) [+W]
+- [Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students](../claims/human-ai-tutoring-skill-proficiency-gap-widens.md) [~W]
+- [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](../claims/learner-profiles-no-moderation-adaptive-its.md) [-W]
+- [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](../claims/student-focus-group-perceptions-courseware.md) [~W]
+- [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](../claims/new-baseline-data-needed-instructional-planning-disrupted-schooling.md) [~W]
+- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](../claims/rl-adaptive-system-grade-engagement-gains.md) [+W]
+- [Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content](../claims/productive-adapters-consider-progressions-below-grade-level.md) [+W]
+- [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](../claims/students-teachers-see-ai-imperfect-prefer-human-control.md) [~W]
+- [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
+- [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
+- [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [+W]
+- [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](../claims/individualized-instruction-receded-ai-era.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

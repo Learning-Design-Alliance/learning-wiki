@@ -43,5 +43,5 @@ Analysis shown in Figures 8 and 9 comparing small schools (under 350 students) w
 
 
 ## Related Claims
-- [High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms](high-poverty-schools-pacing-flattens-fourth-grade.md) — related
+- High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms — related
 - [Schools with high proportions of low-income students, large schools, and high-mobility schools are more likely to have incoherent grade-level curricula](incoherent-curricula-composition-organizational-factors.md) — related

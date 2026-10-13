@@ -17,7 +17,7 @@ sources:
 # Provide support to children entering kindergarten and first grade to ease school transitions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The fact sheet frames transition support as a response to the risks young children face when entering school: "Children may need support when they enter kindergarten and first grade, because difficulty adjusting to these new environments can put them at academic risk." It treats preparing for and celebrating the transition to school as a milestone in a child's life, and positions support as especially relevant for children at greater transition risk.
@@ -35,6 +35,10 @@ The fact sheet frames transition support as a response to the risks young childr
 
 ### Target Learning Goals
 - Successful adjustment to new school environments
+
+## Claims
+
+- [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](../claims/economically-disadvantaged-greater-kindergarten-transition-risk.md) [+W]
 
 ## Related Strategies
 - 

@@ -43,6 +43,6 @@ Multinomial logistic regression on 2021/22 school characteristics and survey-der
 
 
 ## Related Claims
-- [Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices](alaska-schools-mostly-emerging-trauma-engaged-implementation.md) — related
+- Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices — related
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
 - [Schools reporting higher awareness or use of Alaska's Trauma-Engaged Schools resources reported higher implementation of trauma-engaged practices](resource-awareness-use-associated-with-higher-implementation.md) — related

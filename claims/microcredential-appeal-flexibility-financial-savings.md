@@ -41,7 +41,7 @@ Cross-case qualitative finding from the Program Appeal/Feasibility section. Seve
 
 
 ## Related Claims
-- [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — related
+- The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent — related
 - [Teachers find skill-development features of micro-credentials most appealing and badge sharing and display least appealing](skill-features-appeal-more-than-badges.md) — related
 - [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](pr-micro-credentials-promising-personalized-learning.md) — related
 - [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](microcredential-motivation-and-risks.md) — related

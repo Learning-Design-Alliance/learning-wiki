@@ -43,6 +43,6 @@ The instrumental case study reports instructors' practice changes under GenAI po
 
 
 ## Related Claims
-- [College instructors perceive Generative AI through power relations with four distinct centers](instructors-perceive-genai-through-power-relations.md) — a broader claim this one bears on
+- College instructors perceive Generative AI through power relations with four distinct centers — a broader claim this one bears on
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related

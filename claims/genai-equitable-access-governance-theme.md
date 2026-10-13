@@ -51,9 +51,9 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
 - [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related
-- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
+- GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support — related
 - [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
 - [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — related
-- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
+- Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies — related
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — related

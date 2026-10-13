@@ -43,7 +43,7 @@ The monograph reports a year-long data collection on all inservice activities a 
 
 
 ## Related Claims
-- [Region II local ABE directors assigned lower priority to inservice education than the national sample](region-ii-directors-lower-inservice-priority.md) — related
+- Region II local ABE directors assigned lower priority to inservice education than the national sample — related
 - [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](itip-lacks-empirical-evidence-achievement.md) — related
 - [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related

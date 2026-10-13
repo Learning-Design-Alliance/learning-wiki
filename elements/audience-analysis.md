@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (5 causal, 2 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 18 studies (6 associational, 5 causal, 3 theoretical, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 18 report an effect size · 8 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -55,6 +55,13 @@ Audience analysis improves learning primarily by aligning instruction with learn
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [+W]
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](../claims/demographics-differentiate-genai-personas.md) [+W]
+- [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](../claims/baseline-motivation-outweighs-demographics-ai-benefits.md) [~W]
+- [Student background characteristics explain only a small amount of variation in school technology use, with males, Latinos, and at-risk students using less and higher achievers using more](../claims/background-characteristics-small-share-student-tech-use.md) [~W]
+- [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](../claims/three-genai-learner-profiles.md) [+W]
+- [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](../claims/subgroup-categories-mask-within-category-variation.md) [~W]
+- [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](../claims/surface-level-privacy-understanding-users.md) [~W]
+- [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](../claims/genai-misconceptions-web-search-item.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bridge built from what analysis reveals about prior knowledge to new content

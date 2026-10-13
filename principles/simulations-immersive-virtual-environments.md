@@ -26,7 +26,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 15 studies (4 review, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 0 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (7 for, 12 mixed) · 17 studies (6 review, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 0 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality. Their value is not novelty by itself. They are useful when they make otherwise inaccessible experiences visible, repeatable, safer, or more manipulable than the real setting would allow. Good simulations help learners coordinate knowledge, perception, and action under conditions that resemble authentic performance.
@@ -85,6 +85,11 @@ Simulations and immersive environments work when they let learners rehearse mean
 - [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](../claims/teacher-time-confidence-barriers-simulation-implementation.md) [~W]
 - [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](../claims/teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) [+W]
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](../claims/xr-higher-agent-realism-than-non-immersive.md) [+W]
+- [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](../claims/anatomage-vr-engagement-34-percent.md) [~W]
+- [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](../claims/agent-realism-predicts-social-presence-xr.md) [~W]
+- [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](../claims/genai-virtual-patient-short-term-gains-mixed.md) [~W]
+- [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](../claims/ai-simulation-authenticity-gap.md) [~W]
+- [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](../claims/ai-simulation-short-term-gains-nursing.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

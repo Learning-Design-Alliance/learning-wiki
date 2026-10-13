@@ -26,7 +26,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 26 studies (6 causal, 6 review, 5 quant-synthesis, 4 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 10 claims rest on one study
+> **Evidence** · 24 claims (16 for, 7 mixed, 1 against) · 33 studies (8 review, 7 causal, 6 theoretical, 5 quant-synthesis, 4 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,17 @@ The expectation should weaken if studies comparing decisions from several method
 
 Agreement between methods, accuracy of a decision, later achievement and motivation are separate outcomes. The present evidence establishes no number of methods, no rule for combining them and no evidence that a choice of format improves achievement.
 
+## Claims
+
+- [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](../claims/dual-assessment-ai-free-and-ai-allowed.md) [+W]
+- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](../claims/multimethod-approach-richer-portrayal-child-performance.md) [+W]
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
+- [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](../claims/performance-assessments-complement-multiple-choice-tests.md) [+W]
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
+- [Students performed better on oral measures than written measures in comparison studies](../claims/students-perform-better-oral-than-written.md) [+W]
+- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](../claims/tutor-gain-concentrated-in-written-reasoning-depth.md) [+W]
+- [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](../claims/standardized-tests-problematic-young-children-outcomes.md) [+W]
+
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
@@ -214,14 +225,6 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — varied assessment evidence matters when it improves the quality of feedback and the next instructional move
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — complex outcomes are often judged more credibly through integrated performances than through one narrow format
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple evidence sources can help learners compare their understanding across formats and adjust accordingly
-- [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](../claims/dual-assessment-ai-free-and-ai-allowed.md) [+W]
-- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](../claims/multimethod-approach-richer-portrayal-child-performance.md) [+W]
-- [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
-- [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](../claims/performance-assessments-complement-multiple-choice-tests.md) [+W]
-- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
-- [Students performed better on oral measures than written measures in comparison studies](../claims/students-perform-better-oral-than-written.md) [+W]
-- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](../claims/tutor-gain-concentrated-in-written-reasoning-depth.md) [+W]
-- [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](../claims/standardized-tests-problematic-young-children-outcomes.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

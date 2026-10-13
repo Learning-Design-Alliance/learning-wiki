@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (4 for, 1 mixed, 3 against) · 6 studies (4 review, 1 associational, 1 theoretical), `q2` · 0 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (4 for, 1 mixed, 4 against) · 7 studies (5 review, 1 associational, 1 theoretical), `q2` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 The MOOC combines several earlier innovations — open enrollment, video-based instruction, discussion-forum interaction, and open-content licensing — into a single, free, large-scale online course (Weller, 2018). The earliest MOOCs (Downes and Siemens's open courses in 2008–2009) were built around [Connectivism](../theories/connectivism.md): learning was meant to happen through learners forming and navigating their own network of connections across distributed content and peers, not through a fixed instructor-delivered sequence.
@@ -79,6 +79,7 @@ That original design was largely abandoned once the pattern scaled commercially.
 - [MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs](../claims/mooc-adoption-small-segment-institutions.md) [~W]
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](../claims/mooc-completion-four-percent.md) [-W]
 - [Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats](../claims/moocs-low-completion-embodied-music-learning.md) [-W]
+- [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](../claims/automated-grading-bias-non-native-english.md) [-W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

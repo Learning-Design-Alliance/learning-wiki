@@ -44,4 +44,4 @@ Norm-referenced comparison of the study sample against NWEA 2020 prepandemic spr
 
 ## Related Claims
 - [Ever-below-benchmark rates differed sharply between top- and bottom-quartile grantee schools on high-need concentration, preschool attendance, discipline, attendance, and mobility](school-characteristic-quartile-benchmark-percentages.md) — related
-- [Special education service concentration showed divergent patterns: similar ever-below-benchmark rates across quartiles but much higher persistence below benchmark in high-concentration schools](special-education-concentration-persistence-benchmark.md) — related
+- Special education service concentration showed divergent patterns: similar ever-below-benchmark rates across quartiles but much higher persistence below benchmark in high-concentration schools — related

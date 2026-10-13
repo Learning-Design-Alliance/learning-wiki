@@ -82,7 +82,7 @@ The same cited survey is reported as showing "as many as 72 percent of adult edu
 
 ## Related Claims
 - [Only 11 percent of the 36 million low-skilled U.S. adults who could benefit from education and training are currently served by the public and private educational system](36-million-low-skilled-adults-only-11-percent-served.md) — possibly the same claim (merge candidate)
-- [US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget](adult-ed-market-underserved-and-underdigitized.md) — possibly the same claim (merge candidate)
+- US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget — possibly the same claim (merge candidate)
 - [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — related
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
 - [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related

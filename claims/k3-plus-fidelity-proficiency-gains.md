@@ -62,5 +62,5 @@ The same evaluation's longer-term finding, reported in the report's evidence sec
 
 
 ## Related Claims
-- [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
+- Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers — related
 - [K–3 Plus expanded learning time program showed positive impact on student learning](k3-plus-positive-impact-learning.md) — possibly the same claim (merge candidate)

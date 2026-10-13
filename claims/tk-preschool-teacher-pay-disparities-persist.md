@@ -43,6 +43,6 @@ Cross-site qualitative workforce finding from the case studies. Local resources 
 
 
 ## Related Claims
-- [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
+- Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce — related
 - [Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs](centralized-enrollment-builds-family-awareness.md) — related
-- [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](pay-parity-policies-nonlea-teachers.md) — related
+- Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing — related

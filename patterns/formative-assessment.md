@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (11 for, 6 mixed, 1 unmarked) · 29 studies (12 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 14 of 29 report an effect size · 8 claims rest on one study
+> **Evidence** · 23 claims (13 for, 9 mixed, 1 unmarked) · 35 studies (12 quant-synthesis, 9 causal, 5 review, 3 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 14 of 35 report an effect size · 12 claims rest on one study
 
 ## Description
 
@@ -172,8 +172,6 @@ This is the article's described classroom pattern for formative assessment in la
 ### Claims
 
 - [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+M]
-- [GenAI can help students overcome contextual constraints when eliciting feedback](../claims/genai-overcomes-eliciting-constraints.md) [~W]
-- [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](../claims/group-cycle-interactions-formative-outcomes.md) [~M]
 
 ## Related Patterns
 - 
@@ -185,3 +183,11 @@ This is the article's described classroom pattern for formative assessment in la
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120
 -->
+
+## Claims
+
+- [GenAI can help students overcome contextual constraints when eliciting feedback](../claims/genai-overcomes-eliciting-constraints.md) [~W]
+- [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](../claims/group-cycle-interactions-formative-outcomes.md) [~M]
+- [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](../claims/agentic-feedback-42-undergrads-rubric-alignment-gain.md) [+W]
+- [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
+- [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]

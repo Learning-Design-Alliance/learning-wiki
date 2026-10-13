@@ -13,7 +13,7 @@ generated:
 # Mental Models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 19 studies (8 causal, 6 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 21 studies (8 causal, 6 quant-synthesis, 4 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 2 claims rest on one study
 
 ## Description
 A mental model is a learner's internal representation of how a system, process, or domain works — a runnable structure they can use to explain phenomena, predict outcomes, and simulate "what happens if…" scenarios. Instruction that targets mental models aims to build, refine, or repair these representations rather than only transmitting facts or procedures.
@@ -53,7 +53,8 @@ Instruction is more durable when it helps learners construct a coherent causal m
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](../claims/no-gender-difference-day-night-mental-models.md) [~W]
+- [Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works](../claims/children-describe-chatbot-five-themes.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the skeletal model before detailed content fills it in

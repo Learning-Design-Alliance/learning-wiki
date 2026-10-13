@@ -15,7 +15,7 @@ grain_size: unit
 # Epistemic Games
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (5 for, 9 mixed) · 13 studies (4 quant-synthesis, 3 qualitative, 2 review, 2 theoretical, 1 causal, 1 design), `q2`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (6 for, 9 mixed) · 14 studies (4 quant-synthesis, 3 review, 3 qualitative, 2 theoretical, 1 causal, 1 design), `q2`–`q4` · 4 of 14 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -121,6 +121,10 @@ Record: **practice and the decisions studied → role, world and documents → s
 [Simulations](../elements/simulation.md), [role-playing](../elements/role-playing.md), [feedback](../elements/feedback.md), [debrief](../elements/debrief.md), [assessment mechanic](../elements/assessment-mechanic.md) and the [shared-understanding moves of epistemic games](../elements/epistemic-games-shared-understanding-moves.md) (a related sense of the term: the inquiry moves teams use). Principles and theories the pattern draws on: [Game-Based Learning](../principles/game-based-learning.md), [Learning Embedded in the Core Mechanic](../principles/game-based-learning.md), [Communities of Practice](../principles/communities-of-practice.md), [Scaffolding and Fading](../principles/scaffolding-and-fading.md), [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md), [Situated Learning](../theories/situated-learning.md) and [Self-Determination Theory](../theories/self-determination-theory.md).
 
 This pattern is scoped to learning one profession's way of deciding through a guided role in a simulated world over a unit. Factual or procedural goals, single sessions, and practices nobody has studied need other configurations ([direct instruction](direct-instruction.md), [case-based learning](case-based-learning.md), [cognitive apprenticeship](cognitive-apprenticeship.md) in a real setting). The policy supports observation and design reasoning; whether an epistemic game produces better decisions on new cases than equally long case-based practice with the same feedback, for which learners, at what cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](../claims/ai-ambulatory-case-simulations-diagnostic-reasoning.md) [+W]
 
 ## Related Patterns
 - [Evidence-Centered Design](../methods/evidence-centered-design.md) — the assessment-design method Rupp, Gushta, Mislevy and Shaffer (2010) worked out against epistemic games specifically, which is how a game about professional judgment yields anything scoreable

@@ -14,7 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning (e.g., Duolingo Pattern)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 10 studies (4 review, 2 causal, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 11 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 0 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback. The pattern works by requiring learners to demonstrate competence before moving forward while using feedback and progression signals to sustain engagement. Its value is not the game layer alone; it is the pairing of repeated practice, visible progress, and retry loops.
@@ -50,9 +50,12 @@ This pattern can be highly effective for incremental skill development, especial
 
 ### Theory
 #### Supporting
+
 - Mastery learning perspectives — progression should depend on competence rather than simple seat time.
 - Feedback and self-regulation perspectives — visible progress and frequent correction support monitoring and persistence.
 - Game-based motivation perspectives — challenge, progression, and reward can sustain engagement when aligned well.
+- [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](../claims/ai-math-pedagogical-opportunities-personalisation-feedback.md) [+W]
+
 #### Contradicting / Qualifying
 - Extrinsic mechanics should support learning goals, not replace them.
 - Some domains require richer forms of assessment than rapid mastery loops can provide.

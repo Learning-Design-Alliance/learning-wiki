@@ -45,7 +45,7 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 ## Related Claims
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) — related
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — a broader claim this one bears on
-- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — a broader claim this one bears on
+- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — a broader claim this one bears on
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related
 - [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related

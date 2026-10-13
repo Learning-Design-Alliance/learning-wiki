@@ -62,8 +62,8 @@ The same locale analysis finds no significant differences for urban, suburban, o
 
 
 ## Related Claims
-- [Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth](idaho-charter-grade-configuration-effects.md) — related
-- [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
+- Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth — related
+- About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math — related
 - [Charter school impacts differ sharply by locale: urban charters show stronger reading growth while suburban and town charters show weaker growth in both subjects](pa-charter-impact-by-locale.md) — reports the opposite
-- [Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects](idaho-brick-and-mortar-charter-gains.md) — related
+- Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects — related
 - [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — a broader claim this one bears on

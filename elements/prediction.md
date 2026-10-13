@@ -13,7 +13,7 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
@@ -55,6 +55,7 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+W]
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
 
 ## Related Elements
 - [Activation](activation.md) — prediction is a specific, commitment-forcing form of prior-knowledge activation

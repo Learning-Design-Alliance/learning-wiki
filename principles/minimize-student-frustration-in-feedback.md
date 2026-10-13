@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 6 studies (2 qualitative, 1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; and overwhelming commentary on every weakness. Feedback is most useful when understood, so teachers should comment in complete sentences or detailed phrases that are clear, specific, and concrete, prioritize a few features of the text, and articulate their feedback philosophies and expectations to learners.
@@ -44,6 +44,9 @@ Teachers should avoid responding in ways that cause frustration: unclear or cryp
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](../claims/teachers-found-ecree-useful-but-some-students-overwhelmed.md) [~W]
 - [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](../claims/feedback-source-discrepancies-cause-confusion.md) [~W]
 - [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](../claims/synthesizer-expected-reduce-overload-support-affect.md) [+W]
+- [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](../claims/divergent-perceptions-genai-feedback-redundancy.md) [~W]
+- [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
+- [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](../claims/trainer-expected-improve-comment-quality.md) [+W]
 
 ## Related Principles
 

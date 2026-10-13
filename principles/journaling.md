@@ -26,7 +26,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 21 studies (9 quant-synthesis, 8 causal, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 10 of 21 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 22 studies (9 causal, 9 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 10 of 22 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,10 @@ The expectation should weaken if comparable learners keeping a prompted, followe
 
 Better entries, more entries, self-regulation questionnaire scores, course exams, changed practice and delayed retention are separate claims. The present evidence establishes no optimal entry length, frequency, prompt set, reading schedule or audience, and nothing for journals in primary schools, for language learning beyond an argument, or for adults outside higher education.
 
+## Claims
+
+- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
+
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — journaling is one concrete routine for structured reflection.
 - [Process-Based Writing](process-based-writing.md) — journals can support regular low-stakes writing and revision habits.
@@ -205,7 +209,6 @@ Journaling helps when writing is used to inspect thinking rather than just recor
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — journals deepen learning when they require learners to explain connections, decisions, or shifts in understanding
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
-- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — journaling is one concrete routine for structured reflection.

@@ -19,7 +19,7 @@ sources:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 18 studies (6 causal, 5 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 18 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 19 studies (6 causal, 5 quant-synthesis, 3 theoretical, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +113,10 @@ The expectation should weaken if comparable learners given specific, criterion-r
 
 Better reflections, higher course exams, changed practice, and delayed or transferred performance are separate claims. The present evidence does not establish an optimal prompt set, frequency, timing or audience, or benefit for children, for factual goals, or outside higher and professional education.
 
+## Claims
+
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [+W]
+
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md)
 - [Metacognition](self-regulated-learning.md)
@@ -186,7 +190,6 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 theoretical, 1 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 0 of 6 report an effect size
-- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [+W]
 
 ## Description
 Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.

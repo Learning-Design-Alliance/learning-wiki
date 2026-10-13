@@ -45,7 +45,7 @@ Qualitative findings from community listening sessions held December 2024 to Mar
 ## Related Claims
 - [The 10 Elements of Black Student Excellence emerged from qualitative analysis of listening sessions with more than 314 Black students, families, teachers, and community members](ten-elements-from-314-listening-sessions.md) — related
 - [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](yolo-county-eight-countywide-needs.md) — related
-- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
+- Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover — related
 - [Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations](yolo-expanded-learning-youth-development-framework-need.md) — related
-- [Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list](california-ece-data-limitations-unique-identifier.md) — related
+- Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
 - [Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs](centralized-enrollment-builds-family-awareness.md) — related

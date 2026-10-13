@@ -49,4 +49,4 @@ The study examines Democracy Prep's impact on voter registration and participati
 - [Democracy Prep charter schools boost student voting, according to the article's headline finding](democracy-prep-charter-schools-boost-student-voting.md) — possibly the same claim (merge candidate)
 - [Enrolling in Democracy Prep increases student voter registration rates by about 16 percentage points](democracy-prep-lottery-registration-gain-16-points.md) — related
 - [Enrolling in Democracy Prep increases student voting rates in the 2016 election by about 12 percentage points](democracy-prep-lottery-voting-gain-12-points.md) — possibly the same claim (merge candidate)
-- [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related
+- U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling — related

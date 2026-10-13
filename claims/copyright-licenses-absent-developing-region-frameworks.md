@@ -43,4 +43,4 @@ Sub-competence-level mapping of frameworks onto DigComp 2.2 (Fig. 5). The review
 
 
 ## Related Claims
-- [Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving](regional-digcomp-coverage-developed-vs-developing.md) — related
+- Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving — related

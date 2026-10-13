@@ -46,7 +46,7 @@ Findings from teacher focus groups and interviews across grantee sites in the di
 - [In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors](individual-targeted-grants-three-quarters-cross-sector.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
 - [In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector](schoolwide-grant-half-collaborated-across-sector.md) — related
-- [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](teachers-receptive-but-involvement-limited.md) — related
+- Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
-- [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
+- Limited school staff time is a crucial obstacle impeding cross-sector collaboration — related
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related

@@ -45,4 +45,4 @@ Descriptive labor-market statistics the report attributes to Cyberguide (2025); 
 ## Related Claims
 - [The United States faces a cybersecurity workforce shortage, with information security analyst positions projected to grow 33% from 2023 to 2033](cybersecurity-analyst-jobs-projected-grow-33-percent.md) — a broader claim this one bears on
 - [Talladega County's cybersecurity program grew from 81 participating students in 2023-24 to 208 in 2024-25](talladega-cyber-program-enrollment-growth-81-to-208.md) — related
-- [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — related
+- The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year — related

@@ -63,4 +63,4 @@ Campus interviewee feedback on the implementation process. The executive summary
 
 ## Related Claims
 - [CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations](csu-eo1110-corequisite-models-three-types.md) — related
-- [Campus interviewees identified the one-year implementation timeline as their greatest challenge in implementing EO 1110](one-year-timeline-greatest-implementation-challenge.md) — related
+- Campus interviewees identified the one-year implementation timeline as their greatest challenge in implementing EO 1110 — related

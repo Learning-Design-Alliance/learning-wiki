@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 8 studies (3 causal, 2 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 2 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 11 studies (4 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 12 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -56,6 +56,12 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [One-size-fits-all school systems under-serve nearly all of their students](../claims/one-size-fits-all-underserves-students.md) [+W]
 - [Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty](../claims/pacing-guides-force-teacher-centered-lessons.md) [+W]
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](../claims/sorting-effect-comparable-to-curriculum-content.md) [+W]
+- [Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only](../claims/differentiating-above-grade-level-second-grade-achievement.md) [~W]
+- [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](../claims/forced-pacing-eliminates-aiding-transfer.md) [+W]
+- [When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment](../claims/sorting-puts-low-skilled-in-disruptive-classrooms.md) [+W]
+- [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](../claims/sorting-raises-test-scores-via-high-skill-gains.md) [-W]
+- [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](../claims/sorting-opposite-effects-grades-vs-test-scores.md) [~W]
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](../claims/four-equity-schools-rising-achievement-all-subgroups.md) [+W]
 
 ## Related Theories
 

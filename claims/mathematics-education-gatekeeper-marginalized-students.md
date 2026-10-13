@@ -48,4 +48,4 @@ The chapter's overview asserts, without reported data in the supplied text, that
 - [The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence](detection-tools-disproportionately-flag-multilingual-writers.md) — related
 - [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](two-gendered-classroom-cultures.md) — related
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
-- [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](minnesota-charter-students-disproportionately-underserved.md) — related
+- Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers — related

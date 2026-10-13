@@ -45,4 +45,4 @@ Descriptive survey results (frequencies and percentages) from 43 educators; the 
 - [K-12 educators report little direct involvement in DLP research while higher education participants are evenly split, and report higher-oversight roles](k12-lower-dlp-research-participation.md) — related
 - [Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes](k12-unaware-dlp-privacy-measures.md) — related
 - [Access to evidence-based strategies and understanding how students learn are top motivators for both groups' interest in DLP research](evidence-based-strategies-top-motivator.md) — related
-- [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
+- University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption — related

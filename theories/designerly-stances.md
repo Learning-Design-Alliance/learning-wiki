@@ -17,7 +17,7 @@ sources:
 # Designerly Stances
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawn from design-studies literature (Schön's reflective practice, Dorst's problem-solution co-evolution, Buchanan's human-centered design), designerly stances describes six interconnected dimensions along which a teacher's approach to a classroom problem of practice can be characterized: (1) **co-evolution of problem and solution** — whether the problem is treated as fixed or iteratively reframed alongside candidate solutions; (2) **problem complexity and structure** — recognizing systemic and contextual factors versus only surface-level, routine issues; (3) **idea fluency and scope** — the breadth of frames and ideas considered, including non-traditional or critical perspectives; (4) **inquiry and stakeholder engagement** — actively researching student/stakeholder needs and involving them in the design, especially for marginalized populations; (5) **conceptualization of the design process** — managed, iterative process versus linear or haphazard problem-solving; (6) **attitude toward ambiguity** — treating messiness as inherent to design work rather than as evidence of failure. Each dimension anchors between a "beginning designer" and an "informed designer" pole, giving teacher educators a way to describe and support growth along each dimension separately rather than treating "design thinking" as one monolithic skill.
@@ -35,7 +35,9 @@ Drawn from design-studies literature (Schön's reflective practice, Dorst's prob
 - Moving from treating a classroom problem as fixed and individual (e.g., "this student can't read") toward recognizing it as systemic, reframable, and addressable through iterative, stakeholder-informed design
 
 ## Claims
+
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M]
+- [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](../claims/instructors-part-of-the-solution-frameshift.md) [~W]
 
 ## Related Theories
 

@@ -13,7 +13,7 @@ generated:
 # Midterm Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies (3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 A midterm exam is a formal, summative assessment administered at the midpoint of a course to measure student understanding and retention of material covered so far. Beyond certification of progress, it functions as a high-stakes retrieval event: preparing for and taking the exam forces learners to reconstruct and consolidate course content.
@@ -53,7 +53,8 @@ Midterms leverage the testing effect — the act of retrieving information stren
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](../claims/llm-users-lower-midterm1-score-gap-narrowed.md) [~W]
+- [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the parent element; a midterm is a summative instance positioned mid-course

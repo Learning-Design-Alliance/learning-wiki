@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 32 studies (12 causal, 8 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 4 of 32 report an effect size · 5 claims rest on one study
+> **Evidence** · 20 claims (7 for, 12 mixed, 1 against) · 37 studies (16 causal, 8 quant-synthesis, 6 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,14 @@ The first link should weaken if controlled comparisons of these conditions (a co
 
 On-task behaviour, interest, completion, voluntary persistence and learning of the target are separate claims. The present evidence does not establish how much engagement is enough, how long a raised level lasts, or that engagement causes learning.
 
+## Claims
+
+- [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](../claims/bromp-observation-mostly-on-task-concentrating.md) [~W]
+- [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](../claims/ab-tests-level-interventions-increase-lessons.md) [+W]
+- [30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction](../claims/preference-ai-plus-robot-condition.md) [~W]
+- [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](../claims/self-reported-jol-motivation-and-behaviour-change.md) [~W]
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](../claims/engagement-surviving-proxy.md) [+W]
+
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement
 - [Game-Based Learning](game-based-learning.md) — can increase participation and persistence when challenge, progress, and feedback are well designed
@@ -207,9 +215,6 @@ Engagement matters because even strong content design has little effect if learn
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — appropriately challenging goals can increase effort and persistence when learners are committed and supported
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can help sustain engagement by showing learners that effort is going somewhere
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — engagement may be easier to sustain when novices can focus on actionable process rather than distant outcomes
-- [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](../claims/bromp-observation-mostly-on-task-concentrating.md) [~W]
-- [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](../claims/ab-tests-level-interventions-increase-lessons.md) [+W]
-- [30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction](../claims/preference-ai-plus-robot-condition.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

@@ -24,7 +24,7 @@ grain_size: course
 # Merrill's First Principles of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 10 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (4 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration. Rather than prescribing a rigid lesson script, it identifies a set of instructional conditions that tend to support effective learning across many settings. The pattern is strongest when learners are working toward meaningful performance, not just isolated recall.
@@ -63,11 +63,14 @@ Its practical strength is that it balances authenticity with structured support.
 
 ### Theory
 #### Supporting
+
 - Task-centered instruction traditions — authentic problems organize learning more effectively than isolated content alone.
 - Constructivist and generative perspectives — activation, demonstration, and application support meaningful learning.
 - Transfer-oriented design — integration improves the chances that learning will be used later.
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Scaffolding](../principles/scaffolding.md)
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
+
 #### Contradicting / Qualifying
 - Not every lesson needs all five principles equally, and designers still need to adapt to domain and learner expertise.
 - Task-centered instruction may need supplemental explicit teaching for foundational subskills.

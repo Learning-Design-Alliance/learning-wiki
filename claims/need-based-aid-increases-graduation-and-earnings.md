@@ -43,5 +43,5 @@ The report's funding-allocation section asserts this research finding without ci
 
 
 ## Related Claims
-- [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — related
-- [A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings](per-pupil-spending-increase-improves-adult-outcomes.md) — related
+- Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula — related
+- A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings — related

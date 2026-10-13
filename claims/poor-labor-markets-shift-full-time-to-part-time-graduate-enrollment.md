@@ -43,7 +43,7 @@ Key finding from the CPS-based observational analysis of graduate enrollment aga
 
 
 ## Related Claims
-- [Graduate school enrollment is countercyclical for females and acyclical for males](graduate-enrollment-countercyclical-females-acyclical-males.md) — related
-- [Business cycle fluctuations have non-linear impacts on female graduate school enrollment](nonlinear-unemployment-effects-female-graduate-enrollment.md) — related
+- Graduate school enrollment is countercyclical for females and acyclical for males — related
+- Business cycle fluctuations have non-linear impacts on female graduate school enrollment — related
 - [Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions](statewide-unemployment-variation-proxies-business-cycle-enrollment.md) — related
 - [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related

@@ -17,7 +17,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 5 studies (4 qualitative, 1 design), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 7 studies (6 qualitative, 1 design), `q1`–`q2` · 0 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 The brief characterizes rightful presence by "a fundamental shift in power" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of educational systems, policies, and practices. It promotes co-creation of school experiences benefiting students, educators, staff, families, and communities, requiring collective action across the system.
@@ -44,6 +44,8 @@ The brief characterizes rightful presence by "a fundamental shift in power" in w
 - [Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.](../claims/codesign-culturally-responsive-alumni-surveys.md) [+W] — attached 2026-10-09 from Shelton Daal et al. (2024), which proposed "Authentic co-design is not rushed or forced, and there is untapped knowledge everywhere in school communities.".
 - [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](../claims/youth-advisors-report-inadequate-involvement-in-decisions.md) [+W] — attached 2026-10-09 from Ojetunde et al. (2024), which proposed "Seek input from a diverse range of educational partners before deciding, to avoid solutionitis on complex school climate problems".
 - [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](../claims/leaders-filter-community-voices-security-retained.md) [-W]
+- [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](../claims/collaboration-buy-in-student-leadership.md) [+W]
+- [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](../claims/instructors-part-of-the-solution-frameshift.md) [+W]
 
 ## Related Patterns
 - 

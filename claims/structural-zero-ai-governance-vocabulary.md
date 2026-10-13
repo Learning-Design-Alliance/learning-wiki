@@ -44,5 +44,5 @@ Frequency analysis of the full WAT corpus (N = 436; 1376 coded responses) found 
 
 ## Related Claims
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related
-- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
+- Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities — related
 - [Turkish undergraduates' AI associations are anchored by utilitarian concepts, with Convenience and Speed alone accounting for 18.5% of all responses](utilitarian-anchors-convenience-speed-ai-associations.md) — related

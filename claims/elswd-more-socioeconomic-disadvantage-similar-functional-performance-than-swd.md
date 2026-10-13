@@ -45,6 +45,6 @@ Descriptive comparison of English learner students with disabilities and other s
 ## Related Claims
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
 - [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related
-- [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related
+- English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges — related
 - [Most differences between English learner students with disabilities and other students with disabilities diminish when background characteristics are held constant](elswd-swd-differences-diminish-holding-background-constant.md) — related
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — related

@@ -45,13 +45,13 @@ The brief's summary of subgroup comparisons in MAP Growth reading and math data 
 ## Related Claims
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
-- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
-- [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) — possibly the same claim (merge candidate)
+- BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6 — related
+- Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools — possibly the same claim (merge candidate)
 - [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](missing-fall-2020-testers-understate-impacts.md) — related
-- [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — a narrower finding that bears on this claim
+- Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2 — a narrower finding that bears on this claim
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — possibly the same claim (merge candidate)
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — a broader claim this one bears on
-- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
-- [Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood](demographics-threshold0-likelihood.md) — related
+- Black and Latinx students generally feel less safe at school than their White peers — related
+- Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood — related

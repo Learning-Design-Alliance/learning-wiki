@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (3 theoretical, 2 review, 1 causal), `q1`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 8 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 design), `q1`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):
@@ -48,6 +48,8 @@ The shared claim across all three models is that low-value technology integratio
 - [Most GenAI educational applications operate at SAMR's lowest level, substitution, replicating rather than transforming practice](../claims/genai-apps-samr-substitution-level.md) [+W]
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](../claims/vr-reinforcement-not-substitute.md) [+W]
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+W]
+- [Policy guidance is most actionable for final-output substitution scenarios](../claims/substitution-most-actionable-scenario.md) [~W]
+- [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 
 ## Related Theories
 

@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (11 for, 1 mixed) · 14 studies (9 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 14 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 16 studies (10 causal, 3 quant-synthesis, 2 review, 1 qualitative), `q2`–`q4` · 7 of 16 report an effect size · 11 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -49,6 +49,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W]
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](../claims/segmenting-principle-mayer-2008.md) [+W]
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
+- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
+- [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [~W]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

@@ -62,5 +62,5 @@ Cluster profiles from the discussion: cluster 1 (four senior professors) assigne
 
 ## Related Claims
 - [Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715)](available-resources-highest-ahp-priority.md) — related
-- [Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers](institutional-strategic-orientation-highest-snap-priority.md) — related
+- Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related

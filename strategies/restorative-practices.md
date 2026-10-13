@@ -13,7 +13,7 @@ generated:
 # Restorative Practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (6 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (6 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Restorative Practices (RP) is a whole-school strategy that replaces punitive discipline with practices that build community and repair harm. It operates on two tiers: proactive community-building (circles, check-ins, affective language) that strengthens relationships before conflict occurs, and responsive repair (restorative conferences, mediation) that brings together those harmed and those responsible after harm occurs. The underlying assumption is that misbehavior is a violation of relationships, not rules, and that learning conditions improve when students feel connected and fairly treated.
@@ -75,6 +75,10 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 4. **Respond to harm restoratively** — convene affected parties with a trained facilitator using the restorative questions; agree on repair actions with follow-up.
 5. **Build empathy deliberately** across the curriculum, not only in discipline moments — see [Building Empathy](../principles/building-empathy.md).
 6. **Monitor data** on referrals, suspensions, attendance, and climate surveys; adjust tier intensity based on evidence rather than ideology.
+
+## Claims
+
+- [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](../claims/denver-restorative-justice-suspension-gap-narrowed.md) [+W]
 
 ## Related Strategies
 

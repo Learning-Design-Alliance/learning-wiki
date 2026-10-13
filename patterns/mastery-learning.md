@@ -29,7 +29,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (6 quant-synthesis, 3 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 16 claims (8 for, 8 mixed) · 20 studies (7 quant-synthesis, 4 causal, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 20 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -97,6 +97,16 @@ Record: **unit, criterion and check form → instruction and practice received �
 
 This pattern is scoped to cumulative units with a definable check. Performances that develop continuously without a single threshold, open-ended projects, and programme-level competency certification need other configurations and evidence. The evidence above concerns programmes and averages; whether this page's diagnostic branches improve decisions for individual learners, and what cut score or attempt limit serves a given goal, remain to be tested with learners.
 
+## Claims
+
+- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [+W]
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
+- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](../claims/mastery-mixed-teacher-variable-effects.md) [~W]
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](../claims/mastery-effects-larger-elementary.md) [~M]
+- [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](../claims/lms-process-indicators-pilot.md) [+W]
+- [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](../claims/mastery-positive-affective-effects.md) [+W]
+- [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](../claims/mastery-improves-retention.md) [+W]
+
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
@@ -142,7 +152,6 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 
 - Bloom's mastery learning tradition.
 - [Self-Regulated Learning](../theories/self-regulated-learning.md)
-- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](../claims/closed-book-gate-attainable-scores.md) [+W]
 
 #### Contradicting / Qualifying
 - Not all complex performances can be reduced to a single mastery threshold.
@@ -151,9 +160,6 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
-- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](../claims/mastery-mixed-teacher-variable-effects.md) [~W]
-- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](../claims/mastery-effects-larger-elementary.md) [~M]
 
 ## Design
 

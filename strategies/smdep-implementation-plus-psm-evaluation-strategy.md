@@ -17,7 +17,7 @@ sources:
 # Pair implementation description with quasi-experimental impact estimation in program evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study combines two evaluation activities: it "describes program implementation across sites" and "employs a quasi-experimental design through propensity score matching methods" for impact estimation on key student outcomes. This pairing lets evaluators document how a multi-site program operates while estimating its effects on downstream outcomes such as college graduation and professional school matriculation.
@@ -35,6 +35,10 @@ The study combines two evaluation activities: it "describes program implementati
 
 ### Target Learning Goals
 - College completion and entry to medical or dental school
+
+## Claims
+
+- [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](../claims/tenmarks-summer-no-effect-map.md) [~W]
 
 ## Related Strategies
 - 

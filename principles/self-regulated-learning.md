@@ -27,7 +27,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 23 studies (8 causal, 5 quant-synthesis, 4 theoretical, 3 review, 3 associational), `q1`–`q4` · 8 of 23 report an effect size · 12 claims rest on one study
+> **Evidence** · 37 claims (19 for, 16 mixed, 2 against) · 37 studies (11 causal, 6 quant-synthesis, 6 review, 6 theoretical, 5 associational, 2 design, 1 qualitative), `q1`–`q4` · 11 of 37 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -92,6 +92,25 @@ The expectation should weaken if comparable learners given explicit, task-specif
 
 Gains in strategy knowledge, self-reported regulation, self-efficacy, study time, immediate task performance and delayed achievement are separate claims. The present evidence does not establish an optimal prompt schedule, a fading criterion, a durable transfer effect across subjects, or benefit for every learner.
 
+## Claims
+
+- [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](../claims/beagle-profile-strategy-differentiation.md) [~W]
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](../claims/checking-ai-claims-predicts-gains.md) [+W]
+- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](../claims/confidence-predicts-offloading-no-feedback-only.md) [~W]
+- [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](../claims/genai-prompt-offloading-learning-tasks.md) [-W]
+- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [+W]
+- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [~W]
+- [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](../claims/srl-strategies-large-effect-academic-achievement.md) [+W]
+- [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](../claims/teacher-role-shifted-diagnosis-coaching.md) [~W]
+- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](../claims/agentic-srl-coaching-rct-86-significant-strategy-gain.md) [+W]
+- [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](../claims/ai-adaptive-environment-negative-srl-longitudinal.md) [-M]
+- [Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance](../claims/short-srl-strategy-training-enhances-math-performance.md) [+W]
+- [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](../claims/srl-effect-no-course-type-difference.md) [~W]
+- [The pooled effect of self-regulated learning does not differ significantly by school level](../claims/srl-effect-no-school-level-difference.md) [~W]
+- [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](../claims/srl-interventions-increase-logged-time-investment-online-math-prep-course.md) [~W]
+- [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
+
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 - [Formative Assessment](formative-assessment.md)
@@ -150,15 +169,6 @@ Self-regulated learning improves when instruction makes planning, monitoring, an
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 theoretical, 1 causal, 1 review), `q3` · 0 of 4 report an effect size
-- [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](../claims/beagle-profile-strategy-differentiation.md) [~W]
-- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](../claims/checking-ai-claims-predicts-gains.md) [+W]
-- [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](../claims/confidence-predicts-offloading-no-feedback-only.md) [~W]
-- [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](../claims/genai-prompt-offloading-learning-tasks.md) [-W]
-- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [+W]
-- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
-- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [~W]
-- [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](../claims/srl-strategies-large-effect-academic-achievement.md) [+W]
-- [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](../claims/teacher-role-shifted-diagnosis-coaching.md) [~W]
 
 ## Description
 Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking. It matters when learners need to notice what they understand, where they are confused, and what strategy or support they should use next.

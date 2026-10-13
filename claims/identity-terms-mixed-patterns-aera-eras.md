@@ -44,4 +44,4 @@ Cross-era string-match analysis of AERA programs finds the social/identity terms
 
 ## Related Claims
 - [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — a broader claim this one bears on
-- [Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research](literacy-reading-aera-research-declined-34-percent.md) — related
+- Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research — related

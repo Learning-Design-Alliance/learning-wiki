@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 9 studies (3 causal, 3 review, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 0 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 10 studies (4 causal, 3 review, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 0 of 10 report an effect size · 7 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -70,6 +70,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Attention can move within the visual field without eye movements, selecting among simultaneous inputs](../claims/attention-mobility-visual-field.md) [+W]
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
 - [Infants retain verbal material over delays, indicating adult-like storage of speech](../claims/infant-verbal-memory-retention.md) [+W]
+- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](../claims/longer-exposure-improves-free-recall-no-interaction.md) [+W]
 
 ## Related Theories
 

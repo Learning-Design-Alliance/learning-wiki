@@ -43,6 +43,6 @@ Multiple regression on DRDP scores from the 2019-2020 intervention year at Fairs
 
 
 ## Related Claims
-- [Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD](readiness-gaps-narrowed-intervention-year-versus-prior-year.md) — related
-- [During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only](prior-year-gaps-widened-els-grew-less.md) — related
+- Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD — related
+- During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only — related
 - [Intervention-year ELs reached higher DRDP developmental levels by spring than prior-year ELs, while Non-ELs showed no discernable difference or a slight prior-year advantage](intervention-year-els-reached-higher-developmental-levels.md) — related

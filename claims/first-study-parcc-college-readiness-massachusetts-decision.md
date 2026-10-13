@@ -45,7 +45,7 @@ Introduction section of the brief describing the study's novelty and purpose: it
 ## Related Claims
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [After adopting the Common Core in 2010, Massachusetts faced a choice between its revised MCAS test and a next-generation Common Core-designed college-readiness test](massachusetts-2010-assessment-choice-mcas-vs-common-core-test.md) — related
-- [More than 40 states adopted the Common Core, and many face assessment-system decisions similar to Massachusetts'](many-common-core-states-face-similar-assessment-decisions.md) — related
+- More than 40 states adopted the Common Core, and many face assessment-system decisions similar to Massachusetts' — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — related
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard](parcc-math-standard-less-remediation.md) — related

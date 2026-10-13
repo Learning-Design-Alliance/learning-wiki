@@ -45,5 +45,5 @@ Operational item analysis of Spanish Math items administered during 2024–2025 
 ## Related Claims
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related
-- [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) — related
+- Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability — related
 - [Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item](ngss-benchmark-items-high-difficulty-low-discrimination.md) — reports the opposite

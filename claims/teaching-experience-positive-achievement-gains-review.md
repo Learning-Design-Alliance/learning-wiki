@@ -62,5 +62,5 @@ Among the roughly two-thirds of reviewed studies using longitudinal datasets wit
 
 
 ## Related Claims
-- [Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years](teachers-keep-improving-second-decade.md) — a narrower finding that bears on this claim
-- [A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers](florida-experience-effects-no-high-school-returns.md) — a narrower finding that bears on this claim
+- Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years — a narrower finding that bears on this claim
+- A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers — a narrower finding that bears on this claim

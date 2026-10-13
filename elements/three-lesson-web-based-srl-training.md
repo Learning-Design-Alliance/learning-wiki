@@ -18,7 +18,7 @@ sources:
 # Three-Lesson Web-Based SRL Training
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A web-based training on self-regulated learning that "can be attended by virtually unlimited numbers of participants" choosing their own time and place. "The WBT comprises three lessons of approximately 90 min each", covering the pre-action, action and post-action phases, and using videos, presentations, self-tests, exercises and bulletin boards. In this study lessons unlocked at 1-week intervals, videos used real actors, and mean self-reported compliance was 82.18%.
@@ -50,6 +50,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [+W]
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~W]
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [+W]
+- [Rural students overall did not show a significant effect, but low-performing rural students did](../claims/vplc-assistments-rural-subgroup-effects.md) [~W]
 
 ## Related Elements
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)

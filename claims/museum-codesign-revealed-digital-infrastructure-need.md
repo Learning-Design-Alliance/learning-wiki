@@ -44,5 +44,5 @@ Results section of a bounded case study of two undergraduates in a 7-week CBL co
 
 ## Related Claims
 - [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](cultural-map-boundary-object-distributed-cognition.md) — related
-- [Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports](sv-leas-lack-bilingual-infrastructure-materials-and-pd.md) — related
+- Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports — related
 - [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

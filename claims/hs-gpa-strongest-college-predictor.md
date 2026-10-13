@@ -45,8 +45,8 @@ The brief summarizes research in Chicago and nationally on predictors of college
 ## Related Claims
 - [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](gpa-outpredicts-act-college-graduation.md) — a narrower finding that bears on this claim
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
-- [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
+- Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended — related
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — a narrower finding that bears on this claim
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — a broader claim this one bears on
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](act-weak-predictor-noise-exceeds-signal.md) — related
-- [At least 177,000 low-income high school graduates score high enough on the SAT/ACT to qualify for entry to a public research university](177000-high-achieving-low-income-graduates.md) — related
+- At least 177,000 low-income high school graduates score high enough on the SAT/ACT to qualify for entry to a public research university — related

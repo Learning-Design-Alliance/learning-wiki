@@ -64,14 +64,14 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 ## Related Claims
 
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related
-- [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
+- Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children — related
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md)
 - [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md)
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
-- [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
+- Student demographics affect parents' perceptions of school quality — related
 - [Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation](post-intervention-mediator-subgroup-analyses.md) — related
 - [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
 - [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](no-clear-pattern-characteristics-and-effectiveness.md) — related

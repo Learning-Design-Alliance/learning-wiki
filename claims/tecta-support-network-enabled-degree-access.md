@@ -43,4 +43,4 @@ Thematic analysis of five service-provider focus groups (80 providers) found 'Ma
 
 
 ## Related Claims
-- [TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher](tecta-credential-attainment-concentrated-below-bachelors.md) — related
+- TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher — related

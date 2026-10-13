@@ -44,4 +44,4 @@ Focus groups with students at five California community colleges, primarily stud
 
 ## Related Claims
 - [Most incoming students do not understand that placement test performance determines which classes they can take](students-unaware-placement-stakes.md) — related
-- [California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English](placement-assessment-convergence-accuplacer.md) — related
+- California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English — related

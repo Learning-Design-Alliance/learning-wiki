@@ -25,7 +25,7 @@ sources:
 # Metaphors & Analogies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 12 studies (4 qualitative, 2 causal, 2 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 14 studies (5 qualitative, 2 causal, 2 quant-synthesis, 2 review, 2 associational, 1 design), `q2`–`q4` · 1 of 14 report an effect size · 7 claims rest on one study
 
 ## Description
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
@@ -74,6 +74,10 @@ Metaphors and analogies work because they let learners reason from a known struc
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](../claims/personalized-analogies-more-engaging-memorable.md) [+W]
 - [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]
+- [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](../claims/metaphor-workshops-support-genai-sensemaking.md) [+W]
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](../claims/concrete-eco-feedback-visualizations-preferred-over-abstract.md) [+W]
+- [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](../claims/qualities-metaphors-genai-unknowable-unreliable.md) [~W]
+- [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — analogies often become more useful when represented visually.

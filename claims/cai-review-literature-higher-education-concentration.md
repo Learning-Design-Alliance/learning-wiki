@@ -45,4 +45,4 @@ Descriptive analysis of the 34 included review articles reporting distributions 
 
 ## Related Claims
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
-- [CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented](cai-utilization-concentrated-pedagogical-applications.md) — related
+- CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented — related

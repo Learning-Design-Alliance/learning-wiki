@@ -44,4 +44,4 @@ Descriptive survey of New York charter schools conducted in May 2020 asked schoo
 
 ## Related Claims
 - [New York charter schools kept students connected during closure through community events, multi-channel communication, and existing structures, with about two-thirds taking above-and-beyond steps for inactive students](maintaining-student-connection-strategies-closure.md) — related
-- [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties — related

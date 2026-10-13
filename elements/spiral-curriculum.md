@@ -13,7 +13,7 @@ generated:
 # Spiral Curriculum
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Spiral curriculum is the element in which important ideas are revisited repeatedly over time, with each return expanding complexity or depth. It is useful when learning should grow cumulatively rather than be treated as covered once and complete.
@@ -36,7 +36,7 @@ Spiral curriculum is the element in which important ideas are revisited repeated
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it](../claims/ai-companion-literacy-shared-stakeholder-responsibility.md) [+W]
 
 ## Related Elements
 - [Continuous Review](continuous-review.md)

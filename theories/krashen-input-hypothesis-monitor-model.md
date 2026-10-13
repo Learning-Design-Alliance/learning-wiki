@@ -12,7 +12,7 @@ generated:
 # Krashen's input hypothesis and Monitor Model of second language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (6 for, 1 mixed, 4 against) · 6 studies (3 review, 2 theoretical, 1 qualitative), `q1`–`q2` · 1 of 6 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (7 for, 1 mixed, 4 against) · 7 studies (3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q2` · 1 of 7 report an effect size · 12 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed226607, eric-ed294203, eric-ed242194, eric-ej1071042, eric-ed338037, eric-ed367161, eric-ej1095572, eric-ej420159, eric-ej912917, eric-ed512082, eric-ej1051487. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -40,6 +40,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - The critiques all concern grammatical accuracy, the objective the input account is said to reach least well.
 
 ## Claims
+
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
 - [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
@@ -51,6 +52,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [-W]
+- [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](../claims/incidental-acquisition-rate-3-of-20-words.md) [+W]
 
 ## Related Theories
 

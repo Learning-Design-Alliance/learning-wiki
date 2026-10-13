@@ -81,8 +81,8 @@ Pearson correlation between the adapted General Self-Efficacy scale and the Conf
 
 
 ## Related Claims
-- [Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly](computing-students-high-objective-cybersecurity-knowledge.md) — related
-- [Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common](cybersecurity-knowledge-informal-sources-dominate.md) — related
+- Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly — related
+- Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common — related
 - [Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning](two-attitude-clusters-differ-preparedness-confidence.md) — related
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related
 - [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related

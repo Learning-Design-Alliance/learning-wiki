@@ -46,4 +46,4 @@ Bibliometric trend analysis of 135 documents (2005–2025) using Bibliometrix an
 - [Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025](review-automation-publication-growth-4-7-monthly.md) — related
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
-- [The United States leads country contributions to AI-and-metacognition STEM research with 68 publications, followed by China with 37](usa-leads-country-contributions-ai-metacognition-stem.md) — related
+- The United States leads country contributions to AI-and-metacognition STEM research with 68 publications, followed by China with 37 — related

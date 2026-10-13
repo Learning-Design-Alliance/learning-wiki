@@ -43,7 +43,7 @@ In its profile of Tennessee's TN ALL Corps, the brief reports the department's o
 
 
 ## Related Claims
-- [At least 17 states committed relief funds to targeted intensive tutoring in their US Department of Education plans](17-states-committed-relief-funds-intensive-tutoring.md) — related
+- At least 17 states committed relief funds to targeted intensive tutoring in their US Department of Education plans — related
 - [Sites offering tutoring during school were much more likely than out-of-school-hours sites to offer tutoring more than twice a week](ontrack-timing-frequency-association.md) — related
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
 - [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](coursemojo-consistent-use-stronger-outcomes.md) — related

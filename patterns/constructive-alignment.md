@@ -24,7 +24,7 @@ grain_size: course, program
 # Constructive Alignment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 14 studies (5 quant-synthesis, 3 theoretical, 2 causal, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 17 studies (5 quant-synthesis, 3 causal, 3 associational, 3 theoretical, 2 review, 1 qualitative), `q1`–`q4` · 8 of 17 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -173,8 +173,6 @@ Course or program — alignment is a system property; a single aligned lesson in
 
 ### Claims
 
-- [The finding that single-discipline course takers perform as well as peers despite instruction-assessment mismatch runs counter to prevailing alignment assumptions](../claims/alignment-assumption-complicated-by-growth-findings.md) [-W]
-- [Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)](../claims/objective-assessment-alignment-theory-advantage.md) [~W]
 
 #### Supporting
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-impro
@@ -219,3 +217,9 @@ The article's central design recommendation is that practice should be built int
 ## Key Sources
 - Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 -->
+
+## Claims
+
+- [The finding that single-discipline course takers perform as well as peers despite instruction-assessment mismatch runs counter to prevailing alignment assumptions](../claims/alignment-assumption-complicated-by-growth-findings.md) [-W]
+- [Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)](../claims/objective-assessment-alignment-theory-advantage.md) [~W]
+- [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](../claims/task-demand-mapping-specificity-ai-use.md) [+W]

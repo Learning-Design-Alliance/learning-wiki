@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 7 studies (3 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 4 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -40,6 +40,9 @@ Information literacy is the element in which learners identify information needs
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](../claims/distributed-epistemic-agency-machine-authority.md) [+W] — attached 2026-10-12 from Voicu (2026), which proposed "Critical AI Literacy (technical, epistemic, and ethical dimensions)".
+- [Automation bias toward fluent LLM output surrenders learners' epistemic agency](../claims/automation-bias-surrenders-epistemic-agency.md) [~W]
+- [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](../claims/anxiety-effect-localized-to-evaluative-subdimensions.md) [~W]
+- [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](../claims/high-trust-limited-critical-evaluation-genai.md) [-W]
 
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)

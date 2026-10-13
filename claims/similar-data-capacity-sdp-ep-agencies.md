@@ -48,6 +48,6 @@ Overall finding of the Year 2 case-study study team: capacity for data use was "
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-staff-placement-capacity-theory-of-action.md) — related
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — related
-- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
+- Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training — related
 - [Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies](data-infrastructure-alone-insufficient-for-data-driven-decisions.md) — related
-- [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related
+- Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings — related

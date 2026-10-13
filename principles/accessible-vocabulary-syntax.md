@@ -23,7 +23,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 20 studies (7 causal, 5 review, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 24 studies (7 causal, 5 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -92,6 +92,13 @@ For example, an adult returning to study in a health-care programme may value re
 The model should weaken if well-controlled comparisons of simplified against original wording, with content held constant, show no comprehension advantage for learners whose responses suggested a language barrier, or show that simplification lowers later performance on authentic texts. If prior topic knowledge consistently explains comprehension better than wording, as one cohesion study suggests, the first move should be building knowledge, not rewriting text. If explicit term teaching keeps helping only the taught words, keep that limit rather than claiming general reading gains. Do not protect the model by calling every failure on authentic text a fading problem.
 
 Immediate comprehension of a simplified text, comprehension of the original, delayed retention and unaided use of the language in the setting the learner values are separate claims. The present evidence does not establish how much to simplify, which syntactic features matter, or when to withdraw supports.
+
+## Claims
+
+- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](../claims/linguistic-simplification-improves-math-performance.md) [+W]
+- [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [+W]
+- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](../claims/simplification-and-glossary-supported-second-cycle-gains.md) [+W]
+- [International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility](../claims/service-term-international-comprehensibility.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage
@@ -175,9 +182,6 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
-- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](../claims/linguistic-simplification-improves-math-performance.md) [+W]
-- [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](../claims/ai-helper-usability-obstacles.md) [+W]
-- [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](../claims/simplification-and-glossary-supported-second-cycle-gains.md) [+W]
 
 ## Description
 The package holds that written workplace genres (narrative, informal, instructional, imperative) each demand different reading skills, and that "Many writers of instructional or imperative material lose sight of the reading skills of their intended audience and hence the material becomes incomprehensible". Supervisors therefore practise converting officialese and jargonistic training text into Plain English, selecting style according to audience and purpose.

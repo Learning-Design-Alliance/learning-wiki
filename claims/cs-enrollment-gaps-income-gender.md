@@ -44,9 +44,9 @@ Self-reported enrollment figures quoted from one district's application to the p
 
 ## Related Claims
 - [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
-- [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — a narrower finding that bears on this claim
-- [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
-- [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
+- Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — a narrower finding that bears on this claim
+- Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS — related
+- Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — a narrower finding that bears on this claim
-- [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
-- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
+- Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains — related
+- San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender — a broader claim this one bears on

@@ -119,3 +119,4 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — a narrower finding that bears on this claim
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — a narrower finding that bears on this claim
 - [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — possibly the same claim (merge candidate)
+- [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — a narrower finding that bears on this claim

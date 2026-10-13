@@ -44,5 +44,5 @@ Re-analysis of spring 1998 Chicago Public Schools ITBS data, separating first-ti
 
 ## Related Claims
 - [Grade-by-grade adjustment magnitudes: removing retained students raises third grade scores about one month in reading and half a month in math, while adjusted fourth grade scores fall about two months in reading and one and a half months in math](grade-specific-adjustment-magnitudes.md) — a narrower finding that bears on this claim
-- [Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously distort the results](systemwide-itbs-still-up-after-retention-adjustment.md) — related
-- [Retained students made up 15 percent of tested third graders, 10 percent of sixth graders, and 4.6 percent of eighth graders in 1998](retained-student-proportions-1998.md) — related
+- Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously distort the results — related
+- Retained students made up 15 percent of tested third graders, 10 percent of sixth graders, and 4.6 percent of eighth graders in 1998 — related

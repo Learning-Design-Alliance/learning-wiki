@@ -44,5 +44,5 @@ Figure 3 analysis of MiC elementary schools grouped into four 2015 baseline achi
 
 ## Related Claims
 - [Elementary schools in Math in Common districts exceeded predicted CAASPP mathematics performance at significantly higher rates than other California schools between 2016 and 2018](mic-elementary-schools-exceed-predicted-caaspp.md) — a broader claim this one bears on
-- [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related
-- [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
+- Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains — related
+- MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts — related

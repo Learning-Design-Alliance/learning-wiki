@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (14 for) · 9 studies (4 associational, 2 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q3` · 0 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 26 claims (24 for, 1 mixed, 1 against) · 17 studies (6 associational, 5 review, 3 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 0 of 17 report an effect size · 26 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -52,6 +52,18 @@ The five essential supports framework specifies five school- or center-level org
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](../claims/high-school-attendance-strong-5essentials-measures.md) [+W]
 - [Supportive school environments and strong teacher-student relationships speed recovery from learning loss](../claims/supportive-environments-relationships-speed-recovery.md) [+W]
 - [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](../claims/school-climate-setting-level-indicator-five-supports.md) [+W]
+- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](../claims/five-essential-supports-ten-times-substantial-gains.md) [+W]
+- [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
+- [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](../claims/nm-community-schools-improved-outcomes-three-sites.md) [+W]
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+W]
+- [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](../claims/positive-school-climate-improves-attendance-achievement.md) [+W]
+- [Teachers improve faster in supportive professional environments, with gaps widening over time](../claims/supportive-environments-faster-teacher-improvement.md) [+W]
+- [As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students](../claims/instructional-leadership-pd-underserved-students.md) [+W]
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](../claims/california-principal-preparation-pd-outcomes.md) [+W]
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](../claims/chrsi-teachers-higher-trust-collaboration-survey.md) [+W]
+- [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](../claims/effective-principals-positive-student-outcomes.md) [+W]
+- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](../claims/leadership-improvement-key-questions.md) [~W]
+- [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](../claims/within-school-direct-negative-leadership-academic-demand.md) [-W]
 
 ## Related Theories
 

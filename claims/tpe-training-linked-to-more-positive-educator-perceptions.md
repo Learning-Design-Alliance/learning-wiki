@@ -44,6 +44,6 @@ Statewide web survey of 16,314 Maryland educators from 23 districts (response ra
 
 ## Related Claims
 - [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related
-- [Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)](newer-teachers-more-positive-about-tpe-than-veterans.md) — related
-- [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
+- Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years) — related
+- Principals are generally more positive about TPE than teachers, but perception gaps are narrowing — related
 - [About 45% of teachers still report needing further TPE-related training despite year-over-year improvement](teachers-need-further-tpe-training.md) — related

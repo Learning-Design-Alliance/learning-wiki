@@ -46,9 +46,9 @@ The brief asserts, citing research without printing studies or effect sizes, tha
 ## Related Claims
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — possibly the same claim (merge candidate)
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
-- [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
-- [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
-- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
-- [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
+- Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families — related
+- Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession — related
+- Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover — related
+- Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving — related
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-brief-assertion.md) — a narrower finding that bears on this claim
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-regardless-of-race.md) — related

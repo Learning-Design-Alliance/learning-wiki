@@ -44,4 +44,4 @@ The brief's overview lists prior negative experiences with educational instituti
 
 ## Related Claims
 - [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
-- [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
+- ELL parents generally place a high value on their children's education — related

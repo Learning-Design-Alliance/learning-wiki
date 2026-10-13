@@ -45,7 +45,7 @@ IPW propensity-score analysis of Chicago Public Schools administrative records f
 ## Related Claims
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](class-peer-achievement-lowers-grades.md) — related
-- [Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school](top-tier-nonselective-schools-raise-act-scores.md) — related
+- Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
-- [CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools](grades-consistent-across-cps-high-schools.md) — related
-- [Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools](lower-gpas-at-higher-performing-schools.md) — a broader claim this one bears on
+- CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools — related
+- Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools — a broader claim this one bears on

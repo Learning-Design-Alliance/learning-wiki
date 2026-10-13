@@ -43,4 +43,4 @@ Survey finding on remote-learning professional development (Figure 20), compared
 
 
 ## Related Claims
-- [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties — related

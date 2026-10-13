@@ -47,4 +47,4 @@ A conceptual position statement from the article's abstract: AES is explicitly f
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — a broader claim this one bears on
 - [Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics](breakthrough-expanded-participation-new-evidence-forms.md) — a broader claim this one bears on
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
-- [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
+- The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months — related

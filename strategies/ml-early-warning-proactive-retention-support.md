@@ -17,7 +17,7 @@ sources:
 # Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that institutions use machine learning predictions of withdrawal risk to trigger timely, personalized support (academic guidance, financial assistance, mentorship) before students leave. It contrasts this with current practice: traditional methods "function reactively because they detect at -risk students only after they demonstrate academic difficulties." Early identification is presented as enabling proactive support systems and better institutional decision-making.
@@ -36,6 +36,10 @@ The article recommends that institutions use machine learning predictions of wit
 
 ### Target Learning Goals
 - student retention and timely completion of academic programs
+
+## Claims
+
+- [Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)](../claims/proactive-tutoring-larger-relative-map-growth.md) [~W]
 
 ## Related Strategies
 

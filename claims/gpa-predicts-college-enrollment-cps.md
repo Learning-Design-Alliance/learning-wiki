@@ -66,5 +66,5 @@ Same Figure 5 GPA analysis. The report concludes grades are an important lever f
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — a broader claim this one bears on
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — related
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
-- [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
+- Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended — related
 - [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related

@@ -17,7 +17,7 @@ sources:
 # Screen multilingual students in multiple languages where possible, choosing screener languages informed by students' instructional contexts and home language use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 As the state prepares to approve screeners in languages other than English for 2026/27, the brief recommends reinforcing guidance to screen multilingual students in multiple languages where possible, particularly in the earliest grades. It advises that "Students should be screened only in languages that make sense for their context," meaning languages students use at home or at school in a DLBE program, and that choices about screener languages and frequency should be informed by students' instructional contexts, taking testing time into account.
@@ -39,6 +39,10 @@ As the state prepares to approve screeners in languages other than English for 2
 
 ### Affordances
 - Five Cluster El Screening Practice Typology
+
+## Claims
+
+- [Screening language practices are related to English language education program type: SEI students were mostly screened in English while DLBE students were more often screened in Spanish or alternately](../claims/screening-language-tied-to-ele-program-type.md) [+W]
 
 ## Related Strategies
 

@@ -43,9 +43,9 @@ Student subgroup analysis for ELL students, 2018-19, rows comparing with ELL stu
 
 
 ## Related Claims
-- [Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19](houston-charter-beats-district-reading-and-math-2018-19.md) — a broader claim this one bears on
-- [Black students in Houston charter and magnet schools outperformed Black students in Houston district schools in reading and math](houston-black-students-charter-magnet-beat-district.md) — related
+- Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19 — a broader claim this one bears on
+- Black students in Houston charter and magnet schools outperformed Black students in Houston district schools in reading and math — related
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related
-- [Houston magnet schools outperformed district schools in reading but not in math in 2018-19](houston-magnet-reading-advantage-not-math-2018-19.md) — related
+- Houston magnet schools outperformed district schools in reading but not in math in 2018-19 — related
 - [Austin charter ELL students outperformed Austin district ELL students in reading growth](austin-charter-ell-students-reading-advantage.md) — related
-- [Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19](newark-charter-ell-growth-vs-state.md) — related
+- Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19 — related

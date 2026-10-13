@@ -43,5 +43,5 @@ Descriptive participation rates by eligibility index score among eligible studen
 
 
 ## Related Claims
-- [28% of eligible CPS students participated in Chicago Connected by May 2021](chicago-connected-28-percent-eligible-participated.md) — related
-- [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
+- 28% of eligible CPS students participated in Chicago Connected by May 2021 — related
+- Students with greater economic need participated at higher rates in Chicago Connected — related

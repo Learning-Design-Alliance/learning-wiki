@@ -17,7 +17,7 @@ sources:
 # Integrate explicit error correction with meaningful activities when developing both accuracy and fluency
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article concludes that L2 classrooms aiming at both accuracy and fluency should combine form-focused work, including explicit error correction, with meaning-focused activity. It states there is consensus that "form-focused activities including explicit error correction must be integrat ed with meaningful activities." In the study this took the form of corrective feedback delivered during a spot-the-difference task rather than in isolated grammar practice.
@@ -42,6 +42,7 @@ The article concludes that L2 classrooms aiming at both accuracy and fluency sho
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [+W]
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~W]
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W]
+- [CF treatment improved regular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-regular-past-tense-gjt-eit.md) [+W]
 
 ## Related Principles
 

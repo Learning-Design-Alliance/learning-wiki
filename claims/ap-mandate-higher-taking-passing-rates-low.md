@@ -45,8 +45,8 @@ Descriptive comparative analysis of student AP exam taking and passing rates in 
 
 ## Related Claims
 - [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
-- [Fewer than one-fifth of DCPS AP teachers participated in the APSI at least once every three years](fewer-one-fifth-ap-teachers-apsi-every-three-years.md) — related
-- [About half of DCPS AP teachers with a recorded college major had a major aligned with their AP course, and 70 percent had a major aligned with the broader subject area](ap-teacher-major-alignment-half-course-70-percent-subject-area.md) — related
+- Fewer than one-fifth of DCPS AP teachers participated in the APSI at least once every three years — related
+- About half of DCPS AP teachers with a recorded college major had a major aligned with their AP course, and 70 percent had a major aligned with the broader subject area — related
 - [Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains](mandated-rigor-policies-adverse-consequences.md) — related
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
-- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation — related

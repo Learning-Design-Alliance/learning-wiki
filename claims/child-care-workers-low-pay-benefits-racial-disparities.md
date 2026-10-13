@@ -43,4 +43,4 @@ The report compiles workforce statistics, citing the Center for the Study of Chi
 
 
 ## Related Claims
-- [Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers](child-care-providers-four-key-challenge-areas.md) — related
+- Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers — related

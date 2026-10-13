@@ -43,4 +43,4 @@ Cross-tabulation of self-reported baseline mechanics AI use against midterm grad
 
 
 ## Related Claims
-- [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related
+- Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly — related

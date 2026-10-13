@@ -1,0 +1,53 @@
+---
+type: claim
+title: Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
+description: Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
+id: interleaved-practice-higher-math-test-scores
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-13
+evidence_strength: strong
+sources:
+  - id: rohrer-2015
+    resource: "https://doi.org/10.1037/edu0000001"
+    title: "Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900-908. https://doi.org/10.1037/edu0000001"
+    author: "Rohrer, D., Dedrick, R. F., & Stershic, S."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+
+## Subclaims
+`q3 i3` Across both test delays, interleaved practice outperformed blocked practice on an unannounced test, with a statistically significant omnibus effect (η² = .165). [→ Rohrer 2015](#rohrer-2015)
+
+## Evidence
+
+### Rohrer 2015
+
+Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves mathematics learning. Journal of Educational Psychology, 107(3), 900-908. https://doi.org/10.1037/edu0000001
+
+`q3 · i3` · `causal · r2`
+
+Classroom experiment with 126 seventh-graders practicing the same graph and slope problems for 3 months, arranged interleaved or blocked (counterbalanced within subject). The two-way ANOVA showed interleaving superior, with printed partial eta squared η² = .165 (large by the .14 threshold).
+
+> "A two-way analysis of variance (with practice schedule as a within-subject variable and test delay as a between-subjects variable) showed that interleaved practice was superior to blocked practice, F(1, 124) /H1100524.43, p /H11021.001, /H9257p2 /H11005 .165"
+
+## Discussion
+
+
+## Related Claims
+- [At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)](interleaved-benefit-one-day-delay-d042.md) — related
+- [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related
+- [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
+- [Interleaved practice provided near immunity against forgetting over a 30-fold increase in test delay](interleaved-practice-near-immunity-forgetting.md) — related
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
+- [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Interleaved practice produces a moderate overall benefit for inductive category learning compared with blocked practice](moderate-overall-interleaving-effect.md) — a broader claim this one bears on

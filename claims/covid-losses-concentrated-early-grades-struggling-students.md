@@ -43,7 +43,7 @@ The brief states, without citing specific studies in the supplied text, that "Le
 
 
 ## Related Claims
-- [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — a narrower finding that bears on this claim
+- The lowest-performing middle school readers fell further behind during post-COVID recovery — a narrower finding that bears on this claim
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — a narrower finding that bears on this claim
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — a broader claim this one bears on

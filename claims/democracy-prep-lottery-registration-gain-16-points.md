@@ -49,4 +49,4 @@ Randomized experimental analysis matching Democracy Prep admissions-lottery reco
 - [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](democracy-prep-increases-voting-rates-12-points.md) — related
 - [Enrolling in Democracy Prep increases student voting rates in the 2016 election by about 12 percentage points](democracy-prep-lottery-voting-gain-12-points.md) — related
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — a broader claim this one bears on
-- [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related
+- U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling — related

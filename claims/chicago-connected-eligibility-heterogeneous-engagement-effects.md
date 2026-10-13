@@ -47,7 +47,7 @@ OLS models predicting the fall 2020 engagement index as a function of program el
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate](chicago-connected-eligibility-and-participation-rates.md) — related
+- About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate — related
 - [Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-engagement-effects.md) — related
 - [Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-gpa-effects.md) — related
 - [Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the full analytic sample, with no variation by pre-pandemic academic performance](chicago-connected-eligibility-lower-gpa-full-sample.md) — related

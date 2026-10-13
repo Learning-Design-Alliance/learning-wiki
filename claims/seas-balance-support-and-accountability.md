@@ -43,11 +43,11 @@ Interview finding across the 10 SEAs. Vermont leaders emphasized "forging relati
 
 
 ## Related Claims
-- [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
-- [An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration.](four-sea-lea-role-categories-essa-plans.md) — related
-- [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
+- Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind. — related
+- An analysis of 23 state ESSA plans identified four main categories of SEA and LEA roles in school improvement: LEA Independence, SEA Oversight, SEA Resource, and SEA–LEA Collaboration. — related
+- The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans. — related
 - [SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.](seas-take-multiple-malleable-roles.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
-- [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
-- [Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact](sea-data-use-for-support-refinement-nascent.md) — related
-- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related
+- SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies. — related
+- Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact — related
+- SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related

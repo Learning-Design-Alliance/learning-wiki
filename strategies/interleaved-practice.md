@@ -59,9 +59,11 @@ Interleaving trades short-term performance for long-term retention and transfer:
 6. Warn learners that mixed practice feels harder and produces more errors, and explain why that difficulty is productive — otherwise they will judge it ineffective and disengage.
 
 ## Related Strategies
+
 - Spaced practice — interleaved schedules inherently distribute practice; the two are usually confounded and mutually reinforcing
 - Retrieval practice — interleaved sets work best when items are solved from memory rather than by rereading notes
 - Comparing contrasting cases — interleaving enacts the same discrimination mechanism at the level of practice scheduling
+- [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 
 ## Examples
 - **Rohrer, Dedrick, and Stershic (2015)** — In real mathematics classrooms, worksheets that interleaved graphing, volume, and slope problems produced dramatically better delayed test scores (about 80% vs. 64%) than blocked worksheets with identical problems.

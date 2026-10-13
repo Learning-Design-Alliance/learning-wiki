@@ -47,3 +47,4 @@ Comparison of two deployed LLM tutors using DAMR across eight pedagogical dimens
 - [MisconceptionTutor's advantage in feedback success (SuccScore) is mixed: substantial on earlier assignments, diminishing or reversing on later ones](succscore-improvement-mixed-across-assignments.md) — related
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
 - [Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most](emotion-aware-prompting-improves-pedagogical-quality.md) — related
+- [ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions](its-effect-not-moderated-by-feedback-or-misconception-modeling.md) — related

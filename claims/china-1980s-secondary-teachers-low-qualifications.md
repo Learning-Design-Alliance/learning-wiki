@@ -43,5 +43,5 @@ The article cites an SEDC investigation reported in Zuo (1990) finding that "the
 
 
 ## Related Claims
-- [BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content](no-degree-difference-critical-approach-content.md) — related
+- BA, MA and PhD teachers do not differ significantly in awareness of a critical approach to EFL classroom content — related
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](china-middle-school-teachers-used-traditional-methods-late-1980s.md) — related

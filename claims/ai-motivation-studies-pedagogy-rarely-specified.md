@@ -43,5 +43,5 @@ The review's charting of pedagogical approaches (Table S6) across included studi
 
 
 ## Related Claims
-- [CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented](cai-utilization-concentrated-pedagogical-applications.md) — related
+- CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented — related
 - [Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined](ai-motivation-studies-short-duration-novelty-effect.md) — related

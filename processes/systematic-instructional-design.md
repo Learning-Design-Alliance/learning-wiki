@@ -14,7 +14,7 @@ grain_size: course
 # Systematic Instructional Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 6 studies (5 quant-synthesis, 1 theoretical), `q2`–`q4` · 5 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 against) · 7 studies (5 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Systematic instructional design treats a course as a system whose parts must be derived from a stated goal and checked against it. The lineage runs from Gagné's analysis of learning conditions through the military and industrial training models of the 1970s to ADDIE — Analysis, Design, Development, Implementation, Evaluation — and to Dick & Carey's *systematic design of instruction*, which is the fullest published expression of it.
@@ -63,6 +63,9 @@ Its defining commitment is **derivation**: nothing enters the course that cannot
 - [Situated Learning](../theories/situated-learning.md) — subordinate skills taught out of context transfer poorly to the setting that motivated them
 
 ### Claims
+
+- [Follow-up evaluation, needs assessment and task analysis are performed least often and considered least necessary](../claims/least-performed-steps-least-necessary.md) [-W]
+
 #### Supporting
 - [Goal setting improves performance.](../claims/goal-setting-improves-performance.md) [+M] — the case for stating the target before designing toward it
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — what makes formative evaluation a revision instrument

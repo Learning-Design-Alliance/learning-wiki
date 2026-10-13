@@ -65,5 +65,5 @@ Administrator ratings of coach professional development qualities (Figures 19 an
 - [Fewer than half of coaches are funded at consistent multi-year rates, primarily through Title II federal funds](coach-funding-inconsistent-title-ii.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
-- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
-- [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
+- American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities — related
+- Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color — related

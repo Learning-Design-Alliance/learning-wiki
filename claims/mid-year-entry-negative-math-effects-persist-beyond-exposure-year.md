@@ -44,7 +44,7 @@ The longitudinal NYC analysis finds that "mid-year entry continues to negatively
 
 ## Related Claims
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
-- [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — related
+- Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics — related
 - [Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC](mid-year-entry-small-negative-short-run-effects-stable-students.md) — related
 - [Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves](sparse-research-spillovers-mid-year-entry-stable-classmates.md) — related
-- [Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry](disadvantaged-students-disproportionately-exposed-mid-year-entry.md) — related
+- Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry — related

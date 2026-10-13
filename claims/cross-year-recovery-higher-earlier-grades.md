@@ -49,4 +49,4 @@ Cross-year analysis of 855 students with BOY scores in 2020/21 and EOY scores in
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related
 - [Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark](boy-risk-40-percent-recover-by-eoy.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
-- [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
+- Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points — related

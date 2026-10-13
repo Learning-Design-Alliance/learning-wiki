@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 32 report an effect size · 7 claims rest on one study
+> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 32 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,10 @@ The expectation should weaken if studies of organizers other than concept maps (
 
 A filled-in organizer, immediate comprehension, delayed retention, transfer and use in the learner's own task are separate claims. The present evidence sets no organizer size, no proportion of blanks, and no criterion for withdrawing the organizer.
 
+## Claims
+
+- [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
+
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.
 - [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
@@ -220,7 +224,6 @@ Graphic organizers help when the structure of a task matters as much as its cont
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — organizers reduce working-memory burden by making categories, sequence, and relationships externally visible
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — organizers teach more when learners explain how the visual structure represents the idea or task
-- [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

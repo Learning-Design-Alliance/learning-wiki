@@ -43,5 +43,5 @@ The report's research synthesis in the executive summary and introduction, which
 
 
 ## Related Claims
-- [Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one](46-states-stand-alone-ec-credential-19-require-it.md) — a narrower finding that bears on this claim
+- Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one — a narrower finding that bears on this claim
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related

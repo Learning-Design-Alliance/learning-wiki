@@ -30562,5 +30562,281 @@
  "worked-examples\tunassisted discovery\tworked examples": {
   "label": "worked examples vs unassisted discovery",
   "treatment_is_a": false
+ },
+ "autonomy-support\tflexible learning pathways with learner autonomy\ttraditional fixed educational pathways": {
+  "label": "autonomy-supportive vs autonomy-restrictive learning environments",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearning environments that allow learners to explore, decide, and reflect\tlearners as passive recipients of information": {
+  "label": "autonomy-supportive vs autonomy-restrictive learning environments",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgrammar instruction and skill drills\tnot stated": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tITS not providing feedback\tnon-ITS learning environment": {
+  "label": "ITS without feedback vs non-ITS learning environment",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tITS providing feedback\tnon-ITS learning environment": {
+  "label": "ITS with feedback vs non-ITS learning environment",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback mechanisms and increased professional accountability\tless feedback and historically underutilized professional accountability": {
+  "label": "More feedback and accountability vs less feedback and accountability",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttargeted feedback addressing the true misconception\tmisaligned and generic feedback": {
+  "label": "targeted misconception feedback vs generic misaligned feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdata-informed monitoring, reflection, and adaptation of supports\treviewing improvement plans without meaningful action": {
+  "label": "responsive formative assessment vs nonresponsive formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tusing formative assessment to adjust subsequent learning\tnot stated": {
+  "label": "formative assessment used to adjust subsequent learning vs no formative-assessment adjustment",
+  "treatment_is_a": true
+ },
+ "media-design\tconcurrent spoken–written presentation\tspoken-only or written-only presentation": {
+  "label": "spoken-written vs spoken-only or written-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tnonsegmented spoken–written presentations\tsegmented spoken–written presentations": {
+  "label": "nonsegmented vs segmented presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written presentation\tspoken-only presentation": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written presentation\twritten-only presentation": {
+  "label": "spoken-written vs written-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written with animation\tspoken-only with animation": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written with images\tspoken-only with images": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written without animation\tspoken-only without animation": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken-written without images\tspoken-only without images": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken–written presentation\tspoken-only or written-only presentation": {
+  "label": "spoken-written vs spoken-only or written-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken–written presentation\tspoken-only presentation": {
+  "label": "spoken-written vs spoken-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken–written presentation\twritten-only presentation": {
+  "label": "spoken-written vs written-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken–written presentation, learner-paced\tspoken-only or written-only presentation": {
+  "label": "spoken-written vs spoken-only or written-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken–written presentation, system-paced\tspoken-only or written-only presentation": {
+  "label": "spoken-written vs spoken-only or written-only presentation",
+  "treatment_is_a": true
+ },
+ "prompts\tCoT prompting\t44% prevalence threshold": {
+  "label": "CoT prompting vs 44% prevalence threshold",
+  "treatment_is_a": true
+ },
+ "prompts\tmulti-turn reflection before feedback\tsingle-turn interaction": {
+  "label": "Multi-turn reflection before feedback vs single-turn interaction",
+  "treatment_is_a": true
+ },
+ "prompts\treflective prompt encouraging assessment of feedback relevance\tbase student-persona prompt": {
+  "label": "Reflective feedback-relevance prompt vs base student-persona prompt",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\trewards and consequences to modify behavior\tnot using rewards and consequences": {
+  "label": "Rewards and consequences vs no rewards and consequences",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured GenAI training\tproblem-solving instruction without specific AI guidance": {
+  "label": "structured GenAI training vs unguided problem-solving",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10 generic-pool PTA traits added to prior outcome\tprior exam average only": {
+  "label": "PTA traits added to prior outcome vs prior exam average only",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10 lens-ensemble PTA traits added to prior outcome\tprior exam average only": {
+  "label": "Lens-ensemble PTA traits added to prior outcome vs prior exam average only",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10 repeated runs with default sampling\tfixed-prompt evaluation without sampling": {
+  "label": "Default sampling with repeated runs vs fixed-prompt evaluation without sampling",
+  "treatment_is_a": true
+ },
+ "technology-tool\t18 LLMs grading the same programming submissions\tcomparisons among the 18 LLMs": {
+  "label": "LLM grading of submissions vs comparison among LLMs",
+  "treatment_is_a": true
+ },
+ "technology-tool\t1:1 human and synthetic responses\tunspecified item-calibration baseline": {
+  "label": "Human-and-synthetic response calibration vs unspecified item-calibration baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2024 SDPBL cohort with greater generative-AI availability\t2022 SDPBL cohort": {
+  "label": "Greater generative-AI availability vs lower generative-AI availability",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2024 SDPBL cohort with greater generative-AI availability\t2023 SDPBL cohort": {
+  "label": "Greater generative-AI availability vs lower generative-AI availability",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2025 scoring using prompts developed from 2024 data\t2024 scoring performance": {
+  "label": "Scoring with prompts developed from later data vs prior-year scoring performance",
+  "treatment_is_a": true
+ },
+ "technology-tool\t30 days of practice with the closed-loop intelligent tutoring system\tpretest before system practice": {
+  "label": "Closed-loop ITS practice vs pretest before system practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\t30-day closed-loop ITS practice with multimodal feedback\tpretest before ITS use": {
+  "label": "Closed-loop ITS practice with multimodal feedback vs pretest before system use",
+  "treatment_is_a": true
+ },
+ "technology-tool\t30-minute capped-gap rule\t60-minute capped-gap sensitivity analysis": {
+  "label": "30-minute capped gap vs 60-minute capped gap",
+  "treatment_is_a": true
+ },
+ "technology-tool\t31 specific dialogue-act count features\tprior-score baseline": {
+  "label": "Dialogue-act count features vs prior-score baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3B LoRA fine-tuned model at r=8 or r=16\t3B base model": {
+  "label": "LoRA fine-tuned model vs base model",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-bit and lower-bit quantised models\t8-bit quantised model": {
+  "label": "Lower-bit quantisation vs 8-bit quantisation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-bit quantized local 27B Teacher LLM\tlarge commercial API": {
+  "label": "Local quantised teacher LLM vs large commercial API",
+  "treatment_is_a": true
+ },
+ "technology-tool\t50% pruning rate\t0% pruning rate": {
+  "label": "50% pruning vs no pruning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t60-minute Prompt Coach learning session\tbaseline prompt writing without Prompt Coach": {
+  "label": "Prompt Coach vs baseline prompt writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\t60-minute learning session using Prompt Coach\tbaseline prompt writing without prior exposure to Prompt Coach": {
+  "label": "Prompt Coach vs baseline prompt writing without prior Prompt Coach exposure",
+  "treatment_is_a": true
+ },
+ "technology-tool\t75% pruning rate\t0% pruning rate": {
+  "label": "75% pruning vs no pruning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-bit quantised fine-tuned LLM (Q8)\t4-bit and 5-bit quantised fine-tuned LLMs (Q4/Q5)": {
+  "label": "8-bit quantisation vs 4- and 5-bit quantisation",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved graph-problem practice\tblocked graph-problem practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice\tblocked practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved slope-problem practice\tblocked slope-problem practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "media-design\tcaptioned second-language videos\tuncaptioned second-language videos": {
+  "label": "captioned vs uncaptioned videos",
+  "treatment_is_a": true
+ },
+ "media-design\tcaptioned videos, especially second-language videos\tuncaptioned videos": {
+  "label": "captioned vs uncaptioned videos",
+  "treatment_is_a": true
+ },
+ "media-design\tmaterials presented contiguously\tmaterials presented non-contiguously": {
+  "label": "contiguous vs non-contiguous multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tmodality design\tnon-modality multimedia design": {
+  "label": "modality-based multimedia design vs non-modality multimedia design",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design interventions\tcomparison multimedia designs": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles\tcomparison multimedia designs": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in complex media\tcomparison conditions in complex media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in learner-paced media\tbaseline conditions in learner-paced media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in simple media\tcomparison conditions in simple media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in system-paced media\tbaseline conditions in system-paced media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia using audio for words alongside images\tmultimedia using text alongside images": {
+  "label": "spoken words with pictures vs written words with pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tpersonalised multimedia\tnon-personalised multimedia": {
+  "label": "personalised multimedia vs non-personalised multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaled multimedia\tunsignaled multimedia": {
+  "label": "signaled multimedia vs unsignaled multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaled or cued multimedia\tunsignaled multimedia": {
+  "label": "signaled multimedia vs unsignaled multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling cues\tno signaling cues": {
+  "label": "signaling cues vs no signaling cues",
+  "treatment_is_a": true
+ },
+ "media-design\tspatially contiguous design\tspatially distant design": {
+  "label": "spatially contiguous vs spatially distant design",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken words with pictures\twritten words with pictures": {
+  "label": "spoken words with pictures vs written words with pictures",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporally contiguous presentation\ttemporally separated presentation": {
+  "label": "temporally contiguous vs temporally separated presentation",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporally or spatially contiguous multimedia\tnon-contiguous multimedia": {
+  "label": "contiguous vs non-contiguous multimedia presentation",
+  "treatment_is_a": true
  }
 }

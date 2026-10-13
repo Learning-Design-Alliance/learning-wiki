@@ -17,7 +17,7 @@ sources:
 # Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Professionals interviewed emphasized the need for more trauma-informed approaches in education, citing California Senate Bill 274 (effective July 1, 2024), which prohibits suspensions based on lower-level "willful defiance" offenses. They noted such changes can remind school staff of the unique experiences of students in foster care and encourage greater use of trauma-informed behavioral supports before escalating disciplinary action to suspension. Students in foster care were consistently three times more likely to be suspended than all other groups.
@@ -36,6 +36,10 @@ Professionals interviewed emphasized the need for more trauma-informed approache
 
 ### Target Learning Goals
 - Reduced exclusionary discipline and preserved learning time
+
+## Claims
+
+- [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](../claims/suspension-lower-test-scores-days-related.md) [-W]
 
 ## Related Strategies
 

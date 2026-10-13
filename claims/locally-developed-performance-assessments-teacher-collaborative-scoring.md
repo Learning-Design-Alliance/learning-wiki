@@ -61,7 +61,7 @@ Interview finding on scoring practice: teachers "develop and calibrate the scori
 
 
 ## Related Claims
-- [POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts](pog-development-approaches-vary-state-versus-district.md) — related
+- POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts — related
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](performance-assessments-expand-mastery-demonstration-opportunities.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related

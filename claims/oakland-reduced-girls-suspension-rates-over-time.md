@@ -44,7 +44,7 @@ Ed Trust calculations of Oakland Unified suspension data 2012–2019 show gradua
 
 ## Related Claims
 - [Chicago policy changes coincided with steep drops in suspensions and expulsions for girls of color](chicago-policy-changes-reduced-suspensions-expulsions.md) — related
-- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related
+- Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related
 - [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
-- [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — a broader claim this one bears on
+- Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions — a broader claim this one bears on
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related

@@ -46,6 +46,6 @@ Thematic synthesis of challenge themes by agent type across the 34 reviews (RQ2)
 ## Related Claims
 - [CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support](cai-framework-gaps-design-guidance-usability-ai-literacy.md) — related
 - [CAI-in-education review literature is concentrated in higher education and in language, health, and general education domains](cai-review-literature-higher-education-concentration.md) — related
-- [CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented](cai-utilization-concentrated-pedagogical-applications.md) — related
+- CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented — related
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related

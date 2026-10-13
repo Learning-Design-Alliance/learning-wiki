@@ -44,6 +44,6 @@ Panel-position statement describing the project team's interpretive account (typ
 
 ## Related Claims
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — a broader claim this one bears on
-- [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
+- Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization — related
 - [Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned](eky-teachers-shifted-learner-to-trainer.md) — related
 - [Connecting CT education to real community opportunities is powerful for teachers and students](connect-ct-to-community-opportunities.md) — related

@@ -49,7 +49,7 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — a broader claim this one bears on
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related
-- [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](llm-redistributed-labor-rules-leave-interpretation-responsibility.md) — related
+- LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice — related
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities](invisible-learning-beyond-ai-answers.md) — related

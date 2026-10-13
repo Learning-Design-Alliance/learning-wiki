@@ -43,10 +43,10 @@ The report cites existing research showing these signals hurt motivation and con
 
 
 ## Related Claims
-- [Nearly 80% of U.S. principals are White, so students of color are far less likely than White peers to encounter a leader matching their race or ethnicity](principals-nearly-80-percent-white.md) — related
-- [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
-- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
-- [Low-income and first-generation students are less likely to complete high school and attend college](low-income-first-gen-less-likely-complete-high-school-college.md) — related
+- Nearly 80% of U.S. principals are White, so students of color are far less likely than White peers to encounter a leader matching their race or ethnicity — related
+- Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating. — related
+- African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications. — related
+- Low-income and first-generation students are less likely to complete high school and attend college — related
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related
-- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related

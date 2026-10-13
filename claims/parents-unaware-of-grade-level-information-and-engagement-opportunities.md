@@ -43,5 +43,5 @@ Nationally representative polling conducted by EdTrust, reported in the brief's 
 
 
 ## Related Claims
-- [Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it](half-parents-lack-grade-level-expectation-information.md) — related
+- Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it — related
 - [Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options](parents-want-virtual-engagement-continued.md) — related

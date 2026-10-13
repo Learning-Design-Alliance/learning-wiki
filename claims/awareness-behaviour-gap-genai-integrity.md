@@ -63,6 +63,6 @@ The review reports Ofem et al.'s (2025) structural equation modelling of 4,679 N
 
 ## Related Claims
 - [Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas](genai-use-ethical-spectrum-grey-area.md) — related
-- [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
+- The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [Research on student voices on academic integrity in GenAI use is nascent and methodologically immature, with most instruments self-developed and all reviewed studies cross-sectional](nascent-methodology-genai-integrity-research.md) — related

@@ -61,10 +61,10 @@ Reporting bias assessment based on analysis of publication trends and geographic
 - [AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally](ai-service-delivery-improves-responsiveness-satisfaction.md) — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
+- Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related
 - [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — a narrower finding that bears on this claim
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
 - [Experts from multiple world regions affirmed the need and value of academic integrity indicators but queried prospects for dissemination and adoption](experts-affirm-indicator-value-query-adoption.md) — related
 - [The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes](genai-global-south-literature-gaps.md) — a narrower finding that bears on this claim
-- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
-- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
+- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
+- Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts — related

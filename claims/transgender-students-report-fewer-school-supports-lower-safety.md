@@ -51,9 +51,9 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — a narrower finding that bears on this claim
 - [Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations](transgender-students-report-fewer-school-supports.md) — a narrower finding that bears on this claim
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — reports the opposite
-- [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
+- Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students — related
 - [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — a narrower finding that bears on this claim
-- [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
+- Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students — related
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
-- [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — related
+- Youth-led action research found that many California high school students did not feel cared for by adults at school — related

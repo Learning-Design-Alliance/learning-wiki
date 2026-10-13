@@ -45,13 +45,13 @@ Description of the NWEA research brief "Struggling adolescent readers left behin
 
 ## Related Claims
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
-- [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — possibly the same claim (merge candidate)
+- The lowest-performing middle school readers fell further behind during post-COVID recovery — possibly the same claim (merge candidate)
 - [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](map-growth-reading-turnaround-2025-2026-underserved-gains.md) — related
-- [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — possibly the same claim (merge candidate)
+- Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress — possibly the same claim (merge candidate)
 - [Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency](post-covid-classrooms-academically-diverse-more-students-off-track.md) — related
-- [NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading](post-covid-middle-school-reading-urgent-challenge.md) — a broader claim this one bears on
+- NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading — a broader claim this one bears on
 - [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](post-covid-reading-positive-turn-2026.md) — related
-- [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — related
+- Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains — related
 - [MAP Growth data show reading improvements after a period of post-COVID stagnation, with the largest 2025-2026 gains among historically underserved groups](reading-improvements-after-post-covid-stagnation.md) — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — a broader claim this one bears on

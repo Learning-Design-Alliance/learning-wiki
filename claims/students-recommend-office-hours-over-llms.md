@@ -63,5 +63,5 @@ Same Week 13 advice analysis: students also explicitly recommended trying proble
 
 ## Related Claims
 - [Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed](help-seeking-decline-then-rise-dura-semester.md) — related
-- [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
+- Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related

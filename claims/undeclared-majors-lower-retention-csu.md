@@ -43,4 +43,4 @@ Retention analysis by declared major for the 2017 and 2018 cohorts (Figure 10, a
 
 
 ## Related Claims
-- [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
+- Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort — related

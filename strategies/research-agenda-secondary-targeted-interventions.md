@@ -17,7 +17,7 @@ sources:
 # Research agenda: study long-run effects, non-English-speaking countries, and maths-targeted interventions, and improve control-group reporting and sample sizes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's authors recommend several improvements to the evidence base: more research on long-run effects, since only seven studies tested effects beyond three months; more research from non-English-speaking countries, since a large share of studies is from the United States, Canada, or the UK; and more maths-targeted interventions, which they call "a promising research agenda". They also recommend increasing the number of units and students in intervention and control groups, since many studies were excluded for high risk of bias, and describing control-group instruction in detail, since variation in control conditions is a likely source of effect size variation.
@@ -35,6 +35,10 @@ The review's authors recommend several improvements to the evidence base: more r
 
 ### Target Learning Goals
 - Reading and mathematics achievement on standardised tests
+
+## Claims
+
+- [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](../claims/long-run-effects-null-seven-studies.md) [+M]
 
 ## Related Strategies
 - 

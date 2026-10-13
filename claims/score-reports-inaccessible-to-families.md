@@ -43,7 +43,7 @@ Recent EdTrust focus groups with families, described in the introduction, found 
 
 
 ## Related Claims
-- [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — related
+- Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways — related
 - [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related

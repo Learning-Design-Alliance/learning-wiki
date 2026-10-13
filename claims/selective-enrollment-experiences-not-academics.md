@@ -43,4 +43,4 @@ Summary of regression discontinuity comparisons of students just above and just 
 
 
 ## Related Claims
-- [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related
+- Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences — related

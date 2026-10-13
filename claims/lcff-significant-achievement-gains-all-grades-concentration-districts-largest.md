@@ -65,5 +65,5 @@ Falsification test using pre-LCFF cohorts (Figures 7–8): the author reports no
 - [LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8](lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains.md) — related
 - [LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants](lcff-spending-improved-math-reading-achievement.md) — a narrower finding that bears on this claim
 - [Achievement gains lag in districts just below the 55% concentration-grant threshold, especially those enrolling 40–55% high-need students](lcff-funding-cliff-below-threshold-lag.md) — related
-- [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
-- [Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion](lcff-spending-effects-positive-for-every-school-despite-heterogeneity.md) — related
+- Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years — related
+- Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion — related

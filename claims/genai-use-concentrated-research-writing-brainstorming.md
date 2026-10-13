@@ -62,6 +62,6 @@ Design-activity checklist (n=221 respondents, 1076 unique answers). Searching fo
 
 
 ## Related Claims
-- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
+- Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
 - [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](journals-secondary-research-heavy-genai-primary-autonomy.md) — related
-- [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
+- Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%) — related

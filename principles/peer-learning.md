@@ -22,7 +22,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 qualitative, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another. It is useful when learners can benefit from articulating ideas and encountering alternate explanations at a similar level of expertise.
@@ -65,6 +65,7 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — peer contexts are stronger when learners monitor contribution, progress, and understanding
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer learning often benefits from instructor or peer structures that respond to learner needs
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](../claims/social-engagement-builds-confidence-gateway-math.md) [~W]
+- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](../claims/remote-shift-reduced-collaborative-learning.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

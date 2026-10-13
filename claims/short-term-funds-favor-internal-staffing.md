@@ -62,11 +62,11 @@ The brief's qualitative analysis reports that hiring practitioners from communit
 
 
 ## Related Claims
-- [California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source](lea-braid-multiple-behavioral-health-funding-streams.md) — related
-- [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
-- [LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure](medi-cal-billing-top-sustainability-strategy.md) — related
+- California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source — related
+- LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students — related
+- LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure — related
 - [SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently](sbhip-needs-workforce-over-structural.md) — related
-- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
-- [Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting](sv-cbos-informal-collaboration-vision-setting.md) — related
+- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
+- Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting — related
 - [Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs](ermhs-services-provided-by-leas.md) — related
-- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
+- School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations — related

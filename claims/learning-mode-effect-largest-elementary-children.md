@@ -43,6 +43,6 @@ Key findings statement from the brief’s subgroup analysis by school level, rep
 
 
 ## Related Claims
-- [Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications](school-staff-referral-and-informal-networks-drive-ssi-applications.md) — related
-- [Children’s SSI applications bounced back to some extent as students returned to in-person learning](ssi-applications-rebounded-with-in-person-return.md) — related
+- Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications — related
+- Children’s SSI applications bounced back to some extent as students returned to in-person learning — related
 - [Children’s SSI applications were about 15 percent lower in counties with virtual learning than in counties where all learning was in person during the 2020–21 school year](virtual-learning-counties-lower-child-ssi-applications.md) — a broader claim this one bears on

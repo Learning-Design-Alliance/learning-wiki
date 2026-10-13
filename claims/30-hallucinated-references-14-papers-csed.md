@@ -46,7 +46,7 @@ Manual verification of 464 candidates (225 from SET A author-field errors, 239 u
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — a narrower finding that bears on this claim
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md) — a narrower finding that bears on this claim
 - [Among 828 manually coded matched references, the most common issue was ACM metadata mismatch (229 cases), followed by author-field errors (225 cases)](acm-metadata-mismatch-most-common-error.md) — related
-- [Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s](csed-publication-and-reference-growth.md) — related
+- Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s — related
 - [Co-occurrence of fabricated references with interview admissions grew from 3.1% to 15% of cases, reaching about 1 in 7 cases by 2025](fabricated-references-co-occur-with-admissions-growth.md) — related
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
 - [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](repair-and-source-gating-feedback-completeness.md) — related

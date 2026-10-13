@@ -43,6 +43,6 @@ Descriptive analysis of Tennessee state website demographic data for 2019-20, co
 
 
 ## Related Claims
-- [In California, 9.1% of schools have no teachers of color, and 3.0% of all students attend such schools](california-schools-without-teachers-of-color.md) — related
-- [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — a broader claim this one bears on
+- In California, 9.1% of schools have no teachers of color, and 3.0% of all students attend such schools — related
+- In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce — a broader claim this one bears on
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — related

@@ -45,4 +45,4 @@ The report attributes to recent research by Clifford Adelman at the U.S. Departm
 ## Related Claims
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — reports the opposite
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — reports the opposite
-- [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related
+- Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates — related

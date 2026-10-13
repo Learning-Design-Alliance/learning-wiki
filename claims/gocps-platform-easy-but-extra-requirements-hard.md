@@ -63,7 +63,7 @@ Same study: students noted confusion about differing requirements for essays, te
 
 ## Related Claims
 - [Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year](gocps-high-application-engagement-first-year.md) — related
-- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related
+- GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted — related
 - [Most GoCPS applicants received an offer from a program they ranked: 93 percent in round 1 (51 percent at their top choice) and 85 percent in round 2 (61 percent at their top choice)](gocps-offer-outcomes-two-rounds.md) — related
 - [Many applicants failed to complete post-application admission requirements, with Black and Latino students least likely to complete them](gocps-post-application-requirement-noncompletion-gaps.md) — related
 - [Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications](gocps-ranking-confusion-second-round.md) — related

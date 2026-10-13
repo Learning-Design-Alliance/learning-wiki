@@ -43,11 +43,11 @@ One-way ANOVA and descriptive comparison of survey scores across teacher charact
 
 
 ## Related Claims
-- [Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)](additional-certificate-holders-less-experienced.md) — related
+- Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years) — related
 - [The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct](ct-pck-16-item-single-construct.md) — a broader claim this one bears on
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
 - [GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers](nj-ged-takers-stronger-grade8-background.md) — related
 - [HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers](nj-hse-takers-differ-from-nontakers.md) — related
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
-- [Teachers in schools serving more non-white students score lower on teacher licensure and literacy examinations](teacher-test-scores-decline-nonwhite-enrollment.md) — related
+- Teachers in schools serving more non-white students score lower on teacher licensure and literacy examinations — related

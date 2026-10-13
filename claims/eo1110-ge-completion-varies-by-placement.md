@@ -62,8 +62,8 @@ Analysis of B4 completion among 52,357 students in QR Categories II to IV (Figur
 
 
 ## Related Claims
-- [First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent](eo1110-a2-completion-unchanged.md) — related
+- First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent — related
 - [First-semester outcomes strongly predicted second-semester A2 and B4 completion: students who completed first-semester stretch courses mostly completed the requirement, while most who failed an A2 or B4 course did not retake it](eo1110-first-semester-outcomes-predict-second-semester.md) — related
-- [Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent)](eo1110-majority-placed-category-ii.md) — related
+- Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent) — related
 - [EO 1110 significantly increased first-year completion of the quantitative reasoning (B4) requirement, roughly doubling completion among students needing additional support](eo1110-increased-first-year-b4-completion.md) — related
 - [Second-semester stretch courses had higher completion rates than other course types for B4 across all placement categories and for A2 in Categories III and IV, but not Category II; corequisite and traditional course completion rates did not differ significantly](eo1110-stretch-course-completion-advantage.md) — related

@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 6 studies (2 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 8 studies (3 design, 2 causal, 2 quant-synthesis, 1 review), `q1`–`q4` · 2 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -58,6 +58,8 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment](../claims/student-objection-visible-instructor-ai-delegation.md) [-W]
+- [African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.](../claims/certification-test-racial-disparities.md) [-W]
+- [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](../claims/if-quality-ratings-decoupled-from-quiz-performance.md) [~W]
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md)

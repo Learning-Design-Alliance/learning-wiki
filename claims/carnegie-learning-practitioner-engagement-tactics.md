@@ -41,4 +41,4 @@ Case narrative of Carnegie Learning's (UpGrade) two engagement approaches: a res
 
 
 ## Related Claims
-- [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
+- Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it — related

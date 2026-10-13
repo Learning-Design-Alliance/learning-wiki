@@ -43,10 +43,10 @@ School-level profile regression analysis using statewide data predicted school a
 
 
 ## Related Claims
-- [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related
+- Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains — related
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — related
-- [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
+- MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts — related
 - [MiC middle schools outperformed prediction in 2016 and 2017 but the advantage faded by 2018, while non-selected comparison districts improved significantly](mic-middle-school-advantage-faded-2018.md) — related
 - [The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018](mic-lowest-elementary-schools-increasing-progress.md) — a narrower finding that bears on this claim
-- [English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level](mic-english-learners-stronger-gains.md) — related
-- [Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability](mic-cohort-gains-above-state-variability.md) — related
+- English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level — related
+- Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability — related

@@ -17,7 +17,7 @@ sources:
 # Invest in successful PLCs and apply teacher-metacognition findings to pre-service and in-service teacher education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article concludes that because the opportunity to learn how to be metacognitive is influenced by learning environments, the PLC may encourage the development of higher order thinking and metacognition as well as professional development. It argues that policy-makers and educational leaders should "invest the time and dollars necessary to make successful PLCs an experience for all teachers", and that findings on teacher metacognition should be applied to teacher education with increased emphasis on thinking over memorization.
@@ -44,6 +44,7 @@ The article concludes that because the opportunity to learn how to be metacognit
 - [Plc Nurtures Teacher Metacognition](../claims/plc-nurtures-teacher-metacognition.md) [+M]
 - [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [+W]
 - [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](../claims/stem-plc-math-student-learning-existence-proof.md) [+W]
+- [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [+W]
 
 ## Related Principles
 - 

@@ -44,4 +44,4 @@ Descriptive policy background stated in the publication's introduction, with no 
 
 ## Related Claims
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
-- [More than 40 states adopted the Common Core, and many face assessment-system decisions similar to Massachusetts'](many-common-core-states-face-similar-assessment-decisions.md) — related
+- More than 40 states adopted the Common Core, and many face assessment-system decisions similar to Massachusetts' — related

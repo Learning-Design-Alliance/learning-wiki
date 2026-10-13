@@ -27,7 +27,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 18 studies (6 causal, 5 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 20 studies (7 causal, 5 quant-synthesis, 4 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 20 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +104,11 @@ For example, a secondary student testing water from a local creek may want to kn
 The expectation should weaken if comparable learners receiving guided inquiry fail to outperform the comparison instruction on aligned conceptual measures in randomized or well-matched comparisons with stated comparators, or if the advantage disappears at a delayed horizon. If guided inquiry and explicit instruction of matched time produce the same conceptual and transfer outcomes, the case for inquiry rests on other aims (inquiry skill, the learner's valued goals) and should say so. If the teacher-led advantage turns out to be an artefact of study quality or outcome alignment rather than guidance, revise the guidance claim. If unguided inquiry is found to work for learners with stated prior knowledge, record that boundary rather than generalizing it. Do not protect the model by relabelling every failure as poor facilitation or insufficient authenticity after the fact.
 
 An engaging investigation, an immediate conceptual gain, near transfer, far transfer, delayed retention and the learner's valued use are separate claims. The evidence recorded here establishes no optimal amount or form of guidance, no readiness threshold for open inquiry, and no effect of inquiry outside school science beyond one adult simulation study.
+
+## Claims
+
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/furtak-metaanalysis-37-studies-inquiry-positive.md) [~W]
+- [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](../claims/ai-assisted-inquiry-largest-decision-making-gains-climate.md) [~W]
 
 ## Related Principles
 
@@ -183,8 +188,6 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 
 > **Pattern** · [All patterns](index.md)
 > **Evidence** · 3 claims (3 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
-- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/furtak-metaanalysis-37-studies-inquiry-positive.md) [~W]
-- [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](../claims/ai-assisted-inquiry-largest-decision-making-gains-climate.md) [~W]
 
 ## Description
 Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.

@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 review, 3 causal, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.
@@ -54,6 +54,7 @@ Performance support shifts the instructional goal from "train everything in adva
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](../claims/generative-ai-makes-knowledge-mobilizable.md) [+W]
+- [Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference](../claims/cheatsheet-continuous-reference-dominant-usage.md) [+W]
 
 ## Related Elements
 - [Procedural Information](procedural-information.md) — the content type performance support delivers, just-in-time instead of up front

@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 6 studies (5 associational, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 28 claims (21 for, 6 mixed, 1 against) · 24 studies (14 associational, 5 review, 3 causal, 1 design, 1 theoretical), `q1`–`q3` · 2 of 24 report an effect size · 28 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -56,6 +56,26 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](../claims/se-positive-effect-mov.md) [+W]
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](../claims/tuga-negative-effect-se-mov.md) [~W]
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](../claims/self-confidence-and-value-clustering-motivational-basis.md) [+W]
+- [ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks](../claims/ann-appraisals-strongest-anxiety-predictors.md) [+W]
+- [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](../claims/academic-reliance-linked-stress-low-self-efficacy.md) [~W]
+- [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](../claims/coaching-raises-teacher-itu-confidence.md) [+W]
+- [Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators](../claims/mediators-associated-with-ai-teaching-innovation-behavior.md) [+W]
+- [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](../claims/early-career-pathway-exposure-enhances-self-efficacy.md) [+W]
+- [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](../claims/genai-condition-no-self-efficacy-difference.md) [~W]
+- [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](../claims/higher-self-efficacy-profiles-greater-ai-use.md) [+W]
+- [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](../claims/faculty-four-ai-attitude-profiles.md) [+W]
+- [Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation](../claims/learning-goals-raise-task-orientation.md) [+W]
+- [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](../claims/perceived-usefulness-moderates-efficacy-stress.md) [~W]
+- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](../claims/self-efficacy-growth-generative-ai-semester.md) [+W]
+- [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](../claims/profiles-predict-self-efficacy-and-burnout.md) [+W]
+- [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](../claims/problem-based-principal-preparation-self-efficacy.md) [+W]
+- [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](../claims/se-mov-partial-mediation-tuga-sdl.md) [+W]
+- [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](../claims/student-confidence-readiness-self-efficacy-collaboration.md) [+W]
+- [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](../claims/unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) [+W]
+- [Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions](../claims/self-efficacy-moderation-insignificant-ai-anxiety.md) [-W]
+- [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](../claims/serial-mediation-literacy-trust-efficacy-use.md) [+W]
+- [Technological self-efficacy significantly but modestly predicts faculty AI well-being](../claims/technological-self-efficacy-modest-predictor-ai-well-being.md) [+W]
+- [Teacher self-efficacy is associated with student achievement and with implementing new practices](../claims/teacher-self-efficacy-achievement-and-implementation.md) [~W]
 
 ## Related Theories
 

@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (59 for, 21 mixed, 7 against) · 67 studies (16 theoretical, 14 qualitative, 13 review, 11 causal, 9 design, 4 associational), `q1`–`q4` · 4 of 67 report an effect size · 87 claims rest on one study
+> **Evidence** · 123 claims (79 for, 35 mixed, 9 against) · 99 studies (24 qualitative, 21 review, 21 theoretical, 14 causal, 11 design, 8 associational), `q1`–`q4` · 5 of 99 report an effect size · 122 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -146,6 +146,42 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](../claims/withdrawal-condition-ai-instruction-frameworks.md) [~W]
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](../claims/genai-outcomes-differ-by-use-type.md) [+W]
+- [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](../claims/agency-control-over-cognitive-effort.md) [+W]
+- [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](../claims/ai-concerns-critical-thinking-plagiarism-nursing.md) [-W]
+- [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](../claims/ai-training-risks-uncritical-acceptance-overreliance.md) [+W]
+- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
+- [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](../claims/answer-offloading-associated-lower-unaided-performance-exploratory.md) [+W]
+- [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](../claims/chatgpt-feedback-requires-output-validation.md) [~W]
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](../claims/cognitive-debt-reactive-ai-approaches-insufficient.md) [~W]
+- [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](../claims/cognitive-surrender-inflates-confidence-after-errors.md) [~W]
+- [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](../claims/bounded-reliance-hybrid-feedback-preference.md) [+W]
+- [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
+- [Overreliance on AWE may lower learners' critical thinking and creativity](../claims/awe-overreliance-lowers-critical-thinking-creativity.md) [+W]
+- [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](../claims/delegating-evaluation-self-defeating.md) [+W]
+- [Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks](../claims/disciplinary-norms-shape-genai-acceptability.md) [~W]
+- [Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading](../claims/forethought-intentions-learning-oriented-genai-tutor.md) [~W]
+- [Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation](../claims/genai-engagement-spectrum-outsourcing-to-reallocation.md) [~W]
+- [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](../claims/drafting-support-largest-ownership-decrease.md) [~M]
+- [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](../claims/genai-self-study-fabrication-curated-resources.md) [~W]
+- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
+- [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](../claims/human-ai-collaborative-personalized-learning.md) [+W]
+- [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](../claims/genai-use-quality-over-frequency.md) [+W]
+- [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](../claims/llm-comparison-empowers-competence.md) [+W]
+- [Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms](../claims/low-reliance-outperformed-high-reliance-midterms.md) [+W]
+- [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](../claims/overreliance-reduced-critical-thinking-ai-efl.md) [+W]
+- [Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI](../claims/multi-tool-users-benefits-lower-independent-confidence.md) [~W]
+- [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](../claims/stat1170-ai-enabled-elements-complement-reasoning.md) [+W]
+- [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](../claims/structured-chatgpt-integration-improves-programming-learning.md) [~W]
+- [The Struggling profile exhibited a fragmented AI-support pattern, with strong ENA connections between foundational scaffolding and irrelevant/off-task responses alongside cognitive offloading and collaborative impasse](../claims/struggling-profile-fragmented-ai-support-pattern.md) [-W]
+- [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](../claims/substitutive-duplicative-offloading-outcomes.md) [+W]
+- [Automation bias toward fluent LLM output surrenders learners' epistemic agency](../claims/automation-bias-surrenders-epistemic-agency.md) [+W]
+- [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](../claims/tblt-four-ethical-tensions.md) [+W]
+- [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](../claims/teachers-preserve-student-thinking-bound-answer-giving.md) [+W]
+- [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](../claims/viewer-comments-diverge-by-framing.md) [+W]
+- [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](../claims/llm-substitution-negative-critical-thinking-correlation.md) [+W]
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](../claims/more-human-paradox-ai-augments-pedagogical-work.md) [+W]
+- [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](../claims/rejection-of-ai-replacing-instructor-expertise.md) [+W]
+- [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](../claims/five-faulty-assumptions-aied-dependence.md) [~W]
 
 ## Related Principles
 

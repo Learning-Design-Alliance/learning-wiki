@@ -12,7 +12,7 @@ generated:
 # Turiel's Social Domain Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Elliot Turiel proposed that stage-based models of moral development (Piaget's and Kohlberg's) share an assumption worth questioning: that a person reasons from one unified "level" of moral development that applies uniformly across every kind of social rule. Turiel's social domain theory argues instead that children differentiate at least three distinct domains of social knowledge from early in development, and reason differently within each:
@@ -37,6 +37,8 @@ Because these domains are differentiated rather than unified, a student's moral 
 - Recognizing that a rule's *source* (an authority, a group consensus, or an individual's own domain) affects whether it is properly treated as fixed or negotiable
 
 ## Claims
+
+- [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](../claims/genai-use-ethically-negotiated-entangled.md) [+W]
 
 ## Related Theories
 

@@ -43,7 +43,7 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 
 
 ## Related Claims
-- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — a broader claim this one bears on
+- AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently — a broader claim this one bears on
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — a broader claim this one bears on
@@ -51,4 +51,4 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 - [Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity](case-study-reveals-lack-assessment-integrity-information.md) — related
 - [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related
-- [College instructors perceive Generative AI through power relations with four distinct centers](instructors-perceive-genai-through-power-relations.md) — related
+- College instructors perceive Generative AI through power relations with four distinct centers — related

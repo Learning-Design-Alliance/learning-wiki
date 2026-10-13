@@ -64,6 +64,6 @@ The policy scan reports that California earned red ratings for sharing the racia
 ## Related Claims
 - [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
 - [Ohio partially meets criteria for public educator diversity data: state-level data posted but school-level, completer, and retention data missing](ohio-partial-educator-diversity-data-transparency.md) — related
-- [California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents](completer-pool-growing-racial-ethnic-diversity.md) — related
+- California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related
 - [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — related
 - [Pennsylvania's policy scan shows strong Grow Your Own, residency, and induction investments but weak data transparency, scholarships, and program approval standards for diversity](pa-policy-scan-strengths-gaps-educator-diversity.md) — related

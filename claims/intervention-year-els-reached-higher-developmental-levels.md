@@ -44,5 +44,5 @@ Comparison of ELs' DRDP developmental-level distributions (Figure 6a-e) between 
 
 ## Related Claims
 - [During the intervention year, EL preschoolers' DRDP scores were predicted to increase more than Non-ELs' scores in all five DRDP domains after controlling for pretest, with statistically significant differences in ATL-REG and PD](els-grew-more-than-non-els-intervention-year-drdp.md) — related
-- [During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only](prior-year-gaps-widened-els-grew-less.md) — related
-- [Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD](readiness-gaps-narrowed-intervention-year-versus-prior-year.md) — related
+- During the prior year before the intervention, EL-Non-EL gaps widened in all DRDP domains and ELs were expected to grow less than Non-ELs, significantly for PD only — related
+- Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD — related

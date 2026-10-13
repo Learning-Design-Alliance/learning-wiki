@@ -18,7 +18,7 @@ sources:
 # Teacher Language and Gesture Coding Scheme for Mathematical Equivalence
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A coding scheme with four language codes (ISA, "is the same as"; DEF, definition; BAL, balance; FORM, equation form) and two gesture codes (GBAL, balance gesture; GSIDES, equation sides gesture) for a teacher's talk about equations. The authors developed it iteratively from classroom video, settling on a scheme "that focused on the teacher’s use of language around equations and the meaning of the equal sign during whole-group discussion."
@@ -44,6 +44,7 @@ A coding scheme with four language codes (ISA, "is the same as"; DEF, definition
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A combined language-gesture move, saying \"is the same as\" while pointing to the sides of an equation (ISA + GSIDES), occurred rather frequently in the kindergarten lessons where students wrote equations](../claims/is-the-same-as-with-sides-gesture-combination-in-kindergarten-equation-talk.md) [+W]
 - [The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid](../claims/teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance.md) [+W]
+- [Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code](../claims/gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md) [+W]
 
 ## Related Elements
 - [Gestures](../strategies/gestures.md)

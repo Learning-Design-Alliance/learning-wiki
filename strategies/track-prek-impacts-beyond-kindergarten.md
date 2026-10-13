@@ -17,7 +17,7 @@ sources:
 # Evaluate pre-K programs by tracking impacts beyond kindergarten into early elementary grades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's approach is to estimate the impact of an offer of admission to a pre-K program and then "explore whether any impacts persist as students advance beyond kindergarten," building on a previous study of the same schools' elementary grades. This follow-through design distinguishes persistent skill impacts from impacts on comprehension that fade, giving a more complete picture of whether early gains last. It supports decisions about whether pre-K investments yield lasting achievement benefits.
@@ -37,6 +37,10 @@ The report's approach is to estimate the impact of an offer of admission to a pr
 ### Target Learning Goals
 - Reading achievement
 - Math achievement
+
+## Claims
+
+- [Washington's ECEAP preschool students made test score gains in reading and math that persisted through 5th grade, per a Washington Institute for Public Policy evaluation](../claims/eceap-test-score-gains-persist-fifth-grade.md) [+W]
 
 ## Related Strategies
 - 

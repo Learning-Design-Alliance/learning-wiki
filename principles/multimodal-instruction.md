@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 20 studies (8 review, 7 causal, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 22 studies (9 causal, 8 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 22 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,11 @@ The expectation should weaken if comparable learners, on aligned tasks that need
 
 A learner's preference for a mode, immediate comprehension, the ability to translate between representations, delayed retention and use in a real setting are separate claims. The present evidence does not establish an optimal number of modes, a best mode for any learner, or effects of gesture, demonstration or sign.
 
+## Claims
+
+- [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [~W]
+
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.
 - [Multimedia Projects](../patterns/learning-by-producing-pattern.md) — project-based multimodal work extends multimodal instruction into production.
@@ -199,8 +204,6 @@ Multimodal instruction works when different modes carry different parts of the m
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
-- [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
-- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [~W]
 
 ## Description
 The article concludes that multimedia materials integrated with on-screen text, narrations, and video are recommended for L2 comprehension instruction, because the VNT group outperformed the text-only and narration-plus-text groups on macrostructure comprehension. It argues that video plays an essential role in fostering MACS comprehension ability, helping learners distinguish main ideas from details, attend to the theme, identify writer's devices, and draw conclusions.

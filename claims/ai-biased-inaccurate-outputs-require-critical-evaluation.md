@@ -47,4 +47,4 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — a broader claim this one bears on
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — a narrower finding that bears on this claim
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — possibly the same claim (merge candidate)
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — possibly the same claim (merge candidate)

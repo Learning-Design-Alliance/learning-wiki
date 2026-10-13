@@ -44,5 +44,5 @@ The paper's review of the GPS Advising deployment, which tracks more than 40,000
 
 ## Related Claims
 - [Georgia State's Panther Retention Grant program was followed by 82% of recipients graduating or remaining enrolled one year later](panther-retention-grant-82-percent-persistence.md) — related
-- [In the A2S baseline, the average six-year graduation rate for Pell recipients was 45 percent versus 57 percent for higher-income students](pell-graduation-gap-45-versus-57.md) — related
+- In the A2S baseline, the average six-year graduation rate for Pell recipients was 45 percent versus 57 percent for higher-income students — related
 - [Pell Grant recipients at four-year institutions graduate at a rate 14 percentage points lower than non-Pell students nationally (51% vs. 65% in six years)](pell-nonpell-national-gap-14-points.md) — related

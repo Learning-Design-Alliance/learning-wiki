@@ -43,7 +43,7 @@ Thematic narrative synthesis of the scoping review's Theme 1, drawing on empiric
 
 
 ## Related Claims
-- [Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports](ai-strategic-priority-versus-senior-ai-roles-gap.md) — related
+- Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports — related
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

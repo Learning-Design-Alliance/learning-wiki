@@ -43,6 +43,6 @@ Principals' reports on whether their LSC assisted in developing formal school-co
 
 
 ## Related Claims
-- [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
+- Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior — related
 - [Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools](lsc-contribution-views-differ-top-bottom-quartile-schools.md) — related
-- [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
+- More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members — related

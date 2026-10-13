@@ -17,7 +17,7 @@ sources:
 # Monitor and publicly report chronic absence data early, disaggregated by student group
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy directs advocates and leaders to track chronic absence data in real time and respond early in the school year. The brief advises: "Encourage monitoring chronic absence data in real time and respond as early as possible in the school year," starting ideally in preschool and no later than kindergarten. At the state level, it asks that chronic absence data be publicly available, reported by grade and student groups for each school and districtwide, to highlight systemic inequities and target resources.
@@ -37,6 +37,10 @@ This strategy directs advocates and leaders to track chronic absence data in rea
 ### Target Learning Goals
 - Early identification of attendance barriers
 - Equitable allocation of support resources
+
+## Claims
+
+- [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](../claims/race-stronger-than-poverty-preschool-chronic-absence.md) [+W]
 
 ## Related Strategies
 

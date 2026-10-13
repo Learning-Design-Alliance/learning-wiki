@@ -43,6 +43,6 @@ The brief reports a 2016 analysis of state EPP accountability practices finding 
 
 
 ## Related Claims
-- [Few states share EPP graduates' classroom performance data with the programs that prepared them](few-states-share-graduate-performance-data-with-epps.md) — related
+- Few states share EPP graduates' classroom performance data with the programs that prepared them — related
 - [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related

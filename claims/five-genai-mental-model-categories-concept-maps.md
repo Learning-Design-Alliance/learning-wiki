@@ -45,4 +45,4 @@ Analysis of 64 concept maps from a required technology ethics course, coded with
 ## Related Claims
 - [Declarative knowledge dominates students' GenAI concept maps; only 9 of 64 maps integrate declarative, procedural, and conditional knowledge](declarative-dominance-integrated-knowledge-rare.md) — related
 - [Students' GenAI mental models split between technical-architecture and educational-tool orientations that are only moderately associated](technical-versus-educational-cluster-disconnect.md) — related
-- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
+- Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related

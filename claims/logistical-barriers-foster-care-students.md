@@ -43,8 +43,8 @@ Qualitative finding from the Logistical Barriers section. Teachers described stu
 
 
 ## Related Claims
-- [Teachers report that students in foster care arrive with fragmented academic histories, late records, and — in high school — no partial credits after mid-semester school changes](academic-gaps-late-records-partial-credits.md) — related
-- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- Teachers report that students in foster care arrive with fragmented academic histories, late records, and — in high school — no partial credits after mid-semester school changes — related
+- Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
-- [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
+- School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice — related
 - [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related

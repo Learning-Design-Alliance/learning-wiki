@@ -43,8 +43,8 @@ The brief's summary reports that "more students are off-track and further behind
 
 
 ## Related Claims
-- [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — related
+- The lowest-performing middle school readers fell further behind during post-COVID recovery — related
 - [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — related
 - [Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency](post-covid-classrooms-academically-diverse-more-students-off-track.md) — possibly the same claim (merge candidate)
-- [Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic](same-grade-students-differ-more-in-needs.md) — related
+- Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic — related
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — related

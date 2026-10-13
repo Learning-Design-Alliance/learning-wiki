@@ -44,4 +44,4 @@ Quantitative analysis of student scores on the EXPLORE to PLAN tests using a 'me
 
 ## Related Claims
 - [Renaissance 2010 high schools showed a similar pattern of failing to meet EXPLORE-to-PLAN growth expectations](renaissance2010-similar-growth-pattern.md) — related
-- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores — related

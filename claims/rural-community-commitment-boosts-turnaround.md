@@ -46,7 +46,7 @@ The CST handbook chapter on rural turnaround argues that people are at the heart
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — a broader claim this one bears on
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — related
-- [LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties](lsc-members-substantial-time-commitment.md) — related
-- [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
+- LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties — related
+- Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable — related
 - [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related
 - [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related

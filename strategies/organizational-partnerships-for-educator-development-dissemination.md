@@ -17,7 +17,7 @@ sources:
 # Build organizational partnerships to disseminate educator development strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The blueprint presents an approach to building organizational partnerships whose purpose is to share and strengthen educator development strategies. It states that it "describes an approach to building organizational partnerships that support and strengthen educator development," and offers guidance and tools intended to help organizations form such partnerships for disseminating educator development innovations.
@@ -35,6 +35,10 @@ The blueprint presents an approach to building organizational partnerships whose
 
 ### Target Learning Goals
 - improved educator development and dissemination of effective practices
+
+## Claims
+
+- [The SEED Partnership Project developed three-year partnerships between national non-profits implementing evidence-based educator-preparation strategies and educational organizations seeking to apply lessons from that work](../claims/seed-partnership-project-knowledge-sharing-partnerships.md) [+W]
 
 ## Related Strategies
 

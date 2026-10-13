@@ -48,9 +48,9 @@ Descriptive bibliometric analysis of the review's 197-article corpus: 54% of art
 - [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
 - [Research on LLM-based family education increased sharply after 2023, following ChatGPT's release](llm-family-education-publication-growth-post-2023.md) — a narrower finding that bears on this claim
-- [Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research](llm-chatbots-most-common-ai-online-he.md) — related
+- Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research — related
 - [Research on STEAM education for AI literacy in K-12 grew sharply from 2021 onward, peaking in 2024, and is concentrated in middle and high school contexts](steam-ai-literacy-research-growth-since-2021-secondary-concentration.md) — related
-- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
-- [Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025](ai-medical-education-publications-sharp-growth-after-2023.md) — related
+- Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation — related
+- Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025 — related
 - [AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots](ai-wtc-research-rapid-growth-asian-concentration.md) — a narrower finding that bears on this claim
 - [Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025](agentic-ai-education-rapid-expansion-since-2025.md) — related

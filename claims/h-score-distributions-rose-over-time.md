@@ -43,8 +43,8 @@ Distributional analysis of 3,893 student-semester pairs and 42,695 homework subm
 
 
 ## Related Claims
-- [In Spring 2026, 45.7% of students in a large CS2 course were flagged as LLM-assisted following structured manual review](argus-45-percent-flagged-spring-2026.md) — related
+- In Spring 2026, 45.7% of students in a large CS2 course were flagged as LLM-assisted following structured manual review — related
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
-- [More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment](rising-llm-adoption-debugging-across-semesters.md) — related
+- More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment — related
 - [MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals](moss-detection-declined-spring-2026.md) — related
 - [In an unrestricted university course, only a minority of students (23 of 68, 34%) reported using LLMs, averaging 12% of discussion-point and 11% of critical-summary submissions](minority-students-report-llm-use-research-course.md) — related

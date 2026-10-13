@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 10 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -47,6 +47,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
+- [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](../claims/testing-yields-transfer-versus-reexposure-control-d-040.md) [+W]
 
 ## Related Elements
 - [Self-Testing](self-testing.md)

@@ -17,7 +17,7 @@ sources:
 # Implement desegregation, choice, and school improvement simultaneously rather than incrementally
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The guide's central design recommendation is that the three components of Controlled Choice "should be implemented simultaneously and not incrementally." Citing Williams and Ryan, the authors report that "long-drawn out efforts and fluctuating policies appear to have maximized confusion and resistance," while a clear, resolved policy accomplished desegregation with minimal difficulty. Remedies applied singly or sequentially (desegregation alone, then magnets, then choice) each failed parts of the system.
@@ -37,7 +37,9 @@ The guide's central design recommendation is that the three components of Contro
 - equitable access to quality schooling across racial, ethnic, and socioeconomic groups
 
 ### Claims
+
 - [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
+- [Policy design details are likely critical to the effects of school choice programs](../claims/choice-program-design-details-critical-to-effects.md) [~W]
 
 ## Related Principles
 

@@ -17,7 +17,7 @@ sources:
 # Advocate for teachers' voices, purposeful change, and continued professional development
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article casts the coach as an advocate, not an evaluator, who supports strong learning communities, continued professional development, collaboration, and thoughtful examination of literacy practices. Coaches help teachers articulate needs to administrators and support teachers to develop as professional decision makers. The author also stresses her own continued professional development, expecting "moments of intellectual unrest" as she reads extensively, attends conferences, and spends time in classrooms outside her original grade range.
@@ -40,6 +40,7 @@ The article casts the coach as an advocate, not an evaluator, who supports stron
 ### Claims
 
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](../claims/ongoing-pd-mentorship-critical-coach-growth.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
 
 ## Related Principles
 

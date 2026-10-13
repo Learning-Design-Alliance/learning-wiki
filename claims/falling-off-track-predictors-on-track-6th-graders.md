@@ -43,9 +43,9 @@ Abstract reports an observational conditional analysis of students "who started 
 
 
 ## Related Claims
-- [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
+- Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school — related
 - [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — a broader claim this one bears on
 - [Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math](demographics-predict-falling-off-track.md) — possibly the same claim (merge candidate)
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — related
-- [Always on-track and always off-track students attend schools with systematically different demographic compositions](trajectory-groups-differ-school-demographics.md) — related
+- Always on-track and always off-track students attend schools with systematically different demographic compositions — related
 - [Middle school on-track status for college readiness is stable for most students across grades 6 to 8](middle-school-on-track-status-stable.md) — related

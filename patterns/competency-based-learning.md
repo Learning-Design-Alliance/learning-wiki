@@ -15,7 +15,7 @@ grain_size: course
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (2 for, 5 mixed, 1 against) · 14 studies (6 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 14 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (2 for, 7 mixed, 1 against) · 16 studies (6 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 16 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -85,6 +85,11 @@ Record: **competency, criterion and check form → placement response and parall
 
 This pattern is scoped to a course organised around a competency map with criterion-referenced evidence. It does not establish that a competency-based course outperforms a time-based one, an optimal degree of self-pacing, a criterion, a number of attempts or a unit size, or a forecast for an individual learner. The risk named by the earlier page, that a competency map atomises a complex performance into isolated skills, is why the sequence includes an integrated task; whether that guards against it remains to be tested. Programme-level competency certification and credit policy need their own configuration and evidence.
 
+## Claims
+
+- [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W]
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
+
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)
 
@@ -138,8 +143,6 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
-- [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](../claims/cmi-ela-test-precision-declines-above-40th-percentile.md) [~W]
-- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](../claims/pacing-calendars-standardized-assessments-impediments.md) [~W]
 
 ## Design
 

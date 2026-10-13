@@ -43,5 +43,5 @@ A districtwide analysis of Chicago student achievement data between 2014-15 and 
 
 
 ## Related Claims
-- [Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform](chicago-instruction-improved-standards-reform.md) — a broader claim this one bears on
+- Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform — a broader claim this one bears on
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — reports the opposite

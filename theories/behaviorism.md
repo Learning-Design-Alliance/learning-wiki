@@ -12,7 +12,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (1 for, 3 mixed, 1 against, 1 unmarked) · 12 studies (4 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 3 mixed, 1 against, 1 unmarked) · 14 studies (5 review, 3 causal, 3 quant-synthesis, 3 theoretical), `q2`–`q4` · 2 of 14 report an effect size · 5 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -66,6 +66,8 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice skill acquisition may benefit when repeated performance is coupled with attention to process, not only outcomes
 - [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](../claims/praise-positive-criticism-negative-learning.md) [+W]
 - [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](../claims/good-idea-reward-no-incentive-effect.md) [-W]
+- [Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes](../claims/behavioral-skills-training-mastery-lockdown-steps.md) [+W]
+- [In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69](../claims/fi-time-series-field-studies-all-positive.md) [+W]
 
 ## Related Theories
 

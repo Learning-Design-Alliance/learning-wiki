@@ -13,7 +13,7 @@ generated:
 # Check-ins
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (1 for, 4 mixed, 1 against) · 15 studies (8 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 15 report an effect size
+> **Evidence** · 7 claims (1 for, 5 mixed, 1 against) · 16 studies (8 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 1 claim rests on one study
 
 ## Conditional relationship
 
@@ -64,6 +64,10 @@ For example, in an online instructor-led course, a designer may want a weekly 1�
 The model would gain support from a comparison of matched groups with and without a check-in routine, where instructors acted on the reports, showing a difference on a stated outcome at a stated horizon. It should weaken if such comparisons find no difference even when follow-through is documented. It should also weaken if acting on self-reports does no better than acting on short task responses alone, since a check-in would then add cost without information. If trained or delayed self-reports turn out to track performance closely in a given setting, the warning against reading confidence as mastery can be relaxed there. If learners' reports become less candid once they see them acted on, for instance because acting meant regrouping them publicly, the follow-through itself needs redesign.
 
 An immediate change in what learners report, a change in engagement, later performance, and persistence are separate outcomes, and evidence for one does not establish the others. The present evidence does not establish an effective check-in frequency, prompt or format, or any benefit for belonging from check-ins.
+
+## Claims
+
+- [Students' self-assessments of social well-being and work habits provide valuable information about their development](../claims/student-self-assessments-valuable-development-information.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — check-ins are one lightweight way to gather evidence during learning rather than after it.

@@ -43,4 +43,4 @@ In its conclusion, the brief cites national data reported by Petrosino (2018) sh
 
 
 ## Related Claims
-- [About 3.1 percent of students ages 12 through 18 were victims of any crime at school in school year 2012–13](3-percent-students-victimized-any-crime-school-2012-13.md) — related
+- About 3.1 percent of students ages 12 through 18 were victims of any crime at school in school year 2012–13 — related

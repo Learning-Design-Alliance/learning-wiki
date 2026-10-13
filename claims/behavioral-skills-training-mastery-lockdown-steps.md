@@ -62,6 +62,6 @@ The brief reports, citing Schildkraut and Nickerson (2020), that after training 
 
 
 ## Related Claims
-- [95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans](95-percent-us-schools-conduct-lockdown-drills.md) — related
+- 95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans — related
 - [Lockdown training and drill participation improved students' knowledge and perceptions of preparedness without increasing anxiety, per the studies the brief reviews](lockdown-training-improves-preparedness-without-trauma.md) — related
 - [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related

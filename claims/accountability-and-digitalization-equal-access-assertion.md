@@ -45,5 +45,5 @@ Stated in the article's conclusion as an assertion; the article offers no direct
 ## Related Claims
 - [Higher-quality superior-school accountability management systems are associated with higher digital transformation capability in Indonesian public elementary schools](accountability-quality-correlates-digital-transformation-capability.md) — related
 - [Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores](accountability-indicators-outscore-digital-transformation-indicators.md) — related
-- [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related
+- Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators — related
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related

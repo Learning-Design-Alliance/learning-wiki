@@ -44,7 +44,7 @@ The appendix's own statement of purpose names its two research questions: a comp
 
 
 ## Related Claims
-- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — possibly the same claim (merge candidate)
-- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — possibly the same claim (merge candidate)
+- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — possibly the same claim (merge candidate)
+- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — possibly the same claim (merge candidate)
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — a narrower finding that bears on this claim
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — related

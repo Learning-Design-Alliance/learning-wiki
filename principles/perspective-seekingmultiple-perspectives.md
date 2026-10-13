@@ -25,7 +25,7 @@ sources:
 # Perspective Seeking/Multiple Perspectives
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 9 studies (3 theoretical, 2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design), `q1`–`q4` · 1 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem. It differs from simple exposure because learners are asked to investigate how and why different people interpret the same issue differently. In educational settings, this can strengthen reasoning, critical reading, dialogue, and humility by showing that understanding often improves when learners compare interpretations instead of remaining inside a single frame.
@@ -73,6 +73,8 @@ Perspective seeking improves reasoning when learners compare how different peopl
 
 The current claim inventory supports explanation and reflective revision mechanisms more directly than perspective-seeking as a standalone intervention.
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](../claims/participant-feedback-diverse-perspectives.md) [+W]
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](../claims/unstructured-llm-use-epistemic-narrowing.md) [+W]
+- [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](../claims/critical-technical-gap-k12-ml-activities.md) [-W]
 
 ## Related Principles
 

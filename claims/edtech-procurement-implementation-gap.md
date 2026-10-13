@@ -44,7 +44,7 @@ The guide's introduction reports, as field context rather than a tested study, t
 
 ## Related Claims
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — related
-- [Schools and educators each use dozens of unique edtech tools per school year, averaging 45 tools for students and 49 for educators](edtech-high-tool-usage-per-school.md) — related
-- [Edtech spending grew from $26B in 2018–2019 to $41B in 2022–2023, with projections over $145B](edtech-market-spending-growth.md) — related
+- Schools and educators each use dozens of unique edtech tools per school year, averaging 45 tools for students and 49 for educators — related
+- Edtech spending grew from $26B in 2018–2019 to $41B in 2022–2023, with projections over $145B — related
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related

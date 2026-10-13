@@ -17,7 +17,7 @@ sources:
 # Use instructionally focused networked improvement communities as professional development: connect work to teachers' classrooms, enable teacher collaboration, and build accountability through PDSA testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 3 studies (1 review, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The report recommends that administrators, instructional leaders, and teachers designing professional development "might consider a NIC or incorporating features of NICs." Interview analysis indicated NICs may be useful PD because "the work was directly connected to their classrooms, included opportunities to share and brainstorm new ideas with other teachers, and created a sense of accountability for addressing challenges and making incremental improvements." The BMTN embodied long-identified effective PD features: content focused, job embedded, and collaborative. Teachers also valued choosing their own improvement projects, an opportunity rarely available in other professional learning structures.
@@ -44,6 +44,7 @@ The report recommends that administrators, instructional leaders, and teachers d
 - [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](../claims/pd-collaboration-prevalence-and-gains.md) [+W]
 - [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](../claims/teacher-reported-engagement-opportunities-increased.md) [+W]
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [~W]
+- [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](../claims/teacher-level-collaboration-remained-low-activities-targeted-leaders.md) [-W]
 
 ## Related Principles
 - 

@@ -43,9 +43,9 @@ Survey-indicator analysis of LSC functioning. Because the Consortium data archiv
 
 
 ## Related Claims
-- [Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees](lsc-inactivity-signs-minority.md) — related
+- Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees — related
 - [Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools](lsc-contribution-views-differ-top-bottom-quartile-schools.md) — related
-- [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
-- [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
-- [LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively](lsc-self-assessments-little-variation.md) — related
-- [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related
+- More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members — related
+- Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior — related
+- LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively — related
+- Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process — related

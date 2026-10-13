@@ -44,4 +44,4 @@ Classification of all 89 included papers by type of adaptation, building on Doro
 
 ## Related Claims
 - [Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes](rl-education-effect-sizes-intermediate-large.md) — related
-- [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
+- RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group — related

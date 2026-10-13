@@ -21,7 +21,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (12 for, 9 mixed, 4 against) · 23 studies (5 causal, 5 quant-synthesis, 5 review, 4 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 20 claims rest on one study
+> **Evidence** · 38 claims (23 for, 11 mixed, 4 against) · 34 studies (9 review, 9 qualitative, 6 quant-synthesis, 5 causal, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 34 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,22 @@ Record: **target practice and its look-for list → teacher's content familiarit
 
 This pattern is scoped to changing one observable teaching practice through enactment and feedback over a term or more. Building a standing professional community, changing a school's organization or policy, and initial teacher education as a whole need other configurations. The policy supports observation and design reasoning; whether this configuration changes practice and student outcomes more than a workshop of the same content, for which teachers, at what cost in coach time and for how long after support ends, remains to be tested here.
 
+## Claims
+
+- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](../claims/coaching-meta-analysis-instruction-effects-p12.md) [+W]
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
+- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
+- [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](../claims/district-leaders-active-role-coaching-success.md) [~W]
+- [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
+- [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](../claims/external-coaching-accountability-idea-generation.md) [+W]
+- [Coached teachers report more frequent impactful technology use practices developing student skills](../claims/coaching-increases-impactful-technology-use-practices.md) [+W]
+- [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](../claims/job-embedded-coaching-active-learning.md) [+W]
+- [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](../claims/repeated-short-lessons-scaffold-mentee-behaviour-management.md) [+W]
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](../claims/teacher-feedback-coaching-associated-charter-success.md) [+W]
+
 ## Related Patterns
 
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the core learning model PD applies to adult learners: modeling → coaching → fading of expert practice
@@ -206,12 +222,6 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) (Collins, Brown, & Newman) — expert teaching is tacit; PD works by modeling, coaching, and fading support as teachers gain independence
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — observation of modeled practice, especially via video, builds self-efficacy and provides vicarious rehearsal
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — goal-setting, self-observation, and reflective cycles turn PD into sustained professional self-improvement
-- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](../claims/coaching-meta-analysis-instruction-effects-p12.md) [+W]
-- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
-- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+W]
-- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](../claims/iterative-follow-up-supports-lasting-change.md) [+W]
-- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
-- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
 
 #### Contradicting / Qualifying
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — highly scaffolded, scripted PD can impede experienced teachers who already have well-developed routines; support must be calibrated to prior expertise [~M]

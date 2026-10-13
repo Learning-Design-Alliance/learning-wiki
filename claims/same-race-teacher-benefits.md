@@ -82,13 +82,13 @@ Secondhand report of Egalite et al. (2015) finding African American students in 
 
 ## Related Claims
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
+- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
 - [African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.](certification-test-racial-disparities.md) — related
-- [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — related
+- Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties. — related
 - [Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors](california-suspensions-lowered-graduation-7-points.md) — related
 - [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related
 - [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — possibly the same claim (merge candidate)
-- [Having a school leader of color is associated with higher math achievement, greater gifted-program access, and lower suspension rates for students of color](leader-of-color-linked-student-of-color-outcomes.md) — related
+- Having a school leader of color is associated with higher math achievement, greater gifted-program access, and lower suspension rates for students of color — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — a broader claim this one bears on
 - [Teacher-student racial match is linked to better social, emotional, and academic outcomes, including lower dropout and higher college enrollment for Black students](teacher-student-racial-match-sead-benefits.md) — a broader claim this one bears on

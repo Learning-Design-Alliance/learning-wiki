@@ -42,7 +42,7 @@ Deployment report from a single-institution experience report at a comprehensive
 
 ## Related Claims
 - [Boundary cases: at least one non-technical client felt overwhelmed by multi-tool complexity, and a subset of surveyed students deliberately rejected AI use, framing the framework as serving the tentatively open](learnai-boundary-cases-overwhelm-and-rejection.md) — related
-- [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
+- Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only — related
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related

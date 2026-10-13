@@ -62,6 +62,6 @@ Survey ratings of local schools' support for learner variability found "comparat
 
 
 ## Related Claims
-- [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](capability-belief-achievement-gap-survey.md) — related
+- Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points — related
 - [Roughly eight in ten of the public, parents, and teachers perceive a great deal or good amount of learner variability across students and across school subjects](learner-variability-perceived-widespread.md) — related
-- [Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers](tailored-instruction-barriers-shallow-tax-support.md) — related
+- Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers — related

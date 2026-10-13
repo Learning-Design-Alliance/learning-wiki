@@ -66,6 +66,6 @@ Under Strategy 5, the scan rates Pennsylvania green on induction and mentoring, 
 - [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
 - [Ohio partially meets criteria for public educator diversity data: state-level data posted but school-level, completer, and retention data missing](ohio-partial-educator-diversity-data-transparency.md) — related
 - [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](ohio-resident-educator-induction-mentoring-meets-criteria.md) — related
-- [Ohio does not invest in scholarships or loan forgiveness programs targeting students of color for teaching](ohio-no-targeted-scholarship-loan-forgiveness.md) — related
-- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related
-- [Ohio's Diversifying the Education Profession Taskforce (fall 2018, 40 individuals) is rated a best practice](ohio-diversifying-education-profession-taskforce-best-practice.md) — related
+- Ohio does not invest in scholarships or loan forgiveness programs targeting students of color for teaching — related
+- Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related
+- Ohio's Diversifying the Education Profession Taskforce (fall 2018, 40 individuals) is rated a best practice — related

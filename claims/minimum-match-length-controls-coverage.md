@@ -63,4 +63,4 @@ Post-processing sensitivity analysis (Figure 4) applying minimum match length fi
 
 ## Related Claims
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
-- [Student submissions matched the LLM-generated reference bank more often in later cohorts, with 2025 incidence 1.76–2.12 times the 2021 rate, persisting among full-pass submissions](student-llm-match-incidence-rose-across-cohorts.md) — related
+- Student submissions matched the LLM-generated reference bank more often in later cohorts, with 2025 incidence 1.76–2.12 times the 2021 rate, persisting among full-pass submissions — related
