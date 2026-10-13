@@ -65,3 +65,4 @@ Same field-of-study t-test analysis; the Learning subdimension (t=1.5, p=.135) a
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — related
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
+- [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](modality-effect-field-of-study-moderator.md) — related

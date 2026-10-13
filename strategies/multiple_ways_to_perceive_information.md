@@ -59,8 +59,10 @@ Multimodal presentation works when each mode carries a distinct, coordinated por
 6. Check comprehension through varied output formats — written, visual, or oral — rather than a single response mode.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — segmentation of multimodal content keeps each channel within working memory limits
 - [Clear Structure Presentation](../principles/clear-structure.md) — signaling and organization determine whether multiple modes integrate or compete
+- [Use audio-visual (spoken text with graphics) presentation for system-paced, high element interactivity instruction](spoken-text-graphics-system-paced-instruction.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — narrated visual problem-solving videos with synchronized writing, exemplifying temporal contiguity.

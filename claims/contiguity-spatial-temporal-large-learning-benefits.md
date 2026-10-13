@@ -66,3 +66,7 @@ The larger review (Schroeder & Cenkci, 2018) found spatial contiguity significan
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — a narrower finding that bears on this claim
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — a narrower finding that bears on this claim
+- [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — possibly the same claim (merge candidate)
+- [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — a narrower finding that bears on this claim
+- [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — a narrower finding that bears on this claim
+- [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both](testing-format-moderates-contiguity-effect.md) — a narrower finding that bears on this claim

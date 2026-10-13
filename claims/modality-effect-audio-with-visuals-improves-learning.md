@@ -48,3 +48,6 @@ Synthesis of two reviews of the modality effect (Ginns, 2005; Reinwein, 2012); t
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
+- [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-overall-audio-visual-advantage.md) — related
+- [The modality effect is particularly strong for students learning through virtual reality media](modality-effect-stronger-in-virtual-reality.md) — a narrower finding that bears on this claim
+- [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related

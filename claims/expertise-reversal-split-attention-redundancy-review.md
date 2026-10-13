@@ -63,3 +63,4 @@ The review reports, citing Yeung, Jin, and Sweller (1998), a textual study showi
 
 ## Related Claims
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
+- [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-limits-contiguity-benefits.md) — possibly the same claim (merge candidate)

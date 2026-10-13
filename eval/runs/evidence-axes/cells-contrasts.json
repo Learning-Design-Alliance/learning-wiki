@@ -31438,5 +31438,517 @@
  "worked-examples\tworked-example condition\tpractice condition": {
   "label": "worked examples vs practice",
   "treatment_is_a": true
+ },
+ "active-learning\tActive engagement\tPassive engagement": {
+  "label": "Active engagement vs passive engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\tConstructive engagement\tActive engagement": {
+  "label": "Constructive engagement vs active engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive engagement\tConstructive engagement": {
+  "label": "Interactive engagement vs constructive engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\tInteractive engagement\tPassive engagement": {
+  "label": "Interactive engagement vs passive engagement",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning in large classes (>110 students)\ttraditional lecturing": {
+  "label": "Active learning vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning in medium classes (51–110 students)\ttraditional lecturing": {
+  "label": "Active learning vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning in small classes (≤50 students)\ttraditional lecturing": {
+  "label": "Active learning vs traditional lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive overt engagement behaviors\tpassive overt engagement behaviors": {
+  "label": "Active overt engagement behaviors vs passive overt engagement behaviors",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructive dialogue with frequent turn-taking\tconstructive dialogue consisting of turn-taking minilectures": {
+  "label": "Frequent-turn-taking constructive dialogue vs minilecture-based constructive dialogue",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructive self-explanation with new ideas\tverbatim self-explanation of what was read": {
+  "label": "Constructive self-explanation with new ideas vs verbatim self-explanation",
+  "treatment_is_a": true
+ },
+ "active-learning\tdominant speaker in an individual dialogue pattern\tlistening partner in an individual dialogue pattern": {
+  "label": "Dominant-speaker dialogue vs listening-partner dialogue",
+  "treatment_is_a": true
+ },
+ "active-learning\tjoint dialogue in which both partners make substantive contributions\tindividual dialogue with a dominant speaker and minimally contributing listener": {
+  "label": "Joint substantive dialogue vs individual dialogue with a dominant speaker and minimally contributing listener",
+  "treatment_is_a": true
+ },
+ "active-learning\tverbal discussion during collaboration\tonly motoric or physical interaction": {
+  "label": "Verbal discussion during collaboration vs motoric or physical interaction",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual presentation\tvisual-only presentation": {
+  "label": "audio-visual vs visual-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-only materials\tintegrated and split-source materials": {
+  "label": "integrated and split-source materials vs diagram-only materials",
+  "treatment_is_a": false
+ },
+ "media-design\tdynamic presentation\tstatic presentation": {
+  "label": "dynamic vs static presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphics with spoken text\tgraphics with printed text": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphics with spoken text in engineering\tgraphics with printed text in engineering": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphics with spoken text in maths/logic\tgraphics with printed text in maths/logic": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphics with spoken text in science\tgraphics with printed text in science": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphics with spoken text in social science\tgraphics with printed text in social science": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tincreasing spatial contiguity of related information\tless spatially contiguous presentation": {
+  "label": "higher vs lower spatial contiguity",
+  "treatment_is_a": true
+ },
+ "media-design\tincreasing temporal contiguity of related information\tless temporally contiguous presentation": {
+  "label": "higher vs lower temporal contiguity",
+  "treatment_is_a": true
+ },
+ "media-design\tself-paced graphics with spoken text\tself-paced graphics with printed text": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tspatially or temporally integrated information\tspatially or temporally non-integrated information": {
+  "label": "integrated vs non-integrated information",
+  "treatment_is_a": true
+ },
+ "media-design\tsystem-paced graphics with spoken text\tsystem-paced graphics with printed text": {
+  "label": "spoken text vs printed text",
+  "treatment_is_a": true
+ },
+ "media-design\tvirtual reality head-mounted display\taudio-tape": {
+  "label": "virtual-reality head-mounted display vs audio-only presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tvirtual reality head-mounted display\tcomputer screen": {
+  "label": "virtual-reality head-mounted display vs computer-screen presentation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI performs most of the cognitive work\tlearners actively evaluate information and retain human judgment": {
+  "label": "AI cognitive work vs human judgment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI platform use with an in-person human tutor\tindependent AI platform use": {
+  "label": "AI platform plus human tutor vs AI platform alone",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI platform with structured task breakdowns\tgeneral conversational LLMs": {
+  "label": "Structured task-breakdown AI vs general conversational LLM",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI platforms with higher structured task breakdowns\tgeneral conversational LLMs": {
+  "label": "Structured task-breakdown AI vs general conversational LLM",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI positioned as a substitute teacher\tAI positioned as a teaching partner": {
+  "label": "AI as substitute teacher vs AI as teaching partner",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI positioned as a teaching partner\tAI positioned as a grading assistant or substitute teacher": {
+  "label": "AI as teaching partner vs AI as grading assistant or substitute teacher",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI positioned as a teaching partner\tAI positioned as a substitute teacher": {
+  "label": "AI as teaching partner vs AI as substitute teacher",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI predictive analytics\tnot stated": {
+  "label": "AI predictive analytics vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI provides real-time progress tracking and continuous feedback\tAI without real-time progress tracking and continuous feedback": {
+  "label": "Real-time progress tracking and continuous feedback vs no such tracking or feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI real-time translation\tGoogle Translate": {
+  "label": "AI real-time translation vs Google Translate",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI recommendations with limited explainability\tExplainable or interpretable AI recommendations": {
+  "label": "Limited-explainability AI recommendations vs explainable AI recommendations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI reliance\tless or no AI reliance": {
+  "label": "AI reliance vs less or no AI reliance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI reliance or substitution\tindependent cognitive effort": {
+  "label": "AI reliance or substitution vs independent cognitive effort",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI scaffolding that withholds answers and prompts recall or questions\tAI replacement that provides direct solutions": {
+  "label": "AI scaffolding that withholds answers vs AI replacement providing direct solutions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI speech recognition and diarization\tnot stated": {
+  "label": "AI speech recognition and diarization vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI standardized-patient consultation practice with MedEasy\thuman standardized-patient and real-patient encounters": {
+  "label": "AI standardized-patient practice vs human and real-patient encounters",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI substitutes for student thinking\tAI supports student thinking": {
+  "label": "AI substitutes for thinking vs AI supports thinking",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI supplies ready-made solutions\tstruggling to encode, retrieve, and reorganize information": {
+  "label": "AI ready-made solutions vs effortful encoding, retrieval, and reorganization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support\tAI support removed": {
+  "label": "AI support vs AI support removed",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support\tno AI support": {
+  "label": "AI support vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for autonomy\tAI support for relatedness": {
+  "label": "AI support for autonomy vs AI support for relatedness",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for existing educator workflows\texisting workflows without AI": {
+  "label": "AI support for educator workflows vs workflows without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for information retrieval and summarisation\tAI support for professional judgement and reasoning": {
+  "label": "AI retrieval and summarisation support vs AI professional-judgment and reasoning support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for planning\tAI support for revision": {
+  "label": "AI support for planning vs AI support for revision",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for planning\tno AI support": {
+  "label": "AI support for planning vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for relief from competence frustration\tAI support for autonomy": {
+  "label": "AI support relieving competence frustration vs AI support for autonomy",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for relief from competence frustration\tAI support for relatedness": {
+  "label": "AI support relieving competence frustration vs AI support for relatedness",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support for revision\tno AI support": {
+  "label": "AI support for revision vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support preserving learner responsibility\tAI direct answer delivery": {
+  "label": "AI support preserving learner responsibility vs direct answer delivery",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support through chatbots, tutors, and learning companions\tnot stated": {
+  "label": "AI chatbots, tutors, and learning companions vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI support with embodied robot feedback\tAI-only support with on-screen inspection and dialogue": {
+  "label": "Embodied robot AI feedback vs screen-only AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI system performance limitations with learner cognitive and autonomy risks\tother technical–pedagogical co-occurrence patterns": {
+  "label": "AI limitations with cognitive and autonomy risks vs other co-occurrence patterns",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI system supporting instructor judgment and feedback\tAI system independently determining unproductive engagement": {
+  "label": "AI supporting instructor judgment vs AI independently determining unproductive engagement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI system with early at-risk identification\tnot stated": {
+  "label": "Early at-risk identification by AI vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI system with tailored content\tnot stated": {
+  "label": "AI-tailored content vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems as bounded experts under human supervision\tteachers retaining ultimate authority and responsibility": {
+  "label": "Bounded AI experts under human supervision vs teacher ultimate authority",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems collecting and analysing personal learning data\tnot stated": {
+  "label": "AI collection and analysis of personal learning data vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems providing personalized resources, automatic assessment, and timely feedback\tnot stated": {
+  "label": "AI personalized resources, assessment, and feedback vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems supported by ready digital infrastructure\tAI systems in infrastructure-constrained contexts": {
+  "label": "AI with ready digital infrastructure vs AI in infrastructure-constrained contexts",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems supporting lecturer decisions\tnot stated": {
+  "label": "AI supporting lecturer decisions vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems trained on socially unequal datasets\tnot stated": {
+  "label": "AI trained on socially unequal datasets vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI systems with insufficient validation or biased training data\tnot stated": {
+  "label": "AI with insufficient validation or biased data vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI teaching assistants answering basic questions\tteachers answering all student questions": {
+  "label": "AI teaching assistants answering basic questions vs teachers answering all questions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI technological support\tnot stated": {
+  "label": "AI technological support vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI technologies\tnot stated in study": {
+  "label": "AI technologies vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI technologies and applications\tnot reported in the review synthesis": {
+  "label": "AI technologies and applications vs not reported",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI text detector applied to a human-written paper\tnot stated": {
+  "label": "AI detector applied to human writing vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI that exits the screen and hands off attention to social or environmental activity\tAI optimized for engagement with the system": {
+  "label": "AI handing attention to outside activity vs AI optimizing system engagement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI that points toward and hands off to activities outside the screen\tAI that optimizes engagement with the system": {
+  "label": "AI handing attention to outside activity vs AI optimizing system engagement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools available during language performance\tAI tools unavailable or restricted": {
+  "label": "AI tools available during performance vs unavailable or restricted",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools designed to optimize learner agency and flourishing\tincreasingly complex, capable, and agentic AIED systems": {
+  "label": "AI optimizing learner agency and flourishing vs increasingly agentic AIED",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for EL2 learning\tnot stated": {
+  "label": "AI tools for EL2 learning vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for instructional and assessment tasks\tnot stated": {
+  "label": "AI tools for instruction and assessment vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for routine activities and lesson preparation, including MATH41\tNot stated": {
+  "label": "AI tools for routine activities and lesson preparation vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for speaking practice\tnot consistently specified": {
+  "label": "AI tools for speaking practice vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for vocabulary learning\tnot consistently specified": {
+  "label": "AI tools for vocabulary learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for writing\tnot consistently specified": {
+  "label": "AI tools for writing vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools in science teaching\tneutral midpoint": {
+  "label": "AI tools in science teaching vs neutral midpoint",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools optimizing learner agency and flourishing\tincreasingly complex and agentic AIED systems": {
+  "label": "AI optimizing learner agency and flourishing vs increasingly agentic AIED",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools perceived as useful\tlimitations of existing AI tools": {
+  "label": "Perceived usefulness of AI tools vs perceived limitations",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools that enhance social presence and emotional engagement\tcomparison not specified in review": {
+  "label": "AI enhancing social presence and emotional engagement vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools used in hiring processes\tnot stated": {
+  "label": "AI tools in hiring vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools with personalized feedback and visible progress indicators\tnot stated": {
+  "label": "AI personalized feedback and progress indicators vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools, including virtual labs, simulations, and intelligent tutoring systems\tlearning without these AI-supported tools": {
+  "label": "AI virtual labs, simulations, and ITS vs learning without them",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI trained or validated in one context\tuse in another context": {
+  "label": "AI trained or validated in one context vs use in another context",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutor offered\tholdout condition": {
+  "label": "AI tutor offered vs holdout",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring\tno-tutoring control": {
+  "label": "AI tutoring vs no tutoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring in Quantitative GRE\tno-tutoring control": {
+  "label": "AI tutoring for Quantitative GRE vs no tutoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring in Verbal GRE\tno-tutoring control": {
+  "label": "AI tutoring for Verbal GRE vs no tutoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring pooled across AI tutors\texpert human tutoring": {
+  "label": "AI tutoring vs expert human tutoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI under ethical, well-governed conditions\tAI under market-driven, weakly regulated conditions": {
+  "label": "Ethically governed AI vs market-driven weakly regulated AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI understood as autonomous, intelligent, and objective\tAI understood as a human-produced system dependent on labour and data extraction": {
+  "label": "AI as autonomous and objective vs AI as human-produced and labour-dependent",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use\tlower or no AI use": {
+  "label": "AI use vs lower or no AI use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use\tno AI use": {
+  "label": "AI use vs no AI use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use as learning assistance\tAI use as a cheating method": {
+  "label": "AI as learning assistance vs AI as cheating",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use described with addiction metaphors\tAI use without addiction metaphors": {
+  "label": "AI use with addiction metaphors vs without addiction metaphors",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use during the exposure phase\tindependent completion during the exposure phase": {
+  "label": "AI use during exposure vs independent completion during exposure",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use for checking correctness\tother reported AI uses": {
+  "label": "AI for checking correctness vs other AI uses",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use for consuming student profiles\tAI use for creating intervention plans": {
+  "label": "AI consuming student profiles vs AI creating intervention plans",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use for relatively demanding tasks\tAI use across less-demanding tasks and task types": {
+  "label": "AI for demanding tasks vs AI across less-demanding tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use in education\tnot stated": {
+  "label": "AI use in education vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use in educational decision-making and task completion\thuman judgment without AI dependence": {
+  "label": "AI use in decisions and task completion vs human judgment without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use in some form or context\tno AI use at all": {
+  "label": "AI use in some form vs no AI use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use involving automation or automatic grading\tAI use with less automation": {
+  "label": "AI automation or automatic grading vs less AI automation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use or dependence\tnot stated": {
+  "label": "AI use or dependence vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use or interaction\tnon-AI or alternative use": {
+  "label": "AI use or interaction vs non-AI or alternative use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use primarily for direct solutions\tAI use for hints and clarification": {
+  "label": "AI direct solutions vs AI hints and clarification",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use requiring Cubase audio-processing knowledge\tAI use without requiring audio-processing-program knowledge": {
+  "label": "AI use requiring Cubase knowledge vs AI use without that knowledge",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use to obtain direct solutions\tAI use for hints or clarifications": {
+  "label": "AI direct solutions vs AI hints or clarification",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use with algorithmic bias\tAI use without algorithmic bias": {
+  "label": "AI use with algorithmic bias vs without algorithmic bias",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use with human evaluation of outputs\tAI output accepted through unexamined hand-offs": {
+  "label": "AI outputs human-evaluated vs unexamined hand-offs",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use with privacy and surveillance concerns\tAI use without these concerns": {
+  "label": "AI use with privacy and surveillance concerns vs without those concerns",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI use with system-usability problems\tAI use with better usability": {
+  "label": "AI use with usability problems vs better usability",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used as a cognitive partner for reflective thought\tAI used to outsource cognitive tasks": {
+  "label": "AI as cognitive partner for reflection vs outsourcing cognitive tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used as learning assistance\tAI viewed as a cheating method": {
+  "label": "AI as learning assistance vs AI as cheating",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used iteratively to improve and reshape lesson design\tcopying AI outputs without critical mediation": {
+  "label": "Iterative critical AI use in lesson design vs copying AI outputs",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used to obtain direct solutions\tAI used for hints or clarification": {
+  "label": "AI direct solutions vs AI hints or clarification",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used to obtain direct solutions\tno-AI control": {
+  "label": "AI direct solutions vs no-AI control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI videos as summaries or supplemental material\tAI videos replacing instructor-led lectures": {
+  "label": "AI videos as summaries or supplements vs AI videos replacing lectures",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI videos for simple or visualizable topics\tAI videos for complex topics": {
+  "label": "AI videos for simple topics vs AI videos for complex topics",
+  "treatment_is_a": true
  }
 }

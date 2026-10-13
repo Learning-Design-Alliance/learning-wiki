@@ -89,3 +89,4 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related
 - [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — a narrower finding that bears on this claim
+- [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-limits-contiguity-benefits.md) — a narrower finding that bears on this claim

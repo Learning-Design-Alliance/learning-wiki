@@ -47,3 +47,4 @@ Interaction engagement quantified by counting conversational turns in chat logs 
 - [Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns](everyday-llm-use-engagement-prevalence.md) — related
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](learner-gains-persist-despite-tutor-quality-degradation.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
+- [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related

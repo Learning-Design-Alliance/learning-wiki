@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (17 for, 6 mixed, 1 against) · 29 studies (13 causal, 8 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (19 for, 7 mixed, 1 against) · 30 studies (13 causal, 9 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 21 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -92,6 +92,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](../claims/split-attention-effect-in-worked-examples.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples"; tests this page's relationship.
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](../claims/subgoal-labels-worked-examples-transfer.md) [+W] — attached 2026-10-13 from Atkinson et al. (2000), which proposed "A three-factor causal framework organizes the factors that influence learning from worked examples".
+- [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](../claims/modality-effect-moderated-by-pacing.md) [~W] — attached 2026-10-13 from Ginns (2005), which proposed "Cognitive load theory account of the modality effect via dual working-memory channels"; tests this page's relationship.
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [+W] — attached 2026-10-13 from Ginns (2006), which proposed "Cognitive Load Theory account of split-attention costs"; tests this page's relationship.
+- [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](../claims/integration-of-related-elements-large-mean-effect.md) [+W] — attached 2026-10-13 from Ginns (2006), which proposed "Cognitive Load Theory account of split-attention costs".
 
 ## Related Theories
 

@@ -45,3 +45,4 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-overall-audio-visual-advantage.md) — related

@@ -50,3 +50,4 @@ Theoretical/methodological argument about sources of variation in secondary rese
 - [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](risk-of-bias-varies-by-study-design.md) — related
 - [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](vague-statistics-definitions-never-formalized.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
+- [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](active-learning-effect-robust-bias-and-rigor.md) — related

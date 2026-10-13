@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18136,
+"claim":18165,
 "design":715,
 "element":1080,
 "learner-variable":12,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1579,
 "research-method":423,
-"strategy":5581,
+"strategy":5583,
 "theory":1372
 },
 "kinds":[
@@ -1579,6 +1579,15 @@
 "type":"claim"
 },
 {
+"description":"Academic risk status does not significantly moderate the mind-set–achievement correlation",
+"evidence_strength":"moderate",
+"id":"academic-risk-not-moderator-mindset-correlation",
+"path":"claims/academic-risk-not-moderator-mindset-correlation.md",
+"status":"draft",
+"title":"Academic risk status does not significantly moderate the mind-set–achievement correlation",
+"type":"claim"
+},
+{
 "description":"Academic status shows a significant overall association with classification accuracy, but sex does not; individual status contrasts are exploratory",
 "evidence_strength":"weak",
 "id":"academic-status-omnibus-sex-null-ethical-judgment",
@@ -2218,6 +2227,15 @@
 "type":"claim"
 },
 {
+"description":"Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04",
+"evidence_strength":"weak",
+"id":"achievement-measure-moderator-lab-exclusion",
+"path":"claims/achievement-measure-moderator-lab-exclusion.md",
+"status":"draft",
+"title":"Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04",
+"type":"claim"
+},
+{
 "description":"One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects",
 "evidence_strength":"moderate",
 "id":"achievement-returns-to-expected-after-closing",
@@ -2488,6 +2506,15 @@
 "type":"claim"
 },
 {
+"description":"Active learning's performance benefits hold across all STEM disciplines",
+"evidence_strength":"strong",
+"id":"active-learning-benefits-hold-across-stem-disciplines",
+"path":"claims/active-learning-benefits-hold-across-stem-disciplines.md",
+"status":"draft",
+"title":"Active learning's performance benefits hold across all STEM disciplines",
+"type":"claim"
+},
+{
 "description":"Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions",
 "evidence_strength":"moderate",
 "id":"active-learning-conditions-more-other-pedagogical-features",
@@ -2506,12 +2533,30 @@
 "type":"claim"
 },
 {
+"description":"The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies",
+"evidence_strength":"strong",
+"id":"active-learning-effect-robust-bias-and-rigor",
+"path":"claims/active-learning-effect-robust-bias-and-rigor.md",
+"status":"draft",
+"title":"The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies",
+"type":"claim"
+},
+{
 "description":"Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure",
 "evidence_strength":"weak",
 "id":"active-learning-felt-learning-paradox",
 "path":"claims/active-learning-felt-learning-paradox.md",
 "status":"draft",
 "title":"Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure",
+"type":"claim"
+},
+{
+"description":"Active learning gains are larger on concept inventories than on instructor-written course examinations",
+"evidence_strength":"moderate",
+"id":"active-learning-gains-larger-concept-inventories",
+"path":"claims/active-learning-gains-larger-concept-inventories.md",
+"status":"draft",
+"title":"Active learning gains are larger on concept inventories than on instructor-written course examinations",
 "type":"claim"
 },
 {
@@ -2559,12 +2604,30 @@
 "type":"claim"
 },
 {
+"description":"Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing",
+"evidence_strength":"strong",
+"id":"active-learning-raises-stem-exam-performance-047-sd",
+"path":"claims/active-learning-raises-stem-exam-performance-047-sd.md",
+"status":"draft",
+"title":"Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing",
+"type":"claim"
+},
+{
 "description":"Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average",
 "evidence_strength":"strong",
 "id":"active-learning-reduces-exam-achievement-gaps-33-percent",
 "path":"claims/active-learning-reduces-exam-achievement-gaps-33-percent.md",
 "status":"draft",
 "title":"Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average",
+"type":"claim"
+},
+{
+"description":"Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students",
+"evidence_strength":"moderate",
+"id":"active-learning-strongest-small-classes",
+"path":"claims/active-learning-strongest-small-classes.md",
+"status":"draft",
+"title":"Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students",
 "type":"claim"
 },
 {
@@ -31175,6 +31238,15 @@
 "type":"claim"
 },
 {
+"description":"Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given",
+"evidence_strength":"moderate",
+"id":"constructive-generates-beyond-information-given",
+"path":"claims/constructive-generates-beyond-information-given.md",
+"status":"draft",
+"title":"Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"low",
 "id":"constructive-learning-beats-active-passive",
@@ -40276,6 +40348,15 @@
 "type":"claim"
 },
 {
+"description":"Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults",
+"evidence_strength":"moderate",
+"id":"developmental-stage-moderates-mindset-correlation",
+"path":"claims/developmental-stage-moderates-mindset-correlation.md",
+"status":"draft",
+"title":"Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults",
+"type":"claim"
+},
+{
 "description":"AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases",
 "evidence_strength":"moderate",
 "id":"developmentally-distinct-ai-literacy-patterns-by-phase",
@@ -48103,6 +48184,15 @@
 "type":"claim"
 },
 {
+"description":"The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials",
+"evidence_strength":"moderate",
+"id":"element-interactivity-moderates-contiguity-effect",
+"path":"claims/element-interactivity-moderates-contiguity-effect.md",
+"status":"draft",
+"title":"The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials",
+"type":"claim"
+},
+{
 "description":"Elementary attendance improved more in schools that were strong or growing on 5Essentials Survey measures, in both pooled and within-school models",
 "evidence_strength":"moderate",
 "id":"elementary-attendance-improves-strong-5essentials-measures",
@@ -49658,6 +49748,15 @@
 "path":"claims/engagement-metrics-predict-perceived-helpfulness.md",
 "status":"draft",
 "title":"Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions",
+"type":"claim"
+},
+{
+"description":"Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes",
+"evidence_strength":"moderate",
+"id":"engagement-mode-orthogonal-to-instructional-task",
+"path":"claims/engagement-mode-orthogonal-to-instructional-task.md",
+"status":"draft",
+"title":"Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes",
 "type":"claim"
 },
 {
@@ -53205,6 +53304,15 @@
 "path":"claims/expertise-reversal-isolated-elements-and-imagination-review.md",
 "status":"draft",
 "title":"The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise",
+"type":"claim"
+},
+{
+"description":"Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant",
+"evidence_strength":"weak",
+"id":"expertise-reversal-limits-contiguity-benefits",
+"path":"claims/expertise-reversal-limits-contiguity-benefits.md",
+"status":"draft",
+"title":"Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant",
 "type":"claim"
 },
 {
@@ -67073,6 +67181,15 @@
 "type":"claim"
 },
 {
+"description":"The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)",
+"evidence_strength":"moderate",
+"id":"growth-mindset-achievement-correlation-weak",
+"path":"claims/growth-mindset-achievement-correlation-weak.md",
+"status":"draft",
+"title":"The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)",
+"type":"claim"
+},
+{
 "description":"NMSA staff report that growth mindset connects the school's arts and academic aims, and the concept is now introduced explicitly in the classroom",
 "evidence_strength":"weak",
 "id":"growth-mindset-connects-arts-and-academics",
@@ -71934,6 +72051,15 @@
 "type":"claim"
 },
 {
+"description":"The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)",
+"evidence_strength":"moderate",
+"id":"icap-hypothesis-learning-increases-i-cap",
+"path":"claims/icap-hypothesis-learning-increases-i-cap.md",
+"status":"draft",
+"title":"The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)",
+"type":"claim"
+},
+{
 "description":"Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight",
 "evidence_strength":"moderate",
 "id":"icap-modes-across-ai-literacy-studies",
@@ -74094,6 +74220,15 @@
 "type":"claim"
 },
 {
+"description":"In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings",
+"evidence_strength":"weak",
+"id":"individual-dialogue-dominant-speaker-learns-more",
+"path":"claims/individual-dialogue-dominant-speaker-learns-more.md",
+"status":"draft",
+"title":"In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings",
+"type":"claim"
+},
+{
 "description":"Trauma-engaged practices performable by individual educators were implemented more than practices requiring school- or district-level coordination",
 "evidence_strength":"moderate",
 "id":"individual-educator-practices-implemented-more-than-systems-practices",
@@ -75822,6 +75957,15 @@
 "type":"claim"
 },
 {
+"description":"Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices",
+"evidence_strength":"moderate",
+"id":"integration-of-related-elements-large-mean-effect",
+"path":"claims/integration-of-related-elements-large-mean-effect.md",
+"status":"draft",
+"title":"Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices",
+"type":"claim"
+},
+{
 "description":"Integration–performance link fails in specialized offices, contradicting the differentiation–integration paradigm",
 "evidence_strength":"moderate",
 "id":"integration-performance-link-fails-in-specialized-offices",
@@ -76305,6 +76449,15 @@
 "path":"claims/interactive-pedagogy-increased-below-norm.md",
 "status":"draft",
 "title":"Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes",
+"type":"claim"
+},
+{
+"description":"Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking",
+"evidence_strength":"moderate",
+"id":"interactive-requires-constructive-turn-taking",
+"path":"claims/interactive-requires-constructive-turn-taking.md",
+"status":"draft",
+"title":"Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking",
 "type":"claim"
 },
 {
@@ -83787,6 +83940,15 @@
 "path":"claims/lecturer-meta-rules-endorsed-and-enacted.md",
 "status":"draft",
 "title":"Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior",
+"type":"claim"
+},
+{
+"description":"Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses",
+"evidence_strength":"strong",
+"id":"lecturing-increases-stem-failure-rates",
+"path":"claims/lecturing-increases-stem-failure-rates.md",
+"status":"draft",
+"title":"Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses",
 "type":"claim"
 },
 {
@@ -94283,6 +94445,15 @@
 "type":"claim"
 },
 {
+"description":"Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant",
+"evidence_strength":"moderate",
+"id":"mindset-achievement-heterogeneity-high",
+"path":"claims/mindset-achievement-heterogeneity-high.md",
+"status":"draft",
+"title":"Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant",
+"type":"claim"
+},
+{
 "description":"8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not",
 "evidence_strength":"moderate",
 "id":"mindset-behavior-predict-on-track-performance-avoidance-does-not",
@@ -94307,6 +94478,15 @@
 "path":"claims/mindset-gpa-effects-smaller-high-achieving-schools.md",
 "status":"draft",
 "title":"GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)",
+"type":"claim"
+},
+{
+"description":"Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit",
+"evidence_strength":"weak",
+"id":"mindset-intervention-effects-weak-subgroup-benefit",
+"path":"claims/mindset-intervention-effects-weak-subgroup-benefit.md",
+"status":"draft",
+"title":"Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit",
 "type":"claim"
 },
 {
@@ -95544,12 +95724,30 @@
 "type":"claim"
 },
 {
+"description":"Modality effect sizes differ across fields of study, with social science effects negative and science effects largest",
+"evidence_strength":"moderate",
+"id":"modality-effect-field-of-study-moderator",
+"path":"claims/modality-effect-field-of-study-moderator.md",
+"status":"draft",
+"title":"Modality effect sizes differ across fields of study, with social science effects negative and science effects largest",
+"type":"claim"
+},
+{
 "description":"The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concr...",
 "evidence_strength":"moderate",
 "id":"modality-effect-holds-middle-school-electricity",
 "path":"claims/modality-effect-holds-middle-school-electricity.md",
 "status":"draft",
 "title":"The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation",
+"type":"claim"
+},
+{
+"description":"Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions",
+"evidence_strength":"moderate",
+"id":"modality-effect-moderated-by-pacing",
+"path":"claims/modality-effect-moderated-by-pacing.md",
+"status":"draft",
+"title":"Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions",
 "type":"claim"
 },
 {
@@ -95563,12 +95761,39 @@
 "type":"claim"
 },
 {
+"description":"Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)",
+"evidence_strength":"moderate",
+"id":"modality-effect-overall-audio-visual-advantage",
+"path":"claims/modality-effect-overall-audio-visual-advantage.md",
+"status":"draft",
+"title":"Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)",
+"type":"claim"
+},
+{
 "description":"Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning",
 "evidence_strength":"moderate",
 "id":"modality-effect-spoken-text-visual-information",
 "path":"claims/modality-effect-spoken-text-visual-information.md",
 "status":"draft",
 "title":"Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning",
+"type":"claim"
+},
+{
+"description":"The modality effect is particularly strong for students learning through virtual reality media",
+"evidence_strength":"weak",
+"id":"modality-effect-stronger-in-virtual-reality",
+"path":"claims/modality-effect-stronger-in-virtual-reality.md",
+"status":"draft",
+"title":"The modality effect is particularly strong for students learning through virtual reality media",
+"type":"claim"
+},
+{
+"description":"Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)",
+"evidence_strength":"weak",
+"id":"modality-effect-within-subjects-d073",
+"path":"claims/modality-effect-within-subjects-d073.md",
+"status":"draft",
+"title":"Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)",
 "type":"claim"
 },
 {
@@ -133297,6 +133522,15 @@
 "type":"claim"
 },
 {
+"description":"Socioeconomic status does not significantly moderate the mind-set–achievement correlation",
+"evidence_strength":"moderate",
+"id":"ses-not-moderator-mindset-correlation",
+"path":"claims/ses-not-moderator-mindset-correlation.md",
+"status":"draft",
+"title":"Socioeconomic status does not significantly moderate the mind-set–achievement correlation",
+"type":"claim"
+},
+{
 "description":"Offering SES to eligible applicants near the cutoff in oversubscribed districts has no statistically significant impact on reading or math achievement",
 "evidence_strength":"moderate",
 "id":"ses-offer-no-significant-impact-itt",
@@ -137743,6 +137977,15 @@
 "type":"claim"
 },
 {
+"description":"Spatial and temporal contiguity effects do not differ significantly in mean magnitude",
+"evidence_strength":"moderate",
+"id":"spatial-temporal-contiguity-equivalent-magnitudes",
+"path":"claims/spatial-temporal-contiguity-equivalent-magnitudes.md",
+"status":"draft",
+"title":"Spatial and temporal contiguity effects do not differ significantly in mean magnitude",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"emerging",
 "id":"spatial-training-improves-math-performance",
@@ -140225,6 +140468,15 @@
 "path":"claims/static-assessment-misses-emerging-functions.md",
 "status":"draft",
 "title":"Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies",
+"type":"claim"
+},
+{
+"description":"Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information",
+"evidence_strength":"weak",
+"id":"static-dynamic-presentation-no-moderation",
+"path":"claims/static-dynamic-presentation-no-moderation.md",
+"status":"draft",
+"title":"Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information",
 "type":"claim"
 },
 {
@@ -151342,6 +151594,15 @@
 "path":"claims/testing-effectiveness-traded-against-school-days-lost.md",
 "status":"draft",
 "title":"The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh",
+"type":"claim"
+},
+{
+"description":"Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both",
+"evidence_strength":"moderate",
+"id":"testing-format-moderates-contiguity-effect",
+"path":"claims/testing-format-moderates-contiguity-effect.md",
+"status":"draft",
+"title":"Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both",
 "type":"claim"
 },
 {
@@ -228785,6 +229046,14 @@
 "type":"strategy"
 },
 {
+"description":"Based on the meta-analytic evidence, the authors recommend abandoning traditional lecturing in favor of active learning in regular STEM classrooms, and they question \\\"the continued use of traditional lecturing as a co...",
+"id":"prefer-active-learning-over-lecturing-stem",
+"path":"strategies/prefer-active-learning-over-lecturing-stem.md",
+"status":"draft",
+"title":"Adopt active learning as the default in regular undergraduate STEM classrooms and shift research away from lecturing controls",
+"type":"strategy"
+},
+{
 "description":"The brief recommends that districts distinguish lockdown drills from active shooter exercises when deciding what to conduct.",
 "id":"prefer-lockdown-drills-over-realistic-exercises",
 "path":"strategies/prefer-lockdown-drills-over-realistic-exercises.md",
@@ -236146,6 +236415,14 @@
 "path":"strategies/spiral-development-for-assessment-software.md",
 "status":"draft",
 "title":"Use a spiral development model with periodic prototype deliveries for assessment software",
+"type":"strategy"
+},
+{
+"description":"The meta-analysis supports presenting textual information through an auditory mode while graphical information is presented visually, particularly when materials are system-paced and high in element interactivity.",
+"id":"spoken-text-graphics-system-paced-instruction",
+"path":"strategies/spoken-text-graphics-system-paced-instruction.md",
+"status":"draft",
+"title":"Use audio-visual (spoken text with graphics) presentation for system-paced, high element interactivity instruction",
 "type":"strategy"
 },
 {
@@ -255376,6 +255653,7 @@
 "academic-proficiency-takes-5-7-years":"academic-proficiency-takes-5-7-years",
 "academic-qualifications-vary-by-enrollment-status":"academic-qualifications-vary-by-enrollment-status",
 "academic-reliance-linked-stress-low-self-efficacy":"academic-reliance-linked-stress-low-self-efficacy",
+"academic-risk-not-moderator-mindset-correlation":"academic-risk-not-moderator-mindset-correlation",
 "academic-status-omnibus-sex-null-ethical-judgment":"academic-status-omnibus-sex-null-ethical-judgment",
 "academic-supports-bvi-math-outperformance":"academic-supports-bvi-math-outperformance",
 "academic-vocabulary-intensive-instruction-strong-evidence":"academic-vocabulary-intensive-instruction-strong-evidence",
@@ -255447,6 +255725,7 @@
 "achievement-focused-mission-charter-impacts":"achievement-focused-mission-charter-impacts",
 "achievement-gap-societal-costs":"achievement-gap-societal-costs",
 "achievement-locus-correlation-only-normal-adolescents":"achievement-locus-correlation-only-normal-adolescents",
+"achievement-measure-moderator-lab-exclusion":"achievement-measure-moderator-lab-exclusion",
 "achievement-returns-to-expected-after-closing":"achievement-returns-to-expected-after-closing",
 "achievement-variation-offset-across-grade-bands":"achievement-variation-offset-across-grade-bands",
 "achievement-weighting-clouds-learning-high-poverty":"achievement-weighting-clouds-learning-high-poverty",
@@ -255478,15 +255757,20 @@
 "active-el-reporting-bias":"active-el-reporting-bias",
 "active-els-underrepresented-four-year-colleges":"active-els-underrepresented-four-year-colleges",
 "active-engagement-higher-learning-gains-than-lecture":"active-engagement-higher-learning-gains-than-lecture",
+"active-learning-benefits-hold-across-stem-disciplines":"active-learning-benefits-hold-across-stem-disciplines",
 "active-learning-conditions-more-other-pedagogical-features":"active-learning-conditions-more-other-pedagogical-features",
 "active-learning-courses-retain-lecture-component":"active-learning-courses-retain-lecture-component",
+"active-learning-effect-robust-bias-and-rigor":"active-learning-effect-robust-bias-and-rigor",
 "active-learning-felt-learning-paradox":"active-learning-felt-learning-paradox",
+"active-learning-gains-larger-concept-inventories":"active-learning-gains-larger-concept-inventories",
 "active-learning-gap-effects-vary-across-studies":"active-learning-gap-effects-vary-across-studies",
 "active-learning-improves-exam-performance":"active-learning-improves-exam-performance",
 "active-learning-narrows-achievement-gaps":"active-learning-narrows-achievement-gaps",
 "active-learning-narrows-passing-rate-gap-45-percent":"active-learning-narrows-passing-rate-gap-45-percent",
 "active-learning-pedagogies-qr-redesign":"active-learning-pedagogies-qr-redesign",
+"active-learning-raises-stem-exam-performance-047-sd":"active-learning-raises-stem-exam-performance-047-sd",
 "active-learning-reduces-exam-achievement-gaps-33-percent":"active-learning-reduces-exam-achievement-gaps-33-percent",
+"active-learning-strongest-small-classes":"active-learning-strongest-small-classes",
 "active-participation-beats-mere-membership-for-learning":"active-participation-beats-mere-membership-for-learning",
 "active-to-constructive-largest-leap":"active-to-constructive-largest-leap",
 "activity-baseline-strongest-engagement-prediction":"activity-baseline-strongest-engagement-prediction",
@@ -258672,6 +258956,7 @@
 "constructive-conflict-guidance-increases-reconsideration":"constructive-conflict-guidance-increases-reconsideration",
 "constructive-conflict-increases-idea-editing":"constructive-conflict-increases-idea-editing",
 "constructive-engagement-contextual-organization":"constructive-engagement-contextual-organization",
+"constructive-generates-beyond-information-given":"constructive-generates-beyond-information-given",
 "constructive-learning-beats-active-passive":"constructive-learning-beats-active-passive",
 "constructivism-dominates-iranian-pre-university-elt-textbooks":"constructivism-dominates-iranian-pre-university-elt-textbooks",
 "constructivist-arithmetic-teaching-experiments":"constructivist-arithmetic-teaching-experiments",
@@ -259688,6 +259973,7 @@
 "developmental-education-loss-point-60-30":"developmental-education-loss-point-60-30",
 "developmental-practices-require-clear-priorities-and-leadership":"developmental-practices-require-clear-priorities-and-leadership",
 "developmental-shift-cognitive-offloading":"developmental-shift-cognitive-offloading",
+"developmental-stage-moderates-mindset-correlation":"developmental-stage-moderates-mindset-correlation",
 "developmentally-distinct-ai-literacy-patterns-by-phase":"developmentally-distinct-ai-literacy-patterns-by-phase",
 "device-access-gap-internet":"device-access-gap-internet",
 "device-provision-equity-high-poverty":"device-provision-equity-high-poverty",
@@ -260563,6 +260849,7 @@
 "elder-coteaching-changes-teacher-pedagogy":"elder-coteaching-changes-teacher-pedagogy",
 "elder-led-outdoor-learning-increases-participation":"elder-led-outdoor-learning-increases-participation",
 "element-1107-three-deficiencies-method-of-instruction":"element-1107-three-deficiencies-method-of-instruction",
+"element-interactivity-moderates-contiguity-effect":"element-interactivity-moderates-contiguity-effect",
 "elementary-attendance-improves-strong-5essentials-measures":"elementary-attendance-improves-strong-5essentials-measures",
 "elementary-candidates-lower-tpa-passing-rates":"elementary-candidates-lower-tpa-passing-rates",
 "elementary-equitable-distribution-highest-performing-teachers":"elementary-equitable-distribution-highest-performing-teachers",
@@ -260738,6 +261025,7 @@
 "engagement-forecasting-horizon-degradation":"engagement-forecasting-horizon-degradation",
 "engagement-index-null-and-unconfirmed-carryover":"engagement-index-null-and-unconfirmed-carryover",
 "engagement-metrics-predict-perceived-helpfulness":"engagement-metrics-predict-perceived-helpfulness",
+"engagement-mode-orthogonal-to-instructional-task":"engagement-mode-orthogonal-to-instructional-task",
 "engagement-optimized-rl-tutor-reward-hacking":"engagement-optimized-rl-tutor-reward-hacking",
 "engagement-performance-correlation-countries":"engagement-performance-correlation-countries",
 "engagement-positive-perceived-performance-agentic-ai":"engagement-positive-perceived-performance-agentic-ai",
@@ -261135,6 +261423,7 @@
 "expertise-reversal-fits-ati-patterns":"expertise-reversal-fits-ati-patterns",
 "expertise-reversal-guidance-hurts-experts":"expertise-reversal-effect",
 "expertise-reversal-isolated-elements-and-imagination-review":"expertise-reversal-isolated-elements-and-imagination-review",
+"expertise-reversal-limits-contiguity-benefits":"expertise-reversal-limits-contiguity-benefits",
 "expertise-reversal-modality-effect-review":"expertise-reversal-modality-effect-review",
 "expertise-reversal-prior-knowledge-interaction":"expertise-reversal-prior-knowledge-interaction",
 "expertise-reversal-split-attention-redundancy-review":"expertise-reversal-split-attention-redundancy-review",
@@ -262687,6 +262976,7 @@
 "growth-measures-clearer-picture-of-learning":"growth-measures-clearer-picture-of-learning",
 "growth-measures-combined-with-observations-in-evaluation":"growth-measures-combined-with-observations-in-evaluation",
 "growth-measures-widen-teacher-performance-range":"growth-measures-widen-teacher-performance-range",
+"growth-mindset-achievement-correlation-weak":"growth-mindset-achievement-correlation-weak",
 "growth-mindset-connects-arts-and-academics":"growth-mindset-connects-arts-and-academics",
 "growth-mindset-improves-achievement":"growth-mindset-improves-achievement",
 "growth-mindset-increases-advanced-math-enrolment":"growth-mindset-increases-advanced-math-enrolment",
@@ -263233,6 +263523,7 @@
 "ican-learn-supplemental-alternate-samples-null":"ican-learn-supplemental-alternate-samples-null",
 "ican-learn-thin-evidence-base-one-qualifying-study":"ican-learn-thin-evidence-base-one-qualifying-study",
 "icap-effective-audit-tool-asynchronous-online":"icap-effective-audit-tool-asynchronous-online",
+"icap-hypothesis-learning-increases-i-cap":"icap-hypothesis-learning-increases-i-cap",
 "icap-modes-across-ai-literacy-studies":"icap-modes-across-ai-literacy-studies",
 "icc-and-ldf-methods-identify-different-dif-items":"icc-and-ldf-methods-identify-different-dif-items",
 "icc-classroom-effects-gain-scores-15-percent":"icc-classroom-effects-gain-scores-15-percent",
@@ -263475,6 +263766,7 @@
 "individual-concern-profiles-vary-widely":"individual-concern-profiles-vary-widely",
 "individual-conditions-insufficient-course-performance":"individual-conditions-insufficient-course-performance",
 "individual-counterfactuals-student-help-conditions":"individual-counterfactuals-student-help-conditions",
+"individual-dialogue-dominant-speaker-learns-more":"individual-dialogue-dominant-speaker-learns-more",
 "individual-educator-practices-implemented-more-than-systems-practices":"individual-educator-practices-implemented-more-than-systems-practices",
 "individual-learning-conditions-predict-valued-beliefs":"individual-learning-conditions-predict-valued-beliefs",
 "individual-level-general-and-strategic-factors-attitudes":"individual-level-general-and-strategic-factors-attitudes",
@@ -263668,6 +263960,7 @@
 "integrated-student-supports-positive-outcomes":"integrated-student-supports-positive-outcomes",
 "integrated-supports-let-teachers-focus-on-learning":"integrated-supports-let-teachers-focus-on-learning",
 "integrating-academics-into-cte-challenging":"integrating-academics-into-cte-challenging",
+"integration-of-related-elements-large-mean-effect":"integration-of-related-elements-large-mean-effect",
 "integration-performance-link-fails-in-specialized-offices":"integration-performance-link-fails-in-specialized-offices",
 "integration-programs-neighborhood-stability":"integration-programs-neighborhood-stability",
 "integrative-cross-pane-gaze-transitions":"integrative-cross-pane-gaze-transitions",
@@ -263722,6 +264015,7 @@
 "interactive-genai-dialogue-promotes-engagement":"interactive-genai-dialogue-promotes-engagement",
 "interactive-instruction-positive-achievement-gains-chicago":"interactive-instruction-positive-achievement-gains-chicago",
 "interactive-pedagogy-increased-below-norm":"interactive-pedagogy-increased-below-norm",
+"interactive-requires-constructive-turn-taking":"interactive-requires-constructive-turn-taking",
 "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated":"interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
 "interactive-visual-grounding-relational-interpretation":"interactive-visual-grounding-relational-interpretation",
 "interchange-outnumbers-high-school-objectives":"interchange-outnumbers-high-school-objectives",
@@ -264566,6 +264860,7 @@
 "lecturaagents-taq-spatial-strong-temporal-variable":"lecturaagents-taq-spatial-strong-temporal-variable",
 "lecturer-discourse-variability-in-styles-and-routines":"lecturer-discourse-variability-in-styles-and-routines",
 "lecturer-meta-rules-endorsed-and-enacted":"lecturer-meta-rules-endorsed-and-enacted",
+"lecturing-increases-stem-failure-rates":"lecturing-increases-stem-failure-rates",
 "lecturing-on-values-does-not-transact-values-effectively":"lecturing-on-values-does-not-transact-values-effectively",
 "legal-professionals-overtrust-machine-translation":"legal-professionals-overtrust-machine-translation",
 "legitimacy-disciplinary-identity-resistance":"legitimacy-disciplinary-identity-resistance",
@@ -265734,9 +266029,11 @@
 "mindfulness-programs-benefit-adolescent-regulation":"mindfulness-programs-benefit-adolescent-regulation",
 "mindfulness-training-teacher-wellbeing-gains":"mindfulness-training-teacher-wellbeing-gains",
 "mindmatters-evaluation-mixed-effects":"mindmatters-evaluation-mixed-effects",
+"mindset-achievement-heterogeneity-high":"mindset-achievement-heterogeneity-high",
 "mindset-behavior-predict-on-track-performance-avoidance-does-not":"mindset-behavior-predict-on-track-performance-avoidance-does-not",
 "mindset-goal-orientation-correlation-student-teachers":"mindset-goal-orientation-correlation-student-teachers",
 "mindset-gpa-effects-smaller-high-achieving-schools":"mindset-gpa-effects-smaller-high-achieving-schools",
+"mindset-intervention-effects-weak-subgroup-benefit":"mindset-intervention-effects-weak-subgroup-benefit",
 "mindsets-engagement-peaks-midpoint":"mindsets-engagement-peaks-midpoint",
 "mindsets-engagement-pre-post-increase":"mindsets-engagement-pre-post-increase",
 "mindsets-increase-perseverance-behaviors-grades":"mindsets-increase-perseverance-behaviors-grades",
@@ -265877,9 +266174,14 @@
 "mobile-user-typology-predicts-adoption-intention":"mobile-user-typology-predicts-adoption-intention",
 "mobility-hiring-equity-closes-tqgs-5-years":"mobility-hiring-equity-closes-tqgs-5-years",
 "modality-effect-audio-with-visuals-improves-learning":"modality-effect-audio-with-visuals-improves-learning",
+"modality-effect-field-of-study-moderator":"modality-effect-field-of-study-moderator",
 "modality-effect-holds-middle-school-electricity":"modality-effect-holds-middle-school-electricity",
+"modality-effect-moderated-by-pacing":"modality-effect-moderated-by-pacing",
 "modality-effect-narration-over-text":"modality-effect-narration-over-text",
+"modality-effect-overall-audio-visual-advantage":"modality-effect-overall-audio-visual-advantage",
 "modality-effect-spoken-text-visual-information":"modality-effect-spoken-text-visual-information",
+"modality-effect-stronger-in-virtual-reality":"modality-effect-stronger-in-virtual-reality",
+"modality-effect-within-subjects-d073":"modality-effect-within-subjects-d073",
 "modality-moderates-courseware-experience":"modality-moderates-courseware-experience",
 "modality-principle-mayer-2008":"modality-principle-mayer-2008",
 "modality-principle-narration-beats-on-screen-text":"modality-effect-narration-over-text",
@@ -270120,6 +270422,7 @@
 "ses-cont-released-capacity-and-preventive-shift":"ses-cont-released-capacity-and-preventive-shift",
 "ses-differences-access-academically-auspicious-environments":"ses-differences-access-academically-auspicious-environments",
 "ses-disadvantage-more-prevalent-ltel7":"ses-disadvantage-more-prevalent-ltel7",
+"ses-not-moderator-mindset-correlation":"ses-not-moderator-mindset-correlation",
 "ses-offer-no-significant-impact-itt":"ses-offer-no-significant-impact-itt",
 "ses-participants-significant-achievement-gains":"ses-participants-significant-achievement-gains",
 "ses-participation-no-significant-impact-tot":"ses-participation-no-significant-impact-tot",
@@ -270621,6 +270924,7 @@
 "spatial-contiguity-improves-learning":"split-attention-effect-degrades-learning",
 "spatial-contiguity-meta-analysis-36-studies":"spatial-contiguity-meta-analysis-36-studies",
 "spatial-skills-improve-through-block-building":"spatial-skills-improve-through-block-building",
+"spatial-temporal-contiguity-equivalent-magnitudes":"spatial-temporal-contiguity-equivalent-magnitudes",
 "spatial-training-improves-math-performance":"spatial-training-improves-math-performance",
 "speaking-dominates-concurrent-oral-scale":"speaking-dominates-concurrent-oral-scale",
 "speaking-practice-reduced-flca-increased-self-efficacy":"speaking-practice-reduced-flca-increased-self-efficacy",
@@ -270899,6 +271203,7 @@
 "statewide-unemployment-variation-proxies-business-cycle-enrollment":"statewide-unemployment-variation-proxies-business-cycle-enrollment",
 "static-ai-use-features-no-incremental-posttest-variance":"static-ai-use-features-no-incremental-posttest-variance",
 "static-assessment-misses-emerging-functions":"static-assessment-misses-emerging-functions",
+"static-dynamic-presentation-no-moderation":"static-dynamic-presentation-no-moderation",
 "static-percentile-cutpoints-underidentify-post-renorming":"static-percentile-cutpoints-underidentify-post-renorming",
 "station-study-app-novelty-perception":"station-study-app-novelty-perception",
 "statistical-item-selection-conflicts-criterion-referenced-definition":"statistical-item-selection-conflicts-criterion-referenced-definition",
@@ -272144,6 +272449,7 @@
 "testing-effect-retrieval-practice-improves-retention":"retrieval-practice-improves-retention",
 "testing-effect-robust-versus-restudy-control":"testing-effect-robust-versus-restudy-control",
 "testing-effectiveness-traded-against-school-days-lost":"testing-effectiveness-traded-against-school-days-lost",
+"testing-format-moderates-contiguity-effect":"testing-format-moderates-contiguity-effect",
 "testing-improves-retention":"retrieval-practice-improves-retention",
 "testing-yields-transfer-versus-reexposure-control-d-040":"testing-yields-transfer-versus-reexposure-control-d-040",
 "testlet-proportionality-restrictions-implausible":"testlet-proportionality-restrictions-implausible",
@@ -281917,6 +282223,7 @@
 "prediction-observation-explanation":"prediction-observation-explanation",
 "prediction_relay":"prediction_relay",
 "predictive_emotion_planning":"predictive_emotion_planning",
+"prefer-active-learning-over-lecturing-stem":"prefer-active-learning-over-lecturing-stem",
 "prefer-lockdown-drills-over-realistic-exercises":"prefer-lockdown-drills-over-realistic-exercises",
 "preferential_seating":"preferential_seating",
 "preferred-language-storytelling-practice":"preferred-language-storytelling-practice",
@@ -282921,6 +283228,7 @@
 "spherical-earth-before-day-night-instruction":"spherical-earth-before-day-night-instruction",
 "spider-structured-aac-search-strategy":"spider-structured-aac-search-strategy",
 "spiral-development-for-assessment-software":"spiral-development-for-assessment-software",
+"spoken-text-graphics-system-paced-instruction":"spoken-text-graphics-system-paced-instruction",
 "sq3r":"sq3r",
 "squeeze_ball_or_theraputty":"squeeze_ball_or_theraputty",
 "srl-oriented-aigc-pedagogy-routines":"srl-oriented-aigc-pedagogy-routines",
