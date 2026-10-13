@@ -40,6 +40,7 @@ For schools, administrators, and policymakers, the article recommends that "proc
 ## Related Strategies
 
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
+- [Mask small table cells (fewer than five students) when publishing study data](mask-cells-fewer-than-five-students.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ A declaration form for writing-focused activities (e.g., a short literature revi
 - 
 
 ## Related Designs
-- 
+
+- [Coding-focused GenAI declaration structure with five activity categories](coding-focused-genai-declaration-structure.md)
 
 ## Examples
 -

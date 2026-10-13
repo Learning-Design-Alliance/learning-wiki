@@ -110,6 +110,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Formative Assessment](formative-assessment-cycles.md) — the broader practice of using assessment data to adjust teaching
 - [Feedback](../elements/feedback.md) — the corrective half of the quizzing cycle; testing without feedback can entrench errors
 - [Mastery Learning](mastery-learning.md) — low stakes quizzes can serve as the mastery checkpoints
+- [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](sequence-practice-easy-to-difficult-item-types.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

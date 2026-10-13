@@ -41,7 +41,10 @@ The paper proposes four operational criteria as a structured evidential framewor
 - evidential standards for AI-use allegations
 
 ## Related Strategies
-- 
+
+- [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
+- [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Assess GenAI misconduct evidence against three probative credentials — relevance, credibility and inferential force — before imposing sanctions](three-credential-evidence-assessment-genai-misconduct.md)
 
 ## Examples
 -

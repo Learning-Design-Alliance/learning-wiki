@@ -38,7 +38,8 @@ A concrete implementable companion to AI-facilitated inquiry: alongside the chat
 - group negotiation of shared statements and metacognitive reflection
 
 ## Related Strategies
-- 
+
+- [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 
 ## Examples
 -

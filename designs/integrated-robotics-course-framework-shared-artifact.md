@@ -43,7 +43,10 @@ The framework organizes mechanical assembly, electrical setup, simulation, polic
 - 
 
 ## Related Designs
-- 
+
+- [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](five-principles-robotics-course-framework.md)
+- [Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression](four-track-dependency-gated-robotics-progression.md)
+- [Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability](three-design-tensions-robotics-curriculum.md)
 
 ## Examples
 -

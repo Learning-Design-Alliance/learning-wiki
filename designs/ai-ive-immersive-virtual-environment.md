@@ -17,7 +17,7 @@ sources:
 # AI-enabled immersive virtual environment (AI-IVE) with four characteristics
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 An AI-enabled immersive virtual environment (AI-IVE) is the technological setting the article characterizes as "characterized by stereoscopic immersion, embodied engagement, intelligent interaction, and real-time feedback." It supplies the environment in which the AI-IVE-PBL model runs, supporting inquiry, collaboration, and active participation in project-based learning.
@@ -37,7 +37,10 @@ An AI-enabled immersive virtual environment (AI-IVE) is the technological settin
 - design creativity through immersive project work
 
 ### Claims
-- 
+
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](../claims/vr-reinforcement-not-substitute.md) [+W]
+- [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](../claims/xr-higher-agent-realism-than-non-immersive.md) [+W]
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
 
 ## Related Designs
 - 

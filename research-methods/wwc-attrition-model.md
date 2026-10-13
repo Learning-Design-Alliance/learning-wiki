@@ -17,7 +17,7 @@ sources:
 # WWC attrition model
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The WWC attrition model is a framework for limiting attrition bias in assessments of intervention effectiveness: it establishes a standard for acceptable levels of sample attrition in randomized controlled trials by deriving bounds on the bias attrition can induce. The article explains "the WWC attrition model, how that model is used to establish attrition bounds," and notes the standard "may constitute the first use of model-based, empirically supported bounds on attrition bias in the context of a federally sponsored systematic evidence review." The bounds depend on parameter values, most importantly the maximum tolerable bias.
@@ -27,6 +27,8 @@ The WWC attrition model is a framework for limiting attrition bias in assessment
 - **WWC attrition model: model-based, empirically supported bounds on attrition bias in randomized controlled trials**: The WWC attrition model is a framework for limiting attrition bias in assessments of intervention effectiveness: it establishes a standard for acceptable levels of sample attrition in randomized controlled trials by deriving bounds on the bias attrition can induce. The article explains "the WWC attrition model, how that model is used to establish attrition bounds," and notes the standard "may constitute the first use of model-based, empirically supported bounds on attrition bias in the context of a federally sponsored systematic evidence review." The bounds depend on parameter values, most importantly the maximum tolerable bias. (John Deke (2017))
 
 ### Claims
+
+- [The Cal-Learn evaluation met WWC evidence standards only with reservations because survey exclusions were based on conditions that could have been affected by the financial incentives](../claims/cal-learn-evidence-standards-reservations-attrition.md) [+W]
 
 ## Related Research Methods
 -

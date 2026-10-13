@@ -90,7 +90,9 @@ A school early-warning indicator and dashboard system that combines student atte
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](../claims/sophomore-ontrack-predictive-but-limited.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Chicago Public Schools' school diagnostic data reports](chicago-public-schools-school-diagnostic-data-reports.md)
+- [Freshman Success](freshman-success.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Vollavanh, A., Goldschmidt, L., and Bennett, K. (2026, August). From Data Silos to Student Success: The CICS and Innovare Co-Design Approach to AI-Driven Intervention. Digital Promise. https://doi.org/10.51388/20.500.12265/304

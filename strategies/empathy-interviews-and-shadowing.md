@@ -40,7 +40,11 @@ Long Beach Unified adopted empathy-building practices as a core area of RCS work
 - Insight into students' schooling experiences to inform equity-oriented change
 
 ## Related Strategies
-- 
+
+- [Student Shadowing (Teacher/Coach Observation)](student-shadowing-teacher-coach-observation.md)
+- [Student Shadowing (For Educator Insights)](student-shadowing-for-educator-insights.md)
+- [Shadow a Student](shadow_a_student.md)
+- [Student Shadowing](student_shadowing.md)
 
 ## Examples
 -

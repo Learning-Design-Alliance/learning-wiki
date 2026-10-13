@@ -62,7 +62,9 @@ Executive-summary finding from the same access-score analysis; the report adds t
 
 
 ## Related Claims
+
 - [Black undergraduate enrollment increased at 74% of selective private institutions from 2000 to 2020, but the average increase (2.3 percentage points) was smaller than the average decrease (3.7 percentage points) among institutions where enrollment declined.](black-enrollment-increases-slight-versus-decreases.md) — related
 - [The average Black Student Access score across the 122 selective private institutions was a D grade in both 2000 and 2020, moving only from 62 to 68 over two decades.](average-access-score-d-62-to-68.md) — related
 - [All eight Ivy League institutions earned D or F grades for Black student access in both 2000 and 2020, with average scores of 45.1 in 2000 and 52 in 2020.](ivy-league-d-or-f-black-access-both-years.md) — related
 - [In 2020, 71% of the 122 most selective private colleges and universities received failing grades for Black student access, and the share receiving D or F grades fell only one percentage point from 2000 (81%) to 2020 (80%).](selective-private-colleges-71-percent-failing-black-access-2020.md) — related
+- [Minority-serving institutions lead the faculty pipeline, dominating the top institutions for Black and Latino faculty growth](msis-feed-the-faculty-pipeline.md)

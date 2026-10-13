@@ -30,7 +30,8 @@ A framework issued by North Carolina to guide K–12 generative-AI implementatio
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [The Leandro sound basic education framework](the-leandro-sound-basic-education-framework.md)
 
 ## Key Sources
 - Roschelle, J., Fusco, J. & Ruiz, P. (2024). Review of Guidance from Seven States on AI in Education. Digital Promise. https://doi.org/10.51388/20.500.12265/204

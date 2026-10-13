@@ -24,7 +24,11 @@ Waterproof is an educational AI tool developed by Portegies et al. that supports
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [A.I. Math Personalization Tool (AMPT)](ai-math-personalization-tool-ampt.md)
+- [LUDIA](ludia.md)
+- [Taklif.AI](taklifai.md)
+- [Math Mysteries](math-mysteries.md)
 
 ## Key Sources
 - Kudina, O. (2025). Using AI in engineering education: a balancing act, driven by clear purpose. Draft version, to appear in The Routledge Handbook of the Philosophy of Engineering, 2nd ed.

@@ -41,6 +41,10 @@ A course-level pattern in which middle school students explore career fields thr
 ### Claims
 - 
 
+## Related Designs
+
+- [Two common national models for middle school CTE delivery: career field–specific introductory coursework and stand-alone career exploration courses](two-models-middle-school-cte-delivery.md)
+
 ## Related Patterns
 
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)

@@ -43,8 +43,10 @@ Results of the 120-episode synthetic rehearsal (Results section, workflow and au
 
 
 ## Related Claims
+
 - [A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures](praxis-120-episode-rehearsal-all-checks-passed.md) — related
 - [Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each](praxis-provider-failure-no-fabricated-hints.md) — related
 - [GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions](gpt4-over-redaction-of-non-pii-names-and-locations.md) — related
 - [GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts](gpt4-high-recall-low-precision-pii-redaction.md) — related
 - [Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall](gpt4-redaction-compared-to-prior-methods.md) — related
+- [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)

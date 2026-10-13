@@ -43,6 +43,7 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 
 
 ## Related Claims
+
 - [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — a broader claim this one bears on
 - [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
@@ -69,3 +70,4 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
 - [School organizational conditions—especially teacher classroom autonomy and faculty decision-making influence—are strongly related to minority teacher turnover](organizational-conditions-drive-minority-teacher-turnover.md) — a narrower finding that bears on this claim
 - [Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession](principal-support-key-to-teacher-retention.md) — related
+- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](leadership-improvement-key-questions.md)

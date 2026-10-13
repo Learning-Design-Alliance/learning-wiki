@@ -13,7 +13,7 @@ generated:
 # MuTSE
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 MuTSE is a web application developed by Rares-Alexandru Roșcan et al. for comparing and manually or automatically evaluating LLM-generated text simplifications against learner proficiency targets.
@@ -24,6 +24,9 @@ MuTSE is a web application developed by Rares-Alexandru Roșcan et al. for compa
 - **Evaluation-agnostic annotation framework with user-defined dimensions, arbitrary rating scales, and weighted aggregation**: MuTSE operates as an evaluation-agnostic framework with zero predefined metrics: evaluators build custom assessment criteria from scratch in the Settings module, define arbitrary numerical rating scales from binary (1-to-2) up to continuous 100-point sliders, and assign relative impact weights from 0.1 to 10.0. The system normalizes and aggregates manual inputs to compute a weighted overall performance percentage for each generated column. The article motivates this by noting "a pervasive lack of standardization and extreme diversity in evaluation methodologies and terminology across the field." (Rares-Alexandru Roșcan et al. (2026))
 
 ### Claims
+
+- [Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time](../claims/async-concurrency-latency-bounded-by-slowest-model.md) [+W]
+- [The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites](../claims/linearity-bias-lowers-computational-prerequisites.md) [+W]
 
 ## Related Products and Programmes
 -

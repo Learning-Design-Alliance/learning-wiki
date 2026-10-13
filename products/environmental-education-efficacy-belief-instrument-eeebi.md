@@ -30,7 +30,8 @@ Developed by Sia (1992), the EEEBI is a 23-item Likert-type assessment of preser
 - [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](../claims/eeebi-instrument-preliminary-promise.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Teachers' Sense of Efficacy Scale (TSES, 24-item long form)](teachers-sense-of-efficacy-scale-tses-24-item-long-form.md)
 
 ## Key Sources
 - Sia, Archibald P. (1992). Preservice Elementary Teachers' Perceived Efficacy in Teaching Environmental Education: A Preliminary Study. https://eric.ed.gov/?id=ED362487

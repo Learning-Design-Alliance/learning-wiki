@@ -17,7 +17,7 @@ sources:
 # Duolingo English Test operational calibration data used for the empirical evaluation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The evaluation applied consensus calibration to operational response data from the Duolingo English Test, described as "a high-volume, continuously evolving language assessment" measuring two latent dimensions with items in several response formats (selected-response, partial-credit, and continuous). Each period was calibrated by a scalable Bayesian explanatory IRT engine with period-specific item posteriors thinned to approximately 1,000 draws. The run comprised four consecutive quarterly calibration periods spanning approximately one year with the third period defining the reference metric.
@@ -39,7 +39,11 @@ The evaluation applied consensus calibration to operational response data from t
 - language-proficiency scoring and adaptive item selection in a high-stakes assessment
 
 ### Claims
-- 
+
+- [Per-period ability distributions implied by the linked calibrations agree closely with the pooled benchmark, checking the linking independently of the items](../claims/ability-distribution-agreement-linking-check.md) [+W]
+- [A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison](../claims/convergence-screen-removed-1-9-percent-pairs.md) [+W]
+- [Consensus calibration shows mild under-dispersion relative to the pooled benchmark, strongest for sparsely observed items, consistent with residual prior over-counting](../claims/mild-under-dispersion-low-exposure-items.md) [~W]
+- [Consensus calibration closely reproduces pooled-benchmark item-parameter means and standard deviations on an operational assessment](../claims/consensus-posterior-agrees-with-pooled-benchmark.md) [+W]
 
 ## Related Designs
 - 

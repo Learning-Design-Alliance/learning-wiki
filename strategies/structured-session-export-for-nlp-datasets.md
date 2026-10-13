@@ -37,7 +37,8 @@ All evaluation sessions are persistently stored locally and can be exported in t
 - Creating high-quality human-in-the-loop datasets for text simplification research
 
 ## Related Strategies
-- 
+
+- [Classroom workflow: publish a debugging task, have students run an Evaluation session, and review the exported report and trace alongside the final solution](submit-debugging-trace-alongside-final-solution-workflow.md)
 
 ## Examples
 -

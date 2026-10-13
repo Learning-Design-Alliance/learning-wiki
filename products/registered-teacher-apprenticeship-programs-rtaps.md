@@ -27,7 +27,8 @@ A U.S. Department of Labor- or state-registered earn-and-learn teacher-preparati
 - [Apprentices saw RTAPs as a better return on investment than other pathways, yet low salaries still posed financial hardship](../claims/rtap-affordability-roi-but-low-salary-hardship.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Talent Together registered teacher apprenticeship](talent-together-registered-teacher-apprenticeship.md)
 
 ## Key Sources
 - Nathan Kriha, Diarese George, Jonathan Feinstein, and Anna Skubel. (2025). Building Futures: Strengthening the Educator Workforce Through Teacher Apprenticeships. EdTrust. https://edtrust.org

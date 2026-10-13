@@ -25,7 +25,8 @@ A 24-item, six-variable, seven-point Likert self-report scale developed by Meiju
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](../claims/mtes-aick-tk-lowest-medium-level-basic-stage.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Teachers' Sense of Efficacy Scale (TSES, 24-item long form)](teachers-sense-of-efficacy-scale-tses-24-item-long-form.md)
 
 ## Key Sources
 - Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533

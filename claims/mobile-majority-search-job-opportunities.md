@@ -41,5 +41,7 @@ Descriptive survey results from the broader learning and work ecosystem sample s
 
 
 ## Related Claims
+
 - [Academics most often name smartphones and personal computers as the tools they use to realise physiological needs](academics-prefer-smartphones-pcs-physiological.md) — related
 - [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](mobile-independent-work-initiative-actors.md) — related
+- [White respondents were more likely than other respondents to use Glassdoor to keep track of skills and credentials](white-respondents-more-likely-glassdoor.md)

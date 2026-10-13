@@ -44,7 +44,8 @@ The CRITICS approach integrates machine translation and educational technology a
 - 
 
 ## Related Designs
-- 
+
+- [Teaching and Learning Sequence (TLS) generator transforming translated scientific literature into structured educational resources](tls-generator-translated-scientific-literature.md)
 
 ## Examples
 -

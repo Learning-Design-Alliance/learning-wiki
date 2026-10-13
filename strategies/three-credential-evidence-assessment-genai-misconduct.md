@@ -40,7 +40,10 @@ The study adapts a legal-scholarship evidence credentials framework for institut
 - Genai Misconduct Evidence Taxonomy 15 Codes
 
 ## Related Strategies
-- 
+
+- [Apply four operational criteria—fidelity, non-augmentation, traceability, attestation—to identify transcription-only AI use](four-operational-criteria-transcription-only-use.md)
+- [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
+- [Evaluate GenAI declaration frameworks empirically and pair them with institutional guidance on which tools are in scope](evaluate-genai-declarations-and-scope-guidance.md)
 
 ## Examples
 -

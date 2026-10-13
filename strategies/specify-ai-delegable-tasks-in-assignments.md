@@ -41,7 +41,9 @@ The article's relational co-agency recommendation: assignment prompts, not indiv
 - Ecological Co Agency Framework
 
 ## Related Strategies
-- 
+
+- [Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions](function-based-policy-design-recommendations.md)
+- [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 
 ## Examples
 -

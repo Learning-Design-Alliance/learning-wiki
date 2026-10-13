@@ -25,7 +25,8 @@ A dataset released by Vishal Kumar et al. containing 398 real teacher requests a
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](../claims/backtranslation-outperforms-llm-judge-diagram-agreement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MEDS dataset of 28,000 LLM runs across four mathematics-education tasks](meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks.md)
 
 ## Key Sources
 - Vishal Kumar, Shubhra Mishra, Rebecca Hao, Rizwaan Malik, David Broman, Dorottya Demszky. (2025). DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation. NeurIPS 2025 Workshop: MATH-AI. https://arxiv.org/abs/2511.08283

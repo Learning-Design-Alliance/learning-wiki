@@ -41,6 +41,7 @@ The brief recommends that Congress and the Biden administration act on three fro
 ## Related Strategies
 
 - [Policy package to ease Parent PLUS burdens: targeted cancellation, full IDR/PSLF access, lower rates, and affordable alternatives](parent-plus-relief-policy-package.md)
+- [Invest in public higher education to lower graduate costs and reduce borrowing reliance](invest-public-higher-education-lower-graduate-costs.md)
 
 ## Examples
 -

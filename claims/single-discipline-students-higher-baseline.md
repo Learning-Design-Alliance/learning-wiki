@@ -43,9 +43,11 @@ Descriptive comparison of fall 2023 RIT scores by course type, shown in Figure 4
 
 
 ## Related Claims
+
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
+- [Access to a complete single-discipline course sequence is rare in NWEA partner middle schools](complete-discipline-specific-sequence-anomaly.md)

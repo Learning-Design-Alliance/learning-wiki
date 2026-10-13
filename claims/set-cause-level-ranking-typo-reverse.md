@@ -44,5 +44,7 @@ Holdout-data cause-profile analysis (Figure 12) comparing average predicted rank
 
 
 ## Related Claims
+
 - [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](item-cause-density-precludes-cdms.md) — related
 - [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](larger-error-windows-improve-set-ranking.md) — related
+- [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](set-calibration-window-beta-interaction.md)

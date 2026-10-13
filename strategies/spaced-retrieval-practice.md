@@ -98,6 +98,7 @@ Retrieval attempts strengthen memory more than restudying, and spacing those att
 6. Track performance and re-insert items that were recalled incorrectly at shorter intervals ([Adaptive Difficulty](../elements/adaptive-difficulty.md)).
 
 ## Related Strategies
+
 - [Interleaved Practice](interleaved-practice.md) — mixes problem types within sessions; combines naturally with spacing
 - [Cumulative Quizzing](cumulative-quizzing.md) — a classroom implementation of spaced retrieval
 - [Elaborative Interrogation](elaborative-interrogation.md) — "why" questions add depth to what is retrieved
@@ -106,6 +107,7 @@ Retrieval attempts strengthen memory more than restudying, and spacing those att
 - Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 - [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
+- [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](sequence-practice-easy-to-difficult-item-types.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education.

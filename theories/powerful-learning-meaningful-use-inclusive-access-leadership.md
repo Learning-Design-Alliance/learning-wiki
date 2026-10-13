@@ -49,7 +49,8 @@ The report defines "powerful learning" as "experiences that engage learners' hea
 - [Framework for Powerful Learning with Emerging Technology organized around three mutually reinforcing principles](../products/framework-for-powerful-learning-with-emerging-technology.md)
 
 ## Examples
--
+
+- [Integrate technology across the entire instructional triangle of teachers, students, and instructional resources](../strategies/integrate-technology-across-instructional-triangle.md)
 
 ## Key Sources
 - Stephenson, S. P., Hardy, A., Seylar, J., Wayman, J., Peters, V., Bellin, M., & Roschelle, J. (2021). Equity-Centered Leadership in a Virtual Environment. The Wallace Foundation. https://www.wallacefoundation.org

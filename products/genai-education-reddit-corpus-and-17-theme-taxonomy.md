@@ -26,7 +26,8 @@ A GitHub-released corpus and taxonomy by Pelin Yüce et al. containing filtered 
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](../claims/genai-education-reddit-17-theme-taxonomy.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [GenAICanHarmLearning anonymized dataset and code repository](genaicanharmlearning-anonymized-dataset-and-code-repository.md)
 
 ## Key Sources
 - Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712

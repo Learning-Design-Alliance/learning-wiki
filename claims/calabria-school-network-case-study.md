@@ -43,4 +43,6 @@ Case-study validation of the proposed model on a real regional network, describe
 
 
 ## Related Claims
+
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
+- [The baseline and capacitated facility location formulations of school aggregation are formally equivalent](equivalent-school-aggregation-formulations.md)

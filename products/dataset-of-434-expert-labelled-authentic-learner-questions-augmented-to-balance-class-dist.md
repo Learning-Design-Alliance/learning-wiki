@@ -24,7 +24,9 @@ A dataset created by Lee et al. containing 434 expert-labelled and class-balance
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Asyncform (AF) dataset](asyncform-af-dataset.md)
+- [Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts](balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts.md)
 
 ## Key Sources
 - Lee, H., Atif, A., & Kang, K. (2026). Analysing AI utilisation in education through learner question types: A constructivist approach. Australasian Journal of Educational Technology, 42(1), 79–96. https://doi.org/10.14742/ajet.10657

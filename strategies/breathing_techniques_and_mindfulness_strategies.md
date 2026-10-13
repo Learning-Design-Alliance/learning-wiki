@@ -60,8 +60,10 @@ Mindfulness-based practices in school settings show small-to-moderate positive e
 5. Offer choice among 2–3 techniques so students build a personal repertoire rather than a single mandated routine.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — brief emotional state check-ins pair naturally with breathing practice as the noticing step
 - [Coaching](../elements/coaching.md) — in-the-moment coaching supports transfer of techniques to real challenging situations
+- [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — an evidence-informed curriculum in which "Core Practice" breathing exercises open each lesson across K–8 classrooms ([https://mindup.org](https://mindup.org))

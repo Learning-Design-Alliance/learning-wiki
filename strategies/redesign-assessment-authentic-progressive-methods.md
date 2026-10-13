@@ -39,7 +39,15 @@ To preserve academic integrity and assessment fairness in the age of GenAI, the 
 - creativity
 
 ## Related Strategies
-- 
+
+- [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
+- [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
+- [Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them](genai-disruption-assessment-redesign-strategy.md)
+- [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Shift from punitive detection to proactive educative approaches, co-created detailed guidelines, and assessment designs GenAI cannot do well](educative-shift-genai-integrity-policy.md)
+- [Institutional recommendations: shift from detection to process-oriented assessment, transparent AI-use protocols, and revised integrity policies](institutional-gai-process-assessment-recommendations.md)
+- [Integrate GenAI into HSS education through scaffolded, practice-oriented training sequences and discipline-responsive, process-focused assessment](scaffolded-practice-oriented-genai-integration-hss.md)
+- [Redesign assessments and curricula so AI availability supports rather than impedes expertise growth](redesign-assessments-for-ai-availability.md)
 
 ## Examples
 -

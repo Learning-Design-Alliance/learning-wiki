@@ -24,7 +24,9 @@ The review defines agentic AI as systems "powered by generative AI, that exhibit
 ### Claims
 
 ## Related Research Methods
--
+
+- [Six-criterion operational checklist for classifying a system as agentic](six-criterion-operational-checklist-for-classifying-a-system-as-agentic.md)
+- [Six-dimensional agentic capability framework rated on a 1–5 ordinal scale](six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale.md)
 
 ## Key Sources
 - Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw. Computers and Education: Artificial Intelligence, 11. https://doi.org/10.1016/j.caeai.2026.100653

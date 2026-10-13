@@ -43,4 +43,7 @@ Parameter-interpretation analysis of Model 2 (linear drag) in the Results sectio
 
 
 ## Related Claims
+
 - [Kinematic trajectories extracted from AI-generated videos agree strongly with analytical resistive-force models, with coefficients of determination exceeding R² > 0.99 across three regimes](ai-generated-video-trajectories-fit-resistive-force-models.md) — a broader claim this one bears on
+- [The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces](ai-video-constant-friction-recovers-plausible-mu.md)
+- [The quadratic-drag AI video yields a fitted drag coefficient (CD ≈ 3.18) within the literature range reported for skydivers](ai-video-quadratic-drag-recovers-plausible-drag-coefficient.md)

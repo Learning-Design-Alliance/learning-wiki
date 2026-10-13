@@ -160,6 +160,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [CAPIT Reading blended supplemental phonics program](../products/capit-reading.md)
 - [QR-code phonics video lessons embedded in decodable books](../products/just-right-reader-take-everywhere-literacy-packs.md)
 - [SIPPS foundational skills reading curriculum](../products/sipps.md)
+- [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](../designs/95-pcp-scope-sequence-daily-phonics-pattern.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]

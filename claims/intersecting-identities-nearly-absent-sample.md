@@ -43,7 +43,9 @@ Descriptive counts from the methodology section on identities beyond race in the
 
 
 ## Related Claims
+
 - [White-centered books outnumber books centering any people of color combined groups, and non-human characters rival Black characters in share of centered people](white-centered-books-outnumber-people-of-color.md) — related
 - [White authors rarely portray complex cultures of color: 41 of 64 limited-representation books have at least one White author, versus 15 of 36 complex-representation books](white-authors-rarely-complex-cultures.md) — related
 - [Just over half of centered people of color receive complex representation, while more than 40% receive limited representation, most often lacking agency](people-of-color-limited-representation.md) — related
 - [Fewer than one-third of sampled books including groups or cultures of color provide complex representation; over half provide limited representation](groups-of-color-limited-representation.md) — related
+- [Most books including historical or social topics give them limited representation: only 16% are complex while 80% are limited](historical-social-topics-limited-representation.md)

@@ -18,7 +18,7 @@ sources:
 # KIPP middle school college-outcome tracking dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A dataset compiled by Thomas Coen and colleagues tracking 1,177 applicants to 13 oversubscribed KIPP middle schools through admissions lotteries and subsequent college enrollment and persistence outcomes.
@@ -28,6 +28,13 @@ A dataset compiled by Thomas Coen and colleagues tracking 1,177 applicants to 13
 - **KIPP middle school college-outcome tracking dataset of 1,177 lottery applicants**: A tracking dataset following 1,177 students who applied through 5th or 6th grade admissions lotteries in 2008 or 2009 to enter 1 of 13 oversubscribed KIPP middle schools. The study "uses a randomized controlled trial design" contrasting students offered admission with those not offered, enabling long-run comparison of college enrollment and early college persistence. The page describes the dataset and design but prints no outcome results. (Thomas Coen et al. (2019))
 
 ### Claims
+
+- [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](../claims/kipp-offer-high-compliance-middle-and-high-attendance.md) [+W]
+- [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](../claims/kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) [+W]
+- [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](../claims/kipp-tracking-1177-lottery-applicants-13-schools.md) [+W]
+- [Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points](../claims/kipp-middle-offer-increases-four-year-college-enrollment.md) [+W]
+- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](../claims/kipp-lottery-offer-rct-group-balance.md) [+W]
+- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](../claims/kipp-lottery-rct-balances-treatment-and-control.md) [+W]
 
 ## Related Products and Programmes
 -

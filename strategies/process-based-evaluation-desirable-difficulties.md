@@ -38,7 +38,9 @@ Drawing on Bjork and Bjork, the article advocates "desirable difficulties, such 
 - accurate representation of student understanding
 
 ## Related Strategies
-- 
+
+- [Critique And Revision](critique-and-revision.md)
+- [Critique Protocol](critique-protocol.md)
 
 ## Examples
 -

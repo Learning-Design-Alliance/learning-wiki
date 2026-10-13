@@ -62,4 +62,5 @@ On stage ownership, the article reports 10 of 33 assigned primary responsibility
 
 
 ## Related Claims
--
+
+- [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md)

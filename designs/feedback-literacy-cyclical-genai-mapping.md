@@ -17,7 +17,7 @@ sources:
 # Feedback literacy capacities mapped onto a cyclical forethought-control-retrospect engagement model
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework integrates Carless and Boud's feedback literacy, "comprising four interdependent elements: (a) appreciating feedback; (b) making judgments; (c) managing affect; and (d) taking action", with Zhan et al.'s cyclical model of GenAI-enabled feedback engagement in three phases: forethought, control, and retrospect. The Trainer primarily supports appreciation, calibrated judgment, and affect management during forethought and early control, while the Synthesizer supports taking action and reflection during later control and retrospect phases.
@@ -38,10 +38,12 @@ The framework integrates Carless and Boud's feedback literacy, "comprising four 
 - Self-regulated engagement with feedback across task cycles
 
 ### Claims
-- 
+
+- [The Trainer is expected to develop feedback literacy capacities](../claims/trainer-expected-develop-feedback-literacy.md) [+W]
 
 ## Related Designs
-- 
+
+- [GenAI as Trainer and Synthesizer: two complementary roles in EFL speaking peer feedback](genai-trainer-synthesizer-peer-feedback-roles.md)
 
 ## Examples
 -

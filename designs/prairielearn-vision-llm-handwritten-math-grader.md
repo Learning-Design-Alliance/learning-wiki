@@ -17,7 +17,7 @@ sources:
 # PrairieLearn-integrated AI grading tool for handwritten mathematics with single-call transcription and rubric evaluation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents a prototype AI-assisted grading tool integrated into PrairieLearn, an open-source online assessment platform, that evaluates open-ended mathematical responses submitted as handwritten photographs. It extends a prior typed-response pipeline by introducing an image-based grading pipeline and prompt structure that jointly perform transcription and rubric-based evaluation. The prompt includes the problem statement, rubric, optional reference solutions, and explicit directives for both transcription and assessment. Human graders may review and override AI evaluations, and human-assigned grades always take precedence.
@@ -39,7 +39,8 @@ The article presents a prototype AI-assisted grading tool integrated into Prairi
 - grading of multi-step handwritten mathematical derivations against instructor-defined rubrics
 
 ### Claims
-- 
+
+- [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](../claims/transcription-failures-dominate-grading-errors.md) [+M]
 
 ## Related Designs
 - 

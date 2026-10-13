@@ -30,7 +30,13 @@ The Oakes et al. community schools framework organizes school redesign around in
 - [An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.](../claims/nyc-community-schools-evaluation-promising-results.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Essentials for Community School Transformation Framework](essentials-for-community-school-transformation-framework.md)
+- [Five fundamental elements of a high-quality education system](five-fundamental-elements-of-a-high-quality-education-system.md)
+- [Four Pillars of Opportunity framework](four-pillars-of-opportunity-framework.md)
+- [Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework](guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework.md)
+- [New Mexico Community Schools Act grant program](new-mexico-community-schools-act-grant-program.md)
+- [Whole School, Whole Community, Whole Child (WSCC) model](whole-school-whole-community-whole-child-wscc-model.md)
 
 ## Key Sources
 - Oakes, J., & Espinoza, D. (2020). Community schools the New Mexico way. Learning Policy Institute. https://learningpolicyinstitute.org/product/improving-education-new-mexico-way

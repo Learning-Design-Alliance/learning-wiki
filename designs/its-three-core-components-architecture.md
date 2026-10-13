@@ -40,7 +40,10 @@ The article describes ITS as autonomous technologies that continuously assess le
 - 
 
 ## Related Designs
-- 
+
+- [A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.](element-dynamic-pairing-co-orchestration-ecosystem.md)
+- [Closed-loop three-layer interpretable ITS architecture linking multimodal scoring, expressive diagnostics, and conversational coaching](closed-loop-three-layer-interpretable-its-architecture.md)
+- [Learning-context personalization engine: mastery, spacing, and help-seeking signals guide when and how AI assistance is delivered](learning-context-engine-mastery-spacing-helpseeking.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # LearnLens
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 LearnLens is a modular LLM-based feedback and assessment system developed by Zhao et al. for curriculum-aligned science education with educator oversight.
@@ -22,6 +22,12 @@ LearnLens is a modular LLM-based feedback and assessment system developed by Zha
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers](../claims/learnlens-modular-pipeline-beats-baselines-scoring.md) [+W]
+- [LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system](../claims/learnlens-reduces-teacher-feedback-time.md) [+W]
+- [On the live single-node deployment, short-answer rounds take ≈32 s (≈$0.015/round) while multiple-choice rounds are ≈4× faster (≈7.6 s, ≈$0.005/round) because grading is deterministic](../claims/collearn-latency-cost-efficiency.md) [+W]
+- [Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens](../claims/learnlens-adoption-intent-stable-across-groups.md) [+W]
+- [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](../claims/learnlens-teacher-satisfaction-4-1-of-5.md) [+W]
 
 ## Related Products and Programmes
 -

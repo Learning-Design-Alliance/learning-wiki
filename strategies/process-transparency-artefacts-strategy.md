@@ -47,6 +47,7 @@ The paper recommends that students submit "process logs, AI prompt records, or o
 - [Assessment design levers that make learning visible and reduce the payoff from generic generated text](assessment-design-levers-visible-learning-traces.md)
 - [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
 - [Establish prompting principles of neutrality, consistency, transparency, and reflexivity in oral assessment](prompting-principles-neutrality-consistency-transparency-reflexivity.md)
+- [Pair the AI chat with a paper worksheet that records what the chat cannot: sketches, agreed group statements and a short reflection](paper-worksheet-records-what-chat-cannot.md)
 
 ## Examples
 -

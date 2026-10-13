@@ -69,9 +69,11 @@ Explaining their thinking improves learning because it forces learners to make r
 - [Scaffolding and Fading](scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
 
 ## Examples
+
 - **[Khan Academy Think-Alouds](https://www.khanacademy.org)** — Instructors model the self-explanation process by verbalizing their reasoning while solving problems.
 - **[Codecademy Debugging Exercises](https://www.codecademy.com)** — Requires learners to explain why a piece of code is incorrect and how to fix it, promoting conceptual understanding of programming principles.
 - **Prompted Self-Explanation in Math**: Asking a student, "Why can we divide both sides of this equation by 3?" after they perform the step.
+- [Induce self-explanation by prompting learners during study and problem solving](../strategies/prompt-learners-to-self-explain-during-study.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

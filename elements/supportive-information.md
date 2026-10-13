@@ -62,11 +62,13 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - 
 
 ## Related Elements
+
 - [Demonstration](demonstration.md) — provides the concrete instance for the abstract principles found in supportive information.
 - [Advance Organizers](advance-organizers.md) — primes the learner's cognitive architecture to receive incoming supportive information.
 - [Case Study](case-study.md) — serves as the primary context for applying the mental models delivered via supportive information.
 - [Demonstration](demonstration.md) — visualizes the expert reasoning described in supportive information.
 - [Direct Instruction](direct-instruction.md) — the common delivery method for ensuring foundational knowledge is complete and unambiguous.
+- [Knowledge object for a whole task: component analysis with defining and ordering properties](knowledge-object-whole-task-component-analysis.md)
 
 ## Patterns That Use This Element
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — defines "supportive information" as one of four component types; it is delivered non-recurrently, before or alongside the whole learning task

@@ -41,7 +41,8 @@ DataCanvas-EDU is an agentic framework in which the instructor specifies a teach
 - [Agent Pattern Discovery Gap Windowdash Vs Olist](../claims/agent-pattern-discovery-gap-windowdash-vs-olist.md) [+M]
 
 ## Related Designs
-- 
+
+- [Designed-pattern authoring: linking each teaching pattern to its generation rule, check, and reference analysis](designed-pattern-case-specification.md)
 
 ## Examples
 -

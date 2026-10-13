@@ -56,6 +56,7 @@ The report recommends that California policymakers maintain funding for the Teac
 - [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
 - [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
 - [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
+- [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 
 ## Examples
 -

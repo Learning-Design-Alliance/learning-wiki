@@ -50,6 +50,7 @@ The paper applies Bandura's social cognitive theory, under which perceived self-
 ## Examples
 
 - [Communicating Positive Expectations](../strategies/communicating_positive_expectations.md)
+- [Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities](../strategies/self-efficacy-interventions-alongside-ai-integration.md)
 
 ## Key Sources
 - Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05

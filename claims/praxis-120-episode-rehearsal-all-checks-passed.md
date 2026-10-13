@@ -43,5 +43,7 @@ Developer-led synthetic domain rehearsal run on 28 September 2026 against the fr
 
 
 ## Related Claims
+
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related
 - [Injected provider failures produced recorded unavailability and zero fabricated hints, while valid and reentrant conditions stored 30 synthetic hints each](praxis-provider-failure-no-fabricated-hints.md) — related
+- [Authentication regressions exposed a session-expiry defect in the preceding release, and the recorded release establishes a fresh anonymous session after timeout](praxis-session-expiry-defect-resolved.md)

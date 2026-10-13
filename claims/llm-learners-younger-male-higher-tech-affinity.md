@@ -62,7 +62,9 @@ Survey-based comparison of Affinity for Technology Interaction scores across gro
 
 
 ## Related Claims
+
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — reports the opposite
+- [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)

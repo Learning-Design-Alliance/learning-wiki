@@ -50,7 +50,8 @@ Drawing on Norman's tool-design model, the article argues that effective designs
 - 
 
 ## Examples
--
+
+- [Five design principles: one artifact, dependency sequencing, progressive sim-hardware integration, scaffolded bounded choice, and paired collaboration with individual evidence](../designs/five-principles-robotics-course-framework.md)
 
 ## Key Sources
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics

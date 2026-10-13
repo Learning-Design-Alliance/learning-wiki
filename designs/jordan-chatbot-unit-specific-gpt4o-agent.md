@@ -45,7 +45,8 @@ The Jordan Chatbot is a human-centred, pedagogical support agent built on the GP
 - [Chatbot Ux Clear Relevant Popup Annoyance](../claims/chatbot-ux-clear-relevant-popup-annoyance.md) [+M]
 
 ## Related Designs
-- 
+
+- [Aspen: a prompt-engineered AI chatbot peer mentor for inquiry revision](aspen-ai-chatbot-peer-mentor.md)
 
 ## Examples
 -

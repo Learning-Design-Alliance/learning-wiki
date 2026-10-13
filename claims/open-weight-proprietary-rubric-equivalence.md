@@ -62,6 +62,8 @@ Summary of the cross-family comparison (Section 3.4). Grade agreement by quadrat
 
 
 ## Related Claims
+
 - [When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin](ai-rubrics-pooled-equivalence-human-evaluators.md) — related
 - [In automated evaluation, equivalence with the human baseline depended on the evaluator model: DeepSeek V3 met equivalence for all rubric sources while GPT-4.1 and GPT-4o scored below the baseline](llm-evaluator-equivalence-depends-on-model.md) — related
 - [Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions](five-cells-exceeded-equivalence-margin.md) — related
+- [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)

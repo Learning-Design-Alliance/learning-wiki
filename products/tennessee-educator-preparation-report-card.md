@@ -30,7 +30,8 @@ A statewide accountability and reporting instrument for educator preparation pro
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CTC teacher preparation program completer survey system](ctc-teacher-preparation-program-completer-survey-system.md)
 
 ## Key Sources
 - Data Quality Campaign. (2017). Using Data to Ensure That Teachers Are Learner Ready on Day One. https://www.dataqualitycampaign.org

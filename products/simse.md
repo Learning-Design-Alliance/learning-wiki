@@ -36,7 +36,8 @@ SimSE is a dataset of 1,135 simulated five-minute teaching sessions by pre-servi
 - [A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences](../claims/two-stage-relevance-strategy-helps-multi-sentence-variables.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Edustories dataset](edustories-dataset.md)
 
 ## Key Sources
 - Paiheng Xu, Jing Liu, Nathan Jones, Julie Cohen, and Wei Ai. (2024). The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education. Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). https://aclanthology.org/volumes/2024.naacl-long/

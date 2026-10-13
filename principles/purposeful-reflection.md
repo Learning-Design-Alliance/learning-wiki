@@ -91,6 +91,7 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 - [Vary reflection timing between in-the-moment and future-focused reflections](../strategies/vary-in-the-moment-and-future-focused-reflections.md)
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 - [Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection](../strategies/pre-action-review-and-sentence-starters-for-cobi.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
 
 ## Key Sources
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)

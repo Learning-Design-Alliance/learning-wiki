@@ -44,7 +44,9 @@ Survey item asking districts to rate the ISAT program on a five-point scale from
 
 
 ## Related Claims
+
 - [Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent](district-testing-weaknesses-alignment-time.md) — related
 - [Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts](isat-improvement-stability-turnaround.md) — related
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](fft-pilot-ratings-concentrated-top-two-categories.md) — related
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related
+- [Nearly 90 percent of Illinois districts cite student assessment purposes as major purposes of their district-wide testing programs, with measuring student performance most common](district-testing-student-assessment-dominant-purpose.md)

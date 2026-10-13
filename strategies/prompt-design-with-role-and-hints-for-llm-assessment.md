@@ -43,7 +43,9 @@ The article's method achieves automated problem generation, scoring, and feedbac
 - [Hierarchical Diagnostic Reasoning Hdr](../products/hierarchical-diagnostic-reasoning-hdr.md)
 
 ## Related Strategies
-- 
+
+- [Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases](human-monitoring-automated-assessment.md)
+- [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
 
 ## Examples
 -

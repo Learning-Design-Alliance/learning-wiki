@@ -25,7 +25,8 @@ LUDIA is a browser-based, private, multilingual AI thought-partner tool develope
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Waterproof](waterproof.md)
 
 ## Key Sources
 - Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en

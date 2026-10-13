@@ -56,6 +56,7 @@ Schema theory, in its broadest sense, is "a theory of knowledge" (Rumelhart, 198
 - [Activation](../principles/activation.md)
 - [Making Connections](../strategies/making_connections.md)
 - [Activation](../strategies/activation.md)
+- [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](../designs/cyberagents-competency-mapping-module.md)
 
 ## Key Sources
 - Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392

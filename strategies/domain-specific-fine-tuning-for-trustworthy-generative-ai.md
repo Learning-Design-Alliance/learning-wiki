@@ -37,7 +37,8 @@ The article recommends adapting general-purpose text-to-image foundation models 
 - accurate conceptual imagery of specialized domain content for education, communication, and conceptual design
 
 ## Related Strategies
-- 
+
+- [Use lightweight task-adapted vision backbones rather than zero-shot multimodal foundation models for rubric-aligned drawing scoring](task-adapted-vit-over-zero-shot-vlm-scoring.md)
 
 ## Examples
 -

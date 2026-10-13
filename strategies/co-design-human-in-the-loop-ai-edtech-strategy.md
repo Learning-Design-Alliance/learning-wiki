@@ -50,6 +50,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it](human-in-the-loop-teacher-validation-workflow.md)
+- [Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation](generative-synthetic-classroom-data-pipeline-strategy.md)
 
 ## Examples
 -

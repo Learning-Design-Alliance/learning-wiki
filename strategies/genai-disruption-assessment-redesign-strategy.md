@@ -44,6 +44,7 @@ The paper recommends treating the disruption caused by generative AI as an affor
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Develop GenAI management strategies by identifying the contradictions GenAI access creates in the educational activity system](genai-management-strategies-via-contradiction-analysis.md)
 - [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
+- [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 
 ## Examples
 -

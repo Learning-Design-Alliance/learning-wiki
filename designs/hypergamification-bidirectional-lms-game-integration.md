@@ -40,7 +40,8 @@ Hypergamification is the authors' proposed concept in which a complete game envi
 - 
 
 ## Related Designs
-- 
+
+- [Demo game rendering Blackboard course elements as 3D school environments](unity-blackboard-demo-game-school-environment.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Descriptive comparison of course record availability by school characteristics (
 
 
 ## Related Claims
+
 - [CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12](calpads-course-availability-varies-by-year.md) — related
+- [Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%](calpads-uc-gpa-alignment-close.md)

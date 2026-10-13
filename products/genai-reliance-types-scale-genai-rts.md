@@ -30,7 +30,9 @@ A 20-item self-report scale developed by Hossain et al. to measure undergraduate
 - [Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule](../claims/four-types-llm-reliance-typology-distribution.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AI Use Scale (AIUS)](ai-use-scale-aius.md)
+- [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 
 ## Key Sources
 - Hossain, S., & Nawmi, T. A. (2026). Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS). https://arxiv.org/abs/2607.14301

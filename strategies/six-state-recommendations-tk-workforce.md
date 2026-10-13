@@ -48,6 +48,7 @@ The report recommends six steps for state policymakers: (1) clearly map out and 
 - [Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching](federal-strategy-ece-workforce-compensation-preparation.md)
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK](serve-birth-through-3-to-stabilize-providers.md)
+- [Eight policy and practice actions for scaling early childhood coaching systems, from dedicated funding to data collection](policy-actions-scaling-ece-coaching-systems.md)
 
 ## Examples
 -

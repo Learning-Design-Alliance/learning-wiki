@@ -43,9 +43,11 @@ Conceptual argument in Section 4.4. The article elaborates contestability (quest
 
 
 ## Related Claims
+
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](genai-authorship-boundary-rejected-substitution.md) — a narrower finding that bears on this claim
 - [GenAI redistributes epistemic authority from teachers and students to machines, a shift the article calls co-agency](genai-redistributes-epistemic-authority-co-agency.md) — a broader claim this one bears on
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — a narrower finding that bears on this claim
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
+- [The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review](generative-strategies-boundary-conditions.md)

@@ -25,7 +25,9 @@ A 16-item five-point Likert self-report scale developed by Zhong et al. to measu
 - [Chinese EFL learners' positive perceptions of GenAI-based pronunciation feedback are positively associated with their English pronunciation self-efficacy](../claims/genai-pronunciation-feedback-associated-with-pronunciation-self-efficacy.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AI adaptive learning environment perception scale (15 items, three dimensions)](ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions.md)
+- [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 
 ## Key Sources
 - Lu Y, Yang Y, Cui T, Yang Z, Cai Y and Jing B (2026) Associations between generative AI–based pronunciation feedback and willingness to communicate in English: the mediating role of English pronunciation self-efficacy. Front. Psychol. 17:1918980. https://doi.org/10.3389/fpsyg.2026.1918980

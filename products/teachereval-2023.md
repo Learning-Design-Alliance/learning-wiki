@@ -26,7 +26,8 @@ A public corpus of 12,450 classroom-dialogue transcripts annotated with rubric-a
 - [The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics](../claims/llm-teacher-assessment-outperforms-baselines-teachereval.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Edustories dataset](edustories-dataset.md)
 
 ## Key Sources
 - Li, Y.; Yang, H.; Fang, Q. (2025). Towards Trustworthy and Explainable-by-Design Large Language Models for Automated Teacher Assessment. Information 2025, 16, 882. https://doi.org/10.3390/info16100882

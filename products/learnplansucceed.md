@@ -30,7 +30,8 @@ Learn.Plan.Succeed. is a district-run college- and career-readiness advising pro
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Career-connected learning (CCL) framework](career-connected-learning-ccl-framework.md)
 
 ## Key Sources
 - Illinois Workforce and Education Research Collaborative (IWERC), in partnership with the University of Chicago Consortium on School Research. (2024). The Landscape of Career Readiness Opportunities in Chicago Public Schools: Strengthening Career and Technical Education and Establishing Career-Connected Learning for All. https://consortium.uchicago.edu

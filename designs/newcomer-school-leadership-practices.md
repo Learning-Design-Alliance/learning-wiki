@@ -42,7 +42,8 @@ The report's second promising practice holds that effective newcomer schools dep
 - 
 
 ## Related Designs
-- 
+
+- [Three-type taxonomy of newcomer schools: programs-within-a-school, transitional, and comprehensive](newcomer-school-three-type-taxonomy.md)
 
 ## Examples
 -

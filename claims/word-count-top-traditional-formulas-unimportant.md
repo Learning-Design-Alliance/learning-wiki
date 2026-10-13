@@ -62,6 +62,7 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 
 
 ## Related Claims
+
 - [4,446 of 9,421 MATHia word problems showed larger-than-expected error-rate gaps between less- and more-skilled readers and were flagged for potential readability concerns](mathia-word-problems-flagged-reading-gaps.md) — related
 - [Partial dependence plots showed higher word count, more dependent clauses, and higher custom magnitude raised predicted flag probability, with non-linear relationships](partial-dependence-nonlinear-relationships.md) — related
 - [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
@@ -79,3 +80,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
 - [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](llm-features-add-value-beyond-item-metadata.md) — related
+- [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md)

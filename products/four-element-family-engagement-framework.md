@@ -33,7 +33,8 @@ A named family-engagement improvement framework or playbook that organizes work 
 - [Most parents and teachers say their schools are culturally inclusive, but about one-fifth of parents and one-quarter of teachers disagree that instruction connects students' cultures to learning](../claims/culturally-sustainable-instruction-lags-inclusion.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Real-world middle school family engagement strategies](real-world-middle-school-family-engagement-strategies.md)
 
 ## Key Sources
 - Wallace, M., & Paredes, M. (2024). The essential playbook for family engagement in middle school. WestEd. https://www.wested.org

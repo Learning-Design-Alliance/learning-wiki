@@ -28,7 +28,9 @@ Amplify Science is a phenomena-based K–8 science curriculum developed and prov
 - [1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)](../claims/amplify-science-no-reading-assessment-difference.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Twig Science](twig-science.md)
+- [Study-developed NGSS-focused assessments of 1st grade three-dimensional learning and science vocabulary in-use](study-developed-ngss-focused-assessments-of-1st-grade-three-dimensional-learning-and-scien.md)
 
 ## Key Sources
 - Harris, C. J., Murphy, R., Feng, M., & Rutstein, D. (2023). Supporting science learning and literacy development together: Initial results from a curriculum study in 1st grade classrooms. WestEd. https://www.wested.org

@@ -39,6 +39,7 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 ## Related Strategies
 
 - [Strengthen the evidence base with comparative and longitudinal designs and include rural, underserved, and low-resource communities before presenting GenAI as democratizing](genai-children-future-comparative-longitudinal-equity-research.md)
+- [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 
 ## Examples
 -

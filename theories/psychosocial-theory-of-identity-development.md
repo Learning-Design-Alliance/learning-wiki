@@ -69,6 +69,8 @@ Joan M. Erikson, Erik's wife and collaborator, later added a **ninth stage** (Er
 
 ## Examples
 
+- [Modified identity status interview](../elements/identity-status-interview.md)
+
 ## Key Sources
 - Erikson, E. H. (1950). *Childhood and society*. W.W. Norton.
 - Erikson, E. H. (1956). The problem of ego identity. *Journal of the American Psychoanalytic Association, 4*, 56-121. [doi:10.1177/000306515600400104](https://doi.org/10.1177/000306515600400104)

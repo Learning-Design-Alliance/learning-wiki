@@ -16,7 +16,7 @@ sources:
 # Workshop session structure: local data, small-group testing, collective discussion
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Each of the six sessions followed a common three-part structure: facilitators presented local data or department-sourced materials, faculty tested and reflected on the materials in small groups, and the whole group discussed them together. The article states: "We started by sharing local data, whether around AI policies and use or activities gathered from different courses, and then had faculty test and reflect on the materials in small groups, followed by collective discussion." This structure embodies the framework's principles of leading with student use and facilitating collective inquiry rather than disseminating best practices.
@@ -36,7 +36,9 @@ Each of the six sessions followed a common three-part structure: facilitators pr
 - Developing shared departmental approaches to AI use in courses
 
 ### Claims
+
 - Ai Era Institutional Change Framework [+M]
+- [End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments](../claims/faculty-reflection-series-outcomes.md) [+W]
 
 ## Related Designs
 - 

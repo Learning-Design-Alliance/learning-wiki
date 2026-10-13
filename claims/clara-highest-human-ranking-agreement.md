@@ -43,6 +43,7 @@ Blinded human developmental ranking validation using 60 story pairs covering adj
 
 
 ## Related Claims
+
 - [Developmental representations remain relatively stable across translated bilingual narratives](clara-bilingual-translation-consistency.md) — related
 - [CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability](clara-educator-agreement-interpretability.md) — related
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — possibly the same claim (merge candidate)
@@ -52,3 +53,4 @@ Blinded human developmental ranking validation using 60 story pairs covering adj
 - [Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding](agreement-quality-divergence-human-consensus-bias.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [In disagreement cases, blinded educators more frequently prefer CLARA developmental estimates over publisher recommendations](educators-prefer-clara-over-publisher-labels.md) — related
+- [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)

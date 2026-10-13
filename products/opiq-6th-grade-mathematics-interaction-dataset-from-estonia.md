@@ -24,7 +24,12 @@ An interaction-log dataset collected from the Opiq digital learning platform, co
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [FoundationalASSIST dataset](foundationalassist-dataset.md)
+- [KDD Cup 2010 Bridge to Algebra dataset](kdd-cup-2010-bridge-to-algebra-dataset.md)
+- [ALEKS and ALEKS PPL behavioral trace datasets for studying AI-era learning behavior](aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-behavior.md)
+- [Math Garden single-digit multiplication error dataset and 14-category error classification](math-garden-single-digit-multiplication-error-dataset-and-14-category-error-classification.md)
+- [ASSISTments](assistments.md)
 
 ## Key Sources
 - Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263

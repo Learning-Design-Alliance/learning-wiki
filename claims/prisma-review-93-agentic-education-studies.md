@@ -43,5 +43,8 @@ Structured literature review following PRISMA 2020 across four databases yieldin
 
 
 ## Related Claims
+
 - [Only 26% of Campbell reviews completely or partially reported all 27 PRISMA items, with a median of 25 items reported](campbell-reviews-prisma-completeness.md) — related
 - [Most Campbell intervention reviews are of moderate or lower AMSTAR 2 quality, with 59% rated high or moderate](campbell-reviews-quality-distribution-amstar2.md) — related
+- [A PRISMA systematic review synthesized 80 peer-reviewed studies on AI-based proctoring in higher education published between 2014 and 2024](aips-systematic-review-80-studies-2014-2024.md)
+- [Multi-agent essay scoring system (MASS) reportedly achieves increased consistency and reliability compared to stand-alone LLMs](mass-essay-scoring-improved-consistency.md)

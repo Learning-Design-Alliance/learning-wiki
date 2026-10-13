@@ -37,7 +37,8 @@ The brief recommends that states designing postsecondary readiness indicators de
 - accurate measurement of readiness for life after high school
 
 ## Related Strategies
-- 
+
+- [Use pilot and field testing to evaluate psychometric complexity, and standardize testing policies for comparability](zwick-mislevy-pilot-testing-standardization-strategy.md)
 
 ## Examples
 -

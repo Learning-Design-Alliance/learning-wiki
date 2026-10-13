@@ -37,7 +37,8 @@ Each Alder–LEA partnership is managed by a clinical director, an LEA employee 
 - Alignment of clinical preparation with LEA context, hiring needs, and instructional frameworks
 
 ## Related Strategies
-- 
+
+- [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
 
 ## Examples
 -

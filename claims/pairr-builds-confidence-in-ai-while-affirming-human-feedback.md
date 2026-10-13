@@ -41,9 +41,11 @@ The authors' initial 2024 study of PAIRR in 10 courses with 654 students, includ
 
 
 ## Related Claims
+
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — possibly the same claim (merge candidate)
 - [Students found AI feedback helpful and actionable more often than not across a semester of reflective writing](students-find-ai-feedback-helpful-more-often-than-not.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — possibly the same claim (merge candidate)
+- [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md)

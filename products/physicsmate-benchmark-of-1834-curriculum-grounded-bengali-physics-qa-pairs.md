@@ -25,7 +25,9 @@ A benchmark dataset and accompanying knowledge graph of 1,834 Bengali Grade 9–
 - [LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales](../claims/lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [K12-KGraph](k12-kgraph.md)
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664v1

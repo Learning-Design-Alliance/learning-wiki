@@ -62,6 +62,8 @@ Descriptive characterization of the governance-event classes accumulated in the 
 
 
 ## Related Claims
+
 - [The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations](output-proxy-482-events-breadth-10-surfaces.md) — related
 - [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](persistent-agent-96-active-days-75671-records.md) — related
 - [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](cache-dominant-82-9-percent-tokens.md) — related
+- [Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations](executable-reasoning-failure-redistribution-layers.md)

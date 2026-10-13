@@ -62,6 +62,7 @@ Few-shot variants appended 2, 4, or 6 example essays of mixed length to the prom
 
 
 ## Related Claims
+
 - [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](bert-consistent-performance-across-student-subgroups.md) — related
 - [The BERT model's errors are predominantly false positives, and in most disagreements with the original coder its predictions aligned with second-round human coding](bert-error-pattern-false-positives-align-double-coding.md) — related
 - [Fine-tuned BERT outperforms a Naive Bayes baseline and zero-shot GPT-4 in classifying self-affirmation essays](bert-outperforms-naive-bayes-and-gpt4-essay-coding.md) — related
@@ -69,3 +70,4 @@ Few-shot variants appended 2, 4, or 6 example essays of mixed length to the prom
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related
 - [The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics](llm-teacher-assessment-outperforms-baselines-teachereval.md) — related
+- [The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)](fastfit-outperforms-gpt4-direct-classification.md)

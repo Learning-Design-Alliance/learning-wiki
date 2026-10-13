@@ -29,7 +29,8 @@ A playbook/framework that organizes middle-school family-engagement strategies a
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Four-Element Family Engagement Framework](four-element-family-engagement-framework.md)
 
 ## Key Sources
 - Wallace, M., & Paredes, M. (2024). The essential playbook for family engagement in middle school. WestEd. https://www.wested.org

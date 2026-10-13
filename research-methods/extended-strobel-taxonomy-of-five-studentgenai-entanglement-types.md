@@ -25,7 +25,8 @@ The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — ori
 - [Assistant and Enabler entanglements dominate GenAI-in-higher-education research, each accounting for 42.16% of a 102-study corpus, while Synthesizer, Reimaginator, and Generator together constitute less than one fifth](../claims/assistant-enabler-dominate-genai-he-corpus.md) [+M]
 
 ## Related Research Methods
--
+
+- [Three-role taxonomy of GenAI operationalization in grading workflows](three-role-taxonomy-of-genai-operationalization-in-grading-workflows.md)
 
 ## Key Sources
 - Sun, Z., Dohn, N. B., & Rehm, M. (2026). Literacy Demands Placed on Students in Student–GenAI Entanglements in Higher Education. Postdigital Science and Education. https://doi.org/10.1007/s42438-026-00697-7

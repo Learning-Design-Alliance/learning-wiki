@@ -52,6 +52,8 @@ The project's theory of change, illustrated with a TPACK image ("image ©2012 by
 
 - [Eksploratoryòm: story-based, culturally relevant interactive STEM lessons in Haitian Creole integrating literacy and SEL](../products/eksploratoryom.md)
 - [Scale-up strategy: add grades 3 and 4, expand solar and connectivity with local capacity-building, and adopt Kolibri for offline access](../strategies/haiti-scale-up-strategy-grades-infrastructure-kolibri.md)
+- [Haiti Blended Learning Pilot in 33 rural primary schools](../designs/haiti-blended-learning-pilot.md)
+- [Three-component pilot model combining infrastructure and technology, Creole digital content, and professional development with coaching](../designs/haiti-three-component-pilot-model.md)
 
 ## Key Sources
 - Suzanne Cole, Blue Butterfly; April Williamson, Digital Promise. (2024). Improving Access to Interactive, Mother-Tongue Digital Science Content for Early Grade Learners in Rural Haiti. https://digitalpromise.org/haiti

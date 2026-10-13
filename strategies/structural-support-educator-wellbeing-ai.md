@@ -39,7 +39,9 @@ The article's third recommendation treats the affective toll of AI-era grading a
 - academic integrity governance
 
 ## Related Strategies
-- 
+
+- [Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms](universal-schoolwide-educator-wellbeing-supports.md)
+- [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
 
 ## Examples
 -

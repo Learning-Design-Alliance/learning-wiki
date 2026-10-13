@@ -43,4 +43,5 @@ Case study profile of Peñasco Independent School District (about 280 students, 
 
 
 ## Related Claims
--
+
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md)

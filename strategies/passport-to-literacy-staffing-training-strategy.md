@@ -43,6 +43,7 @@ The program's staffing model uses paraprofessionals as interventionists: "Readin
 - [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
+- [Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction](hoot-reading-tutor-qualification-and-training-strategy.md)
 
 ## Examples
 -

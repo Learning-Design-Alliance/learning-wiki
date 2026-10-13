@@ -38,7 +38,8 @@ Faculty and program leaders engage in collaborative, solutions-oriented continuo
 - responsiveness to resident needs
 
 ## Related Strategies
-- 
+
+- [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
 
 ## Examples
 -

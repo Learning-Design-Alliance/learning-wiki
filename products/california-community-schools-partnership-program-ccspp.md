@@ -27,7 +27,8 @@ California's state-approved community-schools framework, administered through th
 - [CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning](../claims/ccspp-math-gains-0-point-06-sd.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Essentials for Community School Transformation Framework](essentials-for-community-school-transformation-framework.md)
 
 ## Key Sources
 - Swain, W., Leung-Gagné, M., Maier, A., & Rubinstein, C. (2025). Community schools impact on student outcomes: Evidence from California. Learning Policy Institute. https://doi.org/10.54300/541.498

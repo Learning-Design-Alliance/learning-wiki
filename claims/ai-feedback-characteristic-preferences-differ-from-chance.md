@@ -43,5 +43,7 @@ Chi-square goodness-of-fit tests in the survey study of 93 undergraduates tested
 
 
 ## Related Claims
+
 - [Preferred scoring and feedback methods differ significantly across assignment types, with AI-based scoring rarely preferred and mixed options most chosen for low-stakes assignments](scoring-preferences-vary-by-assignment-type.md) — related
 - [Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks](scoring-preferences-vary-by-scenario.md) — related
+- [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md)

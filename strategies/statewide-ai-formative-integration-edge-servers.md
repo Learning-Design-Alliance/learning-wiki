@@ -37,7 +37,8 @@ The article's forward-looking recommendation is directed at state education auth
 - Technical skill acquisition supported by continuous real-time feedback
 
 ## Related Strategies
-- 
+
+- [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 
 ## Examples
 -

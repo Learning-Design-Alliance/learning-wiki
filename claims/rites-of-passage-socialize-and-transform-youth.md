@@ -43,4 +43,6 @@ Theoretical argument in this descriptive conference paper, drawing on anthropolo
 
 
 ## Related Claims
+
 - [Schools do not fulfill the requirements of a true rite of passage, so families and communities must provide coming-of-age ceremonies](schools-cannot-fulfill-rite-of-passage-function.md) — related
+- [Traditional initiation rites differ from formal schooling in immediacy of status change, locus of control, and mode of engagement](old-rites-versus-new-school-rites-contrasts.md)

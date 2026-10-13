@@ -38,7 +38,9 @@ Because mentoring activities and topics varied greatly across teachers, the repo
 - New-teacher instructional and noninstructional support
 
 ## Related Strategies
-- 
+
+- [Conduct a larger-scale, statewide study of mentoring features and retention to detect small or moderate relationships](statewide-mentoring-retention-study-recommendation.md)
+- [Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees](withdraw-mentor-support-earlier.md)
 
 ## Examples
 -

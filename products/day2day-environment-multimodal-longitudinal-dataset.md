@@ -31,7 +31,8 @@ A longitudinal dataset created by Falkenstein Kim et al. that combines neuroimag
 - [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](../claims/outdoor-time-associated-with-right-dlpfc-grey-matter.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Polygence authentic learning dataset](polygence-authentic-learning-dataset.md)
 
 ## Key Sources
 - Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z

@@ -43,4 +43,7 @@ The article's opening comparative statement reports that the U.S. lacks a nation
 
 
 ## Related Claims
+
 - [Paid parental leave is associated with maternal recovery, workforce retention, earnings, and longer nursing duration](paid-leave-benefits-mothers-infants.md) — related
+- [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md)
+- [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](subsidized-childcare-access-gap-2022.md)

@@ -48,6 +48,7 @@ The article recommends that curricula incorporate explicit instruction in effect
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ The monograph proposes that "Characteristics and composition of the labor forces
 - 
 
 ## Related Elements
-- 
+
+- [Labor-management relations strand repeated across all four communications units](labor-management-strand-industrial-arts.md)
 
 ## Examples
 -

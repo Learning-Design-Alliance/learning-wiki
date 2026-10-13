@@ -38,7 +38,8 @@ Step 5 of the workflow is an ongoing process with two strands. In explicit maint
 - sustained inter-rater reliability and scoring consistency over time
 
 ## Related Strategies
-- 
+
+- [Separate feedback provision from competency certification, using feedback-approved reviewers or pre-submission review](feedback-approved-reviewers-presubmission-review.md)
 
 ## Examples
 -

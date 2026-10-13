@@ -43,6 +43,8 @@ The review's executive summary and findings heading state that "effectiveness in
 
 
 ## Related Claims
+
 - [Teachers improve faster when they teach the same grade level and subject for multiple years](task-specific-experience-faster-improvement.md) — a narrower finding that bears on this claim
 - [Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most](peer-experience-spillover-teacher-improvement.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- [Common experience-measurement methods that cap or band years of experience substantially understate returns to experience, by as much as 68%](wide-experience-indicators-understate-returns.md)

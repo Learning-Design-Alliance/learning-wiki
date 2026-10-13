@@ -29,7 +29,8 @@ A study-created database linking longitudinal K–12 education records from the 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Linked California child welfare-education dataset](linked-california-child-welfare-education-dataset.md)
 
 ## Key Sources
 - Barrat, V. X., Berliner, B., & Felida, N. J. (2015). Arizona's Invisible Achievement Gap: Education Outcomes of Students in Foster Care in the State's Public Schools. San Francisco: WestEd. http://www.azed.gov/research-evaluation/files/2013/11/2013-a-f-technical-manual.pdf

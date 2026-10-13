@@ -41,7 +41,8 @@ The report's first lesson is that a state education agency should assemble staff
 - 
 
 ## Related Designs
-- 
+
+- [Utah USBE resource allocation review process for schools eligible for comprehensive improvement support](utah-usbe-rar-process.md)
 
 ## Examples
 -

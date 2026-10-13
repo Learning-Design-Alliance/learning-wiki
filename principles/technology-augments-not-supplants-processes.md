@@ -119,6 +119,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](../strategies/ai-as-guided-support-tool-build-verification.md)
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](../strategies/four-design-principles-epistemic-agency-ai.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](../strategies/stepped-ai-simulation-integration-strategies.md)
+- [Domain-grounded mediation framework for LLM-assisted VR instruction](../designs/domain-grounded-mediation-llm-vr-instruction.md)
+- [Remora Free Body Diagram Require-GenAI task](../designs/remora-free-body-diagram-task.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

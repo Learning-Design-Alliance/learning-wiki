@@ -26,7 +26,9 @@ A publicly released benchmark comprising Turtle Graphics programming-task datase
 - [Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts](../claims/fine-tuning-synthetic-data-improves-turtleai.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MEDS dataset of 28,000 LLM runs across four mathematics-education tasks](meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks.md)
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626

@@ -25,7 +25,8 @@ OPTEL is an observation protocol developed with the Region 15 Comprehensive Cent
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [OPTEL](optel.md)
 
 ## Key Sources
 - Strengthening English Learner Reclassification in California. (2024). Region 15 Comprehensive Center at WestEd, U.S. Department of Education grant #S283B190053. https://nces.ed.gov/programs/coe/indicator/cgf

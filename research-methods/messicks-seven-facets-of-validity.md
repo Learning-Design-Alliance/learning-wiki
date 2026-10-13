@@ -30,7 +30,8 @@ The paper adopts Messick's taxonomy of validity facets to structure validation i
 ### Claims
 
 ## Related Research Methods
--
+
+- [FACETS framework](facets-framework.md)
 
 ## Key Sources
 - Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. Journal of Technology, Learning, and Assessment, 8(4). http://www.jtla.org

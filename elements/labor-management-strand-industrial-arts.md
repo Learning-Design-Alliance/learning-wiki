@@ -41,7 +41,8 @@ Each of the four units includes a common labor-management content strand. Studen
 - 
 
 ## Related Elements
-- 
+
+- [Labor force characteristics and composition as a separate area of study in teacher education](labor-force-characteristics-study-area.md)
 
 ## Examples
 -

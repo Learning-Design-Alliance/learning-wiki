@@ -24,7 +24,10 @@ Minnesota state postsecondary financial-aid programs that provide tuition and ne
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [EdTrust's ten-metric framework for student-centered state financial aid](edtrusts-ten-metric-framework-for-student-centered-state-financial-aid.md)
+- [Illinois Monetary Award Program (MAP) grant](illinois-monetary-award-program-map-grant.md)
+- [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md)
 
 ## Key Sources
 - Victoria Jackson. (2025). An Overview of State Financial Aid in Illinois, Indiana, and Minnesota. EdTrust. https://edtrust.org

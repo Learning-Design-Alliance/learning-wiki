@@ -17,7 +17,7 @@ sources:
 # Complexity, accuracy and fluency (CAF) measures of learners' language performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review presents Skehan's (1998b) three-part measurement framework for learners' language performance, proposing "to separate learner's general goal into three specific areas: accuracy, complexity and fluency." Accuracy relates to understanding rules and performing against them; complexity deals with restructuring the interlanguage system to become more elaborate; fluency refers to the capability to mobilize current linguistic sources to communicate in real time. The measures cover both speaking and writing skills, and the review argues separate measurements for speaking and writing are needed within these areas.
@@ -37,6 +37,10 @@ The review presents Skehan's (1998b) three-part measurement framework for learne
 - accuracy
 - complexity
 - fluency in second language performance
+
+## Claims
+
+- [Strategic pre-task planning enhances learners' fluency in task-based performance](../claims/strategic-planning-enhances-fluency.md) [+W]
 
 ## Related Elements
 - 

@@ -43,6 +43,7 @@ To manage the coupled trade-off among scale, duration, and granularity, the pape
 
 - [Time Management In Instruction](time-management-in-instruction.md)
 - [Team training with variable leadership roles and simulated communication delays](team-training-variable-leadership-communication-delays.md)
+- [Design hybrid instructional chatbot systems that balance breadth and depth via multi-agent architectures or adaptive interaction modes](hybrid-instructional-chatbot-design-strategy.md)
 
 ## Examples
 -

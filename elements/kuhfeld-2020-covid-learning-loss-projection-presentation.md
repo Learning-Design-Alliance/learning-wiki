@@ -53,7 +53,8 @@ A 2020 NWEA Research presentation (CEPA seminar) in which Megan Kuhfeld discusse
 - [NISS Ingram Olkin Forum presentation on modeling COVID-19 school openings, closings, and learning loss](niss-ingram-olkin-forum-covid-schools-presentation.md)
 
 ## Examples
--
+
+- [Measure student learning between school years using remote test administration when in-person testing is disrupted](../strategies/remote-fall-testing-measure-pandemic-learning.md)
 
 ## Key Sources
 - Megan Kuhfeld. (2020). Projecting the impact of the COVID-19 spring school closures on student learning. NWEA Research presentation. https://www.nwea.org/research/publication/projecting-the-impact-of-the-covid-19-spring-school-closures-on-student-learning/

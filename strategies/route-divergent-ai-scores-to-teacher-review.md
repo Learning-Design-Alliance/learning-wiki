@@ -42,7 +42,8 @@ As a mitigation for language bias, the article suggests human–AI collaboration
 - Language Bias Task Inherent Explanation Scoring
 
 ## Related Strategies
-- 
+
+- [Awareness of Implicit Biases](awareness_of_implicit_biases.md)
 
 ## Examples
 -

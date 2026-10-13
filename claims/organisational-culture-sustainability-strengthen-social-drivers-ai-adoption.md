@@ -43,4 +43,6 @@ Structural equation modelling of survey responses from 300 academic and administ
 
 
 ## Related Claims
--
+
+- [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md)
+- [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md)

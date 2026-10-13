@@ -17,7 +17,7 @@ sources:
 # Four pedagogical principles for AI companion design derived from the HELF
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Building on the Higher Education Learning Framework, the paper derives four principles for AI companion design: "deep and interactive learning, which prompts learners to actively process and connect new knowledge through varied cognitive tasks; guided scaffolding, which delivers adaptive guidance calibrated to the learner's Zone of Proximal Development"; learning to learn and higher-order learning, fostering metacognition and autonomy; and contextual learning, situating learning in authentic contexts for transfer and disciplinary identity. Each principle carries concrete companion strategies such as prompting generation and retrieval rather than provision.
@@ -39,10 +39,13 @@ Building on the Higher Education Learning Framework, the paper derives four prin
 - transferable knowledge
 
 ### Claims
-- 
+
+- [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](../claims/learner-agency-genai-verification-revision.md) [+W]
 
 ## Related Designs
-- 
+
+- [AI-as-learning-companion: leveraging LLM fallibility through a critique-refinement cycle to develop higher-order thinking](ai-learning-companion-critique-refinement-framework.md)
+- [Three learner-derived design principles for AI systems supporting andragogy: human-in-the-loop, emotional design, and adaptability](ai-andragogy-design-principles-hitl-emotional-adaptability.md)
 
 ## Examples
 -

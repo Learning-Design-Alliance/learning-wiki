@@ -41,6 +41,8 @@ This strategy comes from a practical guide for researchers designing education i
 - [Assess and adjust for differences between the study sample and the target population](assess-adjust-sample-population-differences.md)
 - [Actively manage school recruitment to protect the generalizability of impact studies](manage-school-recruitment-generalizability.md)
 - [Select a sample of schools, including replacement schools when needed, to support generalizable impact studies](school-sampling-with-replacement-schools-generalizability.md)
+- [Triangulate internal-validity findings with interaction analyses, propensity-score generalizability indices, and adapted extensions to establish external validity](triangulation-approach-generalizability.md)
+- [Specify implementation research questions as a distinct step in impact study design](specify-implementation-research-questions-step.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ Benchmark evaluation of the EduGage dataset under a participant-grouped four-fol
 
 
 ## Related Claims
+
 - [Videos experienced as higher attention difficulty were associated with lower normalized quiz learning gains, providing convergent evidence that the probe captures an educationally meaningful aspect of momentary engagement](attention-difficulty-inversely-related-quiz-gains.md) — related
 - [One-minute-ahead direct forecasting performs similarly to contemporaneous estimation, but performance degrades at longer horizons and a carry-forward baseline outperforms the sensor model at every future horizon](engagement-forecasting-horizon-degradation.md) — related
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — related
@@ -50,3 +51,4 @@ Benchmark evaluation of the EduGage dataset under a participant-grouped four-fol
 - [A head-confined multimodal configuration (EEG, eye tracking, forehead EDA) predicts held-out learners' five-level engagement ratings at 75.0% balanced 1-off accuracy, 12.0 points above the mode baseline](e3sense-head-confined-engagement-prediction.md) — related
 - [A DDQN-based attention quantification model trained on multimodal EEG-fNIRS features produces predicted attention levels at one-second temporal resolution](ddqn-multimodal-attention-quantification-accurate-stable.md) — related
 - [The Residual Fusion Transformer shows the lowest worst-group MAE and smallest gender gap among baselines, while the Sensor GRU shows the smallest age gap alongside the weakest overall performance](fusion-transformer-lowest-worst-group-mae-smallest-gender-gap.md) — related
+- [The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model](real-time-pipeline-latency-one-second-stride-a100.md)

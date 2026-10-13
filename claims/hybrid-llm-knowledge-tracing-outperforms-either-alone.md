@@ -43,4 +43,5 @@ The paper reports, citing prior work, that hybrid LLM-plus-knowledge-tracing arc
 
 
 ## Related Claims
--
+
+- [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md)

@@ -57,7 +57,8 @@ A large-scale random assignment evaluation of alternative routes to teacher cert
 - [Passport to Teaching program of the American Board for Certification of Teacher Excellence](../products/passport-to-teaching.md)
 
 ## Examples
--
+
+- [Use within-school random assignment of students as an evaluation design for school-based programs, learning implementation lessons from the TFA experiment](../strategies/within-school-random-assignment-design-strategy.md)
 
 ## Key Sources
 - Jill Constantine, Daniel Player, Tim Silva, Kristin Hallgren, Mary Grider, John Deke. (2009). An Evaluation of Teachers Trained Through Different Routes to Certification. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee

@@ -44,6 +44,7 @@ The bibliography annotates Alice Ann Cleaveland's UNIVERSALS OF CULTURE (Global 
 ## Related Elements
 
 - [Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories](arizona-project-global-awareness-bibliography.md)
+- [Conceptual lenses for examining cultural perspectives](conceptual-cultural-lenses.md)
 
 ## Examples
 -

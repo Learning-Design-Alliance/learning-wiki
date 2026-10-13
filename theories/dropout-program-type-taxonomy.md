@@ -51,7 +51,8 @@ The review organizes the dropout intervention literature into a set of program t
 - [Four-type taxonomy of college- and career-readiness interventions with ESSA-tier evidence](four-types-college-career-readiness-interventions-taxonomy.md)
 
 ## Examples
--
+
+- [Meta-analytic corpus of 130 dropout program evaluation samples](../elements/dropout-meta-analysis-130-samples-corpus.md)
 
 ## Key Sources
 - Wilson, S. J., Tanner-Smith, E., & Lipsey, M. W. (2011). Dropout Prevention and Intervention Programs: Effects on School Completion and Dropout Among School-aged Children and Youth. 2011 SREE Conference. http://ies.ed.gov/ncee/wwc/reports/dropout/topic/#top

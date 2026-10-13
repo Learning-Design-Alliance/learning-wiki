@@ -60,9 +60,11 @@ Cross-age tutoring is one of the most consistently supported peer-learning forma
 6. Gradually release responsibility to the tutoring pair, fading instructor scaffolds as the partnership stabilizes [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — same-age variant; cross-age pairing reduces social comparison and status concerns
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role rotation among peers; a within-class analogue of alternating tutor/tutee roles
 - [Cooperative Learning](cooperative-learning.md) — group-based peer structures with shared goals and individual accountability
+- [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **Reading Partners** (https://readingpartners.org) — a structured cross-age and volunteer tutoring program in which trained tutors deliver scripted, evidence-based reading sessions to elementary students; rigorous evaluations show significant gains in reading proficiency.

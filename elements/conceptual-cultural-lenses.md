@@ -43,7 +43,8 @@ Conceptual lenses are a curricular element the article recommends for graduate l
 - 
 
 ## Related Elements
-- 
+
+- [Culture universals as conceptual tools for studying cultures](culture-universals-conceptual-tools.md)
 
 ## Examples
 -

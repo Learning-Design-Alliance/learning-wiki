@@ -42,7 +42,8 @@ The article proposes a dynamic, iterative e-mentoring system in which pre-servic
 - 
 
 ## Related Designs
-- 
+
+- [Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection](three-phase-practicum-e-mentoring-cycle.md)
 
 ## Examples
 -

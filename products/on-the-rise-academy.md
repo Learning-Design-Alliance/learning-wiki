@@ -25,7 +25,9 @@ A Detroit Public Schools Community District alternative teacher-certification an
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teach For America](teach-for-america.md)
+- [Teacher residency model](teacher-residency-model.md)
 
 ## Key Sources
 - Charlotte Pierce. (2026). Strong Start, Strong Teachers: Supporting Teacher Preparation Programs for a Brighter Future. EdTrust-Midwest. https://midwest.edtrust.org

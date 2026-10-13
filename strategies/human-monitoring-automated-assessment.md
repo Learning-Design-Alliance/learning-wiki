@@ -39,7 +39,12 @@ An ethics and privacy requirement the article states for any future use of the d
 - privacy-preserving use of educational records
 
 ## Related Strategies
-- 
+
+- [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Achieve high-precision automated constructive assessment through prompt design alone—explicit role assignment plus human-scored hint examples—without fine-tuning](prompt-design-with-role-and-hints-for-llm-assessment.md)
+- [Be cautious with LLM-based TTX assessment and have a human instructor review automated outputs](human-review-of-llm-ttx-assessment.md)
+- [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 
 ## Examples
 -

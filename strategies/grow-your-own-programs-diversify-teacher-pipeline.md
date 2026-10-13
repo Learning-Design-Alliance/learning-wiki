@@ -40,6 +40,7 @@ The brief lists Grow Your Own (GYO) programs among the research-based strategies
 ## Related Strategies
 
 - [Fund Grow Your Own programs to recruit more candidates of color than traditional educator preparation programs attract](grow-your-own-programs-recruit-candidates-of-color.md)
+- [Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications](strategic-hiring-aligned-to-instructional-model.md)
 
 ## Examples
 -

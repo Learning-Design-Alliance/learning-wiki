@@ -16,7 +16,7 @@ sources:
 # Lifespan, multidisciplinary scope framework of the How People Learn II study
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The statement of task organizes the study around learning and learning contexts "across the lifespan (specifically, infancy and early childhood, middle childhood, adolescence and young adulthood, middle adulthood and older adulthood)" and across disciplines including cognitive neuroscience, learning technologies, education research, cognitive science, language and linguistics, and social, emotional and motivational aspects of learning. This lifespan-by-discipline framing structures what the report reviews and synthesizes.
@@ -36,7 +36,8 @@ The statement of task organizes the study around learning and learning contexts 
 - synthesis of learning science across cognitive, social, emotional, and motivational domains
 
 ### Claims
-- 
+
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](../claims/hpl-ii-updates-extends-hpl-2000-lifespan.md) [+W]
 
 ## Related Theories
 - 

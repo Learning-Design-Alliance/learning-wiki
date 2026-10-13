@@ -17,7 +17,7 @@ sources:
 # Hyperledger Fabric prototype with four educational smart contracts
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A working prototype built on Hyperledger Fabric with 4 peer nodes belonging to four different institutions. It implements four core smart contracts—EnrollmentContract, AssessmentContract, CertificationContract, and IdentityContract—covering "course registration, automatic grading, certificate issuance, and decentralized identity management". The on-chain data model includes StudentProfile, EnrollmentRecord, GradeRecord (preserving all regrade history), and Certificate records; large content such as feedback text is stored off-chain with hashes on-chain.
@@ -38,7 +38,8 @@ A working prototype built on Hyperledger Fabric with 4 peer nodes belonging to f
 - enrollment, assessment, and credential workflows with verifiable records
 
 ### Claims
-- 
+
+- [Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract](../claims/smart-contract-execution-21-49ms-certification-costliest.md) [+W]
 
 ## Related Designs
 - 

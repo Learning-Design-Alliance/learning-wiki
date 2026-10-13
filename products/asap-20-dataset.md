@@ -13,7 +13,7 @@ generated:
 # ASAP 2.0 dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argumentative essays with human-assigned scores from 1 to 6, developed for automated essay-scoring research.
@@ -24,8 +24,12 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 
 ### Claims
 
+- [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](../claims/llm-essay-scoring-weak-human-agreement.md) [+W]
+- [Newer LLM generations do not consistently agree better with human essay graders](../claims/no-consistent-generational-improvement-llm-grading.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [IELTS Writing Scored Essays Dataset](ielts-writing-scored-essays-dataset.md)
 
 ## Key Sources
 - Zhenxin Zhang, Ziyu Ding, Mengyun Liu and Haiwei Sang. (2026). RACES: reward-aligned consistent essay scoring with large language models. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00607-8

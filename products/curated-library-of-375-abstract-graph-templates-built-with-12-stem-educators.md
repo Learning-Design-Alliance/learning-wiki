@@ -24,7 +24,8 @@ A research dataset of 375 unlabeled engineering graph templates curated with 12 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [1,650-question STEM diagram dataset collected via campus-wide submission campaign](1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-campaign.md)
 
 ## Key Sources
 - Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00459-9

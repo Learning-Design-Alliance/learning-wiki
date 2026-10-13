@@ -26,7 +26,9 @@ The OmniEdu corpus is a curated, audited, diverse instruction-tuning dataset for
 - [Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale](../claims/omniedu-tuning-improves-all-three-educational-capability-groups.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [K12-Train](k12-train.md)
+- [Open audit dataset of 1,800 LLM history-tutor responses across five personas](open-audit-dataset-of-1800-llm-history-tutor-responses-across-five-personas.md)
 
 ## Key Sources
 - Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). OmniEdu: Open Foundation Models for Learning and Teaching. https://arxiv.org/abs/2609.23088

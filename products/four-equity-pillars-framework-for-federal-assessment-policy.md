@@ -26,7 +26,8 @@ An Ed Trust framework that organizes priorities for equitable statewide summativ
 - [Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills](../claims/assessments-one-indicator-college-readiness-stakeholders.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Four Pillars of Opportunity framework](four-pillars-of-opportunity-framework.md)
 
 ## Key Sources
 - Nicholas Munyan-Penney and Sarah Mehrotra. (2023). Future of Assessments: Centering Equity and the Lived Experiences of Students, Families, and Educators. Ed Trust. https://edtrust.org

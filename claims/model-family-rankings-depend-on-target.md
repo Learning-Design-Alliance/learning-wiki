@@ -43,5 +43,7 @@ Binary sensitivity analysis within the same five-fold participant-grouped RQ1 ev
 
 
 ## Related Claims
+
 - [Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis](feature-selection-effects-mixed-across-families.md) — related
 - [A head-confined multimodal configuration (EEG, eye tracking, forehead EDA) predicts held-out learners' five-level engagement ratings at 75.0% balanced 1-off accuracy, 12.0 points above the mode baseline](e3sense-head-confined-engagement-prediction.md) — related
+- [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md)

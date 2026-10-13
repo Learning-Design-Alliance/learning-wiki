@@ -42,7 +42,8 @@ The curriculum uses a recurring weekly instructional pattern: a 'theme of the we
 - 
 
 ## Related Designs
-- 
+
+- [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](fraction-face-off-cooperative-lesson-structure.md)
 
 ## Examples
 -

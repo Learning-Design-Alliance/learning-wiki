@@ -44,6 +44,7 @@ The paper assigns institutions minimum responsibilities for enabling AI-mediated
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
 
 ## Examples
 -

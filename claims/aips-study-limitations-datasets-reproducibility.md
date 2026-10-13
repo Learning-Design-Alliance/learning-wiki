@@ -43,4 +43,8 @@ Quality-assessment synthesis (Table 6) of the 80 included studies reports datase
 
 
 ## Related Claims
--
+
+- [A PRISMA systematic review synthesized 80 peer-reviewed studies on AI-based proctoring in higher education published between 2014 and 2024](aips-systematic-review-80-studies-2014-2024.md)
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md)
+- [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md)
+- [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md)

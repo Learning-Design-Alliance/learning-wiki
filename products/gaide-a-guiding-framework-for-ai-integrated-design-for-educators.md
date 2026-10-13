@@ -26,7 +26,8 @@ Song et al.'s GAIDE framework guides K–12 teachers through AI understanding, i
 - [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](../claims/workshop-iterative-ai-creation-process-cordtra.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Math Mysteries](math-mysteries.md)
 
 ## Key Sources
 - Song, Y., Choi, S., Kim, J., Kim, Y., Weisberg, L., & Moon, J. (2026). A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding. https://x.com/karpathy/status/1886192184808149383

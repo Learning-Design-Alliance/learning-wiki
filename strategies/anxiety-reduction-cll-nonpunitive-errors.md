@@ -38,7 +38,8 @@ The article reports that Community Language Learning uses counseling techniques 
 - confidence in oral communication
 
 ## Related Strategies
-- 
+
+- [Reduce anxiety and build self-confidence in older language learners](reduce-anxiety-build-confidence-older-learners.md)
 
 ## Examples
 -

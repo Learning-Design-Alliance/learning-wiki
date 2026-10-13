@@ -13,7 +13,7 @@ generated:
 # UNESCO AI Competency Framework for School Students
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A UNESCO framework that organizes 12 AI competencies for school students into four dimensions: human-centred mindset, ethics of AI, AI techniques and applications, and AI system design.
@@ -24,8 +24,12 @@ A UNESCO framework that organizes 12 AI competencies for school students into fo
 
 ### Claims
 
+- [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](../claims/aipi-ranking-does-not-guarantee-strong-genai-policies.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [UNESCO AI Competency Framework for Students](unesco-ai-competency-framework-for-students.md)
+- [UNESCO AI Competency Framework for Teachers](unesco-ai-competency-framework-for-teachers.md)
 
 ## Key Sources
 - Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students

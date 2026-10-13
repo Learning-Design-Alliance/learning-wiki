@@ -41,7 +41,8 @@ A pipeline that transforms a pre-training corpus into textbook-form training dat
 - [Synthetic Textbooks Replace Natural Books Gain](../claims/synthetic-textbooks-replace-natural-books-gain.md) [+M]
 
 ## Related Designs
-- 
+
+- [HERO-QA pipeline: hierarchical retrieval, answer generation with abstention, and a structured-output LLM judge](hero-qa-audit-pipeline.md)
 
 ## Examples
 -

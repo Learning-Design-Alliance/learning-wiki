@@ -40,7 +40,11 @@ The brief recommends that employers support workers' professional learning amid 
 - transferable AI skills
 
 ## Related Strategies
-- 
+
+- [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
+- [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
+- [Co-designed recommendations for employers: equitable hiring practices, inclusive work culture, and continued upskilling support](employer-codesigned-tech-pathway-supports.md)
+- [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
 
 ## Examples
 -

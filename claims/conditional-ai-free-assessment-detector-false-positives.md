@@ -62,5 +62,7 @@ Same room, on ensuring a 200-student assignment is AI-free: detectors rejected o
 
 
 ## Related Claims
+
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
+- [In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment](students-reinvented-exams-in-ai-course-grading-design.md)

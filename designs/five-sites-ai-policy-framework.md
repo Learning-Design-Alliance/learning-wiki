@@ -17,7 +17,7 @@ sources:
 # Five-sites framework of AI-use expectations in a course
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that for any given course, concepts of appropriate AI use for academic writing are housed in five distinct sites: faculty intention, formal policy, student interpretation, student self-policy, and student practice. These sites, whether explicit or implicit, formal or informal, often differ from one another, and the divergences create openings for re-interpretation of ethically questionable AI use. The framework explains how instructor expectations are translated, interpreted, personalized, and enacted, with the boundary of acceptable use softening at each site.
@@ -37,7 +37,8 @@ The article proposes that for any given course, concepts of appropriate AI use f
 - understanding and negotiating course AI policies in academic writing
 
 ### Claims
-- 
+
+- [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](../claims/associate-deans-report-no-official-ai-policies-localized-guidelines.md) [+W]
 
 ## Related Designs
 - 

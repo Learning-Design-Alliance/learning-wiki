@@ -43,4 +43,5 @@ Section 4.2 reports the READER model's fit to gaze duration data from eye moveme
 
 
 ## Related Claims
--
+
+- [Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects](simulation-explores-model-plausibility.md)

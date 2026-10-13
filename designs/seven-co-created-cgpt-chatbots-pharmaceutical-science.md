@@ -42,7 +42,8 @@ Seven custom GPT chatbots (cGPTs) were co-created for six undergraduate units in
 - [Gpt Broad Ideas Incorporated Precise Control Lacking](../claims/gpt-broad-ideas-incorporated-precise-control-lacking.md) [~M]
 
 ## Related Designs
-- 
+
+- [Aspen: a prompt-engineered AI chatbot peer mentor for inquiry revision](aspen-ai-chatbot-peer-mentor.md)
 
 ## Examples
 -

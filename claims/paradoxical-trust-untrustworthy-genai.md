@@ -43,4 +43,8 @@ Focus-group account of Howard, an active adopter who used GenAI for academic que
 
 
 ## Related Claims
--
+
+- [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](verification-label-engagement-scrutiny.md)
+- [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md)
+- [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md)
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md)

@@ -31,7 +31,9 @@ A Center on School Turnaround framework that organizes practices for state, dist
 - [Strong leadership is central to rapid school improvement, per the article's summary of research](../claims/leadership-central-rapid-school-improvement.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [University of Virginia Partnership for Leaders in Education turnaround competency model](university-of-virginia-partnership-for-leaders-in-education-turnaround-competency-model.md)
+- [WestEd Center on School Turnaround Journeys Project](wested-center-on-school-turnaround-journeys-project.md)
 
 ## Key Sources
 - REL Mid-Atlantic administered by Mathematica Policy Research. (2019). Competencies and Strategies of Effective School Turnaround Leaders (Infographic). Washington, DC: U.S. Department of Education, Institute of Education Sciences. https://www.mathematica.org/publications/competencies-and-strategies-of-effective-school-turnaround-leaders-infographic

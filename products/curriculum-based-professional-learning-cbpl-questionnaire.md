@@ -30,7 +30,8 @@ The Curriculum-Based Professional Learning (CBPL) Questionnaire is a survey inst
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Shared Measures Construct Map](shared-measures-construct-map.md)
 
 ## Key Sources
 - Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://www.wested.org

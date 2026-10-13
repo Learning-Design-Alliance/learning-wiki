@@ -25,7 +25,9 @@ WestEd’s longitudinal dataset for the Massachusetts Department of Elementary a
 - [In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent over three years](../claims/massachusetts-k3-persistent-significant-risk-rates.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Massachusetts DESE early literacy screening assessment dataset](massachusetts-dese-early-literacy-screening-assessment-dataset.md)
+- [Massachusetts early literacy screening assessment dataset linked with MCAS results](massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results.md)
 
 ## Key Sources
 - Lemke, M., Faulkner-Bond, M., LeBeau, B., Soo Ping Chow, A., & Quesen, S. (2025). Early literacy performance in Massachusetts: Results of ongoing analysis of literacy screening assessments (2023/24 data). WestEd. https://www.wested.org

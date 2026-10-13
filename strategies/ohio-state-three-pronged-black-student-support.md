@@ -37,7 +37,8 @@ Ohio State attributes its gains to a "three-pronged approach to boosting retenti
 - college readiness, retention, and completion
 
 ## Related Strategies
-- 
+
+- [Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students](intentional-data-driven-institutional-action.md)
 
 ## Examples
 -

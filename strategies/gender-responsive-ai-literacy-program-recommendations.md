@@ -39,7 +39,8 @@ The article closes with three recommendations for AI literacy program design gro
 - deepfake safety and ethical synthetic-media behaviour
 
 ## Related Strategies
-- 
+
+- [Develop gender-specific well-being strategies, especially literacy support for male students](gender-specific-wellbeing-strategies-literacy.md)
 
 ## Examples
 -

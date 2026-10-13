@@ -25,7 +25,8 @@ A corpus compiled by Espino et al. from peer-reviewed Dimensions-indexed article
 - [A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment](../claims/four-clusters-ai-business-education-research.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Corpus of 22 peer-reviewed LLM-in-higher-education studies (2023–2024) with geographic, publisher and keyword-cluster profile](corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis.md)
 
 ## Key Sources
 - Espino, L., & Espino, C. (2026). Mapping the Integration of AI into Business Education: Insights from a Decade of Research. Journal of University Teaching and Learning Practice. https://doi.org/10.53761/5yhdnk13

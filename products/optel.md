@@ -30,7 +30,8 @@ OPTEL is an observation protocol for teachers of English learners, developed and
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Observation Protocol for Teachers of English Learners (OPTEL)](observation-protocol-for-teachers-of-english-learners-optel.md)
 
 ## Key Sources
 - Strengthening English Learner Reclassification in California. (2024). Region 15 Comprehensive Center at WestEd, U.S. Department of Education grant #S283B190053. https://nces.ed.gov/programs/coe/indicator/cgf

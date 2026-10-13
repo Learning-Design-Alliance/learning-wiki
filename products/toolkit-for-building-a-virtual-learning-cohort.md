@@ -31,7 +31,8 @@ A Mathematica toolkit that helps facilitators plan and evaluate virtual learning
 - [The CBSL pilot strengthened grantee capacity through scoping, provider matching, cohort learning, and thought partnership](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Alliance for Resource Equity (ARE) diagnostic toolkit organized around ten dimensions of equity](alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ.md)
 
 ## Key Sources
 - Rabb, B., Gardner, E., Pottinger, E., Tallapragada, R., Resch, A., Vorias, T., & Knechtel, V. (2021). Toolkit for Building a Virtual Learning Cohort. Mathematica. https://www.mathematica.org/publications/toolkit-for-building-a-virtual-learning-cohort

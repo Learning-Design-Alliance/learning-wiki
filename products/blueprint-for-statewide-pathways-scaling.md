@@ -40,7 +40,9 @@ A Babineau et al. framework for coordinating state and regional policy, labor-ma
 - [Linked Learning benefits occurred only in pathways independently certified as high-quality on seven implementation dimensions](../claims/pathway-quality-certification-gating-effects.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Ideal pathways system](ideal-pathways-system.md)
+- [Linked Learning Alliance two-tiered certification system](linked-learning-alliance-two-tiered-certification-system.md)
 
 ## Key Sources
 - Babineau, K., Aso, C., Ganoo, K., Jacobs, B., Lenderman, K., Shah, Z., Smith, K., & Young, V. M. (2025). From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration. Digital Promise. https://doi.org/10.51388/20.500.12265/263

@@ -45,6 +45,8 @@ The report recommends that California "adopt a comprehensive approach to turn an
 - [Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching](federal-strategy-ece-quality-standards-coaching.md)
 - [Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching](federal-strategy-ece-workforce-compensation-preparation.md)
 - [Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies](state-policy-steps-ece-workforce-preparation.md)
+- [Five policy questions for unifying, funding, and improving California's ECE system](california-ece-five-policy-questions.md)
+- [Eight policy and practice actions for scaling early childhood coaching systems, from dedicated funding to data collection](policy-actions-scaling-ece-coaching-systems.md)
 
 ## Examples
 -

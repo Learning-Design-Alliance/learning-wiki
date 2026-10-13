@@ -43,5 +43,7 @@ Nonexperimental analysis estimating achievement effects of a small number of New
 
 
 ## Related Claims
+
 - [NYC charter middle schools affiliated with Achievement First and Uncommon show statistically significant reading gains after three years, equal to an estimated additional 0.7 years of growth](af-uncommon-nyc-charter-middle-reading-impact-07-years.md) — related
 - [The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting](uncommon-model-effective-turnaround-setting.md) — related
+- [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md)

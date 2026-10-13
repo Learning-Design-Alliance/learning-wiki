@@ -25,7 +25,8 @@ A Pennsylvania state-supported programme that creates multiple pathways into tea
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher residency model](teacher-residency-model.md)
 
 ## Key Sources
 - The Education Trust. (2022). Educator Diversity State Profile: Pennsylvania. https://edtrust.org/educator-diversity/

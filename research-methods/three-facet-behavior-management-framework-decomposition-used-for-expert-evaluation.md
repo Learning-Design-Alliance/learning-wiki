@@ -12,7 +12,7 @@ generated:
 # Three-facet Behavior Management Framework decomposition used for expert evaluation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To assess interventions, five educational experts decomposed classroom behavior management into three facets drawn from Behavior Management Frameworks: "(1) Humanistic orientation, reflecting emphasis on empathy, dialogue, and student needs versus reinforced control; (2) Reactivity, capturing reactive (cf. preventive) strategies; and (3) Systematicity" distinguishing generalizable strategies from incident-specific actions. Experts rated each facet on a centered Likert scale (-2 to +2) and combined them into an overall Appropriateness score mapped to the dataset's outcome labels.
@@ -22,6 +22,8 @@ To assess interventions, five educational experts decomposed classroom behavior 
 - **Three-facet Behavior Management Framework decomposition used for expert evaluation**: To assess interventions, five educational experts decomposed classroom behavior management into three facets drawn from Behavior Management Frameworks: "(1) Humanistic orientation, reflecting emphasis on empathy, dialogue, and student needs versus reinforced control; (2) Reactivity, capturing reactive (cf. preventive) strategies; and (3) Systematicity" distinguishing generalizable strategies from incident-specific actions. Experts rated each facet on a centered Likert scale (-2 to +2) and combined them into an overall Appropriateness score mapped to the dataset's outcome labels. (Michal Štefánik et al. (2026))
 
 ### Claims
+
+- [Expert annotators show high agreement on intervention appropriateness ratings](../claims/expert-annotator-high-agreement.md) [+W]
 
 ## Related Research Methods
 -

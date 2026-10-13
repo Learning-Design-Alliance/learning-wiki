@@ -62,6 +62,8 @@ The brief reports that "87% of public schools reported that the pandemic has neg
 
 
 ## Related Claims
+
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — reports the opposite
 - [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
+- [The COVID-19 pandemic changed public school kindergarten enrollment in ways with likely national classroom consequences](covid-changed-kindergarten-enrollment-consequences.md)

@@ -38,7 +38,9 @@ The article presents Van Fraassen's (VF) pragmatic theory of explanation as "ess
 - 
 
 ## Related Theories
-- 
+
+- [Explanation questions divide into cause-seeking, effect-seeking, and causal-elaboration types with distinct answer structures](explanation-question-subtypes-answer-structures.md)
+- [A taxonomy of history questions classifies questions by the type and structure of the required response, not by surface interrogative form](history-question-taxonomy-by-response-structure.md)
 
 ## Examples
 -

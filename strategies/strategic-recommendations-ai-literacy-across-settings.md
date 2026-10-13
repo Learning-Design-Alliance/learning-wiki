@@ -52,6 +52,8 @@ The briefs issue four strategic recommendations for leaders: "Build AI literacy 
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines](multidisciplinary-ai-anxiety-interventions.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
+- [Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands](align-ai-guidelines-discipline-objectives-workforce.md)
+- [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
 
 ## Examples
 -

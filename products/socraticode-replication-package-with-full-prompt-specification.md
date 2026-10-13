@@ -24,7 +24,8 @@ A Zenodo-archived replication package containing the full topic-prompt specifica
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [SocratiCode](socraticode.md)
 
 ## Key Sources
 - Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857

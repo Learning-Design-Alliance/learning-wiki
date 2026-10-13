@@ -39,7 +39,8 @@ The article's conclusions propose educational responses to emerging GenAI practi
 - customising GenAI tools for project needs
 
 ## Related Strategies
-- 
+
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

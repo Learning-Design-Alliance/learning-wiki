@@ -25,7 +25,9 @@ A five-point Likert-scale instrument developed by Fan Bu et al. to measure conte
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](../claims/pilot-efa-four-factor-solution.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [AI adaptive learning environment perception scale (15 items, three dimensions)](ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions.md)
+- [PERMA-based AI well-being scale for faculty in AI-integrated teaching](perma-based-ai-well-being-scale-for-faculty-in-ai-integrated-teaching.md)
 
 ## Key Sources
 - Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study. Front. Psychol. 17:1861072. https://doi.org/10.3389/fpsyg.2026.1861072

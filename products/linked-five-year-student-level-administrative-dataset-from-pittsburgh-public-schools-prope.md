@@ -31,7 +31,8 @@ A five-year linked student-level administrative dataset assembled by the study t
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Linked California child welfare-education dataset](linked-california-child-welfare-education-dataset.md)
 
 ## Key Sources
 - Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, and Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks, Appendixes. Regional Educational Laboratory Mid-Atlantic. https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks-appendixes

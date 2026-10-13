@@ -43,6 +43,8 @@ A second-order synthesis of 12 meta-analyses in CALL (derived largely from Plons
 
 
 ## Related Claims
+
 - [CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation](call-at-least-as-good-as-traditional-teaching.md) — a broader claim this one bears on
 - [Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL](prior-feedback-meta-analyses-gap-call.md) — related
 - [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — a broader claim this one bears on
+- [Across CALL meta-analyses, effect size correlates negatively with the number of studies included (r=-.51)](call-meta-analyses-k-effect-size-negative-correlation.md)

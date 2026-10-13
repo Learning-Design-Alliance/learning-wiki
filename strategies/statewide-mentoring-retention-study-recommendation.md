@@ -38,7 +38,11 @@ The report recommends scaling up evidence generation: "A larger-scale study, suc
 - Mentoring program improvement
 
 ## Related Strategies
-- 
+
+- [State and district leaders should collect information from mentors about how they chose activities and topics, to decide whether variation reflects teacher needs or insufficient mentor resources](investigate-mentor-capacity-behind-topic-variation.md)
+- [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
+- [Phased iterative testing: optimization testing before efficacy testing before statewide scale-up](phased-optimization-efficacy-scale-up-testing.md)
+- [States conduct a statewide survey of new teachers with comparable questions across all programs](statewide-new-teacher-survey-strategy.md)
 
 ## Examples
 -

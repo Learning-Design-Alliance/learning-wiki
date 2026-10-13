@@ -43,6 +43,9 @@ Descriptive analysis of formal support plan usage among DCPS students with repor
 
 
 ## Related Claims
+
 - [About 27 percent of DCPS students had a reported health condition in 2018/19, which may be an undercount](dcps-27-percent-reported-health-condition-2018-19.md) — related
 - [DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition](dcps-health-condition-poorer-education-outcomes.md) — related
 - [Health conditions are most prevalent among DCPS students who are male, Black/non-Hispanic, economically disadvantaged, or attending school outside their ward of residence](dcps-health-condition-prevalence-demographic-patterns.md) — related
+- [Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP](504-plan-youth-intermediate-challenge-level.md)
+- [Asthma is the most prevalent health condition among DCPS students, reported by 16 percent, double the national average](dcps-asthma-most-prevalent-double-national-average.md)

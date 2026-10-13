@@ -45,7 +45,9 @@ CogEvolution is a generative educational agent architecture that shifts from sta
 - [Cogevolution Ablation Module Contributions](../claims/cogevolution-ablation-module-contributions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Behavior-based persona and course-grounded memory architecture for simulated students](educasim-agent-persona-memory-architecture.md)
+- [Reusable simulation architecture for dynamic relational learning environments](reusable-simulation-architecture-dynamic-relational-learning.md)
 
 ## Examples
 -

@@ -30,7 +30,8 @@ A framework for guiding leaders and leadership development in implementing the N
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [NGSS District Implementation Guide](ngss-district-implementation-guide.md)
 
 ## Key Sources
 - Stiles, K., Mundry, S., & DiRanna, K. (2017). Framework for Leading Next Generation Science Standards Implementation. San Francisco: WestEd. https://www.nextgenscience.org/appendix-d-case-studies

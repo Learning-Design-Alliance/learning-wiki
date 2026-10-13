@@ -32,7 +32,8 @@ A scholarship programme run by the National Institutes of Health that supports t
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](../claims/nih-ugsp-operating-as-intended-career-milestones.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Information Studies Research Accelerator (ISRA)](information-studies-research-accelerator-isra.md)
 
 ## Key Sources
 - Steven Glazerman, Neil Seftor, Jesse Gregory. (2005). The NIH Undergraduate Scholarship Program: Career Outcomes of Scholars and Non-Awarded Finalists. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/the-nih-undergraduate-scholarship-program-career-outcomes-of-scholars-and-nonawarded-finalists

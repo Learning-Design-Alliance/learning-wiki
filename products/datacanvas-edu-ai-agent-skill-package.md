@@ -25,7 +25,8 @@ DataCanvas-EDU is an installable, versioned AI-agent software package developed 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [WindowDash](windowdash.md)
 
 ## Key Sources
 - Bang An, Maria Hamdani, Joseph Fox. (2026). DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education. https://arxiv.org/abs/2609.19617

@@ -36,7 +36,8 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](../claims/theory-plus-data-prompting-improves-codebook.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Reference implementation of the classroom feedback mediation layer](reference-implementation-of-the-classroom-feedback-mediation-layer.md)
 
 ## Key Sources
 - Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x

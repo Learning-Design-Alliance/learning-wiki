@@ -24,7 +24,8 @@ A multi-indicator school reporting and accountability instrument proposed by Ada
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Next Generation School Accountability initiative](next-generation-school-accountability-initiative.md)
 
 ## Key Sources
 - Adams, C. M., Ford, T. G., Forsyth, P. B., Ware, J. K., Olsen, J. J., Lepine, J. A., Sr., Barnes, L. B., Khojasteh, J., & Mwavita, M. (2017). Next generation accountability: A vision for improvement under ESSA. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/next-generation-accountability

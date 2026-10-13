@@ -41,5 +41,7 @@ The review's PRISMA flow of search results: 6,401 records identified, 2,528 dupl
 
 
 ## Related Claims
+
 - [The evidence base on GenAI and children's creative thinking is dominated by small, short-term, exploratory studies with few controlled comparisons and no longitudinal designs](genai-children-creativity-evidence-base-small-exploratory.md) — related
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
+- [Research settings split between formal educational environments (16 studies) and informal learning contexts (eight studies)](genai-children-formal-informal-setting-split.md)

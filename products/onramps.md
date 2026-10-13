@@ -13,7 +13,7 @@ generated:
 # OnRamps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 OnRamps is a University of Texas dual-credit programme in which high school teachers deliver UT-designed and supported college-level courses to high school students, who may choose whether to accept the resulting college credit.
@@ -24,8 +24,12 @@ OnRamps is a University of Texas dual-credit programme in which high school teac
 
 ### Claims
 
+- [Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree](../claims/college-level-high-school-courses-linked-graduation-degree.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Early College](early-college.md)
+- [Indiana College Core](indiana-college-core.md)
 
 ## Key Sources
 - Kristen Hengtgen, Hector Biaggi. (2024). Increasing Access to Advanced Coursework in Texas. EdTrust. https://edtrust.org

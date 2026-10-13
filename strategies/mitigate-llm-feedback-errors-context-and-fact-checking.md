@@ -40,6 +40,7 @@ The article's discussion and future-work section recommend concrete mitigations 
 ## Related Strategies
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
+- [Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)](rubric-enhanced-llm-grading-prompt.md)
 
 ## Examples
 -

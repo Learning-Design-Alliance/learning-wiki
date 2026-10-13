@@ -43,5 +43,7 @@ The report identifies three shortcomings of state rights to education that contr
 
 
 ## Related Claims
+
 - [The U.S. Supreme Court's 1973 Rodriguez decision held that the 14th Amendment neither explicitly nor implicitly guarantees a right to education](rodriguez-no-federal-right-to-education.md) — related
 - [Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons](title-vi-limited-nondiscrimination-protection.md) — related
+- [State antidiscrimination laws provide only a patchwork of protection from racial discrimination in education](state-antidiscrimination-patchwork.md)

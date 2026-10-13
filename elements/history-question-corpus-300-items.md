@@ -44,7 +44,8 @@ The taxonomy was built from a question corpus assembled in two stages. An initia
 - 
 
 ## Examples
--
+
+- [Teachers and publishers should know question types and their cognitive demands before deciding how to teach about and use questions](../strategies/know-question-types-before-instructional-decisions.md)
 
 ## Key Sources
 - Armbruster, Bonnie B.; Anderson, Thomas H.; Bruning, Roger R.; Meyer, Linda A. (1984). What Did You Mean by That Question? A Taxonomy of American History Questions. Technical Report No. 308. https://eric.ed.gov/?id=ED240511

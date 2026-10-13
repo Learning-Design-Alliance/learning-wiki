@@ -26,7 +26,8 @@ NFTE's Startup Summer is an intensive business-startup programme that supports s
 - [Startup Summer participants launched businesses at much higher rates (71 percent) than other alumni respondents (24 percent)](../claims/startup-summer-participants-higher-business-launch-rate.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [NFTE entrepreneurship courses](nfte-entrepreneurship-courses.md)
 
 ## Key Sources
 - Nakamoto, J. & Rice, J. (2017). Network for Teaching Entrepreneurship (NFTE) 2016 Alumni Survey Findings. San Francisco, CA: WestEd. https://www.wested.org

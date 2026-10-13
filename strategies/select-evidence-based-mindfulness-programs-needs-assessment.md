@@ -45,6 +45,7 @@ The brief advises selecting specific programs or strategies based on a needs ass
 - [Select one essential support area to improve—chosen for community interest, need, or buy-in—and continue working on it, since improvement in any essential positively impacts student success](sustained-focus-on-one-essential-support.md)
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 - [Needs and Wants Assessment with Likert Scales](needs_and_wants_assessment_with_likert_scales.md)
+- [Use achievement and contextual data at school, classroom, and student levels to target instruction](three-level-data-use-instructional-targeting.md)
 
 ## Examples
 -

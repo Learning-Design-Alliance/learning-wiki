@@ -48,3 +48,4 @@ Philosophical contrast drawn from Washington's Sunday evening talks and Dewey's 
 - [Washington's educational aims show consonance with Dewey's three criteria for educational aims](washington-dewey-aims-consonance.md) — reports the opposite
 - [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related
 - [Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement](washington-reform-oriented-progressivist.md)
+- [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md)

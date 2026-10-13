@@ -42,7 +42,8 @@ LearnOpt reframes exam preparation as a constrained optimization problem: it ing
 - [Learnopt Jee Advanced Skill Profile](../claims/learnopt-jee-advanced-skill-profile.md) [+M]
 
 ## Related Designs
-- 
+
+- [Chain-of-Concept: topic-graph organisation of past assessments replacing similarity-based retrieval](chain-of-concept-topic-graph-memory.md)
 
 ## Examples
 -

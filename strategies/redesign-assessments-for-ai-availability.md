@@ -46,6 +46,7 @@ For educational institutions, the paper recommends resolving the tension between
 
 - [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 
 ## Examples
 -

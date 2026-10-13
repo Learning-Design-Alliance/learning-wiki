@@ -38,7 +38,8 @@ The article highlights institutional actions that universities can take to bring
 - College persistence and degree completion
 
 ## Related Strategies
-- 
+
+- [Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students](intentional-data-driven-institutional-action.md)
 
 ## Examples
 -

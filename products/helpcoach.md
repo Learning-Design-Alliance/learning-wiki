@@ -27,7 +27,8 @@ A research-developed in situ chat-interface add-on by Hyoungwook Jin and colleag
 - [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](../claims/helpcoach-no-self-regulation-gain.md) [-M]
 
 ## Related Products and Programmes
--
+
+- [Open dataset of student-chatbot interaction logs, code snapshots, and knowledge and self-regulation measures](open-dataset-of-student-chatbot-interaction-logs-code-snapshots-and-knowledge-and-self-reg.md)
 
 ## Key Sources
 - Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918

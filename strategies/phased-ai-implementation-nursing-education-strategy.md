@@ -45,6 +45,7 @@ The review recommends a staged adoption pathway for AI in nursing education. It 
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 
 ## Examples
 -

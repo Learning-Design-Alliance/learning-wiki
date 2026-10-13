@@ -43,4 +43,6 @@ Correlational analysis across the 12 meta-analyses summarised in Table 1: "there
 
 
 ## Related Claims
--
+
+- [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md)
+- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md)

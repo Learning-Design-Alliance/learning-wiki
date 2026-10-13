@@ -43,6 +43,8 @@ Spearman rank correlation analysis at dataset and category levels reported in Se
 
 
 ## Related Claims
+
 - [Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space](benchmark-and-realworld-interaction-categories-statistically-distinct.md) — related
 - [AI tutor benchmark datasets show essentially no correlation between chatbot scaffolding and student uptake](no-scaffolding-uptake-correlation-in-benchmarks.md) — related
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](real-world-students-bypass-chatbot-scaffolding.md) — related
+- [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md)

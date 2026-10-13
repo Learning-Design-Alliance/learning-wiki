@@ -41,6 +41,7 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 
 
 ## Related Claims
+
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — a broader claim this one bears on
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
@@ -55,3 +56,4 @@ Interview and think-aloud accounts in the ten-participant study. The article rep
 - [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](verification-label-engagement-scrutiny.md) — related
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
+- [A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical](paradoxical-trust-untrustworthy-genai.md)

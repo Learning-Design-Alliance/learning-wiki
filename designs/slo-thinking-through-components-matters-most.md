@@ -41,7 +41,8 @@ Drawing on fifteen years of SLO practice and research, the report holds that the
 - [Maryland Slo Process And Msde Support Tools](maryland-slo-process-and-msde-support-tools.md) [+M]
 
 ## Related Designs
-- 
+
+- [Strong TPE districts: teacher input on SLOs and a three-stage observation cycle with one evaluator](strong-tpe-implementation-district-pattern.md)
 
 ## Examples
 -

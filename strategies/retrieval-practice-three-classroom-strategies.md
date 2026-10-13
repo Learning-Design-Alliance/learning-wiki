@@ -43,6 +43,7 @@ The article describes three concrete retrieval-practice routines a math teacher 
 - [Flashcard Drill](flashcard-drill.md)
 - [Timed Retrieval Practice](timed-retrieval-practice.md)
 - [Spaced Retrieval](spaced-retrieval-practice.md)
+- [Schools adopting learning sciences research should start small, be explicit with students, track progress with classroom data, and share learnings](nmsa-five-implementation-recommendations.md)
 
 ## Examples
 -

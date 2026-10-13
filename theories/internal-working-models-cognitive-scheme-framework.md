@@ -50,7 +50,8 @@ The article frames attachment through Bowlby's internal working models: early ca
 - [Executive Function Development](executive-function-development.md)
 
 ## Examples
--
+
+- [School-based counselling that targets irrational beliefs, attachment patterns and anxiety to support students' cognitive flexibility](../strategies/school-counselling-corrective-relationships-flexibility.md)
 
 ## Key Sources
 - Bülent GÜNDÜZ. (2013). The Contributions of Attachment Styles, Irrational Beliefs and Psychological Symptoms to the Prediction of Cognitive Flexibility. Educational Sciences: Theory & Practice, 13(4), 2079-2085. https://doi.org/10.12738/estp.2013.4.1702

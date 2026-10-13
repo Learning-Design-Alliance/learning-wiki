@@ -85,6 +85,7 @@ Self explanation forces the learner to actively integrate new information with p
 - **Worked example study** — self explanation prompts are the standard companion to worked examples, converting passive example reading into active principle extraction
 - **Retrieval practice** — complementary generative activity; explanation targets understanding, retrieval targets accessibility
 - **Comparing contrasting cases** — comparison prompts often elicit self explanations as a byproduct
+- [Induce self-explanation by prompting learners during study and problem solving](prompt-learners-to-self-explain-during-study.md)
 
 ## Examples
 - **Chi et al.'s classic paradigm** — Studying physics worked examples with each step annotated, prompted "What is this line telling you? Explain why it was done."

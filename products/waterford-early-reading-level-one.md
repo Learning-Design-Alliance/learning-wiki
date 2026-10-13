@@ -34,7 +34,9 @@ Waterford Early Reading Level One™ is a Waterford computer-based emergent-lite
 - [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](../claims/waterford-versus-letter-people-similar-outcomes.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Read, Write & Type!™ Learning System](read-write-type-learning-system.md)
+- [Writing to Read](writing-to-read.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention Report: Waterford Early Reading Level One™. https://ies.ed.gov/ncee/wwc/InterventionReport/541

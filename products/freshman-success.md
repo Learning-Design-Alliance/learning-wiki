@@ -18,7 +18,7 @@ sources:
 # Freshman Success
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Freshman Success is a school-based ninth-grade monitoring and support programme that uses real-time reports to help staff keep students on track during the freshman year.
@@ -29,8 +29,14 @@ Freshman Success is a school-based ninth-grade monitoring and support programme 
 
 ### Claims
 
+- [Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient](../claims/ontrack-accountability-realtime-data-graduation-gains.md) [+W]
+- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](../claims/freshman-on-track-early-indicator-kenwood.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Chicago Public Schools’ on-track system](chicago-public-schools-on-track-system.md)
+- [Freshman OnTrack](freshman-ontrack.md)
+- [Freshman OnTrack indicator](freshman-ontrack-indicator.md)
 
 ## Key Sources
 - Using the Freshman On-Track Indicator to Improve High Schools in Chicago. (1990). Chapter 5 of Measuring to Improve: Practical Measurement to Support Continuous Improvement in Education, Harvard Education Press. https://www.harvardeducationpress.com

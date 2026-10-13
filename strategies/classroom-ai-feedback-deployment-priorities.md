@@ -37,7 +37,11 @@ Based on their user study, the authors recommend three deployment priorities for
 - Scalable adoption of AI feedback tools in classrooms
 
 ## Related Strategies
-- 
+
+- [Tailor GenAI chatbot onboarding, training, and support to identified adoption personas](persona-tailored-chatbot-onboarding-support.md)
+- [Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training](support-employee-ai-professional-learning.md)
+- [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Provide transparent, inspectable evaluation trails in AI-teaching benchmarks](transparent-inspectable-evaluation-trails.md)
 
 ## Examples
 -

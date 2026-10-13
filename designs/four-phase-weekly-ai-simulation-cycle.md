@@ -40,7 +40,10 @@ The implementation was organised as a repeating weekly structure in which "each 
 - Ai Simulation Virtual Student Mentor Chatbots [+M]
 
 ## Related Designs
+
 - [Four Phase Weekly Ai Simulation Cycle](four-phase-weekly-ai-simulation-cycle.md)
+- [Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection](three-phase-practicum-e-mentoring-cycle.md)
+- [Three-phase Gen AI-assisted problem-posing activity with pre-training, training video, and post-training reflections](three-phase-gen-ai-problem-posing-activity.md)
 
 ## Examples
 -

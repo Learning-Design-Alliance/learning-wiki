@@ -43,6 +43,7 @@ A targeted, agent-reviewed ten-request live textbook audit of the production pat
 
 
 ## Related Claims
+
 - [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
 - [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
@@ -51,3 +52,4 @@ A targeted, agent-reviewed ten-request live textbook audit of the production pat
 - [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](checking-coexists-with-unresolved-error-zhang.md) — related
 - [Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication](fabrication-despite-successful-retrieval.md) — related
 - [NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers](nli-reference-based-grading-limitation.md) — related
+- [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](retrieval-misses-attributed-to-query-formulation.md)

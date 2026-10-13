@@ -65,6 +65,7 @@ CBQ converts a routine quiz into a metacognitive monitoring exercise: the confid
 - [Error Analysis](../principles/error-analysis.md) — confident errors surfaced by CBQ are the highest-value material for error analysis
 - [Spaced Repetition](../elements/spaced-repetition.md) — calibration data can drive scheduling of what to review
 - [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
+- [Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests](award-points-for-non-answers-traub-rule.md)
 
 ## Examples
 - **Confidence-Based Marking in UK medical exams** — Gardner-Medford and Sparrow's confidence-weighted scoring scheme, used in medical school assessments to reward well-calibrated knowledge and discourage guessing.

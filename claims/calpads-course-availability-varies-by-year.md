@@ -43,7 +43,9 @@ Availability analysis of over 18 million CALPADS course records for 428,410 2015
 
 
 ## Related Claims
+
 - [CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)](calpads-availability-lower-small-nontraditional-schools.md) — related
 - [About 75% of A-G courses showed exact unit alignment between CALPADS and UC admissions data, improving across years](calpads-uc-unit-alignment-75-percent.md) — related
 - [College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas](g-elective-courses-low-alignment-calpads-uc.md) — related
 - [CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students](calpads-csu-alignment-slightly-lower.md) — related
+- [Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%](calpads-uc-gpa-alignment-close.md)

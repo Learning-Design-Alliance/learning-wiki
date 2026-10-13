@@ -43,7 +43,9 @@ Decomposition analysis of ninth-grade enrollment change relative to fall 1995 (S
 
 
 ## Related Claims
+
 - [High school enrollment declined most in grades nine and ten, by about 15 percent between 1995-96 and 1998-99](enrollment-decline-largest-grades-nine-ten.md) — related
 - [After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders](cps-promotion-gate-shifted-retention-to-general-education.md) — related
 - [After controlling for demographic changes and school enrollment patterns, the postpolicy decline in dropout rates appears slightly smaller, and the report urges caution in attributing trends to the gate](dropout-decline-smaller-after-controls.md) — related
 - [Defining dropout cohorts by age 13 rather than by ninth-grade entry avoids composition bias from the CPS promotion policy's grade retentions](age-based-cohort-definition-avoids-retention-bias.md) — related
+- [Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels](chicago-gate-achievement-rise.md)

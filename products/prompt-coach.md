@@ -28,7 +28,8 @@ Prompt Coach is a multi-agent tutoring software system for professional develope
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](../claims/prompt-coach-positive-learner-perceptions.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [SHIELD](shield.md)
 
 ## Key Sources
 - Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074

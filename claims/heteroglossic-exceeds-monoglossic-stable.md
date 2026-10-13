@@ -41,6 +41,9 @@ Linear mixed model on the same corpus found no significant Draft Type × Engagem
 
 
 ## Related Claims
+
 - [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](ai-revisions-most-appraisal-resources.md) — related
 - [Revision-driven increases in appraisal resources are driven by Attitude and Graduation, while Engagement frequency remains stable across draft types](attitude-graduation-drive-increase-engagement-stable.md) — related
 - [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](peer-revisions-contractive-ai-balanced.md) — related
+- [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](counter-endorse-pronounce-subcategory-patterns.md)
+- [Entertain is the most frequently used heteroglossic subcategory across all draft types, decreasing in peer-feedback revisions but remaining relatively high in AI revisions](entertain-most-frequent-subcategory.md)

@@ -47,6 +47,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use AI chatbots to assist human-led coaching with routine support between sessions while humans retain challenge and goal clarification](hybrid-human-ai-coaching-division-of-labor.md)
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
+- [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 
 ## Examples
 -

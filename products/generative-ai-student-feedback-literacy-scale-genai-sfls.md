@@ -24,7 +24,14 @@ A 39-item Chinese-language self-report scale developed by Cui et al. to measure 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Scale for Students' Attitudes Toward AIGC Feedback in English Pronunciation Learning](scale-for-students-attitudes-toward-aigc-feedback-in-english-pronunciation-learning.md)
+- [Generative AI Assessment Literacy Scale (GAA-LS)](generative-ai-assessment-literacy-scale-gaa-ls.md)
+- [OASIS-based AI Anxiety Scale (5-item, Chinese-adapted)](oasis-based-ai-anxiety-scale-5-item-chinese-adapted.md)
+- [GenAI Usage Behavior Scale](genai-usage-behavior-scale.md)
+- [31-item five-scale questionnaire measuring AI support, mediators, and innovative competence](31-item-five-scale-questionnaire-measuring-ai-support-mediators-and-innovative-competence.md)
+- [GenAI Reliance Types Scale (GenAI-RTS)](genai-reliance-types-scale-genai-rts.md)
+- [Generative AI Literacy Assessment Test (GLAT)](generative-ai-literacy-assessment-test-glat.md)
 
 ## Key Sources
 - Yan Z, Fang Z and Zou W (2026). The association between generative AI use and university students' critical thinking: a moderated mediation model of GenAI feedback literacy and reflective thinking. Front. Psychol. 17:1939286. https://doi.org/10.3389/fpsyg.2026.1939286

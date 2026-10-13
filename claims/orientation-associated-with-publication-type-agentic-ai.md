@@ -43,4 +43,6 @@ Cross-tabulation of orientation by publication type across the 474 studies: amon
 
 
 ## Related Claims
+
 - [Inquiry-based exploration simulations were significantly more likely in exact and life sciences than humanities and social sciences](inquiry-simulations-more-likely-in-sciences.md) — related
+- [Only 138 of 474 reviewed studies explicitly drew on educational theory, revealing a disciplinary divide between technical and pedagogical work](limited-educational-theory-grounding-agentic-ai.md)

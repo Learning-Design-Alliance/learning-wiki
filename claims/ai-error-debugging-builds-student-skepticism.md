@@ -43,6 +43,7 @@ Authors' observational reflection from a single cohort of two high-school studen
 
 
 ## Related Claims
+
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
 - [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](students-offload-critical-thinking-ai-debugging.md) — related
@@ -50,3 +51,4 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — a broader claim this one bears on
+- [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](students-teachers-see-ai-imperfect-prefer-human-control.md)

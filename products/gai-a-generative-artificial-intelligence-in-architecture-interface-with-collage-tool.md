@@ -13,7 +13,7 @@ generated:
 # GAI-A (Generative Artificial Intelligence in Architecture) interface with Collage Tool
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 GAI-A is a React.js and Flask-based generative-AI architecture design interface developed by Leman Figen Gül and colleagues that converts user-created image collages into cohesive architectural renderings.
@@ -22,7 +22,10 @@ GAI-A is a React.js and Flask-based generative-AI architecture design interface 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Prompts referencing architectural styles or local architectures yielded less desired image outcomes than future-themed prompts, motivating selectable checkpoints in GAI-A](../claims/style-prompts-underperform-future-themed-prompts.md) [+M]
+- [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](../claims/students-report-genai-positively-affects-creativity.md) [+W]
+- [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](../claims/student-cautions-genai-ownership-and-output-quality.md) [~W]
 
 ## Related Products and Programmes
 -

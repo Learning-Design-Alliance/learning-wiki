@@ -40,7 +40,11 @@ The article abstracts SupplyNet's pipeline into "a reusable simulation architect
 - 
 
 ## Related Designs
+
 - Supplynet Visual Simulation System
+- [Behavior-based persona and course-grounded memory architecture for simulated students](educasim-agent-persona-memory-architecture.md)
+- [CogEvolution framework: ICAP perception, IRT-based memory retrieval, and evolutionary cognitive state update](cogevolution-agent-framework.md)
+- [Multi-agent AI tutoring architecture with an orchestrating Tutor Agent and specialist agents](multi-agent-ai-math-tutor-architecture.md)
 
 ## Examples
 -

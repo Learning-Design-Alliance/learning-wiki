@@ -42,7 +42,9 @@ The article organizes the dynamic pairing process into a design space of control
 - 
 
 ## Related Designs
-- 
+
+- [A co-orchestration technology ecosystem combining intelligent tutoring systems, peer tutoring, and a teacher-facing orchestration tool.](element-dynamic-pairing-co-orchestration-ecosystem.md)
+- [Three-stage methodology combining student surveys, LLM skill extraction, and dynamic preference-aware matching](three-stage-llm-team-formation-methodology.md)
 
 ## Examples
 -

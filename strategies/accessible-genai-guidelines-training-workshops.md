@@ -43,6 +43,7 @@ To address the high uncertainty observed in the survey, the article recommends g
 - [Integrate discussions of acceptable GenAI use directly into courses, assignments, and assessment guidelines, with explicit examples of permitted and non-permitted uses](integrate-acceptable-genai-use-discussions-into-courses.md)
 - [Encourage students to use AI-generated responses while observing ethical guidelines](ethical-guidelines-for-student-ai-use.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Use metaphor workshops to surface stakeholder assumptions about GenAI in assessment redesign, policy development and professional development](metaphor-workshops-for-genai-policy-and-pd.md)
 
 ## Examples
 -

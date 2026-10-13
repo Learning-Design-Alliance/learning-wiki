@@ -49,6 +49,7 @@ The article opens with the design rationale that consumer mobile devices can ser
 ## Examples
 
 - [Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)](../elements/tablet-magnetometer-demonstration-set.md)
+- [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
 
 ## Key Sources
 - V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581

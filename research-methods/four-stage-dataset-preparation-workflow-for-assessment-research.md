@@ -12,7 +12,7 @@ generated:
 # Four-stage dataset preparation workflow for assessment research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A reproducible preparation pattern for consolidating heterogeneous examiner files into an answer-level dataset. Figure 4 summarizes a four-stage process in which raw questions and rubric designs are combined with student contributions, scans and metadata are linked, sources are merged and cleaned, marks are validated, identifiers are randomized, and integrity is checked. The article states the workflow "provides a reproducible pattern for consolidating heterogeneous examiner files, validating scores, randomizing record identifiers, and preserving file-to-record mappings."
@@ -22,6 +22,8 @@ A reproducible preparation pattern for consolidating heterogeneous examiner file
 - **Four-stage dataset preparation workflow: acquisition, merging, standardization and de-identification, and final paired organization**: A reproducible preparation pattern for consolidating heterogeneous examiner files into an answer-level dataset. Figure 4 summarizes a four-stage process in which raw questions and rubric designs are combined with student contributions, scans and metadata are linked, sources are merged and cleaned, marks are validated, identifiers are randomized, and integrity is checked. The article states the workflow "provides a reproducible pattern for consolidating heterogeneous examiner files, validating scores, randomizing record identifiers, and preserving file-to-record mappings." (Jahangir Alam SM et al. (2026))
 
 ### Claims
+
+- [A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks](../claims/score-validation-audit-485-records.md) [+W]
 
 ## Related Research Methods
 -

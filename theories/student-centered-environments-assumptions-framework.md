@@ -51,6 +51,7 @@ The paper identifies common assumptions underlying student-centered learning env
 - [Support learners in making and being guided to make effective choices](../strategies/guide-learners-to-effective-choices.md)
 - [Technology should augment, not supplant, learning processes in student-centered environments](../principles/technology-augments-not-supplants-processes.md)
 - [Understanding must be cultivated through exploration, not described or told](../principles/understanding-cultivated-not-described.md)
+- [Technology Integration Matrix (TIM)](../products/technology-integration-matrix-tim.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

@@ -18,7 +18,7 @@ sources:
 # GeoGebra
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 GeoGebra is a free dynamic mathematics software platform developed and maintained by GeoGebra for interactive work across algebra, geometry, calculus, and spreadsheets.
@@ -28,6 +28,8 @@ GeoGebra is a free dynamic mathematics software platform developed and maintaine
 - **GeoGebra as the dynamic mathematics environment for function art creation and data collection**: GeoGebra is a free dynamic mathematics software integrating algebra, geometry, calculus, and spreadsheets. Students used it to create function art over one month following a 2.5-hour webinar. The Graphics view displays geometric representations, the Algebra view shows equations, and the Construction Protocol shows chronological creation order. Researchers used the Algebra view to tally functions by type and the Construction Protocol to examine step-by-step construction sequences. (Bautista et al. (2026))
 
 ### Claims
+
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W]
 
 ## Related Products and Programmes
 -

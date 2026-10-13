@@ -25,7 +25,9 @@ A seven-competency, four-level proficiency framework developed by the University
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Turnaround Leader Competencies](turnaround-leader-competencies.md)
+- [Four Domains for Rapid School Improvement](four-domains-for-rapid-school-improvement.md)
 
 ## Key Sources
 - Center on School Turnaround at WestEd. (2018). Thought Leadership Forum Brief: Turnaround Leadership and Leadership Competencies. San Francisco, CA: WestEd. http://centeronschoolturnaround.org

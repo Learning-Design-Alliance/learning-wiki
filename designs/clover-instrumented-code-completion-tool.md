@@ -42,7 +42,8 @@ Clover is a Visual Studio Code extension that uses the Gemini 3 Large Language M
 - [Dwell Time Attention Checks Versus Task Performance](../claims/dwell-time-attention-checks-versus-task-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [SDD template project with copilot-instructions.md custom instructions and docs/ artifact directories for AI-agent workflow in SDPBL](sdd-template-project-copilot-instructions.md)
 
 ## Examples
 -

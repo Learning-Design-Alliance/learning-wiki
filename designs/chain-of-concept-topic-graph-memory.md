@@ -41,7 +41,10 @@ Chain-of-Concept is the article's framework for curriculum-grounded retrieval. R
 - 
 
 ## Related Designs
-- 
+
+- [Instructor-curated knowledge graph and dual-readability typed chunk corpus for a dimensional modelling course](instructor-kg-typed-chunk-corpus.md)
+- [LearnOpt framework: exam preparation as constrained optimization over an LLM-built exam knowledge graph with BKT mastery updates](learnopt-framework-theory.md)
+- [GraphRAG textbook knowledge retrieval for grounded tutoring](graphrag-textbook-retrieval-math-tutor.md)
 
 ## Examples
 -

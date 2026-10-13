@@ -18,7 +18,7 @@ sources:
 # MAP Growth grades 1–2 achievement dataset (spring 2019 and spring 2022 samples)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A research dataset assembled by Kuhfeld et al. from NWEA MAP Growth reading and mathematics assessments for approximately 1.6 million first- and second-grade students in public schools, comparing spring 2019 and spring 2022 achievement.
@@ -28,8 +28,17 @@ A research dataset assembled by Kuhfeld et al. from NWEA MAP Growth reading and 
 
 ### Claims
 
+- [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](../claims/early-elementary-spring-2022-achievement-below-2019.md) [+W]
+- [Second graders' 2021–22 fall–spring growth in math and reading paralleled prepandemic achievement gains](../claims/second-graders-2021-22-growth-paralleled-prepandemic.md) [+W]
+- [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](../claims/early-elementary-covid-losses-racial-ethnic-disparities.md) [+W]
+- [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](../claims/pandemic-declines-largest-hispanic-black-aian-students.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
+- [NWEA MAP Growth 2022–23 achievement dataset](nwea-map-growth-202223-achievement-dataset.md)
+- [NWEA MAP Growth](nwea-map-growth.md)
+- [Fall 2020 MAP Growth remote-versus-in-person comparability dataset](fall-2020-map-growth-remote-versus-in-person-comparability-dataset.md)
 
 ## Key Sources
 - Kuhfeld, M., & Lewis, K. (2022). COVID-19 in the early elementary years: A comparison of achievement in spring 2019 and spring 2022. NWEA Collaborative for Student Growth. https://www.nwea.org/research/publication/covid-19-in-the-early-elementary-years-a-comparison-of-achievement-in-spring-2019-and-spring-2022/

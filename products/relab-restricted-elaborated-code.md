@@ -18,7 +18,7 @@ sources:
 # RELAB (restricted-ELABorated code)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 RELAB is a classroom observation instrument developed by Stecher for coding teacher mediation, children's elaborated or restricted talk, classroom contexts, and child variables.
@@ -28,6 +28,12 @@ RELAB is a classroom observation instrument developed by Stecher for coding teac
 - **RELAB observation instrument for coding teacher mediation and children's elaborated/restricted talk**: RELAB (restricted-ELABorated code) is a classroom observation instrument combining six teacher talk categories (adapted from Flanders, Amidon and Hunter, and Hough) with six child talk categories derived from Bernstein's elaborated and restricted codes. It records child statements, classroom contexts and child variables. It was field tested in five classrooms and judged valid by a jury of five university professors. (Stecher (1976))
 
 ### Claims
+
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](../claims/high-mediation-more-child-talk-both-codes.md) [+W]
+- [Elaborated coding was associated with higher reading scores among the observed children](../claims/elaborated-coding-higher-reading-scores.md) [+W]
+- [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](../claims/findings-differ-from-gahagans-no-difference.md) [+W]
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](../claims/mediation-ses-interaction-elaborated-utterances.md) [+W]
+- [More children who could shift codes were found in the classroom of the highest mediating teacher](../claims/code-shifting-highest-mediating-teacher.md) [+W]
 
 ## Related Products and Programmes
 -

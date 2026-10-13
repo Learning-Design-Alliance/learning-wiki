@@ -42,7 +42,8 @@ Based on the field-study IRT results, the authors recommend that instructors and
 - [Iterative Llm Refinement Item Generation](../designs/iterative-llm-refinement-item-generation.md)
 
 ## Related Strategies
-- 
+
+- [Use an SLM for rapid large-scale question generation with an LLM providing validation feedback](slm-generate-llm-validate-synergy.md)
 
 ## Examples
 -

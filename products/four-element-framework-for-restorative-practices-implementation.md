@@ -29,7 +29,8 @@ This is a guide developed by its authors or issuing organization to help schools
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Guide to Measuring Implementation: The 3Us](guide-to-measuring-implementation-the-3us.md)
 
 ## Key Sources
 - Trout, L. (2021). The toolkit before the toolkit: Centering adaptive and relational elements of restorative practices for implementation success. [Center to Improve Social and Emotional Learning and School Safety at WestEd]. WestEd. https://www.wested.org

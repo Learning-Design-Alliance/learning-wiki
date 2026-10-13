@@ -40,7 +40,14 @@ A teacher-preparation programme model run by partnerships between local educatio
 - [Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic](../claims/residencies-partnerships-support-pandemic-recruitment.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Aspiring to Educate](aspiring-to-educate.md)
+- [Claremont Critical Social Justice Teaching Competencies](claremont-critical-social-justice-teaching-competencies.md)
+- [Family Child Care Apprenticeship (FCC Apprenticeship)](family-child-care-apprenticeship-fcc-apprenticeship.md)
+- [Guiding Principles for Enacting SoLD-Aligned Teacher Preparation framework](guiding-principles-for-enacting-sold-aligned-teacher-preparation-framework.md)
+- [NextGen Educators Program](nextgen-educators-program.md)
+- [On the Rise Academy](on-the-rise-academy.md)
+- [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md)
 
 ## Key Sources
 - Hirschboeck, K., Eiler White, M., Brannegan, A., & Reade, F. (2022). Teacher residency programs in California: Financial sustainability challenges and opportunities. WestEd. https://www.WestEd.org

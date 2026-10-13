@@ -26,7 +26,8 @@ EduClaw-Bench is a virtual benchmark environment developed by Lee et al. for eva
 - [Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days](../claims/educlaw-bench-plateau-within-days.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [BMED 2300 benchmark corpus and evaluation harness](bmed-2300-benchmark-corpus-and-evaluation-harness.md)
 
 ## Key Sources
 - Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206

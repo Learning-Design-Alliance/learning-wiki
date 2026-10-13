@@ -174,6 +174,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](../strategies/intrinsic-motivation-share-science-with-students.md)
 - [Reduce cheating holistically by enhancing perceived assessment purpose, fostering self-efficacy, and increasing perceived costs of cheating](../strategies/three-pronged-holistic-cheating-prevention.md)
+- [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](../strategies/foster-care-classroom-strategy-set.md)
 
 ### Illustrative
 

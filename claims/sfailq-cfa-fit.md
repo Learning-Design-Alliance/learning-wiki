@@ -43,4 +43,6 @@ Confirmatory factor analysis in the second split-half sample (N = 1226) evaluati
 
 
 ## Related Claims
--
+
+- [Confirmatory factor analysis with preservice English language teachers supports a six-factor TAILS structure with acceptable fit (CFI = 0.919; TLI = 0.908)](tails-six-factor-cfa-confirmed.md)
+- [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](genai-srl-six-factor-structure-l2-writing.md)

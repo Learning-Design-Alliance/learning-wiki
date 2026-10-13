@@ -37,7 +37,9 @@ This strategy, offered by a novice teacher in the paper, directs pre-service pro
 - developing culturally aware teaching practice
 
 ## Related Strategies
-- 
+
+- [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
+- [Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising](multiple-access-strategies-diverse-ec-candidates.md)
 
 ## Examples
 -

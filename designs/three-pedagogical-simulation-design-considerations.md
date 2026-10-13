@@ -44,6 +44,10 @@ The article enumerates three design insights that emerged as pushing the simulat
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](../claims/students-criticize-inquiry-worksheets-low-thinking.md) [~W]
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](../claims/students-report-simulation-lesson-fun-and-concept-figuring.md) [+W]
 
+## Related Designs
+
+- [Simple pendulum simulation with parameter sliders, analytical-overlay graph, and enhanced large-angle version](ai-generated-pendulum-simulation.md)
+
 ## Related Patterns
 
 - [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md)

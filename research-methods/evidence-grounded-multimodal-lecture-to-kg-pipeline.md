@@ -26,7 +26,8 @@ An end-to-end pipeline combining "timestamped automatic speech recognition (ASR)
 - [On a preliminary three-question retrieval sanity check, all seed questions placed their target concept first and within the top three, with mean top-5 recall of 1.00](../claims/three-seed-retrieval-sanity-check-perfect.md) [+M]
 
 ## Related Research Methods
--
+
+- [Evidence-grounding extraction schema for auditable educational knowledge graphs](evidence-grounding-extraction-schema-for-auditable-educational-knowledge-graphs.md)
 
 ## Key Sources
 - Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan. (2026). Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning. https://arxiv.org/abs/2608.03161

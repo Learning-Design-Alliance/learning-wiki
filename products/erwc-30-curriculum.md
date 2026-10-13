@@ -26,7 +26,8 @@ A California State University-developed college-preparatory English language art
 - [In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample](../claims/grade-12-erwc-no-significant-impact.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Expository Reading and Writing Course (ERWC)](expository-reading-and-writing-course-erwc.md)
 
 ## Key Sources
 - Fong, A., Porterfield, A., Skjoldhorne, S., & Hadley, L. (2022). Expanding the Expository Reading and Writing Curriculum: An evaluation of an Investing in Innovation Validation grant. WestEd. https://www.wested.org/resources/expanding-the-erwc-evaluation/

@@ -13,7 +13,7 @@ generated:
 # EduSim-LLM
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 EduSim-LLM is a zero-coding educational robotics platform developed by Shenqi Lu et al. that lets beginners control simulated robots through natural-language instructions using CoppeliaSim and LLM backends.
@@ -24,8 +24,14 @@ EduSim-LLM is a zero-coding educational robotics platform developed by Shenqi Lu
 
 ### Claims
 
+- [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](../claims/llm-code-success-rate-declines-with-instruction-difficulty.md) [+W]
+- [Natural language control requires less human operation time than manual control for all five complex tasks tested](../claims/natural-language-control-faster-than-manual-complex-tasks.md) [+W]
+- [A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots](../claims/llm-decomposes-command-into-multi-robot-action-sequences.md) [+W]
+- [The article constructs an educational benchmark of 108 instruction instances grouped into simple, composite, and complex difficulty levels](../claims/edusim-llm-three-level-instruction-difficulty-benchmark.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [RoboBuddy](robobuddy.md)
 
 ## Key Sources
 - Shenqi Lu and Liangwei Zhang. (2026). EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners. https://arxiv.org/abs/2601.01196

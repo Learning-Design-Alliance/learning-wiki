@@ -18,7 +18,7 @@ sources:
 # Whole-Person Education Guide
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A district-facing framework and facilitated planning guide for aligning whole-person education initiatives, developed for adoption by education systems.
@@ -28,6 +28,8 @@ A district-facing framework and facilitated planning guide for aligning whole-pe
 - **Six-chapter alignment and coherence process from student understanding through strategic communication**: The guide's core reusable design is a six-chapter team process: "Chapter 1. Identify the Strengths, Needs, and Aspirations of Your Students; Chapter 2. Describe How These Strengths, Needs, and Aspirations Inform Your Vision for Serving the Whole Person in Your District; Chapter 3. Identify a Focus Area for Coherence; Chapter 4. Tailor the Implementation of Your Whole-Person Initiatives for Alignment With Your Focus Area; Chapter 5. Create an Action Plan; Chapter 6. Plan for Strategic Communication That Reinforces the Work." Each chapter follows a consistent structure of purpose, collaborative activities, hypothetical district responses, and reflection questions. (Walrond (2021))
 
 ### Claims
+
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](../claims/whole-person-initiatives-fragmented-siloes-fail.md) [+W]
 
 ## Related Products and Programmes
 -

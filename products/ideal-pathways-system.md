@@ -25,7 +25,9 @@ A college-and-career pathways framework proposed by Rebeca Shackleford and colle
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Career-connected learning (CCL) framework](career-connected-learning-ccl-framework.md)
+- [Blueprint for Statewide Pathways Scaling](blueprint-for-statewide-pathways-scaling.md)
 
 ## Key Sources
 - Rebeca Shackleford and Kristen Hengtgen. (2024). A Vision for Equitable Pathways: Enhancing Support and Innovation in College and Career Counseling. EdTrust/All4Ed. https://edtrust.org

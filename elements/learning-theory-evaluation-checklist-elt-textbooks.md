@@ -17,7 +17,7 @@ sources:
 # Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study devised an evaluation framework in which instructional techniques and strategies associated with behaviourism, cognitivism, and constructivism served as the checklist for analyzing textbooks. Strategies were "constructed based on the works in the related literature": behaviourist techniques from Richards and Rodgers (2001), cognitivist strategies from Oxford (1990) and Williams and Burden (1997), and constructivist strategies from Doolittle (1998), Jonassen (1991), and Matusevich (1995). Frequencies were counted once per technique per lesson section rather than per repetition.
@@ -38,7 +38,9 @@ The study devised an evaluation framework in which instructional techniques and 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels](../claims/cognitivism-second-across-iranian-elt-textbook-levels.md) [+W]
+- [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+M]
+- [Chi-square analysis shows the distribution of learning theories in Iranian ELT textbooks differs significantly from chance](../claims/chi-square-significant-distribution-learning-theories-iranian-elt-textbooks.md) [+W]
 
 ## Related Elements
 - 

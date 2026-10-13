@@ -17,7 +17,7 @@ sources:
 # Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Mathbot intervention is grounded in a dual theoretical foundation combining Papert's Constructionism and Skinner's Reinforcement Learning Theory. The article states that "The Mathbot intervention draws from both Papert's Constructionism and Skinner's Reinforcement Learning Theory, forming a foundation for adaptive AI-driven learning environments." Constructionism contributes hands-on, active learning through interaction and reflection, with group discussions after sessions reinforcing reflection and peer-to-peer learning. Reinforcement theory contributes immediate feedback: correct answers receive positive reinforcement encouraging repetition of successful strategies, while incorrect answers prompt additional scaffolding and practice guiding students toward mastery. The author describes the two as balancing exploratory learning with behavioral reinforcement.
@@ -39,7 +39,8 @@ The Mathbot intervention is grounded in a dual theoretical foundation combining 
 - fraction comparison skills
 
 ### Claims
-- 
+
+- [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](../claims/anderson-papert-comparative-models-control-agency.md) [~W]
 
 ## Related Designs
 - 

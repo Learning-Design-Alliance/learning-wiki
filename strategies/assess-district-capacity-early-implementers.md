@@ -37,7 +37,8 @@ The report suggests state leaders assess districts' capacity to implement the CC
 - Access to required courses across content areas needed for graduation
 
 ## Related Strategies
-- 
+
+- [Build district capacity so improvement gains are sustained without direct external supports](build-district-capacity-sustainable-improvement.md)
 
 ## Examples
 -

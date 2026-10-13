@@ -13,7 +13,7 @@ generated:
 # learnity-graph
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A prototype web-based learning-graph platform developed by Smadar Szekely and colleagues for representing evolving learning trajectories and exploring personalization, developmental tracking, analytics, and recommendations.
@@ -24,6 +24,10 @@ A prototype web-based learning-graph platform developed by Smadar Szekely and co
 - **Learnity graph design considerations: granularity, relationship types, and orthogonal structural dimensions**: The article enumerates design considerations for constructing learnity graphs. Nodes vary in granularity, with some learnities emerging "from the integration of multiple learnities into higher-level competencies"; edges capture prerequisite dependencies, interdisciplinary interactions, specialization pathways, and compositional integration; and layers represent depth of development while subgraphs represent context such as academic, professional, or self-directed learning. These dimensions should be orthogonal and provide complementary perspectives on development. (Smadar Szekely et al. (2018))
 
 ### Claims
+
+- [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](../claims/ai-dual-roles-cognitive-partner-recommender.md) [+W]
+- [Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving](../claims/unique-graphs-source-of-innovation.md) [+W]
+- [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](../claims/learnity-graph-open-questions.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -41,7 +41,8 @@ Opened in 2017 in partnership with the Reach Institute, the Learning Lab builds 
 - 
 
 ## Related Designs
-- 
+
+- [ECED professional development model: institute, site visits, and monthly check-ins across two years](eced-professional-development-model.md)
 
 ## Examples
 -

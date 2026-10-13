@@ -17,7 +17,7 @@ sources:
 # Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The model operates across three interconnected phases. The pre-practicum phase 'focuses on preparing pre-service teachers cognitively and emotionally before entering real classroom environments' via platforms and AI-generated initial formative feedback. The during-practicum phase centers on mini-lessons, multimedia documentation, and real-time AI feedback; the post-practicum phase emphasizes structured reflection, evaluation, and personalized recommendations for further growth, consolidating the transition to autonomous professional development.
@@ -39,10 +39,15 @@ The model operates across three interconnected phases. The pre-practicum phase '
 - reflective practice
 
 ### Claims
-- 
+
+- [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](../claims/structured-feedback-reflection-cycle-mentoring.md) [+W]
 
 ## Related Designs
-- 
+
+- [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](four-phase-weekly-ai-simulation-cycle.md)
+- [Multi-platform e-mentoring environment (Google Classroom, Nearpod, Facebook, Padlet) with distinct pedagogical functions](multi-platform-e-mentoring-environment.md)
+- [Three-phase Gen AI-assisted problem-posing activity with pre-training, training video, and post-training reflections](three-phase-gen-ai-problem-posing-activity.md)
+- [AI-supported e-mentoring model integrating human mentoring with AI-driven support across engagement, analysis, feedback, and reflection cycles](ai-supported-e-mentoring-model-ismael-2026.md)
 
 ## Examples
 -

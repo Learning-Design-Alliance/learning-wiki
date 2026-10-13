@@ -17,7 +17,7 @@ sources:
 # Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a project-based learning framework in which students work in small teams on industry-relevant problems across multiple semesters. The bachelor's program comprises 180 ECTS points, of which 60 are project-based courses worth ten ECTS each, organized with the Scrum framework. The authors state that "the project team is not driven by consecutive tasks to develop a product but by the development of a minimum viable product (MVP)" defined by user stories. Projects are consecutive: early semesters teach project skills, later ones mix cohorts for interdisciplinary work.
@@ -39,10 +39,13 @@ The article proposes a project-based learning framework in which students work i
 - agile self-managed teamwork on industry-relevant problems
 
 ### Claims
-- 
+
+- [In a winter 2025/2026 student project, a student team incrementally built a ROS2 software ecosystem for automated disassembly of brick assemblies across seven sprints](../claims/student-team-built-ros2-disassembly-ecosystem-seven-sprints.md) [+W]
 
 ## Related Designs
-- 
+
+- [Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability](three-design-tensions-robotics-curriculum.md)
+- [Project-based robotics + AI curriculum structured by P3 Task Taxonomy with backward design](p3-taxonomy-robotics-ai-curriculum.md)
 
 ## Examples
 -

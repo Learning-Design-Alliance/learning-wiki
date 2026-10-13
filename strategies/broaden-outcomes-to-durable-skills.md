@@ -39,6 +39,7 @@ The article calls for 'expanding what is measured beyond the narrow set of skill
 ## Related Strategies
 
 - [Use process and usage data alongside impact data in edtech evaluations](process-usage-data-alongside-impact.md)
+- [Broaden instruments, methods, and expert judgment in psychometric LLM evaluation research](broaden-psychometric-llm-evaluation-research.md)
 
 ## Examples
 -

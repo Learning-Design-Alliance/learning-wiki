@@ -41,7 +41,8 @@ During the COVID-19 pandemic, UCLA-CS partnered with UCLA's Life Course Interven
 - 
 
 ## Related Designs
-- 
+
+- [Six key practices of a community school serving immigrant, multilingual communities](six-key-practices-community-school-immigrant-communities.md)
 
 ## Examples
 -

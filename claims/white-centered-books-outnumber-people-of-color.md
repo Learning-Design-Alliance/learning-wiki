@@ -43,7 +43,9 @@ Character-identity analysis of the same 300-book sample. The report counts cente
 
 
 ## Related Claims
+
 - [Intersecting marginalized identities are nearly absent from the sampled books, with gender identity, sexual orientation, disability, and justice-system representation extremely rare](intersecting-identities-nearly-absent-sample.md) — related
 - [Just over half of centered people of color receive complex representation, while more than 40% receive limited representation, most often lacking agency](people-of-color-limited-representation.md) — related
 - [White authors rarely portray complex cultures of color: 41 of 64 limited-representation books have at least one White author, versus 15 of 36 complex-representation books](white-authors-rarely-complex-cultures.md) — related
 - [Fewer than one-third of sampled books including groups or cultures of color provide complex representation; over half provide limited representation](groups-of-color-limited-representation.md) — related
+- [Most books including historical or social topics give them limited representation: only 16% are complex while 80% are limited](historical-social-topics-limited-representation.md)

@@ -39,6 +39,7 @@ The agreement's Privacy Measures definition instructs receiving parties publishi
 ## Related Strategies
 
 - [Return or destroy shared education records within 60 days of the agreement's end](sixty-day-data-destruction-requirement.md)
+- [Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison](procurement-operational-privacy-evidence-rubric.md)
 
 ## Examples
 -

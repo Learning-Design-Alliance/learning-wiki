@@ -62,4 +62,6 @@ Evaluation of the line-flow CNN variant (Model 4) on unseen test operating point
 
 
 ## Related Claims
+
 - [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — related
+- [With identical architectures and budgets, a PINN more closely reproduced swing-equation rotor angle and speed trajectories than an ordinary neural network](pinn-swing-equation-closer-than-ordinary-nn.md)

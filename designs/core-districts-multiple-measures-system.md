@@ -44,7 +44,8 @@ The California Office to Reform Education (CORE) districts, a network of 10 dist
 - 
 
 ## Related Designs
-- 
+
+- [California's 2010s systemic alignment of standards, curriculum frameworks, instructional materials, assessments, teacher education, equitable funding, and multiple measures accountability](california-systemic-alignment-2010s.md)
 
 ## Examples
 -

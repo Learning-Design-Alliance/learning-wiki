@@ -41,7 +41,8 @@ The article recommends a structured, social workshop format in which participant
 - collective sensemaking about emerging technologies
 
 ## Related Strategies
-- 
+
+- [Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use](accessible-genai-guidelines-training-workshops.md)
 
 ## Examples
 -

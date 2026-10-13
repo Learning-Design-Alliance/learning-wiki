@@ -24,7 +24,8 @@ A VSCode extension developed by Rohit Mehra et al. that uses cooperating agents 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Prompt Coach](prompt-coach.md)
 
 ## Key Sources
 - Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. https://arxiv.org/abs/2607.06101

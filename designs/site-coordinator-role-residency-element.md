@@ -41,7 +41,8 @@ The site coordinator, a role common to US PREP residency transformation sites, f
 - 
 
 ## Related Designs
-- 
+
+- [Residency clinical faculty site coordinator role](residency-site-coordinator-role.md)
 
 ## Examples
 -

@@ -35,7 +35,8 @@ A three-year City University of New York programme that combines financial, acad
 - [ASAP showed no statistically significant effect on enrollment in any college at the sixth semester in the Scrivener et al. (2015) trial](../claims/asap-null-sixth-semester-any-college-enrollment.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [College Promise](college-promise.md)
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2019). Supporting Postsecondary Success intervention report: Accelerated Study in Associate Programs. https://ies.ed.gov/ncee/wwc/InterventionReport/695

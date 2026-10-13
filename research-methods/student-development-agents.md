@@ -27,7 +27,8 @@ Student Development Agents are the article's concrete instantiation of AES: "com
 - [In the MAIC case study, student development agent predictions (Concept and Scales methods) outperformed the mean baseline across all five non-cognitive dimensions on RMSE and MAE](../claims/agent-beats-mean-baseline-rmse-mae.md) [+M]
 
 ## Related Research Methods
--
+
+- [Agent-based educational science (AES)](agent-based-educational-science-aes.md)
 
 ## Key Sources
 - Zhang, Y., Jiang, J. & Tang, X. (2026). Toward Agent-Based Educational Science: Rethinking Educational Research in the Age of AI. Educational Psychology Review, 38, 113. https://doi.org/10.1007/s10648-026-10209-5

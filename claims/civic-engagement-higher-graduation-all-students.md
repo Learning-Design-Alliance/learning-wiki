@@ -43,8 +43,10 @@ High school findings from the observational CPS analysis: school civic engagemen
 
 
 ## Related Claims
+
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments](non-test-based-indicators-poorly-suited-to-stabilization.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
+- [As of 2018, 42 states required a civics or government course, 8 required a full year, and 19 required a civics exam to graduate](state-civics-graduation-requirements-2018.md)

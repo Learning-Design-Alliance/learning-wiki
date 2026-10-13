@@ -43,6 +43,7 @@ In its future directions, the article recommends moving beyond prompting: integr
 
 - [Validate the empirical-findings component and balance alignment against generalizability when injecting prior study results into agent prompts](validate-empirical-findings-component-balance.md)
 - [Next-step post-training strategy: reinforcement learning from human feedback on authentic learning dialogues and scaling student feedback](rlhf-next-step-post-training-education.md)
+- [Design hybrid instructional chatbot systems that balance breadth and depth via multi-agent architectures or adaptive interaction modes](hybrid-instructional-chatbot-design-strategy.md)
 
 ## Examples
 -

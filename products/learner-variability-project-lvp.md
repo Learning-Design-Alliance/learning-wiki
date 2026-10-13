@@ -13,7 +13,7 @@ generated:
 # Learner Variability Project (LVP)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Learner Variability Project, operated by Digital Promise, organizes research-based learner factors and instructional strategies into models intended for teachers and edtech developers serving diverse learners.
@@ -24,8 +24,11 @@ The Learner Variability Project, operated by Digital Promise, organizes research
 
 ### Claims
 
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Learner Variability Project](learner-variability-project.md)
 
 ## Key Sources
 - Pape, B. (2018). Learner Variability Is the Rule, Not the Exception. Digital Promise Global. https://lvp.digitalpromiseglobal.org/

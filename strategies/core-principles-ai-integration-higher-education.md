@@ -67,6 +67,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 - [Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content](critical-ai-use-writing-intensive-stem-strategy.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
+- [Align AI guidelines with broader institutional policies while addressing discipline-specific learning objectives and workforce demands](align-ai-guidelines-discipline-objectives-workforce.md)
 
 ## Related Principles
 - 

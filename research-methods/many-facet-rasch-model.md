@@ -32,7 +32,8 @@ MFRM, developed by Linacre in 1989 as an extension of the partial credit model, 
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](../claims/identical-item-difficulty-ranking-ctt-mfrm.md) [+W]
 
 ## Related Research Methods
--
+
+- [FACETS framework](facets-framework.md)
 
 ## Key Sources
 - Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)

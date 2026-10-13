@@ -43,5 +43,9 @@ Chi-square test across five assignment types (general, low-stakes, high-stakes, 
 
 
 ## Related Claims
+
 - [Undergraduate students' preferences for AI feedback characteristics differ significantly from an equal distribution for tone, length, format, and focus, but not for timing](ai-feedback-characteristic-preferences-differ-from-chance.md) — related
 - [Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks](scoring-preferences-vary-by-scenario.md) — related
+- [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md)
+- [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](ai-scoring-perceptions-lower-vs-higher-order.md)
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md)

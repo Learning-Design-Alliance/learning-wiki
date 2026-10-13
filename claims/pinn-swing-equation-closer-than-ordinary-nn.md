@@ -43,4 +43,5 @@ Simulation comparison on the linearized swing equation: the ordinary NN and PINN
 
 
 ## Related Claims
--
+
+- [In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test](cnn-powerflow-surrogate-capacity-training-length.md)

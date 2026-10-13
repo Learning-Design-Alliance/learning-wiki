@@ -41,6 +41,7 @@ The guide's fifth recommendation, graded Strong, asks teachers of English learne
 
 - [Partner Reading](partner-reading.md)
 - [Paired Reading](paired-reading.md)
+- [Make development of formal, academic English a key instructional goal beginning in the primary grades, with dedicated curricula, daily integrated instruction, and teacher professional development](develop-academic-english-from-primary-grades.md)
 
 ## Examples
 -

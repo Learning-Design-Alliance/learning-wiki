@@ -40,6 +40,7 @@ The article recommends integrating GenAI in HSS education via training that comb
 ## Related Strategies
 
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 
 ## Examples
 -

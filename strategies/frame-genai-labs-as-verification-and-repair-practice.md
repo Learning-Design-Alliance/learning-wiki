@@ -39,7 +39,11 @@ The article's deployment strategy: at the start of the activity, students were e
 - prompt refinement
 
 ## Related Strategies
-- 
+
+- [Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding](critique-ai-output-assignment-sequence.md)
+- [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
+- [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 
 ## Examples
 -

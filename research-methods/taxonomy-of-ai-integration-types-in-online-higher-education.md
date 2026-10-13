@@ -24,7 +24,9 @@ From 54 articles containing specific examples, the review classifies AI integrat
 ### Claims
 
 ## Related Research Methods
--
+
+- [Curriculum-Instruction-Assessment triad taxonomy of AI educational purposes in VET](curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet.md)
+- [Four-category functional taxonomy of AI tools shaping collaborative learning in higher education](four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu.md)
 
 ## Key Sources
 - Jennifer Lock, Soraya Arteaga, Carol Johnson. (2025). Integrating AI in Online Learning in Higher Education: A Literature Review. International Journal on Innovations in Online Education, 9(1). https://doi.org/10.1615/IntJInnovOnlineEdu.2026060433

@@ -43,4 +43,7 @@ The randomized trial found intervention and comparison students "essentially no 
 
 
 ## Related Claims
+
 - [Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)](amplify-science-no-significant-standardized-science-effect.md) — related
+- [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on an NGSS-focused three-dimensional science learning assessment (g = 0.24)](amplify-science-gains-ngss-science-learning-assessment.md)
+- [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)](amplify-science-gains-science-vocabulary-in-use.md)

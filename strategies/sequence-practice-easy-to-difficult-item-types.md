@@ -37,7 +37,10 @@ This scheduling strategy uses the model's finding that easier items permit more 
 - durable factual and applied knowledge of text content through retrieval practice
 
 ## Related Strategies
-- 
+
+- [Spaced Retrieval Practice](spaced-retrieval-practice.md)
+- [Distributed Practice](distributed-practice.md)
+- [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Student Ratings of Teaching project at the University of Salzburg
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The concrete evaluation context used in the article is the project "Student Ratings of Teaching" at the University of Salzburg, partly based on the project "Evaluation in Education", grant No. P13594-SOZ by the Austrian Science Fund (FWF). The article states the quality assessment context "used to discuss these issues is the project 'Student Ratings of Teaching' at the University of Salzburg", with information available from the Task Force "Evaluation von Lehrveranstaltungen an der Universität Salzburg", 2002.
@@ -38,7 +38,7 @@ The concrete evaluation context used in the article is the project "Student Rati
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The value-conflict taxonomy is applied to student rating of teaching at the University of Salzburg, surfacing conflicts such as bandwidth vs. fidelity](../claims/taxonomy-applied-salzburg-student-ratings.md) [+W]
 
 ## Related Elements
 - 

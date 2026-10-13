@@ -43,5 +43,7 @@ Proof-of-concept multi-agent system for automated essay scoring (MASS) presented
 
 
 ## Related Claims
+
 - [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](llm-within-configuration-reliability-high.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
+- [PRISMA review synthesized 93 studies on agentic workflows in education, with methodological quality skewed toward conceptual and early empirical work](prisma-review-93-agentic-education-studies.md)

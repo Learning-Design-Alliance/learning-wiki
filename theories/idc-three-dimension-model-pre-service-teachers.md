@@ -44,7 +44,8 @@ The article develops and validates a competence model in which instructional des
 - 
 
 ## Examples
--
+
+- [Three-layer competency map linking graduate attributes to measurable behaviors](../designs/three-layer-competency-map-ai-curriculum.md)
 
 ## Key Sources
 - Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97

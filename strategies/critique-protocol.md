@@ -103,6 +103,7 @@ Structured critique improves the quality of both feedback and revision because i
 - [Rubric Design](../elements/rubric-design.md) — supplies the criteria that anchor critique
 - [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
+- [Process-based evaluation strategies: desirable difficulties, think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible](process-based-evaluation-desirable-difficulties.md)
 
 ## Examples
 **[Expeditionary Learning / EL Education](https://eleducation.org)** — Ron Berger's critique norms ("kind, specific, helpful") and multiple-draft revision cycles are embedded across EL Education schools' project-based curriculum.

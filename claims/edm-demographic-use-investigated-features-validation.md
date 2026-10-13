@@ -43,5 +43,9 @@ Survey results (Table 5) break down the 44 analyzing papers: 20 investigated dem
 
 
 ## Related Claims
+
 - [Only 15% of EDM publications for which demographics were applicable analyzed demographic information, although 72% reported at least one category](edm-demographics-reported-72-analyzed-15.md) — related
 - [Nearly 75% of EDM publications contain analyses for which demographic information is applicable](edm-demographics-applicable-75-percent.md) — related
+- [Reporting frequency of demographic categories in EDM research is inversely proportional to how sensitive the category is, with race (9%) and SES (5%) reported least](edm-demographic-reporting-inverse-sensitivity.md)
+- [Reporting frequency of demographic categories in EDM publications is very uneven, ranging from 5% (SES) to 59% (education level)](edm-demographic-reporting-uneven-5-to-59.md)
+- [Journal articles report demographic information more often than EDM conference papers (89% vs. 70%)](edm-journal-articles-report-more-demographics.md)

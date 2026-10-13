@@ -40,7 +40,8 @@ The article offers its validated model and scale as actionable inputs for gradua
 - Graduate Genai Literacy Five Dimension Model
 
 ## Related Strategies
-- 
+
+- [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ The article recommends that educators and policymakers analyze screening data at
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 - [Use multiple, diverse data sources selected to offer distinct yet complementary information](use-multiple-diverse-data-sources.md)
 - [Select evidence-based mindfulness programs matched to school needs assessment data](select-evidence-based-mindfulness-programs-needs-assessment.md)
+- [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
 
 ## Examples
 -

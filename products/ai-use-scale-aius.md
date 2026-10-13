@@ -24,7 +24,9 @@ A researcher-developed eight-item Likert-type scale for measuring undergraduate 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GenAI Reliance Types Scale (GenAI-RTS)](genai-reliance-types-scale-genai-rts.md)
+- [GenAI Usage Behavior Scale](genai-usage-behavior-scale.md)
 
 ## Key Sources
 - Yilmaz A (2026) The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence. Front. Psychol. 17:1853790. https://doi.org/10.3389/fpsyg.2026.1853790

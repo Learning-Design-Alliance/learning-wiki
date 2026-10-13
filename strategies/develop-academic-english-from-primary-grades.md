@@ -38,7 +38,9 @@ The guide's fourth recommendation, graded Low, directs schools to ensure that de
 - Academic English: the decontextualized language of academic discourse, texts, and formal argument
 
 ## Related Strategies
-- 
+
+- [Schedule about 90 minutes a week of structured peer-assisted learning in which pairs of students at different ability or proficiency levels work together on academic tasks](structured-peer-assisted-learning-pairs-90-minutes.md)
+- [Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching](integrate-bilingualism-all-instructional-settings.md)
 
 ## Examples
 -

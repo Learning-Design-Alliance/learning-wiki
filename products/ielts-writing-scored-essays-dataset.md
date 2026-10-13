@@ -13,7 +13,7 @@ generated:
 # IELTS Writing Scored Essays Dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A publicly available Kaggle dataset of 787 Academic IELTS Task 2 essays with official examiner-assigned band scores, used for automated writing-assessment research.
@@ -24,8 +24,12 @@ A publicly available Kaggle dataset of 787 Academic IELTS Task 2 essays with off
 
 ### Claims
 
+- [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](../claims/human-inter-rater-benchmark-icc-above-089-essays.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [ASAP 2.0 dataset](asap-20-dataset.md)
+- [ICNALE Global Rating Archive (GRA) dataset](icnale-global-rating-archive-gra-dataset.md)
 
 ## Key Sources
 - Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814v1

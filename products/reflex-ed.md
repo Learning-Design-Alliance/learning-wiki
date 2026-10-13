@@ -13,7 +13,7 @@ generated:
 # RefleX ED
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 RefleX ED is a tutor-support tool developed by Yilmaz et al. that presents standardised scores from observable self-regulated-learning behaviours to inform tutor feedback.
@@ -23,6 +23,8 @@ RefleX ED is a tutor-support tool developed by Yilmaz et al. that presents stand
 - **RefleX ED tutor-support tool presenting standardised SRL proxy scores**: RefleX ED is a tool the authors developed to help tutors interpret behavioural data when drafting feedback. It "presents each student's standardised scores derived from observable indicators of SRLs behaviours" across the five SRL pillars (GS, TS, TM, HS, SE), with z-scores centred on zero so negative values signal a need for corrective feedback and positive values for reinforcement. It was used to generate the tutor-feedback condition in the study. (Yilmaz et al. (2026))
 
 ### Claims
+
+- [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](../claims/genai-feedback-improved-task-strategies-srl.md) [+W]
 
 ## Related Products and Programmes
 -

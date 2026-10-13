@@ -13,7 +13,7 @@ generated:
 # Taklif.AI
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Taklif.AI is an LLM-powered platform developed by Kurdya et al. for automatically generating personalized college assignments based on students' extracurricular interests and cultural context.
@@ -24,8 +24,14 @@ Taklif.AI is an LLM-powered platform developed by Kurdya et al. for automaticall
 
 ### Claims
 
+- [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](../claims/uat-84-percent-rate-personalization-beneficial.md) [+W]
+- [Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request](../claims/load-test-100-concurrent-users-30-second-response.md) [~W]
+- [During development testing, Taklif.AI guardrails rejected roughly 12% of interests, 8% of input documents, and 3% of generated assignments](../claims/guardrails-rejection-rates-development-testing.md) [+W]
+- [91% of UAT participants rated the Taklif.AI user interface as intuitive](../claims/uat-91-percent-rate-interface-intuitive.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Waterproof](waterproof.md)
 
 ## Key Sources
 - Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842

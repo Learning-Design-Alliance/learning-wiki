@@ -40,7 +40,9 @@ The article recommends concrete steps for future LLM-assisted grading: writing g
 - improved alignment of LLM-suggested grades with human examiner grades on essay-style exams
 
 ## Related Strategies
-- 
+
+- [Design guidelines for future LLM evaluation tools: configurable metric views, tighter metric-rubric integration, and comparison-foregrounding visualizations](design-guidelines-llm-evaluation-tools-education.md)
+- [Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures](extend-educational-llm-benchmarks-human-in-loop-multiturn.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article recommends that "Future evaluations of LLM-based simulated patient s
 ## Related Strategies
 
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
+- [Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits](frame-genai-pbl-experience-experimentation-orientation.md)
 
 ## Examples
 -

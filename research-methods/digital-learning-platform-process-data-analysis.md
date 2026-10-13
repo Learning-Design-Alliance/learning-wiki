@@ -33,7 +33,8 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - [Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types](../claims/shallow-engagement-persists-deep-flexible.md) [+M]
 
 ## Related Research Methods
--
+
+- [Data integration planning for digital learning platform research](data-integration-planning-for-digital-learning-platform-research.md)
 
 ## Key Sources
 - Schellinger, A., Zacamy, J., Roschelle, J., Closser, A., & Zepeda, C. D. (2024, April). Considerations for Conducting Research in Digital Learning Platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/210

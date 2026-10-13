@@ -38,6 +38,7 @@ The review's conclusions propose four directions for advancing AI–metacognitio
 ## Related Strategies
 
 - [Pursue symbolic, hybrid, and metaverse-based AI approaches to address gaps left by subsymbolic AI in collaborative learning](future-symbolic-hybrid-metaverse-ai-collaborative-learning.md)
+- [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 
 ## Examples
 -

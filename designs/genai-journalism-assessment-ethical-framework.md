@@ -42,7 +42,8 @@ The article presents a practice-based curriculum intervention built on an ethica
 - 
 
 ## Related Designs
-- 
+
+- [A model linking Australian and institutional quality expectations to GenAI realities in Malaysian-campus journalism education](genai-quality-expectations-linkage-model.md)
 
 ## Examples
 -

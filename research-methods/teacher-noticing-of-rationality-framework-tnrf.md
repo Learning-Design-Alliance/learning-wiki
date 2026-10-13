@@ -12,7 +12,7 @@ generated:
 # Teacher Noticing of Rationality Framework (TNRF)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The TNRF builds on van Es and Sherin's expanded noticing framework of attending, interpreting, and shaping, and "extends van Es and Sherin's (2021) framework by specifying the object of noticing more precisely as students' mathematical thinking". It operationalises students' thinking through Habermas's theory of rationality as observable behaviours: justifying statements, selecting and using appropriate tools, and communicating with appropriate terminology and representations. Attending targets manifestations of rational behaviour rather than surface correctness; interpreting evaluates the quality of participation in mathematical practices; shaping structures conditions under which rational behaviour becomes visible.
@@ -22,7 +22,10 @@ The TNRF builds on van Es and Sherin's expanded noticing framework of attending,
 - **Teacher Noticing of Rationality Framework (TNRF)**: The TNRF builds on van Es and Sherin's expanded noticing framework of attending, interpreting, and shaping, and "extends van Es and Sherin's (2021) framework by specifying the object of noticing more precisely as students' mathematical thinking". It operationalises students' thinking through Habermas's theory of rationality as observable behaviours: justifying statements, selecting and using appropriate tools, and communicating with appropriate terminology and representations. Attending targets manifestations of rational behaviour rather than surface correctness; interpreting evaluates the quality of participation in mathematical practices; shaping structures conditions under which rational behaviour becomes visible. (Selen Galiç et al. (2026))
 
 ### Claims
+
 - [Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions](../claims/interpreting-shaping-strongest-co-occurrence-ai-simulations.md) [+M]
+- [Preservice teachers moved directly from attending to shaping more often than from attending to interpreting, and attending–interpreting links remained comparatively weak](../claims/attending-shaping-over-attending-interpreting.md) [+W]
+- [The dominant within-dimension noticing transition varied by week: attending in Week 1, interpreting in Week 2, and shaping in Week 3](../claims/dominant-transitions-vary-by-week.md) [+W]
 
 ## Related Research Methods
 -

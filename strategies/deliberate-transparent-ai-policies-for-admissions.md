@@ -38,7 +38,9 @@ Based on evidence that AI use is widespread, quality-improving, and penalized, t
 - fair and valid evaluation of applicant writing in an AI-mediated environment
 
 ## Related Strategies
-- 
+
+- [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
+- [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 
 ## Examples
 -

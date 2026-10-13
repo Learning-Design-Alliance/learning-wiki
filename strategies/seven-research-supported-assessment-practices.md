@@ -39,7 +39,8 @@ The article's central offering is a set of seven research-supported assessment p
 - building assessment literacy
 
 ## Related Strategies
-- 
+
+- [Teacher reflection cycle for adopting a formative assessment practice](teacher-reflection-cycle-formative-practice.md)
 
 ## Examples
 -

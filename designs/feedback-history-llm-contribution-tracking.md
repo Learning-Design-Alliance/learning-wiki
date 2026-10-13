@@ -41,7 +41,8 @@ The Teacher Dashboard includes a Feedback History interface providing a comprehe
 - Teacher In The Loop Feedback Mediation [+M]
 
 ## Related Designs
-- 
+
+- [AI teaching technology stack: dashboard, reinforcement-learning feedback, and LLM-based semantic assessment](ai-teaching-tech-stack-dash-pytorch-qwen.md)
 
 ## Examples
 -

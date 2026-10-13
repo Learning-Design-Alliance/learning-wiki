@@ -43,8 +43,11 @@ The brief reports a comparative predictive-validity study of high school PARCC a
 
 
 ## Related Claims
+
 - [More than 40 states adopted the Common Core, and many face assessment-system decisions similar to Massachusetts'](many-common-core-states-face-similar-assessment-decisions.md) — related
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](mcas-and-parcc-both-predict-college-grades-similar-validity.md) — possibly the same claim (merge candidate)
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related
 - [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — possibly the same claim (merge candidate)
 - [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
+- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](mcas-and-parcc-similar-remediation-predictions.md)
+- [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md)

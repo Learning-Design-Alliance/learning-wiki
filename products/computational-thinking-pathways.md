@@ -64,7 +64,8 @@ A Digital Promise framework of system-wide K–12 computational-thinking learnin
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](../claims/talladega-disparities-persisted-despite-pathway.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [K-12 Computer Science Framework](k-12-computer-science-framework.md)
 
 ## Key Sources
 - Finding kinship in a far away land: The relevance of Japanese cultural perspectives to education research in Eastern Kentucky. (2022). https://bit.ly/TANrefs

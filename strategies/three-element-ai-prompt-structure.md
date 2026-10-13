@@ -42,7 +42,9 @@ The intervention standardized the type of information exchanged with the AI with
 - [Ai Supported E Mentoring Model Ismael 2026](../designs/ai-supported-e-mentoring-model-ismael-2026.md)
 
 ## Related Strategies
-- 
+
+- [SEL Questioning](sel_questioning.md)
+- [Help Seeking](help-seeking.md)
 
 ## Examples
 -

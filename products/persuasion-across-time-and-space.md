@@ -18,7 +18,7 @@ sources:
 # Persuasion Across Time and Space
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A five-week, Common Core State Standards-aligned English language arts curriculum unit for intermediate-level middle school English learners, developed by Stanford University's Understanding Language initiative.
@@ -27,6 +27,8 @@ A five-week, Common Core State Standards-aligned English language arts curriculu
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](../claims/complex-texts-unit-changed-teacher-beliefs.md) [+W]
 
 ## Related Products and Programmes
 -

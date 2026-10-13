@@ -25,7 +25,8 @@ The article synthesizes fragmented prior characterizations of AI code completion
 - [Log analysis reveals novel post-acceptance behaviors (slow tab accept, slow accept then modify) that show suggestion acceptance is a multi-step process](../claims/novel-post-acceptance-behavioral-metrics.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four-metric behavioral taxonomy for distinguishing authentic iterative coding from automated workflows](four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat.md)
 
 ## Key Sources
 - Jessica Hutchison, Ian Tyler Applebaum, Kenneth Angelikas, Kush Rakesh Patel, Phuoc Nguyen, Antonio Lazaro, Nicholas Rucinski, Rahad Arman Nabid, and Stephen MacNeil. (2026). To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks. Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2026). https://doi.org/10.1145/3803400.3809394

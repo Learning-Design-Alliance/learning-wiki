@@ -43,6 +43,7 @@ The paper argues technology is necessary but far from sufficient: at Georgia Sta
 ## Related Strategies
 
 - [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
+- [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
 
 ## Examples
 -

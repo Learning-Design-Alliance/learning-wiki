@@ -61,9 +61,11 @@ Playful spaces work because they lower the social and cognitive cost of experime
 5. Debrief: have learners articulate what they discovered, connecting play experiences to target concepts — this step is where play converts to learning [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M].
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — the instructional logic that makes error-rich exploration valuable
 - [Gamification](gamification.md) — adds game mechanics; distinct from play, which is intrinsically driven
 - [Inquiry-Based Learning](inquiry-based-learning.md) — shares the exploration structure with a question-driven spine
+- [Fund low-stakes experimentation grants that give engineers safe places to test novel AI ideas with small groups of teachers and students](low-stakes-experimentation-grants-ai.md)
 
 ## Examples
 - **[Scratch](https://scratch.mit.edu)** — MIT's block-based coding environment; learners build projects with immediate visual feedback and no penalty for broken code, embodying a playful digital space.

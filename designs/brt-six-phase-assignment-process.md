@@ -42,6 +42,10 @@ Each weekly assignment is structured under six phases corresponding to BRT's cog
 
 - [A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes](../claims/brt-schedule-raised-plo-degrees.md) [+W]
 
+## Related Designs
+
+- [Bloom-level mapping of exercise difficulty levels in AI exercise generation](bloom-mapped-exercise-difficulty-generation.md)
+
 ## Related Patterns
 
 - [14-week interdisciplinary studio schedule progressing from 2D to 3D](brt-interdisciplinary-studio-schedule-2d-to-3d.md)

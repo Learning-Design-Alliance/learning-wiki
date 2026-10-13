@@ -43,7 +43,9 @@ The article proposes an adaptive teaching assistance model for music education o
 - 
 
 ## Related Designs
-- 
+
+- [AI-integrated LMS for middle school with bounded, policy-gated AI assistance embedded in everyday coursework](ai-integrated-lms-bounded-assistance-middle-school.md)
+- [Closed-loop three-layer interpretable ITS architecture linking multimodal scoring, expressive diagnostics, and conversational coaching](closed-loop-three-layer-interpretable-its-architecture.md)
 
 ## Examples
 -

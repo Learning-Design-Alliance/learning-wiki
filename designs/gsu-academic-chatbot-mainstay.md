@@ -45,7 +45,8 @@ A text-based chatbot with non-generative AI capability that sent 2-3 scheduled, 
 - [Chatbot Increases Tutoring Attendance](../claims/chatbot-increases-tutoring-attendance.md) [+M]
 
 ## Related Designs
-- 
+
+- [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
 
 ## Examples
 -

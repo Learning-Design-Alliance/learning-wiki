@@ -24,7 +24,8 @@ A brief kindergarten readiness assessment in Georgia's yearlong GKIDS system, co
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Illinois Kindergarten Individual Development Survey (KIDS)](illinois-kindergarten-individual-development-survey-kids.md)
 
 ## Key Sources
 - Yun, C., Melnick, H., & Wechsler, M. (2021). High-quality early childhood assessment: Learning from states' use of kindergarten entry assessments. Learning Policy Institute. https://learningpolicyinstitute.org/product/high-quality-kea

@@ -26,7 +26,8 @@ TutorTrace is a publicly released dataset created by its authors that combines I
 - [Observable metrics computed from IDE telemetry improved held-out prediction of query imminence (AUROC .726) and guided versus dependent help-seeking (AUROC .717) over raw telemetry](../claims/observable-metrics-improve-help-seeking-prediction-auroc.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [BILearn-CS](bilearn-cs.md)
 
 ## Key Sources
 - David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, and Yan Chen. 2026. TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education. https://arxiv.org/abs/2608.26184

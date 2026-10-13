@@ -40,7 +40,8 @@ The report identifies 12 common activities SE grantees funded to improve authori
 - [Se Grantees More Ta Funds Applicants Than Authorizing](../claims/se-grantees-more-ta-funds-applicants-than-authorizing.md) [+M]
 
 ## Related Designs
-- 
+
+- [Seven activity types by which SE grantees equip subgrantees to serve students with disabilities and English learners](se-activities-supporting-students-with-disabilities-and-els.md)
 
 ## Examples
 -

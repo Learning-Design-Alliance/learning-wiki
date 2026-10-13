@@ -42,6 +42,7 @@ Because test-based verification collapsed in team settings and never fully recov
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
+- [Blend foundational CS concepts with prompt-specific strategies as a complementary entry pathway into computing](prompting-as-complementary-cs-entry-pathway.md)
 
 ## Examples
 -

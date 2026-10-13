@@ -74,6 +74,10 @@ Students form simulated consulting organizations (e.g., HR-service companies) th
 - The specific simulated industry/client can vary; what matters structurally is a real external evaluator, a competitive framing, and a single evolving shared artifact
 - Diary-based individual reflection can be swapped for other individual-accountability mechanisms if diaries are not culturally or logistically suitable
 
+## Related Designs
+
+- [Evolving-artifact course organization: each module's output becomes the next module's input](evolving-artifact-module-chain.md)
+
 ## Related Patterns
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md) — shares an authentic-problem, facilitated-inquiry structure, but this pattern adds a competitive external evaluator and an explicit organizational role structure
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a parallel higher-education pattern using a different shared object (a research paper) toward the same integrative goal

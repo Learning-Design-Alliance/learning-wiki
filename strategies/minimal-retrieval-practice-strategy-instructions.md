@@ -39,7 +39,9 @@ The article recommends a minimal instructional intervention in which educators t
 - effective self-regulated study strategy use
 
 ## Related Strategies
-- 
+
+- [Flashcard Drill](flashcard-drill.md)
+- [Low Stakes Quizzing](low-stakes-quizzing.md)
 
 ## Examples
 -

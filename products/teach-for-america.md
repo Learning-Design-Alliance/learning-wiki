@@ -60,7 +60,8 @@ Teach For America runs a nationwide alternate-route teacher-preparation and teac
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](../claims/tfa-small-positive-early-elementary-reading-not-math.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [On the Rise Academy](on-the-rise-academy.md)
 
 ## Key Sources
 - Turner H, Ncube M, Turner A, Boruch R, Ibekwe N. (2018). What are the effects of Teach For America on Math, English Language Arts, and Science outcomes of K–12 students in the USA? Campbell Systematic Reviews 2018:7. https://doi.org/10.4073/csr.2018.7

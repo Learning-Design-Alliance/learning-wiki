@@ -43,5 +43,7 @@ In the same multilevel regression analysis of the randomized trial, the science-
 
 
 ## Related Claims
+
 - [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on an NGSS-focused three-dimensional science learning assessment (g = 0.24)](amplify-science-gains-ngss-science-learning-assessment.md) — related
 - [Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)](amplify-science-no-significant-standardized-science-effect.md) — related
+- [1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)](amplify-science-no-reading-assessment-difference.md)

@@ -62,5 +62,7 @@ Analytical argument in the related-work section, citing Gu and Xu (2018) on CDM 
 
 
 ## Related Claims
+
 - [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](set-cause-level-ranking-typo-reverse.md) — related
 - [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](set-calibration-window-beta-interaction.md) — related
+- [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](larger-error-windows-improve-set-ranking.md)

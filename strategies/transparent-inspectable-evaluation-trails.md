@@ -37,7 +37,8 @@ Participant feedback indicated that primary engineering frictions came from mult
 - reliable automated evaluation of pedagogical quality
 
 ## Related Strategies
-- 
+
+- [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
 
 ## Examples
 -

@@ -43,4 +43,6 @@ Analytical comparison presented in the paper's argument, adapting a contrast att
 
 
 ## Related Claims
+
 - [Schools do not fulfill the requirements of a true rite of passage, so families and communities must provide coming-of-age ceremonies](schools-cannot-fulfill-rite-of-passage-function.md) — related
+- [Coming-of-age rituals socialize youth outwardly into new roles and transform them inwardly by molding moral and mental disposition](rites-of-passage-socialize-and-transform-youth.md)

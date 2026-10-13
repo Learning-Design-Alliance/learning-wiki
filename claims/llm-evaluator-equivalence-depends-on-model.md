@@ -62,7 +62,9 @@ Linear model of within-LLM differences with cluster-robust standard errors clust
 
 
 ## Related Claims
+
 - [When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin](ai-rubrics-pooled-equivalence-human-evaluators.md) — related
 - [Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions](five-cells-exceeded-equivalence-margin.md) — related
 - [Open-weight (DeepSeek) and proprietary (OpenAI) rubrics produced equivalent grading outcomes in every assignment-approach comparison except Assignment 1 free-form](open-weight-proprietary-rubric-equivalence.md) — related
 - [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](structured-free-form-llm-deviation-contrast.md) — possibly the same claim (merge candidate)
+- [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)

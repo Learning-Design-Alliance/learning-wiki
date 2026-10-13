@@ -41,7 +41,9 @@ Project Cal-Well is a California Department of Education initiative, funded thro
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](../claims/cal-well-stanislaus-training-reach.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Children and Youth Behavioral Health Initiative (CYBHI)](children-and-youth-behavioral-health-initiative-cybhi.md)
+- [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md)
 
 ## Key Sources
 - Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. https://wested.org

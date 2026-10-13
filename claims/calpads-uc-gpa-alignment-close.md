@@ -43,6 +43,9 @@ GPA comparison computed for all UC applicants with grade 10-11 courses (Figure 1
 
 
 ## Related Claims
+
 - [CALPADS-CSU alignment was slightly lower than CALPADS-UC alignment, with about 70% of courses exactly aligned and GPAs within three tenths for close to 90% of students](calpads-csu-alignment-slightly-lower.md) — related
 - [About 75% of A-G courses showed exact unit alignment between CALPADS and UC admissions data, improving across years](calpads-uc-unit-alignment-75-percent.md) — related
 - [College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas](g-elective-courses-low-alignment-calpads-uc.md) — related
+- [CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12](calpads-course-availability-varies-by-year.md)
+- [CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)](calpads-availability-lower-small-nontraditional-schools.md)

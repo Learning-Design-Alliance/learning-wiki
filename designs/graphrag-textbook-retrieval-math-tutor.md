@@ -40,7 +40,9 @@ The system implements Retrieval-Augmented Generation via the GraphRAG framework,
 - 
 
 ## Related Designs
-- 
+
+- [Chain-of-Concept: topic-graph organisation of past assessments replacing similarity-based retrieval](chain-of-concept-topic-graph-memory.md)
+- [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
 
 ## Examples
 -

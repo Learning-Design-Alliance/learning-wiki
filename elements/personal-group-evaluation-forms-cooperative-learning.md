@@ -45,7 +45,8 @@ The handbook provides two ready-to-use evaluation instruments for cooperative le
 - 
 
 ## Examples
--
+
+- [Cooperative Learning](../strategies/cooperative-learning.md)
 
 ## Key Sources
 - You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492

@@ -17,7 +17,7 @@ sources:
 # Tool #2: Auditing Your Data Collection for Indicators of Distress
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A structured worksheet for school authorizers to audit how they collect data on indicators of school distress and identify gaps in those processes.
@@ -28,8 +28,11 @@ A structured worksheet for school authorizers to audit how they collect data on 
 
 ### Claims
 
+- [Authorizers can identify distress indicators through existing formal and informal monitoring activities](../claims/existing-monitoring-yields-distress-indicators.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Tool #3: Assessing Schools for Indicators of Distress rating scales](tool-3-assessing-schools-for-indicators-of-distress-rating-scales.md)
 
 ## Key Sources
 - Aimee Evan, Hannah Sullivan, and Laura Groth (2021). Identifying Indicators of Distress in Charter Schools: Tools to Support Authorizer Data Collection. Bethesda, MD: Manhattan Strategy Group. https://ncsrc.info

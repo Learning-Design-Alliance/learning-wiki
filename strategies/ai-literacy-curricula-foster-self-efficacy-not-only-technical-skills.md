@@ -41,7 +41,9 @@ The article recommends that AI literacy curricula should not focus narrowly on t
 - Three Mechanism Integrative Model Ai Dependency
 
 ## Related Strategies
-- 
+
+- [Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI](ai-literacy-up-and-stress-down-reduce-ai-dependence.md)
+- [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 
 ## Examples
 -

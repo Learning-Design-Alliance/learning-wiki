@@ -124,6 +124,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring](../strategies/early-prediction-adaptive-pedagogical-strategy.md)
 - [Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data](../strategies/in-game-scaffolds-with-usage-tracking.md)
 - [Use AI to support autonomy-supportive task adaptation in physical education rather than algorithmic exercise prescription](../strategies/autonomy-supportive-ai-task-adaptation-pe.md)
+- [cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism](../designs/cc-self-train-adaptive-learning-system.md)
+- [Use traced error causes as personalized intervention recommendations in online learning systems](../strategies/error-cause-tracing-for-personalized-recommendations.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

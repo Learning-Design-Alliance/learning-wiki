@@ -37,7 +37,8 @@ The article models the practice of publishing a methodological summary alongside
 - transparent documentation of evaluation data collection
 
 ## Related Strategies
-- 
+
+- [Disseminate evaluation findings through audience-segmented briefs backed by a shared methods summary](audience-segmented-findings-briefs-with-methods-summary.md)
 
 ## Examples
 -

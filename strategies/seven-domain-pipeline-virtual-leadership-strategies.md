@@ -42,6 +42,7 @@ The report adapts the seven-domain "comprehensive, aligned" principal pipelineâ€
 - [Institute strategies that turn the assistant principal experience into a structured program for developing school-leadership skills](structured-ap-experience-development-program.md)
 - [SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines](sea-competency-uses-selection-development.md)
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
+- [Integrate technology across the entire instructional triangle of teachers, students, and instructional resources](integrate-technology-across-instructional-triangle.md)
 
 ## Examples
 -

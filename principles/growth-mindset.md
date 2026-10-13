@@ -123,6 +123,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](../strategies/growth-mindset-teaching-practices-list.md)
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](../strategies/growth-mindset-explicit-and-implicit-practices.md)
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](../strategies/chatbot-support-reinforces-effort-and-strategy.md)
+- [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](../strategies/mindset-theory-early-in-teacher-education.md)
 
 ### Illustrative
 

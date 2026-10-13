@@ -38,7 +38,8 @@ The article recommends evaluating LLM-generated analytical responses with both a
 - Assessing verifiability and hallucination risk in LLM-generated research responses
 
 ## Related Strategies
-- 
+
+- [Design guidelines for future LLM evaluation tools: configurable metric views, tighter metric-rubric integration, and comparison-foregrounding visualizations](design-guidelines-llm-evaluation-tools-education.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The program's staffing model uses local trainers to prepare paraprofessional tut
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Train-the-Trainer professional development for attendance-intervention staff](train-the-trainer-attendance-intervention-pd.md)
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
+- [Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction](hoot-reading-tutor-qualification-and-training-strategy.md)
 
 ## Examples
 -

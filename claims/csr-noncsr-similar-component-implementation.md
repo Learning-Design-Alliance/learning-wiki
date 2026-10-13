@@ -43,5 +43,7 @@ Survey-based descriptive analysis of principals and teachers in 436 CSR and 382 
 
 
 ## Related Claims
+
 - [Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools](csr-award-no-larger-achievement-growth-five-years.md) — related
 - [Achievement gains in CSR schools had evaporated after five years, returning to baseline levels](csr-gains-evaporated-five-years-baseline.md) — related
+- [Only one-third of CSR schools adopted reform models identified as having a scientific research base](one-third-csr-schools-research-based-models.md)

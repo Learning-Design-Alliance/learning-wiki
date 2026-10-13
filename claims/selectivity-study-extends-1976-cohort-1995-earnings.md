@@ -43,4 +43,6 @@ Descriptive statement on the publication page about the paper's relationship to 
 
 
 ## Related Claims
+
 - [Estimates of the return to college selectivity fall substantially, often to near zero, when earnings are tracked from 1983 through 2007 and for a 1989 entering cohort](college-selectivity-earnings-return-near-zero-long-horizon.md) — related
+- [The return to college selectivity remains large for black, Hispanic, and students from less-educated families](college-selectivity-return-large-disadvantaged-groups.md)

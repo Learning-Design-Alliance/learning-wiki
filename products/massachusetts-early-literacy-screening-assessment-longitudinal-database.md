@@ -26,7 +26,9 @@ A longitudinal database built by WestEd for the Massachusetts Department of Elem
 - [Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia](../claims/massachusetts-k3-52-percent-ever-at-risk.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Massachusetts DESE early literacy screening assessment dataset](massachusetts-dese-early-literacy-screening-assessment-dataset.md)
+- [Massachusetts early literacy screening assessment dataset linked with MCAS results](massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results.md)
 
 ## Key Sources
 - Mariann Lemke, Dan Murphy, Aaron Soo Ping Chow, Hayley Spencer, and Angela Zhang. (2023). A First Look at Early Literacy Performance in Massachusetts: Results of Initial Analysis Based on State Grantee Literacy Screening Assessments. WestEd. https://www.WestEd.org

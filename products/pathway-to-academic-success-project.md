@@ -34,7 +34,8 @@ The Pathway to Academic Success Project is a professional-development and coachi
 - [The Pathway to Academic Success Project has potentially positive effects on writing quality for English learners in grades 7-12](../claims/pathway-project-potentially-positive-writing-quality.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2021). Pathway to Academic Success Project: Intervention Report | English Learners Topic Area. https://ies.ed.gov/ncee/wwc/InterventionReport/724

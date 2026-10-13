@@ -43,9 +43,11 @@ Participant-independent evaluation of the E3Sense sensing study: five participan
 
 
 ## Related Claims
+
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — related
 - [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](sensor-stream-performance-non-monotonic.md) — related
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — a broader claim this one bears on
 - [A modality-aware reference model outperforms sensor-free, statistical, deep temporal, foundation-model, and LLM-based baselines for estimating minute-level attention difficulty from wearable sensing](edugage-modality-aware-model-outperforms-baselines.md) — related
 - [Fold-local top-20 feature selection had mixed effects across model families, supporting the complete 166-dimensional representation as the primary analysis](feature-selection-effects-mixed-across-families.md) — related
 - [Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1](model-family-rankings-depend-on-target.md) — related
+- [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md)

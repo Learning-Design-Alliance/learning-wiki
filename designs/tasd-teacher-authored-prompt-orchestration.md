@@ -44,7 +44,8 @@ TASD (Colleague AI Classroom Teaching Aide) frames student-AI interaction as a c
 - [No Direct Answers Guardrail Reduces Ai Answers](../claims/no-direct-answers-guardrail-reduces-ai-answers.md) [+M]
 
 ## Related Designs
-- 
+
+- [Teacher Interaction Layer: a web-based configuration surface for pedagogical intent, persona, and role](elevate-teacher-interaction-layer.md)
 
 ## Examples
 -

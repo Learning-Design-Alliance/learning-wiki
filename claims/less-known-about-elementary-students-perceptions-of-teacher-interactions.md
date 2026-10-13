@@ -43,4 +43,8 @@ The article states this research gap as motivation: prior work covers "middle an
 
 
 ## Related Claims
--
+
+- [Female elementary students rated their teacher more positively over time than male students](female-students-rate-teachers-more-positively-over-time.md)
+- [Unexpectedly, students in classrooms characterized by high Instructional Support rated their teachers less positively over time](high-instructional-support-classrooms-less-positive-perceptions-over-time.md)
+- [Elementary students' perceptions of interactions with their teacher become more positive over time in classrooms characterized by positive teacher-student interactions](positive-teacher-student-interactions-improve-student-perceptions-over-time.md)
+- [Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school](student-perceptions-stage-future-interactions-school-success.md)

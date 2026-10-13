@@ -41,7 +41,9 @@ Descriptive analysis of heteroglossic subcategories (Table 8) reported "Entertai
 
 
 ## Related Claims
+
 - [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](ai-revisions-most-appraisal-resources.md) — related
 - [Revision-driven increases in appraisal resources are driven by Attitude and Graduation, while Engagement frequency remains stable across draft types](attitude-graduation-drive-increase-engagement-stable.md) — related
 - [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](counter-endorse-pronounce-subcategory-patterns.md) — related
 - [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](peer-revisions-contractive-ai-balanced.md) — related
+- [Heteroglossic resources outnumber Monoglossic resources across all draft types, with no significant difference in Engagement distribution across revision conditions](heteroglossic-exceeds-monoglossic-stable.md)

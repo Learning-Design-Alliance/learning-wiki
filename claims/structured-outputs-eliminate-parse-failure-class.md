@@ -43,4 +43,5 @@ Functional validation of the prototype through iterative testing with sample ess
 
 
 ## Related Claims
--
+
+- [The deterministic reflection gate reliably distinguished low-effort defenses from substantive ones during validation, coaching filler answers rather than unlocking](reflection-gate-distinguishes-low-effort-defenses.md)

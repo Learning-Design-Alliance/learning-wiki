@@ -62,10 +62,12 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 - [Three-phase model of learning in the brain: encoding, consolidation, retrieval](three-phase-memory-model-encoding-consolidation-retrieval.md)
 
 ## Examples
+
 - [Advance Organizers](../elements/advance-organizers.md)
 - [Concept Mapping](../elements/concept-mapping.md)
 - [Analogies and Prior-Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md)
 - [Analogical Reasoning](../principles/analogical-reasoning.md)
+- [Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis](../elements/learning-theory-evaluation-checklist-elt-textbooks.md)
 
 ## Key Sources
 - Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. *Performance Improvement Quarterly, 26*(2), 43–71. [doi:10.1002/piq.21143](https://doi.org/10.1002/piq.21143)

@@ -25,7 +25,8 @@ CS50-Duck is a subject-matter conversational agent developed for and deployed in
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CocoFlow](cocoflow.md)
 
 ## Key Sources
 - Barzanji and Loitsch. (2025). Exploring conversational agents for novice programmers: a scoping review. Discover Artificial Intelligence. https://doi.org/10.1007/s44163-025-00521-4

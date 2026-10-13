@@ -43,5 +43,7 @@ Attention quantification model evaluation described in the Attention Modeling su
 
 
 ## Related Claims
+
 - [A multimodal EEG-fNIRS dataset was collected from 31 participants watching three instructional videos, yielding over 4.5 million data points with expert-verified attention labels](eeg-fnirs-dataset-31-participants-attention-labels.md) — related
 - [A modality-aware reference model outperforms sensor-free, statistical, deep temporal, foundation-model, and LLM-based baselines for estimating minute-level attention difficulty from wearable sensing](edugage-modality-aware-model-outperforms-baselines.md) — related
+- [The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model](real-time-pipeline-latency-one-second-stride-a100.md)

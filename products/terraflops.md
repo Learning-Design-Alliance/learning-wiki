@@ -24,7 +24,8 @@ TerraFlops is an open-source wrapper described by Eimler et al. for combining ha
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CodeCarbon](codecarbon.md)
 
 ## Key Sources
 - Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215

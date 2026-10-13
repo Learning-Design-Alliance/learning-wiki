@@ -40,7 +40,8 @@ The design pattern routes all client communication through Photon Cloud as a cen
 - [Photon Fusion Stable Realtime Communication](../claims/photon-fusion-stable-realtime-communication.md) [+M]
 
 ## Related Designs
-- 
+
+- [Photon Fusion-based multi-site VR immersive learning system with real-time voice and shared 3D materials](photon-fusion-vr-immersive-learning-system.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Trustworthiness lens for evaluating LLMs in education
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes adapting trustworthiness criteria from the ML community as a structured lens for LLM evaluation in education. Trustworthiness functions as an anchor that connects high-level ethical concerns (fairness, safety) to concrete, quantifiable measurements that learning engineers can apply per response. The authors argue this lens helps "bridge the LLM evaluation gap" by providing measurements that help learning engineers align on education-specific challenges and systematically identify potential pedagogical disruptions before deployment.
@@ -23,8 +23,12 @@ The article proposes adapting trustworthiness criteria from the ML community as 
 
 ### Claims
 
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](../claims/trustworthiness-metrics-visualizations-increase-expert-agreement.md) [+W]
+- [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](../claims/trustworthiness-not-fully-automatable-requires-human-judgment.md) [~W]
+
 ## Related Research Methods
--
+
+- [Five trustworthiness metrics comprising 20 measures for evaluating LLM trustworthiness in education](five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in.md)
 
 ## Key Sources
 - Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, and Alex Endert. (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. https://arxiv.org/abs/2608.04006

@@ -37,7 +37,8 @@ The article recommends combining LLM-based analysis with Learning Analytics dash
 - timely formative feedback on presentation slides and iterative slide improvement
 
 ## Related Strategies
-- 
+
+- [Use overlapping multi-slide windows and deck-level reconciliation rather than per-slide generation](overlapping-windows-deck-reconciliation-strategy.md)
 
 ## Examples
 -

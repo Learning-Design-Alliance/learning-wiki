@@ -41,7 +41,8 @@ A template project directory for Visual Studio Code distributed to each team to 
 - 
 
 ## Related Designs
-- 
+
+- [Clover: an instrumented AI code completion tool with attention checks](clover-instrumented-code-completion-tool.md)
 
 ## Examples
 -

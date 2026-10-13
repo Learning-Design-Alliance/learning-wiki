@@ -17,7 +17,7 @@ sources:
 # Co-design principles for regional STEM pathways: Pre-K-to-career alignment, flexible entry, stackable credentials, industry recognition, and representative instructors
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 During the Inquire & Investigate phase, the CAC developed five principles to shape regional STEM pathways: "Align STEM pathways from Pre-K to career"; "Create flexible entry points for all learners"; "Offer stackable skills-focused certifications to ensure smooth credit transfer between institutions"; "Recognize diverse workforce and industry as key to K-12 education"; and "Learners see themselves in instructors, mentors, and industry professionals". The committee also adopted interaction principles for its own collaboration, including open and full collaboration, flexibility, and a win-win mindset.
@@ -37,10 +37,14 @@ During the Inquire & Investigate phase, the CAC developed five principles to sha
 - STEM skill recognition, credit transfer, and STEM identity development toward career pathways
 
 ### Claims
-- 
+
+- [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](../claims/career-pathways-design-moderate-evidence.md) [+W]
+- [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](../claims/k12-systems-positioned-for-entry-level-career-credentials.md) [+W]
 
 ## Related Designs
-- 
+
+- [San Diego STEM Pathways Community Advisory Committee (CAC)](san-diego-stem-community-advisory-committee.md)
+- [Four CAC-developed STEM pathway solution concepts (Inspire to Aspire, CIELO, ATGC, STEM SD Partner Exchange)](four-stem-pathway-solution-concepts.md)
 
 ## Examples
 -

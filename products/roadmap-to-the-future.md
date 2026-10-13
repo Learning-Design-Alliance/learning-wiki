@@ -18,7 +18,7 @@ sources:
 # Roadmap to the Future
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Roadmap to the Future is a community planning initiative whose team develops shared principles, priorities, needs assessments, and strategic actions for youth, families, and communities.
@@ -29,8 +29,14 @@ Roadmap to the Future is a community planning initiative whose team develops sha
 
 ### Claims
 
+- [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](../claims/yolo-county-eight-countywide-needs.md) [+W]
+- [Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations](../claims/yolo-expanded-learning-youth-development-framework-need.md) [+W]
+- [Community engagement for the needs assessment reached nearly 630 community members who provided over 1,400 points of collected data](../claims/yolo-engagement-630-members-1400-data-points.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Roadmap Needs Assessment Five-Step Process](roadmap-needs-assessment-five-step-process.md)
+- [Ten Aspects of Community framework](ten-aspects-of-community-framework.md)
 
 ## Key Sources
 - Roadmap to the Future for Yolo County Children and Youth Needs Assessment. (2024). WestEd. https://WestEd.org

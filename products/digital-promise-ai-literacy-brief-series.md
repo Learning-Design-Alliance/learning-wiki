@@ -49,7 +49,8 @@ A series of Digital Promise implementation briefs that provides audience-specifi
 - [AI systems relying on black-box models should not be used for high-stakes applications](../claims/black-box-ai-not-for-high-stakes-applications.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Workforce AI literacy framework of six skill and competency domains](workforce-ai-literacy-framework-of-six-skill-and-competency-domains.md)
 
 ## Key Sources
 - Ruiz, P., Liberman, B., Karim, S., Dallas, D., Zachariah, I., Peters Hinton, V., Chillmon, C., & Gonzales, L. (2025). Implementing AI literacy across learning environments: A series of briefs. Digital Promise. https://doi.org/10.51388/20.500.12265/268

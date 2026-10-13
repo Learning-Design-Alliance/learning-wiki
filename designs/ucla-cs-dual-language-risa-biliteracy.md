@@ -17,7 +17,7 @@ sources:
 # Dual-language program and Reader Identity Self-Assessment for biliteracy development
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 UCLA-CS is a dual-language school offering content instruction in Spanish, Korean, and English, with elementary Spanish-English and Korean-English programs and a Grades 9-12 Spanish pathway; about 4 in 10 students earn the California State Seal of Biliteracy. Students in Grades 2-5 take the Reader Identity Self-Assessment (RISA) each fall, analyzing their Spanish and English reading data, setting goals, and reflecting on their "bilingual or multilingual reader selves", then tracking progress in longitudinal bar graphs shared with families.
@@ -40,10 +40,13 @@ UCLA-CS is a dual-language school offering content instruction in Spanish, Korea
 - multilingual identity development
 
 ### Claims
-- 
+
+- [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](../claims/dual-language-programs-improve-literacy-achievement.md) [+W]
 
 ## Related Designs
-- 
+
+- [Four core competencies and three core beliefs guiding teaching and learning at UCLA-CS](ucla-cs-four-core-competencies.md)
+- [Three-component implementation pattern for dual language programs](dual-language-implementation-components-pattern.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # M-PLANS (Motivation - Planning Lessons to Activate eNgagement in Science)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 M-PLANS is a multi-week professional-learning programme and toolkit developed by Harris et al. to help middle-school science teachers provide motivationally supportive NGSS-based instruction.
@@ -24,8 +24,13 @@ M-PLANS is a multi-week professional-learning programme and toolkit developed by
 
 ### Claims
 
+- [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](../claims/m-plans-enactment-variation-and-implementation-barriers.md) [+W]
+- [Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning](../claims/m-plans-teacher-knowledge-uptake-gains.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [M-PLANS reference toolkit and classroom-based quick tools](m-plans-reference-toolkit-and-classroom-based-quick-tools.md)
+- [STeLLA®](stella.md)
 
 ## Key Sources
 - Harris, C.J., Schmidt, J.A., Linnenbrink-Garcia, L., Marchand, G.C., Cabrera, L., McKinney, D., & Liu, P. (2023). Equipping science teachers to support student motivation in NGSS classrooms: Insights from the Development of the M-PLANS program. San Francisco, CA: WestEd. https://m-plans.org/

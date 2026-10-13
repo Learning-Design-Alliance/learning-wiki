@@ -43,7 +43,9 @@ The report's findings support directing professional development resources towar
 - Professional Learning Theory Of Action Principals
 
 ## Related Strategies
-- 
+
+- [Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers](support-authentic-principal-professional-learning.md)
+- [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 
 ## Examples
 -

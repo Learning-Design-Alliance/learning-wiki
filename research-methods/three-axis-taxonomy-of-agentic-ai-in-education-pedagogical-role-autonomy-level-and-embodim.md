@@ -24,7 +24,9 @@ The review proposes an organizing taxonomy for educational agentic AI built on t
 ### Claims
 
 ## Related Research Methods
--
+
+- [Two-axis taxonomy of RL-based adaptation in education: content-related versus guidance-related](two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela.md)
+- [AI×Ed framework: two axes (role of AI, end user) yielding four quadrants for categorizing AI-in-education research](aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in.md)
 
 ## Key Sources
 - Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). Agentic AI in Education: State of the Art and Future Directions. IEEE Access. https://doi.org/10.1109/ACCESS.2025.3620473

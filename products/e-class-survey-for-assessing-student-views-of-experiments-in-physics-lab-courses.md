@@ -18,7 +18,7 @@ sources:
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
@@ -28,8 +28,11 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 
 ### Claims
 
+- [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](../claims/eclass-low-response-rates-half-of-classes.md) [-W]
+
 ## Related Products and Programmes
--
+
+- [Colorado Learning Attitudes about Science Survey](colorado-learning-attitudes-about-science-survey.md)
 
 ## Key Sources
 - Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760

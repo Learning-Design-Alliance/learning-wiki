@@ -28,7 +28,8 @@ DrawEduMath is a benchmark dataset created by Li Lucy et al. that pairs authenti
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](../claims/binary-correctness-judgments-near-chance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MUSE: a 12-task benchmark of artistic image understanding for situated education](muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education.md)
 
 ## Key Sources
 - Li Lucy, Albert Zhang, Nathan Anderson, Ryan Knight, Kyle Lo. (2026). The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors. https://arxiv.org/abs/2603.00925

@@ -13,7 +13,7 @@ generated:
 # Pulla
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Pulla is a web-based programming assessment and learning-analytics tool made by Daniel Prol et al. that extends CodeCheck with behavioral tracing, instructor dashboards, and on-demand AI analysis for Parsons problems.
@@ -22,7 +22,9 @@ Pulla is a web-based programming assessment and learning-analytics tool made by 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering](../claims/pulla-deployment-surfaced-recurring-difficulty-patterns.md) [+M]
+- [State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks](../claims/state-revisits-rare-in-pulla-deployments.md) [+W]
 
 ## Related Products and Programmes
 -

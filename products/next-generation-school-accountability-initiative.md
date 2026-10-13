@@ -29,7 +29,9 @@ Utah's state school-accountability framework, administered by the Utah State Boa
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](../claims/composite-indicators-poor-conceptual-alignment-deeper-learning.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Educational Quality and Improvement Profile (EQuIP)](educational-quality-and-improvement-profile-equip.md)
+- [Nebraska's AQuESTT Dual State Accountability System](nebraskas-aquestt-dual-state-accountability-system.md)
 
 ## Key Sources
 - Mitch Herz, Mel Wylen. (2025). Refining Statewide School Accountability Systems: Lessons From Innovative State Approaches Under ESSA. White paper.

@@ -26,7 +26,8 @@ The article presents a refined bottom-up coding scheme of students' LLM use, der
 - [Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores](../claims/usage-type-case-trajectories-s61-s2.md) [+W]
 
 ## Related Research Methods
--
+
+- [Three-role taxonomy of GenAI operationalization in grading workflows](three-role-taxonomy-of-genai-operationalization-in-grading-workflows.md)
 
 ## Key Sources
 - Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534

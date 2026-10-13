@@ -31,7 +31,8 @@ SMDEP is a free six-week residential science-enrichment programme run at 12 nati
 - [The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching](../claims/smdep-impact-evaluation-psm-design.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Information Studies Research Accelerator (ISRA)](information-studies-research-accelerator-isra.md)
 
 ## Key Sources
 - Clemencia Cosentino, Cecilia Speroni, Margaret Sullivan, Raúl Torres. (2015). Impact Evaluation of the RWJF Summer Medical and Dental Education Program (SMDEP). Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/impact-evaluation-of-the-rwjf-summer-medical-and-dental-education-program-smdep

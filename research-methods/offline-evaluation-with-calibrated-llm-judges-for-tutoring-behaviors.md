@@ -28,7 +28,8 @@ The team maintains targeted offline datasets sampled from production completions
 - [Higher AI pedagogical scores are associated with exercise conversion in real student sessions](../claims/pedagogical-score-predicts-exercise-conversion.md) [+M]
 
 ## Related Research Methods
--
+
+- [Multi-turn synthetic-dialogue evaluation protocol for AI tutors](multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors.md)
 
 ## Key Sources
 - Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home

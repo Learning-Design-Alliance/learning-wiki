@@ -17,7 +17,7 @@ sources:
 # Narratives from five exemplary communities illustrating systems change components in practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief includes practice narratives from "five exemplary communities that have embarked on systems change efforts," used to show "how these components play out in practice." These narratives serve as illustrative cases accompanying the literature review for funders and practitioners in education systems change.
@@ -36,8 +36,13 @@ The brief includes practice narratives from "five exemplary communities that hav
 ### Target Learning Goals
 - Understanding how systems change components operate in real community settings
 
+## Claims
+
+- [Research identifies critical components of successful place-based systems change in education](../claims/critical-components-successful-place-based-systems-change-education.md) [+W]
+
 ## Related Elements
-- 
+
+- [Case study of one public school district's successful ELL family outreach efforts](district-ell-outreach-case-study.md)
 
 ## Examples
 -

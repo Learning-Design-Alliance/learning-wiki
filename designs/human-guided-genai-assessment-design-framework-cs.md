@@ -17,7 +17,7 @@ sources:
 # Human-guided design framework for GenAI-enabled assessment in computer science education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper advances a pedagogically grounded framework in which GenAI assessment integration is governed by deliberate human design rather than technological capability alone. It states that "the successful integration of GenAI depends not solely on technological capability but on deliberate, human-guided design that upholds transparency, fairness, and educational purpose." The framework positions educators as guides who balance GenAI's automation and personalization affordances against integrity, bias, and transparency risks in computer science education.
@@ -37,7 +37,8 @@ The paper advances a pedagogically grounded framework in which GenAI assessment 
 - authentic and fair assessment of computing learning outcomes
 
 ### Claims
-- 
+
+- [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](../claims/genai-equitable-access-governance-theme.md) [+W]
 
 ## Related Designs
 - 

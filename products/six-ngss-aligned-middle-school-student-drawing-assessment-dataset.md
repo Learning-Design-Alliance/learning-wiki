@@ -13,7 +13,7 @@ generated:
 # Six NGSS-aligned middle school student drawing assessment dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A dataset of middle school students’ scientific drawings from six NGSS-aligned modeling assessment items, annotated by domain experts across three proficiency levels and released with example drawings.
@@ -22,6 +22,8 @@ A dataset of middle school students’ scientific drawings from six NGSS-aligned
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](../claims/ca-selective-best-average-agreement-drawings.md) [+W]
 
 ## Related Products and Programmes
 -

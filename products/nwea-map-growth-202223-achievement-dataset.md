@@ -33,7 +33,8 @@ A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 mi
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](../claims/rebounding-across-all-school-poverty-levels.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [MAP Growth grades 1–2 achievement dataset (spring 2019 and spring 2022 samples)](map-growth-grades-12-achievement-dataset-spring-2019-and-spring-2022-samples.md)
 
 ## Key Sources
 - Karyn Lewis, Megan Kuhfeld. (2023). Education's long COVID: 2022–23 achievement data reveal stalled progress toward pandemic recovery. NWEA Research brief. https://www.nwea.org/research/publication/educations-long-covid-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery/

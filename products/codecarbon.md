@@ -24,7 +24,8 @@ CodeCarbon is an open-source Python package developed by Mila and collaborators 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [TerraFlops](terraflops.md)
 
 ## Key Sources
 - Eimler, S.C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., Yapici, B. (2026). The Environmental Cost of LLMs in AIED: Reporting and Practices. https://arxiv.org/abs/2606.11215

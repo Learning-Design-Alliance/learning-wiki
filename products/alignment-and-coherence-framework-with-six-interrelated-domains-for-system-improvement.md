@@ -13,7 +13,7 @@ generated:
 # Alignment and coherence framework with six interrelated domains for system improvement
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Walrond et al. framework for helping child-, youth-, and family-serving systems coordinate goals, funding and policies, communication, stakeholder engagement, capacity building, and data use through continuous improvement.
@@ -22,6 +22,8 @@ A Walrond et al. framework for helping child-, youth-, and family-serving system
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](../claims/whole-person-initiatives-fragmented-siloes-fail.md) [+W]
 
 ## Related Products and Programmes
 -

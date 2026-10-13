@@ -43,5 +43,7 @@ Multi-site randomized controlled study in 71 kindergarten classrooms across 21 s
 
 
 ## Related Claims
+
 - [The evidence base for ARC Core's kindergarten efficacy is one randomized controlled trial covering 792 students, with an average effect size of +0.14 and a strong evidence rating.](arc-core-evidence-base-one-rct-792-students.md) — related
 - [In the same randomized controlled trial, kindergarten students in ARC Core classrooms scored significantly higher on WMRT Passage Comprehension than control students (ES = +0.16).](arc-core-passage-comprehension-es-016.md) — related
+- [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md)

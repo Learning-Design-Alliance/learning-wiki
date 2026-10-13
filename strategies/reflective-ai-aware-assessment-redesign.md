@@ -46,6 +46,7 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 - [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 - [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 - [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
+- [Use LLM-generated design problems in supervised, time-bound exam-like settings to assess individual higher-order thinking where AI use or teamwork obscures mastery](deploy-dps-in-supervised-exam-settings.md)
 
 ## Examples
 -

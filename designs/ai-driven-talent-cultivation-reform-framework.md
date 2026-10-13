@@ -42,7 +42,8 @@ The article proposes a comprehensive reform framework for computer-related major
 - 
 
 ## Related Designs
-- 
+
+- [AI-enhanced course set spanning compulsory, elective, and practice categories](ai-enhanced-course-set-computer-majors.md)
 
 ## Examples
 -

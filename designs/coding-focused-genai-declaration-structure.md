@@ -41,7 +41,8 @@ A parallel declaration structure for coding assessments reflecting typical phase
 - 
 
 ## Related Designs
-- 
+
+- [Writing-focused GenAI declaration structure with six activity categories](writing-focused-genai-declaration-structure.md)
 
 ## Examples
 -

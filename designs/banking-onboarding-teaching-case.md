@@ -17,7 +17,7 @@ sources:
 # Banking customer-onboarding teaching case with AI-constrained fraud-screening agent
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A fictitious retail-bank customer onboarding process (registration, fraud assessment, approval) facing a scalability crisis, deliberately rich in regulatory constraints, knowledge-intensive work, and heterogeneous data sources. Document B proposes AI agents, prioritizing email-based registration extraction and RAG-based fraud screening; the fraud-screening agent is "deliberately constrained by a known class-imbalance problem (the data science team reports high recall but imperfect precision)". Case materials, module instructions, and datasets are openly available in a GitHub repository.
@@ -38,10 +38,13 @@ A fictitious retail-bank customer onboarding process (registration, fraud assess
 - governance concerns such as human-in-the-loop routing and fallback handling
 
 ### Claims
-- 
+
+- [At the implementation checkpoint, several groups added an explicit human-approval step after encountering local-LLM structured-output reliability limitations](../claims/cp5-human-approval-step-added.md) [+W]
+- [Checkpoint artifacts prompted Master-level student groups to revise initial AI overestimates after baseline simulation evidence accumulated](../claims/cp4-evidence-driven-ai-revision.md) [+W]
 
 ## Related Designs
-- 
+
+- [Evolving-artifact course organization: each module's output becomes the next module's input](evolving-artifact-module-chain.md)
 
 ## Examples
 -

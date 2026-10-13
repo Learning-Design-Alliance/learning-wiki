@@ -24,7 +24,8 @@ A corpus of 75 papers published from 2022–2025 on perceptions of generative AI
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md)
 
 ## Key Sources
 - Nguyen, T. A., & Perkins, M. (2026). Perceptions Of Generative AI in the Global South: A Scoping Review. Journal of University Teaching and Learning Practice. https://doi.org/10.53761/f22j6648

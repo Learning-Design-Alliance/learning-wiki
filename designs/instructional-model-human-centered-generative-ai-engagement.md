@@ -43,7 +43,9 @@ A constructionist pedagogical framework that structures student engagement with 
 - 
 
 ## Related Designs
-- 
+
+- [A design-oriented pedagogical framework for integrating LLMs to scaffold critical thinking in higher education](llm-critical-thinking-pedagogical-framework.md)
+- [Prompt Literacy Cycle: a five-stage recursive structure for daily prompting practice](prompt-literacy-cycle.md)
 
 ## Examples
 -

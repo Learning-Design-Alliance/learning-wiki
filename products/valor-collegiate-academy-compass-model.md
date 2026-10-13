@@ -25,7 +25,9 @@ Valor Collegiate Academy's whole-school SEL and mental-health programme uses fiv
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md)
+- [Compass Care](compass-care.md)
 
 ## Key Sources
 - National Charter School Resource Center, Browning, A., & Larbi-Cherif, A. (2022). Creating Communities of Care: How Charter Schools can Develop Systems that Support Student Mental Health. Manhattan Strategy Group.

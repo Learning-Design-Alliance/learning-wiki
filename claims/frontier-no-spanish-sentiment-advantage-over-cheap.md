@@ -43,5 +43,7 @@ Descriptive paired comparison of prompted LLM arms on the 233-comment Spanish he
 
 
 ## Related Claims
+
 - [Sentiment classification transfers to English under the unchanged protocol, with a frozen multilingual encoder the strongest arm at wF1 0.73 and LLMs matching it only with few-shot prompting](english-sentiment-transfer-encoder-strongest.md) — related
 - [The frozen BETO-2019 design and the modern e5-base encoder are numerically close on Spanish, with no descriptive separation on either task](frozen-beto-and-e5-no-descriptive-separation.md) — related
+- [The small open-weights Qwen2.5-1.5B model is the weakest arm in both languages, with Spanish thematic weighted F1 of 0.31 zero-shot rising to 0.63 with few-shot](qwen-15b-weakest-arm-fewshot-recovers.md)

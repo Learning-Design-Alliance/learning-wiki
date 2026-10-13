@@ -37,7 +37,8 @@ The brief concludes with "a case study of one public school district’s success
 - Increased parental involvement of ELL families
 
 ## Related Elements
-- 
+
+- [Narratives from five exemplary communities illustrating systems change components in practice](five-exemplary-community-systems-change-narratives.md)
 
 ## Examples
 

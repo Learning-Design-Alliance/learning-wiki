@@ -43,6 +43,9 @@ Authors' preliminary observation from the proof-of-concept setup (Section 5.2). 
 
 
 ## Related Claims
+
 - [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — a broader claim this one bears on
 - [Fine-tuning and running CLST is feasible on a single workstation GPU, with measured training cost of about 6.8 hours and 19 GB peak memory on Algebra05](clst-finetuning-compute-cost.md) — related
 - [Higher-bit quantisation (8-bit) better preserves structural coherence and semantic alignment in a Pidgin-fine-tuned LLM, achieving the highest ROUGE-L (0.3120) and BERTScore (0.8590) among the quantised models](higher-bit-quantisation-preserves-semantic-structure-pidgin-llm.md) — related
+- [Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence](curse-of-prior-knowledge-size-tradeoff.md)
+- [An SLM executor under tight constraints can drive a Cognitive Agent through formatted outputs and logit-based action selection, yielding partial rather than full explainability](slm-executor-partial-explicit-control.md)

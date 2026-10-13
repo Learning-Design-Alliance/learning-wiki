@@ -13,7 +13,7 @@ generated:
 # OASIS-based AI Anxiety Scale (5-item, Chinese-adapted)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A five-item Chinese-adapted self-report scale developed by Duan et al. to assess college students' anxiety symptoms triggered by artificial intelligence, including frequency, severity, avoidance, and functional impairment.
@@ -23,8 +23,12 @@ A five-item Chinese-adapted self-report scale developed by Duan et al. to assess
 
 ### Claims
 
+- [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](../claims/ai-anxiety-negative-correlations-career-variables.md) [+W]
+- [AI anxiety directly and negatively predicts college students' career decisions](../claims/ai-anxiety-negatively-predicts-career-decisions.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 
 ## Key Sources
 - Duan, N., Li, L., Lin, G. & Chen, H. (2026). The impact of AI anxiety on career decisions of college students. Scientific Reports. https://doi.org/10.1038/s41598-026-37648-y

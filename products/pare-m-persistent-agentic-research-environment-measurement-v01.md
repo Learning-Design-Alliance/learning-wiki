@@ -13,7 +13,7 @@ generated:
 # PARE-M (Persistent Agentic Research Environment Measurement) v0.1
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A measurement framework introduced by Anas H. Alzahrani et al. for reporting utilization, output, resource, reproducibility, and governance metrics of persistent agentic research environments.
@@ -23,10 +23,12 @@ A measurement framework introduced by Anas H. Alzahrani et al. for reporting uti
 - **PARE-M v0.1: a measurement framework for persistent agentic research environments**: PARE-M (Persistent Agentic Research Environment Measurement) v0.1 is a descriptive measurement framework the article introduces for evaluating persistent agentic research environments. It "separates utilization, output, resource, reproducibility, and governance domains and requires that each reported metric include a numerator, denominator, time window, and computation rule." Its named metrics include active-day fraction, de-duplicated record count, capped-gap active-time estimate, cache-dominance ratio, output-proxy rate, governance-event rate, and artifact-surface breadth. The article uses it to organize all reported outcomes of the 115-day case. (Anas H. Alzahrani et al. (2026))
 
 ### Claims
+
 - [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](../claims/persistent-agent-96-active-days-75671-records.md) [+W]
 - [The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations](../claims/output-proxy-482-events-breadth-10-surfaces.md) [+W]
 - [The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment](../claims/governance-889-events-ger-9-26.md) [+W]
 - [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](../claims/cache-dominant-82-9-percent-tokens.md) [+W]
+- [Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution](../claims/capacity-expansion-not-labor-substitution.md) [~W]
 
 ## Related Products and Programmes
 -

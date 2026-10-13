@@ -84,6 +84,7 @@ Mindfulness activities are best treated as readiness supports rather than as cor
 - **Reflective attention prompt**: Learners note their current focus level and what they need to engage productively.
 - [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](../strategies/integrate-mindfulness-schoolwide-daily-routines.md)
 - [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](../strategies/mindful-moment-class-opening-strategy.md)
+- [Use metacognitive activities and process evidence to help students monitor the purpose of their AI use](../strategies/metacognitive-ai-use-monitoring-strategies.md)
 
 ## Key Sources
 - Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General, 143*(5), 1972-1979. [https://doi.org/10.1037/a0036882](https://doi.org/10.1037/a0036882)

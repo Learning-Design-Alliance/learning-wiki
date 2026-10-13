@@ -42,7 +42,8 @@ In rural settings with severe workforce shortages, YMHC members are assigned acr
 - Flexible Framework Local Adaptation Ymhc [+M]
 
 ## Related Designs
-- 
+
+- [YMHC member training and support framework (preservice training, site integration, ongoing development, career coaching, credentialing)](ymhc-member-training-support-framework.md)
 
 ## Examples
 -

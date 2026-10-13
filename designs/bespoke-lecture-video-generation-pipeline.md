@@ -45,7 +45,8 @@ Bespoke is a directed acyclic pipeline that takes a seed lecture transcript, a l
 - [Bespoke 87 Percent Mooc Comparable Quality](../claims/bespoke-87-percent-mooc-comparable-quality.md) [+M]
 
 ## Related Designs
-- 
+
+- [Human-supervised AI video production pipeline for personalized instructional videos](ai-personalized-video-production-pipeline.md)
 
 ## Examples
 -

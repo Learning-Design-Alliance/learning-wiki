@@ -43,6 +43,7 @@ Survey finding from the 120-respondent instrument: about half of faculty disagre
 
 
 ## Related Claims
+
 - [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](ccl-resources-concentrated-in-strong-cte-schools.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — possibly the same claim (merge candidate)
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
@@ -53,3 +54,4 @@ Survey finding from the 120-respondent instrument: about half of faculty disagre
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
+- [Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it](ai-companion-literacy-shared-stakeholder-responsibility.md)

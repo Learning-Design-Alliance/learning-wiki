@@ -18,7 +18,7 @@ sources:
 # TSDL
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A state education agency’s linked administrative data system connecting teachers to students by course for policy implementation, educator-preparation evaluation, and analysis of student growth.
@@ -29,8 +29,12 @@ A state education agency’s linked administrative data system connecting teache
 
 ### Claims
 
+- [The TSDL project's first year of implementation (2011) produced reportable implementation findings](../claims/tsdl-first-year-implementation-findings-2011.md) [+W]
+- [The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities](../claims/tsdl-three-lasting-accomplishments.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Teacher-Student Data Link](teacher-student-data-link.md)
 
 ## Key Sources
 - Data Quality Campaign. (2017). Using Data to Ensure That Teachers Are Learner Ready on Day One. https://www.dataqualitycampaign.org

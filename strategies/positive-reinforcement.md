@@ -58,9 +58,11 @@ Reinforcement reliably increases the frequency of the specific behavior it follo
 5. Fade: shift to intermittent reinforcement, then to self-monitoring and intrinsic rationales, to prevent dependence on external consequences.
 
 ## Related Strategies
+
 - **Negative Reinforcement** — the complementary mechanism (removing an aversive condition); often confused with punishment but distinct
 - **Shaping** — reinforcing successive approximations toward a complex behavior
 - **Descriptive Praise** — the social-reinforcer variant with the strongest evidence base in classrooms
+- [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — streaks, XP, and immediate "correct!" feedback reinforce daily practice; the streak mechanic is a variable-interval reinforcement schedule for engagement.

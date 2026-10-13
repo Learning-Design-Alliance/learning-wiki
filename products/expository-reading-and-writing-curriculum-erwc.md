@@ -26,7 +26,8 @@ A California State University-developed college-preparatory English language art
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Expository Reading and Writing Course (ERWC)](expository-reading-and-writing-course-erwc.md)
 
 ## Key Sources
 - Anthony B. Fong, Neal D. Finkelstein, Laura M. Jaeger, Rebeca Diaz, Marie E. Broek. (2015). Evaluation of the Expository Reading and Writing Course: Findings from the Investing in Innovation Development Grant. WestEd. http://www.WestEd.org

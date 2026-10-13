@@ -39,7 +39,9 @@ The authors recommend that prompt-based programming blend foundational CS0 conce
 - articulating intentions for AI code generation
 
 ## Related Strategies
-- 
+
+- [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
+- [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](ai-as-guided-support-tool-build-verification.md)
 
 ## Examples
 -

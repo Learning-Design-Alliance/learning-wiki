@@ -24,7 +24,10 @@ Illinois's need-based higher-education grant programme, administered by the Illi
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [EdTrust's ten-metric framework for student-centered state financial aid](edtrusts-ten-metric-framework-for-student-centered-state-financial-aid.md)
+- [Minnesota North Star Promise Scholarship, NSP+, and Minnesota State Grant](minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant.md)
+- [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md)
 
 ## Key Sources
 - Victoria Jackson. (2025). An Overview of State Financial Aid in Illinois, Indiana, and Minnesota. EdTrust. https://edtrust.org

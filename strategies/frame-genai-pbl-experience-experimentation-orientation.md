@@ -39,7 +39,8 @@ The authors recommend supporting history-taking from genAI-enabled virtual patie
 - recognizing and adapting to AI limitations
 
 ## Related Strategies
-- 
+
+- [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
 
 ## Examples
 -

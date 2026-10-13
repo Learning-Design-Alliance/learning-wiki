@@ -47,6 +47,7 @@ The authors recommend designing learning environments that make evaluation an ex
 - [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 - [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
+- [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 
 ## Examples
 -

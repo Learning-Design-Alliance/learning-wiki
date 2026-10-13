@@ -46,6 +46,8 @@ The brief recommends that state leadership "clarify the state's short- and long-
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
 - [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
 - [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
+- [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
+- [State agencies can strengthen leadership initiatives through sustained endorsement, cross-agency communication, and amplification](state-agency-support-for-leadership-initiatives.md)
 
 ## Examples
 -

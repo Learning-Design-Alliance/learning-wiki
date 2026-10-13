@@ -39,7 +39,8 @@ The article organizes homeschooling research by placing it alongside the researc
 - 
 
 ## Related Theories
-- 
+
+- [Market-competition theory of voucher systemic effects, modified by financial hold-harmless design](voucher-market-competition-systemic-effects-theory.md)
 
 ## Examples
 -

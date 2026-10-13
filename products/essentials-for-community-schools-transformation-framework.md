@@ -25,7 +25,8 @@ A Community Schools Forward framework that guides K–12 community-school transf
 - [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](../claims/community-schools-implementation-strength-related-to-outcomes.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Essentials for Community School Transformation Framework](essentials-for-community-school-transformation-framework.md)
 
 ## Key Sources
 - Germain, E., Maier, A., Espinoza, D., & Oakes, J. (2025). Community schools certification: An approach for implementation. Learning Policy Institute. https://doi.org/10.54300/220.412

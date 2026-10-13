@@ -39,6 +39,8 @@ RSF schools devoted many months to hiring, and two schools modeled strategic hir
 ## Related Strategies
 
 - [Standardize the hiring process with structured interviews, competency-aligned protocols, and performance-based tasks](standardized-structured-hiring-process-strategy.md)
+- [Embed professional development in daily school work through multiple mutually reinforcing conduits focused on a limited set of school-wide goals](embed-pd-in-daily-work-focused-goals.md)
+- [Fund and guide Grow Your Own programs to attract candidates of color into teaching](grow-your-own-programs-diversify-teacher-pipeline.md)
 
 ## Examples
 -

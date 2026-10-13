@@ -43,6 +43,8 @@ One-sided Spearman correlation with bootstrap confidence intervals from the same
 
 
 ## Related Claims
+
 - [Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education](average-llm-use-negative-correlation-final-grades.md) — a broader claim this one bears on
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md) — related
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md) — related
+- [A downward trend in final grades is observed with increased average LLM use across all task types](downward-grade-trend-increased-average-llm-use.md)

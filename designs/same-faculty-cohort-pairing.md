@@ -40,7 +40,8 @@ All six implementing institutions delivered the paired courses as a cohort, with
 - 
 
 ## Related Designs
-- 
+
+- [CMP active, collaborative pedagogy with productive struggle and productive persistence in the corequisite pairs](cmp-active-collaborative-productive-struggle-pedagogy.md)
 
 ## Examples
 -

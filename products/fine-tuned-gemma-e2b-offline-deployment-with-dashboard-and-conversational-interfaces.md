@@ -13,7 +13,7 @@ generated:
 # Fine-tuned Gemma E2B offline deployment with dashboard and conversational interfaces
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Chenguang Pan et al.'s offline educational-intervention-effect explanation system, combining a LoRA-adapted Gemma E2B model with dashboard and conversational interfaces for parents, students, counselors, and other stakeholders.
@@ -22,6 +22,9 @@ Chenguang Pan et al.'s offline educational-intervention-effect explanation syste
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](../claims/lora-rank-sensitivity-architecture-dependent.md) [~W]
+- [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](../claims/llama-prediction-range-compression.md) [+W]
 
 ## Related Products and Programmes
 -

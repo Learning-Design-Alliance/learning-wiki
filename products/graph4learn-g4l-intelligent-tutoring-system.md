@@ -26,7 +26,8 @@ A Python-based intelligent tutoring web application developed by Csépányi-Für
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](../claims/learners-disregard-g4l-recommendations.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [SCRIPT (Step-based Coding for Research and Intelligent Programming Tutoring)](script-step-based-coding-for-research-and-intelligent-programming-tutoring.md)
 
 ## Key Sources
 - Csépányi-Fürjes, L., & Kovács, L. (2026). Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10639-6

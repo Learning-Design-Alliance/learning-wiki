@@ -17,7 +17,7 @@ sources:
 # A predictable set of educator teams — freshman success, instructional leadership, postsecondary leadership, senior leadership, and care — drives improvement in NCS partner high schools
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper describes the teaming structures used to drive improvement in NCS partner high schools, where visiting educators would likely find a predictable set of teams. Table A lays out five common teams with their members, responsibilities, and data: a Freshman Success Team monitoring the transition into high school using GPA, grades, attendance, behavior, and eighth-grade early warning data; an Instructional Leadership Team working on instructional coherence; a Postsecondary Leadership Team supporting college search, application, and enrollment; a Senior Leadership Team setting vision and monitoring high-level data; and a Care Team of specialists intervening with socially vulnerable students. A common collaboration rhythm is a bi-weekly meeting of roughly 45-60 minutes in which teams analyze data, set intervention strategies, and progress monitor. The paper argues distributed leadership and teaming structures are crucial for driving teacher collaboration at scale in large, complex high schools.
@@ -40,10 +40,13 @@ The paper describes the teaming structures used to drive improvement in NCS part
 - organizing school-wide improvement efforts around shared data
 
 ### Claims
-- 
+
+- [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](../claims/chsri-four-improvement-practices.md) [+W]
 
 ## Related Designs
+
 - Four Stages Data Strategy Understand Collect Transform Socialize
+- [Four-stage data strategy cycle — understand, collect, transform, socialize — carried by a data strategist working with a team leader](four-stages-data-strategy-understand-collect-transform-socialize.md)
 
 ## Examples
 -

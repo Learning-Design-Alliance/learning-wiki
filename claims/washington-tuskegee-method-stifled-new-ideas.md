@@ -43,7 +43,9 @@ Authors' interpretive conclusion: the article states Washington's "insistence on
 
 
 ## Related Claims
+
 - [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](washington-anticipated-project-method.md) — related
 - [Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education](washington-pestalozzi-froebel-correlation.md) — related
 - [Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement](washington-reform-oriented-progressivist.md) — reports the opposite
 - [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related
+- [Washington and Dewey differed on honoring student desires, with Washington arguing for their suppression](washington-suppression-of-student-desires.md)

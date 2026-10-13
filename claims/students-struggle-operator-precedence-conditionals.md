@@ -43,4 +43,6 @@ Response-pattern analysis of Item 13 (Conditionals-FKSA1) in the main study, whi
 
 
 ## Related Claims
+
 - [Exception-type confusion was the dominant difficulty pattern in SafeDivide at the University of Houston (90% of incorrect attempts) and persisted across harder problems in both deployments](exception-type-confusion-dominant-pattern.md) — related
+- [Students have difficulty distinguishing between for loops and while loops](students-struggle-for-while-loop-distinction.md)

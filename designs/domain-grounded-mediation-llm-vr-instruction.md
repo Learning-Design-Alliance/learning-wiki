@@ -17,7 +17,7 @@ sources:
 # Domain-grounded mediation framework for LLM-assisted VR instruction
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames LLM-assisted VR instruction as a mediation process connecting three layers: expert expression, executable operations, and learner-facing representations. The authors state that their findings characterize LLM-assisted VR instruction as a "domain-grounded mediation process among expert expression, executable operations, and learner-facing representations." In this framework, an instructor's high-level pedagogical intent must be translated into concrete scene manipulations while simultaneously being made understandable to learners. Technical executability alone is insufficient because generated actions must remain inspectable and controllable by the instructor.
@@ -42,10 +42,13 @@ The article frames LLM-assisted VR instruction as a mediation process connecting
 - Acquiring domain-specific terminology
 
 ### Claims
-- 
+
+- [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](../claims/llm-assistance-shifts-effort-toward-pedagogical-expression.md) [+W]
+- [Representation-alignment tension between expert externalization and novice comprehension](../claims/representation-alignment-tension-expert-novice.md) [~W]
 
 ## Related Designs
-- 
+
+- [Three pedagogical expression strategies for VR lighting instruction](three-pedagogical-expression-strategies-vr-lighting.md)
 
 ## Examples
 -

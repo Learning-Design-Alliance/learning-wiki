@@ -18,7 +18,7 @@ sources:
 # STORY MINE
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 STORY MINE is a digital recovery-narrative module in the Minddistrict client portal that provides curated hopeful recovery stories as video podcasts with written summaries and audio narration.
@@ -28,6 +28,13 @@ STORY MINE is a digital recovery-narrative module in the Minddistrict client por
 - **STORY MINE digital recovery narrative intervention**: STORY MINE is a transdiagnostic eHealth module within the Minddistrict client portal offering 12 purposively collected hopeful recovery narratives as video podcasts with written summaries and audio narrations. Narratives were curated for "a diversity of narrators and experiences, authenticity, hopeful content, and a recovery phase between intermediate and full recovery." Service users follow a four-step process of selecting, engaging, evaluating, and returning to the overview, deciding themselves when and how many narratives to consume. (Lases Mitch N et al. (2026))
 
 ### Claims
+
+- [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](../claims/story-mine-feasible-acceptable-pilot.md) [+W]
+- [Intervention engagement (narratives consumed) showed no clear association with outcome changes](../claims/story-mine-engagement-outcome-null-association.md) [~W]
+- [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](../claims/story-mine-low-engagement-unguided.md) [-W]
+- [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](../claims/story-mine-qualitative-mixed-experiences.md) [+W]
+- [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](../claims/story-mine-sensitivity-crisis-exclusion.md) [~W]
+- [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](../claims/story-mine-negative-exploratory-effects.md) [-W]
 
 ## Related Products and Programmes
 -

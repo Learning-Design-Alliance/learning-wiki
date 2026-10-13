@@ -24,7 +24,10 @@ A teacher-developed, AI-powered, storytelling-based gamified mathematics learnin
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GAIDE: A Guiding Framework for AI-Integrated Design for Educators](gaide-a-guiding-framework-for-ai-integrated-design-for-educators.md)
+- [Open-source modular AI math tutoring platform](open-source-modular-ai-math-tutoring-platform.md)
+- [Waterproof](waterproof.md)
 
 ## Key Sources
 - Song, Y., Choi, S., Kim, J., Kim, Y., Weisberg, L., & Moon, J. (2026). A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding. https://x.com/karpathy/status/1886192184808149383

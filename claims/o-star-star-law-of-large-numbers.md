@@ -43,6 +43,8 @@ Qualitative coding of die-task responses. The article reports o** thinkers 'expr
 
 
 ## Related Claims
+
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related
 - [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](outcome-oriented-causal-conception.md) — related
+- [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](egyptian-curriculum-quasi-pedagogical-dominance.md)

@@ -29,7 +29,8 @@ A Matlab toolbox for specifying Bayesian networks with logistic regression nodes
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [bcause](bcause.md)
 
 ## Key Sources
 - Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html

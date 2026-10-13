@@ -543,6 +543,13 @@ def verify(results: list, model: str, concurrency: int, out: Path) -> list:
                 kept[v["page"]].append({k: v[k] for k in ("target", "relation", "marker")})
     print(f"verified {len(todo)} proposed evidence links: kept {sum(len(v) for v in kept.values())}, "
           f"cost ${cost:.4f}; decisions -> {out}")
+    # Links of the other relations are not the verifier's to judge: they pass through. They
+    # used to be dropped here, so a verified --unlinked run wrote only evidence links and left
+    # an isolated strategy, which carries no claims, as isolated as before.
+    for r in results:
+        for l in r.get("links") or []:
+            if l["relation"] != "evidence":
+                kept[r["page"]].append(l)
     return [{"page": p, "links": ls} for p, ls in kept.items()]
 
 
@@ -624,7 +631,11 @@ def main() -> None:
     rels = collections.Counter(l["relation"] for r in results for l in r.get("links") or [])
     print("proposed:", dict(rels) or "nothing")
     if args.verify:
-        vout = WIKI_ROOT / "eval" / "runs" / "page-links" / "verified.ndjson"
+        # One file per mode: two modes run at once used to share verified.ndjson, and each
+        # truncated the other's records (2026-10-13).
+        mode = ("orphan-claims" if args.orphan_claims else "claims-for" if args.claims_for else
+                "unlinked" if args.unlinked else "new" if args.new else "pages")
+        vout = WIKI_ROOT / "eval" / "runs" / "page-links" / f"{mode}-verified.ndjson"
         results = verify(results, args.verify_model, args.concurrency, vout)
     if args.apply:
         print("applied:", apply(results))

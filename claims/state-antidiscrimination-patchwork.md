@@ -43,5 +43,7 @@ The report's review of state law finds states vary widely in protections, with s
 
 
 ## Related Claims
+
 - [Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons](title-vi-limited-nondiscrimination-protection.md) — related
 - [The U.S. Supreme Court's 1973 Rodriguez decision held that the 14th Amendment neither explicitly nor implicitly guarantees a right to education](rodriguez-no-federal-right-to-education.md) — related
+- [State rights to education have produced substantial gains through funding litigation, but many are limited by unenforceability, variability, and neglect of equitable resource distribution](state-education-rights-limited.md)

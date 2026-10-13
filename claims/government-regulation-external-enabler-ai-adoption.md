@@ -43,5 +43,7 @@ SEM result from the 300-staff survey covering the environmental dimension of the
 
 
 ## Related Claims
+
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — related
+- [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md)

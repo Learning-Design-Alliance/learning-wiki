@@ -25,7 +25,8 @@ The review organizes RL-based educational applications by the kind of action the
 - [Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications](../claims/rl-education-content-adaptation-outnumbers-guidance.md) [+M]
 
 ## Related Research Methods
--
+
+- [Three-axis taxonomy of agentic AI in education: pedagogical role, autonomy level and embodiment](three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim.md)
 
 ## Key Sources
 - Anna Riedmann, Philipp Schaper, Birgit Lugrin. (2025). Reinforcement Learning in Education: A Systematic Literature Review. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-025-00494-6

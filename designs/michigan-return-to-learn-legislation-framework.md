@@ -40,7 +40,8 @@ Michigan's Return to Learn legislation (2020 PA 147, 148, 149) tasked the Michig
 - 
 
 ## Related Designs
-- 
+
+- [EPIC study of Michigan school district responses to the COVID-19 pandemic](epic-michigan-district-covid-response-study.md)
 
 ## Examples
 -

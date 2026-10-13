@@ -43,7 +43,9 @@ Numerical experiment applying text splicing (splitting a question on punctuation
 
 
 ## Related Claims
+
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](llms-robust-ood-bloom-classification.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets](model-retraining-largest-ood-improvement.md) — related
 - [AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data](ood-aeq-textual-characteristics-differ-iid.md) — related
+- [BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification](bert-mentalbert-resilient-sentence-shuffling.md)

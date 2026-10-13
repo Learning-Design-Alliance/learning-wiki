@@ -13,7 +13,7 @@ generated:
 # StanBKT
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 StanBKT is an open-source Python package made by Siddhartha Pradhan et al. for Bayesian estimation and posterior analysis of Bayesian Knowledge Tracing models in Stan.
@@ -22,6 +22,8 @@ StanBKT is an open-source Python package made by Siddhartha Pradhan et al. for B
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time](../claims/stanbkt-methods-comparable-predictive-performance-assistments-2020.md) [+W]
 
 ## Related Products and Programmes
 -

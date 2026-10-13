@@ -62,7 +62,10 @@ Authors' interpretation (type e) of the cache-dominance finding in the Resource 
 
 
 ## Related Claims
+
 - [Within May completions, cache-read tokens per completion were positively associated with output tokens per completion (Pearson r = 0.47 on log-transformed counts; Spearman rho = 0.70)](cache-read-output-positive-association.md) — related
 - [Human-written AGENTS.md context files improve agent performance by approximately 4 per cent, while LLM-generated context files decrease performance by 3 per cent and increase token cost by over 20 per cent, as the article reports citing recent research](agents-md-human-written-context-files-improve-agent-performance.md) — related
 - [The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment](governance-889-events-ger-9-26.md) — related
 - [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](persistent-agent-96-active-days-75671-records.md) — related
+- [Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models](cogevol-single-pass-latency-and-cost.md)
+- [Accuracy-cost value frontier: at $0.10 per million tokens, CDPK performance rose from 50% (April 2024) to 82% (June 2025)](cdpk-value-frontier-rapid-cost-performance-improvement.md)

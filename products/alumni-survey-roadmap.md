@@ -16,7 +16,7 @@ sources:
 # Alumni Survey Roadmap
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors’ nine-step framework guides organizations through co-designing, launching, interpreting, and acting on a first alumni survey.
@@ -26,6 +26,9 @@ The authors’ nine-step framework guides organizations through co-designing, la
 - **A nine-step technical roadmap for co-designing, launching, and acting on a first alumni survey**: The guide structures the whole survey effort as a nine-step technical roadmap moving from pre-design through action. Steps 1 to 3 cover assessing benefits, assessing readiness, and assembling a diverse design team; Steps 4 to 6 cover aligning on rationale and vision, selecting the audience and designing the instrument, and launching; Steps 7 to 9 cover interpreting results, forming actionable steps, and implementing and adjusting actions with feedback loops. The roadmap is based on the authors' multi-year pilots and expert interviews. (page:designs/nine-step-alumni-survey-roadmap)
 
 ### Claims
+
+- [Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.](../claims/codesign-culturally-responsive-alumni-surveys.md) [+W]
+- [Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps](../claims/co-designed-alumni-surveys-hunches-to-evidence.md) [+W]
 
 ## Related Products and Programmes
 -

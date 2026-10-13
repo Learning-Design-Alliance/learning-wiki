@@ -44,7 +44,8 @@ The second CRITICS component is a Teaching and Learning Sequence generator that 
 - 
 
 ## Related Designs
-- 
+
+- [CRITICS three-component ecosystem for cross-lingual scientific knowledge transfer](critics-three-component-ecosystem.md)
 
 ## Examples
 -

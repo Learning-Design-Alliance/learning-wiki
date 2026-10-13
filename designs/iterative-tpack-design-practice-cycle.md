@@ -42,6 +42,10 @@ A reusable instructional pattern in which design practice is completed through r
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](../claims/novice-idc-growth-simplification-linearity-dogmatism.md) [+M]
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](../claims/tpack-course-improves-preservice-preschool-idc.md) [+W]
 
+## Related Designs
+
+- [Iterative co-design development cycle with design-implement-revise cycles](m-plans-design-implement-revise-cycle.md)
+
 ## Related Patterns
 - 
 

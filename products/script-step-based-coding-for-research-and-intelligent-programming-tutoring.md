@@ -13,7 +13,7 @@ generated:
 # SCRIPT (Step-based Coding for Research and Intelligent Programming Tutoring)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 SCRIPT is a web-based intelligent tutoring system developed by Alina Deriyeva and colleagues for teaching Python programming while recording fine-grained learner data and supporting adaptable pedagogical and learner-model research.
@@ -24,8 +24,13 @@ SCRIPT is a web-based intelligent tutoring system developed by Alina Deriyeva an
 
 ### Claims
 
+- [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](../claims/compliance-effort-delayed-its-rollout.md) [+W]
+- [SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components](../claims/script-research-platform-data-collection.md) [+W]
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](../claims/self-hosted-llm-advantages-education.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md)
 
 ## Key Sources
 - Alina Deriyeva, Jesper Dannath, and Benjamin Paaßen. (2025). SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context. Artificial Intelligence in Education (Springer). https://doi.org/10.1007/978-3-031-99261-2_16

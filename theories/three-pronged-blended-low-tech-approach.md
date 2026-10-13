@@ -52,6 +52,8 @@ The pilot's organizing framework is a "three-pronged approach" combining (1) tra
 - [Kolibri: Learning Equality's open-source, offline-first platform used to facilitate blended learning](../products/kolibri.md)
 - [Eksploratoryòm: story-based, culturally relevant interactive STEM lessons in Haitian Creole integrating literacy and SEL](../products/eksploratoryom.md)
 - [Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited](../strategies/low-tech-analogies-foundational-ai-competencies.md)
+- [Haiti Blended Learning Pilot in 33 rural primary schools](../designs/haiti-blended-learning-pilot.md)
+- [Three-component pilot model combining infrastructure and technology, Creole digital content, and professional development with coaching](../designs/haiti-three-component-pilot-model.md)
 
 ## Key Sources
 - Digital Promise (2021). Introducing Blended Learning in Low-Tech Settings: Lessons from Haiti. https://digitalpromise.org/initiative/global-education/haiti

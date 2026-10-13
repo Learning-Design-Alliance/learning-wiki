@@ -37,7 +37,8 @@ The brief recommends three specific actions. First, "Maintain the Challenge and 
 - reasoning about equivalence while developing academic language
 
 ## Related Strategies
-- 
+
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Examples
 -

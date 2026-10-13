@@ -43,4 +43,7 @@ Mixed-method ranking study with 30 participants evaluating design ideas for Chal
 
 
 ## Related Claims
--
+
+- [After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.](claim-post-pairing-progress-and-data-informed-pairing.md)
+- [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md)
+- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md)

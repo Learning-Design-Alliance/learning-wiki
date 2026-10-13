@@ -27,7 +27,8 @@ Two publicly released synthetic benchmark datasets created by Schroeder et al. f
 - [OSS 120b performed best across both NGSS-aligned secondary science benchmarks, with most tested open-weight models scoring above 90%](../claims/oss-120b-best-on-ngss-secondary-science-benchmark.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Schroeder, N. L., Ambarwati, Y. E., Zhang, Y., & Zhai, C. (2026). A Benchmark for LLM's Understanding of Middle School and High School Science. https://github.com/InviteInstitute/MS-NGSS-Aligned-Benchmark

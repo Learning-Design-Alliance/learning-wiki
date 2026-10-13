@@ -46,7 +46,8 @@ The article organizes its comparative analysis of curriculum materials around th
 - 
 
 ## Examples
--
+
+- [When evaluating curriculum materials, consider additional influential factors beyond curricular design features](../strategies/consider-additional-factors-beyond-curriculum-design.md)
 
 ## Key Sources
 - Janine T. Remillard, Barbara Harris, Roberto Agodini. (2014). The Influence of Curriculum Material Design on Opportunities for Student Learning. ZDM, The International Journal of Mathematics Education. https://www.mathematica.org/publications/the-influence-of-curriculum-material-design-on-opportunities-for-student-learning

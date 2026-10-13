@@ -37,7 +37,11 @@ The article argues that deploying adaptive AI systems with children and emotiona
 - safe participation in robot-supported mental health interventions
 
 ## Related Strategies
-- 
+
+- [Five classroom use cases deploying social robots for emotional learning, conflict mediation, and one-on-one support](five-robot-use-cases-mindmatters.md)
+- [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
+- [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
+- [Apply an affective data governance framework: minimization, purpose limitation, consent, human oversight, and separation from evaluation](affective-data-governance-safeguards.md)
 
 ## Examples
 -

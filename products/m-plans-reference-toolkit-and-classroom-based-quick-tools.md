@@ -24,7 +24,8 @@ M-PLANS is a teacher-facing framework and toolkit that provides motivation-princ
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [M-PLANS (Motivation - Planning Lessons to Activate eNgagement in Science)](m-plans-motivation-planning-lessons-to-activate-engagement-in-science.md)
 
 ## Key Sources
 - Harris, C.J., Schmidt, J.A., Linnenbrink-Garcia, L., Marchand, G.C., Cabrera, L., McKinney, D., & Liu, P. (2023). Equipping science teachers to support student motivation in NGSS classrooms: Insights from the Development of the M-PLANS program. San Francisco, CA: WestEd. https://m-plans.org/

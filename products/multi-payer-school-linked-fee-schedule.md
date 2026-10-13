@@ -13,7 +13,7 @@ generated:
 # Multi-Payer School-Linked Fee Schedule
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A California optional programme administered through Carelon that enables enrolled local educational agencies and designated school-linked providers to obtain reimbursement from commercial and Medi-Cal managed care plans for student mental health and substance use disorder services.
@@ -22,6 +22,8 @@ A California optional programme administered through Carelon that enables enroll
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Estimated Fee Schedule billing revenue varies widely across Alameda County school health centers and is small relative to existing billing revenue for most](../claims/fee-schedule-revenue-varies-across-shcs.md) [~W]
 
 ## Related Products and Programmes
 -

@@ -37,7 +37,10 @@ Based directly on apprentices' perspectives, the report recommends that program 
 - completion of high-quality teacher preparation leading to licensure and retention in the profession
 
 ## Related Strategies
-- 
+
+- [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
+- [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
+- [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
 
 ## Examples
 -

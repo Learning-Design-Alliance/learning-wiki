@@ -44,7 +44,11 @@ The article proposes an ITS architecture that treats assessment not as an endpoi
 - [Practice Frequency Predicts Posttest Performance](../claims/practice-frequency-predicts-posttest-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism](cc-self-train-adaptive-learning-system.md)
+- [Closed-loop adaptive teaching assistance model integrating perception, evaluation, generation and feedback for music education](closed-loop-adaptive-music-teaching-assistance-model.md)
+- [Intelligent tutoring systems as three-model architectures operationalizing formative assessment](its-three-core-components-architecture.md)
+- [AI Expert Feedback Ecology: a closed-loop cognition framework linking AI Twins, AI Tutors, dashboards, and learners](ai-expert-feedback-ecology.md)
 
 ## Examples
 -

@@ -33,7 +33,9 @@ The Expository Reading and Writing Course is a curriculum and associated teacher
 - [ERWC students gained more than matched non-ERWC students on the EPT (ES +0.13)](../claims/erwc-ept-effect-size-013.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Expository Reading and Writing Course (ERWC)](expository-reading-and-writing-course-erwc.md)
+- [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md)
 
 ## Key Sources
 - Expository Reading and Writing Course (ERWC). (2015). https://eric.ed.gov/?q=Expository+Reading+and+Writing+Course

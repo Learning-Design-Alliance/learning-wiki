@@ -17,7 +17,7 @@ sources:
 # NGSS District Implementation Guide
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A guide developed by Achieve to help education leaders plan, support, and sustain implementation of the Next Generation Science Standards (NGSS).
@@ -28,8 +28,12 @@ A guide developed by Achieve to help education leaders plan, support, and sustai
 
 ### Claims
 
+- [The framework was developed from a literature review, a 21-expert summit, and 23 leader interviews](../claims/ngss-leadership-framework-development-method.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Framework for Leading Next Generation Science Standards Implementation](framework-for-leading-next-generation-science-standards-implementation.md)
+- [NGSS Implementation Leadership Framework](ngss-implementation-leadership-framework.md)
 
 ## Key Sources
 - Stiles, K., Mundry, S., & DiRanna, K. (2017). Framework for Leading Next Generation Science Standards Implementation. San Francisco: WestEd. https://www.nextgenscience.org/appendix-d-case-studies

@@ -43,4 +43,7 @@ A conceptual derivation of phenomenological markers from the model, made behavio
 
 
 ## Related Claims
--
+
+- [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md)
+- [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](synthetic-promotion-cedes-promoter-function.md)
+- [Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect](structural-location-moderates-not-volume.md)

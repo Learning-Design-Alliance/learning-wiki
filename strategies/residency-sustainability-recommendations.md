@@ -47,6 +47,8 @@ In response to evaluation findings, WestEd's team generated recommendations for 
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 - [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
+- [Clinical director as LEA–IHE boundary-spanner managing each partnership](clinical-director-boundary-spanner-partnership.md)
+- [Use three continuous improvement mechanisms: annual Advisory Council meetings, program surveys, and weekly leadership meetings](three-mechanisms-residency-continuous-improvement.md)
 
 ## Examples
 -

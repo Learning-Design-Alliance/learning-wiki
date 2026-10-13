@@ -25,7 +25,9 @@ A toolkit developed by the Education Trust and Education Resource Strategies tha
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Alliance for Resource Equity (ARE) diagnostic toolkit](alliance-for-resource-equity-are-diagnostic-toolkit.md)
+- [Toolkit for Building a Virtual Learning Cohort](toolkit-for-building-a-virtual-learning-cohort.md)
 
 ## Key Sources
 - The Education Trust. (2023). How Does Tennessee Support Students' Social, Emotional, and Academic Development (SEAD)?. https://EdTrust.org

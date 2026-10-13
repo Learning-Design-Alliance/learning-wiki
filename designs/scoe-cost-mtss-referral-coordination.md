@@ -40,7 +40,9 @@ COST is SCOE's coordination mechanism linking students in Sacramento County scho
 - 
 
 ## Related Designs
-- 
+
+- [SCOE centralized school-based mental health services through an FQHC-eligible Medi-Cal billing model](scoe-centralized-fqhc-mental-health-services.md)
+- [SCOE mental health career pathway employing peer specialists, graduate clinical interns, and associate clinicians](scoe-school-mental-health-career-pathway.md)
 
 ## Examples
 -

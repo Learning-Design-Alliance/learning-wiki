@@ -37,7 +37,8 @@ This element is an NWEA presentation, dated September 2020, that summarizes the 
 - Equitable and valid measurement of student achievement through assessment item development
 
 ## Related Elements
-- 
+
+- [NCME 2020 presentation on effort-moderated IRT parameter estimation accuracy](ncme-2020-effort-moderated-irt-presentation.md)
 
 ## Examples
 -

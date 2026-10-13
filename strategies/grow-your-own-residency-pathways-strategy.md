@@ -58,6 +58,7 @@ The report describes GYO programs that "recruit local community members into tea
 - [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
 - [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
+- [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 
 ## Examples
 -

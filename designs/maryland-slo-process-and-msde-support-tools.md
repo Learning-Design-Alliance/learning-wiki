@@ -40,7 +40,8 @@ The Maryland SLO component is an instructional process embedded in the TPE evalu
 - [Slo Implementation Challenges Training And Quality Rubrics](../claims/slo-implementation-challenges-training-and-quality-rubrics.md) [~M]
 
 ## Related Designs
-- 
+
+- [Strong TPE districts: teacher input on SLOs and a three-stage observation cycle with one evaluator](strong-tpe-implementation-district-pattern.md)
 
 ## Examples
 -

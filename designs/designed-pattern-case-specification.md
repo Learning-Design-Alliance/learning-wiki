@@ -42,7 +42,8 @@ A designed pattern is "a trend, group difference, interaction, or exception inte
 - 
 
 ## Related Designs
-- 
+
+- [DataCanvas-EDU: a four-phase agentic framework for instructor-guided synthetic data generation](datacanvas-edu-framework.md)
 
 ## Examples
 -

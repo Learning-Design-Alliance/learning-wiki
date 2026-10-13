@@ -40,7 +40,8 @@ The framework defines AI-enabled pedagogical accompaniment as "a structured proc
 - [Amico Bounded Usage Rare Dependency Signals](../claims/amico-bounded-usage-rare-dependency-signals.md) [+W]
 
 ## Related Designs
-- 
+
+- [Instructional governance: the designed allocation of authority, agency, accountability, context, and evaluation visibility in AI-mediated teaching interactions](instructional-governance-design-construct.md)
 
 ## Examples
 -

@@ -62,4 +62,5 @@ Descriptive analysis of NSC data for CPS graduates. Among 2021 graduates, 1% of 
 
 
 ## Related Claims
--
+
+- [Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small](spring-enrollees-demographic-gpa-differences.md)

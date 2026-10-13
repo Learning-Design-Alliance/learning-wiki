@@ -13,7 +13,7 @@ generated:
 # Career-connected learning (CCL) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A Chicago Public Schools framework that coordinates college-preparatory and career-readiness activities across grades 6–12 through strengthened CTE and districtwide planning.
@@ -24,8 +24,14 @@ A Chicago Public Schools framework that coordinates college-preparatory and care
 
 ### Claims
 
+- [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](../claims/ccl-resources-concentrated-in-strong-cte-schools.md) [~W]
+- [CTE programs of study vary across CPS high schools and are more common on the south and west sides](../claims/cte-programs-vary-and-cluster-south-west-sides.md) [~W]
+- [Most work-based learning participants have been CTE students despite district intent to expand access](../claims/wbl-participation-concentrated-among-cte-students.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [Learn.Plan.Succeed.](learnplansucceed.md)
+- [Ideal pathways system](ideal-pathways-system.md)
 
 ## Key Sources
 - Illinois Workforce and Education Research Collaborative (IWERC), in partnership with the University of Chicago Consortium on School Research. (2024). The Landscape of Career Readiness Opportunities in Chicago Public Schools: Strengthening Career and Technical Education and Establishing Career-Connected Learning for All. https://consortium.uchicago.edu

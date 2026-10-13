@@ -38,7 +38,8 @@ The closing module's strategy for future-proofing the discipline is an explicit 
 - distinguishing durable principles from contingent capabilities
 
 ## Related Strategies
-- 
+
+- [Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system](adapt-genai-codesign-across-disciplines-sociotechnical-framing.md)
 
 ## Examples
 -

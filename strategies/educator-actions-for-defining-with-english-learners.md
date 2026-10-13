@@ -45,6 +45,7 @@ The brief closes with concrete, specific actions mathematics educators can take 
 - [Vocabulary Pre Teaching](pre-teaching-vocabulary.md)
 - [Alphabet Books](alphabet_books.md)
 - [Learning Logs](learning-logs.md)
+- [Three educator actions to challenge and support English Learners with equivalence: maintain the challenge, structure activity, and draw attention to approaches](three-educator-actions-equivalence-english-learners.md)
 
 ## Examples
 -

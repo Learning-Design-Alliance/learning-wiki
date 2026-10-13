@@ -17,7 +17,7 @@ sources:
 # Skyline College Education/Child Development Program: community college lab school with mentored clinical practice
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Skyline College's Education/Child Development Program is a traditional community college department preparing early educators for classroom teaching toward an associate degree or Child Development Permit. Its on-campus Child Development Laboratory Center provides "high-quality mentoring and teaching practice early in their academic careers." A Teacher Track Learning Community lets some students gain early student teaching experience and earn a Child Development Associate Teacher Permit in their first year, and faculty use engaging teaching strategies tied to practice with a prescribed guided pathway.
@@ -37,7 +37,8 @@ Skyline College's Education/Child Development Program is a traditional community
 - Early childhood classroom teaching skills, child development knowledge, and California Child Development Permits
 
 ### Claims
-- 
+
+- [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](../claims/clinical-support-related-to-preparedness-600-hours.md) [+W]
 
 ## Related Designs
 - 

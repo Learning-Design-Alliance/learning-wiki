@@ -42,7 +42,8 @@ A three-part webinar series produced through partnerships between the CoP and Co
 - 
 
 ## Related Designs
-- 
+
+- [Two-part Tribal Data Collection and Governance webinar series](tribal-data-collection-governance-webinar-series.md)
 
 ## Examples
 -

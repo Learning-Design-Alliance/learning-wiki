@@ -41,5 +41,7 @@ The review's descriptive mapping of research settings across the included eviden
 
 
 ## Related Claims
+
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
 - [Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection)](chat-versus-cognitive-paradigm-comparison.md) — related
+- [The review included 24 evidence sources: 22 primary empirical studies and two secondary syntheses used only for contextual interpretation](genai-children-creativity-24-sources-22-primary.md)

@@ -37,7 +37,9 @@ The article instructs test takers to consider non-answering because it can be wo
 - valid measurement of proficiency under low-stakes conditions by reducing rapid guessing and rapid omitting
 
 ## Related Strategies
-- 
+
+- [Use response time to identify test taker disengagement as rapid-guessing behavior](response-time-identifies-rapid-guessing.md)
+- [Confidence Based Quizzing](confidence-based-quizzing.md)
 
 ## Examples
 -

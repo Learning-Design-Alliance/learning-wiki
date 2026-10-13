@@ -24,7 +24,8 @@ ESS is a required system declaration stating what the simulated learner can acce
 ### Claims
 
 ## Related Research Methods
--
+
+- [Multi-dimensional fidelity framework for LLM student simulation](multi-dimensional-fidelity-framework-for-llm-student-simulation.md)
 
 ## Key Sources
 - Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473

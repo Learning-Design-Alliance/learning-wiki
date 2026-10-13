@@ -49,6 +49,7 @@ The report recommends that local, state, and federal policymakers ensure princip
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 - [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
+- [Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness](prioritize-pd-for-early-career-principals.md)
 
 ## Examples
 -

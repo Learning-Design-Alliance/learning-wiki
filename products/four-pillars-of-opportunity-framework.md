@@ -25,7 +25,10 @@ Cook-Harvey et al.'s framework organizes equitable ESSA implementation around ac
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Community schools framework: four pillars for a whole-child, whole-school, whole-community approach](community-schools-framework-four-pillars-for-a-whole-child-whole-school-whole-community-ap.md)
+- [Four equity pillars framework for federal assessment policy](four-equity-pillars-framework-for-federal-assessment-policy.md)
+- [Community schools approach](community-schools-approach.md)
 
 ## Key Sources
 - Cook-Harvey, C.M., Darling-Hammond, L., Lam, L., Mercer, C., & Roc, M. (2016). Equity and ESSA: Leveraging Educational Opportunity Through the Every Student Succeeds Act. Palo Alto, CA: Learning Policy Institute. http://learningpolicyinstitute.org/product/equity-essa

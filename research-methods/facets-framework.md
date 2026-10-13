@@ -24,7 +24,9 @@ The FACETS framework, introduced by Gordon et al. in BEME Guide No. 84, offers a
 ### Claims
 
 ## Related Research Methods
--
+
+- [Messick's seven facets of validity](messicks-seven-facets-of-validity.md)
+- [Many-Facet Rasch Model](many-facet-rasch-model.md)
 
 ## Key Sources
 - AlSheikh MH, Zaini R, ALmulhem MA and Ahmad S (2026). Mapping artificial intelligence integration in higher education: a systematic review using the FACETS and SAMR frameworks. Front. Educ. 11:1871468. https://doi.org/10.3389/feduc.2026.1871468

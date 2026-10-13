@@ -36,7 +36,8 @@ Waterford Early Reading Program™ is a software-based K–2 reading curriculum 
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Read, Write & Type!™ Learning System](read-write-type-learning-system.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention Report: Waterford Early Reading Program™. July 16, 2007. http://www.pearsondigital.com/pdfs/werp/researchsummary-werp.pdf

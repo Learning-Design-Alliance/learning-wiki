@@ -25,7 +25,9 @@ The Teachers' Sense of Efficacy Scale is a 24-item self-report assessment develo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Validated AI-TPACK scale for mathematics teacher education students](validated-ai-tpack-scale-for-mathematics-teacher-education-students.md)
+- [Environmental Education Efficacy Belief Instrument (EEEBI)](environmental-education-efficacy-belief-instrument-eeebi.md)
 
 ## Key Sources
 - Ismael I, Luo X and Li S (2026). An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence. Front. Psychol. 17:1853510. https://doi.org/10.3389/fpsyg.2026.1853510

@@ -37,7 +37,8 @@ The article describes a lightweight classroom workflow: an instructor publishes 
 - Demonstrating a systematic debugging narrative: failure reproduced, suspect code inspected, hypothesis before edit, targeted repair, verification after edit
 
 ## Related Strategies
-- 
+
+- [Export structured evaluation sessions (JSON and CSV) for downstream NLP dataset construction](structured-session-export-for-nlp-datasets.md)
 
 ## Examples
 -

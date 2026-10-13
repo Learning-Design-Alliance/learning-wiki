@@ -27,7 +27,8 @@ A Tennessee statewide programme that provides childcare providers and administra
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](../claims/rural-childcare-structural-barriers-tecta-participation.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Program for Infant/Toddler Care (PITC)](program-for-infanttoddler-care-pitc.md)
 
 ## Key Sources
 - Jacobs, B., Babineau, K., Parker, D. (2024). From Childcare to Educare: Inspiring Change in Early Childhood Education for Rural Tennessee. Digital Promise. https://doi.org/10.51388/20.500.12265/222

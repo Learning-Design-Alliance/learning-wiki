@@ -24,7 +24,8 @@ A benchmark dataset released by Tahreem Yasir et al. containing KG-grounded eval
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [The Pedagogy Benchmark](the-pedagogy-benchmark.md)
 
 ## Key Sources
 - Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207

@@ -25,7 +25,9 @@ An anonymized, IRB-approved dataset of authentic undergraduate student–AI inte
 - [Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use](../claims/student-ai-interactions-concentrate-recurring-patterns.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Open dataset of student-chatbot interaction logs, code snapshots, and knowledge and self-regulation measures](open-dataset-of-student-chatbot-interaction-logs-code-snapshots-and-knowledge-and-self-reg.md)
+- [Polygence authentic learning dataset](polygence-authentic-learning-dataset.md)
 
 ## Key Sources
 - Taelin Karidi, Ofra Amir, and Ido Roll. (2026). AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI. https://arxiv.org/abs/2606.29442

@@ -45,7 +45,10 @@ The curriculum targets grades 9-12 with four students in two pairs, one ToddlerB
 - 
 
 ## Related Designs
-- 
+
+- [Project-based robotics + AI curriculum structured by P3 Task Taxonomy with backward design](p3-taxonomy-robotics-ai-curriculum.md)
+- [Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression](four-track-dependency-gated-robotics-progression.md)
+- [Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing](embedded-high-dosage-tutoring-pattern.md)
 
 ## Examples
 -

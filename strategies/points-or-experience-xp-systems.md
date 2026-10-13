@@ -59,9 +59,11 @@ XP systems are a form of [gamification](../theories/behaviorism.md) that applies
 6. Review point distribution mid-term; adjust if learners are gaming the system or disengaging.
 
 ## Related Strategies
+
 - Mastery-based grading — shares the accumulation-only structure but ties progress to demonstrated competency rather than activity volume
 - Badging — badges are typically XP milestones made visible; the two are usually layered
 - Leaderboards — a common XP companion that adds social comparison, with mixed motivational effects
+- [Use design interventions that make the levels system visible and prompt continuation to encourage learners to level up](prompt-learners-to-continue-leveling-up.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the primary activity XP should reward; points on practice encourage volume and [distributed practice](../claims/distributed-practice-improves-retention.md) [+S]

@@ -43,5 +43,7 @@ Likert-type perception items in the survey of 93 undergraduates, summarized as a
 
 
 ## Related Claims
+
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [Preferred scoring and feedback methods differ significantly across assignment types, with AI-based scoring rarely preferred and mixed options most chosen for low-stakes assignments](scoring-preferences-vary-by-assignment-type.md)

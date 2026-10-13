@@ -13,7 +13,7 @@ generated:
 # Expert-annotated Hungarian reflective essay dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A corpus of approximately 1,954 Hungarian reflective essays from Early Childhood Education students, expert-annotated on a four-level reflection scale by Zsolt Csibi and colleagues.
@@ -24,8 +24,13 @@ A corpus of approximately 1,954 Hungarian reflective essays from Early Childhood
 
 ### Claims
 
+- [In the shallow-model ablation, class balancing lowered every metric, oversampling did not improve overall performance, and semantic embeddings raised ROC-AUC but lowered accuracy and F1](../claims/shallow-ablation-balancing-embeddings.md) [+W]
+- [Hungarian transformer models achieve slightly lower overall score (about 68%) but better minority-class sensitivity than shallow models](../claims/transformers-better-minority-class-sensitivity.md) [+W]
+- [Shallow machine learning with SMOTE oversampling and Qwen3 embeddings achieves the best overall reflection-classification performance (0.7176) on Hungarian essays](../claims/shallow-ml-best-overall-hungarian-reflection.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [Edustories dataset](edustories-dataset.md)
 
 ## Key Sources
 - Zsolt Csibi, Kristian Fenech, Mónika Sándor, Mónika Serfőző, Kinga Gyöngy. (2026). Automatic Reflection Level Classification in Hungarian Student Essays. https://arxiv.org/abs/2605.02402

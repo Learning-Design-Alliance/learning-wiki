@@ -24,7 +24,11 @@ The review develops a coding rubric rating six agentic capability dimensions —
 ### Claims
 
 ## Related Research Methods
--
+
+- [Six-criterion operational checklist for classifying a system as agentic](six-criterion-operational-checklist-for-classifying-a-system-as-agentic.md)
+- [Two-dimensional rubric coding operational process category and depth of explicit metacognitive evidence](two-dimensional-rubric-coding-operational-process-category-and-depth-of-explicit-metacogni.md)
+- [Definition of generative AI-powered agentic AI via three core characteristics: task autonomy, goal-directed reasoning, and memory- and context-aware interaction](definition-of-generative-ai-powered-agentic-ai-via-three-core-characteristics-task-autonom.md)
+- [Rubric-based pedagogical quality scoring for educational AI explanations](rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations.md)
 
 ## Key Sources
 - Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw. Computers and Education: Artificial Intelligence, 11. https://doi.org/10.1016/j.caeai.2026.100653

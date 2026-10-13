@@ -40,7 +40,8 @@ The study distills adult learners' interview perspectives into three design-prin
 - [Ai As Collaborative Learning Agent](../claims/ai-as-collaborative-learning-agent.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four pedagogical principles for AI companion design derived from the HELF](four-pedagogical-principles-ai-companion-design.md)
 
 ## Examples
 -

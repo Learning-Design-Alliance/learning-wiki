@@ -37,7 +37,12 @@ The authors call for a coordinated agenda to move the framework beyond explorato
 - Responsible scaling and validation of AI-enabled pedagogical accompaniment, including effectiveness and risk prevention over time
 
 ## Related Strategies
-- 
+
+- [Staged research agenda for GenAI peer feedback: feasibility, quasi-experimental quality and literacy studies, uptake trials, stakeholder perspectives, and equity analyses](genai-peer-feedback-research-agenda.md)
+- [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
+- [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
+- [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
+- [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 
 ## Examples
 -

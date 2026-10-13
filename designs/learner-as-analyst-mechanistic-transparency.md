@@ -17,7 +17,7 @@ sources:
 # Learner-as-analyst: mechanistic transparency reframes the learner from spectator to analyst of a recorded process
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's organizing stance holds that every quantity in the Bellman update should be inspectable at every step, with the record of those steps belonging to the learner. Existing tools 'treat the learner as a spectator of a converging process, whereas Q-Learning Lab treats the learner as an analyst of a recorded process', a stance grounded in constructionism and experiential learning theory.
@@ -38,10 +38,13 @@ The article's organizing stance holds that every quantity in the Bellman update 
 - developing diagnostic practices for RL agent behavior
 
 ### Claims
-- 
+
+- [Representative gridworld teaching tools lack live Bellman substitution, decision-provenance logging, and full trace export](../claims/gridworld-tools-lack-decision-trace-export.md) [+W]
 
 ## Related Designs
+
 - Learn Export Analyze Loop
+- [Critique-to-evidence workflow: snapshot, independent coding, reconciliation, export](critique-to-evidence-workflow-pattern.md)
 
 ## Examples
 -

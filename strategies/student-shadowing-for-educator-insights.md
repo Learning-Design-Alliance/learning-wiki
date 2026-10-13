@@ -65,6 +65,7 @@ Shadowing is a form of immersive, first-person inquiry that surfaces the gap bet
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 - [Education researchers can refresh their understanding of frontline teaching by spending time in classrooms](researchers-spend-time-in-classrooms.md)
+- [Empathy interviews and student shadowing to build youth-adult understanding](empathy-interviews-and-shadowing.md)
 
 ## Examples
 - **[Shadow a Student Challenge](https://shadowastudent.org)** (School Retool / IDEO) — a national campaign in which school leaders shadow a student for a day and share redesign commitments; the canonical large-scale implementation.

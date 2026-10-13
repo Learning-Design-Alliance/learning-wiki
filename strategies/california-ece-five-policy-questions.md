@@ -40,7 +40,8 @@ The report's Takeaways section sets forth five questions for policymakers: movin
 - California Ece Patchwork System Structure
 
 ## Related Strategies
-- 
+
+- [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 
 ## Examples
 -

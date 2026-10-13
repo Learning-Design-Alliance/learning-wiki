@@ -13,7 +13,7 @@ generated:
 # By Heart
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 A memorization application that uses one card type with three learner-selectable retrieval modes of varying cueing difficulty for practicing poems, scripts, and other extended passages verbatim.
@@ -23,6 +23,8 @@ A memorization application that uses one card type with three learner-selectable
 - **By Heart single card type with three self-selectable retrieval modes of varying difficulty**: For verbatim memorization of extended passages, By Heart presents one card type with three user-selectable retrieval modes: Strip Peek (all lines hidden, tap to reveal for 2 seconds, highest effort), Step Through (past lines dimmed, current line bold), and First Word (opening word only as cue, lowest effort). The modes are "three points on the cue-target continuum identified in retrieval practice research", and self-selection per session operationalizes desirable difficulties within a practical UI. (Ruiyang Zhang (2027))
 
 ### Claims
+
+- [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]
 
 ## Related Products and Programmes
 -

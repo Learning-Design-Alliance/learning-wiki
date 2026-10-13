@@ -25,7 +25,8 @@ A certification framework run by the Linked Learning Alliance to evaluate and su
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Blueprint for Statewide Pathways Scaling](blueprint-for-statewide-pathways-scaling.md)
 
 ## Key Sources
 - Germain, E., Maier, A., Espinoza, D., & Oakes, J. (2025). Community schools certification: An approach for implementation. Learning Policy Institute. https://doi.org/10.54300/220.412

@@ -39,7 +39,9 @@ A custom web platform built for controlled study of LLM-native software creation
 - 
 
 ## Related Designs
-- 
+
+- [Custom LLM practice platform with validated offloading classifier for extent-of-support labeling](llm-practice-platform-offloading-classifier.md)
+- [Spec-Driven Development (SDD): a development methodology in which AI agents generate code from structured specification documents that developers must verify](spec-driven-development-sdd-methodology.md)
 
 ## Examples
 -

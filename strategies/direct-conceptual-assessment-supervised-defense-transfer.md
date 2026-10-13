@@ -47,6 +47,7 @@ A concrete response to LLM outsourcing: allow students to use AI for syntax, set
 - [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)
 - [Mini homework defenses: short oral one-on-one assessments of student solutions](mini-homework-defenses-oral-assessment.md)
 - [Two-instrument assessment: AI-free coding quizzes plus verification-gated oral defenses of comment-stripped AI-assisted work](two-instrument-quiz-oral-defense-assessment.md)
+- [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 
 ## Examples
 -

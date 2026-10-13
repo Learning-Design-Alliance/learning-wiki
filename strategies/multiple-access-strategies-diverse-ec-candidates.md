@@ -44,6 +44,7 @@ Across the studied programs and pathways, the report identifies common strategie
 - [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](multiple-demonstration-competence-ec-credential.md)
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
 - [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
+- [Pre-service education programs should recruit diverse inner-city students and validate their cultures and experiences](pre-service-programs-validate-diverse-recruits-cultures.md)
 
 ## Examples
 -

@@ -43,7 +43,8 @@ The Machine Learning for Mechanical Engineers (MLME) course at UARK integrates A
 - [Mlme Grades Improved Across Years](../claims/mlme-grades-improved-across-years.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression](four-track-dependency-gated-robotics-progression.md)
 
 ## Examples
 -

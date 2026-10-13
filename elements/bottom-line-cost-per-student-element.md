@@ -43,6 +43,7 @@ The report provides a preliminary list of cost ingredients for implementing Bott
 
 - [Cost profile of Success Boston Coaching: $5,762 per student during scale-up, decreasing to $3,037](../products/success-boston-coaching.md)
 - [FLIGHT cost profile and funding model](../products/flight.md)
+- [Implementation cost profile of linked learning community programs](linked-learning-community-implementation-costs.md)
 
 ## Examples
 -

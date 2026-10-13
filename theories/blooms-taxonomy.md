@@ -106,6 +106,8 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Develop Observable Criteria](../strategies/develop_observable_criteria.md) — a strategy for writing measurable objectives using this taxonomy alongside Webb's Depth of Knowledge and Marzano's Dimensions of Learning
 - [Problem-based Learning](../principles/problem-based-learning.md) — Tomei's (2010) sequencing critique connects PBL's applied-before-abstract approach to a challenge against the taxonomy's strict hierarchy assumption
 - [TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric](../products/tsmtdf-form-for-determining-objective-oriented-taxonomy-strategy-and-method-techniques-wit.md)
+- [Bloom-level mapping of exercise difficulty levels in AI exercise generation](../designs/bloom-mapped-exercise-difficulty-generation.md)
+- [CogTax: a four-level cognitive taxonomy integrating cognitive complexity and operational impact via a maximum rule](../designs/cogtax-four-level-command-line-taxonomy.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

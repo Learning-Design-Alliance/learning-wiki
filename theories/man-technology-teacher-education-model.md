@@ -46,7 +46,8 @@ The Man-Technology model is a teacher education design in which general educatio
 - 
 
 ## Examples
--
+
+- [Labor force characteristics and composition as a separate area of study in teacher education](../elements/labor-force-characteristics-study-area.md)
 
 ## Key Sources
 - Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970. (1970). West Virginia University, College of Human Resources and Education. https://eric.ed.gov/?id=ED048505

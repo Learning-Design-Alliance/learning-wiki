@@ -42,6 +42,8 @@ The recording tips sheet advises that recording 'can capture participants' exact
 - [Plan engagement by defining objectives, aligned questions, engagement type, and piloted materials](plan-engagement-objectives-questions-type-pilot.md)
 - [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](structured-notetaking-verbatim-context-review.md)
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
+- [Give informed consent frequently at every peer counselling session to manage confidentiality dilemmas](frequent-informed-consent-every-session.md)
+- [When using public reflection, agree in advance with all parties on what information can and cannot be shared to preserve confidentiality](set-confidentiality-rules-before-public-reflection.md)
 
 ## Examples
 -

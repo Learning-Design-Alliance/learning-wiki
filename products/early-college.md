@@ -27,7 +27,9 @@ A whole-school dual-enrollment programme run through district-college partnershi
 - [Early College participation significantly decreases the probability that English Learners attend a four-year college after high school](../claims/ec-decreases-el-four-year-college-attendance.md) [-M]
 
 ## Related Products and Programmes
--
+
+- [Indiana College Core](indiana-college-core.md)
+- [OnRamps](onramps.md)
 
 ## Key Sources
 - Johnson, Angela, and Diana Mercado-Garcia. (2020). The Effects of Early College Opportunities on English Learners. (EdWorkingPaper: 20-232). Annenberg Institute at Brown University. https://edworkingpapers.com/ai20-232

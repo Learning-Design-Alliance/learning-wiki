@@ -25,7 +25,8 @@ A Hingle (2024) corpus compiling nine empirical studies of collaborative learnin
 - [Collaborative learning activities effectively increase AI literacy across a range of activities, settings, and learner groups](../claims/cl-effectively-increases-ai-literacy.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md)
 
 ## Key Sources
 - A Hingle, A Johri. (2024). Systematic Review of Collaborative Learning Activities for Promoting AI Literacy. https://orcid.org/0000-0002-6178-1256

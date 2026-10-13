@@ -44,7 +44,8 @@ From analysis of five beginner-level stage lighting courses, the authors identif
 - 
 
 ## Related Designs
-- 
+
+- [Domain-grounded mediation framework for LLM-assisted VR instruction](domain-grounded-mediation-llm-vr-instruction.md)
 
 ## Examples
 -

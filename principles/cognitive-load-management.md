@@ -126,6 +126,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
 - [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
 - [Progressively disclose analytical depth: start beginners with streamlined visual interfaces, then introduce richer analytical tools as expertise grows](../strategies/progressive-disclosure-visual-to-analytical-support.md)
+- [Apply cognitive science design principles simultaneously and in combination when revising curriculum, with targeted rather than arbitrary development decisions](../strategies/apply-cognitive-principles-simultaneously-in-curriculum-revision.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

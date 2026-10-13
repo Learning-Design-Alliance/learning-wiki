@@ -17,7 +17,7 @@ sources:
 # Behavior-based persona and course-grounded memory architecture for simulated students
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 EducaSim's student-agent architecture synthesizes generative agents with personas and memories, domain-contextualized memories aligned with actual course material, and a classroom dynamic tree using LLM as a judge. Personas are defined by pedagogically relevant behaviors rather than demographic identity traits, including "(1) name, (2) engagement style, and (3) speech style". Course texts are chunked chronologically, tagged with low/medium/high engagement levels, and prepended with strings describing what the student does and does not know; retrieval scores memories by recency, importance, and cosine-similarity, returning the top-k.
@@ -37,10 +37,14 @@ EducaSim's student-agent architecture synthesizes generative agents with persona
 - Realistic simulated student interactions grounded in actual course content
 
 ### Claims
-- 
+
+- [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](../claims/structured-student-agents-differentiated-mastery-traces.md) [+W]
 
 ## Related Designs
+
 - Educasim Simulated Section Teacher Practice Tool
+- [CogEvolution framework: ICAP perception, IRT-based memory retrieval, and evolutionary cognitive state update](cogevolution-agent-framework.md)
+- [Reusable simulation architecture for dynamic relational learning environments](reusable-simulation-architecture-dynamic-relational-learning.md)
 
 ## Examples
 -

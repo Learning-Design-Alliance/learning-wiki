@@ -80,6 +80,8 @@ The article recommends that effective institutional governance extend beyond pro
 - [Institutional safeguards for safe, transparent AI use in assessment](institutional-ai-safeguards-assessment.md)
 - [Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments](privacy-conscious-teacher-mediated-genai-feedback-workflow.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
+- [Institutions should move toward deliberate, transparent policies governing AI use in admissions and reconsider what application essays should assess](deliberate-transparent-ai-policies-for-admissions.md)
+- [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
 
 ## Examples
 -

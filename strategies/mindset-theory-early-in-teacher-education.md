@@ -39,7 +39,8 @@ Based on the finding that Turkish student teachers lean toward entity beliefs an
 - metacognitive teaching
 
 ## Related Strategies
-- 
+
+- [Modeling a Growth Mindset](modeling_a_growth_mindset.md)
 
 ## Examples
 -

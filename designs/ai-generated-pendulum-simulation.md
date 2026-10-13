@@ -43,7 +43,8 @@ An LLM-generated interactive pendulum simulation (Figure 1) with sliders for mas
 - 
 
 ## Related Designs
-- 
+
+- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](three-pedagogical-simulation-design-considerations.md)
 
 ## Examples
 -

@@ -62,6 +62,8 @@ Multiple-choice survey item on reasons for avoiding LLMs for learning among non-
 
 
 ## Related Claims
+
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related
 - [CONFLICT operator achieves the highest downstream success rate among Berlyne-inspired curiosity operators, while NOVELTY is selected most frequently with a substantially lower success rate](conflict-operator-highest-success-rate.md) — related
+- [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)

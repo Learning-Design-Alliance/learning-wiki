@@ -17,7 +17,7 @@ sources:
 # Project Cal-Well three-component school mental health model implemented in DNUSD
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Project Cal-Well is a California Department of Education program, initiated in 2014 and funded by a SAMHSA NITT-AWARE grant, that "aims to expand mental health services in schools and communities." In Cohort 2 (2019–24) it supported DNUSD's multi-tiered system of support across three components: universal Tier 1 supports for positive school climate and social–emotional skills, Tier 2 school-based mental health services, and Tier 3 partnerships and cross-system collaborations. The district used the grant as a foundation to leverage additional pandemic-era funding.
@@ -41,10 +41,14 @@ Project Cal-Well is a California Department of Education program, initiated in 2
 - Access to mental health services
 
 ### Claims
-- 
+
+- [DNUSD trained 184 mental health workforce members and 757 non-workforce individuals in mental health prevention and awareness strategies from fall 2020 through December 2023](../claims/cal-well-dnusd-mental-health-training-reach.md) [+W]
 
 ## Related Designs
-- 
+
+- [Grant matrix aligning district school-based mental health grants and initiatives](nhuhsd-grant-matrix-alignment-tool.md)
+- [Closed-loop referral system linking DNUSD wellness centers with community and county behavioral health providers](closed-loop-referral-system-dnusd.md)
+- [Grant-funded school-based Wellness Centers as accessible hubs for services](pusd-wellness-centers-hubs.md)
 
 ## Examples
 -

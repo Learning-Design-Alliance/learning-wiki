@@ -66,6 +66,7 @@ Modeling works through social learning: observers extract behavioral standards a
 - Collaborative analysis of student work — enacts process-focused feedback norms among staff
 - Classroom think-aloud modeling — the student-facing extension of the same stance
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
+- [Introduce student teachers to mindset theory early and foster a learning orientation through classroom language, feedback and attitude to challenge](mindset-theory-early-in-teacher-education.md)
 
 ## Examples
 - A school principal opens each staff meeting by sharing a current professional challenge, what they tried, what failed, and what they are learning — normalizing error analysis at the top of the hierarchy.

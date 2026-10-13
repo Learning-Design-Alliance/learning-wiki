@@ -43,4 +43,8 @@ Company-reported evaluation study: Woot Math, funded by an NSF SBIR grant, condu
 
 
 ## Related Claims
--
+
+- [In a multi-site randomized controlled trial, kindergarten students in ARC Core classrooms scored significantly higher on AIMSWeb Letter Naming Fluency than control students (ES = +0.28).](arc-core-letter-naming-fluency-es-028.md)
+- [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md)
+- [In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students](barr-cluster-randomized-psat-math-mixed-cohorts.md)
+- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](barr-multisite-cluster-psat-cohort-variation.md)

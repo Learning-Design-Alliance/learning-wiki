@@ -39,6 +39,9 @@ The brief argues that closing gaps "takes deliberate action from institutions," 
 ## Related Strategies
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Universities can support CPS graduate retention through deliberate support strategies such as scholarships, test-free admission, billing and hold policy changes, and tutoring](deliberate-university-support-strategies-cps-graduates.md)
+- [Ohio State's three-pronged approach: early college pipeline, continuous on-campus support, and national best-practice hub](ohio-state-three-pronged-black-student-support.md)
+- [Foster a culture of success with mandatory orientation, gateway-course registration, and full-credit loads](culture-of-success-sdsu-practices.md)
 
 ## Examples
 -

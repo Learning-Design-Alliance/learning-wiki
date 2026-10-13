@@ -35,7 +35,8 @@ A NWEA release of national achievement and growth norms, percentiles, and norms 
 - [The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms](../claims/two-year-piecewise-design-sufficient-for-map-growth-norms.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MAP Growth norms](map-growth-norms.md)
 
 ## Key Sources
 - 2025 MAP Growth Norms Technical Manual. (2025). HMH Education Company / NWEA. https://www.nwea.org/research/publication/2025-map-growth-norms-technical-manual/

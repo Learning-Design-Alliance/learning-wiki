@@ -43,8 +43,10 @@ Latent class analysis on three indicator dimensions (devices, learning contexts,
 
 
 ## Related Claims
+
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
+- [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)

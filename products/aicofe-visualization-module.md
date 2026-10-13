@@ -25,7 +25,9 @@ AICoFe's Visualization Module is a Dash-based learning-analytics dashboard syste
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [AICoFe](aicofe.md)
+- [AISSA](aissa.md)
 
 ## Key Sources
 - Alvaro Becerra, Alejandra Palma and Ruth Cobos. (2026). AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education. LASI Spain 26: Learning Analytics Summer Institute Spain 2026. https://orcid.org/0009-0003-7793-2682

@@ -62,7 +62,9 @@ Code-augmented failure analysis (Fig. 5): the article reports Gemini 2.5 Pro's m
 
 
 ## Related Claims
+
 - [Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier](code-augmented-latency-cost-increases.md) — related
 - [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related
 - [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](mm04-workflow-boundary-failures.md) — related
 - [Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance](representation-gaps-model-specific-code-amplification.md) — related
+- [The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment](governance-889-events-ger-9-26.md)

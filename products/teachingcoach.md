@@ -26,7 +26,8 @@ TeachingCoach is an AI-based conversational coaching system developed by Isabel 
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](../claims/teachingcoach-outperforms-gpt4o-expert-ratings.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [TeachingCoach synthetic dialogue dataset (406,183 training examples)](teachingcoach-synthetic-dialogue-dataset-406183-training-examples.md)
 
 ## Key Sources
 - Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189

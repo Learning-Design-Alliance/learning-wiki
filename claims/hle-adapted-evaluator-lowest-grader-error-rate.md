@@ -43,6 +43,8 @@ Comparison of grader error rates across evaluators encountered during the expert
 
 
 ## Related Claims
+
 - [Expert audit attributes 95.20% of audited benchmark rejections to benchmark or grader errors rather than model errors](expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors.md) — related
 - [Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)](grader-errors-dominate-rule-based-evaluator-benchmarks.md) — related
 - [After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt](corrected-benchmark-scores-rise-substantially-after-expert-audit.md) — related
+- [On public-source benchmark subsets, corrected scores for all three frontier models rise dramatically after excluding flawed questions](public-source-benchmark-corrected-scores-rise-dramatically.md)

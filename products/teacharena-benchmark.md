@@ -27,7 +27,8 @@ A source-grounded benchmark and evaluation harness created by Zixin Chen et al. 
 - [The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models](../claims/long-chain-workflows-lowest-stage3-family.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [BMED 2300 benchmark corpus and evaluation harness](bmed-2300-benchmark-corpus-and-evaluation-harness.md)
 
 ## Key Sources
 - Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu. (2026). Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows. Preprint. https://arxiv.org/abs/2605.14322

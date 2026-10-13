@@ -25,7 +25,8 @@ A repository released by Jingwei Yi et al. containing analysis-result datasets, 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [GenAICanHarmLearning anonymized dataset and code repository](genaicanharmlearning-anonymized-dataset-and-code-repository.md)
 
 ## Key Sources
 - Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101v1

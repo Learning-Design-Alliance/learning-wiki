@@ -39,7 +39,9 @@ A reusable recipe for building synthetic training data for classroom understandi
 - creating realistic, privacy-sensitive training data for classroom incident recognition
 
 ## Related Strategies
-- 
+
+- [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
+- [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 
 ## Examples
 -

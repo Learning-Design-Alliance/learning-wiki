@@ -41,7 +41,8 @@ CogTax classifies bash commands covered in a course by two integrated dimensions
 - [Llm Scores Decline With Cogtax Level](../claims/llm-scores-decline-with-cogtax-level.md) [+M]
 
 ## Related Designs
-- 
+
+- [CogTax: a four-level cognitive taxonomy integrating cognitive complexity and operational impact via a maximum rule](cogtax-four-level-command-line-taxonomy.md)
 
 ## Examples
 -

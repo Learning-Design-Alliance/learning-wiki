@@ -43,7 +43,9 @@ Survey-based comparison of priority rankings between skill-oriented and knowledg
 
 
 ## Related Claims
+
 - [Experience of blended course design shifts students' interaction priorities from teacher toward student interaction](blended-experience-shifts-priority-to-student-interaction.md) — related
 - [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — related
 - [Students' general expectations of interaction for learning quality show no single priority order common to all](no-universal-interaction-priority-order.md) — a broader claim this one bears on
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — a broader claim this one bears on
+- [Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.](claim-teachers-more-unified-than-students-challenge-1.md)

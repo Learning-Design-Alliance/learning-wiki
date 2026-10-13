@@ -17,7 +17,7 @@ sources:
 # A taxonomy of 17 cognitively-grounded flashcard interaction types across three learning categories
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Memdora's central design contribution is a taxonomy of 17 interaction types across three learning categories: Language (6 types), By Heart (1 type with 3 retrieval modes), and Exam (10 types). Each type is paired with a primary cognitive-science citation, e.g. Vocabulary is grounded in "retrieval practice [15]" and Concept in "elaborative interrogation [7]". The taxonomy is built on three principles: "retrieval effort produces retention", "format should match learning goal", and "transparency builds metacognition".
@@ -41,7 +41,8 @@ Memdora's central design contribution is a taxonomy of 17 interaction types acro
 - conceptual understanding and exam preparation
 
 ### Claims
-- 
+
+- [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](../claims/memdora-taxonomy-not-empirically-evaluated.md) [~W]
 
 ## Related Designs
 - 

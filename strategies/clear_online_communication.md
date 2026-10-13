@@ -59,8 +59,10 @@ Ambiguity about where and when to communicate imposes extraneous load and erodes
 6. Maintain a growing FAQ or pinned answers so recurring questions are self-served ([Practice](../elements/practice.md) forums with instructor endorsement).
 
 ## Related Strategies
+
 - [Clear Structure](../principles/clear-structure.md) — the course-organization counterpart; communication norms only work inside a predictably organized course
 - [Check-Ins](../principles/check-ins.md) — proactive communication that surfaces problems before learners must ask
+- [Make the state of pending administrative processes visible to participants to remove status-enquiry volume](process-state-visibility-reduces-status-enquiries.md)
 
 ## Examples
 - **Piazza** (https://piazza.com) — Q&A platform built for courses; students can post anonymously, peers answer first, and instructors endorse correct answers, scaling responsiveness in large enrollments.

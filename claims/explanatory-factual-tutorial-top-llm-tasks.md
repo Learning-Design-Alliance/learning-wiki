@@ -43,8 +43,10 @@ Survey of 678 LLM learners using a 24-item inquiry taxonomy. "The most frequentl
 
 
 ## Related Claims
+
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions](few-question-types-dominate-student-ai-inquiries.md) — related
 - [In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages](question-autocompletion-scaffolds-knowledge-based-questions.md) — related
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
+- [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)

@@ -24,7 +24,10 @@ A framework developed by EdTrust for evaluating whether state financial-aid prog
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Illinois Monetary Award Program (MAP) grant](illinois-monetary-award-program-map-grant.md)
+- [Minnesota North Star Promise Scholarship, NSP+, and Minnesota State Grant](minnesota-north-star-promise-scholarship-nsp-and-minnesota-state-grant.md)
+- [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md)
 
 ## Key Sources
 - Victoria Jackson. (2025). An Overview of State Financial Aid in Illinois, Indiana, and Minnesota. EdTrust. https://edtrust.org

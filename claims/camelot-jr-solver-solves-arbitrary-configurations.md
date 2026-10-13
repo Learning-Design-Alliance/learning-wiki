@@ -43,5 +43,8 @@ Authors' summary in the Discussion of their hybrid qualitative solver for Camelo
 
 
 ## Related Claims
+
 - [Hybrid quantum optimization is applicable to school aggregation as a proof of concept, with classical optimization currently advantaged](hybrid-quantum-school-aggregation-proof-of-concept.md) — related
 - [The CAC proof of concept compiled 27 biology problems successfully, accumulating 188 Declarative Memory entries, but failed on the 28th problem](cac-proof-of-concept-27-problems-188-dms.md) — related
+- [Cell affordances determine agent movement: ramps trigger automatic diagonal transitions during path traversal](ramp-affordances-trigger-diagonal-moves.md)
+- [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md)

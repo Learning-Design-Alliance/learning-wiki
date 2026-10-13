@@ -25,7 +25,8 @@ A 10-item, 5-point Likert self-report questionnaire developed by Markus H. Hefte
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](../claims/nfc-correlates-critical-use-and-skeptical-usefulness.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [44-item ethical GenAI use questionnaire](44-item-ethical-genai-use-questionnaire.md)
 
 ## Key Sources
 - Markus H. Hefter, Benjamin Paaßen, Kirsten Berthold. (2026). GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students’ Critical GenAI Use. AI Educ. 2026, 2, 27. https://doi.org/10.3390/aieduc2030027

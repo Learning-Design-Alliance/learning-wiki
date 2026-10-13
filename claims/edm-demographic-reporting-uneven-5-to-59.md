@@ -43,6 +43,9 @@ Coding of the 288 applicable publications shows uneven category reporting: educa
 
 
 ## Related Claims
+
 - [Reporting frequency of demographic categories in EDM research is inversely proportional to how sensitive the category is, with race (9%) and SES (5%) reported least](edm-demographic-reporting-inverse-sensitivity.md) — related
 - [Only 15% of EDM publications for which demographics were applicable analyzed demographic information, although 72% reported at least one category](edm-demographics-reported-72-analyzed-15.md) — related
 - [Nearly 75% of EDM publications contain analyses for which demographic information is applicable](edm-demographics-applicable-75-percent.md) — related
+- [Journal articles report demographic information more often than EDM conference papers (89% vs. 70%)](edm-journal-articles-report-more-demographics.md)
+- [Among EDM publications analyzing demographics, 20 investigated demographic questions, 22 used demographics as model features, and only 4 used them for testing and validation](edm-demographic-use-investigated-features-validation.md)

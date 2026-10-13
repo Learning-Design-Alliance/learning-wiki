@@ -17,7 +17,7 @@ sources:
 # Aligned Generative AI Course Policy framework for deciding allowed and unallowed GenAI use per task
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents an Aligned Generative AI Course Policy as a design framework in which "the allowed and unallowed uses of GenAI tools are described in a transparent manner for students." Rather than a blanket course-wide rule, the framework aligns each GenAI permission decision with what the instructor actually assesses for each student task. It works by decomposing the course into its constituent student tasks, classifying each as assessed or as an intermediate step, and matching each task to a GenAI workforce competency before deciding whether assessment or competency-building takes priority.
@@ -38,10 +38,13 @@ The article presents an Aligned Generative AI Course Policy as a design framewor
 - emerging GenAI workforce competencies
 
 ### Claims
-- 
+
+- [The design-based approach yields a transparent, equitable GenAI policy and deeper instructor thinking about assessment](../claims/aligned-genai-policy-two-benefits.md) [+W]
 
 ## Related Designs
-- 
+
+- [AI guardrails policy set for PBL courses](pbl-ai-guardrails-policy-set.md)
+- [Three-principle framework for ethical GenAI integration in writing assessment: transparency, human mediation, reflective practice](three-principle-framework-genai-writing-assessment.md)
 
 ## Examples
 -

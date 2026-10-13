@@ -46,7 +46,9 @@ The article proposes a data-driven team-formation framework with three stages: "
 - [Manual Assignment Highest Preference Satisfaction](../claims/manual-assignment-highest-preference-satisfaction.md) [+M]
 
 ## Related Designs
-- 
+
+- [LLM-based project skill extraction workflow using a fine-tuned Llama 3.2 instruct model](llm-llama-skill-extraction-workflow.md)
+- [A three-stage design space for hybrid control in dynamic pairing: before, during, and after pairing up.](theory-three-stage-hybrid-control-design-space.md)
 
 ## Examples
 -

@@ -38,7 +38,11 @@ The article proposes a staged progression: Stage 1 deploys commercially availabl
 - student feedback literacy development
 
 ## Related Strategies
-- 
+
+- [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
+- [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
+- [Three-stage hybrid workflow: API batch review, identification of doubtful cases, focused conversational teacher review](three-stage-hybrid-ai-assessment-workflow.md)
+- [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 
 ## Examples
 -

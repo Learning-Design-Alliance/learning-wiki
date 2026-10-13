@@ -35,7 +35,8 @@ A pair of student and teacher surveys administered by the Consortium on Chicago 
 - [The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports](../claims/1997-ccsr-surveys-308-elementary-62-high-schools.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [CPS Elementary Teacher Survey and General Reform Index](cps-elementary-teacher-survey-and-general-reform-index.md)
 
 ## Key Sources
 - Anthony Bryk, Stuart Luppescu, Diane King Bilcer, Gudelia Lopez, Jenny Nagaoka, John Q. Easton. (1997). Improving Chicago's Schools: John Tyler High School. Consortium on Chicago School Research, 1313 E. 60th Street, Chicago IL 60637. https://consortium.uchicago.edu/publications/improving-chicagos-schools-john-tyler-high-school

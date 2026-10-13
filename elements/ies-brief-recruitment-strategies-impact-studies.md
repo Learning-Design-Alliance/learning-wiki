@@ -45,6 +45,7 @@ This element is the 2023 Institute of Education Sciences brief 'Practical Strate
 - [Address districts' and schools' urgent priorities and needs when recruiting them for impact studies](../strategies/recruitment-address-urgent-priorities-needs.md)
 - [Demonstrate commitment to fairness and collaborative practices when recruiting districts and schools](../strategies/recruitment-fairness-collaborative-practices.md)
 - [Protect student and staff privacy when recruiting districts and schools for impact studies](../strategies/recruitment-protect-student-staff-privacy.md)
+- [Actively manage school recruitment to protect the generalizability of impact studies](../strategies/manage-school-recruitment-generalizability.md)
 
 ## Key Sources
 - Dana Robinson, Linda Rosenberg, Alejandro Espinoza, Eric Zeidman. (2023). Practical Strategies for Recruiting Districts and Schools for Education Impact Studies. U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://www.mathematica.org/publications/practical-strategies-for-recruiting-districts-and-schools-for-education-impact-studies

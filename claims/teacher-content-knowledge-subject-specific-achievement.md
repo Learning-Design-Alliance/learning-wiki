@@ -62,4 +62,5 @@ A Hawaii study asking social studies teachers to rate their own understanding of
 
 
 ## Related Claims
--
+
+- [Teachers' verbal and math skills, measured by teacher test scores, are significantly related to student achievement](teacher-test-scores-predict-student-achievement.md)

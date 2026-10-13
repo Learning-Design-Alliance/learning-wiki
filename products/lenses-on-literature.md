@@ -32,7 +32,8 @@ Lenses on Literature is a disciplinary-literacy curriculum program that provides
 - [Lenses impacts are significant for middle school students whose teachers have two years of program experience, with largest gains where over half of class time is Lenses-supported, but attrition makes these results suggestive](../claims/lenses-teacher-experience-dosage-suggestive.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Lenses](lenses.md)
 
 ## Key Sources
 - Lenses on Literature. (2013). Lenses on Literature. https://www.literacydesigncollaborative.org

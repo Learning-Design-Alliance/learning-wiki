@@ -43,4 +43,7 @@ Mann-Whitney U test on 45 papers that reported human sample sizes, comparing pap
 
 
 ## Related Claims
+
 - [Nearly three-quarters of AI × SEL studies articulate no substantive policy implications](policy-deficit-ai-sel-studies-no-implications.md) — related
+- [Educational level is significantly associated with the presence of policy implications](educational-level-associated-policy-implications.md)
+- [Study type is significantly associated with inclusion of policy implications](study-type-associated-policy-implications.md)

@@ -13,7 +13,7 @@ generated:
 # El Paso Collaborative for Academic Excellence
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A University of Texas at El Paso and El Paso-area school-district initiative that combined standards, intensive teacher professional development, coaching, and teacher-preparation changes to improve K–college achievement.
@@ -22,6 +22,8 @@ A University of Texas at El Paso and El Paso-area school-district initiative tha
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](../claims/probation-support-relies-on-traditional-workshops.md) [~W]
 
 ## Related Products and Programmes
 -

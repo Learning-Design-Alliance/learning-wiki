@@ -25,7 +25,8 @@ A three-stratum framework developed by Lorenzo Stacchio et al. for building loca
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [ELEVATE Engine](elevate-engine.md)
 
 ## Key Sources
 - Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni. (2026). ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education. arXiv preprint. https://arxiv.org/abs/2606.30662

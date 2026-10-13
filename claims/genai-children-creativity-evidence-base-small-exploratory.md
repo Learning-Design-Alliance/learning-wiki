@@ -41,5 +41,7 @@ The review's descriptive classification of research designs across the 22 primar
 
 
 ## Related Claims
+
 - [The review included 24 evidence sources: 22 primary empirical studies and two secondary syntheses used only for contextual interpretation](genai-children-creativity-24-sources-22-primary.md) — related
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
+- [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md)

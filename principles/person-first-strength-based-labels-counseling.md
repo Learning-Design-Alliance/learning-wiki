@@ -48,6 +48,7 @@ The principle holds that the language counselors use to describe clients shapes 
 ## Examples
 
 - [Incorporate discussions of human sex trafficking into required counselor education trauma curriculum and provide targeted training](../strategies/sex-trafficking-training-in-counselor-education.md)
+- [Pair person-first language with an explicit explanation of its rationale rather than expecting language change alone to shift attitudes](../strategies/pair-language-change-with-rationale-explanation.md)
 
 ## Key Sources
 - Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396

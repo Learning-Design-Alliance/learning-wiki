@@ -38,7 +38,10 @@ The authors' stated future directions for the pipeline. First, the retrieval lay
 - multi-step reasoning and cross-chapter concept synthesis; reduced cognitive load during narrated explanations
 
 ## Related Strategies
-- 
+
+- [Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking](domain-adapted-rag-for-mathematical-education.md)
+- [Design LLM feedback systems to retain encouraging tone, constrain behavioral gaming, and reduce overwhelming cognitive load](llm-feedback-design-tone-gaming-load.md)
+- [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The review's publication-characteristics analysis found "In total, 71% of studie
 
 
 ## Related Claims
+
 - [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
 - [Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied](ai-srl-studies-lack-srl-theory-zimmerman-most-used.md) — related
@@ -53,3 +54,4 @@ The review's publication-characteristics analysis found "In total, 71% of studie
 - [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite
 - [The article argues that prior GAI-supported SDL and SRL studies rely on post-task questionnaire data that may reflect superficial engagement rather than internalized competencies](gai-sdl-studies-posttask-questionnaire-limitation.md) — related
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [The evidence base on GenAI and children's creative thinking is dominated by small, short-term, exploratory studies with few controlled comparisons and no longitudinal designs](genai-children-creativity-evidence-base-small-exploratory.md)

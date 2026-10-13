@@ -37,7 +37,8 @@ To tackle confidentiality dilemmas, the author recommends that peer counsellors 
 - ethical practice in confidentiality and privileged communication
 
 ## Related Strategies
-- 
+
+- [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
 
 ## Examples
 -

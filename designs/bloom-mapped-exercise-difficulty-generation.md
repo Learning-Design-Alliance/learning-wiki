@@ -40,7 +40,9 @@ The exercise-generation tool maps its three difficulty levels directly onto Bloo
 - 
 
 ## Related Designs
-- 
+
+- [Hybrid micro-level personalization framework combining learner-driven preferences with system-driven Bloom's Taxonomy cognitive assessment](hybrid-micro-personalization-framework.md)
+- [Six-phase assignment process mapped to BRT cognitive steps](brt-six-phase-assignment-process.md)
 
 ## Examples
 -

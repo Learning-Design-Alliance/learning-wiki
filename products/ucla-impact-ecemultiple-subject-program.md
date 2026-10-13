@@ -25,7 +25,8 @@ A UCLA Center X and Los Angeles Unified School District teacher-residency progra
 - [UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years](../claims/ucla-impact-ece-50-teachers-87-percent-retained.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Claremont Critical Social Justice Teaching Competencies](claremont-critical-social-justice-teaching-competencies.md)
 
 ## Key Sources
 - Cathy Yun. (2022). Preparing Transitional Kindergarten to 3rd Grade Educators Through Teacher Residencies. Learning Policy Institute & EDPREPLAB. https://doi.org/10.54300/139.797

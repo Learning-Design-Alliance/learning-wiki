@@ -30,7 +30,8 @@ The Technology Integration Matrix is a framework developed by the Florida Center
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md)
 
 ## Key Sources
 - Tina Ehsanipour & Florencia Gomez Zaccarelli. (2017). Exploring Coaching for Powerful Technology Use in Education. Center to Support Excellence in Teaching - Stanford University. https://digitalpromise.dspacedirect.org/items/2f8e7466-5d96-49c4-b8cc-5b70690e0db9

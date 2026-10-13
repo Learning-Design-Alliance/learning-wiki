@@ -13,7 +13,7 @@ generated:
 # Higher Vocational Students' Perceived Learning Outcomes Scale
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A 5-point Likert self-report scale developed by Song Yafeng et al. to measure Chinese higher vocational students' perceived learning outcomes in knowledge mastery, skill application, and competency development.
@@ -23,8 +23,12 @@ A 5-point Likert self-report scale developed by Song Yafeng et al. to measure Ch
 
 ### Claims
 
+- [Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students](../claims/grade-differences-limited-to-skill-application-first-year-higher.md) [+W]
+- [Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest](../claims/vocational-students-genai-usage-medium-high-outcomes-above-average.md) [+W]
+
 ## Related Products and Programmes
--
+
+- [GenAI Usage Behavior Scale](genai-usage-behavior-scale.md)
 
 ## Key Sources
 - Song Yafeng, Zhao Kangjian, Li Li, Dong Wei. (2026). Research on the Impact of Generative Artificial Intelligence Usage Behavior on the Learning Outcomes of Higher Vocational Students. Behavioral Sciences. https://doi.org/10.3390/bs16071166

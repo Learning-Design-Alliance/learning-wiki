@@ -55,6 +55,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
 - [Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange](embed-habitual-ai-engagement-everyday-teaching.md)
 - [Embed media literacy across disciplines from early education and position AI tools as cognitive scaffolds](embed-media-literacy-ai-cognitive-scaffolds.md)
+- [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 
 ## Examples
 -

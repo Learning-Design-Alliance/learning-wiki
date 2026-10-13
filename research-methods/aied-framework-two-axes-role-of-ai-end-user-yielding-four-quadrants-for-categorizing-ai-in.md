@@ -24,7 +24,8 @@ AI×Ed is a categorization framework for research at the intersection of AI and 
 ### Claims
 
 ## Related Research Methods
--
+
+- [Three-axis taxonomy of agentic AI in education: pedagogical role, autonomy level and embodiment](three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim.md)
 
 ## Key Sources
 - Sina Rismanchian & Shayan Doroudi. (2025). The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework. Int J Artif Intell Educ 35:2797–2820. https://doi.org/10.1007/s40593-025-00483-9

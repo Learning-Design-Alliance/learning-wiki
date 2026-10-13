@@ -41,4 +41,7 @@ Qualitative speed-dating study with 16 students and 15 teachers in Germany; this
 
 
 ## Related Claims
--
+
+- [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md)
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md)
+- [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md)

@@ -61,9 +61,11 @@ Mindfulness practice functions as attention training: repeated practice in notic
 6. **Pair with regulation strategies.** Combine with [Check-In](../elements/check-in.md) routines and explicit [self-regulated-learning](../theories/self-regulated-learning.md) instruction so attention awareness feeds into planning and monitoring.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — mindfulness practices often serve as the affective check-in at lesson openings
 - [Achievable micro-goals](achievable_micro-goals.md) — attention training supports the persistence micro-goals require
 - [Active transitions](active-transitions.md) — mindful resets are a low-arousal alternative for transition routines
+- [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed SEL curriculum embedding daily "Core Practice" breathing sessions across K–8 classrooms.

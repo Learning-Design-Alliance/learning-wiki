@@ -81,6 +81,7 @@ Table 13 ablation introducing total count features; the authors report these "su
 
 
 ## Related Claims
+
 - [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
 - [The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters](propdec-colinear-with-student-intercept.md) — related
 - [Models able to weight performance by recency fit better on the Assistments and KDD datasets, without explicit memory-decay terms being necessary](recency-weighting-models-better-assistments-kdd.md) — related
@@ -91,3 +92,4 @@ Table 13 ablation introducing total count features; the authors report these "su
 - [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related
+- [Recovery-related behavioral features add only a small, unstable held-out Macro-F1 gain for final-success prediction in DTA logs (0.725 to 0.743), with negligible average window-sensitivity differences](dta-recovery-features-small-unstable-gain.md)

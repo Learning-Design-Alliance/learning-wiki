@@ -41,7 +41,9 @@ Referral pathways are site-level processes for routing students to behavioral an
 - 
 
 ## Related Designs
-- 
+
+- [Closed-loop referral system linking DNUSD wellness centers with community and county behavioral health providers](closed-loop-referral-system-dnusd.md)
+- [Universal mental health screening systems in Cal-Well districts](cal-well-universal-mental-health-screening.md)
 
 ## Examples
 -

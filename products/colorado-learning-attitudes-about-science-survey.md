@@ -31,7 +31,8 @@ A standardized, Likert-scale survey developed to measure students’ beliefs and
 - [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](../claims/class-descriptive-scores-favour-control-post-test.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [E-CLASS survey for assessing student views of experiments in physics lab courses](e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-courses.md)
 
 ## Key Sources
 - Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020

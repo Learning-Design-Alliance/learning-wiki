@@ -42,7 +42,8 @@ The article proposes a theory-informed design framework positioning generative A
 - 
 
 ## Related Designs
-- 
+
+- [Feedback literacy capacities mapped onto a cyclical forethought-control-retrospect engagement model](feedback-literacy-cyclical-genai-mapping.md)
 
 ## Examples
 -

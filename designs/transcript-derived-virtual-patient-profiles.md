@@ -41,7 +41,9 @@ Four anonymized patient profiles (two male, two female) were synthesized with GP
 - 
 
 ## Related Designs
-- 
+
+- [Four-stage scenario generation pipeline with demographic sampling, quality verification, and adversarial extension packs](residencyrl-scenario-generation-pipeline.md)
+- [Adaptive Virtual Patient framework: separating behavioral state transitions from language generation](avp-state-generation-separation-framework.md)
 
 ## Examples
 -

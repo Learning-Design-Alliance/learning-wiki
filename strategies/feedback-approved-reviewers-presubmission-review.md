@@ -37,7 +37,8 @@ The article reports that reviewers' feedback on submissions tends to be more var
 - improving resubmissions and professional learning through formative feedback
 
 ## Related Strategies
-- 
+
+- [Maintain reviewer quality through explicit benchmark checks and implicit analytics on scoring drift](explicit-implicit-reviewer-pool-maintenance.md)
 
 ## Examples
 -

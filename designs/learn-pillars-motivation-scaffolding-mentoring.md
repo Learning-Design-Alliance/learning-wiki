@@ -42,7 +42,8 @@ The LEARN framework rests on three foundational pillars that act as enabling con
 - 
 
 ## Related Designs
-- 
+
+- [Four-pillar conceptual framework for tailoring generative UI to learning: curriculum alignment, agency and motivation, guidance and scaffolding, formative feedback](learning-interactives-four-pillars-framework.md)
 
 ## Examples
 -
