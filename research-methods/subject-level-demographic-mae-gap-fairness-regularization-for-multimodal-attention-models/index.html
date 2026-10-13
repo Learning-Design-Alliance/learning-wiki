@@ -756,7 +756,7 @@
 <h1 id="subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models">Subject-level demographic MAE-gap fairness regularization for multimodal attention models<a class="headerlink" href="#subject-level-demographic-mae-gap-fairness-regularization-for-multimodal-attention-models" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 1 claim (1 mixed) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+<strong>Evidence</strong> · 2 claims (1 mixed, 1 against) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>An in-processing fairness framework that adds a demographic disparity penalty to the training objective of a multimodal attention model. Per-subject MAEs are averaged within each demographic group, and "The fairness penalty was defined as the gap between the highest and lowest group-level subject MAE", weighted by a trade-off parameter λ added to the weighted MSE task loss. Regularization is introduced after a two-epoch warm-up, with subject- and group-balanced batch sampling so every represented subject contributes equally to the penalty. λ is selected on validation data subject to a constraint that mean validation MAE increases by no more than 0.02 relative to the unregularized baseline.</p>
@@ -768,6 +768,7 @@
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/mae-gap-regularization-validation-gains-do-not-generalize/">Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects</a> [~M]</li>
+<li><a href="../../claims/repeated-subject-splits-confirm-fairness-non-generalization/">Repeated subject-level split experiments confirm that validation-level fairness improvements from MAE-gap regularization do not correspond to consistent generalization to unseen subjects</a> [-W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

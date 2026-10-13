@@ -756,7 +756,7 @@
 <h1 id="proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline">Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline<a class="headerlink" href="#proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · 6 claims (6 for) · 2 studies (1 causal, 1 review), <code>q2</code>–<code>q3</code> · 0 of 2 report an effect size · 6 claims rest on one study</p>
+<strong>Evidence</strong> · 14 claims (9 for, 5 mixed) · 5 studies (2 design, 1 causal, 1 review, 1 theoretical), <code>q2</code>–<code>q3</code> · 1 of 5 report an effect size · 14 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Karr et al.'s released corpus and code evaluate commercial AI-text-detector errors using published abstracts, model rewrites, and humanized texts.</p>
@@ -773,6 +773,14 @@
 <li><a href="../../claims/non-stem-abstracts-flagged-more-than-stem/">Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM</a> [+M]</li>
 <li><a href="../../claims/detector-agreement-collapses-after-humanization/">Inter-detector agreement between Pangram and GPTZero collapses after humanization, so a single vendor flag is not a reliable consensus signal</a> [+M]</li>
 <li><a href="../../claims/detectors-insufficient-accuracy-high-stakes/">Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use</a> [+W]</li>
+<li><a href="../../claims/detector-scores-track-long-token-and-awl-density/">Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively</a> [~W]</li>
+<li><a href="../../claims/ai-detection-tools-not-reliably-distinguishing/">Comparative studies report that AI detection tools do not reliably distinguish human-written from AI-generated text</a> [+W]</li>
+<li><a href="../../claims/aggregate-accuracy-group-fairness-detectors/">A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups</a> [~W]</li>
+<li><a href="../../claims/multi-tool-audit-cross-tool-inconsistency/">In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated</a> [+W]</li>
+<li><a href="../../claims/mixed-model-detection-error-underestimation/">A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors</a> [+W]</li>
+<li><a href="../../claims/all-tools-accurate-on-human-written-papers/">All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent</a> [~W]</li>
+<li><a href="../../claims/humanization-suppresses-detector-salient-cues/">Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax</a> [~W]</li>
+<li><a href="../../claims/stylometric-detector-fpr-22-fnr-11/">The stylometric detector misclassified 4 of 18 independently authored documents as GPT-assisted (FPR 22.2%) and 2 of 18 GPT-assisted documents (FNR 11.1%), with wide confidence intervals</a> [~W]</li>
 </ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
 <p>-</p>

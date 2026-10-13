@@ -756,7 +756,7 @@
 <h1 id="epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddings-for-item-difficulty-prediction">Epi2Diff framework: episode-induced process representations combined with semantic embeddings for item difficulty prediction<a class="headerlink" href="#epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddings-for-item-difficulty-prediction" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 design), <code>q2</code> · 0 of 2 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Epi2Diff (Episode to Difficulty) converts model-generated reasoning traces into sentence-level episode sequences and extracts compact features capturing reasoning effort. Its episode-induced process representation "combines three complementary groups of features: length features capturing the overall scale of the reasoning process, episode-distribution features characterizing its composition across episode types, and transition features encoding its local sequential organization". These 83 process features are concatenated with a Sentence-BERT item embedding, averaged across direct, weak, medium, and strong prompting profiles, and fed to a supervised predictor (XGBoost across all datasets). Code is released at the article's GitHub website.</p>
@@ -769,6 +769,8 @@
 <ul>
 <li><a href="../../claims/epi2diff-best-across-four-difficulty-benchmarks/">Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines</a> [+M]</li>
 <li><a href="../../claims/full-representation-beats-semantic-only-ablation/">Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math</a> [+M]</li>
+<li><a href="../../claims/process-features-strongest-for-multistep-items/">Reasoning-process features are particularly useful when difficulty depends on multi-step problem solving, and the representation also generalizes to text-based assessment items</a> [+W]</li>
+<li><a href="../../claims/thinking-mode-advantage-item-recovery/">Reasoning-enabled (thinking) configurations recover item difficulty better than their non-thinking counterparts, with the advantage clearest at the item level</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

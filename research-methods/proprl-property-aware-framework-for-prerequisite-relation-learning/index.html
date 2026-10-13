@@ -756,7 +756,7 @@
 <h1 id="proprl-property-aware-framework-for-prerequisite-relation-learning">ProPRL: property-aware framework for prerequisite relation learning<a class="headerlink" href="#proprl-property-aware-framework-for-prerequisite-relation-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>ProPRL is a framework that learns prerequisite relations over ordered concept pairs in educational knowledge graphs. It learns complementary concept embeddings from a concept-resource hypergraph and a directed learning-behavior graph, using "direction-preserving personalized multi-hop propagation to aggregate multi-hop behavioral evidence". A Pair-conditioned Gate constructs view-specific representations for each candidate ordered pair and adaptively weights the two views, and an Irreversibility Constraint applies "an anti-symmetry regularizer that penalizes simultaneously highpredictionsfor(ci,cj)and(cj,ci)". Training jointly optimizes resource-aware, behavior-aware, and fused branches with a teacher-detached consistency loss.</p>
@@ -769,6 +769,8 @@
 <ul>
 <li><a href="../../claims/proprl-state-of-the-art-prerequisite-relation-learning/">ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline</a> [+M]</li>
 <li><a href="../../claims/proprl-ablation-components-contribute/">Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact</a> [+M]</li>
+<li><a href="../../claims/proprl-acceptable-computational-overhead/">ProPRL incurs moderate overhead over DGCPL but remains lightweight, using under 40 MB GPU memory and under 0.18 seconds test-time inference</a> [+W]</li>
+<li><a href="../../claims/proprl-hyperparameter-sensitivity/">ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

@@ -756,7 +756,7 @@
 <h1 id="kt-grounded-simulated-learner">KT-grounded simulated learner<a class="headerlink" href="#kt-grounded-simulated-learner" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+<strong>Evidence</strong> · 2 claims (1 for, 1 mixed) · 2 studies (1 design, 1 theoretical), <code>q2</code> · 0 of 2 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The simulated learner couples two components: a knowledge tracing model (AKT) that maintains a per-KC belief map trained on real student interaction data, and an LLM that role-plays the student and generates free-response attempts. The AKT model is "trained on real XES3G5M learners" and "maintains a per-KC belief map" that is updated at each observation. The LLM student generates answers conditioned on the KT belief state, and "graded probe outcomes are fed back into fθ, so KT and LLM stay coupled across D=30 virtual days." This design addresses the known failure of pure LLM-simulated students to reproduce real students' ability distributions, misconception dynamics, or authenticity under tutoring.</p>
@@ -769,6 +769,7 @@
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/educlaw-bench-simulator-calibration/">The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts</a> [+M]</li>
+<li><a href="../../claims/hybrid-llm-knowledge-tracing-outperforms-either-alone/">Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

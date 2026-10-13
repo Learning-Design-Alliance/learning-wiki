@@ -756,7 +756,7 @@
 <h1 id="history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-framework">History-conditioned student simulation: two-component profile-generator-plus-simulator framework<a class="headerlink" href="#history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-framework" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 4 claims (4 for) · 2 studies (1 causal, 1 design), <code>q2</code> · 0 of 2 report an effect size · 4 claims rest on one study</p>
+<strong>Evidence</strong> · 6 claims (6 for) · 3 studies (2 causal, 1 design), <code>q2</code> · 0 of 3 report an effect size · 6 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history. "We propose a two-component framework in which a profile generator summarizes a student's history and a simulator predicts student turns conditioned on the resulting profile." Both components are trained with reinforcement learning so that profiles are optimized for faithful downstream simulation: the simulator is fine-tuned with SFT then DPO against counterfactual mismatched profiles, and the profile generator is distilled then refined with GRPO using ground-truth turn log-likelihood as reward.</p>
@@ -772,6 +772,8 @@
 <li><a href="../../claims/qa-dialogue-histories-complementary-views/">Question-answering and dialogue histories are complementary views of the same student, with signals transferring across metric categories</a> [+M]</li>
 <li><a href="../../claims/inside-lowest-wasserstein-action-fidelity-test-op/">Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics</a> [+M]</li>
 <li><a href="../../claims/inside-highest-reasoning-alignment-57-9/">INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%</a> [+M]</li>
+<li><a href="../../claims/grpo-refines-profiles-toward-diagnostic-representations/">GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation</a> [+W]</li>
+<li><a href="../../claims/profile-conditioning-increases-response-diversity/">Without cognitive profiles, LLM-simulated response patterns collapse toward a single pattern; profile conditioning multiplies response-pattern diversity</a> [+M]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <ul>

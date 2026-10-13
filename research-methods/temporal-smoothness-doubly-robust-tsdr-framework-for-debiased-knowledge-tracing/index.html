@@ -756,7 +756,7 @@
 <h1 id="temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing">Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing<a class="headerlink" href="#temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 5 claims (5 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 5 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>TSDR is a model-agnostic debiasing framework for knowledge tracing that integrates a doubly robust estimator — combining Inverse Propensity Weighting with error imputation — with a temporal smoothness regularizer on the imputation model's latent trajectory. The article states that "TSDR jointly optimizes the KT predictor and the imputation model with a smoothness regularizer, effectively reducing variance while preserving the unbiasedness guarantee of DR." It treats each time step's knowledge state as a temporal "user" and co-optimizes propensity, imputation, and KT models via an alternating strategy. The smoothness constraint is motivated by the Power Law of Practice, characterizing skill acquisition as a smooth power-function trajectory.</p>
@@ -769,6 +769,9 @@
 <ul>
 <li><a href="../../claims/tsdr-improves-kt-backbone-auc-benchmarks/">TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets</a> [+M]</li>
 <li><a href="../../claims/tsdr-robust-across-mnar-spectrum/">Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma &gt; 0.8</a> [+M]</li>
+<li><a href="../../claims/tsdr-ablation-smoothness-on-imputation-branch/">In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones</a> [+W]</li>
+<li><a href="../../claims/tsdr-lambda-sweet-spot-robustness/">TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in (0.3, 1.0)</a> [+W]</li>
+<li><a href="../../claims/tsdr-improves-calibration-acc-rmse/">TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

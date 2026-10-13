@@ -756,7 +756,7 @@
 <h1 id="three-step-framework-for-generating-validated-natural-language-explanations-of-question-difficulty">Three-step framework for generating validated natural-language explanations of question difficulty<a class="headerlink" href="#three-step-framework-for-generating-validated-natural-language-explanations-of-question-difficulty" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article introduces a framework that treats difficulty as "a quantity to be explained" rather than only estimated. It first fits a 1PL IRT model to LLM response matrices to estimate each item's difficulty, then repeatedly samples "contrastive sets of difficult and easy items" and prompts an LLM to propose hypotheses explaining the gap, and finally refines, matches, and selects hypotheses via L1-regularized regression on held-out questions. The output is interpretable natural-language difficulty factors that can be used predictively and causally.</p>
@@ -770,6 +770,7 @@
 <li><a href="../../claims/hypotheses-discriminate-difficulty-effect-sizes/">Generated hypotheses discriminate hard from easy questions, mostly with medium-to-large effects</a> [+M]</li>
 <li><a href="../../claims/hypothesis-predictor-matches-black-box-regressors/">Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions</a> [+M]</li>
 <li><a href="../../claims/hypothesis-guided-editing-shifts-difficulty-causally/">Editing questions according to a hypothesis shifts measured difficulty in the expected direction</a> [+M]</li>
+<li><a href="../../claims/hypothesis-features-improve-difficulty-predictors/">Adding generated hypotheses as features improves black-box difficulty predictors</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

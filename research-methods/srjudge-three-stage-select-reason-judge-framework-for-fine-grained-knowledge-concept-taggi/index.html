@@ -756,7 +756,7 @@
 <h1 id="srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-tagging">SRJudge: three-stage Select-Reason-Judge framework for fine-grained knowledge concept tagging<a class="headerlink" href="#srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-tagging" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 5 claims (3 for, 2 mixed) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 5 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>SRJudge decomposes knowledge concept tagging into three stages. A fine-tuned BERT-based Selector first narrows the candidate space: "the Selector first picks K(≪ |Φ|)candidates ... reducing the decision space". A lightweight LLM Reasoner, trained with a pruned GRPO reinforcement-learning strategy and a task-specific reward combining format, accuracy and dynamic position rewards, recommends a concept with reasons over the shortlist. A frozen larger LLM Judger then evaluates the rationality of the reasoning and issues the final verdict from a global perspective. The framework addresses the problem that LLMs "struggle to select the correct concept from a large-scale candidate set due to the high dimensionality of the decision space".</p>
@@ -769,6 +769,9 @@
 <ul>
 <li><a href="../../claims/srjudge-outperforms-baselines-three-datasets/">SRJudge consistently outperforms state-of-the-art baselines on three knowledge concept tagging datasets</a> [+M]</li>
 <li><a href="../../claims/srjudge-ablation-components-contribute/">Each SRJudge component contributes: the Reasoner and Judger add measurable F1 gains over the Selector alone</a> [+M]</li>
+<li><a href="../../claims/srjudge-gains-hard-to-distinguish-samples/">SRJudge improves prediction on hard-to-distinguish samples, with larger gains on S Math than on the higher-grade datasets</a> [+W]</li>
+<li><a href="../../claims/dynamic-position-reward-improves-reasoner/">A dynamic position reward in RL training improves tagging performance and prevents overfitting to Selector outputs</a> [~W]</li>
+<li><a href="../../claims/grpo-alone-inferior-to-sft-for-tagging/">Applying GRPO alone to LLMs for tagging yields significantly lower performance than supervised fine-tuning</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

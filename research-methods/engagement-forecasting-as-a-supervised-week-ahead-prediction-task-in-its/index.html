@@ -756,7 +756,7 @@
 <h1 id="engagement-forecasting-as-a-supervised-week-ahead-prediction-task-in-its">Engagement forecasting as a supervised week-ahead prediction task in ITS<a class="headerlink" href="#engagement-forecasting-as-a-supervised-week-ahead-prediction-task-in-its" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 associational), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (2 for, 2 mixed) · 1 study (1 associational), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Engagement forecasting is framed as a supervised prediction task estimating a learner's next-week engagement from prior ITS interaction traces. The article defines it as "a supervised, week-ahead regression task within an ITS predicting two observable outcomes: minutes practiced (effort) and new skills mastered (progress)". It complements fine-grained EDM tasks (affect detection, wheel-spinning, dropout prediction) by operating at a weekly timescale aligned with instructional rhythms, and its explainability analysis positions forecasts as decision-support signals for tutors and students rather than direct measures of motivation or learning.</p>
@@ -769,6 +769,8 @@
 <ul>
 <li><a href="../../claims/ml-outperforms-heuristics-week-ahead-engagement-forecasting/">Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered</a> [+M]</li>
 <li><a href="../../claims/effort-vs-progress-distinct-feature-drivers/">Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency</a> [+M]</li>
+<li><a href="../../claims/percentile-heuristics-overpredict-weekly-engagement/">Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%</a> [~W]</li>
+<li><a href="../../claims/ablation-feature-groups-engagement-forecasting/">Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

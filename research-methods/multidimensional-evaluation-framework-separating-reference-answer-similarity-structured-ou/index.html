@@ -756,7 +756,7 @@
 <h1 id="multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-output-stability-and-domain-specific-correctness">Multidimensional evaluation framework separating reference-answer similarity, structured-output stability, and domain-specific correctness<a class="headerlink" href="#multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-output-stability-and-domain-specific-correctness" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 5 claims (3 for, 2 mixed) · 3 studies (2 causal, 1 design), <code>q1</code>–<code>q2</code> · 0 of 3 report an effect size · 5 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article proposes an evaluation framework for educational question-answering models that combines automatic text metrics with structured-output features and bootstrap confidence intervals. ROUGE-1/2/L measure lexical overlap, BERTScore-F1 measures semantic proximity, and has_solution/has_method/has_teaching_points coverage rates measure conformity to the pedagogical template. The framework's central boundary condition is that "ROUGE and BERTScore primarily capture lexical and semantic proximity, while the structured-output metrics measure template stability" — none can certify formula accuracy, derivational rigor, or instructional usefulness, which require expert assessment or task-specific rubrics.</p>
@@ -769,6 +769,9 @@
 <ul>
 <li><a href="../../claims/lora-improves-reference-answer-similarity-control-systems/">LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes</a> [+M]</li>
 <li><a href="../../claims/lora-improves-structured-instructional-output-stability/">LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model</a> [+M]</li>
+<li><a href="../../claims/nli-reference-based-grading-limitation/">NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers</a> [~W]</li>
+<li><a href="../../claims/adapted-4b-outpaces-cloud-baselines-on-lexical-semantic-measures/">The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy</a> [+W]</li>
+<li><a href="../../claims/bootstrap-stability-lora-gains-7b-r4-rouge1/">Bootstrap stability of LoRA gains is not uniform: the ROUGE-1 confidence interval crossed zero at 7B-r4, so that increase is a trend rather than a stable improvement</a> [~W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

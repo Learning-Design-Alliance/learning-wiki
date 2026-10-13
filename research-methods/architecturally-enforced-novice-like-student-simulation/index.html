@@ -756,7 +756,7 @@
 <h1 id="architecturally-enforced-novice-like-student-simulation">Architecturally enforced novice-like student simulation<a class="headerlink" href="#architecturally-enforced-novice-like-student-simulation" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 4 claims (4 for) · 2 studies (1 causal, 1 design), <code>q2</code> · 0 of 2 report an effect size · 4 claims rest on one study</p>
+<strong>Evidence</strong> · 6 claims (6 for) · 4 studies (2 causal, 1 design, 1 theoretical), <code>q1</code>–<code>q2</code> · 1 of 4 report an effect size · 6 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article's central design recommendation is that realistic synthetic student behavior cannot be elicited from preference-tuned LLMs by persona prompting or context injection alone; it requires architectural enforcement. Symbolic control (semi-Markov dynamics, BKT with flaw injection) and a decoupled Strategist/Executor constrain what the model can do, so that "sequence-level student simulation cannot be recovered through context engineering alone; architectural enforcement closes the gap." The +M baseline variants, which inject BEAGLE's metacognitive vocabulary without the architecture, empirically isolate prompt effects from architectural ones.</p>
@@ -772,6 +772,8 @@
 <li><a href="../../claims/unlearning-induces-novice-level-degradation/">Machine unlearning induces progressively stronger novice-level performance in an LLM teachable agent, with accuracy and F1 declining as the unlearning ratio increases</a> [+M]</li>
 <li><a href="../../claims/relearning-recovers-knowledge-incompletely/">Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)</a> [+M]</li>
 <li><a href="../../claims/coach-guided-relearning-beats-static/">Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)</a> [+M]</li>
+<li><a href="../../claims/competence-paradox-llm-student-simulation/">The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices</a> [+W]</li>
+<li><a href="../../claims/reflection-prompt-reduces-detectability/">Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>

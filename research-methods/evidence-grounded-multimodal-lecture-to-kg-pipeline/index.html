@@ -756,7 +756,7 @@
 <h1 id="evidence-grounded-multimodal-lecture-to-kg-pipeline">Evidence-grounded multimodal lecture-to-KG pipeline<a class="headerlink" href="#evidence-grounded-multimodal-lecture-to-kg-pipeline" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 4 claims (4 for) · 2 studies (2 design), <code>q1</code>–<code>q2</code> · 0 of 2 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>An end-to-end pipeline combining "timestamped automatic speech recognition (ASR), high-recall anchor selection, OCR, grounded vision-language extraction, validation, canonicalization, KG construction, and GraphRAG-style retrieval." Its design constraint is that "a concept or relationship is promoted only when tied to lecture evidence." Unlike slide- or transcript-only educational KG pipelines, it treats video frames, OCR output, and transcript segments as three simultaneous evidence sources for the same anchor, capturing diagram- and equation-only content. The output is a NetworkX MultiDiGraph whose edges carry relation type, lecture, timestamp, anchor, evidence quotation, and confidence.</p>
@@ -769,6 +769,8 @@
 <ul>
 <li><a href="../../claims/evidence-grounded-kg-extraction-yield-three-lectures/">Across three neural-network lectures, evidence and confidence checks retained 1,022 of 1,155 raw concept mentions (88.48%) and 312 of 400 raw relationship mentions (78.00%), yielding 172 canonical concepts and 282 graph relationships with 90.38% endpoint coverage</a> [+M]</li>
 <li><a href="../../claims/three-seed-retrieval-sanity-check-perfect/">On a preliminary three-question retrieval sanity check, all seed questions placed their target concept first and within the top three, with mean top-5 recall of 1.00</a> [+M]</li>
+<li><a href="../../claims/grounded-multimodal-diagram-questions/">The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence</a> [+W]</li>
+<li><a href="../../claims/high-nonempty-ocr-rate-anchors-capture-visual-content/">Recall-oriented anchor selection achieved a 17.93% anchor rate and 94.63% non-empty OCR rate, which the authors interpret as anchors frequently capturing visible educational content that transcript chunks omit</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <ul>
