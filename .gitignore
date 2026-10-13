@@ -17,7 +17,10 @@ eval/corpus/doi_resolution_cache.json
 # discover_articles.py's per-machine retry registry; sources/manifest.ndjson is the
 # committed record of what was reviewed (see CLAUDE.md, Source Manifest)
 eval/corpus/processed_articles.json
-eval/runs/
+eval/runs/*
+# The coded evidence cells are committed (maintainer, 2026-10-13): every evidence map and
+# report reads them, and an ignored store vanished with each container.
+!eval/runs/evidence-axes/
 
 # wiki_health_check.py's dated reports (regenerable) and its run-history
 # log (local trend data, not wiki content) — see scripts/wiki_health_check.py
