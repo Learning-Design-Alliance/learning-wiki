@@ -13,7 +13,7 @@ generated:
 # 398-item evaluation dataset of teacher-requested geometric diagrams from Coteach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A dataset released by Vishal Kumar et al. containing 398 real teacher requests and generated geometric-diagram code instances from Coteach for evaluating the mathematical and spatial soundness of AI-generated educational diagrams.
@@ -22,7 +22,9 @@ A dataset released by Vishal Kumar et al. containing 398 real teacher requests a
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](../claims/backtranslation-outperforms-llm-judge-diagram-agreement.md) [+M]
+- [Back-translation yields higher human agreement on spatial checks, while LLM-as-a-Judge considerably outperforms it on the angle-label check](../claims/checkwise-backtranslation-spatial-strong-angle-weak.md) [~W]
 
 ## Related Products and Programmes
 

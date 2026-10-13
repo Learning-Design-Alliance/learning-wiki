@@ -13,7 +13,7 @@ generated:
 # Med2Lab
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (2 design), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Med2Lab is a platform used in medical education to submit case vignettes, open-ended questions, rubrics, and deidentified student responses to GPT-4 for automated scoring and feedback.
@@ -29,6 +29,7 @@ Med2Lab is a platform used in medical education to submit case vignettes, open-e
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](../claims/gpt4-almost-perfect-irr-after-rubric-engineering.md) [+W]
 - [Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations](../claims/oeq-scoring-discrepancies-mostly-one-point.md) [+W]
 - [The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations](../claims/holistic-hardest-question-moderate-reliability.md) [+W]
+- [GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses](../claims/gpt4-diagnosis-accuracy-varies-by-error-type.md) [~W]
 
 ## Related Products and Programmes
 -

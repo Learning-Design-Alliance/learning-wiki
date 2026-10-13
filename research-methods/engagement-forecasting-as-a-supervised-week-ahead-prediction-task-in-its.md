@@ -12,7 +12,7 @@ generated:
 # Engagement forecasting as a supervised week-ahead prediction task in ITS
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Engagement forecasting is framed as a supervised prediction task estimating a learner's next-week engagement from prior ITS interaction traces. The article defines it as "a supervised, week-ahead regression task within an ITS predicting two observable outcomes: minutes practiced (effort) and new skills mastered (progress)". It complements fine-grained EDM tasks (affect detection, wheel-spinning, dropout prediction) by operating at a weekly timescale aligned with instructional rhythms, and its explainability analysis positions forecasts as decision-support signals for tutors and students rather than direct measures of motivation or learning.
@@ -22,8 +22,11 @@ Engagement forecasting is framed as a supervised prediction task estimating a le
 - **Engagement forecasting as a supervised week-ahead prediction task in ITS**: Engagement forecasting is framed as a supervised prediction task estimating a learner's next-week engagement from prior ITS interaction traces. The article defines it as "a supervised, week-ahead regression task within an ITS predicting two observable outcomes: minutes practiced (effort) and new skills mastered (progress)". It complements fine-grained EDM tasks (affect detection, wheel-spinning, dropout prediction) by operating at a weekly timescale aligned with instructional rhythms, and its explainability analysis positions forecasts as decision-support signals for tutors and students rather than direct measures of motivation or learning. (Eric S. Qiu et al. (2026))
 
 ### Claims
+
 - [Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered](../claims/ml-outperforms-heuristics-week-ahead-engagement-forecasting.md) [+M]
 - [Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency](../claims/effort-vs-progress-distinct-feature-drivers.md) [+M]
+- [Percentile heuristics transferred from health behavior systematically overpredict weekly K-12 engagement and underperform XGBoost by 20-30%](../claims/percentile-heuristics-overpredict-weekly-engagement.md) [~W]
+- [Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes](../claims/ablation-feature-groups-engagement-forecasting.md) [~W]
 
 ## Related Research Methods
 -

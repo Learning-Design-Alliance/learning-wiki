@@ -17,7 +17,7 @@ sources:
 # Teacher value-added modeling for performance classification
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 4 studies (4 associational), `q2` · 0 of 4 report an effect size · 9 claims rest on one study
 
 ## Description
 The study defines teacher performance using value-added estimates from a student-level growth model with teacher fixed effects. "Highest -performing teachers" are "those whose value -added estimates in English language arts (ELA), math, or both put them in the top 20 percent of all eligible teachers in their teacher pool within their district", based on two or more years of data. Elementary teachers are ranked on the average of separately standardized ELA and math value-added estimates, and estimates are empirical Bayes-shrunk. The framework is applied to three teacher pools: elementary, middle school math, and middle school ELA.
@@ -27,6 +27,7 @@ The study defines teacher performance using value-added estimates from a student
 - **Value-added identification of highest-performing teachers as the top 20 percent within district teacher pools**: The study defines teacher performance using value-added estimates from a student-level growth model with teacher fixed effects. "Highest -performing teachers" are "those whose value -added estimates in English language arts (ELA), math, or both put them in the top 20 percent of all eligible teachers in their teacher pool within their district", based on two or more years of data. Elementary teachers are ranked on the average of separately standardized ELA and math value-added estimates, and estimates are empirical Bayes-shrunk. The framework is applied to three teacher pools: elementary, middle school math, and middle school ELA. (Steven Glazerman et al. (2011))
 
 ### Claims
+
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](../claims/findings-robust-to-omitting-eb-shrinkage.md) [+W]
 - [The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers only on achievement groupings](../claims/highest-performing-teacher-distribution-nonuniform.md) [+W]
 - [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](../claims/results-robust-to-quartile-grouping.md) [+W]
@@ -34,6 +35,8 @@ The study defines teacher performance using value-added estimates from a student
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](../claims/value-added-error-rates-teacher-and-school-upper-elementary.md) [+W]
 - [Overall false positive error rates are about 10 percent and false negative error rates about 20 percent for value-added performance classifications](../claims/value-added-false-positive-negative-error-rates.md) [+W]
 - [Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data](../claims/value-added-teacher-comparison-error-rates-25-35-percent.md) [+W]
+- [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](../claims/reach-va-overlap-across-observation-quintiles.md) [~W]
+- [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](../claims/vam-bottom-quintile-reclassification-26-percent.md) [-W]
 
 ## Related Research Methods
 -

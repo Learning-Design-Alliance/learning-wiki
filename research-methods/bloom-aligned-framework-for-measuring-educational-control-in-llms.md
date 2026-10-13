@@ -12,7 +12,7 @@ generated:
 # Bloom-aligned framework for measuring educational control in LLMs
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The framework operationalizes educational control — "the ability to preserve a task's instructional intent while shifting its cognitive demand toward specified learning objectives" — using revised Bloom's Taxonomy as an ordinal scale from Remember (1) to Create (6). It applies two matched intervention settings, general difficulty control and Bloom's control, and two metrics: Observed Cognitive Shift (OCS), the average movement along the taxonomy, and Target Zone Accuracy (TZA), precision of landing in the targeted zone. It is applied to programming tasks in computer science education to study the gap between solving tasks and adapting them for learners.
@@ -22,8 +22,11 @@ The framework operationalizes educational control — "the ability to preserve a
 - **Bloom-aligned framework for measuring educational control in LLMs**: The framework operationalizes educational control — "the ability to preserve a task's instructional intent while shifting its cognitive demand toward specified learning objectives" — using revised Bloom's Taxonomy as an ordinal scale from Remember (1) to Create (6). It applies two matched intervention settings, general difficulty control and Bloom's control, and two metrics: Observed Cognitive Shift (OCS), the average movement along the taxonomy, and Target Zone Accuracy (TZA), precision of landing in the targeted zone. It is applied to programming tasks in computer science education to study the gap between solving tasks and adapting them for learners. (Yi Zhang et al. (2026))
 
 ### Claims
+
 - [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](../claims/llm-upward-cognitive-shift-asymmetry.md) [+M]
 - [Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward](../claims/tza-higher-versus-lower-bloom-targets.md) [+M]
+- [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](../claims/downward-shift-benchmark-dependence.md) [~W]
+- [The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward](../claims/divergent-lexical-mutation-strategies.md) [~W]
 
 ## Related Research Methods
 -

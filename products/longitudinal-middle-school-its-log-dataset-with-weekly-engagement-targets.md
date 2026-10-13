@@ -13,7 +13,7 @@ generated:
 # Longitudinal middle-school ITS log dataset with weekly engagement targets
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A longitudinal dataset of web-based intelligent tutoring system activity from 425 middle-school mathematics students, providing timestamped interaction logs and weekly practice-effort and skill-mastery targets for learning-analytics research.
@@ -22,7 +22,9 @@ A longitudinal dataset of web-based intelligent tutoring system activity from 42
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered](../claims/ml-outperforms-heuristics-week-ahead-engagement-forecasting.md) [+M]
+- [Ablations show every feature group contributes to skills forecasting, while recent engagement activity alone nearly suffices for minutes](../claims/ablation-feature-groups-engagement-forecasting.md) [~W]
 
 ## Related Products and Programmes
 -

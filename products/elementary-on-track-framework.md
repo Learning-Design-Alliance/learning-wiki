@@ -18,7 +18,7 @@ sources:
 # Elementary On-Track framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Chicago Public Schools' Elementary On-Track framework uses GPA and attendance thresholds to organize support tiers for younger students.
@@ -28,7 +28,9 @@ Chicago Public Schools' Elementary On-Track framework uses GPA and attendance th
 - **Elementary On-Track categories combine GPA and attendance thresholds into four support tiers**: The playbook presents CPS's Elementary On-Track framework, introduced in 2018 to organize on-track work for younger students. It crosses two thresholds—GPA 3.0 and attendance 90%—yielding four categories: "On-Track: GPA 3.0+, Attendance 90%+"; Academic Support (GPA below 3.0, attendance 90%+); Attendance Support (GPA 3.0+, attendance below 90%); and Intensive Support (both below). Educators use the categories to ask who needs support, what students are experiencing, and whether strategies are working. (UChicago Consortium on School Research (2024))
 
 ### Claims
+
 - [Elementary students with 90%+ attendance and GPA 3.0+ in grades 3-8 were more likely to graduate high school with a 3.0+ GPA than peers in other EOT categories](../claims/elementary-on-track-categories-predict-graduation.md) [+M]
+- [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [+W]
 
 ## Related Products and Programmes
 -

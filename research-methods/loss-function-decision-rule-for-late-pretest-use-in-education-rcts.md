@@ -21,7 +21,7 @@ sources:
 # Loss-function decision rule for late pretest use in education RCTs
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (2 theoretical, 1 associational), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 Education RCTs often use pretest-posttest designs because including pretests improves the precision of estimated treatment effects. However, when pretests are collected after random assignment, analysts should not automatically include them: the decision "involves a variance-bias trade-off" that should be evaluated using a loss function approach before late pretest data are used in impact estimation.
@@ -33,6 +33,7 @@ Education RCTs often use pretest-posttest designs because including pretests imp
 - **Variance-bias tradeoff framework for deciding whether to use late pretest data in education RCTs**: The paper organizes the late pretest decision as a tradeoff: including late pretest data improves the precision of estimated treatment effects but risks bias because the pretest may be treatment-contaminated. The author "addresses this issue both theoretically and empirically for several commonly used impact estimators, using a loss function approach grounded in the causal inference literature." The framework thus weighs precision gains against bias risk when choosing an impact estimator. (Peter Z. Schochet (2008))
 
 ### Claims
+
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+M]
 - [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+M]
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](../claims/late-pretest-analyzed-for-several-estimators.md) [+W]
@@ -43,6 +44,7 @@ Education RCTs often use pretest-posttest designs because including pretests imp
 - [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-impact-estimates.md) [+M]
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [~W]
 - [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+W]
+- [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](../claims/proxy-pretest-difference-driven-by-bias-not-precision.md) [~W]
 
 ## Related Research Methods
 -

@@ -18,7 +18,7 @@ sources:
 # Pennsylvania teacher evaluation pilot dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 associational, 1 design), `q1`–`q2` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 4 studies (3 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 A dataset covering teacher-observation and value-added evaluation measures for 6,676 teachers across 269 Pennsylvania districts during the 2012–2013 pilot and comparison period, assembled for the Pennsylvania teacher-evaluation pilot.
@@ -28,11 +28,15 @@ A dataset covering teacher-observation and value-added evaluation measures for 6
 - **Pennsylvania teacher evaluation pilot dataset covering 6,676 teachers in 269 districts across two school years**: The report analyzed pilot data on two teacher performance measures: the observation-based FFT and value-added measures based on student test scores. The data cover "6,676 teachers from 269 districts in the state of Pennsylvania, including Pittsburgh public schools", spanning the 2012-2013 school year with comparison data from 2011-2012 from a previous pilot phase. (Stephen Lipscomb et al. (2015))
 
 ### Claims
+
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](../claims/fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) [+W]
 - [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](../claims/fft-internal-consistency-acceptable-to-good.md) [+W]
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](../claims/fft-pilot-ratings-concentrated-top-two-categories.md) [+W]
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](../claims/fft-vam-correlations-positive-019-022.md) [+W]
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](../claims/mathematica-vam-technical-assistance-phase1.md) [+W]
+- [Low observation scores are even more concentrated in high-poverty schools than low value-added scores](../claims/observation-scores-stronger-poverty-concentration.md) [~W]
+- [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](../claims/reach-observation-value-added-correlation-0349.md) [~W]
+- [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](../claims/observation-scores-stronger-school-characteristic-relationship.md) [~W]
 
 ## Related Products and Programmes
 -

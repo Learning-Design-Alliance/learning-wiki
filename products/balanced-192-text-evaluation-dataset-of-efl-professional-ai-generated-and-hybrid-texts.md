@@ -13,7 +13,7 @@ generated:
 # Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (1 review, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A research dataset created by Mohammad Hadra et al. containing 192 balanced EFL, professional, AI-generated, and hybrid texts for evaluating authorship-detection and academic-integrity decisions.
@@ -28,6 +28,7 @@ A research dataset created by Mohammad Hadra et al. containing 192 balanced EFL,
 - [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](../claims/detectors-lower-accuracy-scientific-writing.md) [+W]
 - [Detector accuracy declined significantly as text length increased, with both detectors performing best on short texts](../claims/detector-accuracy-declines-with-text-length.md) [+W]
 - [Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference](../claims/originality-borderline-efl-accuracy-trend.md) [+W]
+- [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](../claims/aggregate-accuracy-group-fairness-detectors.md) [~W]
 
 ## Related Products and Programmes
 

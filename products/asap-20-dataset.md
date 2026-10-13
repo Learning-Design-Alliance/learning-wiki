@@ -13,7 +13,7 @@ generated:
 # ASAP 2.0 dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argumentative essays with human-assigned scores from 1 to 6, developed for automated essay-scoring research.
@@ -26,6 +26,7 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](../claims/llm-essay-scoring-weak-human-agreement.md) [+W]
 - [Newer LLM generations do not consistently agree better with human essay graders](../claims/no-consistent-generational-improvement-llm-grading.md) [+W]
+- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
 
 ## Related Products and Programmes
 

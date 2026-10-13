@@ -30,7 +30,7 @@ sources:
 # Value-Added Assessment System for DC Schools and Teachers
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 4 studies (3 associational, 1 design), `q1`–`q2` · 0 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 6 studies (5 associational, 1 design), `q1`–`q3` · 0 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 A district accountability assessment system prepared for and run by District of Columbia Public Schools to estimate school and teacher value added.
@@ -42,6 +42,7 @@ A district accountability assessment system prepared for and run by District of 
 - **Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)**: The article is associated with the project "Value-Added Assessment System for DC Schools and Teachers," with a stated time frame of 2009–2015, prepared for District of Columbia Public Schools. It investigates empirical Bayes shrinkage of teacher value-added estimates within this district accountability context, examining how the adjustment relates to teachers of students with hard-to-predict achievement levels. (Mariesa Herrmann et al. (2016))
 
 ### Claims
+
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](../claims/frp-vs-frm-very-small-empirical-differences.md) [+W]
 - [Accounting for mean and standard deviation of classroom achievement may reduce bias for middle school math teachers](../claims/classroom-achievement-controls-reduce-bias-middle-school-math.md) [+W]
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](../claims/combined-specifications-reduce-precision.md) [+W]
@@ -51,6 +52,8 @@ A district accountability assessment system prepared for and run by District of 
 - [Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement](../claims/shrinkage-differential-impact-concern.md) [+W]
 - [Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences](../claims/shrinkage-no-significant-effect-consequences-hard-to-predict.md) [+W]
 - [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
+- [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](../claims/rapid-guessing-no-substantive-effect-value-added.md) [~W]
+- [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](../claims/vam-bottom-quintile-reclassification-26-percent.md) [-W]
 
 ## Related Products and Programmes
 -

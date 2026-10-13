@@ -134,7 +134,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 376 | 336 | 3 | 0 |
-| [elements](elements/index.md) | 1,080 | 838 | 2 | 0 |
+| [elements](elements/index.md) | 1,080 | 839 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 113 | 8 | 0 |
 | [strategies](strategies/index.md) | 5,581 | 2,069 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 5 | 0 |
@@ -142,8 +142,8 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
 | [designs](designs/index.md) | 715 | 469 | 1 | 0 |
-| [products](products/index.md) | 1,579 | 1,259 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 423 | 365 | 1 | 0 |
+| [products](products/index.md) | 1,579 | 1,265 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 423 | 371 | 1 | 0 |
 
 ## Toward pooled estimates
 

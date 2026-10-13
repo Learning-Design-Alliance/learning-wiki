@@ -13,7 +13,7 @@ generated:
 # Hypothesis Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 3 causal), `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 quant-synthesis, 4 causal), `q2`–`q4` · 4 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Hypothesis testing asks learners to commit to an explicit, testable prediction before encountering evidence, then to evaluate that prediction against the outcome. The commitment step is critical: a stated hypothesis makes the learner's prior conception inspectable, so subsequent evidence is interpreted as confirmation or disconfirmation of something specific rather than absorbed passively.
@@ -53,7 +53,7 @@ Committing to a prediction before instruction activates prior conceptions and cr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [A small question budget of about 200 suffices for strong hypothesis quality, with room to scale](../claims/small-budget-suffices-for-hypothesis-quality.md) [~W]
 
 ## Related Elements
 - [Prediction](prediction.md) — the commitment step that makes prior conceptions explicit

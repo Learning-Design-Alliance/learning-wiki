@@ -18,7 +18,7 @@ sources:
 # LLM-queries
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A GitHub repository released by Keith et al. containing the code for prompting multiple large language models, processing student essay text, merging model and human ratings, and computing agreement and bias measures.
@@ -28,11 +28,13 @@ A GitHub repository released by Keith et al. containing the code for prompting m
 - **LLM-queries GitHub repository for LLM essay-coding analysis pipeline**: The authors released the code for their LLM prompting and analysis pipeline, which processed anonymized student paper PDFs into text files, applied each prompt to each LLM via OpenRouter.ai with unified API-level control and temperature 0, merged LLM ratings with human ratings, and computed correlation, absolute error, and normalized signed bias measures. The article states: "The code is available at https://github.com/imrryr/LLM-queries". It supports replication of the 60,060-prompt study design. (Keith et al. (2026))
 
 ### Claims
+
 - [LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness](../claims/coding-dimension-listing-easier-than-correct-defining.md) [+M]
 - [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](../claims/llm-choice-affects-human-ai-coding-correspondence.md) [+M]
 - [Prompt type interacts with coding dimension in error rates: definitions and instructions can impair detection of listing](../claims/prompt-dimension-interaction-error-rates.md) [+W]
 - [Zero-shot prompt type has minimal impact on LLM-human coding concordance](../claims/prompt-type-minimal-impact-llm-coding.md) [+W]
 - [LLMs align better with human coding on concise theories with discrete concepts than on more complex ones](../claims/theory-complexity-affects-llm-coding-agreement.md) [+M]
+- [Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2](../claims/claude-erratic-few-shot-performance-across-items.md) [~W]
 
 ## Related Products and Programmes
 

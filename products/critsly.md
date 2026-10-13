@@ -13,7 +13,7 @@ generated:
 # Critsly
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Critsly is a shared visual workspace for higher-education design critique, developed and reported by Nizam Kadir, combining artefact boards, critique history, guided reflection, persona lenses, and AI-generated feedback.
@@ -24,8 +24,11 @@ Critsly is a shared visual workspace for higher-education design critique, devel
 - **StudioCrit research mode with provisional cognitive and architectural classification**: StudioCrit is an optional board/class mode of Critsly for architecture-studio research. "It classifies sticky notes and critique comments using Bloom's revised taxonomy and architectural evaluation dimensions", exposing visible badges and analytics with metadata such as matched verbs, confidence and ambiguity. Studios can link multiple boards, educators manage classes and invitations, learners contribute to boards, and researcher access supports class analytics and export within role boundaries. (Nizam Kadir (2026))
 
 ### Claims
+
 - [In three simulated design-studio scenarios, 109 classified evidence rows were produced, with 85 (78.0%) assigned to higher-order Bloom categories](../claims/three-studio-simulation-109-rows-78-percent-higher-order.md) [+W]
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](../claims/fifty-account-rehearsal-56-rows-82-percent-higher-order.md) [+W]
+- [The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus](../claims/persona-constraint-alters-llm-analytical-focus.md) [+W]
+- [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](../claims/hardening-rehearsal-50-sessions-and-access-denials.md) [+W]
 
 ## Related Products and Programmes
 -

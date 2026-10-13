@@ -13,7 +13,7 @@ generated:
 # CLaaS (Cybersecurity Labs-as-a-Service)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 CLaaS is an AWS-based, browser-accessible cybersecurity lab platform developed for university cybersecurity courses, with an integrated OCR-to-LLM assistant for simplifying lab instructions.
@@ -23,8 +23,10 @@ CLaaS is an AWS-based, browser-accessible cybersecurity lab platform developed f
 - **CLaaS platform with integrated OCR-to-LLM instructional assistant**: CLaaS (Cybersecurity Labs-as-a-Service) is an AWS cloud-based platform delivering browser-accessible cybersecurity labs via EC2 virtual machines, supporting tasks such as DDoS attacks, buffer overflows, packet sniffing, and ransomware attacks. This paper extends it with an "Instruction Simplification" button that captures the current slide as an image, extracts text with Tesseract OCR, and sends the raw text with a crafted prompt to an LLM (gpt-4) via API to generate a simplified, zero-shot explanation delivered in the CLaaS interface. Students rate the output on a 1-10 feedback scale stored for later analysis and prompt personalization. (Patel et al. (2025))
 
 ### Claims
+
 - [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](../claims/student-feedback-7-83-ocr-llm-instructions.md) [+M]
 - [Multimodal LLMs outperform the OCR-based pipeline on visually dense slides, while the OCR pipeline produces comparable instruction on text-centric slides](../claims/multimodal-vs-ocr-pipeline-slide-type-comparison.md) [+M]
+- [The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots](../claims/llm-compensates-for-noisy-ocr-input.md) [~W]
 
 ## Related Products and Programmes
 -

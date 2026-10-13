@@ -13,7 +13,7 @@ generated:
 # EEG familiarity benchmark dataset and evaluation framework (3960 samples, 23 participants, two validation protocols)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A dataset and benchmarking framework released by Isuru Nanayakkara et al. containing EEG-derived features for familiar-versus-unfamiliar face and mathematical-equation classification, with leakage-aware validation protocols and permutation testing.
@@ -22,8 +22,12 @@ A dataset and benchmarking framework released by Isuru Nanayakkara et al. contai
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Temporal leakage from shuffled neighboring epochs inflates EEG familiarity classification, with peak weighted F1 dropping from 0.9853 (CNN, stratified) to 0.6038 (CNN, Group K-Fold)](../claims/temporal-leakage-inflates-eeg-familiarity-classification.md) [+M]
 - [Trial-independent EEG familiarity classification remains statistically significantly above chance for the 4-class, equations-only, and faces-only tasks under Bonferroni-corrected permutation tests](../claims/trial-independent-eeg-familiarity-above-chance.md) [+M]
+- [Trial-level spectral features robustly differentiate stimulus domains (faces vs. equations) but no familiarity-driven spectral shift survives FDR correction](../claims/domain-robust-familiarity-subtle-univariate-eeg.md) [~W]
+- [Familiarity recognition is represented by a distributed multivariate spatial-spectral pattern rather than localized single-feature shifts, necessitating multivariate machine learning](../claims/multivariate-distributed-familiarity-pattern.md) [~W]
+- [Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification](../claims/gamma-beta-temporal-frontal-familiarity-biomarkers.md) [~W]
 
 ## Related Products and Programmes
 

@@ -13,7 +13,7 @@ generated:
 # Asyncform (AF) dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A corpus of 863 AI-generated educational questions in English, Mathematics, and Science, labeled by K–12 teachers with Bloom Taxonomy levels and related subject, grade-level, objective, and question metadata; it was created and released by Michael Lawrence Castanares et al.
@@ -29,6 +29,7 @@ A corpus of 863 AI-generated educational questions in English, Mathematics, and 
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](../claims/ml-bloom-classifiers-degrade-ood-aeq.md) [+W]
 - [AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data](../claims/ood-aeq-textual-characteristics-differ-iid.md) [+W]
 - [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models](../claims/llms-robust-ood-bloom-classification.md) [+W]
+- [Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets](../claims/model-retraining-largest-ood-improvement.md) [~W]
 
 ## Related Products and Programmes
 

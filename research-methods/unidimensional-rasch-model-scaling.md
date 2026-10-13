@@ -17,7 +17,7 @@ sources:
 # Unidimensional Rasch model scaling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 associational, 2 design), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 5 studies (3 associational, 2 design), `q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200). The article's stated rationale is that "Rasch model has unique properties over other models", including sufficiency, separability, specific objectivity, and latent additivity, and that the model preserves the interpretability of the construct map and item order across the person-location range.
@@ -27,10 +27,14 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 - **Unidimensional Rasch model scaling of MAP scores on the RIT scale**: All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200). The article's stated rationale is that "Rasch model has unique properties over other models", including sufficiency, separability, specific objectivity, and latent additivity, and that the model preserves the interpretability of the construct map and item order across the person-location range. (Shudong Wang et al. (2013))
 
 ### Claims
+
 - [A one-factor unidimensional model fits MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states](../claims/map-cat-unidimensional-factor-structure.md) [+M]
 - [Item calibration results from Pychometrik and the existing tool are mostly comparable across 1,180 AGC-calibrated MAP Growth items, with average RIT differences ranging from 0.33 (mathematics) to 0.91 (science)](../claims/pychometrik-existing-tool-comparable-calibration-real-data.md) [+W]
 - [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](../claims/map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) [+W]
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](../claims/drift-impact-ability-estimates-negligible.md) [+W]
+- [For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average](../claims/map-growth-multi-grade-items-negligible-differences.md) [~W]
+- [Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit](../claims/map-growth-three-grade-calibration-comparable-to-original.md) [~W]
+- [Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones](../claims/map-k2-point-measure-correlations-unchanged.md) [~W]
 
 ## Related Research Methods
 -

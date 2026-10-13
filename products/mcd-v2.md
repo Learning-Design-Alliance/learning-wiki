@@ -13,7 +13,7 @@ generated:
 # MCD-v2
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le et al. to report college introductory-mechanics students' mastery of 14 fine-grained learning objectives during instruction.
@@ -22,8 +22,10 @@ MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le e
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](../claims/rba-item-bank-covers-14-los.md) [+M]
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](../claims/dina-fit-fci-emcs-good-fmce-marginal.md) [+M]
+- [The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs](../claims/14-lo-structure-improved-fit-over-mcd-v1.md) [+W]
 
 ## Related Products and Programmes
 -

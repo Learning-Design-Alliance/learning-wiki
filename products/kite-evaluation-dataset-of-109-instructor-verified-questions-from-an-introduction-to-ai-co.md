@@ -13,7 +13,7 @@ generated:
 # KITE evaluation dataset of 109 instructor-verified questions from an Introduction to AI course
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A dataset of 109 instructor-verified questions and reference answers drawn from an Introduction to AI course's lecture slides and textbook, created for evaluating educational question-answering systems.
@@ -22,7 +22,9 @@ A dataset of 109 instructor-verified questions and reference answers drawn from 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [KITE's non-procedural responses show strong retrieval grounding (faithfulness 0.85, context relevance 0.94) and answer similarity 0.76, with lower factual correctness 0.45](../claims/kite-strong-grounding-lower-factual-correctness.md) [+M]
+- [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](../claims/rq-higher-relevancy-lower-grounding.md) [~W]
 
 ## Related Products and Programmes
 -

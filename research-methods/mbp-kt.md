@@ -12,7 +12,7 @@ generated:
 # MBP-KT
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 MBP-KT is a three-component framework for knowledge tracing. It first applies a meta-behavioral operator transformation that maps adjacent interactions into Start, Same and Diff operators, decoupling knowledge states from specific questions. It then extracts frequently occurring behavior patterns via a sliding window into a global collaborative pattern matrix, and finally injects the resulting prior into RNN, memory-network, Transformer and state-based KT models. The article states it 'provides general injection strategies to introduce the extracted global collaborative information into various downstream KT models, ensuring the universality of the collaborative information.'
@@ -22,8 +22,11 @@ MBP-KT is a three-component framework for knowledge tracing. It first applies a 
 - **MBP-KT: a meta-behavioral pattern-aware framework for extracting and injecting global collaborative information in knowledge tracing**: MBP-KT is a three-component framework for knowledge tracing. It first applies a meta-behavioral operator transformation that maps adjacent interactions into Start, Same and Diff operators, decoupling knowledge states from specific questions. It then extracts frequently occurring behavior patterns via a sliding window into a global collaborative pattern matrix, and finally injects the resulting prior into RNN, memory-network, Transformer and state-based KT models. The article states it 'provides general injection strategies to introduce the extracted global collaborative information into various downstream KT models, ensuring the universality of the collaborative information.' (Yuhao Jia et al. (2026))
 
 ### Claims
+
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](../claims/mbp-kt-consistently-improves-kt-backbones.md) [+M]
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](../claims/meta-behavioral-extraction-beats-kc-based-variants.md) [+M]
+- [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](../claims/mbp-kt-greater-gains-sparse-learners.md) [~W]
+- [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](../claims/mbp-kt-hyperparameter-sensitivity-n-k.md) [~W]
 
 ## Related Research Methods
 -

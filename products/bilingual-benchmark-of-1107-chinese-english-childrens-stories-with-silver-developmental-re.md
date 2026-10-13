@@ -13,7 +13,7 @@ generated:
 # Bilingual benchmark of 1107 Chinese-English children's stories with silver developmental references and structured annotations
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A bilingual benchmark dataset constructed by Sijing Yin et al. containing aligned Chinese-English children's stories with age-group developmental references and structured cognitive, language, and social-emotional annotations for evaluating developmental narrative understanding.
@@ -22,8 +22,10 @@ A bilingual benchmark dataset constructed by Sijing Yin et al. containing aligne
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](../claims/clara-outperforms-readability-and-prompting-baselines.md) [+M]
 - [Developmental representations remain relatively stable across translated bilingual narratives](../claims/clara-bilingual-translation-consistency.md) [+M]
+- [In disagreement cases, blinded educators more frequently prefer CLARA developmental estimates over publisher recommendations](../claims/educators-prefer-clara-over-publisher-labels.md) [+W]
 
 ## Related Products and Programmes
 -

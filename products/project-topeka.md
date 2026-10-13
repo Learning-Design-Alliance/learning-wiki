@@ -22,7 +22,7 @@ sources:
 # Project Topeka
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 3 studies (1 associational, 1 qualitative, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 Project Topeka is an automated essay-scoring and automated writing-evaluation platform for middle-school argumentative writing, providing instructional materials, rubric-based AI feedback, and iterative student revision.
@@ -32,12 +32,15 @@ Project Topeka is an automated essay-scoring and automated writing-evaluation pl
 - **Project Topeka AES/AWE platform for middle school argumentative writing**: Project Topeka is an AES and AWE platform for 7th- and 8th-grade argumentative writing in which teachers access lesson plans, reading materials, and prompt questions, and students submit essay drafts. Students wrote and submitted draft essays through the platform, "receiving instant artificial intelligence (AI) generated scores on a 4-dimension rubric and dimension-level comments" and could revise and resubmit unlimited times until reaching mastery across Claim & Focus, Support & Evidence, Organization, and Language & Style. The report evaluates student score growth on the platform and compares its scores with teacher scoring. (Greene Nolan et al. (2023))
 
 ### Claims
+
 - [Teachers at convenings said the three AI approaches are fluid rather than static, with movement across approaches as experience grows](../claims/ai-positioning-approaches-are-fluid.md) [+W]
 - [Trust in AI varied by positioning: partners saw bias and assigned their own grades, while substitutes trusted AI scores as actual grades](../claims/ai-trust-varies-by-positioning.md) [+W]
 - [The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes](../claims/interaction-focus-varies-by-ai-positioning.md) [+W]
 - [Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores](../claims/partner-positioning-builds-student-ai-literacy.md) [+W]
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](../claims/partner-positioning-instructional-leadership.md) [+W]
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](../claims/teacher-positioning-distribution-topeka.md) [+W]
+- [AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency](../claims/ai-consistency-high-except-spelling-languagetool-replacement.md) [+W]
+- [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](../claims/aes-more-generous-than-teachers.md) [-W]
 
 ## Related Products and Programmes
 -

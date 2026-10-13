@@ -12,7 +12,7 @@ generated:
 # Integrated framework linking cognitive ownership, mutual evaluation, and outcome-aligned verification for assessing AI-assisted work
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article develops a conceptual framework connecting cognitive ownership, mutual evaluation, and selected verification performances so that institutions can make bounded claims about learner capability. It distinguishes product quality, capability demonstrated during assessment, and learning established through change and retention. The framework's contribution is integrative: it specifies relationships among existing ideas within an assessment design and explains how competing evidence should affect decisions. As the author states, these components "support bounded claims about learner capability while preserving legitimate opportunities for AI-assisted work."
@@ -24,6 +24,7 @@ The article develops a conceptual framework connecting cognitive ownership, mutu
 ### Claims
 
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](../claims/genai-product-outcome-gains-superficial.md) [+W]
+- [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](../claims/opaque-synthesis-hides-plurality.md) [~W]
 
 ## Related Research Methods
 -

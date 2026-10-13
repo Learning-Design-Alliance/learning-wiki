@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (25 for, 8 mixed, 2 against) · 36 studies (11 review, 9 quant-synthesis, 7 causal, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (25 for, 9 mixed, 2 against) · 36 studies (11 review, 9 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 25 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -91,6 +91,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](../claims/genai-virtual-patient-short-term-gains-mixed.md) [~W]
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](../claims/ai-simulation-short-term-gains-nursing.md) [~W]
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](../claims/ai-simulation-authenticity-gap.md) [~W]
+- [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](../claims/convergence-corroborated-by-surveys-and-human-raters.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

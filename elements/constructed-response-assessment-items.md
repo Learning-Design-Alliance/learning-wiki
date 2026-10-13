@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 mixed, 2 against) · 9 studies (3 associational, 2 causal, 2 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (3 for, 10 mixed, 2 against) · 13 studies (5 design, 3 associational, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 13 report an effect size · 15 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -57,6 +57,11 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](../claims/ai-scoring-perceptions-lower-vs-higher-order.md) [~W]
 - [Admissions staff rate essays they perceive as AI-generated lower than essays they believe are human-written, even after adjusting for measured essay quality and actual AI authorship](../claims/perceived-ai-use-lowers-staff-quality-ratings.md) [-W]
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](../claims/revised-workflow-reduces-overawarding-mad.md) [~W]
+- [Multi-agent essay scoring system (MASS) reportedly achieves increased consistency and reliability compared to stand-alone LLMs](../claims/mass-essay-scoring-improved-consistency.md) [+W]
+- [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](../claims/claude3-palm2-substantial-agreement-failing-grades.md) [~W]
+- [Newer LLM generations such as GPT-4 generally outperform GPT-3.5 in short-answer grading accuracy, but this advantage is not consistent across all tasks and domains](../claims/gpt4-advantage-uneven-across-tasks.md) [+W]
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [~W]
+- [AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned totals (R2 = 0.91), while per-problem agreement is lower (R2 = 0.61–0.85)](../claims/ai-total-scores-align-with-ta-grades-chemistry-exam.md) [+W]
 
 ## Related Elements
 

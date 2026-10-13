@@ -13,7 +13,7 @@ generated:
 # PIVOT
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 PIVOT is a three-stage pedagogy-guided generative video tutoring framework developed by Xinchen Ma et al. that creates storyboard-grounded STEM instructional videos, quizzes, and response-conditioned remediation.
@@ -22,8 +22,11 @@ PIVOT is a three-stage pedagogy-guided generative video tutoring framework devel
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](../claims/verification-components-ablation-contributions.md) [+M]
 - [Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science](../claims/expert-evaluation-pivot-outperforms-baseline.md) [+M]
+- [PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics](../claims/pivot-best-automatic-video-quality-scores.md) [+W]
+- [PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions](../claims/pivot-best-narration-quality-scores.md) [+W]
 
 ## Related Products and Programmes
 -

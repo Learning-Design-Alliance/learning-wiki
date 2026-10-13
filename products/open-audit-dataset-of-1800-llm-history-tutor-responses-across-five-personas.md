@@ -13,7 +13,7 @@ generated:
 # Open audit dataset of 1,800 LLM history-tutor responses across five personas
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Alexis Popovici et al.'s open corpus of 1,800 API-generated history-tutor responses across four LLMs, five student personas, and three prompt types for researchers and auditors evaluating educational AI bias.
@@ -28,6 +28,7 @@ Alexis Popovici et al.'s open corpus of 1,800 API-generated history-tutor respon
 - [Deepseek's justification scores vary by student socio-economic profile, with Top Tier students averaging 9.60 versus 6.90 for Low Tier students](../claims/elite-hermeneutics-justification-gap.md) [+W]
 - [LLaMA shows a persona-conditioned vocabulary collapse for the Roma minority persona, with TTR falling 0.018 points below its own cross-persona mean](../claims/llama-ttr-collapse-roma-persona.md) [+W]
 - [LLM history tutors reduce marginalized students' access to contested geopolitical framing, with the coup theory appearing in 2.6% of Low Tier responses versus 7.9% for the baseline](../claims/epistemic-gatekeeping-coup-gap.md) [+W]
+- [The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus](../claims/persona-constraint-alters-llm-analytical-focus.md) [+W]
 
 ## Related Products and Programmes
 

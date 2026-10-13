@@ -12,7 +12,7 @@ generated:
 # Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 TSDR is a model-agnostic debiasing framework for knowledge tracing that integrates a doubly robust estimator — combining Inverse Propensity Weighting with error imputation — with a temporal smoothness regularizer on the imputation model's latent trajectory. The article states that "TSDR jointly optimizes the KT predictor and the imputation model with a smoothness regularizer, effectively reducing variance while preserving the unbiasedness guarantee of DR." It treats each time step's knowledge state as a temporal "user" and co-optimizes propensity, imputation, and KT models via an alternating strategy. The smoothness constraint is motivated by the Power Law of Practice, characterizing skill acquisition as a smooth power-function trajectory.
@@ -22,8 +22,12 @@ TSDR is a model-agnostic debiasing framework for knowledge tracing that integrat
 - **Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing**: TSDR is a model-agnostic debiasing framework for knowledge tracing that integrates a doubly robust estimator — combining Inverse Propensity Weighting with error imputation — with a temporal smoothness regularizer on the imputation model's latent trajectory. The article states that "TSDR jointly optimizes the KT predictor and the imputation model with a smoothness regularizer, effectively reducing variance while preserving the unbiasedness guarantee of DR." It treats each time step's knowledge state as a temporal "user" and co-optimizes propensity, imputation, and KT models via an alternating strategy. The smoothness constraint is motivated by the Power Law of Practice, characterizing skill acquisition as a smooth power-function trajectory. (Peilin Zhan et al. (2026))
 
 ### Claims
+
 - [TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets](../claims/tsdr-improves-kt-backbone-auc-benchmarks.md) [+M]
 - [Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8](../claims/tsdr-robust-across-mnar-spectrum.md) [+M]
+- [In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones](../claims/tsdr-ablation-smoothness-on-imputation-branch.md) [+W]
+- [TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in (0.3, 1.0)](../claims/tsdr-lambda-sweet-spot-robustness.md) [+W]
+- [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau](../claims/tsdr-improves-calibration-acc-rmse.md) [+W]
 
 ## Related Research Methods
 -

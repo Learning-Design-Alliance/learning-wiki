@@ -12,7 +12,7 @@ generated:
 # Trustworthiness lens for evaluating LLMs in education
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes adapting trustworthiness criteria from the ML community as a structured lens for LLM evaluation in education. Trustworthiness functions as an anchor that connects high-level ethical concerns (fairness, safety) to concrete, quantifiable measurements that learning engineers can apply per response. The authors argue this lens helps "bridge the LLM evaluation gap" by providing measurements that help learning engineers align on education-specific challenges and systematically identify potential pedagogical disruptions before deployment.
@@ -25,6 +25,7 @@ The article proposes adapting trustworthiness criteria from the ML community as 
 
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](../claims/trustworthiness-metrics-visualizations-increase-expert-agreement.md) [+W]
 - [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](../claims/trustworthiness-not-fully-automatable-requires-human-judgment.md) [~W]
+- [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](../claims/non-verifiability-crisis-llm-judges-misalign.md) [~W]
 
 ## Related Research Methods
 

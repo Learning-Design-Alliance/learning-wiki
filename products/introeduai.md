@@ -13,7 +13,7 @@ generated:
 # IntroEduAI
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (1 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 IntroEduAI is an educational platform developed to deliver programming assignments, automatically evaluate student responses with large language models against instructor-authored rubrics, and generate response-level feedback and assignment-level reports.
@@ -24,8 +24,11 @@ IntroEduAI is an educational platform developed to deliver programming assignmen
 - **IntroEduAI platform for assessment collection and parallel human/LLM evaluation**: IntroEduAI is a web-based platform, originally developed for prior research on automated formative assessment, that served as the technical infrastructure for assessment collection and automated evaluation in this study. It implements a Model-View-Controller architecture using Flask with REST API endpoints for LLM integration, and supports rubric upload and configuration, student response collection, parallel human and LLM-based evaluation, and data aggregation for export. Automated evaluation uses few-shot prompting with rubric integration; for text questions it adds Retrieval-Augmented Generation via LangChain and ChromaDB over course materials (1000-character chunks with 200-character overlap, top-5 retrieval), while code questions are evaluated without external retrieval. (Pedro C. Mendonça et al. (2026))
 
 ### Claims
+
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](../claims/llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) [+M]
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](../claims/llm-consolidated-report-cognitive-load-lowest.md) [+M]
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [~W]
+- [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](../claims/structured-free-form-llm-deviation-contrast.md) [~W]
 
 ## Related Products and Programmes
 -

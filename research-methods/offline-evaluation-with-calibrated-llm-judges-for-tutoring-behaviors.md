@@ -12,7 +12,7 @@ generated:
 # Offline evaluation with calibrated LLM judges for tutoring behaviors
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 7 studies (4 design, 2 causal, 1 associational), `q2`–`q3` · 0 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 The team maintains targeted offline datasets sampled from production completions, including an answer-giveaway dataset where "The final dataset consists of 63 data points" and a Tutor Me input-classification dataset where "the dataset consisted of 794 data points." LLM judges calibrated against human experts measure cognitive engagement, math errors, and answer giveaway; the engagement judge shows "an F1 score of 0.83, Matthews Correlation Coefficient of 0.75, false positive rate of 0.08, and false negative rate of 0.17."
@@ -24,8 +24,15 @@ The team maintains targeted offline datasets sampled from production completions
 - **14-criteria LLM evaluator as a proxy for learner success**: A lightweight LLM-based evaluator (GPT-5-mini) that decomposes each tutoring transcript into 14 binary pedagogical criteria (e.g., tutor scaffolding, student understanding, curiosity) and computes a weighted score. Weights derive from Pearson correlations with expert-labeled sessions (N=138), and three evaluation runs are aggregated by majority voting, improving self-consistency to 94.31%. The article introduces it as "an immediate proxy for learners' success, even in the absence of downstream exercise scores." (Po-Chin Chang et al. (2026))
 
 ### Claims
+
 - [The LLM evaluator score discriminates between simulated-student motivation profiles](../claims/llm-evaluator-discriminates-student-profiles.md) [+M]
 - [Higher AI pedagogical scores are associated with exercise conversion in real student sessions](../claims/pedagogical-score-predicts-exercise-conversion.md) [+M]
+- [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](../claims/educlaw-bench-judge-panel-human-validation.md) [+W]
+- [The ConvTutor–PedTutor helpfulness ordering is judge-contingent, reversing between the Opus and Sol judges on two of three tutor bases](../claims/helpfulness-ordering-judge-contingent.md) [~W]
+- [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](../claims/har-outperforms-llm-judge-acceptance-alignment.md) [~W]
+- [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](../claims/llm-judge-small-incremental-differences-ceiling.md) [~W]
+- [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](../claims/slm-judges-show-severe-leniency-bias.md) [-W]
+- [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](../claims/llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) [~W]
 
 ## Related Research Methods
 

@@ -13,7 +13,7 @@ generated:
 # SAFETUTORS benchmark
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 A benchmark dataset of single-turn and multi-turn mathematics, physics, and chemistry tutoring dialogues, created and human-validated by Rima Hazra et al. for joint safety and pedagogical evaluation of AI tutors.
@@ -30,6 +30,7 @@ A benchmark dataset of single-turn and multi-turn mathematics, physics, and chem
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](../claims/no-llm-tutor-reliably-safe-60-percent-harm.md) [+W]
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](../claims/single-turn-answer-disclosure-challenge-near-zero.md) [+W]
 - [Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs](../claims/llm-scale-does-not-predict-tutor-safety.md) [+W]
+- [LLM attack success rates increase consistently from single-turn to static multi-turn and dynamic multi-turn interactions in educational settings](../claims/asr-increases-dynamic-multi-turn-education.md) [+W]
 
 ## Related Products and Programmes
 -

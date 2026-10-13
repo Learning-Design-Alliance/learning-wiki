@@ -13,7 +13,7 @@ generated:
 # SVLAT: Scientific Visualization Literacy Assessment Test
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 SVLAT is a standardized test developed by Patrick Phuoc Do et al. for measuring non-experts' ability to read, understand, and interpret scientific visualizations and illustrations.
@@ -23,7 +23,9 @@ SVLAT is a standardized test developed by Patrick Phuoc Do et al. for measuring 
 - **SVLAT: Scientific Visualization Literacy Assessment Test**: SVLAT is a standardized, psychometrically grounded instrument for measuring how well non-experts read, understand, and interpret scientific visualizations and illustrations. It "consists of 49 items based on 18 scientific visualizations and illustrations, including static images and animations, spanning 8 SciVis techniques and 11 task types." It follows a closed-world design in which each item is intended to be answerable using only the provided visualization and caption. In this article it serves as the benchmark for evaluating MLLM SciVis literacy, with a human baseline established via an online tryout with 485 non-expert participants. (Patrick Phuoc Do et al. (2026))
 
 ### Claims
+
 - [Gemini-3.1-Pro-Preview is the strongest MLLM on SVLAT, exceeding the human mean, while the three open-source models remain below the human baseline](../claims/gemini-exceeds-human-mean-scivis-literacy-open-source-below.md) [+M]
+- [MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps](../claims/mllm-accuracy-uneven-across-scivis-techniques.md) [~W]
 
 ## Related Products and Programmes
 -

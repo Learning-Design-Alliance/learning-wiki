@@ -45,7 +45,7 @@ sources:
 # Freshman OnTrack
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 24 claims (23 for, 1 mixed) · 10 studies (5 associational, 2 causal, 2 design, 1 qualitative), `q2`–`q3` · 0 of 10 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (23 for, 2 mixed) · 11 studies (5 associational, 2 causal, 2 design, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 11 report an effect size · 24 claims rest on one study
 
 ## Description
 A school early-warning indicator and dashboard system that combines student attendance, grades, discipline, and momentum data to monitor freshman on-track status and guide support.
@@ -61,6 +61,7 @@ A school early-warning indicator and dashboard system that combines student atte
 - **Freshman and Sophomore Success Categories: a four-level indicator taxonomy for monitoring students**: The report proposes parallel four-category systems for incoming sophomores (Freshman Success Categories) and for monitoring during sophomore year (Sophomore Success Categories). Each system layers GPA, course failures, and attendance onto on-track status: "This system contains four Freshman Success Categories: 1) Off-Track, 2) On-Track Warning, 3) On-Track Below 3.0, and 4) On-Track Above 3.0." The categories identify distinct groups needing different supports, from credit recovery for off-track students to grade maintenance for students above 3.0 seeking selective post-secondary access. (Seeskin et al. (2020))
 
 ### Claims
+
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](../claims/fragmented-data-systems-slow-intervention-planning.md) [+W]
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](../claims/off-track-ninth-grade-half-graduation-likelihood.md) [+M]
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](../claims/freshman-attendance-predicts-graduation-independent-of-gpa.md) [+W]
@@ -88,6 +89,7 @@ A school early-warning indicator and dashboard system that combines student atte
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](../claims/performance-declines-freshman-to-sophomore.md) [+M]
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](../claims/sophomore-gains-unequal-by-race-gender.md) [+M]
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](../claims/sophomore-ontrack-predictive-but-limited.md) [~M]
+- [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](../claims/grades-rose-tests-attendance-fell.md) [~W]
 
 ## Related Products and Programmes
 

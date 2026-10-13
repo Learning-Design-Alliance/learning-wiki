@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 4 mixed) · 18 studies (6 associational, 5 causal, 3 theoretical, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 18 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (6 associational, 5 causal, 4 theoretical, 2 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 19 report an effect size · 9 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -62,6 +62,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](../claims/subgroup-categories-mask-within-category-variation.md) [~W]
 - [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](../claims/surface-level-privacy-understanding-users.md) [~W]
 - [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](../claims/genai-misconceptions-web-search-item.md) [+W]
+- [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](../claims/ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) [+W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bridge built from what analysis reveals about prior knowledge to new content

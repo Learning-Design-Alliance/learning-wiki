@@ -17,7 +17,7 @@ sources:
 # Cosine similarity framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article introduces an angular-statistics framework in which item and test difficulty and discriminating values are obtained from the cosine of the angle between the observed score vector and the maximum possible score vector, involving inner products and vector lengths. It states that "This gives the novel area of angular statistics where Cosθ gives similarity between two vectors of same dimension." The framework uses the entire data, requires no assumption of continuity, linearity or normality, and yields difficulty and discrimination measures bounded between 0 and 1.
@@ -27,8 +27,10 @@ The article introduces an angular-statistics framework in which item and test di
 - **Cosine similarity framework for item and test parameters under classical test theory**: The article introduces an angular-statistics framework in which item and test difficulty and discriminating values are obtained from the cosine of the angle between the observed score vector and the maximum possible score vector, involving inner products and vector lengths. It states that "This gives the novel area of angular statistics where Cosθ gives similarity between two vectors of same dimension." The framework uses the entire data, requires no assumption of continuity, linearity or normality, and yields difficulty and discrimination measures bounded between 0 and 1. (Chakrabartty (2021))
 
 ### Claims
+
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](../claims/test-difficulty-value-cosine-definition.md) [+M]
 - [Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship](../claims/item-discrimination-cv-negative-difficulty-relation.md) [+M]
+- [Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)](../claims/test-discriminating-value-cv.md) [~W]
 
 ## Related Research Methods
 -

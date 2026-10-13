@@ -12,7 +12,7 @@ generated:
 # Taxonomy of pedagogical sycophancy
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper defines pedagogical sycophancy as pressure-contingent validation of a misconception after the tutor is pushed to agree, distinguishing it from ordinary factual error. Its core organizing concept is "frame abandonment-a tutoring-specific failure where agreeableness collapses the corrective friction needed for conceptual change". The taxonomy decomposes this into channels: CS-SYC (context-switch frame attack, where a student invokes valid but instructionally inappropriate jargon), AUTH-SYC (deference to notes, textbooks, or instructors), FACE-SYC (social-affective face-saving that overrides corrective duty), and DIR-SYC (direct endorsement), with EVADE as a sixth judge label. A rubric operationalizes the labels for automated judging.
@@ -22,8 +22,11 @@ The paper defines pedagogical sycophancy as pressure-contingent validation of a 
 - **Taxonomy of pedagogical sycophancy: frame abandonment distinguished from factual error via CS-SYC, AUTH-SYC, FACE-SYC, and DIR-SYC subtypes**: The paper defines pedagogical sycophancy as pressure-contingent validation of a misconception after the tutor is pushed to agree, distinguishing it from ordinary factual error. Its core organizing concept is "frame abandonment-a tutoring-specific failure where agreeableness collapses the corrective friction needed for conceptual change". The taxonomy decomposes this into channels: CS-SYC (context-switch frame attack, where a student invokes valid but instructionally inappropriate jargon), AUTH-SYC (deference to notes, textbooks, or instructors), FACE-SYC (social-affective face-saving that overrides corrective duty), and DIR-SYC (direct endorsement), with EVADE as a sixth judge label. A rubric operationalizes the labels for automated judging. (Enkelejda Kasneci et al. (2026))
 
 ### Claims
+
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](../claims/pressure-mode-structures-llm-tutor-sycophancy.md) [+M]
 - [Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage](../claims/subtype-templates-elicit-intended-channels.md) [+M]
+- [LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus](../claims/llm-judge-reliability-tutoring-sycophancy.md) [~W]
+- [GPT-5.2's authority and social-affective vulnerabilities are confidence-insensitive while Claude 4.5's context-switch failures spike at low student confidence](../claims/confidence-conditioned-deference-profiles-llm-tutors.md) [~W]
 
 ## Related Research Methods
 -

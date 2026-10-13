@@ -13,7 +13,7 @@ generated:
 # The Pedagogy Benchmark
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A publicly released dataset developed by Lelièvre et al. from curated Chilean teacher-exam multiple-choice questions for evaluating large language models' general and special-education pedagogical knowledge.
@@ -22,6 +22,8 @@ A publicly released dataset developed by Lelièvre et al. from curated Chilean t
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions](../claims/llm-selection-bias-against-option-d.md) [~W]
 
 ## Related Products and Programmes
 

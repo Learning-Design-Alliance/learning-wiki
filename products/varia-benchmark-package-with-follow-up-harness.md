@@ -13,7 +13,7 @@ generated:
 # VARIA benchmark package with follow-up harness
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Ernesto Lee and colleagues' VARIA package provides assessment-variant blueprints, rubrics, canonical solutions, prompting strategies, evaluation metrics, and runnable follow-up analysis code for benchmarking LLM-generated construct-equivalent assessment variants.
@@ -28,6 +28,7 @@ Ernesto Lee and colleagues' VARIA package provides assessment-variant blueprints
 - [Under illustrative property thresholds, no prompting strategy passes all measured AIAA properties in every model-blueprint cell; few-shot anchoring passes only 2 of 9 cells](../claims/threshold-gating-no-strategy-fully-passes.md) [+W]
 - [Few-shot anchoring trades surface diversity against construct equivalence and readability parity, with each direction significant at p = 0.004 relative to zero-shot](../claims/few-shot-anchoring-three-way-tradeoff.md) [+W]
 - [Individual model-strategy cells span J = 0.704 to 0.900, a model-by-prompt interaction wider than the tight strategy-level frontier band](../claims/varia-model-by-prompt-interaction.md) [+W]
+- [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](../claims/structured-free-form-llm-deviation-contrast.md) [~W]
 
 ## Related Products and Programmes
 

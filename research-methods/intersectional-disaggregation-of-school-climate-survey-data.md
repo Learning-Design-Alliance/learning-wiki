@@ -12,7 +12,7 @@ generated:
 # Intersectional disaggregation of school-climate survey data
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 This report's organizing method is to disaggregate one large survey dataset along intersecting identity axes rather than analyzing LGBTQ students as a single group. It disaggregates by "three gender identity categories" and "five sexual orientation categories" across seven race/ethnicity groups, then further disaggregates Asian students by 10 Asian-group identities, revealing that disparities "vary by race/ethnicity group" and that aggregate trends carry exceptions visible only at finer grain.
@@ -23,9 +23,11 @@ This report's organizing method is to disaggregate one large survey dataset alon
 - **Disaggregate staff climate perceptions by race/ethnicity and role rather than relying on aggregate staff perceptions**: Because aggregate staff perceptions may primarily reflect the views of the largest and most positive-perceiving groups, schools should examine perceptions disaggregated by race/ethnicity and role. The brief states these findings "highlight the need to look beyond the aggregate perceptions of staff, which may primarily reflect the views of White respondents (60% of the sample) and teachers (68% of the sample)." Staff in less positive-perceiving groups may have unique insights into unwelcoming aspects of school climate. (McCullough et al. (2022))
 
 ### Claims
+
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](../claims/lgbtq-disparities-vary-with-exceptions-by-group.md) [+M]
 - [African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities](../claims/african-american-staff-least-positive-instructional-equity-perceptions.md) [+M]
 - [Staff perceptions of instructional equity varied by role: teachers, special education teachers, and administrators most positive; paraprofessionals, resource officers, and counselors least positive](../claims/staff-role-differences-instructional-equity-perceptions.md) [+M]
+- [The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter](../claims/intersectional-risk-likelihood.md) [~W]
 
 ## Related Research Methods
 -

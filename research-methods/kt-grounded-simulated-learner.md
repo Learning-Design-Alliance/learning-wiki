@@ -12,7 +12,7 @@ generated:
 # KT-grounded simulated learner
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The simulated learner couples two components: a knowledge tracing model (AKT) that maintains a per-KC belief map trained on real student interaction data, and an LLM that role-plays the student and generates free-response attempts. The AKT model is "trained on real XES3G5M learners" and "maintains a per-KC belief map" that is updated at each observation. The LLM student generates answers conditioned on the KT belief state, and "graded probe outcomes are fed back into fθ, so KT and LLM stay coupled across D=30 virtual days." This design addresses the known failure of pure LLM-simulated students to reproduce real students' ability distributions, misconception dynamics, or authenticity under tutoring.
@@ -23,7 +23,9 @@ The simulated learner couples two components: a knowledge tracing model (AKT) th
 - **Pair LLMs with explicit learner-state representations and transition rules for longitudinal simulation**: For modeling learning trajectories, the article recommends hybrid architectures that pair an LLM with an explicit learner-state representation and a defined transition rule, such as knowledge tracing, proficiency variables, misconception graphs, or cognitive models. It argues that "Longitudinal simulation benefits from explicit learning mechanisms rather than context-window prompting alone", because prompt-only approaches yield abrupt novice-to-expert jumps and unstable competence across turns. This makes trajectories interpretable and calibratable and failures diagnosable. (Zhihao Yuan et al. (2026))
 
 ### Claims
+
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](../claims/educlaw-bench-simulator-calibration.md) [+M]
+- [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](../claims/hybrid-llm-knowledge-tracing-outperforms-either-alone.md) [~W]
 
 ## Related Research Methods
 -

@@ -12,7 +12,7 @@ generated:
 # Subject-level demographic MAE-gap fairness regularization for multimodal attention models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 mixed, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An in-processing fairness framework that adds a demographic disparity penalty to the training objective of a multimodal attention model. Per-subject MAEs are averaged within each demographic group, and "The fairness penalty was defined as the gap between the highest and lowest group-level subject MAE", weighted by a trade-off parameter λ added to the weighted MSE task loss. Regularization is introduced after a two-epoch warm-up, with subject- and group-balanced batch sampling so every represented subject contributes equally to the penalty. λ is selected on validation data subject to a constraint that mean validation MAE increases by no more than 0.02 relative to the unregularized baseline.
@@ -22,7 +22,9 @@ An in-processing fairness framework that adds a demographic disparity penalty to
 - **Subject-level demographic MAE-gap fairness regularization for multimodal attention models**: An in-processing fairness framework that adds a demographic disparity penalty to the training objective of a multimodal attention model. Per-subject MAEs are averaged within each demographic group, and "The fairness penalty was defined as the gap between the highest and lowest group-level subject MAE", weighted by a trade-off parameter λ added to the weighted MSE task loss. Regularization is introduced after a two-epoch warm-up, with subject- and group-balanced batch sampling so every represented subject contributes equally to the penalty. λ is selected on validation data subject to a constraint that mean validation MAE increases by no more than 0.02 relative to the unregularized baseline. (Christoforos Fragkiadakis et al. (2026))
 
 ### Claims
+
 - [Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects](../claims/mae-gap-regularization-validation-gains-do-not-generalize.md) [~M]
+- [Repeated subject-level split experiments confirm that validation-level fairness improvements from MAE-gap regularization do not correspond to consistent generalization to unseen subjects](../claims/repeated-subject-splits-confirm-fairness-non-generalization.md) [-W]
 
 ## Related Research Methods
 -

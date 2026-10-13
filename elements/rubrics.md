@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 3 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 13 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -37,6 +37,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - Simple checklists of surface criteria can substitute for genuine quality judgment; learners optimize for the checklist rather than the underlying quality [Checklist-style evaluation tools show weak effects in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-W]
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](../claims/aa-students-passive-users-of-rubrics.md) [-W]
 - [Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered](../claims/gender-no-detectable-effect-underpowered.md) [~W]
+- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
 
 ## Related Elements
 - [Rubric Design](rubric-design.md)

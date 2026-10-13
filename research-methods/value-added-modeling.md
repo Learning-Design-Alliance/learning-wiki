@@ -41,7 +41,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 34 claims (32 for, 1 mixed, 1 against) · 17 studies (13 associational, 2 review, 2 design), `q1`–`q3` · 0 of 17 report an effect size · 34 claims rest on one study
+> **Evidence** · 42 claims (32 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 42 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.
@@ -58,6 +58,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - **Value-added measurement of teacher performance as the basis for defining highest-performing teachers**: The brief defines value-added in ideal terms as "the contribution of the teacher to student achievement growth, holding constant the factors outside the teacher's control." It estimates value-added as average test-score growth for each teacher relative to the district average, with statistical controls for student background and entering achievement, using up to three years of data per teacher for precision. The top 20 percent of teachers within each district, subject, and grade span are labeled highest performing. The authors note active debate about high-stakes use but observe these measures resemble indicators districts use in Race to the Top, the Teacher Incentive Fund, DC's IMPACT syste (Steven Glazerman et al. (2011))
 
 ### Claims
+
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](../claims/access-effective-teaching-varies-across-districts.md) [+W]
 - [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+W]
 - [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](../claims/teaching-effectiveness-disparity-small-share-of-achievement-gap.md) [+W]
@@ -93,6 +94,14 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](../claims/elementary-equitable-distribution-highest-performing-teachers.md) [+W]
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](../claims/elementary-underrepresentation-four-of-eight-districts.md) [+W]
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](../claims/high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) [+W]
+- [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](../claims/hard-to-predict-students-less-precise-teacher-va-estimates.md) [~W]
+- [Some educators are concerned that students scoring at the bottom or top of a test's score distribution will negatively affect the value-added estimates of those students' teachers](../claims/educator-concern-floor-ceiling-value-added.md) [~W]
+- [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](../claims/reach-va-overlap-across-observation-quintiles.md) [~W]
+- [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](../claims/lower-ceilings-shrink-value-added-toward-average.md) [~W]
+- [Schools' K-3 growth estimates are likely less valid than grade 3-4 growth estimates but have similar precision](../claims/k3-growth-less-valid-than-grade3-4-similar-precision.md) [~W]
+- [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](../claims/observation-scores-stronger-school-characteristic-relationship.md) [~W]
+- [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](../claims/teacher-race-observation-gaps-explained-by-school-poverty.md) [~W]
+- [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](../claims/reach-observation-value-added-correlation-0349.md) [~W]
 
 ## Related Research Methods
 -

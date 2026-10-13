@@ -17,7 +17,7 @@ sources:
 # Taxonomy of test-score-based school evaluation estimators
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper organizes approaches to using student test scores for school evaluation into distinct estimator families. As the abstract states, "There are many ways to use student test scores to evaluate schools. This paper defines and examines different estimators including regression-based value-added indicators, average gains, and successive cohort differences in achievement levels." The taxonomy distinguishes regression-based value-added modeling from simpler gain-based and cohort-comparison approaches, providing a framework for judging their suitability for accountability use.
@@ -27,6 +27,8 @@ The paper organizes approaches to using student test scores for school evaluatio
 - **A taxonomy of test-score-based school evaluation estimators: value-added, average gains, and successive cohort differences**: The paper organizes approaches to using student test scores for school evaluation into distinct estimator families. As the abstract states, "There are many ways to use student test scores to evaluate schools. This paper defines and examines different estimators including regression-based value-added indicators, average gains, and successive cohort differences in achievement levels." The taxonomy distinguishes regression-based value-added modeling from simpler gain-based and cohort-comparison approaches, providing a framework for judging their suitability for accountability use. (Glazerman et al. (2011))
 
 ### Claims
+
+- [Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information](../claims/successive-cohort-indicators-false-performance-gains.md) [+W]
 
 ## Related Research Methods
 -

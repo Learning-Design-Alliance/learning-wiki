@@ -18,7 +18,7 @@ sources:
 # Spanish MAP Growth Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 A Spanish-language, computer-adaptive K–8 reading achievement assessment developed by NWEA and linked to the English MAP Growth Reading scale.
@@ -28,6 +28,7 @@ A Spanish-language, computer-adaptive K–8 reading achievement assessment devel
 - **Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version**: Spanish MAP Growth Reading is a computer-adaptive reading assessment for Grades K–8 measuring achievement of students who either speak Spanish as their first language or receive instruction in Spanish. The report states it is "a parallel assessment with a scale linked to the existing English MAP Growth Reading assessments," using the Rasch Unit (RIT) scale ranging from 100 to 350. Tests are broken into K–2, 2–5, and 6–8 bands, are fully adaptive, and can be administered up to four times per year. (NWEA (2021))
 
 ### Claims
+
 - [English and Spanish MAP Growth Reading scales were statistically linked via a bilingual group design despite measuring similar but not identical constructs](../claims/spanish-english-reading-scale-linking-bilingual-group-design.md) [+W]
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](../claims/spanish-map-reading-adaptive-lower-sem.md) [+W]
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](../claims/spanish-map-reading-dif-patterns.md) [+W]
@@ -35,6 +36,7 @@ A Spanish-language, computer-adaptive K–8 reading achievement assessment devel
 - [Pilot user norms provide basic contextual information but are drawn from a limited, non-representative pool of test events](../claims/spanish-map-reading-pilot-norms-limited-pool.md) [~W]
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](../claims/spanish-map-reading-tau-equivalent-constructs.md) [+W]
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](../claims/spanish-map-growth-reading-40th-percentile-cut-scores.md) [+W]
+- [Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8](../claims/spanish-map-reading-test-retest-reliability-050-083.md) [~W]
 
 ## Related Products and Programmes
 -

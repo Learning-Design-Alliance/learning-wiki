@@ -13,7 +13,7 @@ generated:
 # LEA (Learning Engagement Assistant)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 LEA is a course-configurable agentic AI tutoring system developed by Rumble et al. that provides chat, tutoring, and quiz interactions with adaptive scaffolding and formative assessment.
@@ -22,9 +22,11 @@ LEA is a course-configurable agentic AI tutoring system developed by Rumble et a
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](../claims/orchestration-layer-generalises-knowledge-layer-adapts.md) [+M]
 - [RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses](../claims/ragas-faithfulness-declines-cross-course.md) [~M]
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer](../claims/lea-pilot-positive-usability-chat-quiz-trust.md) [+W]
+- [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](../claims/lea-simulation-evaluation-results.md) [+W]
 
 ## Related Products and Programmes
 -

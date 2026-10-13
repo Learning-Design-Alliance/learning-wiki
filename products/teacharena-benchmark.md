@@ -13,7 +13,7 @@ generated:
 # TEACHARENA benchmark
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A source-grounded benchmark and evaluation harness created by Zixin Chen et al. containing 354 audited teacher-task instances with matched verifiers for evaluating tutor agents' pedagogical judgment, adaptive tutoring, and institutional workflow execution.
@@ -22,9 +22,11 @@ A source-grounded benchmark and evaluation harness created by Zixin Chen et al. 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](../claims/teacharena-stage-rank-reshuffling.md) [+M]
 - [The strategic surface learner is the lowest-scoring Stage 2 profile for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles](../claims/strategic-surface-learner-lowest-stage2-profile.md) [+M]
 - [The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models](../claims/long-chain-workflows-lowest-stage3-family.md) [+M]
+- [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](../claims/claude-opus-48-highest-overall-unsaturated.md) [+W]
 
 ## Related Products and Programmes
 

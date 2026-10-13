@@ -17,7 +17,7 @@ sources:
 # Rapid guessing as a behavioral proxy for test effort
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 7 studies (4 associational, 1 causal, 1 design, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 10 studies (7 associational, 1 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 Rapid guessing is a behavioral proxy for test effort used to measure whether students are engaged with a test. It "occurs when students answer a test item so fast, they could not have understood its content." The study uses rates of rapid guessing to compare test effort across student subgroups and to condition achievement gap estimates on effort, treating low effort as a source of downward bias in observed scores.
@@ -27,6 +27,7 @@ Rapid guessing is a behavioral proxy for test effort used to measure whether stu
 - **Rapid guessing as a behavioral proxy for test effort**: Rapid guessing is a behavioral proxy for test effort used to measure whether students are engaged with a test. It "occurs when students answer a test item so fast, they could not have understood its content." The study uses rates of rapid guessing to compare test effort across student subgroups and to condition achievement gap estimates on effort, treating low effort as a source of downward bias in observed scores. (James Soland (2018))
 
 ### Claims
+
 - [Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students](../claims/test-effort-differs-by-subgroup-rapid-guessing.md) [+M]
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](../claims/rapid-guessing-generally-does-not-change-gap-interpretations.md) [+M]
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](../claims/rapid-guessing-signals-disengaged-test-taking.md) [+M]
@@ -37,6 +38,9 @@ Rapid guessing is a behavioral proxy for test effort used to measure whether stu
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](../claims/sel-factors-related-to-rapid-guessing.md) [+M]
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](../claims/academic-disengagement-related-to-test-disengagement.md) [+M]
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](../claims/male-female-gap-conclusions-sensitive-to-test-effort.md) [~W]
+- [Rapid guessing on achievement tests varies across grades, subjects, and teachers](../claims/rapid-guessing-varies-grade-subject-teacher.md) [~W]
+- [Rapid guessing is a validated indicator of disengaged item responding](../claims/rapid-guessing-validated-disengagement-indicator.md) [+W]
+- [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](../claims/disengagement-diluted-by-engaged-majority.md) [~W]
 
 ## Related Research Methods
 -

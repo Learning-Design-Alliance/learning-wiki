@@ -18,7 +18,7 @@ sources:
 # Day2Day Environment multimodal longitudinal dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 associational, 1 design), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 A longitudinal dataset created by Falkenstein Kim et al. that combines neuroimaging with wearable, physiological, behavioral, cognitive, affective, and environmental data collected across 25 timepoints from 30 adults.
@@ -27,8 +27,10 @@ A longitudinal dataset created by Falkenstein Kim et al. that combines neuroimag
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
 - [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](../claims/time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) [+W]
 - [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](../claims/outdoor-time-associated-with-right-dlpfc-grey-matter.md) [+W]
+- [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](../claims/seance-nominal-associations-no-survivors.md) [~W]
 
 ## Related Products and Programmes
 

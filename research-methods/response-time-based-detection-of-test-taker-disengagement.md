@@ -21,7 +21,7 @@ sources:
 # Response-time-based detection of test taker disengagement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring. The method detects disengaged item responses such as rapid guesses, and "research using this capability has revealed that test takers generally disengage during only a portion of their items." It functions as a measurement tool for flagging responses where response correctness no longer reflects achievement level.
@@ -32,11 +32,13 @@ The chapter describes a capability for identifying test taker disengagement usin
 - **Response-time-based identification of test taker disengagement (cessation of measurement)**: The page lists an associated NWEA research output, "A cessation of measurement: Identifying test taker disengagement using response time," presented as both a book and a presentation. This frames test disengagement as identifiable through response-time evidence, positioning disengagement detection as a measurement concern accompanying the rapid-guessing brief. The page prints no further detail about the framework's content. (Steven Wise (2019))
 
 ### Claims
+
 - [Rapid guessing differs from solution behavior as a form of test-taker disengagement](../claims/rapid-guessing-differs-from-solution-behavior.md) [+W]
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](../claims/disengagement-portion-of-items-momentary-cessation.md) [+W]
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](../claims/rapid-guessing-construct-irrelevant-response-process.md) [+W]
 - [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](../claims/rapid-guesses-in-scoring-distort-scores.md) [+W]
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](../claims/test-taking-engagement-essential-for-valid-scores.md) [+W]
+- [Rapid guessing is a validated indicator of disengaged item responding](../claims/rapid-guessing-validated-disengagement-indicator.md) [+W]
 
 ## Related Research Methods
 -

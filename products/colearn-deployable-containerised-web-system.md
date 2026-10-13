@@ -13,7 +13,7 @@ generated:
 # CoLearn deployable containerised web system
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 CoLearn is a containerised web application developed by Kailai He et al. for adaptive diagnostic Biology and Chemistry practice with LLM-generated questions and misconception feedback.
@@ -24,7 +24,9 @@ CoLearn is a containerised web application developed by Kailai He et al. for ada
 - **Make an adaptive tutor's personalisation visible and testable through live mastery visualisation and built-in blind A/B comparison**: CoLearn renders the agent's evolving belief in real time so "personalisation is something the user can see rather than take on trust", and includes a blind A/B interface presenting personalised and non-personalised questions in randomised, unlabelled positions. Results aggregate into an analytics dashboard reporting the preference rate, a 95% confidence interval, and a two-sided sign test against the 0.5 chance rate, making the adaptation inspectable and empirically testable by anyone. (Kailai He et al. (2026))
 
 ### Claims
+
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](../claims/collearn-ab-personalised-question-preference.md) [+M]
+- [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](../claims/collearn-usability-survey-4-of-5.md) [+W]
 
 ## Related Products and Programmes
 
