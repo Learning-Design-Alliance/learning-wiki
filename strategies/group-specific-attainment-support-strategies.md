@@ -17,7 +17,7 @@ sources:
 # Tailor attainment supports to each group's binding milestone: college application support for Latino young men, strengthened high school graduation supports for Black young men
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief recommends that because different milestones bind for different groups, educators should "support[] different strategies for each group of students." For Latino young men, whose graduation matches the district average but whose four-year enrollment lags, the recommended focus is assisting with college application and enrollment; for Black young men, whose graduation rate lags, the focus is changing practices and deepening supports around high school graduation. The brief also urges educators, policymakers, and researchers to critically examine biases reinforcing systematic barriers for young men of color.
@@ -36,6 +36,12 @@ The brief recommends that because different milestones bind for different groups
 ### Target Learning Goals
 - High school graduation
 - Four-year college enrollment and bachelor's degree completion
+
+## Claims
+
+- [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](../claims/cps-graduation-gaps-race-gender.md) [+W]
+- [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](../claims/latino-graduates-least-likely-plan-four-year-college.md) [+W]
+- [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](../claims/application-not-acceptance-primary-barrier-cps-college-enrollment.md) [+W]
 
 ## Related Strategies
 

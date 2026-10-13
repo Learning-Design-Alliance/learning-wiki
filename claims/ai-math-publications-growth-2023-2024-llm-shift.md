@@ -49,7 +49,7 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 - GenAI implementation research with medical students expanded rapidly after 2024 and is dominated by OpenAI models across controlled and comparative designs — related
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
 - Research on LLM-based family education increased sharply after 2023, following ChatGPT's release — a narrower finding that bears on this claim
-- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
+- Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation — related
 - Publication output on ethical and responsible AI use in medical education rose sharply after 2023, from 113 publications to 500 by 2025 — related
 - AI-WTC research in EFL contexts has expanded rapidly since 2021, concentrated in Asia and on generative AI chatbots — a narrower finding that bears on this claim
 - Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related

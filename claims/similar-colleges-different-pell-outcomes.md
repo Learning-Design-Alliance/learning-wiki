@@ -61,6 +61,9 @@ Peer comparison of two private institutions in the same Carnegie Classification,
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Improved completion rates at public institutions were not a byproduct of more selective admissions: improvers and non-improvers showed no significant differences in entering-student preparation or in Pell/URM enrollment changes](gains-not-byproduct-of-selectivity.md) — related
 - [Highlighted institutions attribute Pell success to deliberate support strategies, with peer mentoring and fixed tuition associated with gains](institutional-support-strategies-pell-success.md) — a narrower finding that bears on this claim

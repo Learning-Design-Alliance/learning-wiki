@@ -17,7 +17,7 @@ sources:
 # Evaluate charter schools against longer-term outcomes such as college enrollment and completion, not only short-term achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The brief recommends looking beyond immediate test-score impacts when judging charter schools, examining "if the charter middle schools included in the National Evaluation affected students’ college enrollment and completion." It treats college enrollment and completion as "important longer-term outcomes" and checks whether earlier achievement results predict them. This strategy supports evidence-based school reform decisions.
@@ -46,6 +46,7 @@ The brief recommends looking beyond immediate test-score impacts when judging ch
 - [Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college](../claims/charter-middle-admission-no-effect-degree-attainment-persistence.md) [+W]
 - [KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment](../claims/kipp-atlanta-collegiate-higher-college-enrollment.md) [+W]
 - [Charter middle schools' success in improving college outcomes was not related to their success in improving middle school achievement](../claims/charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) [+W]
+- [The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment](../claims/kipp-impacts-substantial-relative-racial-enrollment-disparities.md) [+W]
 
 ## Related Strategies
 

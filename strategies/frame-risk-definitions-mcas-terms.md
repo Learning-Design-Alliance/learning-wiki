@@ -17,7 +17,7 @@ sources:
 # Frame local risk definitions in MCAS terms: benchmarks near Partially Meeting identify students most in need, while benchmarks nearer Meeting Expectations identify students needing support to meet MCAS goals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief offers two framings for at-risk indicators anchored on the MCAS scale. For intensive intervention targeting the most needy students, 'benchmarks located near the Partially Meeting Expectations cut score (or even lower) could be useful at-risk indicators.' For identifying students who need support to meet MCAS expectations, benchmarks closer to the Meeting Expectations cut score — such as DIBELS 8th Edition or mClass Above Benchmark or i-Ready Mid or Above Grade Level — would be more useful, though more stringent and likely to identify a larger proportion of students.
@@ -35,6 +35,10 @@ The brief offers two framings for at-risk indicators anchored on the MCAS scale.
 
 ### Target Learning Goals
 - Early literacy skills aligned to MCAS ELA expectations
+
+## Claims
+
+- [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](../claims/significant-risk-low-mcas-meeting-rates.md) [+W]
 
 ## Related Strategies
 

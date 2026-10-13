@@ -18,7 +18,7 @@ sources:
 # KIPP middle schools
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 KIPP middle schools are public charter schools operated by the Knowledge Is Power Program (KIPP) network, which runs schools serving primarily underserved students across the United States.
@@ -28,7 +28,7 @@ KIPP middle schools are public charter schools operated by the Knowledge Is Powe
 - **KIPP middle schools as an evaluated intervention across the country**: KIPP middle schools are a charter school intervention whose nationwide effects were assessed by Mathematica Policy Research. The page states the brief "Provides comprehensive evidence on the effects of KIPP middle schools across the country," positioning the schools as the unit of evaluation for achievement outcomes in multiple subjects. (Various authors (2013))
 
 ### Claims
-- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](../claims/kipp-middle-schools-significant-achievement-gains.md) [+W]
+- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
 - [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](../claims/kipp-evaluation-43-schools-13-states.md) [+W]
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](../claims/kipp-middle-schools-positive-significant-math-reading-impacts.md) [+W]
@@ -65,7 +65,7 @@ KIPP middle schools are a charter school intervention whose nationwide effects w
 
 ## Claims
 
-- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](../claims/kipp-middle-schools-significant-achievement-gains.md) [+W]
+- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](../claims/kipp-middle-schools-positive-significant-achievement-effects.md) [+W]
 - [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](../claims/kipp-evaluation-43-schools-13-states.md) [+W]
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](../claims/kipp-middle-schools-positive-significant-math-reading-impacts.md) [+W]

@@ -42,6 +42,9 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — a broader claim this one bears on
 - [Field trip exposure positively affects students' proficiency on the standardized eighth-grade science exam](field-trips-positive-science-proficiency.md) — a broader claim this one bears on

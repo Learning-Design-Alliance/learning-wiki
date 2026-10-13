@@ -17,7 +17,7 @@ sources:
 # Build institutional data-use practice: train instructors to analyze learner data and align product data to required assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To move beyond minimal usage tracking, programs should build a data-use culture: set clear outcome goals, build in the expectation that instructors monitor learner progress with data, provide training in data analysis, and provide time and space to work with learners on struggle areas. Product developers should provide specific training on using data to differentiate instruction and align data and products to required assessments such as CASAS and TABE, since "many of the programs expressed some frustration that there was little alignment between the products' internal assessments and the standardized assessments that their learners were required to take."
@@ -40,6 +40,10 @@ To move beyond minimal usage tracking, programs should build a data-use culture:
 ### Target Learning Goals
 - personalized instruction targeting individual learner struggle areas
 - progress toward required standardized assessments
+
+## Claims
+
+- [Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth](../claims/educator-capacity-support-needs-tpe.md) [+W]
 
 ## Related Strategies
 

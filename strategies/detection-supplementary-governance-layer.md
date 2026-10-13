@@ -17,7 +17,7 @@ sources:
 # Recalibrate detection as a supplementary layer within multi-layer integrity governance rather than its foundation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends that institutions shift integrity governance from detection-based compliance models to structurally embedded assessment design, with detection serving as "a supplementary rather than foundational layer of integrity infrastructure". Detection may support formal adjudication in cases of clear misrepresentation or deliberate outsourcing, but governance mechanisms must prioritize assessment designs that evaluate transparent, justified decision-making.
@@ -38,6 +38,10 @@ The paper recommends that institutions shift integrity governance from detection
 
 ### Affordances
 - Postplagiarism Integrity Framework Responsibility
+
+## Claims
+
+- [Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship](../claims/judgement-locus-of-educational-integrity.md) [~W]
 
 ## Related Strategies
 

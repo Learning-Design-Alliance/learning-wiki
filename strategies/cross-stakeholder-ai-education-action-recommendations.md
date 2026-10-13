@@ -17,7 +17,7 @@ sources:
 # Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the Delphi findings and persona reflections, the article recommends actions assigned to policymakers (PM), researchers (RE), and practitioners (PR), organised under six goals including fostering knowledge exchange, responsible use of multimodal data, inclusive and equitable access, a shared dynamic vision, acceptable AI usage, and lifelong learning. Recommended actions include "Fostering collaborative knowledge construction through equitable and sustainable public-private stakeholder partnerships (PM, RE, PR)", formulating actionable guidelines for equitable access and data protection (PM), and providing ongoing professional learning opportunities in formal, non-formal, and informal settings (PR).
@@ -38,6 +38,10 @@ Based on the Delphi findings and persona reflections, the article recommends act
 
 ### Affordances
 - Educational Ecosystem Perspective Ai Integration
+
+## Claims
+
+- [Review identifies a sub-theme on educational providers expanding collaboration with other organisations amid digitalisation](../claims/collaboration-with-stakeholders-subtheme.md) [~W]
 
 ## Related Strategies
 

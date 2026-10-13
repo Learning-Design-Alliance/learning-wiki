@@ -3,6 +3,7 @@ type: claim
 title: The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics
 description: The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics
 id: kipp-lottery-offer-rct-group-balance
+aliases: [kipp-lottery-rct-balances-treatment-and-control]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
+
 `q3 i?` Random admission lotteries ensured that students offered KIPP middle school admission were similar on average to students not offered admission, on both observable characteristics (such as prior test scores) and unobservable ones (such as motivation and parental support). [→ Thomas Coen 2019](#thomas-coen-2019)
+
+`q3 i?` Random assignment through the admissions lottery is used to ensure treatment and control groups are similar on average on observable characteristics such as prior test scores and unobservable characteristics such as motivation and parental support. [→ Thomas Coen 2019](#thomas-coen-2019)
 
 ## Evidence
 
@@ -39,16 +43,31 @@ Design statement about the study's randomized controlled trial, in which admissi
 
 > "students who were offered admission to a KIPP middle school (the treatment group) are similar on average to students who did not receive an offer of admission (the control group)"
 
+<!-- merged 2026-10-13 from kipp-lottery-rct-balances-treatment-and-control: that page's entry for this study, which differed from the one above, kept verbatim.
+### Thomas Coen 2019
+
+Thomas Coen, Ira Nichols-Barrer, Philip Gleason. (2019). Long-Term Impacts of KIPP Middle Schools on College Enrollment and Early College Persistence. Cambridge, MA: Mathematica. https://www.mathematica.org/publications/long-term-impacts-of-kipp-middle-schools-on-college-enrollment-and-early-college-persistence
+
+`q3 · i?` · `causal · r?`
+
+The report describes its randomized controlled trial design: lottery-offered students (treatment) and non-offered students (control) are "similar on average" on observable and unobservable characteristics. No baseline statistics are printed on the page.
+
+> "This study uses a randomized controlled trial design to ensure that students who were offered admission to a KIPP middle school (the treatment group) are similar on average to students who did not receive an offer of admission (the control group) on both observable characteristics, such as prior test scores, and unobservable characteristics, such as levels of motivation and parental support."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — possibly the same claim (merge candidate)
+
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
 - [Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points](kipp-middle-offer-increases-four-year-college-enrollment.md) — related
-- [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-higher-earlier-years.md) — related
+- [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
 - [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
+- [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](flight-evidence-single-rct-compromised-randomization.md) — related
+- [Harlem Children's Zone lottery winners scored significantly higher in math and reading and showed long-term benefits](hcz-lottery-higher-math-reading-long-term-benefits.md) — a narrower finding that bears on this claim

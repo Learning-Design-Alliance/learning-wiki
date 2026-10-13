@@ -17,7 +17,7 @@ sources:
 # Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 quant-synthesis, 1 review, 1 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The review identifies three primary ethical concerns—data privacy and security, AI bias and fairness, and technology addiction and balanced use—and recommends concrete management strategies for each. For data privacy, it recommends "implementing robust data protection policies, obtaining explicit informed consent, adhering to relevant national and international data protection frameworks." For AI fairness, it recommends transparency in algorithmic decision-making, regular fairness audits, human oversight and appeal mechanisms, and diverse stakeholder involvement in system design. For over-reliance among younger learners, it recommends balanced learning experiences integrating technology with face-to-face interaction, explicit digital citizenship teaching, and monitoring of screen time. The review stresses that many included studies did not explicitly address ethical dimensions, a gap it calls increasingly consequential.
@@ -36,6 +36,12 @@ The review identifies three primary ethical concerns—data privacy and security
 
 ### Target Learning Goals
 - Safe, fair, and balanced use of AI-driven and data-intensive technologies in English language education
+
+## Claims
+
+- [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](../claims/cai-ethical-concerns-human-ai-relationship-persistent.md) [~W]
+- [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](../claims/chatgpt-steam-ibl-educator-institutional-challenges.md) [+M]
+- [Safeguards in university AI policies are sparse and unevenly covered](../claims/safeguard-coverage-sparse-ai-policies.md) [+W]
 
 ## Related Strategies
 

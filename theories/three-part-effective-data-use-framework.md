@@ -16,7 +16,7 @@ sources:
 # Three-part framework for effective data use: system development, a coherent use plan, and support for use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size
 
 ## Description
 The brief organizes effective data use in education into three complementary strands addressed across a brief series: developing and enhancing data systems, developing a coherent plan for effectively using data, and supporting the effective use of a data system. As the brief states, "This brief focuses on considerations for developing and enhancing data systems. The other two briefs focus on developing a coherent plan for effectively using data and on supporting the effective use of a data system." The framework treats infrastructure, planning, and support as distinct but linked conditions for data-driven decision making.
@@ -39,7 +39,7 @@ The brief organizes effective data use in education into three complementary str
 
 ### Claims
 
-- [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](../claims/data-often-leaves-educators-unmoved.md) [+W]
+- [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](../claims/data-often-fails-to-drive-education-decisions.md) [+W]
 
 ## Related Theories
 

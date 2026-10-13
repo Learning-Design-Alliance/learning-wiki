@@ -50,7 +50,7 @@ The report's comparative finding from analyses of the 2004-05 CPS ninth-grade co
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — a broader claim this one bears on
 - [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](early-proficiency-better-ninth-grade-performance.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
-- [Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs](new-ell-strong-freshman-weak-graduation.md) — related
+- Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [Graduation rates differed by timing of English proficiency: 60 percent for middle-grades proficiency versus 68 percent for pre-sixth-grade proficiency](proficiency-timing-graduation-rates-60-68.md) — related
 - [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
 - [High-level outcome measures like graduation rates offer little actionable guidance for educators within a school year](graduation-rates-little-actionable-guidance.md) — related

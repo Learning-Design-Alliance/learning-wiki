@@ -17,7 +17,7 @@ sources:
 # Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation is that future research move beyond conceptual and pilot work by testing AI tools in real university settings, measuring their environmental impact, and developing policies that combine ethical and sustainability goals. It argues greater involvement from students, staff, and faculty is essential to ensure AI supports a fair and sustainable future for higher education.
@@ -38,6 +38,10 @@ The review's forward-looking recommendation is that future research move beyond 
 ### Target Learning Goals
 - responsible and sustainable AI adoption
 - institutional sustainability strategy
+
+## Claims
+
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](../claims/ai-sustainability-initiatives-limited-exploratory.md) [+W]
 
 ## Related Strategies
 

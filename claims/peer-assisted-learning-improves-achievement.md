@@ -76,5 +76,5 @@ Earlier Related Claims:
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
-- [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](demanding-assignments-benefit-all-achievement-levels.md) — related
+- [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](high-and-low-achievers-benefit-from-quality-assignments.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related

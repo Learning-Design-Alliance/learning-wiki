@@ -129,7 +129,10 @@ def get_page_meta(path: Path) -> dict:
 
 
 def bullet(page_type: str, p: dict) -> str:
-    line = f"* [{p['title']}]({p['slug']}.md)"
+    dest = f"{p['slug']}.md"
+    if ok.link_needs_angle_brackets(dest):
+        dest = f"<{dest}>"   # a bare destination closes at the first ')' (CLAUDE.md, settled items)
+    line = f"* [{p['title']}]({dest})"
     if p["description"]:
         line += f" - {p['description']}"
     return line

@@ -19,7 +19,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (6 for, 31 mixed, 1 against) · 22 studies (6 causal, 6 review, 6 associational, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 22 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (6 for, 34 mixed, 2 against) · 26 studies (10 associational, 6 causal, 6 review, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 26 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,10 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](../claims/no-gender-difference-either-test-form.md) [+W]
 - [Essay position did not affect essay scores, but essay-last students wrote essays of similar quality in less time using fewer words](../claims/essay-position-no-score-effect-less-time-fewer-words.md) [~W]
 - [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](../claims/gpa-test-scores-best-college-degree-prediction-el.md) [~W]
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](../claims/boys-faster-than-girls-no-achievement-difference.md) [~W]
+- [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](../claims/high-school-effects-same-gpa-act-graduation-rates.md) [-W]
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](../claims/race-gender-grade-differences-persist.md) [~W]
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](../claims/filtering-reverses-black-white-growth-gap.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

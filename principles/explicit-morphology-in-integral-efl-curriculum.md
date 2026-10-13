@@ -17,7 +17,7 @@ sources:
 # Make explicit English morphology instruction an integral part of the EFL secondary school curriculum
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 causal), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues that EFL secondary students receive no regular explicit morphology instruction because teachers misperceive Communicative Language Teaching as excluding form-focused instruction, and that this marginalization costs students vocabulary and comprehension gains. It recommends that "teaching English morphology should be an integral part of EFL secondary school curriculum", that textbook designers incorporate a section promoting morphological awareness, and that teachers provide explicit morphological instruction. The recommendation rests on the study's experimental gains in morphological awareness and reading comprehension.
@@ -45,6 +45,7 @@ The article argues that EFL secondary students receive no regular explicit morph
 - [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
 - [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
+- [Morphological Instruction Improves Vocabulary](../claims/morphological-instruction-improves-vocabulary.md) [+M]
 
 ## Related Principles
 - 

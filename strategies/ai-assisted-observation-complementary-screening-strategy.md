@@ -17,7 +17,7 @@ sources:
 # Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size
 
 ## Description
 The article recommends positioning AI-assisted observation as a complement to, not a replacement for, trained human observers. AI should serve "as a first pass scoring and evidence-surfacing tool that directs human attention where it is most needed", in a hybrid model where raters interpret emotional nuance and support professional learning. AI outputs "should be framed as evidence for reflection rather than as scores for evaluation", and teacher-facing tools should be introduced with explicit training on the model's capabilities and limits.
@@ -38,6 +38,10 @@ The article recommends positioning AI-assisted observation as a complement to, n
 
 ### Target Learning Goals
 - Scalable, evidence-based classroom quality assessment supporting teacher reflection and instructional improvement
+
+## Claims
+
+- [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](../claims/yunyi-human-agreement-varies-by-dimension.md) [~M]
 
 ## Related Strategies
 

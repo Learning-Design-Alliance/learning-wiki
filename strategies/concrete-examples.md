@@ -13,7 +13,7 @@ generated:
 # Concrete Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 2 against) · 15 studies (9 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 2 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (6 for, 2 against) · 16 studies (9 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Concrete examples anchor abstract ideas in specific, tangible instances — a worked physics problem for the principle of conservation, a real negotiation transcript for game theory, a particular poem for the concept of meter. The strategy is carried out by presenting one or more instances first (or alongside the abstraction), then helping learners map features of the example onto the general principle.

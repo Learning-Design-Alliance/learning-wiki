@@ -16,7 +16,7 @@ sources:
 # Bayesian adaptive randomized program evaluation framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a Bayesian approach to randomized program evaluations in which the design "adapts to accumulating evidence": over the course of an evaluation, "more study subjects are allocated to treatment arms that are more promising, given the specific subgroup from which each subject comes". The framework is offered as a novel statistical method for evaluators seeking to take full advantage of growing public-program data streams, efficiently identifying what works for whom.

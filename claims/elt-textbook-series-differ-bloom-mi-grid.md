@@ -44,7 +44,7 @@ Chi-square comparison of the coded frequency grids for the high school textbooks
 
 ## Related Claims
 - [Chi-square analysis shows the distribution of learning theories in Iranian ELT textbooks differs significantly from chance](chi-square-significant-distribution-learning-theories-iranian-elt-textbooks.md) — related
-- [Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A](question-cognitive-level-differs-by-course-year.md) — related
+- Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
 - [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related
 - [The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks](interchange-outnumbers-high-school-objectives.md) — related
 - [Linguistic intelligence dominated both series while natural intelligence was least frequent](linguistic-intelligence-dominates-elt-textbooks.md) — related

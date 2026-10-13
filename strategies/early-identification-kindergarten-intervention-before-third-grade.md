@@ -17,7 +17,7 @@ sources:
 # Use kindergarten-entry test data for early identification so educators can intervene before third grade
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The page's description of the "Behind at the starting line" brief frames early identification as an actionable practice: "This early identification is key for educators, enabling them to intervene and influence learning trajectories before the next critical milestone: third grade." The strategy is to screen children's skills at kindergarten entry, use the resulting patterns to flag students at risk of falling further behind, and intervene early enough to change trajectories before third grade.
@@ -35,6 +35,11 @@ The page's description of the "Behind at the starting line" brief frames early i
 
 ### Target Learning Goals
 - early literacy and math skills; reaching proficiency by third grade
+
+## Claims
+
+- [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](../claims/el-labeling-virginia-reading-proficiency-gap.md) [+W]
+- [Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores](../claims/higher-kei-scores-predict-higher-grade3-ela-pssa.md) [+W]
 
 ## Related Strategies
 

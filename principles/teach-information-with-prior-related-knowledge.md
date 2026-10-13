@@ -18,7 +18,7 @@ sources:
 # Teach new information for which learners have some prior related knowledge, because familiarity stimulates elaborative processing that supports later retrieval
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 This principle holds that presenting information students already have some knowledge about encourages elaborative processing, which in turn increases the probability that target propositions will be recalled after a delay. The report found that "familiarity(or prior knowledge) facilitateselaborative processing which in turn increasesthe probability that targetpropositions will be recalled after a month'sdelay", and that students reported using elaborations to cue retrieval more often for more familiar passages.
@@ -40,8 +40,10 @@ This principle holds that presenting information students already have some know
 - reading comprehension
 
 ### Claims
+
 - [Passage Familiarity Correlates With Recall](../claims/passage-familiarity-correlates-with-recall.md) [+M]
 - [Cohesion No Effect Delayed Recall](../claims/cohesion-no-effect-delayed-recall.md) [~M]
+- [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled](../claims/elaborative-processing-enhances-retrieval.md) [+W]
 
 ## Related Principles
 - 

@@ -63,7 +63,7 @@ Same cohort analysis broken down by race and gender (Figure 6). The report state
 
 ## Related Claims
 - [About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort](cps-54-percent-graduated-by-age-19.md) — related
-- [Only about 9 percent of CPS students who start first grade without transferring out meet Illinois Learning Standards in reading and math by eleventh grade, and continuously enrolled students outperform returners](cps-cohort-standards-attainment-attrition-survivor-effect.md) — related
+- Only about 9 percent of CPS students who start first grade without transferring out meet Illinois Learning Standards in reading and math by eleventh grade, and continuously enrolled students outperform returners — related
 - [CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments](cps-psae-participation-below-nclb-95-percent.md) — related
-- [The share of CPS students whose test scores were included in public reporting declined through the 1990s, reaching 74.2 percent in 2000](cps-test-inclusion-rates-declined-1990s.md) — related
+- The share of CPS students whose test scores were included in public reporting declined through the 1990s, reaching 74.2 percent in 2000 — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

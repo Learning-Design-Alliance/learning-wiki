@@ -118,7 +118,7 @@ A revision cycle structures learning around repeated produce–feedback–revise
 
 ## Design Implications
 
-Revision cycles operationalize [Assessment for Learning](../principles/assessment-for-learning.md) by positioning feedback as input to further work rather than a verdict [Formative assessment practices improve achievement by making learning gaps actionable.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Their effectiveness depends on feedback being specific and actionable, and on learners actually doing the revision — feedback that is received but not acted on produces little learning. Spacing revision across time also converts each cycle into a retrieval and reprocessing opportunity [Distributed practice improves long-term retention compared with massed practice.](../claims/distributed-practice-improves-retention.md) [+S].
+Revision cycles operationalize [Assessment for Learning](../principles/assessment-for-learning.md) by positioning feedback as input to further work rather than a verdict [Formative assessment practices improve achievement by making learning gaps actionable.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Their effectiveness depends on feedback being specific and actionable, and on learners actually doing the revision — feedback that is received but not acted on produces little learning. Spacing revision across time also converts each cycle into a retrieval and reprocessing opportunity [Distributed practice improves long-term retention compared with massed practice.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

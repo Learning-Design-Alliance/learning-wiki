@@ -43,5 +43,5 @@ Descriptive fiscal analysis in the Overall Funding Levels section. The report st
 
 
 ## Related Claims
-- [Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list](california-ece-data-limitations-unique-identifier.md) — related
-- [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — a broader claim this one bears on
+- Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
+- Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — a broader claim this one bears on

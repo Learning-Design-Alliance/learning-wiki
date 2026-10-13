@@ -44,12 +44,11 @@ The paper draws on findings from a large-scale experimental study of the curricu
 
 ## Related Claims
 - [The authors hypothesize that differences in curriculum design could explain the achievement results of the experimental study](design-differences-hypothesized-explain-achievement-results.md) — related
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-achievement-study.md) — a narrower finding that bears on this claim
-- [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](four-curricula-two-year-elementary-math-study-design.md) — related
+- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-elementary-math-study-design.md) — a narrower finding that bears on this claim
 - [A comparative documentary analysis of four US mathematics curricula found substantially different types of opportunities to learn across the curricula](four-math-curricula-different-opportunities-to-learn.md) — related
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](largest-experimental-study-of-math-curricula-110-schools.md) — a narrower finding that bears on this claim
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — a narrower finding that bears on this claim
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-elementary-math-curricula-outperform-fourth-two-years.md) — a narrower finding that bears on this claim
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-math-curricula-outperform-fourth-after-two-years.md) — a narrower finding that bears on this claim
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — a narrower finding that bears on this claim
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — related
 - [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — possibly the same claim (merge candidate)

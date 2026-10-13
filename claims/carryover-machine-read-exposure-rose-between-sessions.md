@@ -43,4 +43,4 @@ Background-item comparison across the two anonymous questionnaire rounds. The sh
 
 
 ## Related Claims
-- [Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate](prior-knowledge-divergence-between-sessions.md) — related
+- Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate — related

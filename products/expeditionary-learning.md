@@ -18,7 +18,7 @@ sources:
 # Expeditionary Learning
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 A whole-school educational model developed and supported by EL Education that organizes schools around experiential, project-based learning and related schoolwide practices.
@@ -29,7 +29,7 @@ A whole-school educational model developed and supported by EL Education that or
 
 ### Claims
 - [Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
-- [EL middle school students perform better in reading and math than their public school counterparts](../claims/el-middle-school-students-outperform-in-reading-and-math.md) [+W]
+- [EL middle school students perform better in reading and math than their public school counterparts](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,7 +65,7 @@ Expeditionary Learning (EL) model schools are whole-school designs evaluated in 
 ## Claims
 
 - [Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
-- [EL middle school students perform better in reading and math than their public school counterparts](../claims/el-middle-school-students-outperform-in-reading-and-math.md) [+W]
+- [EL middle school students perform better in reading and math than their public school counterparts](../claims/el-middle-schools-better-reading-math-achievement.md) [+W]
 
 ## Related Elements
 

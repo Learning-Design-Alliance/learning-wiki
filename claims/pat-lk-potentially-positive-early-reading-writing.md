@@ -68,7 +68,7 @@ RCT with reservations (high attrition) of 33 Hmong- or Spanish-speaking three- a
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
-- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](foster-1994-daisyquest-significant-both-measures.md) — related
+- [In Foster et al. (1994), DaisyQuest produced statistically significant positive effects on both phonological processing measures in 4- to 6-year-olds](daisyquest-child-care-significant-gains.md) — related
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related

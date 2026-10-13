@@ -50,5 +50,5 @@ Author decomposition of the treatment effect reported in the Conclusions section
 - [Despite program gains, most treatment students remained below algebra-readiness benchmarks at the end of the Elevate Math summer program](elevate-math-participants-still-not-algebra-ready.md) — related
 - [The Elevate Math summer program had no significant effects on students' math interest or math self-efficacy](elevate-math-no-effects-math-interest-self-efficacy.md) — related
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related
-- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-projections-math-37-50-percent-gains.md) — related
+- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
 - [The Elevate Math summer program significantly improved math achievement of rising grade 8 students, with a treatment-control difference equivalent to 0.7 standard deviation](elevate-math-improves-math-achievement-0-7-sd.md) — related

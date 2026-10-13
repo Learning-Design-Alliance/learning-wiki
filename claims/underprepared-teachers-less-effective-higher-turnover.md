@@ -44,7 +44,7 @@ The report's synthesis of research cited in the introduction on unprepared entra
 
 ## Related Claims
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
-- [Teachers without full comprehensive preparation leave at two to three times the rate of comprehensively prepared teachers](full-preparation-halves-teacher-attrition.md) — related
+- [Teachers without full comprehensive preparation leave at two to three times the rate of comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — a narrower finding that bears on this claim
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — a narrower finding that bears on this claim
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related

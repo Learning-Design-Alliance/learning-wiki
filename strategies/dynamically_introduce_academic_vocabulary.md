@@ -12,21 +12,21 @@ generated:
 # Dynamically Introduce Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 4 of 11 report an effect size
 
 ## Description
 Rather than presenting academic vocabulary as static lists to memorize, this strategy introduces target words through dynamic, contextualized encounters: a memorable story, a vivid example, or a humorous personal anecdote at first exposure, followed by repeated meetings with the word across varied authentic contexts — discussion, reading, writing, and application tasks. Each encounter adds nuance to the learner's understanding, so the definition is internalized as a usable tool rather than recited as a string.
 
 ## Design Implications
 
-Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone [Stahl & Fairbanks meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone [Stahl & Fairbanks meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
 - A small set of high-utility target words (Tier 2 general academic or Tier 3 disciplinary terms), selected for frequency and transfer value [Beck, McKeown, & Kucan's three-tier framework.](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167) [+S]
 - Stories, anecdotes, or scenarios that embed each word naturally — ideally drawn from learner interests or current events
 - Multiple follow-up contexts where learners *use* the word: [Class Discussion](../elements/class-discussion.md), writing tasks, and [Application](../elements/application.md) activities
-- Spacing across days and weeks so encounters are distributed, not massed [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Spacing across days and weeks so encounters are distributed, not massed [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 #### Constraints
 - Time-intensive: crafting genuinely engaging stories for each word is costly, and the cost rises with word count [-W]
@@ -57,7 +57,7 @@ Vocabulary knowledge is incremental and context-dependent; words are acquired th
 3. **Give brief direct explanation** of the core meaning, then immediately check informal understanding ([Direct Instruction](../patterns/direct-instruction.md)).
 4. **Plan varied re-encounters**: the word appears in a reading, a [Class Discussion](../elements/class-discussion.md) prompt, and a writing or [Application](../elements/application.md) task within the week.
 5. **Require production**: learners generate their own sentences, examples, and non-examples, or [Act It Out](../elements/act-it-out.md) to dramatize the word.
-6. **Space re-encounters** across the unit and revisit words in later units so practice is distributed [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+6. **Space re-encounters** across the unit and revisit words in later units so practice is distributed [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 7. **Assess in use**, not in isolation: score vocabulary use in speaking and writing rather than matching definitions.
 
 ## Related Strategies

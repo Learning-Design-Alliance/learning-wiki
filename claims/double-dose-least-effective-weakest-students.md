@@ -45,7 +45,7 @@ The CCSR study found the policy's weakest outcomes among very low-skill students
 ## Related Claims
 - [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](double-dose-algebra-test-score-gains-targeted-students.md) — related
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — possibly the same claim (merge candidate)
-- [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — related
+- [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Students with very low initial math abilities benefited less from double-dose algebra than students close to the national median](double-dose-benefits-smaller-for-very-low-ability.md) — possibly the same claim (merge candidate)
 - [The largest improvements in mathematics instruction and learning gains went to students with the lowest tested math scores](largest-gains-lowest-scoring-math-students.md) — reports the opposite

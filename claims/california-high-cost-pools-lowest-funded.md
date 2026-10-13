@@ -43,4 +43,4 @@ Cross-state comparison in the executive summary reports California's high-cost p
 
 
 ## Related Claims
-- [California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs](j50-legacy-rates-per-student-funding-557-to-900.md) — related
+- California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs — related

@@ -61,6 +61,9 @@ Secondary correlational analysis for the 52 subjects with Kuhlman-Anderson IQ sc
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Subtask creativity scores correlate significantly with the main task total, supporting summed scoring](creact-subtask-main-task-correlations.md) — related
 - [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related

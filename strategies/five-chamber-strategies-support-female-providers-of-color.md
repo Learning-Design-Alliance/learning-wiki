@@ -17,7 +17,7 @@ sources:
 # Five ways state and local chambers can support working families by supporting female providers of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends five strategies for state and local chambers of commerce, derived from its interviews: share resources and information about "funding opportunities, health insurance, and COVID-19-related health and safety resources"; strengthen diversity, equity, and inclusion initiatives including leadership and professional development for female providers of color; offer networking and marketing opportunities; list child care resource and referral information on chamber websites to connect supply with demand; and communicate child care needs to state and local representatives through advocacy. Chambers are positioned as connectors between providers, employers, and policymakers.
@@ -37,6 +37,10 @@ The report recommends five strategies for state and local chambers of commerce, 
 ### Target Learning Goals
 - Access to high-quality early care and learning environments
 - Provider professional development and business capacity
+
+## Claims
+
+- [Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers](../claims/child-care-providers-four-key-challenge-areas.md) [+W]
 
 ## Related Strategies
 - 

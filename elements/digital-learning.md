@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 5 studies (2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 6 studies (2 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -41,6 +41,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](../claims/hyperinteractivity-can-intensify-inequality.md) [-W]
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](../claims/hero-elementary-training-discussion-facilitation-online-resources-challenge.md) [~W]
 - [Elementary students given access and scheduled time for an AI literacy platform use it minimally, with nearly half never using it](../claims/low-take-up-ai-literacy-platform-access-only.md) [~W]
+- [Only about half of CPS students use technology at least weekly for school, and 20 to 30 percent rarely or never do](../claims/half-cps-students-weekly-school-technology-use.md) [~W]
 
 ## Related Elements
 

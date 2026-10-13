@@ -43,6 +43,5 @@ Norming sample selection section reporting the full user-norming dataset: "747,9
 
 
 ## Related Claims
-- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](course-specific-term-score-correlations-above-090.md) — related
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](true-score-correlations-above-090.md) — related
 - [The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.](algebra1-status-growth-norms-example-interpretation.md) — related
-- [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — related

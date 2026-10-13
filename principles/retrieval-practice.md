@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (26 for, 23 mixed, 1 against, 1 unmarked) · 23 studies (8 quant-synthesis, 7 causal, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 23 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (25 for, 23 mixed, 1 against, 1 unmarked) · 23 studies (8 quant-synthesis, 7 causal, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 23 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,7 +167,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
 - [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [~M]
-- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/corrective-feedback-boosts-classroom-testing-effect.md) [+W]
+- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/feedback-enhances-retrieval-practice.md) [+W]
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [+W]
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]

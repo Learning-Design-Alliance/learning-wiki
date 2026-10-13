@@ -17,7 +17,7 @@ sources:
 # Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide urges districts to use ARP and state funds for "recruiting and retaining a well prepared, diverse workforce, including creating pathways for teaching and bilingual teaching that provide incentives and support for immigrant communities." It notes that "teachers of color make a difference for all students, especially students of color," and that most states face a shortage of educators qualified to work with English learners.
@@ -35,6 +35,10 @@ The guide urges districts to use ARP and state funds for "recruiting and retaini
 
 ### Target Learning Goals
 - Access to qualified educators and sustained language and content support
+
+## Claims
+
+- [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](../claims/structural-fiscal-risks-bilingual-pipeline-sustainability.md) [~W]
 
 ## Related Strategies
 

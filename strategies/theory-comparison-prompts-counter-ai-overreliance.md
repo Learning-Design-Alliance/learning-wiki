@@ -17,7 +17,7 @@ sources:
 # Iteratively add prompts requiring comparison of AI outputs with psychological theories and structured reflective prompts to counter overreliance on AI
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 During DBR refinement, when students "relied heavily on AI-generated responses and accepted recommendations without sufficient verification," the design team added prompts requiring comparison of AI outputs with psychological theories and course materials. Later refinements clarified role descriptions, introduced structured reflective prompts when reflections remained largely descriptive, and increased emphasis on collaborative discussion and justification of intervention decisions to promote context-sensitive professional reasoning.
@@ -40,6 +40,10 @@ During DBR refinement, when students "relied heavily on AI-generated responses a
 
 ### Affordances
 - [Ai Integrated Role Rotation Pedagogical Model](../designs/ai-integrated-role-rotation-pedagogical-model.md)
+
+## Claims
+
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](../claims/ai-math-risks-overreliance-errors-uncritical-trust.md) [+M]
 
 ## Related Strategies
 

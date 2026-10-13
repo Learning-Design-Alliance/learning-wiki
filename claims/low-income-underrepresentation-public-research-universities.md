@@ -42,6 +42,9 @@ Descriptive analysis of national enrollment data reported in the report's trends
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related
 - [Public research-extensive universities spend hundreds of millions in institutional grant aid on high-income students, with nearly equal spending on the top two and bottom two income quintiles](institutional-aid-to-high-income-students.md) — related

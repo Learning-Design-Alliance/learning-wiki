@@ -43,12 +43,10 @@ The article's stated scope is an experimental evaluation comparing the effective
 
 
 ## Related Claims
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-achievement-study.md) — possibly the same claim (merge candidate)
-- [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](four-curricula-two-year-elementary-math-study-design.md) — possibly the same claim (merge candidate)
+- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-elementary-math-study-design.md) — possibly the same claim (merge candidate)
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](largest-experimental-study-of-math-curricula-110-schools.md) — a narrower finding that bears on this claim
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — possibly the same claim (merge candidate)
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-elementary-math-curricula-outperform-fourth-two-years.md) — a narrower finding that bears on this claim
-- [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](three-math-curricula-outperform-fourth-after-two-years.md) — a narrower finding that bears on this claim
+- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-math-curricula-outperform-fourth-after-two-years.md) — a narrower finding that bears on this claim
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — a narrower finding that bears on this claim
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — a narrower finding that bears on this claim
 - [Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools](everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh.md) — related

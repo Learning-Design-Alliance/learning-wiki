@@ -17,7 +17,7 @@ sources:
 # Redefine the chronic-absenteeism threshold, monitor attendance bins, and provide targeted academic catch-up supports to prior-year absentees
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that school systems act on the persistence of absence effects across years: "School systems should consider redefining the threshold to deem absenteeism as 'chronic' in policy and practice." It also urges monitoring each attendance bin to prevent students moving into more detrimental bins, sharing prior-year attendance data with receiving schools at transitions, and prioritizing targeted academic interventions so absentees can catch up academically.
@@ -35,6 +35,12 @@ The article recommends that school systems act on the persistence of absence eff
 
 ### Target Learning Goals
 - Mathematics and reading achievement recovery at the start of the school year
+
+## Claims
+
+- [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](../claims/multiyear-chronic-absenteeism-lower-second-grade-reading.md) [+W]
+- [Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year](../claims/single-absence-cumulative-fall-math-decline.md) [+W]
+- [Descriptively, prior-year chronically absent students achieved over half a standard deviation below their peers at the start of the following year](../claims/descriptive-half-sd-chronic-absent-gap.md) [+W]
 
 ## Related Strategies
 

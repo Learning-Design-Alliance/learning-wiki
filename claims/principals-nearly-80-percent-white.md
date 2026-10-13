@@ -43,7 +43,7 @@ A descriptive statistic reported in the brief's introduction, attributed in endn
 
 
 ## Related Claims
-- [Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide](cps-principal-student-race-match-and-gender.md) — related
-- [CPS principals are more racially and ethnically diverse than principals in other urban areas and nationally, and newer principals are more likely to be Black than the overall CPS principal population](cps-principals-more-racially-ethnically-diverse.md) — related
-- [Principals of color became the majority of CPS principals, rising most sharply from 1989 to 1996](cps-principals-of-color-majority-trend.md) — related
+- Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide — related
+- CPS principals are more racially and ethnically diverse than principals in other urban areas and nationally, and newer principals are more likely to be Black than the overall CPS principal population — related
+- Principals of color became the majority of CPS principals, rising most sharply from 1989 to 1996 — related
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related

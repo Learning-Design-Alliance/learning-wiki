@@ -17,7 +17,7 @@ sources:
 # Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends that administrators facing non-routine decisions involving competing values elaborate alternatives, their probable consequences, and ways of dealing with those consequences, grounding determinations in social and psychological concepts and theories. It states that consequence analysis puts morality in administrative life on a concrete basis and makes it relevant to real problems rather than an exercise in rhetoric. The paper reports that consequence analysis has been successfully used in projects designed to improve school problem solving, citing Licata.
@@ -40,6 +40,10 @@ The paper recommends that administrators facing non-routine decisions involving 
 
 ### Affordances
 - [Dewey Theory Of Inquiry Instrumentalism](../theories/dewey-theory-of-inquiry-instrumentalism.md)
+
+## Claims
+
+- [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
 
 ## Related Strategies
 

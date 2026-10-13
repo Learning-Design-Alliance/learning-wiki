@@ -44,7 +44,7 @@ Trend analysis of CPS cohorts from 2004 to 2014 shown in Figure 1, using Nationa
 
 ## Related Claims
 - [Four-year and six-year completion rates varied widely by college, with gaps between colleges of up to 27 percentage points in four-year rates hidden by similar six-year rates](college-level-four-six-year-rate-divergence.md) — related
-- [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related
+- Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
 - [The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate](cps-college-graduation-50-percent-2014.md) — related
 - [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md) — related
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use premortem analysis before implementing a reform to surface success factors and roadblocks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A premortem, developed by Robert Sutton and Huggy Rao, asks people to imagine what success or failure would look like before implementing a change. In the authors' work with school faculty, central office staff, decision makers, and parents, pooling experiences let groups "quickly identify the major factors that must come together across their district and community for the reform to succeed" and identify likely roadblocks, building a systems perspective missing from initial roll-out plans.
@@ -35,6 +35,11 @@ A premortem, developed by Robert Sutton and Huggy Rao, asks people to imagine wh
 
 ### Target Learning Goals
 - Anticipating implementation risks and building a systems perspective before change efforts
+
+## Claims
+
+- [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](../claims/parent-support-roadblock-grew-trust-low.md) [~W]
+- [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](../claims/three-roadblock-severity-groups-latent-class.md) [~W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # SMART Goal Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 SMART goal setting structures learning objectives so they are Specific, Measurable, Attainable, Relevant, and Time-bound. Learners (or instructors) convert vague intentions ("get better at writing") into concrete commitments ("draft and revise two argumentative essays by March 15, scoring 4+ on the rubric"). The framework operationalizes goal-setting theory: specific, challenging goals reliably produce higher performance than vague "do your best" goals [Locke & Latham, 2002] [+S].
@@ -57,6 +57,10 @@ Goal-setting research shows that performance gains come primarily from **specifi
 4. Schedule progress [check-ins](../elements/check-in.md) where the learner self-monitors against the measurable criterion
 5. Provide [feedback](../elements/feedback.md) tied to the criteria, and revise the goal when it proves too easy or unattainable
 6. Close the cycle with [reflection](../elements/reflection.md) on what strategies produced progress, feeding the next goal
+
+## Claims
+
+- [Teacher performance goals are often focused on attaining measurable student achievement or learning targets](../claims/teacher-goals-focused-on-measurable-student-targets.md) [+W]
 
 ## Related Strategies
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the proximal sub-goal mechanism that makes distal SMART goals motivating

@@ -17,7 +17,7 @@ sources:
 # Make platform quality standards interpretable by pairing automated scores with rationales and contextual cues
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's third design consideration states that automated feedback can support gig platforms' quality control by organizing evaluations around structured criteria rather than relying solely on learners' individual impressions. To make these standards actionable, "systems should pair scores with brief rationales, evidence, or contextual cues" explaining how tutors can improve within platform expectations, addressing tutors' requests for clearer explanations of discrepancies.
@@ -35,6 +35,10 @@ The article's third design consideration states that automated feedback can supp
 
 ### Target Learning Goals
 - Understanding of platform instructional standards and actionable improvement
+
+## Claims
+
+- [Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve](../claims/students-report-limited-feedback-on-assessments.md) [+W]
 
 ## Related Strategies
 

@@ -47,5 +47,5 @@ End-of-term voluntary survey (N=18) in the Spring 2026 run of DSAA 3071, a self-
 - [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](weekly-tests-ranked-accountability.md) — related
 - [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](closed-book-gate-attainable-scores.md) — related
 - [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](teacher-role-shifted-diagnosis-coaching.md) — related
-- [Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments](kt1-survey-difficulty-llm-use-attitudes.md) — related
+- Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments — related
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related

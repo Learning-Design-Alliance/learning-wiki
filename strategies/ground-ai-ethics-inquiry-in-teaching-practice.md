@@ -17,7 +17,7 @@ sources:
 # Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the bibliometric finding that AI ethics research is reorienting toward practice-based, interpretive, and relational frameworks, the article recommends that "ethical inquiry into AI must be grounded in the realities of teaching, assessment, leadership, and professional judgement, rather than treated as an external compliance requirement". It further suggests future research benefit from integrating bibliometric mapping with qualitative and interpretive investigations of how professionals interpret and enact AI ethics in real-world educational settings.
@@ -41,6 +41,10 @@ Based on the bibliometric finding that AI ethics research is reorienting toward 
 
 ### Affordances
 - Three Orientation Ai Ethics Framework
+
+## Claims
+
+- [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](../claims/teacher-judgement-ethical-interpretive-capacity.md) [+W]
 
 ## Related Strategies
 

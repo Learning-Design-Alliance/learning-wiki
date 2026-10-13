@@ -17,7 +17,7 @@ sources:
 # Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because individual beliefs and moment-by-moment responses may lead to actions that counteract constitutive values, the article argues moral practice must also be a deliberative practice "where alternatives are weighed and courses of action are adopted". It concludes there has to be space for deliberation within Swedish teacher education and school, since the läroplan is a political framework rather than a pedagogic or didactic prescription. Interpreting, internalising and applying democratic values is described as a never-ending process that has to be constantly reviewed.
@@ -37,8 +37,10 @@ Because individual beliefs and moment-by-moment responses may lead to actions th
 - Aligning personal values and daily practice with the constitutive democratic values of the national curriculum
 
 ### Claims
+
 - [Field Notes Wake Up Calls](../claims/field-notes-wake-up-calls.md) [+M]
 - [Spontaneous Reactions Draw On Internalised Values](../claims/spontaneous-reactions-draw-on-internalised-values.md) [+M]
+- [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
 
 ## Related Principles
 - 

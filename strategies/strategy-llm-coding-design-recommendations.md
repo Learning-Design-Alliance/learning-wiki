@@ -17,7 +17,7 @@ sources:
 # Design recommendations: guide dataset preprocessing, treat uncertainty and conflict as diagnostic signals, and tune agent discussion styles to task ambiguity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 From the experiment results, the authors propose design recommendations for developers and designers of automated qualitative coding systems, including "guiding users of systems through data preprocessing, leveraging uncertainty and conflict as diagnostic signals for accuracy, and tuning agent discussion styles based on task ambiguity." Concretely, designers should provide "targeted guidance on how to preprocess their datasets to optimize system performance," embedding diagnostic feedback on dataset properties and actionable suggestions, such as notifying users when particular data or code definitions may yield lower accuracy and advising additional scrutiny of those segments. The authors stress the recommendations offer a conceptual foundation rather than rigid quantitative thresholds.
@@ -35,6 +35,10 @@ From the experiment results, the authors propose design recommendations for deve
 
 ### Target Learning Goals
 - Optimizing and interpreting automated qualitative coding performance
+
+## Claims
+
+- [Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains](../claims/claim-undecidable-labels-signal-discussion-gains.md) [~W]
 
 ## Related Strategies
 - 

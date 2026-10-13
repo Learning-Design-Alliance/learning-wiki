@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-enhances-retrieval-practice
+aliases: [corrective-feedback-boosts-classroom-testing-effect]
 evidence_strength: pending
 sources:
   - id: yang-et-al-2021
@@ -41,6 +42,8 @@ Retrieval practice strengthens long-term retention, and providing feedback after
 
 `q3 i?` In a laboratory word-pair study, giving the correct answer after an incorrect retrieval greatly increased retention one week later. Feedback after correct responses made little difference, even when learners had low confidence in them. [→ Pashler et al. 2005](#pashler-et-al-2005)
 
+`q4 i2` Corrective feedback following class quizzes produces significantly larger testing benefits than no feedback. [→ Yang 2020](#yang-et-al-2021)
+
 ## Evidence
 
 ### Yang et al. 2021
@@ -50,6 +53,18 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (quiz
 `q4 · systematic review and multilevel meta-analysis` · `i2 · medium effect, g=0.537 with corrective feedback vs g=0.374 without` · `n=222 studies` · `quant-synthesis · r2`
 
 This review pooled classroom studies that compared quizzing with restudying and other control activities. The published abstract gives 222 independent studies and 48,478 students; the accepted manuscript gives 223 studies, 574 effects and 48,582 students. The overall testing effect was g = 0.499. Whether [corrective feedback](../elements/feedback.md) was given significantly moderated that effect (Q(2) = 11.197, p = .004). Quizzes followed by feedback (335 effects) produced g = 0.537 [0.469, 0.604], and quizzes without feedback (142 effects) produced g = 0.374 [0.278, 0.471]. Two cautions: the comparison is made across studies rather than within them, so feedback may be confounded with other study features, and the authors note that Adesope et al. (2017) found no moderation (g = 0.63 with feedback, g = 0.60 without), whereas Rowland (2014) reported g = 0.73 with feedback and g = 0.39 without.
+
+<!-- merged 2026-10-13 from corrective-feedback-boosts-classroom-testing-effect: that page's entry for this study, which differed from the one above, kept verbatim.
+### Yang 2020
+
+Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quizzing) Boosts Classroom Learning: A Systematic and Meta-Analytic Review. Psychological Bulletin. https://doi.org/10.1037/bul0000309
+
+`q4 · i2` · `quant-synthesis · r?`
+
+Meta-analytic moderator analysis of corrective feedback in classroom studies; the review reports feedback "significantly increases learning gains over not providing feedback", with printed effect sizes g = 0.537 with feedback versus g = 0.374 without.
+
+> "Offering corrective feedback following class quizzes ( g /H110050.537) significantly increases learning gains over not providing feedback ( g /H110050.374)."
+-->
 
 ### Pashler et al. 2005
 
@@ -85,5 +100,6 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — related
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — related
-- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](corrective-feedback-boosts-classroom-testing-effect.md) — possibly the same claim (merge candidate)
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — reports the opposite
+- [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
+- [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — related

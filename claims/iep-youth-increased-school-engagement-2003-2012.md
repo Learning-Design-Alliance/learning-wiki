@@ -42,6 +42,9 @@ The fact sheet reports, from the National Longitudinal Transition Study 2012 com
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-most-positive-change.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
@@ -50,7 +53,6 @@ The fact sheet reports, from the National Longitudinal Transition Study 2012 com
 - [Youth with an IEP are more likely than a decade ago to live in households facing economic challenges](iep-youth-household-economic-challenges-increased.md) — related
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
-- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related
 - [California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer](california-suspension-decline-safer-schools.md) — related

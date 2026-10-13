@@ -17,7 +17,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (28 for, 11 mixed) · 29 studies (13 associational, 6 qualitative, 5 review, 3 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (31 for, 16 mixed) · 35 studies (18 associational, 6 review, 6 qualitative, 3 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 35 report an effect size · 47 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -78,6 +78,14 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+W]
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](../claims/school-climate-associated-higher-teacher-evaluation-scores.md) [+W]
 - [Teachers' verbal and math skills, measured by teacher test scores, are significantly related to student achievement](../claims/teacher-test-scores-predict-student-achievement.md) [+W]
+- [AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group](../claims/ai-an-teacher-quality-access-gap.md) [~W]
+- [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](../claims/middle-grades-principals-lasting-effects-student-outcomes.md) [+W]
+- [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](../claims/parental-support-higher-top-quartile-schools.md) [~W]
+- [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](../claims/principal-instructional-leadership-ratings-distribution.md) [~W]
+- [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](../claims/school-climate-associated-with-lower-absences-post-pandemic.md) [+W]
+- [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](../claims/parent-support-roadblock-grew-trust-low.md) [~W]
+- [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](../claims/teacher-principal-trust-top-vs-bottom-quartile.md) [~W]
+- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](../claims/top-quartile-schools-facilitative-principal-leadership.md) [+W]
 
 ## Related Theories
 

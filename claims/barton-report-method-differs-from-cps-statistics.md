@@ -43,7 +43,7 @@ Methodological statement in the report's introduction explaining that it uses a 
 
 
 ## Related Claims
-- [Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS](barton-1993-five-year-outcomes.md) — related
-- [Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years](cps-systemwide-cumulative-dropout-percentages.md) — related
+- Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS — related
+- Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years — related
 - [The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago](isbe-method-overestimates-graduation-rate.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related

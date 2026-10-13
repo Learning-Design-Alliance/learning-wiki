@@ -48,4 +48,3 @@ The brief's key findings state that reform "Impacts of the reforms on National A
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — related
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related
 - [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — related
-- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](dc-reforms-larger-expected-grade4-math-reading-naep.md) — a broader claim this one bears on

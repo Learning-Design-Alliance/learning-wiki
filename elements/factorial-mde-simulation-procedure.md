@@ -17,7 +17,7 @@ sources:
 # Simulation-based power calculation procedure comparing classical and Bayesian MDEs across factorial designs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (3 theoretical, 1 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper describes a simulation procedure for comparing the statistical power of classical and Bayesian factorial designs. The authors "repeatedly simulate factorial experiments with a variety of sample sizes and numbers of treatment arms to estimate the minimum detectable effect (MDE) for each combination," producing MDE comparisons across design complexity that quantify the sample-size savings from the Bayesian approach.
@@ -40,7 +40,7 @@ The paper describes a simulation procedure for comparing the statistical power o
 
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](../claims/bayesian-partial-pooling-precision-false-positive-control.md) [+W]
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/seventy-two-arms-classical-double-sample-size.md) [+W]
+- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+W]
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+W]
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](../claims/classical-inference-prohibitive-sample-sizes-factorial.md) [+W]

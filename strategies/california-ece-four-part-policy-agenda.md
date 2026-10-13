@@ -17,7 +17,7 @@ sources:
 # Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 8 claims (7 for, 1 mixed) · 4 studies (2 associational, 2 qualitative), `q2` · 0 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 The report recommends that California "adopt a comprehensive approach to turn an uncoordinated set of underfunded programs into a true system of supports for children, families, and providers." Its four areas are: build a coherent system of ECE administration with state and county coordinating bodies and a one-stop shop; make ECE affordable for all children birth to age 5, including universal preschool for 4-year-olds and sliding-fee-scale care; build a well-qualified workforce through higher expectations paired with education supports and higher wages; and improve quality in all programs by raising minimum standards and ensuring access to coaching and job-embedded supports through QRIS.
@@ -35,6 +35,17 @@ The report recommends that California "adopt a comprehensive approach to turn an
 
 ### Target Learning Goals
 - School readiness and long-term development supported by access to high-quality early childhood education
+
+## Claims
+
+- [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](../claims/california-ece-serves-only-33-percent-eligible-children.md) [+W]
+- [California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children](../claims/california-ece-uneven-quality-standards.md) [+W]
+- [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](../claims/california-ece-workforce-low-compensation-turnover.md) [+W]
+- [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](../claims/california-infant-toddler-ece-access-14-percent.md) [+W]
+- [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](../claims/california-ece-serves-minority-of-eligible-children.md) [~W]
+- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](../claims/mixed-delivery-fragmentation-barriers.md) [+W]
+- [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](../claims/subsidized-childcare-access-gap-2022.md) [+W]
+- [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](../claims/aging-teacher-workforce-retirement-wave.md) [+W]
 
 ## Related Strategies
 

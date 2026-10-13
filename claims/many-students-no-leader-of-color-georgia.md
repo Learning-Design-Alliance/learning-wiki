@@ -44,6 +44,6 @@ Descriptive analysis across five student groupings (all students, students of co
 
 ## Related Claims
 - [Access to school leaders of color varies widely across Georgia districts, e.g., 97% of students in Atlanta Public Schools had such access versus 57% in Columbia County](district-variation-leader-of-color-access.md) — related
-- [Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data](georgia-demographics-stable-across-pandemic.md) — related
+- Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data — related
 - [In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students)](georgia-leader-diversity-gap-2021-22.md) — related
 - [Georgia schools with higher percentages of students of color were far more likely to have at least one school leader of color (95% of high-diversity schools vs. 31% of low-diversity schools)](leader-of-color-access-rises-with-school-diversity.md) — related

@@ -17,7 +17,7 @@ sources:
 # Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's challenges section recommends that institutions implementing gamified learning provide comprehensive training and support for students and teachers, ensure adequate technological infrastructure, and regularly evaluate gamification tools. It states that educators should be "well-versed in gamification strategies and prepared to troubleshoot potential technical issues" and that "regular evaluation of gamification tools and methods is also essential" to maintain relevance and effectiveness.
@@ -37,6 +37,10 @@ The review's challenges section recommends that institutions implementing gamifi
 
 ### Target Learning Goals
 - Second-language vocabulary acquisition and sustained engagement
+
+## Claims
+
+- [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](../claims/infrastructure-access-constraints-ai-efl.md) [+W]
 
 ## Related Strategies
 

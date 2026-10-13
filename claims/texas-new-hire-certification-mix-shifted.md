@@ -43,7 +43,7 @@ Descriptive analysis of Texas Education Agency newly certified and new teacher h
 
 
 ## Related Claims
-- [Charter school districts in Texas averaged a 52% teacher certification rate in 2024–25, far below the 87% average in traditional public school districts](texas-charter-certification-rates-lower.md) — related
+- Charter school districts in Texas averaged a 52% teacher certification rate in 2024–25, far below the 87% average in traditional public school districts — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%](texas-uncertified-teacher-share-tripled.md) — a broader claim this one bears on
 - [More than 8,500 uncertified FTE teachers were in K–5 English language arts and math positions in 2024–25, and roughly 23,000 uncertified FTE were in foundational subjects that must be certified by 2027–28](uncertified-fte-foundational-subjects-hb2.md) — related

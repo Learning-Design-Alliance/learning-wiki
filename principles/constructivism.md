@@ -13,7 +13,7 @@ generated:
 # Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application. In practice, the principle pushes design toward tasks that make thinking visible, surface misconceptions, and require learners to organize meaning rather than passively receive it.
@@ -52,6 +52,7 @@ Constructivism implies that learning strengthens when learners have to make sens
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — conceptual change can deepen when learners revise confidently held misconceptions after evidence or feedback
 - [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](../claims/ai-answers-bypass-effortful-meaning-making.md) [~W]
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
+- [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
 
 ## Related Principles
 

@@ -12,7 +12,7 @@ generated:
 # Mentoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Mentoring pairs a learner with a more experienced person who provides ongoing guidance, modeling, feedback, and emotional support over an extended period. Unlike episodic instruction, mentoring is relational and developmental: the mentor calibrates support to the mentee's growing competence and, in effective programs, addresses both career/instrumental needs (skill coaching, sponsorship, exposure) and psychosocial needs (identity, confidence, belonging).
@@ -57,6 +57,10 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 4. Have the mentor [Coach](../elements/coaching.md) within authentic work — observing real performance, asking questions before giving answers, and fading support as competence grows [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 5. Balance instrumental guidance (task feedback, network access) with psychosocial support (encouragement, identity affirmation).
 6. Monitor relationship quality; rematch or close out relationships that are not working rather than letting them lapse.
+
+## Claims
+
+- [Most first-year Missouri teachers in the study met with their mentors several times a month for meetings averaging less than 30 minutes](../claims/missouri-first-year-teachers-frequent-brief-mentor-meetings.md) [~W]
 
 ## Related Strategies
 

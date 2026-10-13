@@ -42,6 +42,9 @@ Subgroup analyses reported in the alphabetics appendix of the Torgesen et al. (2
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial](wilson-reading-system-potentially-positive-alphabetics.md) — a broader claim this one bears on
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](corrective-reading-subgroup-moderators.md) — related

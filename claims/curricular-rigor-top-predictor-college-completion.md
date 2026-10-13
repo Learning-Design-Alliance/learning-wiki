@@ -42,6 +42,9 @@ The report states "high school curricular rigor is the number one indicator of c
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
 - [Low-income students and African American and Latino students were less likely than higher-income and white peers to be enrolled in the college-preparatory track](college-prep-track-enrollment-gaps-income-race.md) — related

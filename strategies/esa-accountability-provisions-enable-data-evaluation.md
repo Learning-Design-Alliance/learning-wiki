@@ -17,7 +17,7 @@ sources:
 # Policymakers designing ESA programs should use accountability and transparency provisions to require high-quality data that enables evaluation and policy refinement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends that state policymakers designing or redesigning ESA programs attend to accountability and transparency provisions because they interact with data and reporting practices: requiring programs to collect high-quality data lets state and external researchers generate more sophisticated evidence and evaluations, which policymakers can then use to update policy. The brief argues that if "state policymakers focus attention on accountability and transparency provisions for ESAs, they can require programs to collect high-quality data and information," supporting informed decisions by families, policymakers, and the public.
@@ -38,6 +38,11 @@ The brief recommends that state policymakers designing or redesigning ESA progra
 
 ### Affordances
 - Three Types Esa Accountability Framework
+
+## Claims
+
+- [Most ESA statutes require data collection and public reporting, and many states publish annual report data beyond statutory requirements](../claims/esa-data-reporting-beyond-statute.md) [+W]
+- [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](../claims/state-summer-data-collection-uses.md) [+W]
 
 ## Related Strategies
 

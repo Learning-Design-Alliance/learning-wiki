@@ -22,7 +22,7 @@ sources:
 # EL Education
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 design), `q1`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 5 studies (4 causal, 1 design), `q1`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 EL Education's integrated English Language Arts curriculum and professional-learning program, developed and provided by EL Education for schools and teachers.

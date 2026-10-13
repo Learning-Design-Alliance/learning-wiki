@@ -17,7 +17,7 @@ sources:
 # Pursue theory-inscribed customization that embeds pedagogical principles into AI system architecture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends reconceptualizing customization as "the theoretically constrained specification of system behavior, with mediation, interaction, and development positioned as first-order design concerns" rather than interface-level control or performance tuning. It points to hybrid and integrated systems that embed pedagogical rules, domain representations, and adaptive control mechanisms, and urges researchers to track longitudinal writing cycles, analyze interactional data such as dialogue logs and revision histories, and foreground learner agency and transparency.
@@ -35,6 +35,10 @@ The review recommends reconceptualizing customization as "the theoretically cons
 
 ### Target Learning Goals
 - Writing development through mediated, dialogic, and developmentally sequenced AI support
+
+## Claims
+
+- [Technically oriented theoretical rationales are operationalized more often than learning-centered theories in AI writing customization](../claims/performance-theories-dominate-ai-writing-customization.md) [-W]
 
 ## Related Strategies
 

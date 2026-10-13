@@ -43,7 +43,7 @@ Case example of Fresno Unified's 2017 placement of an entire residency cohort of
 
 
 ## Related Claims
-- [Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013](horace-mann-ela-map-growth-provisional-accreditation.md) — related
+- Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013 — related
 - [A schoolwide literacy initiative based on deeper learning rapidly and sustainably raised achievement at a large low-income high school](bhs-literacy-initiative-raised-achievement.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
 - [By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools](ccspp-cohort1-exceeded-prepandemic.md) — related

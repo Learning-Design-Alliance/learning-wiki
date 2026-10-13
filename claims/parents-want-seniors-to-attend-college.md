@@ -43,7 +43,7 @@ Senior survey item asking what seniors thought their parents wanted them to do a
 
 
 ## Related Claims
-- [More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree](cps-seniors-high-education-plans-aspirations.md) — related
+- More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree — related
 - [Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors](parents-most-common-source-postsecondary-planning-help.md) — related
 - [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related
 - [Fewer than 30 percent of high school teachers report that most or all of their students will go on to college](teachers-underestimate-students-college-plans.md) — related

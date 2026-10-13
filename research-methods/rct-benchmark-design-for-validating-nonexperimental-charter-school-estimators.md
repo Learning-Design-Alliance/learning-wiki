@@ -17,7 +17,7 @@ sources:
 # RCT-benchmark design for validating nonexperimental charter-school estimators
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's design uses student-level data drawn from a large-scale randomized controlled trial of charter schools as a benchmark against which nonexperimental regression and propensity score estimators are tested for bias. The key outcome measures are standardized achievement tests. The article states it addresses prior studies' limitations by "using student-level data based on a large-scale RCT of charter schools for which standardized achievement tests are the key outcome measure."

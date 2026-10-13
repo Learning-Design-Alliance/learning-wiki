@@ -26,7 +26,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 7 mixed, 1 against) · 33 studies (8 review, 7 causal, 6 theoretical, 5 quant-synthesis, 4 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 33 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (17 for, 7 mixed, 1 against) · 34 studies (8 review, 7 causal, 6 theoretical, 5 quant-synthesis, 4 qualitative, 3 design, 1 associational), `q1`–`q4` · 4 of 34 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Students performed better on oral measures than written measures in comparison studies](../claims/students-perform-better-oral-than-written.md) [+W]
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](../claims/tutor-gain-concentrated-in-written-reasoning-depth.md) [+W]
 - [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](../claims/standardized-tests-problematic-young-children-outcomes.md) [+W]
+- [The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics](../claims/edit-multimethod-checklists-ratings-rubrics.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

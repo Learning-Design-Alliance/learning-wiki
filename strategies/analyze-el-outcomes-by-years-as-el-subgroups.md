@@ -17,7 +17,7 @@ sources:
 # Analyze EL outcomes by years-as-EL subgroups rather than treating ELs as one group
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that research treating English learners as a single group misses important variation, and improves on previous research "by addressing this dimension of heterogeneity and reporting detailed by-subject analyses." The approach disaggregates EL students by time spent as an EL and examines course-taking separately by subject, revealing heterogeneity that pooled EL-versus-non-EL comparisons cannot show.
@@ -35,6 +35,10 @@ The article argues that research treating English learners as a single group mis
 
 ### Target Learning Goals
 - Equitable access to academic coursework and accurate interpretation of EL outcome data
+
+## Claims
+
+- [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](../claims/ltel7-years-classified-distribution.md) [+W]
 
 ## Related Strategies
 - 

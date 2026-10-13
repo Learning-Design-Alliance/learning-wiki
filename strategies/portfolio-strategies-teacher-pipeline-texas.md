@@ -17,7 +17,7 @@ sources:
 # Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's policy recommendations lay out an interlocking set of strategies: "Subsidize access to high-quality preparation programs by funding service scholarships and/or loan forgiveness for teacher candidates repaid through service in the profession," alongside supporting high-retention pathways such as teacher residencies, developing Grow Your Own programs recruiting from local communities, providing strong mentoring and induction, equalizing salaries across districts, and bolstering workforce data systems. The report presents these as research-based tools that can grow the pipeline, bolster state teacher development systems, and retain more of the teachers already in the classroom.
@@ -39,6 +39,10 @@ The report's policy recommendations lay out an interlocking set of strategies: "
 - Increase teacher supply and preparedness
 - Reduce teacher attrition and turnover
 - Improve equitable access to fully prepared teachers
+
+## Claims
+
+- [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](../claims/perry-street-teacher-retention-talent-reforms.md) [+W]
 
 ## Related Strategies
 

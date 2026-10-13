@@ -17,7 +17,7 @@ sources:
 # Adopt a third-semester point-in-time persistence definition to report second-year college re-enrollment data up to six months earlier
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The To&Through Project redefined college persistence to count students who immediately enrolled and were "enrolled in college in the fall term of the second year after their graduation". This point-in-time third-semester definition is calculable with fewer data pulls, aligns more closely with CPS and other organizations' definitions, and is simpler and more easily reproducible by external organizations. The authors judged its timeliness and consistency benefits to outweigh its modestly lower predictiveness.
@@ -37,6 +37,10 @@ The To&Through Project redefined college persistence to count students who immed
 
 ### Target Learning Goals
 - Tracking post-secondary persistence and completion outcomes to inform college counseling and practitioner interventions
+
+## Claims
+
+- [Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term definition](../claims/persistence-definition-variants-rate-differences.md) [+W]
 
 ## Related Strategies
 

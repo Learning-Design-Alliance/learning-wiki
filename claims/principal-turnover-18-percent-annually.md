@@ -44,6 +44,6 @@ Descriptive turnover statistics presented in section 5 of the brief, attributed 
 
 
 ## Related Claims
-- [Principal turnover is high in CPS, with nearly half of principals in their first four-year contract at any given time](cps-principals-half-in-first-four-year-contract.md) — related
+- Principal turnover is high in CPS, with nearly half of principals in their first four-year contract at any given time — related
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related

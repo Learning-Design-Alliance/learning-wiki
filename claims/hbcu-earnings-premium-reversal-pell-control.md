@@ -42,5 +42,8 @@ OLS analysis of earnings premiums by MSI type using College Scorecard, PVC frame
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood](demographics-threshold0-likelihood.md) — related

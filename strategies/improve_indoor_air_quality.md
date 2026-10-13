@@ -26,7 +26,7 @@ sources:
 # Improve Indoor Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q3`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 4 claims (2 for, 2 unmarked) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy addresses the physical learning environment by increasing outdoor air supply, filtering or otherwise reducing indoor pollutants (CO₂, particulates, volatile organic compounds, allergens), and managing humidity and temperature in classrooms and study spaces. It is carried out through facility-level measures (HVAC maintenance, ventilation upgrades, CO₂ monitoring), operational routines (scheduled airing, low-emission cleaning and materials), and targeted accommodations for students with respiratory conditions such as asthma.
@@ -86,6 +86,11 @@ Air quality is a baseline condition for learning rather than an instructional te
 4. **Supplement where needed.** Size portable HEPA filtration to room volume for spaces that cannot be adequately ventilated.
 5. **Protect vulnerable learners.** Coordinate with school health staff so students with asthma have action plans, medication access, and seating away from irritant sources.
 6. **Make it visible and routine.** Assign a rotating student "air quality monitor" role; the routine itself supports [self-monitoring](../claims/self-monitoring-improves-self-regulation.md) and turns an invisible condition into a shared classroom norm.
+
+## Claims
+
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](../claims/poor-iaq-harms-student-health-and-learning.md) [+W]
+- [As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days](../claims/schools-hvac-upgrades-heat-closures.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the companion environmental strategy; noise and air quality jointly determine whether the physical space supports attention

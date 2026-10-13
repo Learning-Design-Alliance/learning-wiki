@@ -82,4 +82,4 @@ Cross-tabulation of 2004 math and reading performance levels (Figure 12, raw sca
 
 ## Related Claims
 - [ITBS and ISAT scores are highly correlated among CPS students in reading (r = 0.83 to 0.85) and mathematics (r = 0.86 to 0.87)](itbs-isat-highly-correlated-cps.md) — related
-- [CPS students met or exceeded PSAE standards at about half the Illinois rate, with science the weakest subject](cps-psae-proficiency-half-of-illinois-science-weakest.md) — related
+- CPS students met or exceeded PSAE standards at about half the Illinois rate, with science the weakest subject — related

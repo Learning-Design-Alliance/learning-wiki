@@ -42,6 +42,9 @@ Subgroup propensity score-weighted HLM analyses of Texas records (Hispanic n = 5
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
 - [ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges](ishs-more-core-stem-courses-four-year-only.md) — related

@@ -17,7 +17,7 @@ sources:
 # Four-step deployment preparation for patient-facing generative AI: audit, triage, fill priority gaps, and retain evidence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's implications section gives health-IT teams a four-part recipe for preparing patient-facing generative AI grounded in institutional education materials: audit coverage and clarify differing guidance, use the predictive layer for triage, address priority content gaps, and retain evidence while monitoring revisions. The article recommends teams "prioritize reproductive-health, mental-health, special-population, and financial questions for content review" and retain "source versions, retrieved passages, generated answers, judge outputs, and clinician decisions in an audit record."
@@ -35,6 +35,10 @@ The article's implications section gives health-IT teams a four-part recipe for 
 
 ### Target Learning Goals
 - ensuring grounded AI answers patients consistently and covers their information needs
+
+## Claims
+
+- [Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area](../claims/reproductive-health-highest-absence-and-significance.md) [+W]
 
 ## Related Strategies
 

@@ -43,6 +43,5 @@ Descriptive employment and earnings analysis reported in the evaluation's key fi
 
 
 ## Related Claims
-- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-consortium-35-percent-completion-high-employment-wage-growth.md) — related
-- [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related
+- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-participants-completion-employment-wages.md) — related
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related

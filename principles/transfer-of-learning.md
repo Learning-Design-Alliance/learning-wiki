@@ -13,7 +13,7 @@ generated:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 9 mixed) · 21 studies (9 causal, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (10 for, 10 mixed) · 22 studies (9 causal, 4 quant-synthesis, 4 review, 4 theoretical, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 
 - [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](../claims/no-three-way-interaction-test-question-type-transfer.md) [+W]
 - [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
+- [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

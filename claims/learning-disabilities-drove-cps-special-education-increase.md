@@ -42,8 +42,11 @@ Disability-category trend analysis of CPS ninth graders, 1993–94 to 1999–00 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms](cps-eleven-high-change-schools-concentration-and-separation.md) — related
 - [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related
-- [The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00](cps-ninth-grade-special-education-rose-11-5-to-16-4.md) — related
+- The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — related
 - [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related

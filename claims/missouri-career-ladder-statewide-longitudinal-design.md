@@ -44,6 +44,5 @@ Descriptive statement of the study design as printed on the publication page: a 
 
 ## Related Claims
 - [School district participation in the Missouri Career Ladder Program tends to increase teacher retention in the district and the profession, especially for mid-career teachers](missouri-career-ladder-participation-increases-teacher-retention.md) — related
-- [The Missouri Teacher Career Ladder Program shows estimated effects on student math and reading achievement ranging from small positive effects to no effect](missouri-career-ladder-small-positive-to-no-effect.md) — related
-- [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](career-ladder-missouri-small-or-no-achievement-effect.md) — related
+- [The Missouri Teacher Career Ladder Program shows estimated effects on student math and reading achievement ranging from small positive effects to no effect](career-ladder-missouri-small-or-no-achievement-effect.md) — related
 - [Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects](small-bonuses-affect-behavior-not-large-effects.md) — related

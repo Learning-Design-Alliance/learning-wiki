@@ -17,7 +17,7 @@ sources:
 # Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A practical strategy drawn from the review's findings: leaders should plan and fund professional development that builds teachers' digital competence, since competence gates both AI adoption and pedagogical effectiveness. The review states leaders must promote "professional development" and that "without adequate training and support, the potential benefits of AI technologies cannot be fully realized."
@@ -35,6 +35,11 @@ A practical strategy drawn from the review's findings: leaders should plan and f
 
 ### Target Learning Goals
 - Teachers' digital competence for pedagogically effective AI use
+
+## Claims
+
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](../claims/leadership-pivotal-digital-transformation-education.md) [+W]
+- [Teachers are positioned as moral gatekeepers of AI use without adequate structural support](../claims/teachers-moral-gatekeepers-ai-lacking-support.md) [+W]
 
 ## Related Strategies
 

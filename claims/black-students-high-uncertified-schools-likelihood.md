@@ -46,7 +46,7 @@ State-by-state descriptive comparison of Black versus non-Black student enrollme
 - [Black students are more likely than non-Black students to attend schools with high percentages of novice teachers](black-students-high-novice-schools-likelihood.md) — related
 - [In seven states, Latino students are more likely to attend schools with high percentages of uncertified teachers](seven-states-latino-students-uncertified-teachers.md) — related
 - [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](nc-unequal-access-non-novice-teachers.md) — related
-- [Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers](latino-students-novice-uncertified-teacher-disparities-louisiana.md) — related
+- Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers — related
 - [Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers](black-students-novice-uncertified-teacher-disparities-louisiana.md) — a narrower finding that bears on this claim
 - [Schools serving the greatest percentages of Black students have more than twice the percentage of uncertified teachers as schools serving the fewest (5% vs 2%)](black-students-schools-more-uncertified-teachers.md) — related
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — a broader claim this one bears on

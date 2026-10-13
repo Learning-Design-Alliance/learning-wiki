@@ -61,6 +61,9 @@ Moderation test reported in the results text for the same sample; the report pri
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](condition-improvement-predicts-grade-improvement.md) — related
 - [Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively](positive-learning-conditions-double-odds-b-or-better-math.md) — related

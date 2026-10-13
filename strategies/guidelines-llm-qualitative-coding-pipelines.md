@@ -17,7 +17,7 @@ sources:
 # Four guidelines for designing LLM-assisted qualitative coding pipelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article distills its combined agreement and verification evidence into four guidelines for researchers designing large-scale coding pipelines. These are: evaluate candidate models on the target instrument before deployment; set the division of labor at the code level using the two-dimensional assessment rather than blanket decisions; use confidence-based triage only after testing that high-confidence annotations are actually endorsed more often; and do not treat high human-human agreement as sufficient evidence that human coding is correct. The article states that "high human-human agreement should not be treated as sufficient evidence that human coding is correct", since coders can share a conservative interpretation that LLM coding exceeds.
@@ -43,6 +43,11 @@ The article distills its combined agreement and verification evidence into four 
 
 ### Affordances
 - Code Level Division Of Labor Framework
+
+## Claims
+
+- [Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding](../claims/agreement-quality-divergence-human-consensus-bias.md) [+W]
+- [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](../claims/bradley-terry-model-selection-matters-more-than-source-type.md) [+W]
 
 ## Related Strategies
 

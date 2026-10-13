@@ -17,7 +17,7 @@ sources:
 # Provide urgent, strengthened academic support for multilingual students, especially dually-identified students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the finding of expanding middle-grade achievement gaps, the author recommends that "better academic support is urgently needed for all multilingual students, especially dually-identified students." The recommendation follows directly from the study's observation that ever-ELs and current-ELs make smaller gains than the all-student average in the middle grades and that dually-identified students make smaller gains across all grades in math. It directs attention and resources toward the middle grades and toward students served by both EL and Special Education programs.
@@ -39,6 +39,10 @@ Based on the finding of expanding middle-grade achievement gaps, the author reco
 - Mathematics achievement
 - Reading achievement
 - Closing achievement gaps in the middle grades
+
+## Claims
+
+- [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](../claims/ltel7-caaspp-performance-gaps.md) [+W]
 
 ## Related Strategies
 - 

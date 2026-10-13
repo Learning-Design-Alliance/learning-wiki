@@ -3,6 +3,7 @@ type: claim
 title: Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates
 description: Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates
 id: double-dose-algebra-improved-test-scores-modest-grades-effects
+aliases: [double-dose-negligible-grade-failure-changes]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: causal
     rigour: "?"
+  - id: takako-nomi-and-elaine-m-allensworth-2008
+    resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
+    title: "Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
+    author: Takako Nomi and Elaine M. Allensworth
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
+
 `q3 i?` Providing support algebra courses improved algebra test scores for the target population, with only modest effects on grades and failure rates. [→ Double-dose algebra policy evaluation in the Chicago Public Schools 2003](#double-dose-algebra-policy-evaluation-in-the-chicago-public-schools-2003)
+
+`q3 i?` For students targeted by the policy, including students far from the cut-off, GPAs increased by only .01 points and failure rates increased by two percentage points. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)
 
 ## Evidence
 
@@ -39,15 +51,29 @@ Evaluation of the Chicago 2003 double-period algebra policy using regression dis
 
 > "Providing support courses improved algebra test scores for the target population but only modestly affected grades and failure rates."
 
+### Takako Nomi and Elaine M. Allensworth 2008
+
+Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
+
+`q3 · i?` · `causal · r2`
+
+Cohort comparison across percentile rank groups; the article explains grades depend more on student behaviors than incoming skills, so skill gains need not translate into grade or failure improvements. No effect size printed.
+
+> "For students targeted by the policy, including students far from the cut-off, there were only negligible changes in grades or failure rates with the policy (GPAs increased by .01 points and failure rates increased by two percentage points)."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — possibly the same claim (merge candidate)
-- [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — possibly the same claim (merge candidate)
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](double-dose-geometry-outcomes-inconsistent.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
+- [The algebra-for-all policy increased algebra access for low-skill students previously in remedial math](algebra-for-all-increased-low-skill-access.md) — related
+- [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — a broader claim this one bears on
+- [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — related

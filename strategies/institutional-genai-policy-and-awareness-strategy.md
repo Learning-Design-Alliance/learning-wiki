@@ -17,7 +17,7 @@ sources:
 # Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that institutions respond to student confusion about GenAI by developing clear institutional policies, communicating and adhering to them, creating awareness, and promoting digital literacy. It states that "developing clear institutional policies, communicating and adhering to the policies, creating awareness, and promoting digital literacy seem to be essential." It further cautions that having a policy is not sufficient: policies must be comprehensive, clear, and well communicated, and rules must be reinforced and their effectiveness continuously assessed.
@@ -38,6 +38,11 @@ The article recommends that institutions respond to student confusion about GenA
 ### Target Learning Goals
 - ethical use of generative AI
 - academic integrity
+
+## Claims
+
+- [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](../claims/low-student-awareness-institutional-genai-regulations.md) [+W]
+- [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](../claims/academic-integrity-paramount-genai-policy-concern.md) [+W]
 
 ## Related Strategies
 

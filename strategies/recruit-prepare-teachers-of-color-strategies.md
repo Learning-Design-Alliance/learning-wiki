@@ -17,7 +17,7 @@ sources:
 # Recruit and prepare teachers of color through scholarships, Grow Your Own grants, bias-free licensure, partnerships, and leadership pipelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief's Goals 3 and 4 lay out recruitment and preparation strategies: invest in scholarship and loan forgiveness programs attracting students of color; adopt program approval standards that compel programs to recruit and graduate candidates of color; interrogate licensure policies for racial bias; fund Grow Your Own (GYO) programs; provide anti-bias training for hiring managers; invest in district-preparation program partnerships for targeted hiring; and diversify leadership pipelines. The brief argues states "must create the right policy conditions to support educator preparation programs, districts, and schools in their efforts to prepare, recruit, and retain teachers of color."
@@ -36,6 +36,10 @@ The brief's Goals 3 and 4 lay out recruitment and preparation strategies: invest
 
 ### Target Learning Goals
 - diversifying the educator workforce through recruitment and preparation
+
+## Claims
+
+- [Ohio shows no evidence of stakeholder engagement, cultural competence training for hiring managers, or district-preparation partnerships for diverse hiring](../claims/ohio-gaps-stakeholder-input-and-hiring-diversity-investments.md) [~W]
 
 ## Related Strategies
 

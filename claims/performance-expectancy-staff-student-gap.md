@@ -44,4 +44,4 @@ Validated Performance Expectancy scales on both surveys (Table 1). The student d
 - [Staff showed more negativity in attitudes towards student use of GAI than students did](staff-more-negative-attitudes-student-gai.md) — related
 - [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — related
 - [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related
-- [Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School](students-greater-facilitating-conditions-gai.md) — related
+- Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School — related

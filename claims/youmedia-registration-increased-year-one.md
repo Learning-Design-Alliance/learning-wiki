@@ -48,4 +48,4 @@ Analysis of registration data reported in Figure 3, showing a progressive increa
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [A majority of YOUmedia participants report improved digital media skills due to the program](youmedia-majority-report-improved-digital-media-skills.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
-- [Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides](youmedia-transportation-barrier-far-south-west-sides.md) — related
+- Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides — related

@@ -12,14 +12,14 @@ generated:
 # Line Awareness Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Line awareness activities develop the visual–motor skill of placing letters correctly on writing lines — sitting letters on the baseline, respecting the top line for tall letters, and using the "dotted middle" line for lowercase letters. Activities include tracking lines with a finger or pointer, copying letters onto highlighted or bolded lines, writing within graph-paper boxes, and using color-coded visual cues (e.g., "grass, sky, ground" paper) to anchor letter placement.
 
 ## Design Implications
 
-Line awareness is a component of handwriting legibility, and explicit, structured handwriting instruction produces measurable gains in legibility for young writers [Explicit handwriting instruction improves legibility more than incidental exposure.](../claims/explicit-handwriting-instruction-improves-legibility.md) [+S]. Visual cues such as highlighted baselines or color-coded zones reduce the working-memory and perceptual demands of placement decisions, letting learners attend to letter formation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Gains depend on repeated, distributed practice with feedback rather than a single remediation session [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+Line awareness is a component of handwriting legibility, and explicit, structured handwriting instruction produces measurable gains in legibility for young writers [Explicit handwriting instruction improves legibility more than incidental exposure.](../claims/explicit-handwriting-instruction-improves-legibility.md) [+S]. Visual cues such as highlighted baselines or color-coded zones reduce the working-memory and perceptual demands of placement decisions, letting learners attend to letter formation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Gains depend on repeated, distributed practice with feedback rather than a single remediation session [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Line awareness is a component of handwriting legibility, and explicit, structure
 #### Constraints
 - Visual cues alone do not remediate underlying fine-motor weakness, visual-perceptual deficits, or poor pencil grip; motor-based interventions and cue-based paper modifications show comparable, modest effects, and neither outperforms simple structured practice [Motor- and perceptual-based handwriting interventions show no clear advantage over structured practice.](../claims/handwriting-intervention-type-equivalence.md) [~M]
 - Over-reliance on highlighted or adapted paper can create dependence; cues must be faded or transfer to standard paper will not occur
-- Effectiveness drops when practice is massed into long sessions rather than short, frequent bouts [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [-M]
+- Effectiveness drops when practice is massed into long sessions rather than short, frequent bouts [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [-M]
 - For older students with fluent (if untidy) writing, line-focused drills may consume instructional time better spent on composition [Explicit handwriting instruction improves legibility more than incidental exposure.](../claims/explicit-handwriting-instruction-improves-legibility.md) [~M]
 
 #### Implementation Variability

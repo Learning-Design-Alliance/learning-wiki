@@ -17,7 +17,7 @@ sources:
 # Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief argues cut scores "should be a floor, not a ceiling," because a single TSI score disproportionately limits access for Black, Latino, and low-income students who are less likely to meet TSI standards. During pandemic testing disruptions, the Texas Higher Education Coordinating Board allowed colleges to use multiple measures of eligibility when TSI status was unknown. The brief cites research that high school GPA is a more reliable predictor of preparedness for entry-level college courses than standardized exam cut scores.
@@ -35,6 +35,10 @@ The brief argues cut scores "should be a floor, not a ceiling," because a single
 
 ### Target Learning Goals
 - Access to college-level dual credit coursework
+
+## Claims
+
+- [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](../claims/contextualized-gpa-stronger-than-contextualized-test-scores.md) [+W]
 
 ## Related Strategies
 

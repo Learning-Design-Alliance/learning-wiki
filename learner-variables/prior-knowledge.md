@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (49 for, 27 mixed, 9 against) · 72 studies (19 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 12 of 72 report an effect size · 76 claims rest on one study
+> **Evidence** · 84 claims (49 for, 27 mixed, 8 against) · 72 studies (19 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 12 of 72 report an effect size · 74 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -76,7 +76,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~W] — an instructional effect differs with it
 - [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](../claims/edcamp-dfl-panelist-moderator-leadership-growth.md) [+M] — instruction changes it
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](../claims/fast-mapping-full-mapping-word-learning.md) [+M] — instruction changes it
-- [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](../claims/demanding-assignments-benefit-all-achievement-levels.md) [-W] — an instructional effect differs with it
+- [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](../claims/high-and-low-achievers-benefit-from-quality-assignments.md) [-W] — an instructional effect differs with it
 - [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](../claims/haiti-blended-pilot-significant-gains-lowest-baseline.md) [+M] — an instructional effect differs with it
 - [Students' prior knowledge about a topic impacts their understanding of text as they read](../claims/prior-knowledge-impacts-text-understanding.md) [+W] — learners who differ on it differ in outcomes
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](../claims/gamma-process-positive-gain-pretest-correlation.md) [+W] — learners who differ on it differ in outcomes

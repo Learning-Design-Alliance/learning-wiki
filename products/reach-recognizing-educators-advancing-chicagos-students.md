@@ -30,7 +30,7 @@ sources:
 # REACH (Recognizing Educators Advancing Chicago's Students)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 33 claims (20 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 33 claims rest on one study
+> **Evidence** · 32 claims (19 for, 9 mixed, 4 against) · 10 studies (8 associational, 1 design, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 29 claims rest on one study
 
 ## Description
 REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification.
@@ -58,7 +58,7 @@ REACH is Chicago Public Schools' teacher-evaluation programme combining classroo
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](../claims/reach-beginning-teachers-more-positive-than-veterans.md) [+W]
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](../claims/reach-changing-practice-communication-collaboration.md) [+W]
 - [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](../claims/reach-effort-questioned-more-effort-than-results-worth.md) [-W]
-- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-stress-anxiety.md) [-W]
+- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-and-administrator-stress.md) [-W]
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](../claims/reach-teachers-question-student-growth-weight-fairness.md) [-W]
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](../claims/reach-year-two-optimism-declining-satisfaction.md) [~W]
 - [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](../claims/reach-fewer-teachers-top-rating-categories-than-checklist.md) [~W]
@@ -182,7 +182,7 @@ REACH is Chicago Public Schools' teacher evaluation system, which "replaced the 
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](../claims/reach-beginning-teachers-more-positive-than-veterans.md) [+W]
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](../claims/reach-changing-practice-communication-collaboration.md) [+W]
 - [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](../claims/reach-effort-questioned-more-effort-than-results-worth.md) [-W]
-- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-stress-anxiety.md) [-W]
+- [Teachers and principals report increased teacher stress and anxiety under REACH](../claims/reach-increased-teacher-and-administrator-stress.md) [-W]
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](../claims/reach-teachers-question-student-growth-weight-fairness.md) [-W]
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](../claims/reach-year-two-optimism-declining-satisfaction.md) [~W]
 - [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](../claims/reach-fewer-teachers-top-rating-categories-than-checklist.md) [~W]

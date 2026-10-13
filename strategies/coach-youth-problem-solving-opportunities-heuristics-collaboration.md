@@ -17,7 +17,7 @@ sources:
 # Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that pedagogical perspectives promoting practical application of science in non-school contexts — STSE and action research, science for social justice, activism in the curriculum, integrated curriculum, and multi-sciences — should explicitly coach youth. The authors state these perspectives "are well positioned to coach students to solve problems in local and global arenas, through the application of school science and in collaboration with others in everyday life," and that educators should appraise implementation of relevant curriculum initiatives.
@@ -37,6 +37,10 @@ The article recommends that pedagogical perspectives promoting practical applica
 - applying school science to solve everyday problems
 - recognizing problem-solving opportunities in socioscientific issues
 - collaborating with others in problem-solving
+
+## Claims
+
+- [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](../claims/minimal-persistence-everyday-problem-solving-youth.md) [+W]
 
 ## Related Strategies
 

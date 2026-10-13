@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (17 for, 3 mixed) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (15 for, 3 mixed) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 13 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -43,7 +43,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S]
-- [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M]
+- [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [+M]
 - [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M]
 - [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+M]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+W]
@@ -59,7 +59,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spacing-effect-robust-verbal-recall.md) [+W]
+- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spaced-repetition-improves-retention.md) [+W]
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
 
@@ -68,14 +68,14 @@ Spaced repetition is the element in which key material is revisited at strategic
      cites the claims that settle it, with markers capped by each claim's recorded evidence. -->
 
 ### Should review be spread across sessions or done in one block?
-- **Default:** spread the same study time over several sessions separated by days rather than one block; across 271 comparisons in verbal recall, spacing raised final recall from 36.7% to 47.3% at equal study time — [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+S], [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- **Default:** spread the same study time over several sessions separated by days rather than one block; across 271 comparisons in verbal recall, spacing raised final recall from 36.7% to 47.3% at equal study time — [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S], [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Changes when:** the task is a complex or motor skill rather than verbal recall → expect a smaller benefit; a meta-analysis across task types put the effect at d = 0.46 and found it smaller for complex tasks — [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [~S]
-- **Changes when:** only an immediate test matters → spacing's advantage is uneven at short delays and shows mainly on delayed tests, so judge the schedule on a delayed test — [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [~S]
+- **Changes when:** only an immediate test matters → spacing's advantage is uneven at short delays and shows mainly on delayed tests, so judge the schedule on a delayed test — [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [~S]
 - **Tested with:** mostly young adults on verbal material (714 of 839 performance differences in Cepeda et al. 2006), an online adult panel learning trivia facts, and L2 learners in 48 experiments.
 - **Not settled:** the evidence for children's long-term retention is thin (the Cepeda synthesis says it "cannot say for certain"); no wiki claim sizes the benefit for multi-step procedures.
 
 ### How long should the gap between reviews be?
-- **Default:** set the gap from how long the material must be remembered: the best gap was about 20% of the test delay for a test a few weeks away, falling to about 5% for a one-year delay; there is an optimum, not "longer is always better" — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S], [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+S]
+- **Default:** set the gap from how long the material must be remembered: the best gap was about 20% of the test delay for a test a few weeks away, falling to about 5% for a one-year delay; there is an optimum, not "longer is always better" — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S], [Distributed Practice Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S]
 - **Changes when:** second-language learning with a delayed test → longer spacing beat shorter spacing on delayed posttests, but was no better on immediate ones — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Changes when:** practice would be spread over years → one narrative review reports that spreading over a couple of years may be worse than over a couple of months — [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~M]
 - **Tested with:** 1,354 adults learning trivia facts with tests up to a year later (Cepeda et al. 2008); L2 vocabulary experiments.

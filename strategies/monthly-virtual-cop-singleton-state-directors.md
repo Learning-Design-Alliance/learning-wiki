@@ -17,7 +17,7 @@ sources:
 # Convene a monthly virtual Community of Practice for singleton state program directors, with topics identified by members and reciprocal learning among members and experts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The R15CC designed and facilitated a CoP specifically for the region's AIE Directors, meeting virtually approximately once per month since 2020. Sessions are "centered on reciprocal learning among participating members and experts in the field about topics identified by CoP members as important and timely for their context." Members share effective practices across states, discuss current strategies, and learn about research-based practices, tools, and resources. Topics have included budgeting one-time funds, Indigenous leadership, ecological models, biliteracy seals, teacher professional learning, and chronic absenteeism.
@@ -39,6 +39,10 @@ The R15CC designed and facilitated a CoP specifically for the region's AIE Direc
 - Systemic approaches to academic challenges facing Indigenous peoples
 - Sharing evidence-based practices
 - Creating coherence among SEA staff to advance equity
+
+## Claims
+
+- [The CoP extended its network's reach through national convenings, including a member-facilitated NIEA convention session](../claims/cop-extended-reach-niea-convention-session.md) [+W]
 
 ## Related Strategies
 

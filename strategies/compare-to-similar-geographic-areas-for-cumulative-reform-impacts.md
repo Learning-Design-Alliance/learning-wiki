@@ -17,7 +17,7 @@ sources:
 # Estimate cumulative impacts of district-wide reforms by comparing achievement changes to similar students in similar geographic areas without the reforms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study estimated cumulative impacts of district-wide reforms through a comparative approach: it analyzed "how changes in achievement levels of DC schools compare to changes observed for similar students in similar geographic areas without such reforms." This comparison strategy allows reform-period achievement changes to be benchmarked against what would plausibly have occurred without the reforms. The brief presents this as the method underlying its impact estimates.
@@ -35,6 +35,10 @@ The study estimated cumulative impacts of district-wide reforms through a compar
 
 ### Target Learning Goals
 - District-wide student achievement in math and reading as measured by NAEP
+
+## Claims
+
+- [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](../claims/dc-reform-analysis-statistical-controls.md) [+W]
 
 ## Related Strategies
 

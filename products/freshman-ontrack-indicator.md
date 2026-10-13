@@ -14,7 +14,7 @@ generated:
 # Freshman OnTrack indicator
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 associational, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A research-based early-warning measurement developed and used by the University of Chicago Consortium and Chicago Public Schools to identify ninth-grade students at risk of not graduating.
@@ -24,7 +24,7 @@ A research-based early-warning measurement developed and used by the University 
 - **Freshman OnTrack end-of-year indicator used for goal-setting and accountability**: The Freshman OnTrack indicator is an end-of-year data element signaling whether a ninth-grade student is likely to graduate. The article states it "signals a student is likely to graduate and is used for goal-setting and accountability", making it the anchor of Chicago's graduation-improvement data system. (Using the Freshman On-Track Indicator to Improve High Schools in Chicago (1990))
 
 ### Claims
-- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](../claims/on-track-predicts-graduation-three-and-half-times.md) [+M]
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+M]
 - [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](../claims/cps-on-track-rate-61-to-85-percent-2006-2015.md) [+M]
 
 ## Related Products and Programmes
@@ -48,7 +48,7 @@ Chicago Public Schools' research-based ninth-grade early-warning assessment and 
 <!- - A programme's own frameworks, tools, indicators and instruments, as its sources describe them - ->
 
 ### Claims
-- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](../claims/on-track-predicts-graduation-three-and-half-times.md) [+M]
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](../claims/on-track-freshmen-graduate-at-higher-rates.md) [+M]
 - [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](../claims/cps-on-track-rate-61-to-85-percent-2006-2015.md) [+M]
 
 ## Related Products and Programmes

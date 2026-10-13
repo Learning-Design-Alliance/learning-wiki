@@ -46,7 +46,7 @@ Descriptive finding from the report's overview and funding sections, which brief
 - [At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23](26-states-statewide-leadership-initiatives.md) — related
 - [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](initiative-forms-and-roles-served.md) — related
 - [Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding](induction-program-variation-and-funding-challenges.md) — related
-- [County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding](california-qris-voluntary-unstable-funding.md) — related
+- County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding — related
 - [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
 - [Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised](idea-funding-15-percent-versus-40-promise.md) — related
 - [State administrators report using external entities such as regional centers and nonprofits to extend school improvement capacity and reach local needs](seas-use-external-entities-for-improvement-support.md) — related

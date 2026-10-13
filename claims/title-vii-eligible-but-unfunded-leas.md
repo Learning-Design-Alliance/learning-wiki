@@ -43,9 +43,9 @@ Analysis comparing NCES 2011/12 enrollment data against Title VII eligibility cr
 
 
 ## Related Claims
-- [The primary difference between eligible LEAs that received Title VII funding and eligible LEAs that did not was knowledge about the Title VII program](knowledge-gap-primary-barrier-title-vii.md) — related
-- [Some unfunded LEA respondents weighed whether the effort to procure Title VII funds was worthwhile in benefits to students](title-vii-cost-benefit-uncertainty.md) — related
+- The primary difference between eligible LEAs that received Title VII funding and eligible LEAs that did not was knowledge about the Title VII program — related
+- Some unfunded LEA respondents weighed whether the effort to procure Title VII funds was worthwhile in benefits to students — related
 - [Respondents from eligible-but-unfunded LEAs often held misconceptions about Title VII, particularly its eligibility requirements](title-vii-eligibility-misconceptions.md) — related
-- [Title VII new-award funding for LEAs in Arizona, Nevada, and Utah fluctuated between 2008 and 2013](title-vii-funding-fluctuation-2008-2013.md) — related
+- Title VII new-award funding for LEAs in Arizona, Nevada, and Utah fluctuated between 2008 and 2013 — related
 - [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related
 - [Funded LEA respondents expressed general satisfaction with Title VII and reported using funds to hire staff and expand services for AI/AN students](title-vii-funded-lea-satisfaction-and-uses.md) — related

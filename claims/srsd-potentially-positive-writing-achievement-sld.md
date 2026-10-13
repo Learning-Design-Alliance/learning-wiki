@@ -42,6 +42,9 @@ The WWC's systematic review of single-case design studies of SRSD for students w
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies met pilot standards with reservations](srsd-evidence-base-group-design-null.md) — related
 - [Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings](srsd-math-evidence-below-threshold.md) — related

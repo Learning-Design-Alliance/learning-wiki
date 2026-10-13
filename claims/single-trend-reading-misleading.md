@@ -47,4 +47,4 @@ The guide's interpretive walkthrough of illustrative school profiles (Schools A 
 - [Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends](trend-labels-statistically-significant-criteria.md) — related
 - [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — related
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
-- [CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades](cps-productivity-gains-peaked-1997.md) — related
+- CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades — related

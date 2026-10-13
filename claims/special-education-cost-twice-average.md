@@ -42,6 +42,9 @@ The report's special education section states that because LEAs are obligated to
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
 - [Additional special education costs vary substantially by primary disability category](disability-category-cost-variation.md) — related

@@ -42,6 +42,9 @@ Analysis of the Landscape of Opportunity scatterplot (Figure 6) plotting net pri
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Low-income students at four-year for-profits face unmet need of almost $25,000 per year, higher than at private nonprofits, while graduating at one-third the rate](for-profit-unmet-need-exceeds-private-nonprofit.md) — related
 - [275 institutions require their lowest-income students to pay more than 100 percent of average annual family income to attend](275-institutions-net-price-exceeds-family-income.md) — a broader claim this one bears on

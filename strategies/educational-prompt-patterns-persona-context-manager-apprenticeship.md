@@ -17,7 +17,7 @@ sources:
 # Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The revised prompt combined the Persona pattern (defining a consistent tutoring role with specific responsibilities) and the Context Manager pattern (explicitly scoping what the model should and should not address), which Holmes et al.'s evaluation found the most effective pairing for educational applications. It added cognitive-apprenticeship elements: "graduated mentorship that favors coaching and hinting over direct demonstration," affirming student effort before addressing errors, and grounding feedback in the student's specific artifact. Explicit formatting constraints (no markdown, no bullet points, 1–3 sentences) replaced open-ended rules, and domain-specific context such as sensor behavior clarifications was added.
@@ -35,6 +35,10 @@ The revised prompt combined the Persona pattern (defining a consistent tutoring 
 
 ### Target Learning Goals
 - block-based programming tutoring in VEX VR
+
+## Claims
+
+- [A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points](../claims/prompt-revision-improves-tutoring-scores-ten-of-eleven.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Complement AI tutoring with group recitations or instructor guidance rather than treating it as a replacement for human instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that AI Socratic tutoring be embedded alongside human instructional structures. They state "the chatbot is not meant to replace human instructors or peer collaboration" and that "AI tutoring should be complemented by group recitations or instructor guidance," motivated by the uneven motivation gains observed in their survey data. Future plans include adaptive feedback loops that identify common misconceptions and refine the Verifier's scaffolding as dialogue data accumulate.
@@ -35,6 +35,10 @@ The authors recommend that AI Socratic tutoring be embedded alongside human inst
 
 ### Target Learning Goals
 - problem-solving skills and confidence in physics
+
+## Claims
+
+- [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](../claims/physics-student-ai-use-survey-findings.md) [+W]
 
 ## Related Strategies
 

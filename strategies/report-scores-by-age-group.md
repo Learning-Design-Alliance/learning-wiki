@@ -17,7 +17,7 @@ sources:
 # Report achievement score trends by age group rather than by grade when promotion and retention policies change grade composition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy shifts score reporting from grade levels to age cohorts, defining age groups by birthdays within six months on either side of April 15, the approximate citywide testing date. Because the promotion policy changes the composition of students within grades over time, the article argues this "reporting Scores by Age Group, Rather Than by Grade" method "may be informative in the future" as grade composition becomes increasingly complex.
@@ -35,6 +35,10 @@ This strategy shifts score reporting from grade levels to age cohorts, defining 
 
 ### Target Learning Goals
 - accurate district-level achievement trend monitoring under changing retention policies
+
+## Claims
+
+- [Removing retained students' scores raises 1998 ITBS scores in grades three, six, and eight, while adding predicted retained-student scores lowers fourth and seventh grade scores](../claims/retention-adjustment-raises-368-lowers-47.md) [+W]
 
 ## Related Strategies
 - 

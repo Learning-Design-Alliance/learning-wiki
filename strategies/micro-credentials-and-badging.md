@@ -13,7 +13,7 @@ generated:
 # Micro Credentials And Badging
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 9 studies (3 quant-synthesis, 2 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 10 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Micro credentials and digital badges certify that a learner has demonstrated a specific, defined competency — a skill, task, or body of knowledge — typically assessed against explicit criteria rather than awarded for seat time. Badges are usually digital, metadata-rich (issuer, criteria, evidence), and stackable toward larger credentials. The strategy restructures recognition around demonstrated performance and makes progress visible in small, frequent increments.
@@ -75,6 +75,10 @@ Badging works when it functions as a competency signal, not a participation trop
 4. Deliver [Feedback](../elements/feedback.md) on submissions against the published criteria; award the badge only when evidence meets the standard.
 5. Stack badges into visible pathways so learners see how micro credentials accumulate toward larger goals.
 6. Review badge rigor periodically — retire or tighten badges that are awarded near-universally.
+
+## Claims
+
+- [Few teachers know about micro-credentials: only 15 percent are even somewhat familiar and 4 percent feel very knowledgeable, with no important differences across teacher subgroups](../claims/low-teacher-awareness-of-micro-credentials.md) [~W]
 
 ## Related Strategies
 

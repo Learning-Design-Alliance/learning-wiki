@@ -43,6 +43,6 @@ The authors' own review of all state charter statutes and relevant regulations i
 
 
 ## Related Claims
-- [California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs](ab1505-community-interest-excludes-community-input.md) — a narrower finding that bears on this claim
+- California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs — a narrower finding that bears on this claim
 - [Three of 16 states require assessment of demographic impact on segregation or desegregation orders, six require programmatic impact assessment, and four require only a general impact assessment](demographic-programmatic-general-impact-provision-counts.md) — a narrower finding that bears on this claim
 - [State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs](engagement-requirements-without-meaningful-input.md) — related

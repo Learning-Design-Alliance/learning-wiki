@@ -17,7 +17,7 @@ sources:
 # TAACCCT consortium implementing flexibly paced CBE programs in information technology
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 associational, 1 design), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 associational, 1 design), `q2` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 Under a Round 2 TAACCCT grant, "Sinclair Community College is leading a consortium with Austin Community College and Broward College to implement flexibly paced, competency-based education (CBE) programs in information technology." The consortium is the setting from which the brief's highlighted practices were drawn, with Mathematica serving as external evaluator of the grant.

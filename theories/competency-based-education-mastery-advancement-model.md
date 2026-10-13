@@ -16,7 +16,7 @@ sources:
 # Competency-based education: students advance through material independently upon demonstrating content mastery
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article defines competency-based education as a model in which "students move through material independently, advancing when they demonstrate content mastery." Proponents view competency-based approaches as a potential solution to student demand for flexible, career-relevant programs and to employer demand for skilled workers. The evaluated instantiation was a set of online competency-based information technology programs offered by a consortium of three community colleges under a federal TAACCCT grant.

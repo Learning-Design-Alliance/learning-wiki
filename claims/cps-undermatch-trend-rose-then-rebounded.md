@@ -45,4 +45,4 @@ Trend analysis of CPS graduates 2003-2013 (n=119,550 two- and four-year college-
 ## Related Claims
 - [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
-- [CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013](cps-two-year-enrollment-share-declined-2006-2015.md) — related
+- CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013 — related

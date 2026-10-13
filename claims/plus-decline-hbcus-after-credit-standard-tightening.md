@@ -48,7 +48,6 @@ Descriptive summary of the brief's analysis of federal financial aid data follow
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — a narrower finding that bears on this claim
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
 - [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — related
-- [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — related
 - [Enrollment at HBCUs decreased more than enrollment at other institutions after the PLUS credit-standard tightening](hbcu-enrollment-declined-more-than-other-institutions.md) — related
 - [HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students](hbcu-enrollment-declines-larger-than-other-institutions.md) — related
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — a broader claim this one bears on

@@ -17,7 +17,7 @@ sources:
 # Update research evaluation, funding, and training policies to address AI-driven changes in team assembly
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that science policy adapt to the AI-driven shift toward younger, smaller, but highly impactful teams. Its conclusion states: "Our findings call for policy improvements in research evaluation, funding, and training to address this emerging trend." The strategy directs research-evaluation bodies, funders, and training programs to account for the fact that AI-assisted writing changes how research teams are formed and assembled, rather than assuming ever-larger, senior-led teams are the norm. The article ties this to effective team assembly and evaluation criteria in science.
@@ -37,6 +37,10 @@ The article recommends that science policy adapt to the AI-driven shift toward y
 ### Target Learning Goals
 - professional development under AI-assisted writing
 - research training and evaluation practices
+
+## Claims
+
+- [AI-assisted teams comprise more junior authors and fewer senior authors](../claims/ai-assisted-teams-more-junior-fewer-senior-authors.md) [+W]
 
 ## Related Strategies
 - 

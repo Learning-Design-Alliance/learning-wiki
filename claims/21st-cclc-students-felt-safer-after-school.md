@@ -43,10 +43,9 @@ In the elementary component of the national evaluation, "Students in the program
 
 
 ## Related Claims
-- [Students in 21st CCLC elementary programs had more incidents of negative behavior](21st-cclc-more-negative-behavior-incidents.md) — related
+- [Students in 21st CCLC elementary programs had more incidents of negative behavior](cclc-elementary-participants-more-negative-behaviors.md) — related
 - [21st CCLC participation showed no statistically significant effect on the incidence of self-care after school](21st-cclc-no-significant-effect-self-care.md) — related
 - [21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely](21st-cclc-shifted-after-school-supervision-away-from-parents.md) — related
 - [Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled](cclc-elementary-participants-felt-safer.md) — possibly the same claim (merge candidate)
-- [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related
 - [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](21st-cclc-changed-after-school-time-location-and-companions.md) — related
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related

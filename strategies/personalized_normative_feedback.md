@@ -12,7 +12,7 @@ generated:
 # Personalized Normative Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 8 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Personalized normative feedback (PNF) gives learners individualized data about their own behavior alongside accurate data about what peers actually do or believe, targeting the gap between perceived and actual norms. It is most developed in the "social norms approach" to health behavior (e.g., reducing alcohol misuse), but the mechanism — correcting pluralistic ignorance and false consensus — applies wherever learners misjudge what is typical, acceptable, or expected. Delivery is usually individual (survey followed by tailored report) and works best when the comparison group is credible and the norm data are genuinely local.
@@ -57,6 +57,10 @@ PNF works because learners systematically overestimate risky or deviant behavior
 4. **Deliver tailored feedback privately** — show "you" vs. "most students" side by side, with the data source stated to establish credibility.
 5. **Pair descriptive with injunctive norms** — add what peers approve of, especially when the learner already outperforms the norm, to prevent boomerang effects.
 6. **Repeat over time** — schedule follow-up feedback; single exposures decay [~M].
+
+## Claims
+
+- [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](../claims/field-apathy-overestimation-ethical-concerns.md) [+W]
 
 ## Related Strategies
 - [Social Norms Marketing Campaign](social-norms-marketing-campaign.md) — the population-level, media-based variant of the same mechanism

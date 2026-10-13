@@ -17,7 +17,7 @@ sources:
 # NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (3 associational, 1 review), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (3 associational, 1 review), `q1`–`q2` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 A series of related NWEA Research publications organized around COVID-19 and schools, equity, and seasonal learning patterns and summer loss, including a working paper on projecting the potential impacts of COVID-19 school closures, the COVID-19 slide research brief, and its technical appendix. The page presents these as "Associated Research" items, positioning the appendix within a broader program of research on pandemic-related learning loss.
@@ -40,8 +40,8 @@ A series of related NWEA Research publications organized around COVID-19 and sch
 
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](../claims/summer-learning-loss-projections-covid-closures.md) [+W]
 - [COVID-19 school closures will likely impact student academic achievement](../claims/covid-closures-likely-impact-achievement.md) [+W]
-- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-projections-reading-63-68-percent-gains.md) [+W]
-- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](../claims/covid-projections-math-37-50-percent-gains.md) [+W]
+- [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](../claims/covid-closures-projected-reading-gains-63-68-percent.md) [+W]
+- [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](../claims/covid-closures-projected-math-gains-37-50-percent.md) [+W]
 - [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](../claims/covid-learning-loss-not-universal-top-third-reading-gains.md) [+W]
 
 ## Related Elements

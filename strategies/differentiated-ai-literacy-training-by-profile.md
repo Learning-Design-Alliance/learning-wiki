@@ -17,7 +17,7 @@ sources:
 # Differentiated AI literacy training matched to acceptance profiles, with interventions beyond operational skills for Resistant Skeptics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that teacher education institutions use the empirically identified user types as the basis for AI literacy training design. As stated in the conclusions, "the study proposes a differentiated AI literacy training framework, emphasizing that profiles such as Resistant Skeptics require targeted interventions that extend beyond operational skills training." This follows from the finding that Resistant Skeptics already perceive ChatGPT as easy to use, so skills training alone would not address their negative evaluative beliefs and perceived social norms.
@@ -38,6 +38,10 @@ The article proposes that teacher education institutions use the empirically ide
 
 ### Affordances
 - Diffusion User Typology Ai Acceptance
+
+## Claims
+
+- [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](../claims/four-chatgpt-acceptance-profiles-lpa.md) [+W]
 
 ## Related Strategies
 

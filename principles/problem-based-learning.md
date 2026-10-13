@@ -22,7 +22,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (5 for, 13 mixed, 1 against) · 24 studies (7 causal, 6 review, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 24 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (5 for, 14 mixed, 1 against) · 25 studies (7 causal, 6 quant-synthesis, 6 review, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
 - [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [+W]
 - [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
+- [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

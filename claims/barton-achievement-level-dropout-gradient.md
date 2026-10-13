@@ -62,6 +62,6 @@ Table 3 subgroup analysis of students at or above grade level on the eighth-grad
 
 
 ## Related Claims
-- [Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS](barton-1993-five-year-outcomes.md) — a broader claim this one bears on
+- Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS — a broader claim this one bears on
 - [Five-year graduation and dropout outcomes varied by eighth-grade ITBS achievement level, with students more than a year below grade level graduating at lower rates](kenwood-outcomes-by-itbs-achievement-level.md) — a broader claim this one bears on
-- [Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35)](barton-1993-gender-graduation.md) — related
+- Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — related

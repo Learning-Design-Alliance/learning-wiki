@@ -17,7 +17,7 @@ sources:
 # Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers higher education institutions a concrete implementation approach: "institutional policies should position AI detection tools such as Pangram as one component within a broader decision-making process for responsible AI integration in higher education institutions." Because detection accuracy degrades as new LLMs appear, it adds that "institutions must regularly update benchmarks to ensure the ongoing reliability of these detection tools." The strategy pairs tool use with policy development and longitudinal monitoring.
@@ -36,6 +36,10 @@ The article offers higher education institutions a concrete implementation appro
 
 ### Target Learning Goals
 - responsible and transparent use of generative AI in academic work
+
+## Claims
+
+- [On hybrid and humanised AI papers, Pangram correctly identified AI content in 37 of 40 cases while GPTZero and Copyleaks performed poorly and Turnitin declined on humanised texts](../claims/pangram-robust-hybrid-humanised-texts.md) [~W]
 
 ## Related Strategies
 

@@ -43,11 +43,9 @@ Quasi-experimental design comparing Gehring magnet students in grades 1-5 with p
 
 
 ## Related Claims
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-math-reading-science.md) — related
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related
 - [The Kauffman School produced substantial positive impacts on student achievement growth in mathematics, English language arts, and science over its first six years](kauffman-school-six-year-achievement-growth-impacts.md) — related
-- [During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science](kauffman-school-significant-achievement-impacts-first-three-years.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
-- [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related

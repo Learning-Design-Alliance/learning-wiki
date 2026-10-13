@@ -42,6 +42,9 @@ From the same Tennessee quasi-experiment of 2,045 sixth graders: students with d
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](coursemojo-consistent-use-stronger-outcomes.md) — related
 - [Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment](coursemojo-tn-ela-gains.md) — related

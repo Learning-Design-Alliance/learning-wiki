@@ -46,7 +46,7 @@ Qualitative analysis of interviews and focus groups with 11 FYSCP county coordin
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — a broader claim this one bears on
 - [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
-- [Washington advances cross-sector coordination through a policy-driven, centralized model anchored in legislation such as Project Education Impact and standardized definitions](washington-policy-driven-centralized-model.md) — related
-- [California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services](lcff-supplemental-grants-foster-care.md) — related
-- [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — related
+- Washington advances cross-sector coordination through a policy-driven, centralized model anchored in legislation such as Project Education Impact and standardized definitions — related
+- California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services — related
+- Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
 - [Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care](logistical-barriers-foster-care-students.md) — related

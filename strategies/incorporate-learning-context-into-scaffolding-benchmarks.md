@@ -17,7 +17,7 @@ sources:
 # Incorporate learning context external to the chat into future scaffolding benchmarks, rubrics, and alignment datasets
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that future scaffolding benchmarks and alignment datasets should incorporate the learning context external to the chat, both as input to the chatbot and as grounding for its evaluation. It states: "We recommend that future scaffolding benchmarks and alignment datasets should incorporate the learning context external to the chat, both as input to the chatbot and as grounding for its evaluation." Rubrics should also measure the educational quality of student-driven interactions, and benchmarks should feature varied student behaviours such as low uptake and diverse learning contexts.
@@ -38,6 +38,10 @@ The article recommends that future scaffolding benchmarks and alignment datasets
 
 ### Affordances
 - [Learning Context Mismatch Account Chatbot Uptake](../theories/self-regulated-learning.md)
+
+## Claims
+
+- [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](../claims/real-world-students-bypass-chatbot-scaffolding.md) [+W]
 
 ## Related Strategies
 - 

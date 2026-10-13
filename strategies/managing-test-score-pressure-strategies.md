@@ -17,7 +17,7 @@ sources:
 # Principals manage test-score pressure through targeted improvement, instructional coherence, and maximizing uninterrupted instructional time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Interviewed CPS principals described three ways of managing pressure to raise test scores: targeted improvement based on assessment data, increasing the coherence of instructional materials, and maximizing uninterrupted instructional time. Coherence was "the most commonly identified in the principal interviews, with approximately 65 percent of principals talking about their efforts to increase instructional coherence," primarily through common instructional materials per subject. Elementary principals established no-interruption periods for literacy and math; high school principals used block scheduling and, in a few schools, an extended day approved by teacher vote.
@@ -36,6 +36,10 @@ Interviewed CPS principals described three ways of managing pressure to raise te
 
 ### Target Learning Goals
 - Improving instruction and student achievement under accountability pressure
+
+## Claims
+
+- [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](../claims/non-instructional-time-23-percent-teacher-split.md) [~W]
 
 ## Related Strategies
 - 

@@ -17,7 +17,7 @@ sources:
 # Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 For schools, administrators, and policymakers, the article recommends that "procurement should demand operational evidence rather than accepting the existence of a privacy policy as sufficient." Vendors should be required to specify collected fields, subprocessors, children's consent practices, AI uses, retention or training practices, and breach-notification timelines in plain language. Institutions can use the five audit dimensions from Table 2 as a lightweight comparison rubric, and regulation should be specific, since the K-12 consent advantage shows enforceable obligations raise disclosure quality on the dimensions they directly govern.
@@ -36,6 +36,11 @@ For schools, administrators, and policymakers, the article recommends that "proc
 
 ### Target Learning Goals
 - Institutional governance of student data privacy and AI disclosure in EdTech procurement
+
+## Claims
+
+- [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](../claims/policy-audit-collection-strong-ai-accountability-weak.md) [+W]
+- [K-12 platforms scored higher on children's consent where regulation is explicit, but the advantage did not extend to AI disclosure or accountability](../claims/k12-consent-advantage-no-spillover-ai-accountability.md) [~W]
 
 ## Related Strategies
 

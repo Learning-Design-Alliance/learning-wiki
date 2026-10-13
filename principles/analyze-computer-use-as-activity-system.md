@@ -17,7 +17,7 @@ sources:
 # Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends using activity theory to analyze specific systems rather than only applying it abstractly: while activity theory is descriptive, not prescriptive, it has been used for both analysis and diagnosis, and the results of such an analysis can be used to consciously re-design the activity system. Explicitly identifying contradictions within a system can lead to positive changes, since tensions and disturbances are treated as the engine of change. The paper cautions that what constitutes a better activity system is always open to debate, involving individual and societal goals as much as capabilities of people and tools.
@@ -37,7 +37,9 @@ The paper recommends using activity theory to analyze specific systems rather th
 - diagnosing tensions in technology-supported learning and redesigning activity systems
 
 ### Claims
+
 - [Tool Effectiveness Depends On Context Configuration](../claims/tool-effectiveness-depends-on-context-configuration.md) [+M]
+- [Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community](../claims/user-goals-contradict-educational-objectives.md) [+W]
 
 ## Related Principles
 - 

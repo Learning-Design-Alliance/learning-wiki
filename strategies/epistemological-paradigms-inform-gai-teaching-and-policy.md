@@ -17,7 +17,7 @@ sources:
 # Use epistemological paradigms to inform alternative teaching, assessment, professional development and AI governance approaches
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends using its epistemological account of human-GAI engagement to design "alternative approaches to teaching and assessment, student interactions, professional development, and AI governance and policy". Because paradigms are enacted patterns shaped by disciplinary, socio-technical and institutional contexts, educators and institutions would first characterise the epistemological positioning of a context, then align teaching, assessment and governance practices with it.
@@ -38,6 +38,10 @@ The article recommends using its epistemological account of human-GAI engagement
 
 ### Affordances
 - Seven Human Gai Epistemological Paradigms
+
+## Claims
+
+- [An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance](../claims/epistemological-gai-account-informs-teaching-assessment-governance.md) [+W]
 
 ## Related Strategies
 - 

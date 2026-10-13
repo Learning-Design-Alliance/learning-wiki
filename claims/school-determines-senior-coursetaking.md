@@ -44,5 +44,5 @@ Analysis of coursetaking by school for 2006-09 graduates (N=50,053) shows senior
 
 ## Related Claims
 - [Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention](ap-fourth-year-math-enrollment-not-retention.md) — related
-- [Almost one-half of between-school differences in college graduation rates among similarly-qualified CPS students is attributable to the colleges to which high schools send their students](college-choice-drives-between-school-graduation-gaps.md) — related
+- Almost one-half of between-school differences in college graduation rates among similarly-qualified CPS students is attributable to the colleges to which high schools send their students — related
 - [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related

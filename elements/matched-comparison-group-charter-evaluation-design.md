@@ -17,7 +17,7 @@ sources:
 # Matched comparison group design for charter school impact evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The evaluation method used for this report: a quasi-experimental, matched comparison group design estimating the Kauffman School's impacts on student achievement, attendance, and suspensions. The report states, "This paper uses a quasi-experimental, matched comparison group design to estimate the impacts of the Kauffman School on student achievement, attendance, and suspensions."
@@ -39,7 +39,7 @@ The evaluation method used for this report: a quasi-experimental, matched compar
 ## Claims
 
 - [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+W]
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-math-reading-science.md) [+W]
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+W]
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](../claims/kauffman-school-attendance-impact-one-percentage-point.md) [+W]
 - [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](../claims/kauffman-suspension-rate-substantially-higher.md) [+W]
 

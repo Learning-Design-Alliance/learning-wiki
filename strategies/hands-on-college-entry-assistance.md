@@ -17,7 +17,7 @@ sources:
 # Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Recommendations 4 and 5 address the discrete tasks of college entry: preparing for and taking entrance exams early, assisting college search, coordinating college visits, helping with applications, organizing pre-12th-grade workshops on affordability and aid sources, and helping families complete financial aid forms before deadlines. These two recommendations carry the guide's only moderate evidence ratings. The panel states that "simply providing students with information is insufficient" and that thinking about applying and paying for college "need to begin before the 12th grade."
@@ -35,6 +35,10 @@ Recommendations 4 and 5 address the discrete tasks of college entry: preparing f
 
 ### Target Learning Goals
 - Successful completion of college application and financial aid processes
+
+## Claims
+
+- [Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky](../claims/combined-barriers-summer-melt-marco.md) [+W]
 
 ## Related Strategies
 

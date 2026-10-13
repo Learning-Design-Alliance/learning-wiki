@@ -17,7 +17,7 @@ sources:
 # Evaluation of Mathematics Curricula project (2005–2013)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 causal, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The Evaluation of Mathematics Curricula is an IES-funded project, with a stated time frame of 2005–2013, that produced this issue brief on the achievement effects of four early elementary school math curricula for first and second graders. It was prepared for the U.S. Department of Education, Institute of Education Sciences, and the brief was published by the National Center for Education Evaluation and Regional Assistance in October 2010.
@@ -44,7 +44,7 @@ The Evaluation of Mathematics Curricula is an IES-funded project, with a stated 
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](../claims/curriculum-choice-mattered-early-elementary-math.md) [+W]
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](../claims/three-math-curricula-outperform-fourth-after-two-years.md) [+W]
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](../claims/large-scale-experimental-study-curricula-achievement.md) [+W]
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](../claims/four-curricula-two-year-achievement-study.md) [+W]
+- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](../claims/four-curricula-two-year-elementary-math-study-design.md) [+W]
 
 ## Related Elements
 

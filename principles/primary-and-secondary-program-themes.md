@@ -17,7 +17,7 @@ sources:
 # Design programs with two themes: a primary therapeutic theme and a secondary empowerment-model theme
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends that all programs have at least two themes: a primary theme providing therapeutic relief for targeted conditions, arising from a needs analysis or participants' request, and a secondary theme of an empowerment model enabling participants to bring about change in their own lives. The first theme provides the experiential learning opportunity for the second, so participants learn the empowerment process while working on their specific need.
@@ -38,7 +38,9 @@ The paper recommends that all programs have at least two themes: a primary theme
 - personal agency in bringing about change
 
 ### Claims
+
 - [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+M]
+- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]
 
 ## Related Principles
 - 

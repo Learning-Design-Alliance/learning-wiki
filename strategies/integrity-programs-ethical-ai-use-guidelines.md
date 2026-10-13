@@ -17,7 +17,7 @@ sources:
 # Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that universities "implement educational programs to establish ethical guidelines for its responsible use, heightening the awareness of the potential risks involved with the use of AI tools." Programs should define dishonest behaviors clearly and detail penalties, since an environment of unclear rules fosters unethical behavior. Educators are advised to add anti-plagiarism measures, adapt assessment, and follow four formative lines of action: conversations about plagiarism, teaching citing and referencing skills, feedback opportunities, and formative and summative assessment.
@@ -40,6 +40,10 @@ The article recommends that universities "implement educational programs to esta
 
 ### Affordances
 - Rct Chatgpt Usage Decisions
+
+## Claims
+
+- [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](../claims/students-urge-ai-literacy-and-clear-rules.md) [+W]
 
 ## Related Strategies
 

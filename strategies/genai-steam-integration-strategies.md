@@ -17,7 +17,7 @@ sources:
 # Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends a set of classroom strategies: AI-assisted lesson planning anchored in learning outcomes, disciplinary concepts, and assessment evidence; differentiated materials tied to common conceptual goals; adaptive scenario variants for inquiry; project-based work with process documentation, rationale statements, and critique cycles; assessment redesign using process evidence, oral defense, and iterative drafts; and academic integrity addressed through explicit norms, disclosure practices, and prompt logs. It states "effective AI integration depends on strategy, not enthusiasm alone."
@@ -40,6 +40,10 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - inquiry- and project-based learning
 - formative assessment
 - academic integrity
+
+## Claims
+
+- [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](../claims/genai-eap-materials-favorable-expert-ratings.md) [+W]
 
 ## Related Strategies
 

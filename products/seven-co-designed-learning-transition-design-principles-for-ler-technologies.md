@@ -18,7 +18,7 @@ sources:
 # Seven co-designed Learning Transition Design Principles for LER technologies
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A co-designed framework from the report authors for guiding and evaluating learning and employment record technologies serving HSE learners and workers.
@@ -28,7 +28,7 @@ A co-designed framework from the report authors for guiding and evaluating learn
 - **SkillsFWD guiding principles for equitable LER technology design**: The toolkit presents three SkillsFWD guiding principles used during assessment: Collaborative, which "Ensures the creation of LER technologies that include perspectives from diverse communities and stakeholders"; Designed for All Users, covering jargon-free, functional, and intuitive experiences regardless of ability; and Equity-Focused, ensuring access "regardless of background, bandwidth, or socio-economic status." Each principle is elaborated with items, example results, and guiding questions for evaluation. (Digital Promise (2025))
 
 ### Claims
-- [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](../claims/top-perceived-ler-challenges.md) [~M]
+- [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](../claims/retos-percibidos-lers-exactitud-seguridad-acceso.md) [~M]
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](../claims/top-perceived-ler-opportunities.md) [+M]
 
 ## Related Products and Programmes

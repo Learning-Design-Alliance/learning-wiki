@@ -42,6 +42,9 @@ Subgroup analyses within the same Texas quasi-experimental study reported positi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related
 - [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](stemscopes-math-staar-positive-quasi-experiment.md) — related

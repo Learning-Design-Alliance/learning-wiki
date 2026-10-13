@@ -46,8 +46,7 @@ Quasi-experimental comparison of college-ready on-track NSI students to similar 
 - [8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates](8th-grade-on-track-nsi-null-ela-attendance-suspension.md) — related
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
 - [Eighth-grade on-track NSI showed no statistically significant impact on targeted outcomes after schools' second year, and year-1 impacts did not persist](eighth-grade-on-track-nsi-no-year-two-impact.md) — related
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
+- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) — related
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](8th-grade-on-track-nsi-no-impacts-year-two.md) — related
-- [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related

@@ -17,7 +17,7 @@ sources:
 # Triangulate automated behavioral flags with oral interviews, exam-performance comparison, and targeted plagiarism detection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because API-level telemetry captures interaction patterns but not intent, the article recommends treating anomaly flags as a screening tool rather than evidence of misconduct. Instructors should "triangulate these automated flags with additional assessment layers": follow-up oral interviews probing conceptual understanding of submitted code, comparison of exam performance against platform activity, and targeted plagiarism detection on notebook cells against known generative AI outputs.
@@ -37,6 +37,10 @@ Because API-level telemetry captures interaction patterns but not intent, the ar
 ### Target Learning Goals
 - corroborated evaluation of authentic coding effort
 - fair follow-up review of flagged anomalous workflows
+
+## Claims
+
+- [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](../claims/ai-detector-skepticism-convergence.md) [+W]
 
 ## Related Strategies
 - 

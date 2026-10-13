@@ -30,7 +30,7 @@ Freshman Success is a school-based ninth-grade monitoring and support programme 
 ### Claims
 
 - [Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient](../claims/ontrack-accountability-realtime-data-graduation-gains.md) [+W]
-- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](../claims/freshman-on-track-early-indicator-kenwood.md) [+W]
+- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](../claims/on-track-early-indicator-graduation.md) [+W]
 
 ## Related Products and Programmes
 

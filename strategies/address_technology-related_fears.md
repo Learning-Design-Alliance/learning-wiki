@@ -12,7 +12,7 @@ generated:
 # Address Technology-Related Fears
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 review, 2 causal), `q2`–`q3` · 0 of 7 report an effect size
+> **Evidence** · 5 claims (5 for) · 10 studies (5 review, 2 causal, 2 qualitative, 1 associational), `q2`–`q3` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Technology-related fear — anxiety about breaking equipment, losing data, exposing personal information, or appearing incompetent — is a documented barrier to adult participation in technology-mediated learning [Computer anxiety in e-learning is reduced primarily through computer self-efficacy, not through reassurance or access alone.](https://doi.org/10.28945/66) [+M]. This strategy makes those fears explicit and legitimate, then systematically reduces them through low-stakes orientation, [Demonstration](../elements/demonstration.md) of safe procedures and error recovery, redundant plain-language instructions, and accessible human support. The goal is to lower the affective barrier before the cognitive demands of the content are added.
@@ -62,6 +62,11 @@ Anxiety consumes working memory and attention that would otherwise support learn
 5. **Answer privacy concerns with specifics.** State plainly what data is collected, who sees it, and how to control it; vague reassurance increases distrust.
 6. **Guarantee a human fallback.** Publish a support contact with a stated response time, and normalize its use — learners who ask for help early persist longer.
 7. **Fade the support.** As confidence grows, shift from guided orientation to self-service resources, so learners attribute success to their own competence rather than to the scaffolding [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+
+## Claims
+
+- [Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes](../claims/adult-learners-data-practice-concerns-g1.md) [+W]
+- [Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries](../claims/community-adults-broad-generalized-ai-concerns.md) [+W]
 
 ## Related Strategies
 

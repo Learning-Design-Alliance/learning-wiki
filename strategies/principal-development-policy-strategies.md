@@ -17,7 +17,7 @@ sources:
 # Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends four policy actions: develop and better use state licensing and program approval standards so programs include high-quality features and quality internships; invest in a statewide infrastructure for principal professional learning using federal ESSA Titles I and II funds and leadership academies; direct equity attention and professional development resources to high-poverty schools and schools with concentrations of students of color; and undertake comprehensive state and local reforms to build principal pipelines with strong novice mentoring and induction. It states that "Licensure and program approval standards can also require quality internships for aspiring principals and encourage applied learning opportunities, accompanied by expert coaching and mentoring for practicing principals."
@@ -39,6 +39,11 @@ The report recommends four policy actions: develop and better use state licensin
 - instructional leadership
 - equity-focused leadership
 - career-long leadership development
+
+## Claims
+
+- [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](../claims/limited-access-job-based-principal-learning.md) [-W]
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](../claims/district-support-varies-school-characteristics.md) [~W]
 
 ## Related Strategies
 

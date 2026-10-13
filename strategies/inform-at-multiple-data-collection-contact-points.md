@@ -17,7 +17,7 @@ sources:
 # Inform students about data collection at multiple contact points across their program, not only once at admission
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article suggests institutions communicate data collection details repeatedly rather than once, because "over 50% of respondents thought that students should be informed at multiple "contact points," ranging from initial admission  to the university to multiple times throughout a semester or term." This responds to the problem that students may not be asked to consent when new technologies are adopted mid-degree or when existing vendors change their data collection practices.
@@ -35,6 +35,10 @@ The article suggests institutions communicate data collection details repeatedly
 
 ### Target Learning Goals
 - ongoing awareness of what educational data is collected and shared
+
+## Claims
+
+- [A majority of students think they should be informed of data collection details at multiple contact points throughout their studies](../claims/students-want-multiple-informed-consent-contact-points.md) [+W]
 
 ## Related Strategies
 - 

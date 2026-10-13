@@ -17,7 +17,7 @@ sources:
 # Tailor GenAI chatbot onboarding, training, and support to identified adoption personas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that institutions use persona profiles as the basis for differentiated implementation of GenAI tools rather than one-size-fits-all deployment. It states that the persona profiles "provide actionable guidance for tailoring chatbot onboarding, training and support to specific user needs", and urges universities to "go beyond one-size-fits-all implementations and embrace a more nuanced, evidence-based strategy for human-centered AI integration". The strategy operationalizes the persona framework for institutional deployment decisions.
@@ -39,6 +39,11 @@ The article recommends that institutions use persona profiles as the basis for d
 
 ### Affordances
 - Persona Centered Genai Adoption Framework
+
+## Claims
+
+- [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](../claims/four-ai-moral-response-profiles.md) [+W]
+- [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](../claims/four-cluster-solution-genai-personas.md) [+W]
 
 ## Related Strategies
 

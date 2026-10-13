@@ -13,7 +13,7 @@ generated:
 # Self Monitoring Checklists
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 8 studies (3 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 A self monitoring checklist is a structured list of criteria, steps, or comprehension prompts that learners use to evaluate their own work or understanding while a task is in progress. The learner — not the instructor — performs the judgment, comparing current performance against explicit standards and deciding what to adjust. Checklists convert the abstract instruction "check your work" into concrete, observable checkpoints, making them a core tool of [Self-Regulated Learning](../theories/self-regulated-learning.md).
@@ -93,7 +93,7 @@ Self monitoring is only as good as the criteria it operates against: checklists 
 - **Aviation-style checklists adapted for lab courses**: pre-submission lists in chemistry practicals ("goggles on, balances zeroed, data table complete before starting") reduce procedural errors.
 - **Writing workshop checklists** — Elementary writing programs (e.g., Units of Study by Lucy Calkins) give students editing checklists ("Does my lead hook the reader?") used before peer review and publication.
 - **GitHub pull request templates** — Software teams use standardized checklists ("Tests pass? Docs updated?") that function as professional self-monitoring scaffolds.
-- **Exam preparation checklists** — Students list each topic/skill from the syllabus and rate can-explain / need-review, then schedule [spaced review](../claims/distributed-practice-improves-retention.md) for flagged items.
+- **Exam preparation checklists** — Students list each topic/skill from the syllabus and rate can-explain / need-review, then schedule [spaced review](../claims/spaced-repetition-improves-retention.md) for flagged items.
 - **Aviation-style checklists in lab courses** — Chemistry lab safety and procedure checklists adapted from high-reliability industries, checked at phase transitions.
 
 ## Key Sources
@@ -167,7 +167,7 @@ Self-monitoring is a core phase of [Self-Regulated Learning](../theories/self-re
 ## Examples
 - **Writing workshop checklists** — Elementary writing programs (e.g., Units of Study by Lucy Calkins) give students editing checklists ("Does my lead hook the reader?") used before peer review and publication.
 - **GitHub pull request templates** — Software teams use standardized checklists ("Tests pass? Docs updated?") that function as professional self-monitoring scaffolds.
-- **Exam preparation checklists** — Students list each topic/skill from the syllabus and rate can-explain / need-review, then schedule [spaced review](../claims/distributed-practice-improves-retention.md) for flagged items.
+- **Exam preparation checklists** — Students list each topic/skill from the syllabus and rate can-explain / need-review, then schedule [spaced review](../claims/spaced-repetition-improves-retention.md) for flagged items.
 - **Aviation-style checklists in lab courses** — Chemistry lab safety and procedure checklists adapted from high-reliability industries, checked at phase transitions.
 
 ## Key Sources

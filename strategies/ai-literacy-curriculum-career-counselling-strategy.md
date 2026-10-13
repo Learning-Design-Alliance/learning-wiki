@@ -17,7 +17,7 @@ sources:
 # Integrate AI literacy into health sciences curricula and tailor career counselling to programme type
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that universities address AI anxiety as a risk factor in career transition by integrating "artificial intelligence literacy into the health sciences curriculum at an institutional level" so AI is positioned as a complementary resource rather than a substitute. For application-oriented programmes (e.g. medical documentation, health management), curricula should build skills for working with AI-supported systems and monitoring outputs; for human-interaction-centred fields (physical therapy, nursing, midwifery), AI education should emphasise clinical decision support, ethics, empathy and digital leadership rather than technical proficiency. Career centres should reframe AI and the labour market in terms of new job definitions and adaptation strategies.
@@ -38,6 +38,11 @@ The article recommends that universities address AI anxiety as a risk factor in 
 
 ### Affordances
 - Stress Coping Ai Anxiety Appraisal Framework
+
+## Claims
+
+- [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](../claims/low-ai-literacy-positive-attitudes-health-students.md) [+W]
+- [AI anxiety is moderately and positively correlated with university students' job finding anxiety](../claims/ai-anxiety-correlates-job-finding-anxiety.md) [+W]
 
 ## Related Strategies
 

@@ -18,7 +18,7 @@ sources:
 # Specialty Schools National Dashboard
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (9 associational), `q1`–`q2` · 0 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 An interactive NWEA data-visualization dashboard that reports MAP Growth achievement and growth patterns for U.S. private and public charter schools across seasons, subjects, school types, and demographic groups.
@@ -29,7 +29,7 @@ An interactive NWEA data-visualization dashboard that reports MAP Growth achieve
 ### Claims
 - [In spring 2025, math recovery continued while reading remained stalled](../claims/math-recovery-continues-reading-stalled-spring-2025.md) [+W]
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](../claims/middle-school-reading-stagnant-lowest-performers-behind.md) [+W]
-- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/post-covid-reading-positive-turn-2026.md) [+W]
+- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](../claims/k2-academic-recovery-positive-trends-post-covid.md) [+W]
 
 ## Related Products and Programmes
@@ -66,7 +66,7 @@ The Specialty Schools National Dashboard is an interactive data visualization to
 
 - [In spring 2025, math recovery continued while reading remained stalled](../claims/math-recovery-continues-reading-stalled-spring-2025.md) [+W]
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](../claims/middle-school-reading-stagnant-lowest-performers-behind.md) [+W]
-- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/post-covid-reading-positive-turn-2026.md) [+W]
+- [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](../claims/map-growth-reading-turnaround-2025-2026.md) [+W]
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](../claims/k2-academic-recovery-positive-trends-post-covid.md) [+W]
 
 ## Related Elements

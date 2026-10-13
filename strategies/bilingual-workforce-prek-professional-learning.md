@@ -17,7 +17,7 @@ sources:
 # Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends funding for "preparing, hiring, and retaining a bilingual early childhood workforce" and professional learning so educators can provide culturally and linguistically sustaining environments, promote continued home language and oral language development, engage families in culturally sustaining ways, and prepare multilingual learners for kindergarten. It also recommends interpreters trained in early childhood education and the special education referral process, and development of valid, linguistically appropriate assessments.
@@ -35,6 +35,10 @@ The report recommends funding for "preparing, hiring, and retaining a bilingual 
 
 ### Target Learning Goals
 - Oral language fluency, preliteracy, home language development, and kindergarten readiness
+
+## Claims
+
+- [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](../claims/structural-fiscal-risks-bilingual-pipeline-sustainability.md) [~W]
 
 ## Related Strategies
 

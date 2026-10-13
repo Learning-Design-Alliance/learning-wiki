@@ -43,10 +43,9 @@ Concurrent-validity analysis using a regression model relating school leaders' e
 
 
 ## Related Claims
-- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-concurrent-validity-value-added.md) — reports the opposite
+- [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — reports the opposite
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — reports the opposite
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
-- [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](ffl-scores-correlated-principal-value-added.md) — reports the opposite
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — reports the opposite

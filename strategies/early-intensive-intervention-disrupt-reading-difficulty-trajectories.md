@@ -17,7 +17,7 @@ sources:
 # Provide early, effective, targeted intensive intervention to disrupt persistent trajectories of reading difficulty
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that schools and the state prioritize efficiently screening students and providing comprehensive instruction and supports, because students identified as significantly below benchmark often remain at that level without intervention. It states the need for "early and effective interventions to disrupt trajectories of reading difficulty" and that stable risk identification rates over the past few years suggest current intervention practices are not yet fully addressing student needs, particularly for historically underserved groups.
@@ -35,6 +35,10 @@ The brief recommends that schools and the state prioritize efficiently screening
 
 ### Target Learning Goals
 - Preventing persistent reading difficulty and improving early reading outcomes
+
+## Claims
+
+- [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](../claims/significant-risk-low-mcas-meeting-rates.md) [+W]
 
 ## Related Strategies
 

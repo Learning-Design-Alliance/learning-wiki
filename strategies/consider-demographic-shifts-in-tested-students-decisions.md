@@ -17,7 +17,7 @@ sources:
 # Educational leaders should examine demographic shifts in the tested student population before making growth and recovery support decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A concrete decision procedure for school leaders using assessment data during periods of unusual attrition: before acting on aggregate results, check whether the tested group differs demographically from prior cohorts. The brief advises that "Educational leaders should carefully consider demographic shifts in the students who tested as they make decisions on how to best support their students' growth and recovery."
@@ -35,6 +35,10 @@ A concrete decision procedure for school leaders using assessment data during pe
 
 ### Target Learning Goals
 - Targeting academic growth and recovery support to the students most affected by attrition
+
+## Claims
+
+- [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](../claims/covid-impact-vulnerable-students-may-be-underestimated.md) [+W]
 
 ## Related Strategies
 

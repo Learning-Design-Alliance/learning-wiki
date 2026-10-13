@@ -16,7 +16,7 @@ sources:
 # Frame GenAI labs explicitly as verification and repair practice alongside prompting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's deployment strategy: at the start of the activity, students were explicitly warned that the code generation model was likely to make mistakes, then instructed to carefully read generated code and manually edit it where needed, framing the lab as verification and repair practice alongside prompting. The interface did not indicate whether failing code was natural or injected, so students had to verify code themselves. This framing supports a pedagogically useful GenAI workflow where students practice both specification refinement through prompts and debugging through code editing.
@@ -37,6 +37,10 @@ The article's deployment strategy: at the start of the activity, students were e
 - careful review of generated code
 - debugging
 - prompt refinement
+
+## Claims
+
+- [Manual reasoning is the most consistently used verification method across assignments, with no significant difference in its use across subfields](../claims/manual-reasoning-consistent-verification-across-subfields.md) [~W]
 
 ## Related Strategies
 

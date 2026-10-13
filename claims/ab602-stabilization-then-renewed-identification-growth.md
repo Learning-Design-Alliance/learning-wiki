@@ -43,6 +43,6 @@ Historical analysis in Section 2/executive summary (Figure E-6, using Kwak 2010 
 
 
 ## Related Claims
-- [California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs](j50-legacy-rates-per-student-funding-557-to-900.md) — related
+- California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs — related
 - [Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California](disproportionate-identification-english-learners-socioeconomically-disadvantaged.md) — related
 - [Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups](foster-care-disability-identification-increased.md) — related

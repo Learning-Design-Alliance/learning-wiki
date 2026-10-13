@@ -17,7 +17,7 @@ sources:
 # Layered educator support: coaching, curated resources, low-lift entry points, and community engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends building layered systems of support for teachers at every comfort level when introducing powerful technology. It advises: 'Provide scaffolding for teachers at every level of comfort and experience. Offer "low-lift" entry points, like turnkey project ideas and templates, alongside deeper professional learning opportunities.' Concrete mechanisms include one-on-one coaching, resource curation, conference engagement, newsletters, open-lab hours, and co-teaching, modeled on Digital Promise's supports at YCHS and proposed practices at Anaheim.
@@ -36,6 +36,10 @@ The report recommends building layered systems of support for teachers at every 
 ### Target Learning Goals
 - Confidence and fluency with AI tools and lab technologies
 - classroom integration of AI
+
+## Claims
+
+- [Educators report needing training, resources, and institutional support to introduce educational change](../claims/educators-need-training-resources-institutional-support-for-change.md) [+W]
 
 ## Related Strategies
 

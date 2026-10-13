@@ -50,6 +50,5 @@ Empirical comparison of standard errors across the considered estimators in the 
 - [Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs](design-and-model-based-methods-similar-impact-estimates.md) — related
 - Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods — related
 - [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — related
-- [Variance correction terms matter little for CACE significance findings in education RCTs](cace-variance-correction-terms-matter-little.md) — related
 - OLS regression-adjusted standard errors and significance levels for average treatment effect estimators are similar to Neyman-model estimates when baseline covariates are included in experimental designs — related
 - [Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions](gap-estimates-accuracy-necessary-for-conclusions.md) — related

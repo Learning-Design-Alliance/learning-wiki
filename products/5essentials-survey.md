@@ -77,7 +77,7 @@ sources:
 # 5Essentials Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 46 claims (39 for, 6 mixed, 1 against) · 18 studies (16 associational, 1 causal, 1 design), `q1`–`q3` · 0 of 18 report an effect size · 46 claims rest on one study
+> **Evidence** · 44 claims (37 for, 6 mixed, 1 against) · 18 studies (16 associational, 1 causal, 1 design), `q1`–`q3` · 0 of 18 report an effect size · 43 claims rest on one study
 
 ## Description
 The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.
@@ -107,7 +107,7 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate](../claims/racial-equity-climate-doubles-overage-graduation.md) [+W]
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](../claims/sro-removal-no-change-school-climate-perceptions.md) [~W]
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](../claims/supportive-environment-predicts-bullying-fear-reduction.md) [+W]
-- [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/strong-supports-cluster-ten-times-more-likely-to-improve.md) [+W]
+- [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
@@ -143,7 +143,7 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](../claims/socioeconomic-disadvantage-essentials-strength.md) [~W]
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](../claims/recalibrated-5essentials-measures-reliability.md) [+W]
 - [The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports](../claims/1997-ccsr-surveys-308-elementary-62-high-schools.md) [+M]
-- [Intergenerational ties among parents, children, and friends contribute positively to student learning](../claims/intergenerational-ties-contribute-positively-student-learning.md) [+W]
+- [Intergenerational ties among parents, children, and friends contribute positively to student learning](../claims/intergenerational-ties-contribute-student-learning.md) [+W]
 - [In schools where students experience peer support for academic work, student learning is more likely](../claims/peer-support-academic-work-learning-more-likely.md) [+W]
 - [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](../claims/personalism-plus-press-toward-academic-work-achievement.md) [+W]
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](../claims/self-efficacy-with-sustained-effort-better-achievement.md) [+W]
@@ -353,7 +353,7 @@ A set of survey-based diagnostic tools created by designers and researchers buil
 
 ## Claims
 
-- [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/strong-supports-cluster-ten-times-more-likely-to-improve.md) [+W]
+- [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](../claims/chicago-strong-essentials-tenfold-gains.md) [+W]
@@ -903,7 +903,7 @@ The report organizes its survey results around a framework of "the five essentia
 ### Claims
 
 - [1997 Ccsr Surveys 308 Elementary 62 High Schools](../claims/1997-ccsr-surveys-308-elementary-62-high-schools.md) [+M]
-- [Intergenerational ties among parents, children, and friends contribute positively to student learning](../claims/intergenerational-ties-contribute-positively-student-learning.md) [+W]
+- [Intergenerational ties among parents, children, and friends contribute positively to student learning](../claims/intergenerational-ties-contribute-student-learning.md) [+W]
 - [In schools where students experience peer support for academic work, student learning is more likely](../claims/peer-support-academic-work-learning-more-likely.md) [+W]
 - [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](../claims/personalism-plus-press-toward-academic-work-achievement.md) [+W]
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](../claims/self-efficacy-with-sustained-effort-better-achievement.md) [+W]

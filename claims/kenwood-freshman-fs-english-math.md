@@ -62,7 +62,7 @@ Table 8's 1997-98 row printed verbatim: "1997–1998 Freshmen 379 100 143 79", g
 
 
 ## Related Claims
-- [More Barton freshmen failed math than English, and many failing students failed both subjects](barton-freshman-english-math-failures.md) — possibly the same claim (merge candidate)
+- More Barton freshmen failed math than English, and many failing students failed both subjects — possibly the same claim (merge candidate)
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related

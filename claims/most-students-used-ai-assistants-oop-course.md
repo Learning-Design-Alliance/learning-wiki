@@ -43,5 +43,5 @@ A single-choice survey question on the course Moodle page asked whether students
 
 
 ## Related Claims
-- [Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments](kt1-survey-difficulty-llm-use-attitudes.md) — related
+- Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments — related
 - [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related

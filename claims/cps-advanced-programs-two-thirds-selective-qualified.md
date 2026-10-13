@@ -44,7 +44,7 @@ Descriptive quantitative analysis of CPS tracking data showing college qualifica
 
 ## Related Claims
 - [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
-- [College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling](college-mismatch-common-among-chicago-graduates.md) — related
+- College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [One-fifth of students in academically advanced programs do not apply to any four-year college](cps-advanced-programs-one-fifth-no-four-year-application.md) — related
 - [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
 - [Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one](cps-selective-enrollment-qualification-enrollment-mismatch.md) — related

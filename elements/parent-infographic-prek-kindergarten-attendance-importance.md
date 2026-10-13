@@ -17,7 +17,7 @@ sources:
 # Parent-facing infographic on the importance of pre-kindergarten and kindergarten attendance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The publication is described as an "Infographic for parents on the importance of attendance in pre-kindergarten and kindergarten." It is a communication artifact produced by Regional Educational Laboratory Mid-Atlantic, published November 20, 2019, intended to convey to families why attending preschool and kindergarten matters for young learners' success in school.
@@ -40,7 +40,7 @@ The publication is described as an "Infographic for parents on the importance of
 
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

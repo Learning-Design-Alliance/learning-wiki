@@ -62,7 +62,7 @@ Descriptive comparison of immediate college enrollment by EL status for spring 2
 
 
 ## Related Claims
-- [Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%)](cps-el-graduation-higher-rate.md) — possibly the same claim (merge candidate)
+- Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%) — possibly the same claim (merge candidate)
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate](cps-graduation-english-learner-status.md) — related

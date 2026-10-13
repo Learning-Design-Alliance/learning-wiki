@@ -18,7 +18,7 @@ sources:
 # Go-Learn-Grow
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The Go-Learn-Grow toolkit is a set of practical materials produced for the Regional Educational Laboratory Mid-Atlantic to help districts, schools, and early childhood providers improve pre-kindergarten and kindergarten attendance.
@@ -30,7 +30,7 @@ The Go-Learn-Grow toolkit is a set of practical materials produced for the Regio
 ### Claims
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](../claims/go-learn-grow-materials-support-attendance-improvement.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](../claims/chronic-absenteeism-early-grades-importance-asserted.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](../claims/prek-kindergarten-attendance-importance.md) [+W]
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
@@ -70,7 +70,7 @@ The Go-Learn-Grow materials are a toolkit produced for Regional Educational Labo
 
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](../claims/go-learn-grow-materials-support-attendance-improvement.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](../claims/chronic-absenteeism-early-grades-importance-asserted.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](../claims/prek-kindergarten-attendance-importance.md) [+W]
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]

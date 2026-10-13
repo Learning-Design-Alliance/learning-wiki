@@ -17,7 +17,7 @@ sources:
 # Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy directs educators and policymakers to pair any GenAI assessment deployment with explicit ethical safeguards and a pedagogically grounded framework. The paper highlights "the need for ethical safeguards and pedagogically grounded frameworks" alongside GenAI's engagement and workload benefits. Implementation should address academic integrity, algorithmic bias, and transparency risks identified in the paper's critical review before tools are used for high-stakes evaluation.
@@ -35,6 +35,11 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 
 ### Target Learning Goals
 - academically integrity-preserving assessment practice
+
+## Claims
+
+- [Safeguards in university AI policies are sparse and unevenly covered](../claims/safeguard-coverage-sparse-ai-policies.md) [+W]
+- [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](../claims/cai-ethical-concerns-human-ai-relationship-persistent.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's new 2001 technology profiles assess support for technology integration and availability and use of technology in the classroom. It advises that meaningful integration of technology into the work lives of students and teachers requires extensive support: schools need wiring, computers, and Internet access, but teachers especially need collegial support and professional development to learn to use these resources well in their classrooms. Absent such developments, maintenance of the digital divide seems likely.
@@ -35,6 +35,10 @@ The report's new 2001 technology profiles assess support for technology integrat
 
 ### Target Learning Goals
 - Meaningful integration of technology into classroom instruction
+
+## Claims
+
+- [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](../claims/professional-learning-misaligned-faculty-workload.md) [~W]
 
 ## Related Strategies
 

@@ -44,9 +44,8 @@ The report identifies itself as "The latest findings from Mathematica’s multiy
 
 ## Related Claims
 - [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](kipp-evaluation-43-schools-13-states.md) — related
-- [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-schools-positive-impacts-four-subjects.md) — related
-- [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](kipp-high-school-college-prep-impacts-continuing-students.md) — related
-- [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
+- [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-school-achievement-impacts-four-subjects.md) — related
+- [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
 - [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](kipp-high-school-impacts-new-entrants-not-continuing.md) — related
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related

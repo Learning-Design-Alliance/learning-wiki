@@ -44,4 +44,4 @@ Drawing on on-the-ground school experiences, the article reports pervasive use o
 
 ## Related Claims
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — related
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](prek-kindergarten-attendance-spells-success.md) — related

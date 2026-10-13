@@ -17,7 +17,7 @@ sources:
 # Use a six-question drafting and audit framework for GenAI assessment rules covering task rules, defaults, disclosure, contribution, verification, and hierarchy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a six-question framework institutions can use to draft and audit GenAI assessment rules: task rule, default and authority, disclosure, contribution and authorship, verification, and hierarchy and escalation. The article states that "Institutions may choose different substantive defaults, but their written environments should answer each question", and that any unanswered question marks a predictable source of uncertainty. The framework starts with task instructions because they produced the clearest result in the vignette study. Regulators can add policy-vignette stress tests to provider toolkits.
@@ -40,6 +40,10 @@ The article proposes a six-question framework institutions can use to draft and 
 
 ### Affordances
 - Operational Classification Model Genai Governance
+
+## Claims
+
+- [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](../claims/student-confusion-genai-originality-authorship.md) [+W]
 
 ## Related Strategies
 

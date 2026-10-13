@@ -62,7 +62,7 @@ Same statewide descriptive analysis of 2021-22 Georgia data, reported in the ove
 
 
 ## Related Claims
-- [Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data](georgia-demographics-stable-across-pandemic.md) — related
+- Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data — related
 - [More than a third of Georgia students, and a majority of White students, attended schools with no school leader of color in 2021-22](many-students-no-leader-of-color-georgia.md) — related
 - [Georgia schools with higher percentages of students of color were far more likely to have at least one school leader of color (95% of high-diversity schools vs. 31% of low-diversity schools)](leader-of-color-access-rises-with-school-diversity.md) — related
 - [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related

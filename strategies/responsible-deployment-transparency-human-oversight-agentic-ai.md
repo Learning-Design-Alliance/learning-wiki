@@ -17,7 +17,7 @@ sources:
 # Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that deployment of agentic AI in education be governed by transparency, privacy and oversight mechanisms. It states that "Ethical deployment also necessitates transparency in how the agentic decisions are being taken, particularly when affecting learner pathways or assessments", and that preserving human oversight and institutional responsibility through clearly articulated integration protocols is "not merely a technical need but a pedagogical and ethical requirement". Its Table 4 consolidates responsible deployment guidelines.
@@ -35,6 +35,10 @@ The review recommends that deployment of agentic AI in education be governed by 
 
 ### Target Learning Goals
 - safe and ethical use of autonomous AI in learning environments
+
+## Claims
+
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](../claims/practitioner-oversight-governance-norms.md) [+W]
 
 ## Related Strategies
 

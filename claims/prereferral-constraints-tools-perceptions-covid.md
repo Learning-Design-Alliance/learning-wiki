@@ -43,7 +43,7 @@ Interview study of CSPP coordinators. A special education coordinator worried ch
 
 
 ## Related Claims
-- [CSPP pre-referral decisions draw on baseline data from the ASQ, ASQ:SE-2, and the DRDP administered twice per year](cspp-baseline-data-asq-drdp.md) — related
+- CSPP pre-referral decisions draw on baseline data from the ASQ, ASQ:SE-2, and the DRDP administered twice per year — related
 - [CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children](cspp-prereferral-mirrors-mtss-same-for-ml-children.md) — related
 - [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related

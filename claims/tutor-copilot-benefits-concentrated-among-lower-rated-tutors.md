@@ -63,6 +63,5 @@ Same heterogeneity analysis (Figure 2, by tutor quality rating and experience). 
 
 ## Related Claims
 - [Tutor Copilot Raises Exit Ticket Mastery 4Pp](tutor-copilot-raises-exit-ticket-mastery-4pp.md)
-- [In a large-scale RCT, real-time LLM-generated pedagogical suggestions for human tutors raised student knowledge-component mastery by 4 percentage points on average, with larger effects for lower-performing or less-experienced tutors](llm-suggestions-human-tutors-mastery-gain.md) — possibly the same claim (merge candidate)
 - [Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors](tutor-copilot-shifts-tutors-toward-understanding-fostering-strategies.md) — related
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related

@@ -17,7 +17,7 @@ sources:
 # Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's central practical contribution is a tripartite framework for responsible integration of agentic AI in higher education. As the abstract states, "Realising the benefits of agentic AI while containing its risks requires a tripartite institutional response: devel - oping AI literacy, establishing ethical infrastructure, and delivering competence-based educator training." The three components address the risks the synthesis documents: cognitive dependency, algorithmic bias, cultural homogenisation, and inadequate faculty preparedness. Institutions are advised to pursue all three strands together rather than piecemeal adoption.
@@ -37,6 +37,10 @@ The review's central practical contribution is a tripartite framework for respon
 ### Target Learning Goals
 - AI literacy for students and staff
 - ethical and competent institutional use of agentic AI systems
+
+## Claims
+
+- [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](../claims/educator-ai-literacy-professional-learning-gaps.md) [+W]
 
 ## Related Strategies
 

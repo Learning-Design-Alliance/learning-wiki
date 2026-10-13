@@ -43,6 +43,9 @@ Survey of a representative sample of 200 Pennsylvania LEAs found that "Most stud
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed](pa-leas-in-person-learning-expanded-2020-21.md) — related

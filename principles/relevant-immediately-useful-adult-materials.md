@@ -17,7 +17,7 @@ sources:
 # Make adult language materials relevant, immediately useful, and grounded in real-life experiences
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 design), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Because older adults study a language for specific instrumental purposes, the digest holds that they will not tolerate boring or irrelevant content or grammar rules taught out of context. Adult learners need "materials designed to present structures and vocabulary that will be of immediate use to them, in a context which reflects the situations and functions they will encounter". Materials and activities that do not incorporate real life experiences will succeed with few older learners.
@@ -37,7 +37,9 @@ Because older adults study a language for specific instrumental purposes, the di
 - immediately usable vocabulary and structures for professional or survival situations
 
 ### Claims
-- 
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+W]
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](../claims/adult-literacy-programs-violate-adult-learning-principles.md) [+W]
 
 ## Related Principles
 

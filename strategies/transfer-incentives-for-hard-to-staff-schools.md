@@ -17,7 +17,7 @@ sources:
 # Use transfer incentives to place high-performing teachers in hard-to-staff schools serving disadvantaged students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A district-level staffing strategy: offer a substantial per-teacher payment to induce high-performing teachers to transfer into hard-to-staff schools. The report states the strategy is "intended to expand disadvantaged students' access to the most effective teachers," and notes prior research showing low-income middle school students are "significantly less likely to have access to the highest-performing teachers."
@@ -35,6 +35,10 @@ A district-level staffing strategy: offer a substantial per-teacher payment to i
 
 ### Target Learning Goals
 - Improving student achievement by expanding access to the most effective teachers
+
+## Claims
+
+- [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](../claims/transfer-offer-effects-teacher-willingness-and-school-dynamics.md) [~W]
 
 ## Related Strategies
 

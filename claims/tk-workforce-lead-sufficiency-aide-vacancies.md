@@ -81,7 +81,7 @@ Survey projection based on projected 2023–24 enrollment (Figure 4); LEAs antic
 
 
 ## Related Claims
-- [Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26](tk-teacher-demand-nonlinear-spikes.md) — related
+- Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26 — related
 - [Approximately four fifths of LEAs reported not having enough qualified staff to teach TK](tk-teacher-shortage-four-fifths.md) — reports the opposite
 - [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related
 - [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](tk-staffing-needs-and-vacancies.md) — related

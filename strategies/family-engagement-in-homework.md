@@ -12,7 +12,7 @@ generated:
 # Family Engagement In Homework
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Family engagement in homework moves beyond the traditional "parent as enforcer" role toward structured participation: families interact with the learner around the content, monitor progress with autonomy support, or contribute as resources (sharing knowledge, materials, or real-world connections). The strategy is carried out through deliberately designed assignments — interactive tasks, clear communication of learning goals, and guidance for families on *how* to help — rather than leaving the family's role to chance.
@@ -44,7 +44,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 ### Target Learners
 - Elementary and middle-grades students, where family structure of the homework environment strongly predicts homework behavior [~M]
 - Students developing self-regulation; autonomy-supportive family framing builds ownership rather than compliance [Autonomy-supportive parenting sustains intrinsic motivation for academic tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- Less appropriate as a universal requirement for older students, who benefit more from independent self-regulated practice [Distributed, self-managed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Less appropriate as a universal requirement for older students, who benefit more from independent self-regulated practice [Distributed, self-managed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ### Target Learning Goals
 - Consolidation and [Distributed Practice](distributed-practice.md) of previously taught skills — homework works as review, not first exposure

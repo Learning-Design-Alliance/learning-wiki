@@ -42,5 +42,8 @@ Analysis of three nationally representative surveys covering 1988-2004 and grade
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A relationship exists between students' relative age among their peers and their probability of disability classification](relative-age-relates-disability-classification.md) — a broader claim this one bears on

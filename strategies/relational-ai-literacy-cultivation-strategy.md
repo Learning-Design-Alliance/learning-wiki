@@ -17,7 +17,7 @@ sources:
 # Cultivate AI literacy as relational rather than transactional work through reflective engagement with human-AI entanglement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that educators cultivate AI literacy through a posthumanist prism as relational work: encouraging reflective, critical conversations about participation in an AI-mediated world and a critical sensibility to human-AI entanglement, rather than framing AI as a mere tool or over-anthropomorphizing it. The authors state that "cultivating AI literacy through a posthumanist prism is, essentially, relational work rather than transactional work." This avoids both punitive responses to student AI use and uncritical reliance on AI affordances.
@@ -41,6 +41,10 @@ The article recommends that educators cultivate AI literacy through a posthumani
 
 ### Affordances
 - [Posthumanist Ai Literacy Intra Action Framework](../theories/sociomaterial-agency-of-tools.md)
+
+## Claims
+
+- [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](../claims/agency-metaphors-genai-fear-of-agency-loss.md) [~W]
 
 ## Related Strategies
 - 

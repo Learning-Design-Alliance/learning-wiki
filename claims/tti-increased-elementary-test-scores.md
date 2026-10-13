@@ -3,6 +3,7 @@ type: claim
 title: "TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points"
 description: "TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points"
 id: tti-increased-elementary-test-scores
+aliases: [tti-elementary-test-score-gains]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
+
 `q3 i?` In a multisite randomized experiment, the Talent Transfer Initiative produced positive effects on student test scores in math and reading in elementary schools, equivalent to a 4 to 10 percentile point increase. [→ Steven Glazerman 2013](#steven-glazerman-2013)
+
+`q3 i?` In a multisite randomized experiment, TTI had positive effects on student test scores in math and reading in elementary schools, equivalent to a 4 to 10 percentile point increase. [→ Steven Glazerman 2013](#steven-glazerman-2013)
 
 ## Evidence
 
@@ -39,13 +43,25 @@ Final results of a multisite randomized experiment of the Talent Transfer Initia
 
 > "The intervention had positive effects on student test scores in math and reading in elementary schools—the equivalent of a 4 to 10 percentile point increase."
 
+<!-- merged 2026-10-13 from tti-elementary-test-score-gains: that page's entry for this study, which differed from the one above, kept verbatim.
+### Steven Glazerman 2013
+
+Steven Glazerman, Ali Protik, Bing-ru Teh, Julie Bruch, Jeffrey Max. (2013). Transfer Incentives for High-Performing Teachers: Results from a Multisite Randomized Experiment. Washington, DC: Association for Public Policy Analysis and Management. https://www.mathematica.org/publications/transfer-incentives-for-highperforming-teachers-results-from-a-multisite-randomized-experiment
+
+`q3 · i?` · `causal · r?`
+
+Multisite randomized experiment of the Talent Transfer Initiative. The reported page states the intervention "had positive effects on student test scores in math and reading in elementary schools" with gains equivalent to 4 to 10 percentile points.
+
+> "The intervention had positive effects on student test scores in math and reading in elementary schools—the equivalent of a 4 to 10 percentile point increase."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
-- [TTI increased elementary school test scores but not middle school test scores](tti-increased-elementary-not-middle-school-test-scores.md) — related
-- [TTI transfer incentives did not increase middle school test scores](tti-no-middle-school-effect.md) — related
+- [TTI increased elementary school test scores but not middle school test scores](tti-no-middle-school-effects.md) — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
-- [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-elementary-test-score-gains.md) — possibly the same claim (merge candidate)
-- [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related
+- [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related

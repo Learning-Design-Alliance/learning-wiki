@@ -17,7 +17,7 @@ sources:
 # Evaluate AI-use interventions for the specific process they target, from verification quality to reliance decisions and persistent learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that educational interventions be evaluated for the specific process they target rather than with a single self-report measure of responsible use. A lateral-reading lesson should be assessed for verification strategy and separately for verification success; a confidence prompt may alter metacognitive monitoring; a forced-delay interface may change reliance decisions; and error-correction activities influence learning when they induce substantive processing. Interventions reducing inappropriate acceptance should also be tested for unintended rejection of correct assistance.
@@ -40,6 +40,10 @@ The review recommends that educational interventions be evaluated for the specif
 
 ### Affordances
 - [Seven Measurement Targets Genai Critical Engagement](../research-methods/seven-analytically-ordered-measurement-targets-for-critical-engagement-with-genai-outputs.md)
+
+## Claims
+
+- [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](../claims/overreliance-frequent-underreliance-rare.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Four strategic recommendations for supporting AI literacy across settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The briefs issue four strategic recommendations for leaders: "Build AI literacy skills and competencies across all disciplines and audiences"; "Collaborate with community members to develop transparent and dynamic AI policies, standards, and implementation guidance"; "Ensure equitable access to quality AI tools, resources, and instructional materials"; and "Develop AI training and learning pathways including opportunities for experimentation and hands-on practice." Together they direct leaders to treat AI literacy as cross-disciplinary, community-developed, equity-focused, and practice-based.
@@ -36,6 +36,11 @@ The briefs issue four strategic recommendations for leaders: "Build AI literacy 
 ### Target Learning Goals
 - AI literacy skills and competencies across disciplines
 - responsible and equitable AI use
+
+## Claims
+
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](../claims/ai-access-outpaced-guidance.md) [+W]
+- [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](../claims/genai-literature-equity-agency-thin.md) [~W]
 
 ## Related Strategies
 

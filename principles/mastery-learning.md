@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (4 for, 6 mixed) · 16 studies (5 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 16 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 16 studies (5 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -65,6 +65,13 @@ For example, a part-time college learner may value completing a statistics cours
 The expectation should weaken if comparable learners, with valid unit checks and responsive correction, do not outperform conventionally paced comparisons on aligned and on independent outcomes, or if gains appear only on rechecks that repeat the first check's items. If differences between mastery and non-mastery sections disappear once enrolment and course selection are controlled, treat the section-level evidence as confounded. If correction that merely repeats instruction does as well as responsive correction, revise the claim that responsiveness is the active ingredient. If the time and completion costs exceed the achievement gain that matters to learners, the model is incomplete without them. Do not protect it by relabelling every failure as a misaligned test or an unmotivated learner.
 
 Unit-check success, course-examination performance, delayed retention, transfer to new tasks and completion are separate claims. The present evidence does not establish an optimal cut score, a number of attempts, a unit size, or a forecast for an individual learner.
+
+## Claims
+
+- [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](../claims/mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) [~M]
+- [Mastery learning improves students' attitudes toward the instruction and toward the subject](../claims/mastery-learning-improves-attitudes-toward-instruction.md) [+M]
+- [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]
+- [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

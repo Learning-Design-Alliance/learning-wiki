@@ -45,4 +45,4 @@ Descriptive demographic comparison reported in the Executive Summary and the Dem
 ## Related Claims
 - [In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are](california-students-77-percent-teachers-39-percent-of-color.md) — related
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
-- [California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents](completer-pool-growing-racial-ethnic-diversity.md) — related
+- California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related

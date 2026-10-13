@@ -49,7 +49,7 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related
-- [Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35)](barton-1993-gender-graduation.md) — a narrower finding that bears on this claim
+- Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — a narrower finding that bears on this claim
 - [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — a narrower finding that bears on this claim
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
@@ -61,4 +61,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related
-- [SuaCode survey respondents were predominantly male (69.64%), aged 20–29 (70.04%), and in college/university education (76.73%)](suacode-respondent-demographic-profile.md) — related
+- SuaCode survey respondents were predominantly male (69.64%), aged 20–29 (70.04%), and in college/university education (76.73%) — related

@@ -47,7 +47,7 @@ Analysis of CPS high school enrollment data linking school CS offerings to stude
 - [CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018](cps-cs-offerings-doubled-2009-2018.md) — related
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
-- [Most CPS students in grades 6-12 have home internet access, with 92 percent reporting some access and 75 percent a high-speed connection](cps-students-home-internet-access-92-percent.md) — related
+- Most CPS students in grades 6-12 have home internet access, with 92 percent reporting some access and 75 percent a high-speed connection — related
 - [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
 - [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md) — related

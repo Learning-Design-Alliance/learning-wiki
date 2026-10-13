@@ -48,5 +48,5 @@ Multivariate regression analysis combining NTPS/TFS teacher and school character
 - [Turnover rates are about 50% higher in Title I schools than in non-Title I schools](turnover-50-percent-higher-title-i.md) — related
 - [Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teacher turnover](instructional-expenditures-class-size-teacher-salary-turnout-drive-effectiveness.md) — related
 - [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — related
-- [Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country](michigan-teacher-salary-decline.md) — related
+- Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country — related
 - [The value of the same teacher wage differs across states because cost of living differs, so the report adjusts starting salaries using Regional Price Parities](cost-of-living-adjustment-changes-teacher-salary-value.md) — related

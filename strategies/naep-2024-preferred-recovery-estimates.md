@@ -17,7 +17,7 @@ sources:
 # Use NAEP 2024 results, available January 2025, for better estimates of academic recovery
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend waiting for the NAEP Spring 2024 results as the best source on academic recovery, because NAEP "rely on the same NAEP assessment in 2022 and 2024" and use "large, random samples of students that are representative of each state and of the nation as a whole." This addresses the comparability and representativeness weaknesses of both ERS and NWEA data.
@@ -35,6 +35,10 @@ The authors recommend waiting for the NAEP Spring 2024 results as the best sourc
 
 ### Target Learning Goals
 - Measuring post-pandemic academic recovery in math and reading achievement
+
+## Claims
+
+- [The math discrepancy between NWEA and ERS recovery estimates is largely driven by differences in their samples of districts](../claims/math-discrepancy-driven-by-sample-differences.md) [~W]
 
 ## Related Strategies
 

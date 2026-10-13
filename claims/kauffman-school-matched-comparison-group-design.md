@@ -43,7 +43,7 @@ The abstract describes the evaluation design: "a matched comparison group design
 
 
 ## Related Claims
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-math-reading-science.md) — related
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
 - [The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated](kauffman-act-scores-higher-impact-not-calculable.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

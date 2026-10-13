@@ -17,7 +17,7 @@ sources:
 # Provide school-level supports and resources to schools with many traditionally underserved students and broader challenges to learning opportunities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A policy strategy the brief draws from its finding that individual student performance mirrors school-level characteristics: rather than treating below-benchmark literacy solely as an individual-student problem, direct resources at the school level. The brief states that "school-level supports and resources may be needed to address broader challenges, such as low attendance or lack of experienced teaching staff." It also calls for identifying root causes of disparities and effective school strategies as a critical next step.
@@ -35,6 +35,11 @@ A policy strategy the brief draws from its finding that individual student perfo
 
 ### Target Learning Goals
 - Early literacy benchmark attainment and reduction of performance disparities
+
+## Claims
+
+- [Special education service concentration showed divergent patterns: similar ever-below-benchmark rates across quartiles but much higher persistence below benchmark in high-concentration schools](../claims/special-education-concentration-persistence-benchmark.md) [+W]
+- [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
 
 ## Related Strategies
 

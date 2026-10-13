@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (21 for, 6 mixed, 1 against) · 24 studies (14 associational, 5 review, 3 causal, 1 design, 1 theoretical), `q1`–`q3` · 2 of 24 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (22 for, 6 mixed, 1 against) · 25 studies (14 associational, 6 review, 3 causal, 1 design, 1 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 29 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -76,6 +76,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](../claims/serial-mediation-literacy-trust-efficacy-use.md) [+W]
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](../claims/technological-self-efficacy-modest-predictor-ai-well-being.md) [+W]
 - [Teacher self-efficacy is associated with student achievement and with implementing new practices](../claims/teacher-self-efficacy-achievement-and-implementation.md) [~W]
+- [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+W]
 
 ## Related Theories
 

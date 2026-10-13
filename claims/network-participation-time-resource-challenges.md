@@ -62,7 +62,7 @@ Principal survey item on the place of Annenberg among school programs. "Approxim
 
 
 ## Related Claims
-- [Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system](annenberg-schools-representative-of-cps.md) — related
+- Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system — related
 - [Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration](network-participation-moderate-school-improvement.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
 - [Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation](networks-reduce-school-community-isolation.md) — related

@@ -17,7 +17,7 @@ sources:
 # Vary LLM response profiles via demographic and psychometric prompting to increase response variability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To counter the tendency of LLMs to give similar answers to the same item, CPIG prompts item-response generators with a baseline, a demographic profile (e.g., "You are a Hispanic woman who works in real estate"), or a psychometric profile drawn from validated scales such as creative self-efficacy, creativity anxiety, creative mindset, openness to experience, tolerance for ambiguity, cynicism, and the RIASEC interest types. Participant profiles were sampled at random for each response, with names drawn from census data. This strategy is implementable whenever synthetic respondent variability is needed.
@@ -38,6 +38,10 @@ To counter the tendency of LLMs to give similar answers to the same item, CPIG p
 
 ### Affordances
 - [Cpig Framework](../research-methods/cpig-the-creative-psychometric-item-generator-framework.md)
+
+## Claims
+
+- [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](../claims/response-prompting-styles-increase-variance.md) [+W]
 
 ## Related Strategies
 - 

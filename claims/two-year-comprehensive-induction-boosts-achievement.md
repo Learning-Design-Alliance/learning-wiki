@@ -45,8 +45,7 @@ Final results of Mathematica's national randomized controlled evaluation of comp
 ## Related Claims
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — reports the opposite
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — related
-- [One year of comprehensive teacher induction showed no impact on student achievement](one-year-induction-no-impact.md) — related
-- [Comprehensive teacher induction produced no significant improvements in student achievement in year 1](teacher-induction-no-achievement-gains-year-1.md) — reports the opposite
+- [One year of comprehensive teacher induction showed no impact on student achievement](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
 - [Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction](comprehensive-induction-no-retained-teacher-qualification-gains.md) — related
-- [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](teacher-induction-no-classroom-practice-gains-year-1.md) — related
+- [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related

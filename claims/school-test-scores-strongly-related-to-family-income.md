@@ -42,6 +42,9 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In 2003, eighth-grade public school students in Puerto Rico averaged 212 in NAEP mathematics, 64 points lower than the national average of 276.](pr-grade8-2003-naep-math-lower-than-nation.md) — related
 - [On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families](graduation-target-miss-310000-students.md) — related

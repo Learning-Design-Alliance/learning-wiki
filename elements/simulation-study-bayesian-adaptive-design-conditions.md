@@ -17,7 +17,7 @@ sources:
 # Simulation study of Bayesian adaptive design conditions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article includes a simulation study built around a randomized experiment of students in an online course as a motivating example. Its purpose is to identify the conditions under which the Bayesian adaptive design can produce better inference and ultimately smaller trials, and it reports conditions with more than a 90 percent chance of superior inference using less than one-third the sample size.
@@ -40,7 +40,7 @@ The article includes a simulation study built around a randomized experiment of 
 
 - [The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates](../claims/adaptive-allocation-to-promising-arms.md) [+W]
 - [The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions](../claims/bayesian-adaptive-better-inference-smaller-trials.md) [+W]
-- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](../claims/bayesian-adaptive-superior-inference-smaller-trials.md) [+W]
+- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](../claims/bayesian-adaptive-superior-inference-smaller-samples.md) [+W]
 
 ## Related Elements
 - 

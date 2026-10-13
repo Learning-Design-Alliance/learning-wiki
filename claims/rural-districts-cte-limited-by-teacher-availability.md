@@ -43,6 +43,6 @@ Qualitative finding from interviews/focus groups with an Educational Service Uni
 
 
 ## Related Claims
-- [Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent)](nebraska-middle-cte-enrollment-grade-distribution.md) — related
+- Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent) — related
 - [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](utah-rural-smaller-classes-fewer-advanced-courses.md) — related
 - [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related

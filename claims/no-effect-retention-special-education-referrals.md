@@ -42,6 +42,9 @@ Comparison of retention and special-education referral rates between displaced a
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
+
 ## Related Claims
 - [One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects](achievement-returns-to-expected-after-closing.md) — related
 - [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related

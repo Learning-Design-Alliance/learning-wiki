@@ -43,7 +43,7 @@ Grade-level enrollment trend analysis (Section I, Figure 3). Some ninth-grade lo
 
 
 ## Related Claims
-- [Chicago public high school enrollment fell 11.5 percent between fall 1995-96 and fall 1999-00](cps-high-school-enrollment-declined-11-5-percent-1995-2000.md) — related
+- Chicago public high school enrollment fell 11.5 percent between fall 1995-96 and fall 1999-00 — related
 - [After controlling for demographic changes and school enrollment patterns, the postpolicy decline in dropout rates appears slightly smaller, and the report urges caution in attributing trends to the gate](dropout-decline-smaller-after-controls.md) — related
 - [The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998](promotion-gate-largest-impact-ninth-grade-enrollment.md) — related
-- [Probation schools experienced the sharpest enrollment decline, averaging 20.6 percent, versus 10.4 percent for neighborhood schools](probation-schools-sharpest-enrollment-decline.md) — related
+- Probation schools experienced the sharpest enrollment decline, averaging 20.6 percent, versus 10.4 percent for neighborhood schools — related

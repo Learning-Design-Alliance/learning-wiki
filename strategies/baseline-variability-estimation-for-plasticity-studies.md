@@ -17,7 +17,7 @@ sources:
 # Use dense repeated-measurement datasets to estimate baseline brain-measure variability before interpreting intervention-related plasticity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend using dense longitudinal MRI datasets to estimate the baseline variability of brain parameters so that plastic changes observed in intervention studies can be compared against naturally occurring fluctuation, and to test the stability of MRI-derived parameters across processing pipelines. They argue that short-term MRI variability is often interpreted as noise but may arise from physiological and psychological states or changing environmental factors, so "the present dataset might also be used to estimate the baseline variability of brain parameters to compare plastic changes in the context of intervention studies".
@@ -36,6 +36,10 @@ The authors recommend using dense longitudinal MRI datasets to estimate the base
 ### Target Learning Goals
 - Distinguishing true plastic change from temporary fluctuation in brain measures
 - Assessing reliability of MRI processing pipelines
+
+## Claims
+
+- [Daily physiological changes in non-experimental situations influence measures of brain structure and function](../claims/daily-physiological-changes-influence-brain-measures.md) [+W]
 
 ## Related Strategies
 - 

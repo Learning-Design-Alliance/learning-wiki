@@ -17,7 +17,7 @@ sources:
 # Community arts organizations should diversify services and form strategic partnerships with schools to remain relevant under dedicated arts funding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends that community arts organizations facing dedicated school arts funding strategically broaden their offerings beyond direct student programming. It states that "community arts organizations must strategically diversify their services to remain relevant and valuable partners to schools and districts." Suggested directions include professional learning for arts teachers, credential-pathway support for teaching artists, arts integration with general education teachers, after-school programming, interdisciplinary initiatives, and strategic arts planning support, positioning organizations as collaborators and strategic partners.
@@ -36,6 +36,11 @@ The report recommends that community arts organizations facing dedicated school 
 
 ### Target Learning Goals
 - expanding equitable access to arts education (dance, media arts, music, theatre, visual arts)
+
+## Claims
+
+- [Community arts organizations have altered their services and experienced loss of funding and contracts under Prop 28 AMS](../claims/prop28-arts-organizations-altered-services-lost-funding.md) [+W]
+- [Community arts organizations expect to expand or shift services, including moving programming outside the school day and supporting fund use](../claims/prop28-organizations-expect-to-expand-or-shift-services.md) [+W]
 
 ## Related Strategies
 

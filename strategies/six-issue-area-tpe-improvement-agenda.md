@@ -17,7 +17,7 @@ sources:
 # State-supported improvement agenda across six TPE issue areas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that Maryland improve TPE and SLO implementation quality through coordinated action in six issue areas: TPE integration with instruction, principal leadership, quality and consistency of SLO implementation, quality and consistency of observations, TPE data management and technology infrastructure, and constituency building and inter-district learning. Concrete actions include providing "a sample SLO Quality Rating Rubric," a resource library of annotated SLOs, instructional crosswalk resources, expanded principal leadership prompts, and a working group on two-way communications. The recommendations assign continuing state support while shifting ownership of continuous improvement to district and school levels.
@@ -35,6 +35,10 @@ The report recommends that Maryland improve TPE and SLO implementation quality t
 
 ### Target Learning Goals
 - High-quality, consistent implementation of educator evaluation and the SLO process to strengthen instruction
+
+## Claims
+
+- [Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile](../claims/slo-support-district-quartile-gap.md) [~W]
 
 ## Related Strategies
 

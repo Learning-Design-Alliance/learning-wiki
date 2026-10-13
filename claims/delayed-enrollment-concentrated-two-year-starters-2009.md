@@ -62,4 +62,4 @@ Sector breakdown of delayed entry in the same class-of-2009 tracking data. The r
 
 
 ## Related Claims
-- [Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022](cps-immediate-college-enrollment-2022.md) — related
+- Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022 — related

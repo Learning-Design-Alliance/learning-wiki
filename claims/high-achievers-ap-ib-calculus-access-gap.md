@@ -42,6 +42,9 @@ Descriptive HSLS:09 analysis restricted to high-achieving students (passed Algeb
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers](black-latino-low-ses-lower-advanced-math-course-taking.md) — a broader claim this one bears on
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related

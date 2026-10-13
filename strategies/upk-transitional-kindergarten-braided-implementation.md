@@ -17,7 +17,7 @@ sources:
 # Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Universal Prekindergarten Planning and Implementation funds address implementing transitional kindergarten (TK) and preschool. The core strategy is to 'establish an early learning initiative to expand access to classroom-based TK and the California State Preschool Program in LEAs.' Diversity strategies: prioritize hiring and supporting diverse teachers and teacher candidates for the TK program, co-create 'a culturally responsive curriculum with a diverse group of teachers,' and partner with local community colleges to identify potential TK teachers. Five other funding sources can be braided to fund professional learning, coaching, mentoring, and inclusion and belonging practices supporting UPK implementation.
@@ -36,6 +36,10 @@ Universal Prekindergarten Planning and Implementation funds address implementing
 
 ### Target Learning Goals
 - Successful implementation of universal prekindergarten, including transitional kindergarten and the California State Preschool Program
+
+## Claims
+
+- [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](../claims/majority-leas-all-sites-full-day-tk.md) [+W]
 
 ## Related Strategies
 

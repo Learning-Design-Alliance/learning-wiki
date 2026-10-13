@@ -17,7 +17,7 @@ sources:
 # Establish high-retention preparation pathways—residencies, Grow Your Own models, service scholarships, and mentoring/induction—to stem turnover in high-need subjects and schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends service scholarships and loan forgiveness that "pay the cost of teacher preparation in exchange for a commitment to teach in a subject or location of need for 3 to 5 years," teacher residency programs with a full training year under a master teacher plus two years of mentoring, Grow Your Own models recruiting local community members, and high-quality induction with mentoring, collaborative planning, and reduced teaching loads.
@@ -35,6 +35,10 @@ The report recommends service scholarships and loan forgiveness that "pay the co
 
 ### Target Learning Goals
 - Building a well-prepared, stable teacher workforce for high-need subjects and schools
+
+## Claims
+
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](../claims/underprepared-teachers-less-effective-higher-turnover.md) [+W]
 
 ## Related Strategies
 

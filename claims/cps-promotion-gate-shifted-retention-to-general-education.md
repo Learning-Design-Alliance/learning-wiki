@@ -42,9 +42,12 @@ Retention trend analysis of eighth graders with and without disabilities, 1993�
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](chicago-gate-retention-surge.md) — related
 - [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related
-- [Ninth graders with disabilities were heavily concentrated in neighborhood and vocational high schools, driven by general education students choosing other school types](cps-disabilities-concentrated-neighborhood-vocational-schools.md) — related
+- Ninth graders with disabilities were heavily concentrated in neighborhood and vocational high schools, driven by general education students choosing other school types — related
 - [The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998](promotion-gate-largest-impact-ninth-grade-enrollment.md) — related
 - [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related

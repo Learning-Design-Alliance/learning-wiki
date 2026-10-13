@@ -17,7 +17,7 @@ sources:
 # Use an LLM web agent to compare potential lesson designs and get fast, low-cost feedback before deployment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article demonstrates how designers could run the web agent on candidate lessons to compare designs before release. The authors show "how designers could use the agent to compare potential lesson designs through case studies", and argue such agents give "fast, low-cost, and helpful insights for new learning experiences". This makes agent-based walkthroughs a practical early-stage evaluation step in learning experience design.
@@ -35,6 +35,10 @@ The article demonstrates how designers could run the web agent on candidate less
 
 ### Target Learning Goals
 - Evaluating and iterating on online lesson designs
+
+## Claims
+
+- [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](../claims/ai-web-agents-accelerate-online-learning-advancements.md) [+W]
 
 ## Related Strategies
 

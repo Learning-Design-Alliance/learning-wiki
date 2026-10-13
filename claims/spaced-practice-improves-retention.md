@@ -180,12 +180,11 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — testing pairs naturally with spacing; the combination amplifies retention
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — manageable load per session is a precondition for spacing to help
 - [Interleaving improves discrimination and learning.](interleaving-improves-inductive-learning.md) — a related scheduling manipulation that mixes rather than repeats content
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Distributed Practice Improves Retention](spaced-repetition-improves-retention.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
@@ -199,4 +198,3 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — a narrower finding that bears on this claim
-- [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spacing-effect-robust-verbal-recall.md) — possibly the same claim (merge candidate)

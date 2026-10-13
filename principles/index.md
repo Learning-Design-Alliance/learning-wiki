@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**376 entries** · 0 stable · 135 in review · 241 drafts
+**377 entries** · 0 stable · 136 in review · 241 drafts
 
 ---
 
@@ -155,6 +155,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Problem-based Learning](problem-based-learning.md) - For learners who must apply knowledge to ill-structured problems, organizing work around problems has a small, highly variable and possibly inflated average effect; what is better supported is guidance for novices on the target content, with a problem-first phase as a narrower option followed by instruction.
 * [Procedural Learning](procedural-learning.md) - For a novice on a procedure, a visible model, supported attempts with feedback, support withdrawn on unaided success, then mixed practice spread over sessions with the steps tied to their reasons are expected to yield accurate, fluent, retained and flexible unaided performance; no claim tests the arc as a whole, only single links in it.
 * [Process-based Writing](process-based-writing.md) - Teaching writing as a staged process (plan, draft, respond, revise, edit) with feedback on drafts gives developing writers a modest gain in writing quality over product-focused teaching, tested by one meta-analysis in grades 1–12 that found no gain for struggling writers, who gain more from explicit strategy instruction.
+* [Productive Failure](productive-failure.md) - When the goal is conceptual understanding and transfer of a new concept, having learners first attempt problems that the concept solves, before they are taught it, and then teaching it by building on their attempts, is expected to improve conceptual knowledge and transfer over teaching first, with no gain on procedural skill.
 * [Purposeful Reflection](purposeful-reflection.md) - Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next.
 
 #### Q {: #letter-q }

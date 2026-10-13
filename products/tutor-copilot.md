@@ -13,7 +13,7 @@ generated:
 # Tutor CoPilot
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q4` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 causal, 1 review), `q2`–`q4` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Tutor CoPilot is a human-AI tutoring-support tool developed by Wang and colleagues that provides customizable, real-time expert-like guidance to tutors during K–12 mathematics sessions.

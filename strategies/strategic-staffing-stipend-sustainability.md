@@ -17,7 +17,7 @@ sources:
 # Sustain paid residencies through strategic staffing that reallocates resident instructional support roles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes strategic staffing as reconfiguring educator positions so that residents take on instructional support responsibilities such as substitute teaching or tutoring; the money saved when residents fill these roles is reallocated toward resident stipends. This was the intended mechanism for sustaining paid residencies after TCLAS funding ended, supported by technical assistance that trained regional Education Service Center staff to build statewide capacity.
@@ -36,6 +36,10 @@ The report describes strategic staffing as reconfiguring educator positions so t
 
 ### Target Learning Goals
 - Sustaining paid, clinically intensive teacher preparation pipelines
+
+## Claims
+
+- [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](../claims/strategic-staffing-insufficient-rural-districts.md) [~W]
 
 ## Related Strategies
 

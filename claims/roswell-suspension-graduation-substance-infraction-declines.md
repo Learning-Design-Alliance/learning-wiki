@@ -45,5 +45,5 @@ Case study profile of Roswell Independent School District's Sierra Middle School
 ## Related Claims
 - [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — a narrower finding that bears on this claim
 - [University High School's suspensions dropped 78% and fights fell from more than 10 per semester to one in the 2023–24 school year after adopting the community school strategy](university-high-suspensions-fights-declined-community-school.md) — a narrower finding that bears on this claim
-- [University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024](university-high-graduation-rate-rose-36-to-55.md) — a narrower finding that bears on this claim
+- University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024 — a narrower finding that bears on this claim
 - [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — related

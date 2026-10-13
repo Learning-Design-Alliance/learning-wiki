@@ -17,7 +17,7 @@ sources:
 # Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's Promising Practices section describes four approaches to building the pipeline of teachers of color: alternative preparation programs that recruit diverse candidates; Minority Serving Institutions, which "account for 38 percent of all African American teachers in the country"; early-outreach programs like Pathways2Teaching that frame teaching as social justice; and district programs like Boston's Public High School to Teacher Program, which provided college prep, mentors, tuition funding, and guaranteed teaching jobs to successful participants, 87 percent of whom in 2016 were African American or Latinx.
@@ -40,6 +40,10 @@ The report's Promising Practices section describes four approaches to building t
 ### Target Learning Goals
 - Entry into and persistence in the teaching profession
 - Recruitment and preparation of a diverse educator workforce
+
+## Claims
+
+- [Multiple workforce factors contributed to the growth of alternative teacher certification programs](../claims/factors-driving-alternative-certification-growth.md) [~W]
 
 ## Related Strategies
 

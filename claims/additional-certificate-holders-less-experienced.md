@@ -44,5 +44,5 @@ Descriptive comparison of mean years of experience between the 9,865 additional 
 
 ## Related Claims
 - [Experienced teachers with baseline certificates in early childhood education earned additional certificates at higher rates (15 percent) than teachers with baseline certificates in other areas](early-childhood-baseline-highest-additional-certification-rate.md) — related
-- [About 5 percent of experienced New York State public school teachers in 2015/16 earned at least one additional certificate between October 2015 and October 2017](five-percent-experienced-ny-teachers-earned-additional-certificates.md) — related
+- About 5 percent of experienced New York State public school teachers in 2015/16 earned at least one additional certificate between October 2015 and October 2017 — related
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related

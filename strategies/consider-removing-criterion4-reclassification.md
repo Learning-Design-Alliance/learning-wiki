@@ -17,7 +17,7 @@ sources:
 # Consider removing Criterion 4 from California's reclassification requirements while maintaining the ELPAC overall PL 4 threshold
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends that the CDE consider removing the locally determined basic-skills comparison (Criterion 4) from reclassification requirements, while maintaining ELPAC overall PL 4 as the Criterion 1 threshold. It argues the additional check may be "redundant, unnecessary, or possibly unfair" given that PL 4 students perform comparably to matched EO peers and gain no apparent benefit from remaining in EL status. It also recommends two-way engagement with educators and advocates about possible actions.
@@ -35,6 +35,12 @@ The report recommends that the CDE consider removing the locally determined basi
 
 ### Target Learning Goals
 - Timely exit from EL status with continued access to grade-level programs and content
+
+## Claims
+
+- [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](../claims/field-perceptions-criterion4-barrier.md) [+W]
+- [In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4](../claims/logistic-regression-50-percent-proficiency-pl4.md) [+W]
+- [ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES](../claims/no-achievement-benefit-remaining-el-status-pl4.md) [+W]
 
 ## Related Strategies
 

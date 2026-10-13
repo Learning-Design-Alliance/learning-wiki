@@ -45,7 +45,6 @@ In the interview findings on personal bias, a leader explained that "the narrati
 ## Related Claims
 - [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
 - [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — related
-- [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — related
-- [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related
+- [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-do-not-guide-root-cause-efforts.md) — related
 - [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
 - [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related

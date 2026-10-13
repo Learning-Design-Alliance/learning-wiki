@@ -17,7 +17,7 @@ sources:
 # Missouri Career Ladder Program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The Missouri Career Ladder Program is a teacher incentive program in which school districts participate and teachers receive bonuses. The report evaluates the program's effect on teacher mobility, finding that "a school district’s participation in the Missouri Career Ladder Program would tend to increase retention in the district and the profession." It is studied here as a district-level policy lever for teacher workforce stability.
@@ -39,7 +39,7 @@ The Missouri Career Ladder Program is a teacher incentive program in which schoo
 ## Claims
 
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](../claims/career-ladder-missouri-small-or-no-achievement-effect.md) [+W]
-- [The Missouri Teacher Career Ladder Program shows estimated effects on student math and reading achievement ranging from small positive effects to no effect](../claims/missouri-career-ladder-small-positive-to-no-effect.md) [+W]
+- [The Missouri Teacher Career Ladder Program shows estimated effects on student math and reading achievement ranging from small positive effects to no effect](../claims/career-ladder-missouri-small-or-no-achievement-effect.md) [+W]
 - [The program's achievement effects were estimated statewide using nine years of longitudinal math and reading scores from 524 Missouri school districts](../claims/missouri-career-ladder-statewide-longitudinal-design.md) [~W]
 
 ## Related Elements

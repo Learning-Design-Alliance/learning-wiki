@@ -12,7 +12,7 @@ generated:
 # Pomodoro Technique
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 3 of 6 report an effect size
 
 ## Description
 The Pomodoro Technique, developed by Francesco Cirillo in the late 1980s, structures work into fixed intervals — traditionally 25 minutes of focused effort ("pomodoros") separated by 5-minute breaks, with a longer 15–30 minute break after every four intervals. The learner selects a task, commits to a single interval, records interruptions, and tracks completed pomodoros as a measure of effort. It functions as both an attention-management and a self-monitoring strategy.
@@ -32,7 +32,7 @@ The technique operationalizes two well-supported ideas: that sustained attention
 - Fixed 25-minute intervals can interrupt deep flow states; experts engaged in complex problem-solving often benefit from longer, self-paced sessions [~M]
 - Poorly specified tasks ("study biology") make intervals unproductive; the method presupposes task decomposition, not just timing
 - Break activities that involve screens or new tasks fail to restore attention and can degrade the next interval [-W]
-- The technique addresses time structure, not learning quality — rereading notes for four pomodoros is still ineffective study [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [~M]
+- The technique addresses time structure, not learning quality — rereading notes for four pomodoros is still ineffective study [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [~M]
 
 #### Implementation Variability
 - Interval length is adjustable: 50/10 cycles suit reading-heavy or complex tasks; 15/3 cycles suit young learners or low-stamina students

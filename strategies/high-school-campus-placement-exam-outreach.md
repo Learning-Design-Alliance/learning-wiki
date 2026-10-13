@@ -17,7 +17,7 @@ sources:
 # Bring high school students onto community college campuses to take placement exams and discuss results with counselors before enrollment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy engages high school students in campus visits where they take actual placement examinations and immediately discuss results with counselors, so they learn where they stand in preparation for community college while still in high school. The report highlights it among "promising programs" for "bringing high school students on campus to take placement assessments that help them understand where they stand in terms of preparation for community college." Students receive results immediately, see exactly how many basic skills courses they need, and learn they can retake the test free of charge.
@@ -36,6 +36,11 @@ This strategy engages high school students in campus visits where they take actu
 
 ### Target Learning Goals
 - Understanding community college readiness requirements and placement levels before enrollment
+
+## Claims
+
+- [Many community college students lack individual access to a counselor to discuss placement results, and students in dedicated programs report greater counseling satisfaction](../claims/counseling-access-limited-dedicated-programs-better.md) [+W]
+- [Most incoming students do not understand that placement test performance determines which classes they can take](../claims/students-unaware-placement-stakes.md) [+W]
 
 ## Related Strategies
 - 

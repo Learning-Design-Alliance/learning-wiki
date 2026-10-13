@@ -42,6 +42,9 @@ Comparison of improvers against institutions with flat or declining rates, using
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — related
 - [Institutions serving similar students can have divergent URM outcomes: NC State raised URM graduation rates 12 points and nearly halved its gap while demographically similar Auburn saw URM rates decline and its gap grow past 20 points](similar-colleges-different-urm-outcomes.md) — related

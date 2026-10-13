@@ -22,7 +22,7 @@ sources:
 # Parent Teacher Home Visits (PTHV)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 causal), `q2` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Parent Teacher Home Visits (PTHV) is a family-engagement programme run by the Parent Teacher Home Visits organization in which educators and families build relationships through structured voluntary home visits.

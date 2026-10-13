@@ -17,7 +17,7 @@ sources:
 # Gender-responsive leadership development: promote servant leadership universally and deploy transformational practices for their harassment-preventive value to female faculty
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that university management be gender-responsive rather than uniform: servant leadership can be promoted as a universally effective resource, while transformational practices should be cultivated deliberately for their harassment-preventive function among female faculty. It suggests "training modules on inclusive leadership communication and active-bystander intervention that explicitly target the harassment-preventive function identified here", and a phased strategy beginning with servant-leadership development before adding gender-responsive transformational modules.
@@ -38,6 +38,10 @@ The article recommends that university management be gender-responsive rather th
 - Prevention of workplace harassment
 - Strengthening teacher self-efficacy and life satisfaction
 - Equitable, gender-responsive institutional management
+
+## Claims
+
+- [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](../claims/measurement-invariance-gender-structural-equivalence-rejected.md) [~W]
 
 ## Related Strategies
 - 

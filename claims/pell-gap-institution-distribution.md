@@ -42,6 +42,9 @@ Distributional analysis of Pell/non-Pell completion gaps across 1,079 institutio
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Highlighted institutions attribute Pell success to deliberate support strategies, with peer mentoring and fixed tuition associated with gains](institutional-support-strategies-pell-success.md) — a narrower finding that bears on this claim
 - [Enrollment stratification amplifies the national gap: Pell students are concentrated at lower-SAT, lower-graduation-rate institutions](pell-enrollment-stratification-sat-quartiles.md) — related

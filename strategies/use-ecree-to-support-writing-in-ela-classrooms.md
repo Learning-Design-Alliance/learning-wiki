@@ -17,7 +17,7 @@ sources:
 # Use automated writing feedback tools like Ecree to support writing in middle and high school English language arts classrooms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief aims "to help middle and high school students and their families learn about Ecree, an automated feedback tool that supports student writing in the classroom," summarizing takeaways from its use in grade 8-11 English language arts classrooms. It presents the tool as a classroom support for writing improvement, with attention to students who may be overwhelmed by feedback.
@@ -35,6 +35,11 @@ The brief aims "to help middle and high school students and their families learn
 
 ### Target Learning Goals
 - Writing quality improvement in English language arts
+
+## Claims
+
+- [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](../claims/ecree-feedback-less-useful-when-misaligned.md) [~W]
+- [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](../claims/about-half-of-students-found-ecree-easy-and-helpful.md) [~W]
 
 ## Related Strategies
 

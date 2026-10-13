@@ -43,7 +43,7 @@ Mental Health Training section reports grant-period training counts, including c
 
 
 ## Related Claims
-- [Cohort 2 Project Cal-Well schools served more than 21,000 students in 40 schools across five counties](cal-well-cohort2-reach-21000-students-40-schools.md) — related
+- Cohort 2 Project Cal-Well schools served more than 21,000 students in 40 schools across five counties — related
 - [DNUSD trained 184 mental health workforce members and 757 non-workforce individuals in mental health prevention and awareness strategies from fall 2020 through December 2023](cal-well-dnusd-mental-health-training-reach.md) — a narrower finding that bears on this claim
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — a narrower finding that bears on this claim
 - [Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce](scoe-cal-well-training-833-and-3104.md) — a narrower finding that bears on this claim

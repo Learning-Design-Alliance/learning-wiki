@@ -17,7 +17,7 @@ sources:
 # Ten-RCT empirical comparison of CACE variance formulas
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 An empirical analysis component of the report in which the authors "used data from ten large-scale RCTs" to compare significance findings for the CACE estimator. The comparison was conducted with the estimator "measured in nominal and standard deviation units", contrasting the correct variance formulas with those typically used in practice, and it grounds the report's conclusion that variance correction terms matter little.
@@ -39,7 +39,7 @@ An empirical analysis component of the report in which the authors "used data fr
 ## Claims
 
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
-- [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-correction-terms-matter-little.md) [+W]
+- [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
 
 ## Related Elements
 

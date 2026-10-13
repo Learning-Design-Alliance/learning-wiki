@@ -17,7 +17,7 @@ sources:
 # Three-part state response: align funding policy with enrollment and student needs, build local capacity for managing change, and conduct strategic communication and case-making
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends that state leaders pursue three coordinated actions in response to sustained enrollment decline: aligning funding policy with changing enrollment and student needs, providing forecasting tools, technical assistance, and system redesign grants that build local capacity, and engaging in strategic communication that strengthens public confidence and political will. It argues these should replace short-term emergency tools such as "budget deferrals, reserve drawdowns, and across-the-board cuts", which it says are poorly suited to structural demographic shifts. The recommendations draw on K–12 finance policy research and the authors' experience partnering with practitioners and policymakers.
@@ -35,6 +35,11 @@ The brief recommends that state leaders pursue three coordinated actions in resp
 
 ### Target Learning Goals
 - Maintaining system capacity to deliver adequate, equitable instruction and student support during sustained enrollment and revenue decline
+
+## Claims
+
+- [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](../claims/rising-need-share-amid-shrinking-enrollment.md) [+W]
+- [K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas](../claims/enrollment-decline-projected-3-7-percent-2031.md) [+W]
 
 ## Related Strategies
 

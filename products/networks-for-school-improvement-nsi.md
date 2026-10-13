@@ -26,7 +26,7 @@ sources:
 # Networks for School Improvement (NSI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 18 claims (9 for, 5 mixed, 4 against) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 18 claims rest on one study
+> **Evidence** · 15 claims (7 for, 4 mixed, 4 against) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 13 claims rest on one study
 
 ## Description
 A Gates Foundation programme that supports networks of schools in using continuous improvement to improve outcomes for students who are Black, Latino, or experiencing poverty.
@@ -38,8 +38,8 @@ A Gates Foundation programme that supports networks of schools in using continuo
 ### Claims
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](../claims/8th-grade-on-track-nsi-no-impacts-year-two.md) [-M]
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](../claims/9th-grade-on-track-nsi-impact-increased-over-time.md) [+M]
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](../claims/9th-grade-on-track-nsi-positive-impacts-year-two.md) [+M]
-- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) [+M]
+- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](../claims/ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) [+M]
+- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+M]
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](../claims/postsecondary-nsi-college-impact-not-persistent.md) [-M]
 - [Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year](../claims/inquiry-cycles-partial-completion-3-2-per-year.md) [~W]
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](../claims/ci-groundwork-strong-theory-link-and-equity-depth-limited.md) [~W]
@@ -48,7 +48,7 @@ A Gates Foundation programme that supports networks of schools in using continuo
 - [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](../claims/9th-grade-on-track-nsi-gpa-improvement.md) [+W]
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](../claims/9th-grade-on-track-nsi-pass-rates-suspension.md) [+W]
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](../claims/college-ready-on-track-nsi-null-outcomes.md) [-W]
-- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) [+W]
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+W]
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](../claims/ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) [+M]
 - [Eighth-grade on-track NSI showed no statistically significant impact on targeted outcomes after schools' second year, and year-1 impacts did not persist](../claims/eighth-grade-on-track-nsi-no-year-two-impact.md) [~M]
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](../claims/nsi-network-cohesion-low-but-improving.md) [~W]
@@ -101,8 +101,8 @@ The Networks for School Improvement (NSI) initiative is a Gates Foundation progr
 
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](../claims/8th-grade-on-track-nsi-no-impacts-year-two.md) [-M]
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](../claims/9th-grade-on-track-nsi-impact-increased-over-time.md) [+M]
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](../claims/9th-grade-on-track-nsi-positive-impacts-year-two.md) [+M]
-- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) [+M]
+- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](../claims/ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) [+M]
+- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+M]
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](../claims/postsecondary-nsi-college-impact-not-persistent.md) [-M]
 - [Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year](../claims/inquiry-cycles-partial-completion-3-2-per-year.md) [~W]
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](../claims/ci-groundwork-strong-theory-link-and-equity-depth-limited.md) [~W]
@@ -111,7 +111,7 @@ The Networks for School Improvement (NSI) initiative is a Gates Foundation progr
 - [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](../claims/9th-grade-on-track-nsi-gpa-improvement.md) [+W]
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](../claims/9th-grade-on-track-nsi-pass-rates-suspension.md) [+W]
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](../claims/college-ready-on-track-nsi-null-outcomes.md) [-W]
-- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) [+W]
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+W]
 
 ## Related Elements
 
@@ -162,8 +162,8 @@ The Networks for School Improvement (NSI) initiative was a Gates Foundation inve
 - [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](../claims/9th-grade-on-track-nsi-gpa-improvement.md) [+W]
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](../claims/9th-grade-on-track-nsi-pass-rates-suspension.md) [+W]
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](../claims/college-ready-on-track-nsi-null-outcomes.md) [-W]
-- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) [+W]
-- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) [+W]
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+W]
+- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](../claims/postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) [+W]
 
 ## Related Elements
 

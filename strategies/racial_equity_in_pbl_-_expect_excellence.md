@@ -12,7 +12,7 @@ generated:
 # Racial Equity in PBL - Expect Excellence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A belief in excellence, demonstrated by setting high expectations, is the fuel that runs a successful PBL culture. Dispel the myth that PBL does not work for "those kids." The challenge lives in ensuring the proper scaffolding, knowing students' current realities, to move them toward the excellence they are capable of without lowering expectations. The strategy pairs an unwavering belief in every student's capacity for rigorous work with the instructional support needed to reach it — high expectations without scaffolding become unrealistic demands, and scaffolding without high expectations becomes lowered standards.
@@ -57,6 +57,10 @@ Teacher expectations are among the most powerful and self-fulfilling forces in t
 4. **Coach toward the bar, never move the bar.** Use [Coaching](../elements/coaching.md) and critique protocols to give every student feedback against the same rubric, differentiating the *support*, not the *standard*.
 5. **Require revision.** Build cycles of critique and refinement into every project so that "done" means "meets the standard," not "finished."
 6. **Know students' realities.** Use [Check-ins](../elements/check-in.md) and conferences to understand what support each student needs to reach the shared standard.
+
+## Claims
+
+- [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](../claims/capability-belief-achievement-gap-survey.md) [+W]
 
 ## Related Strategies
 - [Scaffolding in PBL](scaffolding-in-pbl.md) — the support side of the equation; high expectations without scaffolding is neglect

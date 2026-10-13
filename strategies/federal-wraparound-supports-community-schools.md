@@ -17,7 +17,7 @@ sources:
 # Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends a comprehensive approach providing children with the health, mental health, social services, extended learning time, after-school programming, and other supports they need to thrive. It proposes creating a Children's Cabinet to integrate and streamline programs and funding streams across federal agencies, and significantly increasing funding for community schools and community partnerships connecting these supports to schools.
@@ -36,6 +36,10 @@ The brief recommends a comprehensive approach providing children with the health
 
 ### Target Learning Goals
 - social, emotional, and academic needs met so students can learn
+
+## Claims
+
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](../claims/school-mental-health-supports-benefits-and-shortages.md) [~W]
 
 ## Related Strategies
 

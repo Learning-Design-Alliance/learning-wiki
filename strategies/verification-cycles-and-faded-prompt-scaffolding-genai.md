@@ -17,7 +17,7 @@ sources:
 # Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends two implementable practices to counter students' passive, retrieval-dominated GenAI use. First, teachers embed verification into task requirements: "each group could be required to verify at least one key GenAI output using textbooks, reliable websites, or empirical data", forming an information retrieval–evidence verification–comparative judgment–revision–re-engagement cycle. Second, faded prompt scaffolding: teachers first model complete prompts, then provide only task goals or prompt frames, and finally require students to formulate, test, and revise prompts independently, preventing scaffolds from becoming fixed scripts to be copied.
@@ -37,6 +37,10 @@ The article recommends two implementable practices to counter students' passive,
 - critical evaluation of GenAI outputs
 - autonomous and dialogic interaction with GenAI
 - transition from passive prompt copying to independent prompt formulation
+
+## Claims
+
+- [Output-verification support is the least covered scenario in policy guidance](../claims/output-verification-thinnest-scenario.md) [~W]
 
 ## Related Strategies
 

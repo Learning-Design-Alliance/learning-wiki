@@ -17,7 +17,7 @@ sources:
 # Typology-differentiated AI adoption policy interventions for education systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends four priority levels of policy intervention differentiated by manager typology: regulatory framework development (high priority, requiring ministerial action), differentiated training programs (high priority), institutional capacity building (medium priority), and peer learning networks leveraging Personalization champions as mentors (low priority but high impact). Training is differentiated because "one-size-fits-all training is suboptimal": Competency-constrained managers need intensive digital skills training, Regulation-blocked managers need policy advocacy and compliance guidance, and Barrier-free skeptics need evidence-based trust-building.
@@ -39,6 +39,10 @@ The article recommends four priority levels of policy intervention differentiate
 
 ### Affordances
 - Integrative Ai Adoption Readiness Framework Managers
+
+## Claims
+
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](../claims/six-provisional-manager-typologies-lca.md) [+W]
 
 ## Related Strategies
 

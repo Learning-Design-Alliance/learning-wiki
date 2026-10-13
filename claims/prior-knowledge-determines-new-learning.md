@@ -70,5 +70,5 @@ This claim is one of the most robust premises in educational psychology, but its
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - [Deep thinking and making connections help students build strong memories and learn more deeply](deep-thinking-connections-build-memories.md) — related
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — a narrower finding that bears on this claim
-- [Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate](prior-knowledge-divergence-between-sessions.md) — a narrower finding that bears on this claim
+- Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate — a narrower finding that bears on this claim
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — a narrower finding that bears on this claim

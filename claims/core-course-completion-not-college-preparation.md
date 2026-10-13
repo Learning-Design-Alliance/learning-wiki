@@ -44,6 +44,5 @@ The report describes the post-A Nation at Risk trend toward the "New Basics" cur
 
 ## Related Claims
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
-- [Requiring all students to take college-prep courses did not increase dropout; graduation rates did not decline even for low-ability students](college-prep-mandate-no-dropout-increase.md) — related
-- [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related
-- [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
+- [Requiring all students to take college-prep courses did not increase dropout; graduation rates did not decline even for low-ability students](college-prep-all-no-dropout-increase.md) — related
+- Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related

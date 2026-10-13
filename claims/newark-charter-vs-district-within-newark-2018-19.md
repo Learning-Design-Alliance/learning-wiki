@@ -48,4 +48,4 @@ Within-Newark sector comparison of 2018-19 growth between charter schools and ot
 - [Newark charter school students outgrew the state average in both reading and math in 2018-19](newark-charter-growth-vs-state-2018-19.md) — related
 - [Newark charter school students in poverty outgrew both the state poverty average and Newark district students in poverty in reading, and the state average in math](newark-charter-poverty-growth.md) — related
 - [Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math](newark-cmo-vs-independent-charter-growth.md) — related
-- [Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth](newark-overall-growth-vs-state-2018-19.md) — related
+- Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related

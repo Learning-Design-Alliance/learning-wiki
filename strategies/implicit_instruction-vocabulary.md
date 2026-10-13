@@ -12,7 +12,7 @@ generated:
 # Implicit Instruction Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Implicit vocabulary instruction builds word knowledge through incidental exposure: learners encounter target words repeatedly in comprehensible, meaningful contexts—texts, read-alouds, conversation, multimedia—and infer meanings from context, morphology, and discourse cues. The instructor's role is to engineer rich encounters (selecting texts, seeding discussion, arranging multiple exposures) rather than to pre-teach definitions. It contrasts with [explicit vocabulary teaching](../patterns/direct-instruction.md), where word meanings are directly defined and practiced.
@@ -52,7 +52,7 @@ Incidental acquisition is the primary source of vocabulary growth in first and s
 
 ### Instructions
 1. Select texts and media at an appropriate coverage level that naturally contain target words; [Assigned Readings](../elements/assigned-readings.md) let the instructor control exposure density.
-2. Plan for repeated, spaced encounters with each target word across at least 4–8 varied contexts, distributing exposure over days and weeks [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+2. Plan for repeated, spaced encounters with each target word across at least 4–8 varied contexts, distributing exposure over days and weeks [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 3. During reading or discussion, use light-touch supports—brief paraphrase, gesture, [Analogies](../elements/analogies.md), or a one-line gloss—without interrupting the flow into full definition teaching.
 4. Use [Class Discussion](../elements/class-discussion.md) and dialogic prompts that require learners to use the words communicatively; productive use strengthens incidental gains [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
 5. Periodically check inferred meanings with quick, low-stakes tasks and correct entrenched misinferences explicitly.

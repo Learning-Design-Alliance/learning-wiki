@@ -26,7 +26,7 @@ sources:
 # Framework for Teaching
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 5 studies (4 associational, 1 design), `q2` · 1 of 5 report an effect size · 17 claims rest on one study
+> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 5 studies (4 associational, 1 design), `q2` · 1 of 5 report an effect size · 15 claims rest on one study
 
 ## Description
 The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
@@ -44,7 +44,7 @@ The Charlotte Danielson Framework for Teaching is a framework developed by Charl
 - [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](../claims/framework-identifies-more-unsatisfactory-teachers.md) [+W]
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](../claims/high-end-rating-inflation.md) [-W]
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](../claims/principal-attitudes-toward-framework-evaluation.md) [+W]
-- [Danielson Framework observation ratings are valid measures of teaching practice, with higher ratings corresponding to higher student test-score growth in reading and math](../claims/danielson-ratings-predict-value-added.md) [+W]
+- [Danielson Framework observation ratings are valid measures of teaching practice, with higher ratings corresponding to higher student test-score growth in reading and math](../claims/framework-scores-relate-to-value-added.md) [+W]
 - [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](../claims/prior-ratings-explain-observer-differences.md) [~W]
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](../claims/fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) [+M]
 - [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](../claims/fft-internal-consistency-acceptable-to-good.md) [+M]
@@ -98,7 +98,7 @@ The Charlotte Danielson Framework for Teaching divides teaching into four domain
 - [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](../claims/framework-identifies-more-unsatisfactory-teachers.md) [+W]
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](../claims/high-end-rating-inflation.md) [-W]
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](../claims/principal-attitudes-toward-framework-evaluation.md) [+W]
-- [Danielson Framework observation ratings are valid measures of teaching practice, with higher ratings corresponding to higher student test-score growth in reading and math](../claims/danielson-ratings-predict-value-added.md) [+W]
+- [Danielson Framework observation ratings are valid measures of teaching practice, with higher ratings corresponding to higher student test-score growth in reading and math](../claims/framework-scores-relate-to-value-added.md) [+W]
 - [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](../claims/prior-ratings-explain-observer-differences.md) [~W]
 
 ## Related Elements

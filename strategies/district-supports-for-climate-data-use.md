@@ -17,7 +17,7 @@ sources:
 # Structure data collection timing, capacity-building, and community engagement to enable climate data use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's implications section recommends that districts and states structure supports around the enabling conditions observed in the cases. "Districts can maximize the usefulness of school climate data by modifying the schedule for data collection to ensure that schools receive climate survey results on a timeline that leaves them sufficient time to analyze their data and use it to inform strategic planning and climate improvement practices." It further recommends investments in professional learning and collaboration time, and developing climate work structures and teams that encourage participation of students, staff, and families.
@@ -36,6 +36,10 @@ The report's implications section recommends that districts and states structure
 
 ### Target Learning Goals
 - using school climate data to inform improvement of school environments
+
+## Claims
+
+- [Survey design and management conditions influenced how schools engaged with climate data](../claims/survey-design-conditions-data-engagement.md) [+W]
 
 ## Related Strategies
 

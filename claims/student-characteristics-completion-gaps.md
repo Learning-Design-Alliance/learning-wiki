@@ -43,7 +43,7 @@ Disaggregated analysis of 2012–14 CPS immediate enrollees by GPA, ACT score, r
 
 
 ## Related Claims
-- [Across nearly all CPS high schools, six-year completion rates exceeded four-year rates, including at selective enrollment high schools where gaps reached 30 percentage points](high-school-four-six-year-gaps-universal.md) — related
+- Across nearly all CPS high schools, six-year completion rates exceeded four-year rates, including at selective enrollment high schools where gaps reached 30 percentage points — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related

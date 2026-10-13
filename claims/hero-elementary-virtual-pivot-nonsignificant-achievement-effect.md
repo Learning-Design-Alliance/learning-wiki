@@ -43,7 +43,7 @@ Multi-site cluster randomized design assigning 34 second-grade classrooms (n = 8
 
 
 ## Related Claims
-- [The study enrolled 34 second-grade teachers with 810 students across 20 California schools, with 318 students completing both assessments in the impact sample.](hero-elementary-multisite-cluster-randomized-design-34-teachers.md) — related
+- The study enrolled 34 second-grade teachers with 810 students across 20 California schools, with 318 students completing both assessments in the impact sample. — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — related

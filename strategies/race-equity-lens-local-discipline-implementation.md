@@ -17,7 +17,7 @@ sources:
 # Embed a race-equity lens in all local discipline actions and invest in supportive personnel over school police
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 qualitative, 1 design), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 For local implementation, the brief says all adults in schools and districts should develop a race equity lens, because "using an approach that is racially and culturally conscious is the key to addressing disparities in discipline." District leaders should use the Alliance for Resource Equity diagnostic tool and positive school climate guidebook, asking whether each student experiences a safe school with transparent, culturally sensitive, consistently enforced rules, and should replace school resource officers with counselors, social workers, psychologists, and trauma-informed and restorative practices.
@@ -35,6 +35,12 @@ For local implementation, the brief says all adults in schools and districts sho
 
 ### Target Learning Goals
 - Fair and positive discipline implementation; positive and inviting school climates
+
+## Claims
+
+- [Only about half of students in the two studied districts reported feeling safer in school when police are present, and many preferred confiding in a non-security adult](../claims/only-half-students-feel-safer-with-police-present.md) [+W]
+- [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](../claims/sros-associated-with-higher-exclusionary-discipline.md) [+W]
+- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](../claims/disproportionate-discipline-and-sro-placement.md) [+W]
 
 ## Related Strategies
 

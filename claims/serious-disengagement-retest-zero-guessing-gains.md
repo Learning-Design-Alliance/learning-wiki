@@ -45,6 +45,6 @@ Observational analysis of same-day retests shown in Figures 1-4: students seriou
 ## Related Claims
 - [Test-taking disengagement frequently differs between a MAP Growth initial test and a same-day retest](disengagement-differs-initial-test-versus-retest.md) — related
 - [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related
-- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guesses-in-scoring-distort-scores.md) — related
+- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge](rapid-guessing-reflects-disengagement-not-lack-of-knowledge.md) — a broader claim this one bears on
 - [Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines](retest-engagement-gains-map-growth.md) — a broader claim this one bears on

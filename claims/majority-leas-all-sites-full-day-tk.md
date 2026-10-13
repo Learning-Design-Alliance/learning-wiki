@@ -43,7 +43,7 @@ Survey analysis of 1,108 LEAs (N = 1,108; response rate = 100% for this item). O
 
 
 ## Related Claims
-- [California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments](four-largest-districts-comprehensive-upk.md) — related
+- California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments — related
 - [Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs](full-day-tk-and-expanded-day-by-lea-size.md) — related
 - [Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day](full-day-tk-and-expanded-learning-offerings.md) — related
 - [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related

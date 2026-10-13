@@ -17,7 +17,7 @@ sources:
 # Continue examining the FFL's statistical properties, especially score variation, during statewide implementation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends that as Pennsylvania's Framework for Leadership moves from pilot to statewide use, evidence on its statistical properties should keep being examined. It states: "As the FFL is implemented statewide, continued examination of evidence on its statistical properties, especially the variation in scores, is important." This follows pilot findings of limited score variation.
@@ -35,6 +35,12 @@ The report recommends that as Pennsylvania's Framework for Leadership moves from
 
 ### Target Learning Goals
 - accurate evaluation of school leadership practices
+
+## Claims
+
+- [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](../claims/ffl-middle-school-only-value-added-association.md) [~W]
+- [Most variation in teacher evaluation scores is within schools rather than between schools](../claims/within-school-variation-dominates-teacher-evaluation-scores.md) [+W]
+- [School leaders' FFL scores are moderately stable year to year (correlation of .54)](../claims/ffl-moderate-year-to-year-stability.md) [+W]
 
 ## Related Strategies
 

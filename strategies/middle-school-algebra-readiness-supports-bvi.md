@@ -17,7 +17,7 @@ sources:
 # Begin targeted math support for BVI students in middle school, focusing on algebra-predictive topics with systematic differentiated instruction and inclusive assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends starting support for BVI students' propensity to lag in mathematics in middle school, because success in algebra is a predictor for future college and career success. Teachers must know students' ongoing needs and adapt in a timely manner, combining systematic differentiated instruction with inclusive assessments that meet every test taker at their zone of proximal development and use a growth point framework. The most predictive middle school topics named are expressions and equations, and properties of the natural number set as they operate in rational and integer number sets.
@@ -36,6 +36,10 @@ The review recommends starting support for BVI students' propensity to lag in ma
 
 ### Target Learning Goals
 - Algebra readiness, including expressions and equations and properties of number sets
+
+## Claims
+
+- [Algebra and Algebraic Thinking is the strongest longitudinal predictor of other mathematics domains and of overall Grade 3 performance, followed by Number and Operations](../claims/algebra-domain-strongest-predictor-early-math.md) [+W]
 
 ## Related Strategies
 - 

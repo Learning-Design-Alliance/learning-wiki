@@ -17,7 +17,7 @@ sources:
 # Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report distills its participation findings into recommendations for internet-access programs. It concludes "Using economic indicators to prioritize students worked for Chicago Connected; students with lower economic means were more likely to participate in the program," and adds that "Programs could use the information on household size and prioritize households with more family members in addition to economic indicators." It also recommends targeting dissemination to schools with low family engagement, since students there were less likely to participate.
@@ -37,6 +37,13 @@ The report distills its participation findings into recommendations for internet
 
 ### Target Learning Goals
 - Remove internet-access barriers to online learning and remote education
+
+## Claims
+
+- [Participation rates rose with eligibility index score, reflecting program prioritization](../claims/chicago-connected-participation-rose-with-eligibility-index.md) [~W]
+- [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](../claims/school-characteristics-chicago-connected-participation.md) [+W]
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](../claims/covid-stem-tech-access-inequity.md) [+W]
+- [Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences](../claims/race-ethnicity-participation-differences-chicago-connected.md) [+W]
 
 ## Related Strategies
 

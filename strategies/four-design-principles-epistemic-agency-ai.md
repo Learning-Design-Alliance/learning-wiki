@@ -17,7 +17,7 @@ sources:
 # Four design principles for educational AI that empowers epistemic agency rather than passive offloading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the tension between system efficiency and regulatory engagement, the article proposes four design principles for educational AI: prioritizing dialogic tension over seamless efficiency, enabling proactive co-regulation capabilities, embedding metacognitive diagnostics and scaffolding, and cultivating a synergistic co-constructive ecology. The first principle states: "prioritize dialogic tension over seamless efficiency in complex tasks emphasizing innovation or critical synthesis." Concrete mechanisms include strategically designed decoupling (alternating abstraction and concretion, introducing counterexamples), AI-initiated reflection prompts, adaptive metacognitive scaffolds, and an inner-loop/outer-loop division between AI questioning and human instructor guidance.
@@ -40,6 +40,10 @@ Based on the tension between system efficiency and regulatory engagement, the ar
 
 ### Affordances
 - Ha Cord Model
+
+## Claims
+
+- [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](../claims/ai-role-collaborative-learning-undertheorized.md) [~W]
 
 ## Related Strategies
 

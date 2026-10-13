@@ -17,7 +17,7 @@ sources:
 # Teach the pedagogical rationale behind AI policies rather than only stating rules
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that AI policy and educational practice move beyond articulating rules and instead help students understand why the policies exist, including why honest representation of one's own knowledge matters for learning and assessment. The recommendation rests on the finding that students' rationalizations show they are unaware of the implicit social contract in which students are honest about what they know, and that AI use blurs the boundary between student and AI work in ways instructors cannot assess. Making the rationale explicit is offered as a key intervention for higher education.
@@ -35,6 +35,10 @@ The article recommends that AI policy and educational practice move beyond artic
 
 ### Target Learning Goals
 - honest self-representation of knowledge; understanding why AI policies support learning
+
+## Claims
+
+- [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](../claims/existing-ai-guidance-focuses-policy-integrity.md) [+W]
 
 ## Related Strategies
 

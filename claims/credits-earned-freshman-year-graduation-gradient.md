@@ -44,5 +44,5 @@ Observational analysis of the fall 2000 CPS cohort by credits earned, reported w
 
 ## Related Claims
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
-- [More than 95 percent of Chicago freshmen with a B average or better graduate within four years](freshman-b-average-95-percent-graduate.md) — related
+- More than 95 percent of Chicago freshmen with a B average or better graduate within four years — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related

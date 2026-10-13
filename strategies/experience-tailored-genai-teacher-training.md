@@ -17,7 +17,7 @@ sources:
 # Tailor institutional GenAI training to teachers' prior GenAI use experience
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends differentiating professional training by teachers' existing GenAI experience: novices are introduced to GenAI's pedagogical potential, while experienced teachers receive support with practical strategies. It states "Institutions could tailor training to teachers’ GenAI use experience, with novices introduced to pedagogical potential and experienced teachers supported with practical strategies." This two-track design addresses the varied adoption the study documents.
@@ -37,6 +37,10 @@ The article recommends differentiating professional training by teachers' existi
 ### Target Learning Goals
 - Understanding GenAI's pedagogical potential
 - Practical strategies for GenAI use in teaching
+
+## Claims
+
+- [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](../claims/pr-teachers-dissatisfied-pd-want-tailored-workshops.md) [+W]
 
 ## Related Strategies
 

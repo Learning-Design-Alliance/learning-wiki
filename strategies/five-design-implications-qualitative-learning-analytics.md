@@ -17,7 +17,7 @@ sources:
 # Five design implications for qualitative learning analytics tools: unify creation and extraction, transparent encodings, preserve rare responses, flexible units of analysis, frequency as entry point
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors translate their integrated findings into five design implications for tools bringing quantitative technique into qualitative learning analytics: enable custom data uploads with insight extraction, make encoding choices transparent and controllable, preserve rare but critical responses, support flexible units of analysis, and use frequency as an entry point instead of an endpoint. They offer these "as suggestions for future WordStream-style and quantitative-based tools rather than as validated solutions". Each pairs participant evidence with a concrete design suggestion.
@@ -35,6 +35,10 @@ The authors translate their integrated findings into five design implications fo
 
 ### Target Learning Goals
 - Integrating quantitative technique with qualitative analysis of student writing in learning analytics
+
+## Claims
+
+- [Participants held an unresolved epistemological dissensus over whether frequency-based encoding can represent qualitative meaning, ranging from skepticism to enthusiasm](../claims/epistemological-dissensus-frequency-encoding.md) [~W]
 
 ## Related Strategies
 - 

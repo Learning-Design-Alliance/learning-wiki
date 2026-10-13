@@ -17,7 +17,7 @@ sources:
 # Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that effective AI integration in science education requires systemic support rather than attitude change alone. It concludes that "effective AI integration requires enhanced digital infrastructure, targeted professional development, and supportive institutional policies to bridge the gap between intention and practice", and that policies should "prioritise capacity building, practical training, and supportive structures". The recommendation rests on the finding that positive perceptions and intentions coexisted with only moderate actual classroom use.
@@ -35,6 +35,12 @@ The article recommends that effective AI integration in science education requir
 
 ### Target Learning Goals
 - sustained classroom integration of AI in science teaching
+
+## Claims
+
+- [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](../claims/intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) [+W]
+- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](../claims/institutional-barriers-ai-integration.md) [+W]
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](../claims/ai-training-and-policy-awareness-gaps-students.md) [+W]
 
 ## Related Strategies
 

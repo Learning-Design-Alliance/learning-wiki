@@ -50,7 +50,6 @@ The report's headline experimental finding compares lottery-based charter middle
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — reports the opposite
 - [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
-- [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-offer-and-attendance-impacts-both-negative-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — a broader claim this one bears on
 - [Neither the hopes of voucher and charter supporters nor the fears of skeptics have been realized, per the authors' synthesis](voucher-charter-neither-hopes-nor-fears-realized.md) — a broader claim this one bears on
 - [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — reports the opposite

@@ -16,7 +16,7 @@ sources:
 # Three strategic actions: build awareness of underrepresentation, invest in accessible pathways, and prioritize retention strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The scan's executive summary distills its findings into three actions for technology industry contributors: (1) build awareness of underrepresentation and disparities, including advocating for data transparency and accountability measures; (2) advocate for and invest in organizations, policies, and partnerships improving accessibility of technology education, training, and career entry; and (3) continuously prioritize, utilize, and analyze retention strategies to sustain and advance Black learners and workers. The report states that "Advocating for data transparency (e.g., releasing employee diversity data) and accountability measures across every level of the technology learning and workforce ecosystem is essential to building awareness and understanding of these barriers."
@@ -35,6 +35,10 @@ The scan's executive summary distills its findings into three actions for techno
 ### Target Learning Goals
 - Sustained motivation and persistence in technology career pathways
 - Equitable entry, retention, and advancement in technology careers
+
+## Claims
+
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](../claims/black-tech-awareness-exploration-barriers.md) [+W]
 
 ## Related Strategies
 

@@ -44,5 +44,5 @@ Analysis of 2023/24 NDE course enrollment data for grades 6–8 (192,661 total C
 
 ## Related Claims
 - [The state-developed Middle School Engage! Career Exploration and Readiness course was underutilized, accounting for just 0.4 percent of statewide enrollments](nebraska-engage-career-exploration-course-underutilized.md) — related
-- [Middle school CTE enrollments in Nebraska were concentrated in a handful of courses, with 10 courses accounting for 76 percent and Middle School Career Development alone 22 percent](nebraska-middle-cte-enrollments-concentrated-ten-courses.md) — related
-- [Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent)](nebraska-middle-cte-enrollment-grade-distribution.md) — related
+- Middle school CTE enrollments in Nebraska were concentrated in a handful of courses, with 10 courses accounting for 76 percent and Middle School Career Development alone 22 percent — related
+- Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent) — related

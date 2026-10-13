@@ -45,7 +45,7 @@ Observational analysis of 2017-18 Civil Rights Data Collection data categorizing
 ## Related Claims
 - [Black students are more likely than non-Black students to attend schools with high percentages of novice teachers](black-students-high-novice-schools-likelihood.md) — related
 - [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](nc-unequal-access-non-novice-teachers.md) — related
-- [Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers](latino-students-novice-uncertified-teacher-disparities-louisiana.md) — a narrower finding that bears on this claim
+- Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers — a narrower finding that bears on this claim
 - [In seven states, Latino students are more likely to attend schools with high percentages of uncertified teachers](seven-states-latino-students-uncertified-teachers.md) — related
 - [In Rhode Island, Pennsylvania, and Washington, Latino students are 2 to 3 times more likely to attend schools with high percentages of novice teachers](latino-students-two-to-three-times-high-novice-schools-three-states.md) — related
 - [Whether disparities in Latino students' access to novice teachers arise between districts or within districts varies widely by state](between-versus-within-district-novice-teacher-disparities-vary-by-state.md) — related

@@ -17,7 +17,7 @@ sources:
 # Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that institutions conceptualize AI literacy development as a core dimension of faculty professionalism rather than a merely technical skill. It states: "Professional development programs should emphasize critical understanding, ethical reasoning, and pedagogical innovation in AI use", aligning with UNESCO's view that AI competency underpins equitable, human-centered digital transformation. Related recommendations include multi-layered institutional support combining infrastructure with emotional and professional support, and well-being-centered AI governance.
@@ -35,6 +35,10 @@ The article recommends that institutions conceptualize AI literacy development a
 
 ### Target Learning Goals
 - Faculty AI literacy, ethical reasoning about AI, and pedagogical innovation with AI
+
+## Claims
+
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
 
 ## Related Strategies
 

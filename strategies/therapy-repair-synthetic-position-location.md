@@ -17,7 +17,7 @@ sources:
 # Diagnostic and repair strategy in constructivist therapy: locate where the synthetic position sits and return it to an ordinary voice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For constructivist and dialogical therapy, the article adds a diagnostic question — "where in the client's society of mind has the synthetic position come to sit, and has it been installed as the promoter?" Where it has, the aim is repair of location rather than abstinence: helping the client re-occupy the meta- and promoter positions, re-anchoring counter-positions in lived relationships, and returning the system to the rank of an ordinary voice that may be consulted and must be answered.
@@ -38,6 +38,10 @@ For constructivist and dialogical therapy, the article adds a diagnostic questio
 
 ### Affordances
 - Authorial Suspension Construct
+
+## Claims
+
+- [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](../claims/synthetic-promotion-cedes-promoter-function.md) [+W]
 
 ## Related Strategies
 

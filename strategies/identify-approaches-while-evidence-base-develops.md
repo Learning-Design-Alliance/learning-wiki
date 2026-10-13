@@ -17,7 +17,7 @@ sources:
 # Use a systematic approach to identify dropout-prevention approaches for program developers while the scientific basis for new programs is still being built
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter proposes that program developers should not wait for a complete evidence base before acting. Instead, it "suggests a way to identify approaches that program developers can use while efforts to develop a stronger scientific basis for new programs continue," pairing development activity with ongoing evidence building.
@@ -35,6 +35,10 @@ The chapter proposes that program developers should not wait for a complete evid
 
 ### Target Learning Goals
 - increasing school persistence and graduation among at-risk students
+
+## Claims
+
+- [The evidence base does not yet provide a menu of program options for helping students at risk of dropping out, and program developers need a way to identify approaches while stronger scientific evidence is developed](../claims/no-menu-of-dropout-prevention-program-options-yet.md) [+W]
 
 ## Related Strategies
 - 

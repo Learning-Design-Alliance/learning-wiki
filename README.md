@@ -16,7 +16,7 @@ Page counts are regenerated with every index rebuild.
 
 | Type | Pages | Description |
 |------|-------|-------------|
-| [Principles](principles/) | 376 | Research-backed design commitments: what to do and why. |
+| [Principles](principles/) | 377 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 1,080 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 126 | Reusable instructional designs at the lesson or unit level. |
 | [Designs](designs/) | 715 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
@@ -26,8 +26,8 @@ Page counts are regenerated with every index rebuild.
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 423 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,372 | Explanatory frameworks that ground principles and claims. |
-| [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 18,165 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Learner Variables](learner-variables/) | 14 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
+| [Claims](claims/) | 17,785 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

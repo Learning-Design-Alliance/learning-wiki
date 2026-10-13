@@ -17,7 +17,7 @@ sources:
 # Provide clear, comprehensive state guidance on Prop 28 AMS eligible expenses, waivers, and school-community collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report concludes that additional guidance is needed so Prop 28 AMS funds are optimally utilized for students and accessible arts education. It states that "Additional guidance is needed to ensure Prop 28 AMS funds are optimally utilized to benefit students and provide accessible arts education in schools across California." Specific guidance should define eligible expenses, support districts seeking waivers to spend more than 20% on equipment and supplies, assist smaller districts, and foster strategic collaboration between schools and community organizations, plus professional development for administrators and educators on new funding structures.
@@ -37,6 +37,10 @@ The report concludes that additional guidance is needed so Prop 28 AMS funds are
 ### Target Learning Goals
 - effective and equitable allocation of dedicated arts education funding
 - sustained school-community arts partnerships
+
+## Claims
+
+- [Confusion about allowable Prop 28 AMS expenses at school and district levels has reduced funding directed to community arts organizations](../claims/prop28-confusion-reduced-funding-to-arts-organizations.md) [+W]
 
 ## Related Strategies
 

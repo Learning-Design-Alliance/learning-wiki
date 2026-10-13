@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: modality-effect-narration-over-text
-aliases: [modality-principle-narration-beats-on-screen-text, modality-principle-spoken-narration-beats-on-screen-text]
+aliases: [modality-principle-narration-beats-on-screen-text, modality-principle-spoken-narration-beats-on-screen-text, modality-effect-audio-with-visuals-improves-learning, modality-effect-overall-audio-visual-advantage]
 evidence_strength: unrated
 sources:
   - id: ginns-2005
@@ -27,12 +27,20 @@ sources:
     n: 146
     kind: causal
     rigour: "?"
+  - id: noetel-2022
+    resource: "https://doi.org/10.3102/00346543211052329"
+    title: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. Review of Educational Research. https://doi.org/10.3102/00346543211052329"
+    author: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C."
+    q: 3
+    i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Presenting words as spoken narration rather than on-screen text alongside graphics improves learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Evidence** · 3 studies · 2 quant-synthesis `r3`, 1 causal `r?` · `q3`–`q4` · `i1` small
 
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 
@@ -41,6 +49,10 @@ Presenting words as spoken narration rather than on-screen text — alongside gr
 `q4 i?` A meta-analysis of 43 independent effects found that presenting words as audio narration rather than on-screen text alongside graphics improved learning, with the benefit moderated by element interactivity, pacing, and field of study. [→ Ginns 2005](#ginns-2005)
 
 `q3 i?` College students who heard words narrated aurally alongside computer-presented animation integrated words and pictures more easily than students who read the same words as on-screen text. [→ Mayer and Moreno 1998](#mayer-and-moreno-1998)
+
+`q3 i1` The larger modality review found moderate learning benefits (g = 0.38), reduced to g = 0.20 after accounting for publication bias. [→ Noetel 2022](#noetel-2022)
+
+`q3 i2` Across 39 between-subjects experiments, presenting textual information in auditory mode alongside visual graphics produced a moderate-to-large learning advantage (d = 0.72) over fully visual presentation. [→ Ginns 2005](#ginns-2005)
 
 ## Evidence
 
@@ -52,6 +64,18 @@ Ginns, P. (2005). Meta-analysis of the modality effect. *Learning and Instructio
 
 A meta-analysis of the modality effect literature, pooling 43 independent effects (39 between-subjects designs, 4 within-subjects designs) comparing visual-plus-narration presentations against visual-plus-on-screen-text presentations. The major hypotheses about the instructional benefit of splitting text and graphics across the auditory and visual channels were supported, and the size of the benefit was moderated by level of element interactivity (material complexity) and by whether presentation was system-paced or learner-paced, and varied between fields of study. The strongest effect appeared under system-paced conditions, where visual-channel overload is most acute — consistent with [Cognitive Load Theory](../theories/cognitive-load-theory.md)'s account of the effect.
 
+<!-- merged 2026-10-13 from modality-effect-overall-audio-visual-advantage: that page's entry for this study, which differed from the one above, kept verbatim.
+### Ginns 2005
+
+Ginns, P. (2005). Meta-analysis of the modality effect. Learning and Instruction, 15(4), 313-331. https://doi.org/10.1016/j.learninstruc.2005.07.001
+
+`q3 · i2` · `quant-synthesis · r2`
+
+Meta-analysis of 39 between-group experiments with random assignment, representing 1887 students, using random-effects weighted means. The overall weighted mean effect size was "moderate to large, d = 0.72 (95% confidence interval 0.52 - 0.92)"; homogeneity testing (Q = 188.12, df = 38, p < 0.001) indicated moderators conditioned the effect.
+
+> "Using Cohen's (1988) criteria for effect size magnitude, the overall weighted mean effect size of between-subjects study effects was moderate to large, d = 0.72 (95% confidence interval 0.52 - 0.92)."
+-->
+
 ### Mayer and Moreno 1998
 
 Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learning: Evidence for dual processing systems in working memory. *Journal of Educational Psychology, 90*(2), 312–320. [doi:10.1037/0022-0663.90.2.312](https://doi.org/10.1037/0022-0663.90.2.312)
@@ -59,6 +83,16 @@ Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learni
 `q3 · peer-reviewed experiment` · `i? · no effect size available in what was read` · `n=146` · `causal · r?`
 
 An experiment with 146 college students learning from a computer-based animation of lightning formation. Learners who heard the explanatory words as spoken narration alongside the animation were able to integrate the verbal and pictorial material more easily than learners who read the identical words as on-screen text alongside the same animation — the split-attention/modality effect the meta-analysis above later synthesized across studies. The authors interpret the result as evidence for a dual-channel (auditory/visual) working-memory architecture rather than a single visual-processing bottleneck.
+
+### Noetel 2022
+
+Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. Review of Educational Research. https://doi.org/10.3102/00346543211052329
+
+`q3 · i1` · `quant-synthesis · r3`
+
+Synthesis of two reviews of the modality effect (Ginns, 2005; Reinwein, 2012); the larger review (Reinwein, 2012, k = 86) found moderate benefits (g = 0.38), which remained significant but smaller (g = 0.20) after publication-bias correction. Eye-tracking studies showed omitting text for spoken words increased attention to images and learning.
+
+> "The larger of these reviews found moderate benefits on learning (g = 0.38, 95% CI [0.33, 0.43], k = 86; Reinwein, 2012). Effects were smaller, but still significant, when statistically accounting for publication bias (g = 0.20, 95% CI [0.15, 0.25], k = 86; Reinwein, 2012)"
 
 ## Discussion
 
@@ -117,9 +151,7 @@ Open questions include how the effect interacts with learner control over pacing
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — related
 - [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — a broader claim this one bears on
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
-- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-audio-with-visuals-improves-learning.md) — possibly the same claim (merge candidate)
 - [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related
 - [Presentation pacing moderates the modality effect: strong under system-paced conditions, reversed under self-paced conditions](modality-effect-moderated-by-pacing.md) — a narrower finding that bears on this claim
-- [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-overall-audio-visual-advantage.md) — possibly the same claim (merge candidate)
 - [The modality effect is particularly strong for students learning through virtual reality media](modality-effect-stronger-in-virtual-reality.md) — a narrower finding that bears on this claim
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related

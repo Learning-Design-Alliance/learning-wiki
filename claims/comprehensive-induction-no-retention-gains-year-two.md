@@ -45,7 +45,6 @@ Second-year findings from the national randomized controlled evaluation comparin
 ## Related Claims
 - [Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction](comprehensive-induction-no-retained-teacher-qualification-gains.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
-- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — a broader claim this one bears on
 - [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related

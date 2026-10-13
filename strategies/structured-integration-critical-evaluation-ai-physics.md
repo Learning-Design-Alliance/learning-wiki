@@ -17,7 +17,7 @@ sources:
 # Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the cross-study patterns, the review recommends that the educational value of AI in university physics depends on how AI is integrated into learning activities rather than on access to the technology alone. The review identifies "instructional structure, alignment between AI-supported activities and learning tasks, students' disciplinary knowledge, and opportunities to critically evaluate AI outputs" as the conditions shaping educational use, and stresses that "students and instructors retain responsibility for reasoning, evaluation, and pedagogical decision-making." Implementation conditions named include reliable access to AI tools, digital and AI literacy, verification of generated content, and appropriate instructional guidance.
@@ -40,6 +40,10 @@ Based on the cross-study patterns, the review recommends that the educational va
 
 ### Affordances
 - Five Domain Ai Physics Synthesis Framework
+
+## Claims
+
+- [Activity-Technology alignment is the weakest quality dimension across all agents (mean = 2.19), identifying technology integration as a universal challenge](../claims/activity-technology-alignment-weakest-dimension.md) [~W]
 
 ## Related Strategies
 

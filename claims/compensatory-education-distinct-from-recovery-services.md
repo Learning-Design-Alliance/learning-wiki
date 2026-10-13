@@ -43,4 +43,4 @@ A definitional/legal statement in the document's legal considerations section, w
 
 
 ## Related Claims
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](2022-23-achievement-stalled-pandemic-recovery.md) — related

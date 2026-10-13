@@ -44,13 +44,10 @@ The page lists a NWEA trends snapshot titled "Trend Snapshots: Math Recovery Con
 
 ## Related Claims
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](map-growth-reading-improvements-after-stagnation.md) — related
+- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](map-growth-reading-turnaround-2025-2026.md) — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — a narrower finding that bears on this claim
 - [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — a narrower finding that bears on this claim
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
-- [MAP Growth data show reading improvements after a period of post-COVID stagnation, with the largest 2025-2026 gains among historically underserved groups](reading-improvements-after-post-covid-stagnation.md) — reports the opposite
-- [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with the largest 2025–2026 gains among historically underserved groups](map-growth-reading-turnaround-2025-2026-underserved-gains.md) — reports the opposite
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
-- [MAP Growth data show U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-improvement-post-covid-trends-2025-2026.md) — reports the opposite
 - [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — related

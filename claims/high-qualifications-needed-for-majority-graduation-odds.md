@@ -43,6 +43,6 @@ Analysis of CPS graduating classes of 2003-09 (n=112,096): students with GPAs ab
 
 
 ## Related Claims
-- [CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56](cps-academic-qualifications-trend-2003-2015.md) — related
+- CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56 — related
 - [Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications](college-match-benefits-rise-with-qualifications.md) — related
 - [The modal post-graduation outcome for CPS graduates with very low college qualifications is neither working nor in school](low-qualification-graduates-out-of-options.md) — related

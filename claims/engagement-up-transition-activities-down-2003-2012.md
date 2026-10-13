@@ -44,11 +44,11 @@ Decade-trend finding from the NLTS 2012 brief comparing 2003 and 2012 survey wav
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
 - [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — possibly the same claim (merge candidate)
-- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
-- [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
+- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
 - [Among 2012 disability groups, youth with intellectual disability, autism, deaf-blindness, multiple disabilities, and orthopedic impairments were most at-risk in preparation for life after high school](five-disability-groups-most-at-risk-transition-preparation.md) — related

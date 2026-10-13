@@ -12,7 +12,7 @@ generated:
 # Temperature Regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 3 claims (3 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Temperature regulation is the deliberate management of ambient temperature in learning environments so that thermal discomfort does not consume cognitive and attentional resources needed for learning. Field research in schools shows that both overheating and excessive cooling degrade performance on reading and mathematics tasks, with the steepest effects above roughly 24°C [Wargocki & Wyon demonstrated classroom temperature reductions improved academic performance.](https://doi.org/10.1016/j.buildenv.2013.01.001) [+S]. Because thermal discomfort operates as a continuous low-level distractor, it is best treated as a baseline environmental condition to be engineered in advance rather than a teaching strategy to be applied mid-lesson.
@@ -54,6 +54,11 @@ Thermal discomfort competes for attention and working memory, adding extraneous 
 3. Pair any temperature intervention with adequate outdoor air supply; never cool a room by starving its ventilation [Wargocki & Wyon demonstrated classroom temperature reductions improved academic performance.](https://doi.org/10.1016/j.buildenv.2013.01.001) [-M].
 4. Use passive measures (shading, fans, flexible dress codes) before capital-intensive retrofits.
 5. Schedule cognitively demanding activities and assessments during the coolest part of the day in unconditioned buildings [Heat exposure without air conditioning reduces cognitive performance in students.](https://doi.org/10.1371/journal.pmed.1002605) [+W].
+
+## Claims
+
+- [Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents](../claims/hot-test-days-lower-math-reading-performance.md) [+W]
+- [Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students](../claims/heat-exposure-racial-learning-disparities.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other continuous environmental distractor; both should be engineered at baseline

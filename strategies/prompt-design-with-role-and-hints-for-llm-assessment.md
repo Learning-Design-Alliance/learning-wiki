@@ -17,7 +17,7 @@ sources:
 # Achieve high-precision automated constructive assessment through prompt design alone—explicit role assignment plus human-scored hint examples—without fine-tuning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's method achieves automated problem generation, scoring, and feedback "solely through prompt design without retraining." Prompts assign a professional role (e.g., "You are a professional grader of case methods"), state scoring criteria explicitly, and—critically—include multiple correct and incorrect example answers from human scoring. The hint examples stabilized GPT-4o's judgments to match human scoring, whereas criteria-only prompts produced unstable, over-interpreting behavior. Scoring was repeated nine times with majority vote for robustness.
@@ -41,6 +41,10 @@ The article's method achieves automated problem generation, scoring, and feedbac
 
 ### Affordances
 - [Hierarchical Diagnostic Reasoning Hdr](../products/hierarchical-diagnostic-reasoning-hdr.md)
+
+## Claims
+
+- [A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)](../claims/task-specific-prompt-beats-pedcot-prompting.md) [~W]
 
 ## Related Strategies
 

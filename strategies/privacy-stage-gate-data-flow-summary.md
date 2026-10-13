@@ -17,7 +17,7 @@ sources:
 # Make privacy a release criterion with a stage-gate data-flow summary before student-facing deployment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that "privacy should become a release criterion rather than a documentation exercise." A practical stage-gate requires a one-page data-flow summary completed by the feature owner before student-facing deployment: what data is collected, which third parties receive it, whether it is retained or used for model training, what automated decisions occur, and who owns incident response. Just-in-time notices should make third-party transfer and model-training use visible at the point of action for AI features.
@@ -38,6 +38,10 @@ The article recommends that "privacy should become a release criterion rather th
 
 ### Affordances
 - Privacy Deferral Cycle Edtech
+
+## Claims
+
+- [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](../claims/edtech-privacy-responsibility-delegated-diffused.md) [+W]
 
 ## Related Strategies
 

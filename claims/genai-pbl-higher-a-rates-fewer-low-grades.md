@@ -43,4 +43,4 @@ Historical cohort comparison of grade distributions before (2016–2017, 2020) v
 
 
 ## Related Claims
-- [The grade-distribution shift remained significant after excluding the pandemic-affected year](grade-shift-robust-excluding-covid-year.md) — a narrower finding that bears on this claim
+- The grade-distribution shift remained significant after excluding the pandemic-affected year — a narrower finding that bears on this claim

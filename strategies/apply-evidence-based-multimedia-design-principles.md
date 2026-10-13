@@ -17,7 +17,7 @@ sources:
 # Educators should apply evidence-based multimedia design principles, prioritising the largest-effect strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (9 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 3 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 The article closes by highlighting "a range of evidence-based strategies that could be implemented by educators", drawn from the meta-meta-analytic comparison of design principles on a common metric. Educators and instructional designers can implement captioning for second-language video, integrated (contiguous) layouts, signaling, spoken rather than on-screen text when images accompany content, segmenting, personalisation, and removal of seductive details, matching the strategy to the medium's pacing and complexity.
@@ -46,7 +46,7 @@ The article closes by highlighting "a range of evidence-based strategies that co
 - [Presenting related material contiguously in space and time yields large learning benefits](../claims/contiguity-spatial-temporal-large-learning-benefits.md) [+W]
 - [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](../claims/design-principle-effects-moderated-by-pacing-and-complexity.md) [+W]
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](../claims/design-principles-improve-cognitive-load-management.md) [+W]
-- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-audio-with-visuals-improves-learning.md) [+W]
+- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-narration-over-text.md) [+W]
 - [Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles](../claims/multimedia-design-principles-improve-learning-overall.md) [+W]
 - [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+M]
 - [Signaling principle: highlighting essential words improves transfer from multimedia lessons](../claims/signaling-principle-mayer-2008.md) [+W]

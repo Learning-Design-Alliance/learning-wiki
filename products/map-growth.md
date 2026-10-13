@@ -118,7 +118,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 80 claims (77 for, 3 mixed) · 33 studies (25 associational, 3 design, 3 theoretical, 2 causal), `q1`–`q3` · 3 of 33 report an effect size · 78 claims rest on one study
+> **Evidence** · 79 claims (76 for, 3 mixed) · 34 studies (25 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 3 of 34 report an effect size · 75 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -221,7 +221,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](../claims/marginalized-students-furthest-from-recovery-2023-24.md) [+W]
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](../claims/chronic-absenteeism-slower-recovery-2000-districts.md) [+W]
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](../claims/chronic-absenteeism-impediment-academic-recovery.md) [+W]
-- [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](../claims/chronic-absenteeism-academic-recovery-relationship.md) [+W]
+- [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](../claims/chronic-absenteeism-impediment-academic-recovery.md) [+W]
 - [Seasonal patterns are discrepant across national data sets](../claims/discrepant-seasonal-patterns-national-data-sets.md) [+W]
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](../claims/seasonal-comparisons-test-schooling-inequality-mechanism.md) [+W]
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](../claims/seasonal-studies-limited-categories-early-grades.md) [~W]
@@ -1356,7 +1356,7 @@ A research brief by Sofia Postell, Emily Morton, and Megan Kuhfeld examining how
 - [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](../claims/chronic-absenteeism-associated-slower-covid-recovery.md) [+W]
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](../claims/chronic-absenteeism-slower-recovery-2000-districts.md) [+W]
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](../claims/chronic-absenteeism-impediment-academic-recovery.md) [+W]
-- [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](../claims/chronic-absenteeism-academic-recovery-relationship.md) [+W]
+- [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](../claims/chronic-absenteeism-impediment-academic-recovery.md) [+W]
 
 ## Related Elements
 

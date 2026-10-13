@@ -67,7 +67,7 @@ A parallel table compares Latino and non-Latino students: 20% versus 9% attend s
 - [Black students in Michigan were more likely than non-Black students to attend schools with high percentages of novice teachers (18% vs 8%)](michigan-black-students-novice-teacher-disparity.md) — related
 - [In Texas, students of color are more likely than their peers to attend schools with high percentages of novice and uncertified teachers](texas-students-of-color-novice-uncertified-teachers.md) — related
 - [Black students are more likely than non-Black students to attend schools with high percentages of novice teachers](black-students-high-novice-schools-likelihood.md) — a broader claim this one bears on
-- [Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers](latino-students-novice-uncertified-teacher-disparities-louisiana.md) — related
+- Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers — related
 - [In eight states, more than 25% of Latino students attend schools with high percentages of novice teachers](eight-states-quarter-latino-students-high-novice-schools.md) — related
 - [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](nc-unequal-access-non-novice-teachers.md) — related
 - [In 32 of 41 states, Black students are more likely than non-Black peers to attend schools with high percentages of uncertified teachers](black-students-high-uncertified-schools-likelihood.md) — a broader claim this one bears on

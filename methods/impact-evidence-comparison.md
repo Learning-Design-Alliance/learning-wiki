@@ -18,7 +18,7 @@ sources:
 # Comparing learning intervention effects
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 The wiki's `i0`–`i3` codes are legacy Cohen-like bins for a printed statistic. They are not a scale of educational value or a prediction for an individual learner. In particular, an effect below d = .20 is not necessarily negligible for a broad achievement measure. Preserve the estimate, direction and uncertainty alongside its code.
 
@@ -63,3 +63,7 @@ observations:
 The controlled values for `population_band`, `outcome_class`, `unit` and `assignment` are defined in `evidence-dimensions.json` at the wiki root, with the rest of the shared vocabulary for learners, goals, conditions and outcomes. The script derives assignment for randomized designs, and the metric, value, interval, horizon, comparator and objective, from the record itself, so none is written twice. `observation_lib` validates the block, and an unknown is a legal value. A claim page is never read for this: its `sources[]` is rebuilt by `sync_evidence_codes.py`, and one study backs several claims.
 
 This block illustrates field shape only; none of its sample values describes a particular study. `verified_against_source: true` requires the original source and the particular effect to be checked. Missing fields, an unreviewed synthesis, a researcher-designed test, a different outcome, or a negative effect receives **no automatic Kraft tier**. The script does not overwrite the legacy `i` code. A separate versioned migration can follow review of the eligible records.
+
+## Claims
+
+- [In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)](../claims/full-sample-nwea-ers-estimate-gap.md) [+W]

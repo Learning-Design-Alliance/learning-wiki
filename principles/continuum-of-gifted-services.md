@@ -17,7 +17,7 @@ sources:
 # Provide a continuum of gifted services and ensure teachers can differentiate instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that schools provide a continuum of services—from general enrichment for all students to curriculum differentiation, acceleration, advanced classes, talent development, and counseling—so gifted students achieve to their potential. It also stresses teacher competency in differentiation, noting "Studies reveal that teachers rarely differentiate instruction or make accommodations for gifted students," and that professional development may build the needed skills.
@@ -37,7 +37,9 @@ The brief recommends that schools provide a continuum of services—from general
 - Academic achievement to potential and retention in school
 
 ### Claims
+
 - Gifted Dropout Share [+M]
+- [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
 
 ## Related Principles
 

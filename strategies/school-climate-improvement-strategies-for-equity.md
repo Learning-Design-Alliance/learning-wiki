@@ -17,7 +17,7 @@ sources:
 # Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that because within-school racial gaps contribute most to the overall gap, much of the work should happen in individual schools or the communities they serve. Commonly employed strategies include "schoolwide approaches that involve all staff in establishing a positive behavior management system and student social and emotional learning approaches that rely on classroom social-skills instruction," plus restorative justice programs as alternatives to punitive discipline and transformative classroom management leveraging motivation and engagement.
@@ -38,6 +38,10 @@ The article recommends that because within-school racial gaps contribute most to
 
 ### Affordances
 - School Climate Four Themes Achievement Lever
+
+## Claims
+
+- [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](../claims/racial-school-climate-gap-students.md) [+W]
 
 ## Related Strategies
 

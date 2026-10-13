@@ -17,7 +17,7 @@ sources:
 # Three main options for securing new education revenues: better use of available funds, new tax revenues, and reduced tax expenditures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report identifies, from its interviews, three main options California can pursue to secure new education revenues. The first is to "Make full and better use of available funds," including reprioritizing the overall state budget and better leveraging federal dollars. The second is to raise new tax revenues by increasing tax rates, expanding the tax base, or making other changes to the tax structure. The third is to reduce tax expenditures, which include tax credits, deductions, incentives, and other tax breaks. The report then details specific approaches within each option that came up in multiple interviews.
@@ -35,6 +35,10 @@ The report identifies, from its interviews, three main options California can pu
 
 ### Target Learning Goals
 - Adequate funding to support student achievement and attainment across K–12, early education, and adjacent segments
+
+## Claims
+
+- [Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers](../claims/tailored-instruction-barriers-shallow-tax-support.md) [+W]
 
 ## Related Strategies
 - 

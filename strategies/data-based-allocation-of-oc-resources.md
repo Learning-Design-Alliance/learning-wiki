@@ -17,7 +17,7 @@ sources:
 # Leaders should make data-based decisions to allocate resources on strategic and/or general leadership and climate based on level of measurement, implementation-specificity, and attitudinal dimension
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's concluding recommendation is that school leaders use their findings to decide where to invest implementation-support resources. Because associations between organizational-context factors and implementer attitudes "varied significantly across levels of measurement (organizational or individual), specificity to implementa- tion (strategic or general), and attitudinal dimensions", leaders should "make data-based decisions to allocate resources on strategic and/or general leadership and climate" rather than assuming one factor works everywhere.
@@ -35,6 +35,11 @@ The article's concluding recommendation is that school leaders use their finding
 
 ### Target Learning Goals
 - Favorable implementer attitudes toward evidence-based practices to support implementation of universal prevention programs for youth mental health
+
+## Claims
+
+- [At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence](../claims/general-climate-moderates-strategic-climate-effect.md) [~W]
+- [At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence](../claims/individual-level-general-and-strategic-factors-attitudes.md) [+W]
 
 ## Related Strategies
 

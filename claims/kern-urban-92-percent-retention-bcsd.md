@@ -47,5 +47,4 @@ The executive summary reports the program's cumulative outcome: "Kern Urban has 
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — a broader claim this one bears on
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — a broader claim this one bears on
-- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — a broader claim this one bears on
-- [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — a broader claim this one bears on
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-graduates-higher-retention.md) — a broader claim this one bears on

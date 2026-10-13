@@ -17,7 +17,7 @@ sources:
 # Federal strategy for coherent ECE governance through a coordinating body, unified family referral services, and integrated data systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The whitepaper's fourth recommendation area addresses fragmented governance by proposing a coordinating strategy—such as a Children's Cabinet or renewed interagency policy board—to align federal, state, and local ECE programs, streamline fragmented programs, establish an information clearinghouse, and oversee data systems. It recommends one-time funding for a single statewide application covering child care subsidies, Head Start, state preschool, and other programs, unified waitlists across agencies, and streamlined federal data collection with unified reporting on availability, quality, segregation, and workforce compensation and qualifications disaggregated by race and ethnicity.
@@ -37,6 +37,12 @@ The whitepaper's fourth recommendation area addresses fragmented governance by p
 ### Target Learning Goals
 - coherent and navigable ECE systems
 - informed policy decisions based on comprehensive data
+
+## Claims
+
+- [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](../claims/ece-governance-fragmented-multi-agency.md) [+W]
+- [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](../claims/california-ece-fragmented-data-systems.md) [+W]
+- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](../claims/mixed-delivery-fragmentation-barriers.md) [+W]
 
 ## Related Strategies
 

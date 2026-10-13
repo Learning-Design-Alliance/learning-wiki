@@ -40,7 +40,7 @@ The article is a fact sheet produced for districts and schools addressing chroni
 
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](../claims/chronic-absenteeism-early-grades-importance-asserted.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](../claims/early-grades-chronic-absenteeism-risk-factors.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

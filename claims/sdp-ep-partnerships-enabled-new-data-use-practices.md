@@ -47,7 +47,6 @@ Key finding from the Year 2 descriptive implementation study, based on longitudi
 - [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
-- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-staff-placement-capacity-theory-of-action.md) — related
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related
 - [The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities](tsdl-three-lasting-accomplishments.md) — related
 - [The SEED Partnership Project developed three-year partnerships between national non-profits implementing evidence-based educator-preparation strategies and educational organizations seeking to apply lessons from that work](seed-partnership-project-knowledge-sharing-partnerships.md) — related

@@ -17,7 +17,7 @@ sources:
 # Federal policy should expand access to high-quality, integrated early care and education with quality assurance and adequate ECE educator compensation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief recommends building on federal ECE investments by expanding federal programs and providing matching funds to states for high-quality child care and preschool free for families making up to 200% of the federal poverty level, with sliding-scale subsidies so no family pays more than 7% of income. As a funding condition, states would implement quality assurance systems, design racially and socioeconomically integrated programs, support dual language learners and children with disabilities, and adequately compensate ECE educators.
@@ -38,6 +38,12 @@ The brief recommends building on federal ECE investments by expanding federal pr
 
 ### Target Learning Goals
 - school readiness and foundational learning and development
+
+## Claims
+
+- [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](../claims/black-hispanic-multiracial-children-underrepresented-high-tier.md) [+W]
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](../claims/ece-socioeconomic-segregation-means-testing.md) [~W]
+- [ECE programs are on average more racially segregated than elementary and high schools](../claims/ece-more-segregated-than-k12.md) [+W]
 
 ## Related Strategies
 

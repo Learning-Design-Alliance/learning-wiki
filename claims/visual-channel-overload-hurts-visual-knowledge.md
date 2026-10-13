@@ -50,4 +50,3 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related
-- [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-overall-audio-visual-advantage.md) — related

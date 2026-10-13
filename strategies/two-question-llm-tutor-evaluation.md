@@ -17,7 +17,7 @@ sources:
 # Evaluate LLM tutoring systems in two steps: first whether an intervention changes the assistance students receive, then whether that change improves learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that evaluations of LLM tutoring systems should distinguish a behavioral question from an educational question: "does a pedagogical intervention change the assistance students receive?" versus "does that change improve learning?" The scaffolding scale addresses the first question directly — a tutoring prompt, policy, or model intended to encourage greater student reasoning should produce a measurable shift in scaffolding relative to the general-purpose baseline — while whether such a shift improves learning remains a separate empirical question.
@@ -38,6 +38,10 @@ The article proposes that evaluations of LLM tutoring systems should distinguish
 
 ### Affordances
 - [Five Level Llm Scaffolding Scale](../research-methods/five-level-scaffolding-scale-for-measuring-the-directness-of-assistance-in-llm-tutoring-re.md)
+
+## Claims
+
+- [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](../claims/study-oriented-modes-upper-bound-reference.md) [~W]
 
 ## Related Strategies
 - 

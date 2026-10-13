@@ -12,7 +12,7 @@ generated:
 # Response To Intervention
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 review, 1 design), `q2`–`q3` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Response To Intervention (RTI) is a multi-tier framework for preventing and remediating academic and behavioral difficulties, most widely implemented in early reading and mathematics. All students receive universal screening and high-quality core instruction (Tier 1); students flagged as at-risk receive supplemental small-group intervention (Tier 2); students who fail to respond receive individualized, intensive intervention (Tier 3). Decisions about movement between tiers are driven by continuous progress monitoring rather than waiting for failure to accumulate.
@@ -57,6 +57,10 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 4. **Monitor progress.** Track at-risk students weekly with curriculum-based measurement; graph scores against an aim line.
 5. **Apply decision rules.** After 8–12 weeks, adjust: students responding return to monitoring only; non-responders move to Tier 3 with more individualized, intensive support ([Adaptive Difficulty](../elements/adaptive-difficulty.md), [Accommodations](../elements/accommodations.md)).
 6. **Review fidelity and data as a team.** Check that interventions were delivered as designed before concluding a student is a non-responder.
+
+## Claims
+
+- [Data-based decision making is the least-met full-implementation criterion while universal screening is the most-met](../claims/kansas-mtss-data-decision-making-least-met-criterion.md) [~W]
 
 ## Related Strategies
 

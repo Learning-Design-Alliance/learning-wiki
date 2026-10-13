@@ -17,7 +17,7 @@ sources:
 # Three design recommendations for gender-responsive AI literacy programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (2 associational, 1 causal), `q2`–`q3` · 3 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The article closes with three recommendations for AI literacy program design grounded in its gender-disaggregated findings: "(1) leverage workshops to increase female STEM career interest; (2) incorporate gender-specific deepfake safety modules, particularly for male students; and (3) ensure that workshop evaluations monitor equity of impact by gender." The recommendations follow directly from the observed baseline gaps, the female-biased gains, and the male-skewed deepfake sharing behaviour.
@@ -37,6 +37,12 @@ The article closes with three recommendations for AI literacy program design gro
 - AI literacy
 - STEM career aspiration development
 - deepfake safety and ethical synthetic-media behaviour
+
+## Claims
+
+- [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](../claims/gender-patterns-deepfake-behaviours.md) [+W]
+- [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](../claims/baseline-male-higher-stem-career-interest-ai-literacy.md) [+W]
+- [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](../claims/gender-small-differences-genai-use.md) [+W]
 
 ## Related Strategies
 

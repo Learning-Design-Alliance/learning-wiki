@@ -5,6 +5,43 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-13 (later) — claims sorted on design relevance; the "what isn't working" list
+
+- **The claim sort** (`scripts/sort_claims.py`): the 6,686 claims no concept page cited, sorted on the
+  maintainer's test, "could a design decision change because of this?", by two models from different
+  families: 2,086 design choice, 1,415 general context, 964 component reliability (knowledge tracing,
+  automated scoring, AI feedback and detection, early warning), 467 local context, 299 research
+  practice, 1,455 disputed. The first sort's prompt had defined method as "not about learners
+  learning", which filed component reliability as not-design; the maintainer caught it with
+  knowledge-tracing accuracy, and the removal it drove was reverted (entry below).
+- **Removed, maintainer-approved:** the 299 research-practice claims and 217 local-context claims that
+  both models also judged not to report a programme or policy outcome (`eval/removed/pages.ndjson`).
+  The 162 local claims that do report one stay.
+- **Linked, each by two models:** 379 component claims onto their components' pages (202 research
+  methods, 150 products, 27 elements: the research-methods kind is where component evidence lands, so
+  it stays for now), and 983 general-context and disputed claims. `link_pages --targets`, `--only`
+  and `--claims-only` are new.
+- **Merged:** 172 duplicate claims, from 1,139 pairs `link_claims.py` had proposed, where two models
+  agreed (`scripts/judge_claim_merges.py`). Most were one report extracted twice.
+- **Effect sizes:** `recode_impact.py --fill` looks for a printed statistic in an `i?` entry's full
+  text, confirmed by a second model. Two 150-entry samples found 3 and 2; most papers print no
+  standardised effect for the finding, so the gap is mostly the literature's and the full run was
+  not made.
+- **Lint checked one page per slug.** Seven checks skipped folder-qualified keys, so a slug shared by
+  two folders, and every index.md but one, was never checked: a link to a missing page passed.
+  `each_page()` fixes it; the one hidden issue it found (a parenthesised filename in a generated
+  index) is fixed in `build_indexes.py`.
+- **New pages:** `principles/productive-failure` (Sinha & Kapur 2021, Kapur 2014 and 2016, Schwartz &
+  Martin 2004) and learner variables `socioeconomic-status` (125 claims) and `learning-disabilities`
+  (60). Thin principles and patterns got 51 verified claim links; 45 still cite no claim and 132 one
+  study or none, mostly single-source recommendations no claim in the wiki bears on.
+- **Syntheses:** 46 of 49 in, Kulik et al. (1990) and Donoghue & Hattie (2021) extracted by hand
+  after automated extraction failed on their impact codes. Schneider et al. (2018) is paywalled and
+  skipped; signaling is covered by three other syntheses.
+- **Numbers after:** 17,780 claims; 4,953 cited by no concept page (was 7,592 before the sort); 465
+  rest on two or more studies (was 377). Still open: real synthesis of single-study claims under
+  general claims, and 1,877 revision cards whose pages were re-filed or merged.
+
 ## 2026-10-12/13 — the curated lists finished; evidence review and its fixes
 
 - **Batches 49–70** finished both curated lists. The AIED entries no fetcher could reach (447) were

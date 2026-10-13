@@ -17,7 +17,7 @@ sources:
 # Adopt a roadmap for ethical CAI implementation in education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review concludes by proposing a roadmap for ethical CAI implementation in education, built on its six-theme framework of responsible-use directions and its identified framework gaps. The article states: "The article concludes by proposing a roadmap for ethical CAI implementation in education and identifying priority areas for future research". Institutions and policymakers can use the roadmap to sequence governance, privacy, integrity, AI-literacy, design, and equity measures when deploying conversational AI agents in educational settings.
@@ -40,6 +40,10 @@ The review concludes by proposing a roadmap for ethical CAI implementation in ed
 
 ### Affordances
 - Six Theme Ethical Responsible Cai Use Framework
+
+## Claims
+
+- [CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support](../claims/cai-framework-gaps-design-guidance-usability-ai-literacy.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 qualitative, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The whitepaper's second recommendation area calls for subsidized programs to meet high-quality state standards including low adult-child ratios, high-quality curriculum, well-trained staff, safe facilities, and family supports. It recommends raising CCDBG standards to include minimum group size, adult-child ratios, teacher qualifications, and a required developmentally appropriate curriculum, and requiring federally supported preschool programs to meet Preschool Development Grant standards: "teachers having at least a B.A. in ECE, salary parity with local schools, staff-to-child ratios of no more than 10 to 1, use of a developmentally appropriate curriculum, and a duration of at least a full school day." It also recommends a CCDBG set-aside for coaching in all classrooms.
@@ -37,6 +37,11 @@ The whitepaper's second recommendation area calls for subsidized programs to mee
 ### Target Learning Goals
 - nurturing relationships and thoughtful instruction
 - developmentally appropriate curriculum and assessment
+
+## Claims
+
+- [The five case study states hold LEA and non-LEA providers to consistent quality standards, including class size of 20 or less and 1:10 ratios](../claims/consistent-quality-standards-across-settings.md) [~W]
+- [Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly](../claims/ccdbg-head-start-quality-standard-differences.md) [~W]
 
 ## Related Strategies
 

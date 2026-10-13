@@ -17,7 +17,7 @@ sources:
 # Use multiple, culturally responsive assessment criteria rather than a single test cutoff to identify gifted students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief advocates identifying gifted students from culturally and linguistically diverse groups through comprehensive, culturally responsive definitions and multiple assessment measures rather than intelligence or achievement tests alone, which "often ignore the strengths of students who are culturally diverse, are linguistically diverse, live in poverty, or are poor test takers." Castellano's multiple criteria include teacher observation, behavioral checklists, parent interviews, portfolios, dynamic and ethnographic assessment, and nonverbal intelligence tests.
@@ -38,8 +38,10 @@ The brief advocates identifying gifted students from culturally and linguistical
 - Accurate identification of giftedness and access to gifted services
 
 ### Claims
+
 - [Teacher Underreferral Diverse Gifted](../claims/teacher-underreferral-diverse-gifted.md) [+M]
 - [Gifted Underrepresentation Diverse Students](../claims/gifted-underrepresentation-diverse-students.md) [+M]
+- [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](../claims/traditional-identification-tests-fail-learning-potential.md) [+W]
 
 ## Related Principles
 

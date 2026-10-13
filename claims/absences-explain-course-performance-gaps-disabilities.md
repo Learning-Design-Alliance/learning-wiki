@@ -63,6 +63,7 @@ Chapter 4 finding from the same explanatory models: self-reported study habits d
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status](freshman-performance-three-tiers-disability-categories.md) — related

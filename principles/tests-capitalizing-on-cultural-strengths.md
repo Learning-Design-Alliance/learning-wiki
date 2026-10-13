@@ -17,7 +17,7 @@ sources:
 # Develop tests that capitalize on the strengths of students from different cultural backgrounds rather than eliminating cultural factors
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review argues that culture-fair tests, which minimize language and reading requirements and avoid culture-specific content, move toward a lowest common denominator and away from identifying what an examinee knows or can do. Because each culture fosters certain abilities and suppresses others, the authors recommend developing tests that "capitalize on the strengths of students from different cultural backgrounds" so ability can be measured accurately, including via alternative symbolic representations.
@@ -37,7 +37,9 @@ The review argues that culture-fair tests, which minimize language and reading r
 - accurate measurement of subject-matter knowledge and ability
 
 ### Claims
+
 - [Minority Testing Research Neglects Alternative Symbolic Forms](../claims/minority-testing-research-neglects-alternative-symbolic-forms.md) [+M]
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [+W]
 
 ## Related Principles
 - 

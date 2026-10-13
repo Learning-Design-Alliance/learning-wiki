@@ -46,4 +46,4 @@ Co-author Julia Gwynne states "Only 60 percent of Hispanic ELL students who gain
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](early-proficiency-better-ninth-grade-performance.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
-- [Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs](new-ell-strong-freshman-weak-graduation.md) — related
+- Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related

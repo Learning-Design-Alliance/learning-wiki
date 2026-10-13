@@ -17,7 +17,7 @@ sources:
 # Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's future-research agenda calls for "greater conceptual clarity in defining personalized learning in AI-driven educational contexts, encouraging the use of more precise terminology—such as digital personalized learning (DPL) or personalized adaptive learning." It further calls for closer collaboration between AI developers and educators, integration of technology-based diagnostic assessment addressing cognitive and emotional dimensions, and systematic comparative evaluations of personalized adaptive learning platforms across learner profiles, contexts, and goals.
@@ -35,6 +35,10 @@ The review's future-research agenda calls for "greater conceptual clarity in def
 
 ### Target Learning Goals
 - Conceptual clarity and rigorous empirical validation of personalized learning approaches
+
+## Claims
+
+- [The review finds a complex, mixed landscape of ITS effectiveness and a need for greater scientific rigor in experimental design and data analysis](../claims/its-effectiveness-mixed-landscape-rigor-need.md) [+W]
 
 ## Related Strategies
 

@@ -42,6 +42,7 @@ The webinar description states, as context for the panel, that students with dis
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Most Pennsylvania students were in LEAs that prioritized students with disabilities for in-person instruction, and the pandemic made special education services harder to provide](pa-leas-prioritized-disabilities-in-person.md) — related

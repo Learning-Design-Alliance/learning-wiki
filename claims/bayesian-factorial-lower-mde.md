@@ -69,8 +69,6 @@ Simulation study: the authors repeatedly simulated factorial experiments across 
 
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — related
 - [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](bayesian-adaptive-superior-inference-smaller-samples.md) — related
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](seventy-two-arms-classical-double-sample-size.md) — a narrower finding that bears on this claim
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — a broader claim this one bears on
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
-- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — related
 - [Detecting small effects is very difficult with four clusters, but with six or more clusters small effects can be detected with high probability under realistic circumstances](six-or-more-clusters-enable-small-effect-detection-small-crcts.md) — related

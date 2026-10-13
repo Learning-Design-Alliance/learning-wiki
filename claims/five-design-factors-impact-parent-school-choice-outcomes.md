@@ -48,7 +48,6 @@ The study's summary states it "examined the effects of five design factors on kn
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — related
 - [Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools](default-sort-academic-performance-shifts-school-choices.md) — a narrower finding that bears on this claim
 - [Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use](display-design-understanding-satisfaction-ease.md) — a narrower finding that bears on this claim
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](seventy-two-arms-classical-double-sample-size.md) — related
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — related
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on

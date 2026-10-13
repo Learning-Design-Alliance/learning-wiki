@@ -47,6 +47,5 @@ A comparative predictive validity study commissioned by Massachusetts examined w
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](mcas-and-parcc-both-predict-college-grades-similar-validity.md) — possibly the same claim (merge candidate)
 - [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md) — related
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md) — possibly the same claim (merge candidate)
-- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](mcas-and-parcc-similar-remediation-predictions.md) — related
-- [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
+- [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md)

@@ -17,7 +17,7 @@ sources:
 # Differentiate senior year supports by students' college qualifications at the end of eleventh grade
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The report groups students into five college-qualification bands (from access to very selective colleges down to two-year colleges only) and argues educators must grapple with different issues for each trajectory. The highest-qualified students (about 6 percent, concentrated in selective enrollment and IB programs) already take advanced loads, while the roughly 50 percent qualified for selective or somewhat selective colleges lack a common organizing framework, and over 40 percent graduate with such low qualifications that their options are severely limited. The report recommends that "The first priority is to intervene earlier and ensure that students do not get to senior year having just passed their courses," and that senior year serve as a launching pad for non-college-bound students too.
@@ -36,6 +36,12 @@ The report groups students into five college-qualification bands (from access to
 ### Target Learning Goals
 - college match and access
 - employment and training pathways for non-college-bound graduates
+
+## Claims
+
+- [Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one](../claims/cps-selective-enrollment-qualification-enrollment-mismatch.md) [+W]
+- [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](../claims/high-qualifications-needed-for-majority-graduation-odds.md) [+W]
+- [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](../claims/cps-advanced-programs-two-thirds-selective-qualified.md) [~W]
 
 ## Related Strategies
 - 

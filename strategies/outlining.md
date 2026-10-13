@@ -12,7 +12,7 @@ generated:
 # Outlining
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (6 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Outlining asks learners to represent content as a hierarchical structure — main ideas, sub-ideas, and supporting details — before producing a full text or while processing source material. It can be instructor-provided (a skeleton to complete), learner-generated (a plan built before writing), or co-constructed. The outline functions as an external planning device that offloads organization from working memory.
@@ -49,7 +49,7 @@ Outlining reduces the attentional overload of juggling ideation, organization, a
 ### Target Learning Goals
 - Text structure and discourse organization: understanding how ideas relate hierarchically
 - Reading comprehension: extracting and sequencing main ideas from expository text [Advance organizers improve learning and retention.](../claims/advance-organizers-improve-learning.md) [+M]
-- Study skills: converting material into a reviewable structure for later [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+M] (an outline is a natural spaced-review artifact)
+- Study skills: converting material into a reviewable structure for later [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+M] (an outline is a natural spaced-review artifact)
 
 ### Instructions
 1. Model the skill: outline a short text or plan a sample essay aloud, showing how you decide what is a main idea ([Think-Aloud](../elements/think-aloud.md) if available; otherwise narrated modeling).

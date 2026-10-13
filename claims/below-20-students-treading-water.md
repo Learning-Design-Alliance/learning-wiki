@@ -43,5 +43,5 @@ Comparative analysis of the 28 percent of 42,456 matched students who reached AC
 
 
 ## Related Claims
-- [CPS students' PLAN-to-ACT gains fall well short of national expected gains, dropping 0.5 points below the average expected gain](cps-plan-act-gains-below-expected.md) — related
+- CPS students' PLAN-to-ACT gains fall well short of national expected gains, dropping 0.5 points below the average expected gain — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — a broader claim this one bears on

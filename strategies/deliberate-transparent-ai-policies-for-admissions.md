@@ -17,7 +17,7 @@ sources:
 # Institutions should move toward deliberate, transparent policies governing AI use in admissions and reconsider what application essays should assess
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on evidence that AI use is widespread, quality-improving, and penalized, the authors recommend that institutions "move toward deliberate, transparent policies around AI use", noting that many institutions lack policies and that where restrictions exist, boundaries of permissible assistance may be unclear and enforcement inconsistent. They argue universities must clarify what they seek to learn from application essays and reconsider whether essays' historical purposes remain appropriate when AI-assisted writing is becoming standard professional practice.
@@ -36,6 +36,10 @@ Based on evidence that AI use is widespread, quality-improving, and penalized, t
 
 ### Target Learning Goals
 - fair and valid evaluation of applicant writing in an AI-mediated environment
+
+## Claims
+
+- [Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors](../claims/admissions-officers-detect-ai-essays-auc-070.md) [~W]
 
 ## Related Strategies
 

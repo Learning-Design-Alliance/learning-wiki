@@ -17,7 +17,7 @@ sources:
 # Scenario-guided, conversation-level expert evaluation of AI tutors in three stages
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes a reusable evaluation strategy: curate a bank of 49 structured learning scenarios specifying subject, setting, learning goal, grounding material, learner persona, conversation plan, initial query, and system instructions; have educators role-play learners in paired conversations with two unlabeled systems (minimum 10 turns); then have separate pedagogy experts assess transcripts and comparative preference. The authors argue "scenario-based approaches support relatively repeatable, controlled comparisons of the capabilities of different conversational AI systems" and help ensure evaluation coverage across diverse use cases.
@@ -35,6 +35,10 @@ The report describes a reusable evaluation strategy: curate a bank of 49 structu
 
 ### Target Learning Goals
 - comparative assessment of pedagogical quality of conversational AI tutors across subjects and learning goals
+
+## Claims
+
+- [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](../claims/learnlm-roleplayer-weaker-gpt4o-experience.md) [~W]
 
 ## Related Strategies
 

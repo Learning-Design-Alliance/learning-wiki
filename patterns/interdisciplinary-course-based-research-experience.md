@@ -19,7 +19,7 @@ sources:
 # Interdisciplinary Course-Based Research Experience
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 2 studies (1 qualitative, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A Course-Based Research Experience (CBRE) has a whole class work on authentic, open research instead of individually supervised capstone projects. This pattern adapts CBRE for interdisciplinary contexts by deliberately recruiting students across disciplines and levels (undergraduate and graduate together) and organizing the course around a **shared scientific paper as a boundary object** that different students engage differently depending on their own discipline, while the class collectively builds a shared understanding of what counts as a strong research paper across disciplines. It extends [Productive Disciplinary Engagement](../principles/inquiry-based-learning.md) (Engle & Conant's four supports: problematizing, granting authority, holding accountable, providing resources) into what the source study calls **Productive Syncretic Engagement (PSE)**: instead of committing learners to one discipline's problem-framing, authority structure, accountability norms, and resources, the course explicitly asks them to explore, weigh, and negotiate *among* different disciplines' versions of each.
@@ -47,8 +47,11 @@ A Course-Based Research Experience (CBRE) has a whole class work on authentic, o
 
 ### Theory
 #### Supporting
+
 - [Boundary Crossing Learning](../theories/boundary-crossing-learning.md) — the shared scientific paper functions as a genuine boundary object, shifting meaning across the four moments below
 - [Situated Learning](../theories/situated-learning.md) — students move from observing and discussing papers toward full participation as paper-writing researchers embedded in real disciplinary networks
+- [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](../claims/cultural-map-boundary-object-distributed-cognition.md) [+W]
+
 #### Contradicting / Qualifying
 - Productive Disciplinary Engagement (Engle & Conant) as originally formulated assumes one set of disciplinary norms; this pattern requires extending it (as PSE) to contexts where norms genuinely conflict across the room
 

@@ -17,7 +17,7 @@ sources:
 # Use the AI Fatigue Model to adjust task design, pacing, and scaffolding at points where AI-related pressure is likely to increase
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that educators use the stage-based model diagnostically: identify points in the academic task cycle where cognitive or motivational pressure is likely to increase, then adjust task design, pacing, and scaffolding accordingly. A concrete example the authors give is "building structured reflection activities that prompt students to evaluate their own reasoning independently of AI output." Institutions can similarly design AI literacy programs addressing the psychological and motivational pressures of sustained AI use.
@@ -38,6 +38,10 @@ The article recommends that educators use the stage-based model diagnostically: 
 
 ### Affordances
 - Ai Fatigue Model Stage Based Framework
+
+## Claims
+
+- [Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification](../claims/cognitive-overload-most-reported-ai-fatigue-dimension.md) [+W]
 
 ## Related Strategies
 

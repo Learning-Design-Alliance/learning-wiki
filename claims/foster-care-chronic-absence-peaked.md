@@ -46,8 +46,8 @@ Analysis of CDE CALPADS data, 2016–17 through 2022–23, defining chronic abse
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related
 - [By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage](english-learners-36-percent-chronically-absent-2021-22.md) — related
-- [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related
-- [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
+- Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24 — related
+- Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related
 - [The number of California students in foster care declined by over 13,000 on Census Day between 2014–15 and 2022–23, with enrollment concentrated in a small number of districts](foster-care-enrollment-declined-concentrated.md) — related
 - [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
 - [Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23](foster-care-suspension-three-times.md) — related

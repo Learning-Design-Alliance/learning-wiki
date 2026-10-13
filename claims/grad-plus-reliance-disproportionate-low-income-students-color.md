@@ -42,6 +42,9 @@ Descriptive comparison of Grad PLUS completers with all graduate completers: "Si
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Before Grad PLUS existed, professional degree students relied heavily on private loans](pre-grad-plus-professional-students-relied-on-private-loans.md) — related
 - [New graduate loan limits fall below median program costs, creating an affordability gap](obbba-loan-caps-below-median-graduate-costs.md) — related

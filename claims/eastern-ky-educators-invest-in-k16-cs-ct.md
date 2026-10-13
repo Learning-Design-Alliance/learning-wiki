@@ -45,7 +45,7 @@ Descriptive context statement (type d/e) from the article's summary section repo
 ## Related Claims
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — related
 - [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](appalachian-problem-solving-heritage-lost.md) — related
-- [In Eastern Kentucky, supporting workforce development is a leading motivator for teaching CT/CS](workforce-development-motivates-ct-teaching-eastern-ky.md) — a narrower finding that bears on this claim
+- In Eastern Kentucky, supporting workforce development is a leading motivator for teaching CT/CS — a narrower finding that bears on this claim
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — related
 - [Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms](eky-teachers-no-longer-perceive-ct-barriers-2022.md) — related
 - [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](ky-appalachia-k8-ct-pathway-rpp.md) — a narrower finding that bears on this claim

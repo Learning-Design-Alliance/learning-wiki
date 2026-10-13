@@ -44,8 +44,7 @@ The brief summarizes the earlier National Evaluation of Charter Middle Schools, 
 
 
 ## Related Claims
-- [Charter middle schools' success in raising middle school achievement was not related to their success in improving students' college enrollment and completion](charter-achievement-gains-unrelated-to-college-outcomes.md) — related
-- [Charter middle schools' success in improving college outcomes was not related to their success in improving middle school achievement](charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) — related
+- [Charter middle schools' success in raising middle school achievement was not related to their success in improving students' college enrollment and completion](charter-college-outcomes-unrelated-to-middle-school-achievement-gains.md) — related
 - [Being admitted to a charter middle school in the National Evaluation of Charter Middle Schools did not affect students' chances of enrolling in or completing college](charter-middle-school-admission-no-college-outcome-effect.md) — related
-- [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-offer-and-attendance-impacts-both-negative-nonsignificant.md) — possibly the same claim (merge candidate)
+- [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

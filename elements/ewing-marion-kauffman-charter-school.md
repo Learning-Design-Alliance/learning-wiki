@@ -17,7 +17,7 @@ sources:
 # Ewing Marion Kauffman Charter School
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 qualitative), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 6 studies (5 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 The Ewing Marion Kauffman School is "a public charter school that serves students from low-income neighborhoods in Kansas City, Missouri". The evaluation examined its impacts on achievement, attendance, and suspensions, and described its hallmarks and operations through surveys, interviews, focus groups, and classroom observations to explore possible mechanisms for its effects, informing the literature on school effectiveness.
@@ -39,7 +39,7 @@ The Ewing Marion Kauffman School is "a public charter school that serves student
 ## Claims
 
 - [The Kauffman School's hallmarks are largely being implemented faithfully](../claims/kauffman-school-hallmarks-implemented-faithfully.md) [+W]
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-math-reading-science.md) [+M]
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+M]
 - [Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance](../claims/kauffman-stakeholders-believe-methods-improve-behavior-attitudes-performance.md) [+W]
 - [The Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts, and science in each of its first five years, beyond the growth of students in other Kansas City public schools](../claims/kauffman-school-positive-achievement-growth-impacts-five-years.md) [+W]
 - [The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated](../claims/kauffman-act-scores-higher-impact-not-calculable.md) [+W]

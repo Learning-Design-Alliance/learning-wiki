@@ -17,7 +17,7 @@ sources:
 # EDLS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (4 design, 1 associational), `q2` · 0 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (4 design, 2 associational), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 A Digital Promise student survey measuring course experiences, digital-learning practices and challenges, and equity and inclusion perspectives, with demographic data for disaggregation and dashboard reporting.

@@ -17,7 +17,7 @@ sources:
 # Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation for future research on GenAI in Global South higher education. The authors "recommend that future research prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science, and interdisciplinary collaboration". The aim is to understand how GenAI can enhance educational opportunities without reinforcing existing disparities across the diverse contexts of the Global South.
@@ -35,6 +35,10 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 
 ### Target Learning Goals
 - ensuring GenAI enhances educational opportunities without reinforcing existing disparities
+
+## Claims
+
+- [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](../claims/ai-exacerbates-inequalities-environmental-degradation.md) [~W]
 
 ## Related Strategies
 

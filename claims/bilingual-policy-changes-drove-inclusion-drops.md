@@ -43,7 +43,7 @@ Documentary analysis of CPS testing policy changes 1997-1999 and their effect on
 
 
 ## Related Claims
-- [The percentage of CPS elementary students whose ITBS scores count in accountability reporting fell from 82.3 percent in 1992 to 73.9 percent in 1999, with the lowest inclusion in third grade](cps-itbs-accountability-inclusion-declined-1992-1999.md) — a broader claim this one bears on
+- The percentage of CPS elementary students whose ITBS scores count in accountability reporting fell from 82.3 percent in 1992 to 73.9 percent in 1999, with the lowest inclusion in third grade — a broader claim this one bears on
 - [The 1998-99 CPS bilingual education policy overhaul shifted thousands of students into the tested-but-excluded category, raising tested-and-included counts by more than 12,000](bilingual-policy-overhaul-shifted-test-inclusion-categories.md) — related
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
-- [After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12](cps-elementary-scores-continued-improving-after-adjustments.md) — related
+- After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12 — related

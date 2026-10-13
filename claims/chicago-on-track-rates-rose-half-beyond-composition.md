@@ -48,5 +48,5 @@ Cohort trend analysis of Chicago Public Schools administrative data tracking all
 - [Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half](chicago-graduation-gains-halved-by-composition-adjustment.md) — related
 - [Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains](chicago-honors-course-gains-due-to-better-prepared-students.md) — related
 - [Freshman OnTrack improvements were largest in the lowest-performing schools, with bottom-quartile schools gaining 33 percentage points](ontrack-gains-largest-in-lowest-performing-schools.md) — related
-- [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — related
-- [The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00](cps-ninth-grade-special-education-rose-11-5-to-16-4.md) — related
+- Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior — related
+- The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — related

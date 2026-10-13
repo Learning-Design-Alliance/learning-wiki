@@ -17,7 +17,7 @@ sources:
 # Use course grades data reports to identify and reach out to students who most need different supports, similar to ninth-grade on-track teams
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that schools or the district organize course grades data to flag students whose grades declined during remote and hybrid learning so staff can reach out and determine why they are struggling. It states that "Schools or the district could organize data reports to identify and reach out to students find out why they are struggling, in a manner similar to the ninth-grade on-track reports and teams used in high schools." The recommendation rests on the finding that nearly 12,000 grades 4-8 students earned no-credit grades in both spring 2020 and spring 2021 and may need intensive supports.
@@ -35,6 +35,10 @@ The report recommends that schools or the district organize course grades data t
 
 ### Target Learning Goals
 - Course completion and credit earning in remote and hybrid learning contexts
+
+## Claims
+
+- [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](../claims/cps-grades-4-8-declined-remote-learning.md) [+W]
 
 ## Related Strategies
 

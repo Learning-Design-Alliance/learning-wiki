@@ -13,7 +13,7 @@ generated:
 # Maintaining High Expectations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 In culturally responsive instruction, achievement expectations are determined individually rather than applied uniformly. Students receive praise in proportion to their accomplishments — not lavish praise for simple tasks — and when a student struggles, the instructor guides them positively through the initial steps rather than lowering the demand. The strategy communicates the belief that every student can succeed at challenging work while calibrating support to current performance.
@@ -73,6 +73,10 @@ High expectations function as a motivational signal: students infer their own ca
 4. Give praise proportional to genuine accomplishment, and make feedback process-focused: what the learner did and how to improve next [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 5. Have learners reflect on progress toward their own goals ([Individual Reflection](../elements/individual-reflection.md)), reinforcing accurate self-evaluation.
 6. Raise the expectation as competence grows, so challenge tracks development rather than remaining static.
+
+## Claims
+
+- [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](../claims/capability-belief-achievement-gap-survey.md) [+W]
 
 ## Related Strategies
 - Growth mindset framing — high expectations only motivate when learners believe ability is developable

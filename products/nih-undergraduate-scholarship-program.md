@@ -18,7 +18,7 @@ sources:
 # NIH Undergraduate Scholarship Program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 A scholarship programme run by the National Institutes of Health that supports talented undergraduate science students from disadvantaged backgrounds and encourages biomedical research careers.
@@ -27,7 +27,7 @@ A scholarship programme run by the National Institutes of Health that supports t
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](../claims/nih-scholars-higher-biomedical-research-rates-than-finalists.md) [+W]
+- [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](../claims/nih-ugsp-scholars-outpace-non-awarded-finalists.md) [+W]
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](../claims/nih-spends-millions-annually-ugsp-scholarships.md) [+W]
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](../claims/nih-ugsp-operating-as-intended-career-milestones.md) [+W]
 
@@ -65,7 +65,7 @@ The NIH Undergraduate Scholarship Program is a federal scholarship program throu
 
 ## Claims
 
-- [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](../claims/nih-scholars-higher-biomedical-research-rates-than-finalists.md) [+W]
+- [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](../claims/nih-ugsp-scholars-outpace-non-awarded-finalists.md) [+W]
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](../claims/nih-spends-millions-annually-ugsp-scholarships.md) [+W]
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](../claims/nih-ugsp-operating-as-intended-career-milestones.md) [+W]
 

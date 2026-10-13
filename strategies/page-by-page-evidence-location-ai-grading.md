@@ -17,7 +17,7 @@ sources:
 # Grade long handwritten submissions page by page, asking the AI to identify where the credited evidence appears
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In Round II the AI was asked to grade submissions page by page and record where credited evidence appeared, since a single submission could exceed 30 scanned pages and relevant work may appear outside the expected answer space. The article reports this "appeared especially useful for long handwritten submissions" and "was associated with better agreement with human grading, although it also increased grading time." It also improves auditability by making the evidence behind each score locatable.
@@ -35,6 +35,10 @@ In Round II the AI was asked to grade submissions page by page and record where 
 
 ### Target Learning Goals
 - Accurate and auditable AI-assisted scoring of lengthy handwritten physics work
+
+## Claims
+
+- [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](../claims/ai-grading-workflow-feasibility-cost.md) [+W]
 
 ## Related Strategies
 

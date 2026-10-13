@@ -12,14 +12,14 @@ generated:
 # Quick Writes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Quick Writes are short, focused informational writing tasks completed in under ten minutes, aimed at helping students process, organize, and remember information and ideas. The instructor poses a concise prompt (e.g., "Summarize today's key idea in three sentences" or "Explain how X causes Y"), students write continuously for a brief, fixed period, and the writing is treated as thinking work rather than polished composition. Because the tasks are frequent and low-stakes, they provide regular retrieval and elaboration opportunities without the grading burden of extended writing.
 
 ## Design Implications
 
-Quick Writes function as a writing-to-learn activity: composing forces learners to retrieve content from memory, select what matters, and generate connected prose, all of which strengthen comprehension and retention more than rereading or listening alone [~M]. The brevity is the point — a tight time limit keeps cognitive effort on organizing ideas rather than on drafting mechanics, and frequent short bouts distribute practice across a unit rather than concentrating it [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]. Prompts should demand transformation (summarize, compare, explain a causal link) rather than transcription, since copying or listing produces little elaboration.
+Quick Writes function as a writing-to-learn activity: composing forces learners to retrieve content from memory, select what matters, and generate connected prose, all of which strengthen comprehension and retention more than rereading or listening alone [~M]. The brevity is the point — a tight time limit keeps cognitive effort on organizing ideas rather than on drafting mechanics, and frequent short bouts distribute practice across a unit rather than concentrating it [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Prompts should demand transformation (summarize, compare, explain a causal link) rather than transcription, since copying or listing produces little elaboration.
 
 ### Context
 #### Requirements

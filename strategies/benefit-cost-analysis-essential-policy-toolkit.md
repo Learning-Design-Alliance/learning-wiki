@@ -17,7 +17,7 @@ sources:
 # Make economic evaluation (benefit-cost analysis) an essential component of the education policy toolkit
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends expanding the use of benefit-cost analysis to monetize the impacts of education interventions: "policy guidance would greatly benefit from making it an essential component of the toolkit used to uncover the full returns and their distribution of any new investments." This strategy helps policymakers compare costs to measurable gains, realize the magnitude of benefits, and uncover the real costs of inaction when investments are not made.
@@ -38,6 +38,10 @@ The report recommends expanding the use of benefit-cost analysis to monetize the
 
 ### Affordances
 - Human Capital Theory Education Productivity Framework
+
+## Claims
+
+- [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](../claims/arizona-loss-estimates-conservative-exclusions.md) [~W]
 
 ## Related Strategies
 - 

@@ -44,7 +44,7 @@ Case study profile of Los Padillas Elementary (about 200 students, Albuquerque P
 
 ## Related Claims
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — a narrower finding that bears on this claim
-- [Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22](los-padillas-kindergarten-formative-gains.md) — a narrower finding that bears on this claim
+- Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — a narrower finding that bears on this claim
 - [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — a narrower finding that bears on this claim
 - [The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers](los-padillas-fourth-grade-ela-gains.md) — a narrower finding that bears on this claim
 - [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related

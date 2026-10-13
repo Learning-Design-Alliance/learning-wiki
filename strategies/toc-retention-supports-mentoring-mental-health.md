@@ -17,7 +17,7 @@ sources:
 # Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Design Studio retention solutions include a networking platform connecting teachers of color, safe spaces to address racism, mental health resources, mentorship pairing that accounts for race, and diverse career pathways allowing advancement while staying in the classroom. One solution argued 'School Districts will see less TOC turnover and/or burnout by providing resources and professional development specifically to support their self-care and mental health.'
@@ -40,6 +40,10 @@ Design Studio retention solutions include a networking platform connecting teach
 
 ### Affordances
 - Inclusive Innovation Approach Toc
+
+## Claims
+
+- [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](../claims/toc-workplace-racism-invisible-tax.md) [+W]
 
 ## Related Strategies
 

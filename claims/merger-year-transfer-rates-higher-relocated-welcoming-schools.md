@@ -44,4 +44,4 @@ Quantitative portion using administrative data from 2008-09 through 2016-17 for 
 
 
 ## Related Claims
-- [School closures had no effect on absence or suspension rates for students in closed or welcoming schools](closures-no-effect-absence-suspension-rates.md) — related
+- [School closures had no effect on absence or suspension rates for students in closed or welcoming schools](closures-no-effect-absences-suspensions.md) — related

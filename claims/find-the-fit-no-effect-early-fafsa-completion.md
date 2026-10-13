@@ -43,9 +43,7 @@ The evaluation's key findings state the program "Did not affect the share of stu
 
 
 ## Related Claims
-- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) — related
-- [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
-- [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — related
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
 - [Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion](upward-bound-no-detectable-degree-enrollment-aid-effects.md) — related
 - [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
 - [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality.md) — related

@@ -17,7 +17,7 @@ sources:
 # Comparative validity study of MCAS versus a next-generation Common Core college-readiness test in Massachusetts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 4 studies (4 associational), `q1`–`q2` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 4 studies (4 associational), `q1`–`q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 An evidence publication comparing the validity of two standardized tests for assessing college readiness in Massachusetts: the long-standing Massachusetts Comprehensive Assessment System (MCAS) and a next-generation test designed for the Common Core. The article frames the study as relevant beyond one state, noting that more than 40 states adopted the Common Core and many face similar assessment-system decisions.

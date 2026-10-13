@@ -48,4 +48,4 @@ A 2022 research discovery from the project, based on data from 23 teachers, repo
 - [Introducing CT as a problem-solving approach that often involves digital technology helped teachers](introduce-ct-as-problem-solving-approach.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — a broader claim this one bears on
-- [In Eastern Kentucky, supporting workforce development is a leading motivator for teaching CT/CS](workforce-development-motivates-ct-teaching-eastern-ky.md) — related
+- In Eastern Kentucky, supporting workforce development is a leading motivator for teaching CT/CS — related

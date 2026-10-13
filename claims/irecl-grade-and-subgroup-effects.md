@@ -43,6 +43,9 @@ Grade-level and subgroup analyses from the multi-state quasi-experiment. The pag
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Positive STEMscopes Math effects were found for Economically Disadvantaged (+0.51), Hispanic (+0.35) and Black (+0.74) students](stemscopes-math-subgroup-effects.md) — related
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related

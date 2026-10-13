@@ -43,5 +43,5 @@ Same ABE Priorities Survey comparison of national and Region II local directors'
 
 
 ## Related Claims
-- [Region II local ABE directors assigned lower priority to inservice education than the national sample](region-ii-directors-lower-inservice-priority.md) — related
+- Region II local ABE directors assigned lower priority to inservice education than the national sample — related
 - [A region-wide task-analysis needs assessment was judged inadequate due to modest funds and regional diversity](regionwide-needs-assessment-inadequate-funds-diversity.md) — related

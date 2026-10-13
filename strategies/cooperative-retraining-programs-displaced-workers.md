@@ -17,7 +17,7 @@ sources:
 # Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The monograph recommends continuous programs of job training as prime importance for private and public enterprise and individual workers, stating that "Widely varied and accepted occupational education and re-training are the keys to continued high employment." It specifies cooperative programs involving on-the-job instruction and relevant classroom experiences through which displaced workers can achieve proficiency and appropriate attitudes for re-entry into work, and predicts government will assume much of the cost of retraining.
@@ -35,6 +35,10 @@ The monograph recommends continuous programs of job training as prime importance
 
 ### Target Learning Goals
 - occupational re-entry skills and attitudes for a changing labor market
+
+## Claims
+
+- [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](../claims/top-wanted-transition-supports.md) [+W]
 
 ## Related Strategies
 

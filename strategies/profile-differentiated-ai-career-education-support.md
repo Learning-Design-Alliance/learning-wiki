@@ -17,7 +17,7 @@ sources:
 # Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that universities replace uniform AI-literacy programs with support matched to students' AI-attitude profiles. For detached students, the priority is "to increase the salience and career relevance of AI through discipline-specific tasks, guided reflection, and mastery experiences"; anxious students need structured skill development and realistic labor-market information; vigilant students need support for psychological sustainability. Institutionally, AI education should be integrated with career development through joint programming by academic programs and career centers.
@@ -39,6 +39,11 @@ The article recommends that universities replace uniform AI-literacy programs wi
 
 ### Affordances
 - Configurational Bivalent Ai Attitude Framework
+
+## Claims
+
+- [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](../claims/four-ai-attitude-latent-profiles-university-students.md) [+W]
+- [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](../claims/profiles-differ-ai-anxiety-low-group-highest.md) [~W]
 
 ## Related Strategies
 

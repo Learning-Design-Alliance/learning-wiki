@@ -3,6 +3,7 @@ type: claim
 title: "A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade"
 description: "A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade"
 id: four-curricula-two-year-elementary-math-study-design
+aliases: [four-curricula-two-year-achievement-study]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
+
 `q2 i?` The study examined how four math curricula affect achievement across two years, from first through second grades, and was prepared for the U.S. Department of Education, Institute of Education Sciences. [→ Agodini 2013](#agodini-2013)
+
+`q2 i?` The study was a large-scale, rigorous evaluation of how four math curricula affected achievement from first through second grades. [→ Agodini 2013](#agodini-2013)
 
 ## Evidence
 
@@ -39,13 +43,25 @@ The abstract describes the associated evaluation as "a large-scale, rigorous stu
 
 > "a large-scale, rigorous study examining how four math curricula affect achievement across two years—from first through second grades"
 
+<!-- merged 2026-10-13 from four-curricula-two-year-achievement-study: that page's entry for this study, which differed from the one above, kept verbatim.
+### Agodini 2013
+
+Agodini, Roberto; Harris, Barbara; Seftor, Neil; Remillard, Janine; Thomas, Melissa. (2013). After Two Years, Three Elementary Math Curricula Outperform a Fourth (Issue Brief). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `causal · r?`
+
+The brief describes its underlying study as "a large-scale, rigorous study" examining how four math curricula affect achievement "across two years—from first through second grades". The supplied page does not print sample sizes, design details, or statistics.
+
+> "Read the final report from a large-scale, rigorous study examining how four math curricula affect achievement across two years—from first through second grades."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
-- [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-achievement-study.md) — possibly the same claim (merge candidate)
+
 - [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](three-math-curricula-outperform-fourth-after-two-years.md) — related
-- [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-elementary-math-curricula-outperform-fourth-two-years.md) — related
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — related
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](largest-experimental-study-of-math-curricula-110-schools.md) — a narrower finding that bears on this claim
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related

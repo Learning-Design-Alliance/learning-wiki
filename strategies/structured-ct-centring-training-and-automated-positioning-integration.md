@@ -17,7 +17,7 @@ sources:
 # Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends structured training programmes and broader adoption of automated positioning technology to address persistent knowledge gaps and practice variability in CT patient centring. Respondents themselves reported that centring is "seldom covered in training" and requested accessible reference resources, while valuing automation's time savings but cautioning that "technology shouldn't replace professional expertise." The authors also propose future research quantifying the educational gap through pre- and post-intervention studies and evaluating simulation-based centring training.
@@ -37,6 +37,13 @@ The article recommends structured training programmes and broader adoption of au
 - Understanding how localiser radiograph direction and patient centring affect radiation dose and ATCM behaviour
 - Understanding how positioning affects CT number (HU) accuracy
 - Accurate patient centring technique, including cardiac CT isocentre alignment
+
+## Claims
+
+- [Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour](../claims/localiser-direction-knowledge-gaps-radiographers.md) [~W]
+- [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](../claims/moderate-knowledge-score-variability-early-career-radiographers.md) [+W]
+- [Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent](../claims/hu-verification-uncommon-ct-number-knowledge-gaps.md) [+W]
+- [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](../claims/vertical-below-isocentre-most-reported-ct-centring-error.md) [+W]
 
 ## Related Strategies
 

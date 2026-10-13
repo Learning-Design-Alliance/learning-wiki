@@ -17,7 +17,7 @@ sources:
 # Build long-term systems to track English learner progress, including students who have exited EL status
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide recommends developing systems to track and monitor English learner progress, noting that current data collection is "inconsistent and often paints an incomplete picture of these students' experience during and after they achieve English proficiency." Updated systems should track exited students through graduation, collect more information on services received, and further disaggregate data for groups such as SIFE, migrant students, and long-term English learners.
@@ -35,6 +35,10 @@ The guide recommends developing systems to track and monitor English learner pro
 
 ### Target Learning Goals
 - Complete, actionable data on English learner experiences and outcomes
+
+## Claims
+
+- [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](../claims/el-exit-censorship-underestimates-growth.md) [+W]
 
 ## Related Strategies
 

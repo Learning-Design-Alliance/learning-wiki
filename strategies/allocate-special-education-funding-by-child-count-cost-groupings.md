@@ -17,7 +17,7 @@ sources:
 # Allocate base state special education funding by prior-year count of students with disabilities, weighted by disability cost groupings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The report recommends replacing California's census-based (ADA) allocation with one based on the actual count of students with disabilities. Long term, it proposes weighting by "three cost groupings: low, mid, and high" derived from disability category costs; near term, it proposes a statewide average per-student rate applied to the prior year's child count, with a more precise IEP-data-based measure developed later.
@@ -38,6 +38,14 @@ The report recommends replacing California's census-based (ADA) allocation with 
 
 ### Target Learning Goals
 - Aligning special education funding with student need to support comparable academic growth and close opportunity and achievement gaps
+
+## Claims
+
+- [Additional special education costs vary substantially by primary disability category](../claims/disability-category-cost-variation.md) [+W]
+- [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](../claims/differentiated-special-education-funding-improves-outcomes.md) [+W]
+- [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](../claims/special-education-supplemental-cost-50-percent.md) [+W]
+- [California's shift to attendance-based AB 602 funding stabilized disability identification rates for about a decade, but rates have climbed steeply since 2010, so the policy's long-term intended outcomes were not produced](../claims/ab602-stabilization-then-renewed-identification-growth.md) [~W]
+- [Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories](../claims/charter-leas-fewer-swd-and-fewer-high-cost-categories.md) [~W]
 
 ## Related Strategies
 

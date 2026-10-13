@@ -17,7 +17,7 @@ sources:
 # Use school climate surveys, suspension rates, and chronic absenteeism as accountability indicators of school supports for SEL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that states consider including measures of school climate, supports for SEL, and related outcomes in federal accountability and statewide reporting. These are more appropriate for high-stakes use because "school climate and supports for SEL are areas that school staff can directly influence, and measurement tools tend to be more advanced." Suspension rates and chronic absenteeism are eligible as measures of school quality and student success under ESSA, and teacher and parent climate surveys may serve as state-reported indicators.
@@ -35,6 +35,10 @@ The report recommends that states consider including measures of school climate,
 
 ### Target Learning Goals
 - monitoring school conditions and supports that foster social-emotional development
+
+## Claims
+
+- [Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah](../claims/state-variation-secondary-suspension-rates.md) [~W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Require Retakes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Requiring retakes means that when a learner's initial performance on an assessment falls below the proficiency standard, they must engage in targeted remediation and then reassess until they demonstrate the intended learning. The grade recorded reflects eventual mastery rather than first-attempt performance, and the retake is paired with a required corrective activity — not simply a second attempt at the same test.
@@ -47,7 +47,7 @@ Retakes shift the function of assessment from sorting to learning: they treat a 
 
 ### Target Learning Goals
 - Mastery of foundational skills and knowledge where a fixed proficiency standard exists (procedures, prerequisite concepts)
-- Long-term retention — spaced reassessment acts as distributed retrieval practice [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Long-term retention — spaced reassessment acts as distributed retrieval practice [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 - Self-regulated learning: interpreting feedback and planning corrective study
 
 ### Instructions

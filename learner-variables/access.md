@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (48 for, 11 mixed, 4 against) · 49 studies (23 associational, 7 review, 6 qualitative, 5 causal, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 49 report an effect size · 60 claims rest on one study
+> **Evidence** · 62 claims (47 for, 11 mixed, 4 against) · 50 studies (23 associational, 7 review, 6 qualitative, 5 causal, 4 theoretical, 3 design, 2 quant-synthesis), `q1`–`q4` · 2 of 50 report an effect size · 57 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -60,7 +60,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](../claims/device-access-gap-internet.md) [+M] — instruction changes it
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](../claims/assistments-classwork-shift-rural-equity.md) [+M] — instruction changes it
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [~W] — an instructional effect differs with it
-- [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](../claims/technology-access-problems-impede-participation.md) [+W] — learners who differ on it differ in outcomes
+- [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](../claims/remote-covid-technology-access-problems-widespread.md) [+W] — learners who differ on it differ in outcomes
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](../claims/bvi-math-achievement-lags-and-gap-widens.md) [+M] — learners who differ on it differ in outcomes
 - [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](../claims/covid-stem-connectivity-problems-prevalence.md) [+M] — learners who differ on it differ in outcomes
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](../claims/mobile-access-increases-report-card-difficulty.md) [+W] — learners who differ on it differ in outcomes

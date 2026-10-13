@@ -43,6 +43,6 @@ Observation-based finding from the four-school case study: teachers look at evid
 
 
 ## Related Claims
-- [Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools](equity-core-value-drives-personalization.md) — a broader claim this one bears on
+- Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools — a broader claim this one bears on
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
 - [Strong personalized student supports tend to accompany strong freshman course performance but may not be essential](student-supports-tend-accompany-strong-performance.md) — related

@@ -44,6 +44,5 @@ The report summarizes the IES AMSTI evaluation's teacher-report finding: "AMSTI 
 
 ## Related Claims
 - [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related
-- [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-engagement-active-learning.md) — related
-- [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
+- [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
 - [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related

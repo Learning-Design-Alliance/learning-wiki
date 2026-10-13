@@ -17,7 +17,7 @@ sources:
 # Run a cross-district improvement collaboration combining content communities, dedicated advisors, and structured peer feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes how CALLI organized district teams with shared content focus into learning communities convened three times a year for two days of professional learning, where interdistrict discussions provided "feedback on one another's improvement plans." Each district also received a dedicated Ed Partners professional as a thought partner between convenings, who brought in content experts and connected districts facing similar challenges.
@@ -36,6 +36,10 @@ The article describes how CALLI organized district teams with shared content foc
 
 ### Target Learning Goals
 - Continuous improvement leadership and instructional change in early literacy, academic language, or high school mathematics
+
+## Claims
+
+- [Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening](../claims/convening-collaboration-decision-makers-implementors.md) [+W]
 
 ## Related Strategies
 

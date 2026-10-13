@@ -17,7 +17,7 @@ sources:
 # Develop instructional design competence through integrated curricula combining knowledge, hands-on design practice, and personal attributes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that teacher preparation institutions use the validated competence model as a guideline for curriculum design, integrating knowledge components (curriculum and learner analysis), design capabilities such as creating innovative learning activities, and personal attributes such as systematic thinking and teamwork. It states that "the development of instructional design competence should emphasize hands-on practice and the cultivation of personal attributes that promote systematic thinking and effective teamwork."
@@ -39,6 +39,10 @@ The article recommends that teacher preparation institutions use the validated c
 
 ### Affordances
 - [Idc Three Dimension Model Pre Service Teachers](../theories/idc-three-dimension-model-pre-service-teachers.md)
+
+## Claims
+
+- [Design of learning activities and measurement/evaluation load highest among knowledge and ability components; systematic thinking highest among personal attributes](../claims/idc-subcomponent-highest-loadings.md) [+W]
 
 ## Related Strategies
 - 

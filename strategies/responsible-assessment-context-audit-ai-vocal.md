@@ -17,7 +17,7 @@ sources:
 # Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article identifies conditions for responsible assessment: algorithmic bias may arise from evaluative assumptions embedded in what a system rewards, so a system optimized for smoothness or acoustic stability may mark stylistically legitimate vocal qualities as error. Teachers and learners need transparency about whether feedback rests on acoustic measurement, model-based inference, rule-based thresholds, or language-model interpretation, and voice recordings and practice traces raise privacy concerns. Table 1 lists bias/fairness audits, privacy review, transparency notes, and robustness testing as empirical uses.
@@ -38,6 +38,11 @@ The article identifies conditions for responsible assessment: algorithmic bias m
 
 ### Affordances
 - Three Level Framework Ai Vocal Pedagogy
+
+## Claims
+
+- [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](../claims/vocal-metrics-lack-fixed-pedagogical-meaning.md) [+W]
+- [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](../claims/ethical-concerns-algorithmic-bias-data.md) [~W]
 
 ## Related Strategies
 

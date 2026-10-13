@@ -17,7 +17,7 @@ sources:
 # Five policy strategies for fostering integration in early childhood education settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report identifies five strategies policymakers can use to foster socioeconomic, racial, ethnic, and linguistic integration in ECE: "Establishing universal ECE programs," braiding public funding, allowing tuition-paying families to enroll in public programs, attracting families across neighborhood or district boundaries, and creating two-way dual language immersion programs. Each strategy works by counteracting the income-based sorting produced by means-tested eligibility rules, and the report illustrates each with case examples from Washington DC, New York, San Francisco, Hartford, and San Antonio.
@@ -35,6 +35,11 @@ The report identifies five strategies policymakers can use to foster socioeconom
 
 ### Target Learning Goals
 - learning in socioeconomically, racially, ethnically, and linguistically diverse classrooms
+
+## Claims
+
+- [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](../claims/universal-prek-classroom-diversity.md) [+W]
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](../claims/ece-socioeconomic-segregation-means-testing.md) [+W]
 
 ## Related Strategies
 

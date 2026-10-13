@@ -17,7 +17,7 @@ sources:
 # Use organisational, technological and regulatory levers together to accelerate responsible AI adoption
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers practical insights for policymakers, higher education leaders, and system designers seeking to accelerate responsible and effective AI adoption. Because organisational culture, sustainability policies, compatibility, relative advantage and government regulation each significantly predicted adoption drivers in the validated model, adoption efforts should address internal conditions, technology fit and external policy support together rather than in isolation.
@@ -36,6 +36,10 @@ The article offers practical insights for policymakers, higher education leaders
 
 ### Target Learning Goals
 - Accelerating responsible and effective AI adoption in academic environments
+
+## Claims
+
+- [Internal organisational conditions strengthen internal social drivers promoting technological change](../claims/organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md) [+W]
 
 ## Related Strategies
 - 

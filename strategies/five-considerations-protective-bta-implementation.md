@@ -17,7 +17,7 @@ sources:
 # Five research-based considerations for implementing school-based BTA systems positively and protectively
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report distills the research into five considerations for policymakers so that BTA systems, "which are now required in most states and districts, to be positive and protective of students and schools," rest on key elements: (1) rooting BTAs within a positive, relationship-centered school climate; (2) creating and appropriately training BTA teams; (3) designing BTA systems to problem-solve rather than criminalize; (4) equipping schools with needed counseling and mental health services; and (5) collecting and reporting useful BTA data for continuous improvement. Each consideration is grounded in the implementation and outcome evidence reviewed in the report.
@@ -40,6 +40,10 @@ The report distills the research into five considerations for policymakers so th
 
 ### Affordances
 - Four Major School Bta Models Taxonomy
+
+## Claims
+
+- [BTA implementation data are often partial, inconsistent, or unreliable, hindering accountability at scale](../claims/bta-data-collection-inconsistent-texas.md) [~W]
 
 ## Related Strategies
 - 

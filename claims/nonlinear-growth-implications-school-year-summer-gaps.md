@@ -44,7 +44,6 @@ Authors' interpretive statement in the abstract: implications of the non-linear 
 
 ## Related Claims
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
-- [Within-school-year achievement growth is often not linear, particularly in reading](within-year-growth-often-nonlinear-reading.md) — possibly the same claim (merge candidate)
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — a narrower finding that bears on this claim
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — related
 - [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related

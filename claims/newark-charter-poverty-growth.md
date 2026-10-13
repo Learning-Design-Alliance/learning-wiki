@@ -61,6 +61,9 @@ Within-Newark comparison of students in poverty in charter versus other district
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19](newark-charter-ell-growth-vs-state.md) — related
 - [Newark charter school students outgrew the state average in both reading and math in 2018-19](newark-charter-growth-vs-state-2018-19.md) — related

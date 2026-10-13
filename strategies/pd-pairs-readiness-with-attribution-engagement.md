@@ -17,7 +17,7 @@ sources:
 # Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the study finds positive beliefs and concerns form along separate tracks, the authors recommend PD that goes beyond tool demonstrations and technical confidence. A second strand should help teachers "examine why they are concerned" and whether they attribute plagiarism to stable features of the technology or to addressable factors in assessment design. PD should also model creativity-preserving practices, such as using GenAI as a brainstorming scaffold rather than a drafting replacement, and integrity-supportive practices, such as oral and process-based assessments.
@@ -38,6 +38,12 @@ Because the study finds positive beliefs and concerns form along separate tracks
 
 ### Affordances
 - [Dual Lens Sdt Attribution Genai Beliefs Framework](../theories/self-determination-theory.md)
+
+## Claims
+
+- [AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance](../claims/ai-readiness-strongest-predictor-positive-genai-beliefs.md) [+W]
+- [Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity](../claims/ai-readiness-predicts-greater-creativity-concern.md) [~W]
+- [Predictors of positive GenAI beliefs explain only 6–7% of variance in plagiarism and creativity concerns, indicating a two-track belief structure](../claims/two-track-structure-teacher-genai-beliefs.md) [+W]
 
 ## Related Strategies
 

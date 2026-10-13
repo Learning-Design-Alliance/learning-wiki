@@ -42,6 +42,9 @@ Descriptive analysis of HS2C data on five Illinois cohorts (2008-2012) of FAFSA-
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Men from low-income families were more likely than women to be in good jobs at every degree level, but the gender gap shrank as education rose](gender-gaps-shrink-with-education-level.md) — related
 - [Black students from low-income families had lower good-job rates than White and Latino peers at every degree level, while Latinos and Latinas were relatively advantaged, and gaps narrowed with more education](racial-gaps-good-jobs-shrink-with-education.md) — related

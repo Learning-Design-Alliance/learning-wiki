@@ -45,7 +45,5 @@ Survey, interview, and focus group data on stakeholder perceptions indicate that
 ## Related Claims
 - [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — related
 - [Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance](kauffman-school-qualitative-mechanisms-faithful-implementation.md) — possibly the same claim (merge candidate)
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-math-reading-science.md) — related
-- [During its first three years of operation, the Kauffman School had substantial positive and statistically significant impacts on student achievement in mathematics, reading, and science](kauffman-school-significant-achievement-impacts-first-three-years.md) — related
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
-- [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — related

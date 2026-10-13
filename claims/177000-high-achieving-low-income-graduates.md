@@ -42,6 +42,9 @@ Estimate from the most recent NPSAS reported in the section on high-achieving st
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Public research-extensive universities spend hundreds of millions in institutional grant aid on high-income students, with nearly equal spending on the top two and bottom two income quintiles](institutional-aid-to-high-income-students.md) — related
 - [Low-income students at public research-extensive universities face unmet need equal to about 70 percent of family income, while top-quintile families have overmet need](unmet-need-seventy-percent-low-income-reus.md) — related

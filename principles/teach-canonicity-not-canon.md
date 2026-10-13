@@ -17,7 +17,7 @@ sources:
 # The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The third operationalization shifts from studying canonical exemplars to studying how a culture accepts and exemplifies particular discourse. The paper states: "The aim is to teach the process by which any community decides how to standardize, judge, and enforce its own discourse." Rather than using Burke, Lincoln, or King as exemplars, the course would address how and why King is held up as excellent while Bob Dole is not, and could highlight the boundaries of the canon when students practice non-dominant rhetorical styles.
@@ -37,7 +37,9 @@ The third operationalization shifts from studying canonical exemplars to studyin
 - understanding how communities create public spheres and standardize discourse
 
 ### Claims
+
 - [Critical Pedagogy As Rhetorical Education](../theories/critical-pedagogy-as-rhetorical-education.md) [+M]
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](../claims/llm-as-a-judge-twelve-bias-types.md) [+W]
 
 ## Related Principles
 

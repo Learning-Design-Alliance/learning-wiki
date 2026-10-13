@@ -3,6 +3,7 @@ type: claim
 title: The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress
 description: The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress
 id: dc-reforms-larger-expected-grade4-math-reading-naep-gains
+aliases: [dc-reforms-larger-expected-grade4-math-reading-naep]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
+
 `q2 i?` Grade 4 math and reading NAEP scores in DC improved more than expected relative to comparison areas after the 2007 reforms. [→ Dallas Dotter 2021](#dallas-dotter-2021)
+
+`q2 i?` Grade 4 math and reading NAEP scores in DC improved more than expected relative to comparable students in similar geographic areas after the 2007 reforms. [→ Dallas Dotter 2021](#dallas-dotter-2021)
 
 ## Evidence
 
@@ -39,10 +43,24 @@ The brief's key findings state that the DC reforms "were associated with larger 
 
 > "The DC reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress."
 
+<!-- merged 2026-10-13 from dc-reforms-larger-expected-grade4-math-reading-naep: that page's entry for this study, which differed from the one above, kept verbatim.
+### Dallas Dotter 2021
+
+Dallas Dotter, Duncan Chaplin, Maria Bartlett. (2021). Impacts of School Reforms in Washington, DC on Student Achievement. Washington, DC: Mathematica. https://www.mathematica.org/publications/impacts-of-school-reforms-in-washington-dc-on-student-achievement
+
+`q2 · i?` · `causal · r2`
+
+Comparative analysis of nearly a quarter century of NAEP data (early 1990s to 2017) contrasting DC achievement changes with counterfactual trends for similar students in similar areas without reforms, finding "larger than expected growth in grade 4 math and reading scores". No effect size is printed for grade 4 specifically.
+
+> "We find that the reforms in DC were associated with larger than expected growth in grade 4 math and reading scores on the National Assessment of Educational Progress (NAEP)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](dc-2007-reforms-teacher-quality-and-school-choice-aims.md) — related
 - [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — related
 - [Impacts of the DC reforms on NAEP math scores were largest for Black students](dc-reforms-naep-math-impacts-largest-black-students.md) — related
@@ -50,4 +68,3 @@ The brief's key findings state that the DC reforms "were associated with larger 
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related
 - [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](dc-reform-analysis-statistical-controls.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
-- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](dc-reforms-larger-expected-grade4-math-reading-naep.md) — possibly the same claim (merge candidate)

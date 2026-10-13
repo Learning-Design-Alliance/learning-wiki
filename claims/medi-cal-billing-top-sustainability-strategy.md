@@ -44,7 +44,7 @@ Analysis of SBHIP project plans found billing Medi-Cal (via the Multi-Payer Fee 
 
 ## Related Claims
 - [Estimated Fee Schedule billing revenue varies widely across Alameda County school health centers and is small relative to existing billing revenue for most](fee-schedule-revenue-varies-across-shcs.md) — related
-- [California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source](lea-braid-multiple-behavioral-health-funding-streams.md) — related
+- California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source — related
 - [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
 - [SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently](sbhip-needs-workforce-over-structural.md) — related
 - [LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments](short-term-funds-favor-internal-staffing.md) — related

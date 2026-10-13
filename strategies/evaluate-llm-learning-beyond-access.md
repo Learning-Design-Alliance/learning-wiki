@@ -17,7 +17,7 @@ sources:
 # Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that AIED evaluation move beyond binary LLM access by measuring enacted learner–LLM interaction quality and preserving no-help assessments, because "AI -assisted practice scores may reflect real -time support rather than retained competence." Candidate scaffolds named for future evaluation include prompt starters, hint-first workflows, reflection checkpoints, and verification cues. Independent quizzes, written explanations, oral checks, or transfer tasks are proposed as complementary evidence of learning.
@@ -35,6 +35,10 @@ The article recommends that AIED evaluation move beyond binary LLM access by mea
 
 ### Target Learning Goals
 - independently demonstrated conceptual learning and retention rather than AI-assisted task completion
+
+## Claims
+
+- [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](../claims/stated-intentions-weakly-match-enacted-help-seeking.md) [~W]
 
 ## Related Strategies
 

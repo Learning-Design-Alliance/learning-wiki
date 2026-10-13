@@ -42,6 +42,9 @@ Observational analysis of six-year graduation rates for the 2007 first-time, ful
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Closing all institutional Pell/non-Pell completion gaps would cut the 14-point national gap only in half, to 7 percentage points](closing-institutional-gaps-halves-national-gap.md) — related
 - [Enrollment stratification amplifies the national gap: Pell students are concentrated at lower-SAT, lower-graduation-rate institutions](pell-enrollment-stratification-sat-quartiles.md) — related

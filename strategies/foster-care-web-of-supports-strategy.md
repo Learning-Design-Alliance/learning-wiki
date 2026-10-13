@@ -17,7 +17,7 @@ sources:
 # Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends building "a ready web of supports" so students in foster care receive help promptly. Promising practices identified by coordinators include developing one-stop resource centers, co-locating education and child welfare staff, employing school-based liaisons trained to support students in foster care, and providing targeted social, emotional, and academic services within a tiered system of support. Policy recommendations include cross-agency structures such as a children's cabinet, community schools, local interagency transportation agreements, LCFF revision, state grant programs for collaborative case management, relationship-centered school practices, and professional development in trauma-informed, restorative, and social-emotional practices.
@@ -39,6 +39,10 @@ The report recommends building "a ready web of supports" so students in foster c
 - Academic achievement
 - College access
 - Social-emotional and behavioral support
+
+## Claims
+
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](../claims/foster-care-coordination-challenges.md) [+W]
 
 ## Related Strategies
 

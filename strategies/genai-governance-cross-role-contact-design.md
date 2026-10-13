@@ -17,7 +17,7 @@ sources:
 # Design GenAI governance and cross-role contact around integrity disputes, the principal site of sustained faculty-student contact
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's discussion draws implications for governance, pedagogical design, and cross-role contact design from its finding that adversarial integrity themes dominate faculty-student contact. Because "Mixed threads contain 2-3×more records and last 2-4×longer than same-role threads", integrity disputes are where faculty and students most sustainedly engage, so governance and contact design should address detection, enforcement, and false-accusation dynamics rather than treating stakeholder communities separately.
@@ -37,6 +37,11 @@ The article's discussion draws implications for governance, pedagogical design, 
 ### Target Learning Goals
 - academic integrity governance
 - constructive integration of generative AI into teaching and assessment
+
+## Claims
+
+- [17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes](../claims/cross-role-threads-adversarial-integrity-contact.md) [+W]
+- [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](../claims/academic-integrity-paramount-genai-policy-concern.md) [+W]
 
 ## Related Strategies
 

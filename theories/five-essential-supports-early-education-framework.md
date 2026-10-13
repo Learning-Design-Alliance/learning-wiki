@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (24 for, 1 mixed, 1 against) · 17 studies (6 associational, 5 review, 3 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 0 of 17 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (27 for, 1 mixed, 1 against) · 20 studies (9 associational, 5 review, 3 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 0 of 20 report an effect size · 28 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -64,6 +64,9 @@ The five essential supports framework specifies five school- or center-level org
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](../claims/effective-principals-positive-student-outcomes.md) [+W]
 - [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](../claims/leadership-improvement-key-questions.md) [~W]
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](../claims/within-school-direct-negative-leadership-academic-demand.md) [-W]
+- [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](../claims/principal-turnover-harms-achievement-climate-retention.md) [+W]
+- [Students and teachers use technology more, and feel more support, in schools where principals report higher expectations and fewer barriers](../claims/principal-expectations-barriers-related-to-tech-use.md) [+W]
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
 
 ## Related Theories
 

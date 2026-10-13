@@ -48,4 +48,3 @@ A randomized controlled double-blind study in which 22 cadets were independently
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on
 - [Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition](tutoring-stage-thresholds-validated-by-posttest.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
-- [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — a broader claim this one bears on

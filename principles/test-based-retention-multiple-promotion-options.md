@@ -17,7 +17,7 @@ sources:
 # Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 5 studies (3 causal, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (2 for, 6 mixed, 2 against) · 7 studies (5 causal, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 The toolkit's retention principle holds that students unable to demonstrate sufficient reading skills for promotion be retained and given "more intensive interventions and a highly effective teacher." To ensure "one test on one day is not the sole determining factor," students get multiple demonstration options (state test, alternative test, portfolio), and good cause exemptions cover specified students with disabilities, English Language Learners, and previously retained students.
@@ -49,6 +49,9 @@ The toolkit's retention principle holds that students unable to demonstrate suff
 - [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](../claims/third-grade-retention-no-sustained-benefit.md) [-M]
 - [Educators reported the promotion policy increased parental concern about student progress](../claims/promotion-policy-increased-parental-concern.md) [~W]
 - [Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion](../claims/promoted-students-maintained-gains-two-years.md) [~W]
+- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](../claims/waivers-promoted-failing-students-1997.md) [~W]
+- [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](../claims/higher-passing-rates-did-not-lower-retention.md) [~W]
+- [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](../claims/postpolicy-retention-effect-smaller-but-larger-impact.md) [~W]
 
 ## Related Principles
 

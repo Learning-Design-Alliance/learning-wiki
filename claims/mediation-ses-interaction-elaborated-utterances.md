@@ -42,6 +42,9 @@ A significant mediation-by-SES interaction was obtained in the analysis of varia
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [More children who could shift codes were found in the classroom of the highest mediating teacher](code-shifting-highest-mediating-teacher.md) — related
 - [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related

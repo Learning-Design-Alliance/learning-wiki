@@ -46,4 +46,4 @@ Descriptive outcome analysis of grades in the 10 Success schools across Years 1 
 - [Eighth-grade on-track NSI showed no statistically significant impact on targeted outcomes after schools' second year, and year-1 impacts did not persist](eighth-grade-on-track-nsi-no-year-two-impact.md) — related
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](8th-grade-on-track-nsi-no-impacts-year-two.md) — related
-- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
+- [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related

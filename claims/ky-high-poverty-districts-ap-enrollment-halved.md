@@ -43,6 +43,6 @@ District-level analysis of AP enrollment by district poverty level from the Kent
 
 
 ## Related Claims
-- [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — a broader claim this one bears on
+- From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose — a broader claim this one bears on
 - [Kentucky's AP pipeline is leakiest in high-poverty and rural districts, where about 1 in 100 students earned a passing AP score in 2021-22](ky-leaky-ap-pipeline-high-poverty-rural.md) — a narrower finding that bears on this claim
 - [Black and Latino students in Kentucky are much less likely than White peers to take AP and DC courses](ky-black-latino-ap-dc-enrollment-disparities.md) — related

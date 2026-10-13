@@ -17,7 +17,7 @@ sources:
 # Let learners decide on feedback after performing, not before
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 9 claims rest on one study
 
 ## Description
 When learners control their knowledge-of-results (KR) schedule, the article finds the benefit depends on when they decide: "the critical factor for increased learning appears to be the opportunity to decide after motor execution whether they want KR." The authors suggest a post-trial decision lets the learner request KR when comparing perceived and actual error would maximize its informational value.
@@ -49,6 +49,7 @@ When learners control their knowledge-of-results (KR) schedule, the article find
 - [During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.](../claims/motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) [+W]
 - [Learners allowed to make a knowledge-of-results decision before a trial and revise it after (Self-Both) mostly kept their original choice but sometimes changed it after seeing their own performance.](../claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) [~W]
 - [When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.](../claims/self-controlled-learners-request-kr-early-in-practice-blocks.md) [~W]
+- [Allowing learners to request knowledge of results before a trial and then revise the choice after it (Self-Both) did not produce learning beyond deciding only after the trial (Self-After), which the authors take as no support for an additive motivational-plus-informational effect.](../claims/self-both-kr-decision-shows-no-additive-motivational-informational-benefit.md) [~M]
 
 ## Related Principles
 - [Learner Choice](autonomy.md)

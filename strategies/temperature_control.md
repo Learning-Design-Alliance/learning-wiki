@@ -12,7 +12,7 @@ generated:
 # Temperature Control
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Temperature control is the deliberate regulation of ambient thermal conditions in learning environments to keep them within a moderate comfort range — roughly 68–74°F (20–23°C) for typical sedentary classroom activity. It is carried out through HVAC management, monitoring, and responsive adjustment, treating thermal comfort as an instructional precondition rather than a facilities afterthought.
@@ -55,6 +55,10 @@ Thermal conditions measurably affect cognitive performance: performance on learn
 3. Pair temperature control with ventilation management, since CO₂ buildup independently degrades cognition [Allen et al. cognitive function study.](https://doi.org/10.1289/ehp.1510037) [+S].
 4. Schedule cognitively demanding activities ([Assessment](../elements/assessment.md), [Practice](../elements/practice.md)) during the coolest parts of the day when full control is not possible.
 5. Use brief [Check-Ins](../elements/check-in.md) to surface thermal discomfort and adjust within available means (open windows, fan direction, seating changes).
+
+## Claims
+
+- [Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents](../claims/hot-test-days-lower-math-reading-performance.md) [+W]
 
 ## Related Strategies
 - Acoustics and noise management — the other major physical-environment factor competing for attentional resources

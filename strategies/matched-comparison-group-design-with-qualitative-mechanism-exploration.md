@@ -17,7 +17,7 @@ sources:
 # Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's evaluation approach pairs a quantitative impact estimate with qualitative description of school operations. It "used a matched comparison group design to estimate the impacts of the Kauffman School on student achievement, attendance, and suspensions", and also "used surveys, interviews, focus groups, and classroom observations to describe the hallmarks and operations" and "explore possible mechanisms for its effects".
@@ -35,6 +35,10 @@ The paper's evaluation approach pairs a quantitative impact estimate with qualit
 
 ### Target Learning Goals
 - estimating school-level impacts on achievement, attendance, and suspensions
+
+## Claims
+
+- [Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance](../claims/kauffman-school-qualitative-mechanisms-faithful-implementation.md) [+W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Embed AI as a learning partner and redesign assessments for AI-rich contexts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's recommendations section advises instructors to proactively incorporate AI tools such as ChatGPT or domain-specific tutors as learning aids rather than view them only as threats, for example tasking students to use an AI tutor to draft solutions then critique or improve them. It also recommends redesigning assessments to emphasize critical thinking, creativity, and personal input, such as open-ended reflections, oral defenses, or applied projects, and transparently incorporating AI usage where suitable.
@@ -35,6 +35,10 @@ The review's recommendations section advises instructors to proactively incorpor
 
 ### Target Learning Goals
 - critical thinking, academic integrity, responsible AI use, higher-order skills
+
+## Claims
+
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](../claims/student-critical-ai-role-expectations.md) [+W]
 
 ## Related Strategies
 

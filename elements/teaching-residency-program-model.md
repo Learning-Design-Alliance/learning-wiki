@@ -17,7 +17,7 @@ sources:
 # Teaching residency program (TRP) model: master's coursework plus a one-year supervised residency
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 4 studies (2 review, 2 associational), `q1`–`q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 Teaching residency programs are alternative teacher-training models funded under the Teacher Quality Partnership Grant Program. The article describes the model as offering "coursework toward a master’s degree along with a one-year supervised residency under the guidance of a full-time teacher," intended to attract new teachers to the profession and to high-need schools. The study examined components such as required coursework, teacher backgrounds and experiences, and teacher retention across 30 programs.
@@ -42,7 +42,7 @@ Teaching residency programs are alternative teacher-training models funded under
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](../claims/trp-multisite-study-30-programs.md) [+W]
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](../claims/trp-retention-similar-to-other-routes.md) [~M]
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](../claims/trp-stipend-three-year-commitment.md) [+W]
-- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](../claims/trp-teachers-more-likely-remain-same-district.md) [+M]
+- [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](../claims/residency-graduates-higher-retention.md) [+M]
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](../claims/trp-school-retention-rates-similar.md) [~M]
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](../claims/trp-retention-study-scope-six-districts-12-trps.md) [+M]
 - [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](../claims/trp-movers-join-higher-achievement-schools.md) [~M]

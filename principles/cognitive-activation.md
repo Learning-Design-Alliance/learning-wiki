@@ -181,4 +181,4 @@ Cognitive activation is strongest when instruction asks learners to interpret, c
 
 -->
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [+W]
-- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/generative-processing-improves-learning.md) [+W]

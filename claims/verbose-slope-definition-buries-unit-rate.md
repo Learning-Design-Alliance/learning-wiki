@@ -43,4 +43,4 @@ Descriptive analysis of the CPM definition of slope in the textbook scan, which 
 
 
 ## Related Claims
-- [Congruent-shape definitions are nearly identical across CPM's 8th and 9th grade materials, with the 9th-grade version adding only the congruence symbol](congruence-definitions-repetitive-across-grades.md) — related
+- Congruent-shape definitions are nearly identical across CPM's 8th and 9th grade materials, with the 9th-grade version adding only the congruence symbol — related

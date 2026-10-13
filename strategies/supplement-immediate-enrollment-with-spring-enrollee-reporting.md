@@ -17,7 +17,7 @@ sources:
 # Retain summer-and-fall immediate enrollment as the headline metric while supplementing it with reporting on spring first-time enrollees
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because spring first-time enrollees are few and including them would delay annual data release, the To&Through Project kept its summer-and-fall definition of immediate college enrollment. However, given systematic differences by race/ethnicity, gender, and GPA between fall and spring enrollees, the authors plan to "find more opportunities to report rates of spring enrollment and outcomes for spring enrollees" alongside the historical immediate fall enrollment rates.
@@ -36,6 +36,10 @@ Because spring first-time enrollees are few and including them would delay annua
 
 ### Target Learning Goals
 - Monitoring immediate college enrollment and understanding enrollment pathways for all student groups
+
+## Claims
+
+- [Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small](../claims/spring-enrollees-demographic-gpa-differences.md) [+W]
 
 ## Related Strategies
 

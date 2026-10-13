@@ -17,7 +17,7 @@ sources:
 # Employ residency residents as the second adult in TK classrooms using assistant teacher or paraprofessional budget lines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief recommends that, given TK's child-to-adult ratio requirements, districts employ residency residents, with salary and benefits, as the second adult in the classroom "using assistant teacher or paraprofessional budget lines to cover salary and tuition." This would meet staffing needs under TK expansion, fulfill ratio requirements, and provide a paid pathway for new TK teachers to earn robust preparation and their Multiple Subject credential while working. The brief suggests the pathway may particularly interest current early childhood educators with a bachelor's degree working in state preschool programs.
@@ -35,6 +35,12 @@ The brief recommends that, given TK's child-to-adult ratio requirements, distric
 
 ### Target Learning Goals
 - Building a credentialed TK teacher workforce with early childhood expertise
+
+## Claims
+
+- [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](../claims/tk-workforce-lead-sufficiency-aide-vacancies.md) [+W]
+- [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](../claims/tk-staffing-needs-and-vacancies.md) [+W]
+- [California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing](../claims/assistant-tk-teachers-16000-19700.md) [+W]
 
 ## Related Strategies
 

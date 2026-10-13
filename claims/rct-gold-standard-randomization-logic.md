@@ -46,8 +46,7 @@ A definitional/interpretive statement in the report's introduction explaining th
 - [Not all intervention programs can be evaluated using an RCT, so non-experimental study designs may be needed to build an evidence base](not-all-programs-rct-evaluable-nonexperimental-needed.md) — related
 - [A null study finding can have multiple possible causes and requires interpretation before it informs decisions](null-findings-require-interpretation-of-causes.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
-- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-impact-estimates.md) — related
-- [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
+- [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](opportunistic-rcts-strong-evidence-low-cost.md) — related
 - ED's accreditor-competition rationale rests on economic theories rather than empirical evidence, and ED conceded it cannot estimate the causal effect of accreditor switching on student outcomes — related
 - The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — a narrower finding that bears on this claim

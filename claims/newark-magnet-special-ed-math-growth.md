@@ -42,6 +42,9 @@ Special education subgroup analysis comparing Newark magnet school special educa
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — a broader claim this one bears on
-- [Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth](newark-overall-growth-vs-state-2018-19.md) — related
+- Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related

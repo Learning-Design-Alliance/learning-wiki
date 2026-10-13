@@ -62,7 +62,7 @@ The report's background section, summarizing NAEP trend data (Exhibit 4), states
 
 
 ## Related Claims
-- [North Carolina posted the largest mathematics achievement gains of any state in the 1990s and became the first southern state to score above the national average in fourth grade reading and math](nc-1990s-largest-math-gains-first-southern-state-above-average.md) — related
+- North Carolina posted the largest mathematics achievement gains of any state in the 1990s and became the first southern state to score above the national average in fourth grade reading and math — related
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related

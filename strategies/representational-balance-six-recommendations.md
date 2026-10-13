@@ -17,7 +17,7 @@ sources:
 # Six recommendations for publishers and curriculum decision-makers to improve representational balance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report closes with six actions for those who create, publish, and select children's books: "Challenge dominant norms and singular perspectives"; "Expand publisher and educator definitions of cultural relevance"; "Ask a new set of questions about representation"; "Consider how texts sit in conversation with one another"; "Expand educator choice in curated materials"; and "Provide professional learning to all curriculum decision-makers, including authors and developers." These follow directly from the finding that people, cultures, and topics of color are most often given limited representation in otherwise high-quality-rated curricula. The report directs decision-makers to its online tool to go "beyond superficial understandings of what it means to be culturally relevant."
@@ -38,6 +38,10 @@ The report closes with six actions for those who create, publish, and select chi
 
 ### Affordances
 - Representational Balance Framework
+
+## Claims
+
+- [White authors rarely portray complex cultures of color: 41 of 64 limited-representation books have at least one White author, versus 15 of 36 complex-representation books](../claims/white-authors-rarely-complex-cultures.md) [+W]
 
 ## Related Strategies
 

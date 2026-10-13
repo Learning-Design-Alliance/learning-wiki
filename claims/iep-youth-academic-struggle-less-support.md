@@ -42,11 +42,13 @@ The report's key findings state that "Youth with an IEP are more likely than you
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP](504-plan-youth-intermediate-challenge-level.md) — related
 - [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related
 - [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
-- [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs](iep-youth-lag-postsecondary-planning.md) — related

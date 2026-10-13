@@ -49,5 +49,5 @@ The chapter reports, from research using response-time-based identification of d
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
 - [A general process for measuring item-level effort extends effort measurement to omitted and constructed responses](general-item-level-effort-process-expanded-item-types.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
-- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — related
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related

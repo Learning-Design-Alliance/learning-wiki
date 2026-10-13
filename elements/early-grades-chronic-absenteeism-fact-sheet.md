@@ -17,7 +17,7 @@ sources:
 # Fact sheet on chronic absenteeism risk factors in the early grades for schools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 This artifact is a fact sheet addressed to schools, published by Regional Educational Laboratory Mid-Atlantic on Nov 20, 2019, under the title "Improving the School Attendance of New Jersey's Youngest Learners." It is described as a "Fact sheet for schools on the importance of attendance in pre-kindergarten and kindergarten and the risk factors," and it is tagged by the publisher under Human Services, Early Childhood, and Education. Its function is to communicate to school staff why early attendance matters and which risk factors signal chronic absenteeism.
@@ -42,7 +42,7 @@ This artifact is a fact sheet addressed to schools, published by Regional Educat
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](../claims/chronic-absenteeism-early-grades-importance-asserted.md) [+W]
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](../claims/prek-kindergarten-attendance-importance.md) [+W]
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
-- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/early-attendance-preschool-kindergarten-future-success.md) [+W]
+- [Regular attendance in preschool and kindergarten is presented as important for future school success](../claims/prek-kindergarten-attendance-spells-success.md) [+W]
 
 ## Related Elements
 

@@ -43,7 +43,5 @@ Key finding comparing credential completion between CBE participants and nonpart
 
 
 ## Related Claims
-- [Gatekeeper course completion was slightly lower for CBE participants than for comparison students, while credential completion differences varied by college](taaccct-cbe-gatekeeper-credential-comparisons.md) — related
-- [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — related
-- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-consortium-35-percent-completion-high-employment-wage-growth.md) — related
-- [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related
+- [Gatekeeper course completion was slightly lower for CBE participants than for comparison students, while credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — related
+- [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-participants-completion-employment-wages.md) — related

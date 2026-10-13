@@ -17,7 +17,7 @@ sources:
 # Policy considerations for states supporting summer learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report's concluding recommendations for state actors include: "Set statewide goals for summer investments that reinforce other priorities"; build stakeholder coalitions; identify sustainable funding streams beyond ESSER; minimize administrative burden to maximize grant uptake; balance requirements with flexibility; use legislation or RFPs to expand access for priority groups; target funding toward known obstacles such as "program cost, transportation challenges, and, particularly in rural areas, lack of available summer program providers"; require quality practices as a condition of funding; and align data collection with state goals.
@@ -36,6 +36,11 @@ The report's concluding recommendations for state actors include: "Set statewide
 ### Target Learning Goals
 - academic recovery and enrichment
 - equitable access to summer programming
+
+## Claims
+
+- [States targeted summer learning access by naming priority groups in legislation or grant RFPs](../claims/priority-groups-legislation-rfps.md) [+W]
+- [States used four approaches to generate political support for summer learning investment](../claims/four-approaches-garnering-summer-support.md) [+W]
 
 ## Related Strategies
 

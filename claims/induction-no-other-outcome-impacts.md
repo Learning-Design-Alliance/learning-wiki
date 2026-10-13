@@ -44,10 +44,6 @@ The national randomized controlled evaluation reports null findings beyond achie
 
 ## Related Claims
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — a narrower finding that bears on this claim
-- [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](teacher-induction-no-classroom-practice-gains-year-1.md) — a narrower finding that bears on this claim
-- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — a narrower finding that bears on this claim
-- [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — a narrower finding that bears on this claim
-- [One year of comprehensive teacher induction showed no impact on student achievement](one-year-induction-no-impact.md) — related
-- [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
+- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](comprehensive-induction-no-retention-gain-first-year.md) — a narrower finding that bears on this claim
+- [One year of comprehensive teacher induction showed no impact on student achievement](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](two-year-comprehensive-induction-boosts-achievement.md) — related
-- [Comprehensive teacher induction produced no significant improvements in student achievement in year 1](teacher-induction-no-achievement-gains-year-1.md) — related

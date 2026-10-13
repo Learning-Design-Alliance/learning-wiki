@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (18 for, 18 mixed) · 28 studies (15 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 28 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (18 for, 18 mixed) · 31 studies (16 causal, 7 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -37,7 +37,7 @@ Three facts change the decision most. Ask for them when the brief omits them: **
 |---|---|---|
 | The lesson explains a process or system, and learners are `novice` on it | Add a picture that depicts the process or structure the words describe; keep it to the parts the words name | [Words with pictures against words alone](../claims/multimedia-principle-improves-learning.md) [+M] (two lab experiments, immediate test) |
 | Words and the picture they describe are on different parts of the screen or page, or arrive at different times | Put each label or sentence next to the part of the picture it refers to, and present narration at the same time as the matching animation | [Spatially integrating text and diagrams](../claims/split-attention-effect-degrades-learning.md) [+M] (meta-analysis, g = 0.63); [Contiguity principles](../claims/contiguity-principles-mayer-2008.md) [+M] (Mayer's programme, effect size 1.12) |
-| The lesson carries interesting but unneeded material (stories, background music, decorative images, extra facts) | Cut it, and keep only what the explanation needs | [Coherence principle](../claims/coherence-principle-mayer-2008.md) [+M] (13 of 14 experiments, median d = 0.97); [Interesting but irrelevant additions](../claims/seductive-details-effect.md) [~M] (harm depends on image type and on learners' prior knowledge) |
+| The lesson carries interesting but unneeded material (stories, background music, decorative images, extra facts) | Cut it, and keep only what the explanation needs | [Coherence principle](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+M] (13 of 14 experiments, median d = 0.97); [Interesting but irrelevant additions](../claims/seductive-details-effect.md) [~M] (harm depends on image type and on learners' prior knowledge) |
 | An animation or diagram is explained by narration, and on-screen text repeats the narration word for word | Drop the duplicated on-screen text, or keep only key terms | [Redundancy principle](../claims/redundancy-principle-mayer-2008.md) [+M] (5 of 5 experiments, median d = 0.72); qualified by [Duplicated words](../claims/redundancy-hurts-learning.md) [~S] (with no picture, or for low prior knowledge learners at the system's pace, spoken plus written did not hurt) |
 | Words accompany a diagram or animation, and the words could be spoken | Speak them rather than print them, when learners can follow spoken language at that pace | [Modality principle](../claims/modality-principle-mayer-2008.md) [+M] (17 of 17 experiments, median d = 1.02); [Modality effect](../claims/modality-effect-spoken-text-visual-information.md) [+W] (Sweller and colleagues' review) |
 | Learners are reading in a second language, are deaf or hard of hearing, or study where they cannot listen | Keep printed words, placed next to the picture, and give learner control of pace | untested proposal; the modality evidence assumes learners can follow the spoken words |

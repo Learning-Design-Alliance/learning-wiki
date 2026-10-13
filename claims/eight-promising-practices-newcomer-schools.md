@@ -43,4 +43,4 @@ Qualitative multi-case study: each of the five schools participated in a two-day
 
 
 ## Related Claims
-- [The five bright-spot schools were selected from 116 identified newcomer schools through screening and two-day site visits](five-bright-spots-selection-method.md) — a narrower finding that bears on this claim
+- The five bright-spot schools were selected from 116 identified newcomer schools through screening and two-day site visits — a narrower finding that bears on this claim

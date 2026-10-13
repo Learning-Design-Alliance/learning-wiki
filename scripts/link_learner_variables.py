@@ -69,6 +69,12 @@ SYNONYMS = {
                         "executive function", "self-monitoring", "goal setting", "strategy use"],
     "time-and-continuity": ["time on task", "attendance", "absenteeism", "summer learning", "learning loss",
                             "instructional time", "dosage", "interruption"],
+    "socioeconomic-status": ["socioeconomic status", "SES", "low-income", "low income", "poverty", "economically disadvantaged",
+                             "free or reduced-price lunch", "free school meals", "Pell", "first-generation", "first generation",
+                             "family income", "parental education", "disadvantaged students"],
+    "learning-disabilities": ["learning disability", "learning disabilities", "specific learning disability", "dyslexia",
+                              "dyscalculia", "autism", "autistic", "intellectual disability", "special educational needs",
+                              "special education", "IEP", "students with disabilities", "developmental disability"],
     "working-memory": ["working memory", "cognitive load", "memory capacity", "element interactivity",
                        "short-term memory", "cognitive overload"],
 }

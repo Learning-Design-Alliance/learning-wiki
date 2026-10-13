@@ -17,7 +17,7 @@ sources:
 # Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief recommends creating leadership opportunities for strong teachers, particularly teachers of color, since diversifying school leadership begins with diversifying the educator workforce. It warns that "racist promotion practices that favor White men can prevent teachers of color from being 'tapped'" and urges superintendents, who do most principal hiring, to intentionally create promotion opportunities, use diverse search committees, and shift hiring timelines earlier in the year.
@@ -38,6 +38,11 @@ The brief recommends creating leadership opportunities for strong teachers, part
 ### Target Learning Goals
 - Growing a diverse pipeline of qualified school leader candidates
 - Reducing bias in school leader hiring and promotion
+
+## Claims
+
+- [When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater](../claims/diverse-finalist-pool-raises-diverse-hire-odds.md) [+W]
+- [Racist hiring practices reduce African American candidates' job offers despite equal or better credentials](../claims/racist-hiring-practices-toc-candidates.md) [-W]
 
 ## Related Strategies
 

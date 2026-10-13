@@ -12,7 +12,7 @@ generated:
 # Address Digital Literacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Addressing digital literacy means deliberately teaching the digital skills, vocabulary, and tool conventions a course or program depends on, instead of assuming learners arrive with them. It includes diagnosing actual skill levels, providing direct instruction and practice in the required tools and concepts, and making support available as tasks increase in complexity. The strategy treats digital competence as learnable content, not a prerequisite.
@@ -59,6 +59,10 @@ Digital skill varies widely within any cohort, and self-reported confidence is a
 4. **Practice at low stakes.** Provide a sandbox task that uses the same tools as graded work but carries no penalty, with [Assessment](../elements/assessment.md) feedback at the task level [Feedback is most effective when it addresses the task and process rather than the learner.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 5. **Embed and space.** Require tool use in subsequent authentic tasks so skills are retrieved and consolidated rather than demonstrated once.
 6. **Differentiate.** Offer optional extension support for proficient learners and structured support for novices, adjusting as the course progresses.
+
+## Claims
+
+- [On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%)](../claims/competency-adequacy-largest-policy-gap.md) [+W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Interaction with Natural Environment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Interaction with the natural environment means deliberately incorporating natural elements into learning contexts: unrestricted views of greenery from classroom windows, indoor plants, natural materials, and lessons conducted outdoors. The strategy draws on Attention Restoration Theory, which holds that exposure to nature engages involuntary attention and allows depleted directed-attention resources to recover [Kaplan, 1995](https://doi.org/10.1016/0272-4944(95)90001-2) [+M]. It is an environmental intervention rather than an instructional one: it does not teach content directly, but replenishes the attentional capacity learners need to engage with it.
@@ -55,6 +55,10 @@ Nature exposure functions as a low-cost lever on the attentional resources that 
 3. Schedule short nature-based breaks between cognitively demanding blocks, treating them as attention recovery rather than lost time — this complements load-reduction tactics such as [Chunking](../principles/chunking.md) within the same [Cognitive Load Theory](../principles/cognitive-load-theory.md) framing
 4. Where feasible, relocate selected lessons outdoors on a recurring basis, with clear task structure to limit distraction
 5. Monitor outcomes: track on-task behavior, disciplinary incidents, and performance before and after changes
+
+## Claims
+
+- [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](../claims/daylight-green-views-benefit-students.md) [+W]
 
 ## Related Strategies
 - Physical activity breaks — share the attention-restoration rationale; movement and green exposure are often combined

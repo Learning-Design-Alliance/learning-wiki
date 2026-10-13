@@ -17,7 +17,7 @@ sources:
 # Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 associational, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that curricula incorporate explicit instruction in effective AI prompting and information verification to help students recognize both advantages and risks of AI-generated content. Students found that AI generated clear instructions "only when provided with sufficiently detailed input," underscoring the importance of prompting techniques. Verification skills are needed because AI content may contain inaccuracies in calculations and practical details.
@@ -41,6 +41,12 @@ The article recommends that curricula incorporate explicit instruction in effect
 - information verification
 - academic integrity
 - critical evaluation of AI-generated content
+
+## Claims
+
+- [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](../claims/bounded-trust-uneven-verification-behaviors.md) [+W]
+- [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](../claims/students-top-concerns-output-quality-verification-burden.md) [+W]
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](../claims/genai-accuracy-overreliance-challenges-hss.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Use metaphor workshops to surface stakeholder assumptions about GenAI in assessment redesign, policy development and professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends a structured, social workshop format in which participants generate, display and critique metaphors for GenAI using sticky notes, a metaphor gallery, and ticks, crosses and question marks for agreement, disagreement and curiosity. It "provides educators a social, structured way to engage critically with GenAI that assumes no technical expertise". Suggested uses include helping a teaching team surface assumptions before redesigning assessments, gathering diverse stakeholder perspectives when developing AI policies, and addressing specific fears surfaced through metaphors in professional development.
@@ -39,6 +39,10 @@ The article recommends a structured, social workshop format in which participant
 ### Target Learning Goals
 - critical reflection on GenAI's ethical and societal dimensions
 - collective sensemaking about emerging technologies
+
+## Claims
+
+- [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](../claims/agency-metaphors-genai-fear-of-agency-loss.md) [+W]
 
 ## Related Strategies
 

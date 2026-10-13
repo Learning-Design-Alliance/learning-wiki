@@ -17,7 +17,7 @@ sources:
 # Associated project assessing long-term impacts of KIPP middle schools on college enrollment and persistence
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Beyond the achievement brief, the page lists an associated project, "Assessing the Long-Term Impacts of KIPP Middle Schools on College Enrollment and Persistence," with a stated time frame of 2018-2019 and prepared for Arnold Ventures. This project extends the evaluation of KIPP middle schools from achievement outcomes to longer-term postsecondary outcomes.
@@ -39,7 +39,7 @@ Beyond the achievement brief, the page lists an associated project, "Assessing t
 ## Claims
 
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-continuing-students-college-preparation.md) [+W]
-- [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-college-prep-impacts-continuing-students.md) [+W]
+- [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-continuing-students-college-preparation.md) [+W]
 
 ## Related Elements
 - [Kipp Middle Schools Intervention](../products/kipp-middle-schools.md)

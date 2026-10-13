@@ -43,5 +43,5 @@ Independent-samples t-test from the June 2018 survey comparing role groups (Tabl
 
 
 ## Related Claims
-- [League of Innovative Schools superintendents rate research and evidence's role in adoption decisions significantly higher than non-League respondents](league-members-rate-research-higher-than-non-league.md) — related
+- League of Innovative Schools superintendents rate research and evidence's role in adoption decisions significantly higher than non-League respondents — related
 - [K-12 education respondents rate research and evidence as playing a moderate to highly important role in program adoption and procurement decisions](survey-respondents-rate-research-significant-role-adoption.md) — related

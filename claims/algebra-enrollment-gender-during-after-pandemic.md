@@ -43,7 +43,7 @@ Third analysis described in the brief: an exploratory examination of whether "en
 
 
 ## Related Claims
-- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](algebra-8th-grade-placement-outcomes-brief.md) — related
+- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, including enrollment among students ready for Algebra](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — related
 - [Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic](gender-gap-trends-three-national-assessments-8th-grade.md) — related
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — related

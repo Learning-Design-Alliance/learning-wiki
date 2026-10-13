@@ -17,7 +17,7 @@ sources:
 # Use the five GAA-LS subscales to target instruction and make AI-related assessment expectations visible in assessment briefs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends using the GAA-LS diagnostically: for instructors, "The five subscales can therefore inform targeted teaching rather than broad warnings about AI use." For course design, the scale points to elements that should be made visible in assessment briefs: criteria, permitted and prohibited AI support, expectations for checking outputs, rules for acknowledging assistance, and ways to use feedback in revision. For institutions, the instrument offers a way to evaluate whether policy messages are becoming usable student knowledge.
@@ -35,6 +35,10 @@ The article recommends using the GAA-LS diagnostically: for instructors, "The fi
 
 ### Target Learning Goals
 - responsible GenAI use in assessment, disclosure of AI assistance, critical use of AI feedback
+
+## Claims
+
+- [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](../claims/gaa-ls-five-factor-efa-structure.md) [+W]
 
 ## Related Strategies
 

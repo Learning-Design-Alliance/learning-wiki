@@ -63,9 +63,9 @@ Disaggregated district data from the same Chronic Absence section. The report al
 
 ## Related Claims
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
-- [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
-- [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related
+- Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related
+- Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24 — related
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
 - [By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage](english-learners-36-percent-chronically-absent-2021-22.md) — related
-- [Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average](west-kern-ela-proficiency-gains.md) — related
+- Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average — related
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related

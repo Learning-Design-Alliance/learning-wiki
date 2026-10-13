@@ -25,7 +25,7 @@ sources:
 # Selecting Tiered Vocabulary Words
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 This strategy categorizes candidate vocabulary words into three tiers to prioritize instruction: Tier 1 (everyday words like *run* or *happy* that rarely require instruction), Tier 2 (high-frequency academic words like *analyze*, *reluctant*, or *significant* that appear across contexts and are crucial for mature language), and Tier 3 (low-frequency, content-specific words like *photosynthesis* or *tariff* tied to a topic or text). Instruction concentrates on Tier 2 words for broadest academic benefit, supplemented by Tier 3 words needed to access current content. Learners may rate their own word knowledge and propose candidate words, giving the instructor formative data for selection.
@@ -71,7 +71,7 @@ Because instructional time and working memory are limited, word selection is the
 3. **Have learners rate their knowledge** of the shortlist using a three-point self-rating before instruction ([Assess Performance](../elements/assess-performance.md)).
 4. **Select 5–8 instructional words**, weighting Tier 2 words and unknown Tier 3 words required for comprehension; drop words most students already rate as known.
 5. **Teach selected words with robust instruction** — student-friendly definitions, multiple contexts, and active processing — rather than dictionary-copying ([Direct Instruction](../elements/direct-instruction.md) paired with [Annotating](../principles/annotating.md)).
-6. **Revisit words across days** in new contexts so knowledge consolidates ([Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]).
+6. **Revisit words across days** in new contexts so knowledge consolidates ([Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Frayer Model](frayer-model.md) — a common format for deep processing of the selected Tier 2 words

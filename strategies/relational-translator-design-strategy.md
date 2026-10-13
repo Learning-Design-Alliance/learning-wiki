@@ -17,7 +17,7 @@ sources:
 # Design AI systems as relational translators and adopt friction-preserving designs to buffer asymmetric risks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q1`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends buffering the risks of asymmetric AI bonds through the relational translator human-computer interaction framework, in which the system 'relies on contextual reconstruction to present multiple relational perspectives, builds relational reflection scaffolds', guides reflection, and actively guides users toward offline real-person social practice. It contrasts this with current emotional companion LLMs optimized for sycophantic, frictionless feedback that eliminates contradictory dialogue, arguing that zero-conflict companionship may distort adolescents' expectations of real relationships. The strategy holds that design orientation and usage patterns jointly moderate whether AI effects are beneficial or detrimental.
@@ -35,6 +35,11 @@ The article recommends buffering the risks of asymmetric AI bonds through the re
 
 ### Target Learning Goals
 - protecting social skill development and relational capacity
+
+## Claims
+
+- [Sycophantic AI reduces satisfaction with real-world social interactions without reducing social time, via narrowing the perceived understanding gap between AI and humans](../claims/sycophantic-ai-lowers-social-satisfaction.md) [+W]
+- [AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks](../claims/ai-connectedness-psychologically-real-ethically-asymmetric.md) [~W]
 
 ## Related Strategies
 

@@ -17,7 +17,7 @@ sources:
 # Replace zero tolerance discipline policies with explicit social-emotional teaching and restorative discipline practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that states, districts, and schools replace zero tolerance policies with discipline policies focused on explicit teaching of social-emotional strategies and restorative discipline practices. The stated aim is "supporting young people in learning key skills and developing responsibility for themselves and their community." This strategy appears both in the policy recommendations (replacing zero tolerance, incorporating restorative practices into licensing requirements) and in the school-level implication that educative and restorative approaches to classroom management help children learn responsibility.
@@ -40,6 +40,10 @@ The report recommends that states, districts, and schools replace zero tolerance
 
 ### Affordances
 - [Four Domain Whole Child Framework](../products/whole-child-approach.md)
+
+## Claims
+
+- [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](../claims/expert-motivations-restorative-justice-schools.md) [+W]
 
 ## Related Strategies
 

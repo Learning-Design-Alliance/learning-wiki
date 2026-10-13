@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
@@ -54,6 +54,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)](../claims/sidd-mechanism-for-ai-ive-pbl-outcomes.md) [+W]
+- [The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions](../claims/conceptual-reasoning-absent-from-discourse-head.md) [-W]
 
 ## Related Elements
 - [Socratic Seminar](socratic-seminar.md) — a formalized discourse structure built on questioning

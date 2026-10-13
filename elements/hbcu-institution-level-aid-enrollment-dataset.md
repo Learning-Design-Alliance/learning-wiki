@@ -17,7 +17,7 @@ sources:
 # Institution-level dataset on HBCU financial aid and enrollment around the 2012 PLUS credit-standard tightening
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (10 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 The article's evidence base is institution-level data used to "examine financial aid and enrollment changes in the first two academic years affected by the new credit standards (2012-13 and 2013-14)." It covers PLUS loan volumes, other federal financial aid, and enrollment at HBCUs relative to other institutions. The article does not describe the dataset's source, coverage, or measures beyond this use.
@@ -40,7 +40,7 @@ The article's evidence base is institution-level data used to "examine financial
 
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](../claims/hbcu-enrollment-continued-declining-2013-14.md) [+W]
 - [HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students](../claims/hbcu-enrollment-declines-larger-than-other-institutions.md) [+W]
-- [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](../claims/plus-declines-not-fully-replaced-other-aid.md) [+W]
+- [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](../claims/other-federal-aid-did-not-offset-plus-decline.md) [+W]
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](../claims/plus-loans-declined-substantially-hbcus-2012-13.md) [+W]
 - [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](../claims/plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) [+W]
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](../claims/plus-tightening-changed-hbcu-aid-and-enrollment.md) [+W]

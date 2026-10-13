@@ -12,7 +12,7 @@ generated:
 # Temperature Monitoring for Learning Environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 3 studies (2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy involves systematically monitoring the temperature of a learning environment and making adjustments to maintain conditions within the range associated with optimal cognitive performance. Environments that are too cold increase distractibility and fidgeting; environments that are too warm produce discomfort, drowsiness, and reduced concentration. Implementation ranges from building-level HVAC policy to direct intervention — adjusting thermostats, opening windows, using fans, or giving learners personal control over their immediate environment.
@@ -55,6 +55,10 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 3. **Build a feedback loop.** Use brief [Check-Ins](../principles/check-ins.md) or comfort surveys so learners can report discomfort; treat thermal complaints as actionable data, applying the same task-level responsiveness that makes [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) effective [+W].
 4. **Offer personal control.** Where a single setpoint cannot satisfy everyone, provide fans, layered-clothing norms, or seating choice — learner-controlled adjustment is the practical form of [Accommodations](../elements/accommodations.md) for thermal variation [~M].
 5. **Monitor behavior as a proxy.** Watch for fidgeting, drowsiness, and off-task behavior as early indicators that conditions have drifted, and re-check instruments.
+
+## Claims
+
+- [Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable](../claims/heat-effects-more-extreme-high-poverty-schools-cooling.md) [~W]
 
 ## Related Strategies
 - Environmental monitoring of lighting and acoustics — temperature is one of several physical conditions that set the floor for attention; treat them as a bundle rather than in isolation

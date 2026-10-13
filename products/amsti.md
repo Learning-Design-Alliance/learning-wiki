@@ -18,7 +18,7 @@ sources:
 # AMSTI
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The Alabama Math, Science, and Technology Initiative is a state-run programme that combines summer teacher training, school-year coaching, and rotating instructional materials kits to support hands-on, inquiry-based mathematics and science instruction.

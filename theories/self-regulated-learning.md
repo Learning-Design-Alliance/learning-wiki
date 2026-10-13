@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 44 studies (19 associational, 10 causal, 4 design, 3 review, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 44 report an effect size · 35 claims rest on one study
+> **Evidence** · 47 claims (22 for, 22 mixed, 3 against) · 45 studies (19 associational, 10 causal, 4 review, 4 design, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 45 report an effect size · 36 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -96,6 +96,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](../claims/repeated-rapid-guessing-self-efficacy-self-management.md) [~M]
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](../claims/within-group-gains-design-and-ai-readiness-only.md) [-W]
 - [Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students](../claims/writing-code-as-prompt-strategy-correlates-solving.md) [~W]
+- [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](../claims/agentic-ai-evidence-strongest-tutoring-srl-coaching.md) [+W]
 
 ## Related Theories
 

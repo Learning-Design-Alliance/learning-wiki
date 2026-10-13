@@ -17,7 +17,7 @@ sources:
 # Design AI decision-support systems that are transparent, context-sensitive, and hybrid-intelligence oriented
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review derives design implications for future AI decision-support systems in higher education, stating that "the study derives design implications for the development of more transparent, context-sensitive, and hybrid intelligence decision-support systems in higher education." It highlights the open question of how alternative forms of student data visibility, attentional guidance, and interface design could support lecturer decisions currently underrepresented, such as emotional, ethical, and curriculum decisions.
@@ -38,6 +38,10 @@ The review derives design implications for future AI decision-support systems in
 
 ### Affordances
 - Socio Technical Mechanisms Ai Lecturer Decisions
+
+## Claims
+
+- [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](../claims/ai-support-concentrated-instructional-assessment-feedback-decisions.md) [~W]
 
 ## Related Strategies
 

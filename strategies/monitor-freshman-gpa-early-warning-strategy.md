@@ -17,7 +17,7 @@ sources:
 # Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (4 associational, 1 design), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The article supports district and school use of ninth-grade GPA as an early warning indicator, beyond the binary Freshman OnTrack measure, to identify students who will benefit from assistance. Districts are "increasingly turning to 'early warning indicators' like Freshman OnTrack as a way of identifying students who will benefit from assistance," and broadening the focus to overall GPA could extend benefits to college outcomes. Because graduation rates differ sharply between F and D students, the article concludes D students need attention too.
@@ -41,6 +41,12 @@ The article supports district and school use of ninth-grade GPA as an early warn
 ## Claims
 
 - [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
+- [Freshman GPA is highly stable, correlating 0.87 with eleventh-grade GPA](../claims/freshman-gpa-stable-through-eleventh-grade.md) [+W]
+- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](../claims/gpa-most-predictive-attainment-english-learners.md) [+W]
+- [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](../claims/ninth-grade-gpa-predicts-graduation.md) [+W]
+- [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](../claims/ninth-grade-gpa-predicts-college-enrollment-persistence.md) [+W]
+- [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](../claims/on-track-freshman-courses-predict-graduation.md) [+W]
+- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](../claims/off-track-ninth-grade-graduation-odds.md) [+W]
 
 ## Related Strategies
 

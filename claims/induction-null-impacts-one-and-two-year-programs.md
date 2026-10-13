@@ -47,8 +47,6 @@ The report states the null second-year findings "was true whether induction prog
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — a broader claim this one bears on
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
-- [Comprehensive teacher induction produced no significant improvements in student achievement in year 1](teacher-induction-no-achievement-gains-year-1.md) — related
-- [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](teacher-induction-no-classroom-practice-gains-year-1.md) — related
-- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
-- [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
-- [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
+- [Comprehensive teacher induction produced no significant improvements in student achievement in year 1](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
+- [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
+- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](comprehensive-induction-no-retention-gain-first-year.md) — related

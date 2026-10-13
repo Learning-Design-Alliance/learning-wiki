@@ -49,7 +49,6 @@ The Education Trust's analysis of 2018-19 California K-12 public school data ret
 - [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — related
 - [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
 - [In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers](pa-teachers-of-color-6-4-percent-vs-35-1-students.md) — related
-- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-brief-assertion.md) — related
-- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-regardless-of-race.md) — related
+- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — related
 - [Only 20% of the U.S. national teacher workforce is comprised of teachers of color while most P-12 public school students are children of color](teacher-workforce-diversity-disparity-20-percent.md) — a broader claim this one bears on
 - [In Texas (2018-19), people of color were 72.5% of students but only 41.4% of teachers](texas-teacher-student-diversity-gap-2018-19.md) — related

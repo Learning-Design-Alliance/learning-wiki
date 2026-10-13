@@ -43,6 +43,6 @@ Descriptive Figure 5 scatterplots comparing each school's pre- and post-pandemic
 
 
 ## Related Claims
-- [Changes in absence rates from 2018-19 to 2022-23 varied considerably across CPS schools, with most schools showing moderate-to-large increases](cps-absence-change-varies-by-school.md) — possibly the same claim (merge candidate)
+- Changes in absence rates from 2018-19 to 2022-23 varied considerably across CPS schools, with most schools showing moderate-to-large increases — possibly the same claim (merge candidate)
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
-- [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
+- Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related

@@ -17,7 +17,7 @@ sources:
 # Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a cognitive-psychology-informed research agenda for generative AI in education. Researchers should "differentiate learning from performance" using process-oriented assessments such as retention and transfer tests, testing effects and delayed recall tasks; investigate how generative AI influences encoding, consolidation and retrieval using cognitive load theory paradigms; and study longitudinal effects including interactions with prior knowledge.
@@ -38,6 +38,10 @@ The article proposes a cognitive-psychology-informed research agenda for generat
 - durable learning
 - knowledge retention
 - transfer of knowledge
+
+## Claims
+
+- [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](../claims/genai-chemistry-evidence-short-term-outcomes.md) [+W]
 
 ## Related Strategies
 

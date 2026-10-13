@@ -17,7 +17,7 @@ sources:
 # Institutional and professional support for teacher educators' GenAI-specific TPK through practical training, policy clarity, and ethical guidelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that teacher educators be supported institutionally and professionally through practical training, clear policies, and ethical guidelines for GenAI adoption. It reports that "TEs across institutions express an urgent need for practical training, policy clarity, and ethical guidelines to support confident and responsible adoption of GenAI," and concludes that higher education institutions enable responsible AI integration "by fostering coherent strategies, supportive policies, and sustained professional development." Specific recommendations include professional development incorporating explainable AI, prompt engineering, and accountability modules, and project-based AI literacy learning with reflection.
@@ -42,6 +42,10 @@ The review recommends that teacher educators be supported institutionally and pr
 
 ### Affordances
 - [Genai Specific Tpk Framework](../theories/tpack.md)
+
+## Claims
+
+- [The baseline country difference in GenAI pedagogical readiness was explained by exposure and institutional conditions: the Kazakhstan coefficient fell from B = 0.205 to a non-significant B = 0.041](../claims/institutional-conditions-explain-genai-readiness-country-gap.md) [+W]
 
 ## Related Strategies
 

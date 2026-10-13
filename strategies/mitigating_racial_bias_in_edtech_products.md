@@ -12,7 +12,7 @@ generated:
 # Mitigating Racial Bias in Edtech Products
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Mitigating racial bias in edtech products means systematically examining how a product's data, models, content, and interaction design affect students differently by race, and redesigning so that Black and Brown students are served well rather than as an afterthought. The **AI in Education Toolkit for Racial Equity** operationalizes this as actions across the full product lifecycle: interrogating training data and labels, surfacing assumptions embedded in personas and use cases, testing algorithmic performance across racial groups, and designing with — not merely for — Black and Brown students and educators. It is a sociotechnical strategy: bias lives in datasets, proxies, defaults, and deployment contexts simultaneously, so no single technical fix suffices.
@@ -60,6 +60,10 @@ Bias in educational AI is well documented: automated systems can encode racial d
 4. **Design with communities.** Run compensated co-design sessions with Black and Brown students, families, and educators; build [Building Empathy](../principles/building-empathy.md) through direct contact, not demographic abstractions.
 5. **Build in human oversight.** Require human review for high-stakes automated decisions (placement, discipline flags, opportunity recommendations) and provide appeal mechanisms.
 6. **Assess and iterate.** Monitor disaggregated outcomes post-launch and re-run audits on a schedule; use [Assess Performance](../elements/assess-performance.md) checkpoints so equity review is a recurring practice, not a gate passed once.
+
+## Claims
+
+- [Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity](../claims/image-skin-tone-and-group-diversity-bias.md) [+W]
 
 ## Related Strategies
 

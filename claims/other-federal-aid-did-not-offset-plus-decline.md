@@ -3,6 +3,7 @@ type: claim
 title: Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs
 description: Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs
 id: other-federal-aid-did-not-offset-plus-decline
+aliases: [plus-declines-not-fully-replaced-other-aid]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
+  - id: matthew-t-johnson-2019
+    resource: "https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
+    title: "Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards"
+    author: Matthew T. Johnson, Julie Bruch, Brian Gill
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r?` · `q2`
 
 ## Subclaims
+
 `q2 i?` Other types of federal financial aid did not fully compensate for the decline in PLUS lending at historically Black colleges and universities after the credit-standard tightening. [→ Matthew Johnson 2015](#matthew-johnson-2015)
+
+`q2 i?` Other types of federal financial aid did not fully replace the decreases in PLUS loans at HBCUs in 2012-13. [→ Matthew T. Johnson 2019](#matthew-t-johnson-2019)
 
 ## Evidence
 
@@ -39,12 +51,23 @@ The brief's descriptive analysis of federal aid patterns at HBCUs after the PLUS
 
 > "Other types of federal financial aid did not fully make up for the decline."
 
+### Matthew T. Johnson 2019
+
+Matthew T. Johnson, Julie Bruch, Brian Gill. (2019). Changes in HBCU Financial Aid and Student Enrollment After the Tightening of PLUS Credit Standards. Journal of Student Financial Aid, vol. 48, issue 2. https://www.mathematica.org/publications/changes-in-hbcu-financial-aid-and-student-enrollment-after-the-tightening-of-plus-credit-standards
+
+`q2 · i?` · `causal · r?`
+
+Institution-level analysis of HBCU financial aid in 2012-13 and 2013-14; the article states the PLUS decreases "were not fully replaced by other types of federal financial aid." No effect size is printed.
+
+> "and the decreases were not fully replaced by other types of federal financial aid"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](enrollment-decline-corresponds-to-plus-recipient-decline.md) — related
-- [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — possibly the same claim (merge candidate)
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — related
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related

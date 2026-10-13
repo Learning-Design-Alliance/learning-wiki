@@ -17,7 +17,7 @@ sources:
 # Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends assessing young children's progress through observational measures that span preschool to elementary ages, used for formative evaluation rather than accountability. It states that "Using a multimethod approach would provide a richer portrayal of children's performance," and cautions that "high stakes should never be attached to these measures."
@@ -35,6 +35,10 @@ The paper recommends assessing young children's progress through observational m
 
 ### Target Learning Goals
 - literacy and numeracy outcomes in early childhood programs
+
+## Claims
+
+- [High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.](../claims/no-high-stakes-on-observational-measures.md) [+W]
 
 ## Related Strategies
 - 

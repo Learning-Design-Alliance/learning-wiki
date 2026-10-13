@@ -43,7 +43,6 @@ Simulation study anchored on a randomized experiment of students in an online co
 
 
 ## Related Claims
-- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — a narrower finding that bears on this claim
-- [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](bayesian-adaptive-superior-inference-smaller-samples.md) — a narrower finding that bears on this claim
+- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-samples.md) — a narrower finding that bears on this claim
 - [Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies](bayesian-adaptive-smaller-informative-studies.md) — a broader claim this one bears on
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — related

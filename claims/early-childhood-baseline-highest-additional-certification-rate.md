@@ -44,6 +44,6 @@ Descriptive analysis by baseline certification area (table 2) shows early childh
 
 ## Related Claims
 - [Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)](additional-certificate-holders-less-experienced.md) — related
-- [A larger proportion of teachers in charter schools (14 percent) and New York City district schools (8 percent) earned additional certificates than in other need designations](charter-and-nyc-teachers-more-additional-certificates.md) — related
-- [About 5 percent of experienced New York State public school teachers in 2015/16 earned at least one additional certificate between October 2015 and October 2017](five-percent-experienced-ny-teachers-earned-additional-certificates.md) — related
+- A larger proportion of teachers in charter schools (14 percent) and New York City district schools (8 percent) earned additional certificates than in other need designations — related
+- About 5 percent of experienced New York State public school teachers in 2015/16 earned at least one additional certificate between October 2015 and October 2017 — related
 - [More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)](shortage-areas-dominate-additional-certification-special-education-most-common.md) — related

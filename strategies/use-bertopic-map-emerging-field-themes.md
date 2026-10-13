@@ -17,7 +17,7 @@ sources:
 # Use transformer-based topic modeling (BERTopic) to map thematic structure and evolution of an emerging research field
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article demonstrates using BERTopic — "a transformer-based topic modeling approach that leverages contextual embeddings" — on a publication corpus to identify major research topics, track their evolution over time, and recognize future research directions. Researchers studying emerging fields can apply this pipeline to obtain a data-driven thematic overview, as shown with 1,048 AIOL publications.
@@ -36,6 +36,10 @@ The article demonstrates using BERTopic — "a transformer-based topic modeling 
 
 ### Target Learning Goals
 - identifying research themes and trends in a field
+
+## Claims
+
+- [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](../claims/bertopic-aiol-major-research-themes.md) [+W]
 
 ## Related Strategies
 

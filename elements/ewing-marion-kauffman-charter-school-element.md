@@ -17,7 +17,7 @@ sources:
 # Ewing Marion Kauffman School: a tuition-free charter school serving Kansas City students in grades 5-10
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The Kauffman School is described as "a public, tuition-free charter school serving students in Kansas City, Missouri." In the 2016-17 school year it enrolled 884 students in grades 5 through 10, most of whom (85 percent) were low-income and 90 percent of whom were black or Hispanic. The school is the subject of an evaluation running from 2011 to 2024, prepared for the Ewing Marion Kauffman Foundation.
@@ -45,7 +45,7 @@ The Kauffman School is described as "a public, tuition-free charter school servi
 - [The Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts, and science in each of its first five years, beyond the growth of students in other Kansas City public schools](../claims/kauffman-school-positive-achievement-growth-impacts-five-years.md) [+W]
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](../claims/kauffman-school-seven-year-achievement-impacts.md) [+W]
 - [The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated](../claims/kauffman-act-scores-higher-impact-not-calculable.md) [+W]
-- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-math-reading-science.md) [+W]
+- [The Kauffman School had positive, statistically significant impacts on student achievement growth in mathematics, reading, and science across 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+W]
 
 ## Related Elements
 

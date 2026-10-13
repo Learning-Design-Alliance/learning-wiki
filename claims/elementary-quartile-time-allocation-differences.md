@@ -43,7 +43,7 @@ Stoelinga, S. R., with Hart, H. and Schalliol, D. (2008). The Work of Chicago Pu
 
 
 ## Related Claims
-- [CPS principals work about 60 hours per week and shifted time toward instructional activities from 1997 to 2007](cps-principals-time-shift-toward-instruction.md) — related
+- CPS principals work about 60 hours per week and shifted time toward instructional activities from 1997 to 2007 — related
 - [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
 - [Principals' email communication with teachers and parents expanded substantially by 2005, though most elementary principals still never emailed parents](principals-email-teachers-parents-expanded-2005.md) — related
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related

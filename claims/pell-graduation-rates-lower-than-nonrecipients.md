@@ -42,6 +42,9 @@ New Pell graduation-rate data requested from the 50 flagships under the Higher E
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Minority graduation rates at flagships improved relative to white students from 2005 to 2008, with some institutions closing gaps substantially](flagship-minority-graduation-gap-closing.md) — related
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related

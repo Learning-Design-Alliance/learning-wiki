@@ -16,7 +16,7 @@ sources:
 # Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Under Encourage Evaluation of Emerging Technologies, the framework recommends providing "opportunities to verify sources and cross-check information as well as opportunities for users to report errors or bias in generated outputs." Learners should reflect on the accuracy and potential bias of outputs, and "learners and educators to confirm, override, adapt, and modify outputs or recommendations as needed for the intended purpose and audience."
@@ -37,6 +37,10 @@ Under Encourage Evaluation of Emerging Technologies, the framework recommends pr
 
 ### Affordances
 - Skill Building Emerging Tech Durable Skills
+
+## Claims
+
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](../claims/low-trust-systematic-verification-genai-outputs.md) [+W]
 
 ## Related Strategies
 

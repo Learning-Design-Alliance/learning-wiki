@@ -41,7 +41,7 @@ Beginning in 2007, the District of Columbia implemented a systemic reform of edu
 - [Results for high school achievement are less clear because data limitations precluded a credible impact analysis](../claims/dc-high-school-results-inconclusive-data-limitations.md) [~W]
 - [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](../claims/dc-math-impacts-one-third-sd-new-orleans-comparison.md) [+W]
 - [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](../claims/dc-reform-gains-grade-8-math-not-reading-brief.md) [+W]
-- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](../claims/dc-reforms-larger-expected-grade4-math-reading-naep.md) [+W]
+- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](../claims/dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) [+W]
 - [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](../claims/dc-2007-reforms-teacher-quality-and-school-choice-aims.md) [+W]
 - [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](../claims/central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) [+W]
 

@@ -42,6 +42,9 @@ OLS regression analysis of College Scorecard, Third Way, and IPUMS data examinin
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood](demographics-threshold0-likelihood.md) — related
 - [Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework](pell-adjustment-narrows-pep-gaps.md) — related

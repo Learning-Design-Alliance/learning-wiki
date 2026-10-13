@@ -17,7 +17,7 @@ sources:
 # Integrate discussions of acceptable GenAI use directly into courses, assignments, and assessment guidelines, with explicit examples of permitted and non-permitted uses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that institutions complement formal GenAI regulations with pedagogical integration rather than restriction alone. It suggests "integrating discussions about acceptable AI use directly into courses, assignments, and assessment guidelines", and that "instructors could provide explicit examples of permitted and non-permitted uses of GenAI tools in specific learning contexts." This strategy responds directly to the observed uncertainty about rule-compliance among GenAI-using students.
@@ -36,6 +36,10 @@ The article recommends that institutions complement formal GenAI regulations wit
 ### Target Learning Goals
 - responsible and rule-compliant use of GenAI tools in academic work
 - academic integrity and responsible authorship
+
+## Claims
+
+- [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](../claims/awareness-does-not-yield-rule-compliance-clarity.md) [+W]
 
 ## Related Strategies
 

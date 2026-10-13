@@ -17,7 +17,7 @@ sources:
 # Use pre-k English proficiency screener scores to identify ELs who would benefit from additional academic support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that educators use English proficiency screener data as early as pre-k to identify ELs who would benefit from additional support, since "Starting school with low levels of English proficiency was related to lower academic performance." The screener signals academic risk on test scores and grades, though not attendance risk. This supports resource-allocation decisions by educators and policymakers.
@@ -36,6 +36,10 @@ The report recommends that educators use English proficiency screener data as ea
 ### Target Learning Goals
 - English language development
 - early literacy and academic performance
+
+## Claims
+
+- [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](../claims/low-screener-scores-performance-not-attendance.md) [+W]
 
 ## Related Strategies
 - 

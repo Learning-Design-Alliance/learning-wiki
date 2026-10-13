@@ -17,7 +17,7 @@ sources:
 # Use within-school random assignment of students as an evaluation design for school-based programs, learning implementation lessons from the TFA experiment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article treats random assignment of students within schools as a study design worth using despite its difficulties. It describes "the experience from one such study of Teach For America (TFA)" so that evaluators can learn from how that within-school randomization was carried out in practice between 2001 and 2004.
@@ -35,6 +35,10 @@ The article treats random assignment of students within schools as a study desig
 
 ### Target Learning Goals
 - Rigorous evaluation of the effects of school-based programs and interventions on student outcomes
+
+## Claims
+
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](../claims/within-school-randomization-trade-offs-tfa.md) [+W]
 
 ## Related Strategies
 - 

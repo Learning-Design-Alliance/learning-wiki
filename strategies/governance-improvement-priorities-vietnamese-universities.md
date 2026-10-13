@@ -17,7 +17,7 @@ sources:
 # Prioritize leadership development, legal-framework refinement, and dialogue mechanisms to strengthen university governance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article derives recommendations from its regression and ANOVA findings for policymakers and university leaders. Policymakers should improve the legal framework for autonomy and support smaller universities; leaders should invest in leadership development and establish dialogue mechanisms. The article states that since "leadership is the most influential factor, training and professional development programs in strategic governance, change management, decision-making, and communication should be implemented systematically and regularly."
@@ -36,6 +36,10 @@ The article derives recommendations from its regression and ANOVA findings for p
 
 ### Target Learning Goals
 - Governance effectiveness, leadership capacity, institutional autonomy implementation
+
+## Claims
+
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](../claims/leadership-strongest-predictor-vietnamese-governance.md) [+W]
 
 ## Related Strategies
 - 

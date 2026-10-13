@@ -17,7 +17,7 @@ sources:
 # Teach prompting and AI literacy as epistemic practice with structured guidance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review treats prompting in chemistry as an epistemic act, not merely a technical skill: a useful prompt specifies chemical constraints, relevant representations, assumptions, and adequacy criteria. It reports that "Preservice chemistry teachers initially relied heavily on copy-and-paste prompting and benefited from structured guidance", and that semester-long evidence suggests prompts become more purposeful with repeated instruction. AI literacy extends beyond tool operation to knowing when not to use GenAI, recognizing uncertainty, checking provenance, and understanding model- and version-dependent behavior.
@@ -41,6 +41,10 @@ The review treats prompting in chemistry as an epistemic act, not merely a techn
 
 ### Affordances
 - [Verification Centered Johnstone 3P Genai Architecture](../designs/verification-centered-johnstone-3p-genai-architecture.md)
+
+## Claims
+
+- [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](../claims/teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) [+W]
 
 ## Related Strategies
 

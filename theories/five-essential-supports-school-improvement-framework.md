@@ -17,7 +17,7 @@ sources:
 # Five essential supports framework for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 5 studies (5 associational), `q2`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (5 associational, 1 design), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 The UChicago Consortium's framework identifies five organizational domains that jointly matter for improving student outcomes in public elementary schools: "school leadership, professional capacity, parent-community ties, a student-centered learning environment, and instructional guidance." The framework holds that these supports matter in combination, not in isolation, and it underpins the survey-based diagnostic tools described in this paper.
@@ -40,7 +40,7 @@ The UChicago Consortium's framework identifies five organizational domains that 
 
 ### Claims
 
-- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/strong-supports-cluster-ten-times-more-likely-to-improve.md) [+S]
+- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+S]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+M]
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
 - [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]

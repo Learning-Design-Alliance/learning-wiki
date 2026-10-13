@@ -17,7 +17,7 @@ sources:
 # Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's future directions section recommends four research and development priorities for agentic AI in higher education: "Future research on agentic AI ecosystems in higher education should focus on advancing both technical capabilities and human -centered design principles." These are embedding accessibility and equity into system architecture from the outset (inclusive-by-design), developing standardized interoperable agent architectures, exploring human-AI collaboration models, and conducting real-world empirical implementation studies evaluating effectiveness, scalability, and ethical implications. A particularly important direction is human-AI co-evolution, where systems and human stakeholders continuously adapt to each other through feedback loops.
@@ -39,6 +39,10 @@ The article's future directions section recommends four research and development
 - equitable and inclusive learning at scale
 - human-AI co-evolution in educational environments
 - ethical alignment of AI systems with pedagogical goals
+
+## Claims
+
+- [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](../claims/inclusion-implicit-not-designed-in-agentic-systems.md) [-W]
 
 ## Related Strategies
 

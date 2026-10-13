@@ -17,7 +17,7 @@ sources:
 # Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends bridging the data divide between child welfare and education systems so adults can understand and support students' academic needs. WestEd and partners "brokered a first-ever data-sharing agreement between the California Department of Social Services ( CDSS ) and the California Department of Education ( CDE) as a critical step toward better understanding and serving the academic needs of youth in foster care." Without such data, students in foster care tend to become invisible in the education system.
@@ -35,6 +35,10 @@ The article recommends bridging the data divide between child welfare and educat
 
 ### Target Learning Goals
 - Targeted academic support, dropout prevention, and postsecondary preparation for students in foster care
+
+## Claims
+
+- [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](../claims/terminology-and-data-sharing-barriers-hmy.md) [+W]
 
 ## Related Strategies
 

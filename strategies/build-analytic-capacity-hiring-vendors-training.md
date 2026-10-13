@@ -17,7 +17,7 @@ sources:
 # Build agency analytic capacity by hiring technically skilled staff, partnering with vendors, and providing data-use training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes three routes education agencies used to strengthen their capacity to use data: "hiring technically skilled staff, developing partnerships with vendors, or providing training to support data use." These actions respond to staff acknowledgment that data use depends on technically skilled employees, and they complement building data systems that link data from multiple sources.
@@ -36,6 +36,10 @@ The report describes three routes education agencies used to strengthen their ca
 
 ### Target Learning Goals
 - Organizational capacity to collect, manage, analyze, and use data
+
+## Claims
+
+- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](../claims/agencies-built-linked-data-systems-and-analytic-capacity.md) [+W]
 
 ## Related Strategies
 

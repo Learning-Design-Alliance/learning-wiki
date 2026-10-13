@@ -63,5 +63,5 @@ CTC statewide data reported in the analysis show vacancies and misassignment in 
 
 ## Related Claims
 - [Regional pilot found some BLA-credentialed educators opt out of bilingual roles or leave them while staying in the same school or district](bla-educators-opt-out-of-bilingual-roles.md) — related
-- [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — a broader claim this one bears on
+- Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — a broader claim this one bears on
 - [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related

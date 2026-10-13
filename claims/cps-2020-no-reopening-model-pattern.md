@@ -43,9 +43,9 @@ Descriptive comparison of enrollment changes at the top 15 four-year colleges by
 
 
 ## Related Claims
-- [Immediate college enrollment among 2021 CPS graduates was 58.6%, with four-year enrollment recovering to pre-pandemic levels while two-year enrollment fell to 15.6%](cps-immediate-enrollment-2021-patterns.md) — related
+- Immediate college enrollment among 2021 CPS graduates was 58.6%, with four-year enrollment recovering to pre-pandemic levels while two-year enrollment fell to 15.6% — related
 - [CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)](cps-2020-four-year-enrollment-steady.md) — related
-- [CPS graduates in four-year colleges were slightly more likely to continue from spring to fall 2020 (80.6%) than in 2019 (79.0%)](cps-2020-four-year-retention-rose-slightly.md) — related
-- [Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups](cps-2020-two-year-declines-black-latinx-students.md) — related
-- [Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment](cps-immediate-enrollment-decline-2020.md) — related
-- [CPS class of 2020 graduates were less likely to enroll in two-year colleges (20.0% in 2019 vs. 16.4% in 2020)](cps-2020-two-year-enrollment-declined.md) — related
+- CPS graduates in four-year colleges were slightly more likely to continue from spring to fall 2020 (80.6%) than in 2019 (79.0%) — related
+- Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups — related
+- Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — related
+- CPS class of 2020 graduates were less likely to enroll in two-year colleges (20.0% in 2019 vs. 16.4% in 2020) — related

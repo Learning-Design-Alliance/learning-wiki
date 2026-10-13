@@ -48,4 +48,4 @@ Annual one-year retention analysis of state staffing data (figure 2) shows stabl
 - [Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)](lower-retention-at-below-average-proficiency-schools.md) — related
 - [The locale types with the lowest four-year principal retention differed across the three states](locale-retention-patterns-differ-by-state.md) — related
 - [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
-- [Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah](retention-by-student-racial-composition-state-differences.md) — related
+- Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah — related

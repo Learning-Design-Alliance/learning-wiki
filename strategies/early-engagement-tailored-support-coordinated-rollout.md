@@ -17,7 +17,7 @@ sources:
 # Engage campus stakeholders early, provide tailored ongoing support, and coordinate related initiatives when rolling out systemwide student success reforms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Lessons from EO 1110 implementation for future initiatives: "provide early and ongoing communication and supports that are tailored to campus needs," "support campuses to build capacity for cross-functional collaboration and integrated planning," and "look for opportunities to better integrate and coordinate related Chancellor's Office initiatives." These respond to interviewee reports of unclear communication, mixed resource feedback, and concurrent initiative burdens.
@@ -36,6 +36,10 @@ Lessons from EO 1110 implementation for future initiatives: "provide early and o
 
 ### Target Learning Goals
 - Institutional capacity to implement student success reforms effectively
+
+## Claims
+
+- [EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise](../claims/eo1110-urgency-catalyzed-cross-departmental-redesign.md) [+W]
 
 ## Related Strategies
 - 

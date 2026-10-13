@@ -30,7 +30,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (24 for, 3 mixed, 1 against) · 35 studies (11 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (23 for, 3 mixed, 1 against) · 35 studies (11 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,7 +135,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Morphological Instruction Improves Literacy](../claims/morphological-instruction-improves-literacy.md) [+M] — the same two syntheses as the vocabulary claim, on literacy outcomes
 - [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](../claims/math-vocabulary-levels-improve-post-test.md) [+W] — one class of 40 grade 8 students, pre–post without a comparison group, in a mathematical-communication intervention; bears on disciplinary vocabulary only weakly
 - [The concept model of vocabulary instruction produced larger gains in content-area vocabulary test performance than the definition/sentence-writing model for all six middle school students with learning disabilities](../claims/concept-model-beats-definition-model-vocabulary-ld.md) [+W] — attached 2026-10-07 from Fore III et al. (2007), which proposed "Teach content-area vocabulary to students with learning disabilities through explicit concept-model instruction rather than definition-only methods"; tests this page's relationship.
-- [The probability that students learn new words incidentally while reading is low—about 15 percent—motivating explicit vocabulary instruction](../claims/incidental-word-learning-while-reading-about-15-percent.md) [+W] — attached 2026-10-09 from Kamil et al. (2008), which proposed "Provide explicit vocabulary instruction in reading, language arts, and content-area classes".
+- [The probability that students learn new words incidentally while reading is low—about 15 percent—motivating explicit vocabulary instruction](../claims/incidental-vocabulary-exposure-limited.md) [+W] — attached 2026-10-09 from Kamil et al. (2008), which proposed "Provide explicit vocabulary instruction in reading, language arts, and content-area classes".
 - [Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies](../claims/academic-vocabulary-intensive-instruction-strong-evidence.md) [+W] — attached 2026-10-09 from Baker et al. (2014), which proposed "Select a small set of academic vocabulary words for in-depth instruction using explicit selection criteria"; tests this page's relationship.
 
 ## Objective and learner-valued goal

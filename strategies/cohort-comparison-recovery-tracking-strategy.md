@@ -17,7 +17,7 @@ sources:
 # Track pandemic recovery by comparing COVID-year student cohorts' gains and achievement gaps against pre-pandemic peers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief's analytic approach is to examine "academic gains in the 2022-23 school year relative to pre-pandemic years" and to track "the gap in achievement between the COVID year student group compared to their pre-pandemic peers." This cohort-comparison design lets education agencies quantify recovery progress and express remaining deficits in months of schooling needed to catch up.
@@ -35,6 +35,11 @@ The brief's analytic approach is to examine "academic gains in the 2022-23 schoo
 
 ### Target Learning Goals
 - Monitoring academic recovery and quantifying achievement deficits after pandemic disruption
+
+## Claims
+
+- [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](../claims/post-covid-recovery-diverges-across-schools.md) [+W]
+- [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](../claims/reading-catchup-4-point-1-months.md) [~W]
 
 ## Related Strategies
 - 

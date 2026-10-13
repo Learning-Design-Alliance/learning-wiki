@@ -47,4 +47,4 @@ The abstract states that the article discusses "how these advantages can be used
 - [Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor](cbt-manages-cheating-construct-irrelevance.md) — related
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — a broader claim this one bears on
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
-- [Student test disengagement may bias estimates of educational effectiveness based on observed test results](test-disengagement-may-bias-effectiveness-estimates.md) — related
+- [Student test disengagement may bias estimates of educational effectiveness based on observed test results](disengagement-undermines-score-inferences.md) — related

@@ -45,7 +45,7 @@ Survey report summary of Principal Leadership scale results for teachers in top-
 ## Related Claims
 - [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — related
 - [Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools](principal-leadership-regard-quartile-contrast.md) — related
-- [About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership](teachers-rate-principals-highly.md) — related
+- About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](instructional-leadership-high-ratings-both-quartiles-1997.md) — related
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related

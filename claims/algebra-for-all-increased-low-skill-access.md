@@ -45,4 +45,4 @@ Descriptive account of the 1997 Chicago policy that required algebra for all nin
 ## Related Claims
 - [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](algebra-for-all-created-mixed-ability-classrooms.md) — related
 - [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
-- [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — related
+- [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

@@ -17,7 +17,7 @@ sources:
 # Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends institutional-level responses to staff survey findings: clear governance frameworks for GenAI use and structured professional training programs for educators. The authors state that "there is an urgent need for clear governance frameworks, structured professional training programs," positioning these as urgent institutional priorities arising directly from staff concerns about integrity, equity, and uncertainty about responsibilities.
@@ -36,6 +36,11 @@ The article recommends institutional-level responses to staff survey findings: c
 
 ### Target Learning Goals
 - Responsible and pedagogically sound use of generative AI in learning and teaching
+
+## Claims
+
+- [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](../claims/faculty-reluctant-engagement-genai.md) [+W]
+- [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](../claims/under-10-percent-arab-he-formal-ai-training.md) [+W]
 
 ## Related Strategies
 

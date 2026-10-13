@@ -17,7 +17,7 @@ sources:
 # Prioritize trust calibration over trust maximization when evaluating explainability and other design factors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that research on AI design factors focus on fostering appropriate levels of trust rather than simply increasing trust. It argues that because AI systems still produce errors and hallucinations, "studyingtrustcalibration–ensuringusersrelyonAIappropriately–iscurrentlythemostpracticalandvaluablefocus". Concretely, it suggests evaluating explanations by whether they help users distinguish reliable from unreliable outputs, and comparatively investigating explanation format, timing, detail, and accuracy to clarify when explainability supports appropriate reliance versus overtrust or unnecessary distrust.
@@ -35,6 +35,10 @@ The review recommends that research on AI design factors focus on fostering appr
 
 ### Target Learning Goals
 - appropriate and calibrated reliance on AI-enabled systems
+
+## Claims
+
+- [The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data](../claims/nonlinear-trust-reliance-no-optimal-trust.md) [~W]
 
 ## Related Strategies
 

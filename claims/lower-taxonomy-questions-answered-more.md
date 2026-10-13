@@ -43,6 +43,6 @@ Descriptive analysis of mean answers per question by taxonomic category for the 
 
 
 ## Related Claims
-- [Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A](question-cognitive-level-differs-by-course-year.md) — related
+- Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related

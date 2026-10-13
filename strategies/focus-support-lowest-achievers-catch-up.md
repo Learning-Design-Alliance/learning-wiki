@@ -17,7 +17,7 @@ sources:
 # Focus instructional support on helping the lowest-achieving students catch up after pandemic disruptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The brief recommends targeting support toward the lowest-achieving students, because pandemic-era score dispersion grew mainly at the bottom of the distribution and low achievers improved least during 2021-22. It states there is "a critical need for focusing support to help the lowest achieving students catch up to address the achievement divide." This recommendation follows directly from the brief's own distributional findings.
@@ -36,6 +36,12 @@ The brief recommends targeting support toward the lowest-achieving students, bec
 
 ### Target Learning Goals
 - Closing pandemic-related achievement gaps in math and reading
+
+## Claims
+
+- [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](../claims/low-achievers-larger-impacts-less-improvement.md) [+W]
+- [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](../claims/variability-driven-by-bottom-of-distribution.md) [+W]
+- [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](../claims/pandemic-growth-varied-by-pre-pandemic-achievement-status.md) [+W]
 
 ## Related Strategies
 

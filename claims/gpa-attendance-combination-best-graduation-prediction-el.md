@@ -43,10 +43,9 @@ Logistic regression models predicting high school graduation separately for each
 
 
 ## Related Claims
-- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-attainment-risk-thresholds.md) — related
+- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-risk-thresholds-gpa-attendance-graduation.md) — related
 - [Only ninth-grade students with at least a 3.0 GPA had greater than a 1-in-4 chance of attaining a college credential, across all groups except long-term English Learners with IEPs](gpa-3-point-0-college-credential-threshold.md) — related
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — possibly the same claim (merge candidate)
-- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](gpa-most-predictive-indicator-el-groups.md) — related
-- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related
+- [GPAs are the most predictive single indicator of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates](gpa-most-predictive-attainment-english-learners.md) — related
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](gpa-test-scores-best-college-degree-prediction-el.md) — related

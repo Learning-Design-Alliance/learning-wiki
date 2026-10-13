@@ -18,7 +18,7 @@ sources:
 # NWEA MAP Growth 2022–23 achievement dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S. public-school students in grades 3–8, used to analyze achievement and growth during the 2022–23 school year and compare results with pre-pandemic cohorts.
@@ -28,7 +28,7 @@ A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 mi
 - **NWEA 2022-23 achievement dataset covering 6.7 million U.S. students in grades 3-8**: The evidence base for the brief is an achievement dataset drawn from "6.7 million U.S. public school students currently in grades 3 – 8." The study used it to examine "academic gains in the 2022-23 school year relative to pre-pandemic years" and to track the achievement gap between COVID-year students and their pre-pandemic peers. It is associated with NWEA's MAP Growth assessment products. (Karyn Lewis (2023))
 
 ### Claims
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/pandemic-recovery-stalled-2022-23.md) [+W]
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+W]
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](../claims/persistent-achievement-gaps-2022-23.md) [+W]
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](../claims/rebounding-across-all-school-poverty-levels.md) [+W]
 
@@ -65,7 +65,7 @@ The evidence base for the brief is an achievement dataset drawn from "6.7 millio
 
 ## Claims
 
-- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/pandemic-recovery-stalled-2022-23.md) [+W]
+- [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](../claims/2022-23-achievement-stalled-pandemic-recovery.md) [+W]
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](../claims/persistent-achievement-gaps-2022-23.md) [+W]
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](../claims/rebounding-across-all-school-poverty-levels.md) [+W]
 

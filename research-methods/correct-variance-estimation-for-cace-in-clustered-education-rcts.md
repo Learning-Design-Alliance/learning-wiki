@@ -21,7 +21,7 @@ sources:
 # Correct variance estimation for CACE in clustered education RCTs
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (3 causal, 2 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (3 causal, 2 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 The report's methodological contribution is to work out the correct variance formulas for the CACE estimator under clustered designs and to compare them with "those that are typically used in practice". Analysts estimating CACE in education RCTs should apply the correct variance formulas when assessing significance of the estimator, measured in nominal and standard deviation units.
@@ -34,7 +34,7 @@ The report's methodological contribution is to work out the correct variance for
 - **Causal inference and instrumental variables framework for identifying and estimating CACE in two-level clustered RCTs**: The article uses "a causal inference and instrumental variables framework to examine the identification and estimation of the CACE parameter for two-level clustered RCTs." This framework treats random assignment as an instrument for treatment receipt, addressing identification of the complier average causal effect in clustered education designs where students are nested within schools or similar units. (Peter Z. Schochet (2011))
 
 ### Claims
-- [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-correction-terms-matter-little.md) [+M]
+- [Variance correction terms matter little for CACE significance findings in education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+M]
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+M]
 - [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
 - [Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions](../claims/multi-armed-cace-complex-assumptions.md) [+W]

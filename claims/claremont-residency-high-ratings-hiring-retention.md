@@ -47,4 +47,4 @@ Case study report of program outcome data for the Claremont Fellows residency (2
 - [CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey](csub-residents-rate-programs-4-3-of-5.md) — related
 - [Graduates rate the Alder residency highly, with 97% rating it effective or very effective on the 2022–23 CTC completer survey](alder-completer-survey-satisfaction.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — a broader claim this one bears on
-- [Claremont's resident cohort grew from 5 residents in 2020 to 34 full-time residents in 2022–23 and became increasingly diverse](claremont-cohort-growth-and-diversification.md) — related
+- Claremont's resident cohort grew from 5 residents in 2020 to 34 full-time residents in 2022–23 and became increasingly diverse — related

@@ -12,14 +12,14 @@ generated:
 # Field Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q3`–`q4` · 2 of 8 report an effect size
 
 ## Description
 A field journal is a structured record learners maintain during direct engagement with phenomena, sites, organisms, communities, or processes — in field courses, labs, internships, or place-based learning. Entries typically combine observation (what was seen, measured, or heard), interpretation (what it might mean), and questions or reflections. The journal functions simultaneously as a data record, a thinking tool, and an artifact for later assessment or synthesis.
 
 ## Design Implications
 
-Field journals convert transient experience into durable, inspectable artifacts, forcing articulation of observations that would otherwise remain tacit [Elaborative interrogation — answering "why" and "how" questions about experience — improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Their power comes from the separation of observation from interpretation: requiring learners to distinguish what they noticed from what they infer builds disciplinary habits of evidence-based reasoning. Journals also support spaced revisiting, where earlier entries are re-read and reinterpreted in light of later experience [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+Field journals convert transient experience into durable, inspectable artifacts, forcing articulation of observations that would otherwise remain tacit [Elaborative interrogation — answering "why" and "how" questions about experience — improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Their power comes from the separation of observation from interpretation: requiring learners to distinguish what they noticed from what they infer builds disciplinary habits of evidence-based reasoning. Journals also support spaced revisiting, where earlier entries are re-read and reinterpreted in light of later experience [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -56,7 +56,7 @@ Field journals convert transient experience into durable, inspectable artifacts,
 2. **Provide an entry scaffold.** A simple repeated structure — observations, sketches or measurements, questions, tentative interpretation — keeps entries analyzable without over-constraining them.
 3. **Journal in situ.** Learners record during or immediately after engagement; delay sharply reduces the specificity of observation.
 4. **Respond early and often.** Instructor or peer commentary on early entries corrects narration-only habits before they solidify; brief written responses suffice.
-5. **Revisit and reinterpret.** Assign periodic re-reading of earlier entries with a new prompt ("What would you now revise?"), exploiting spacing [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+5. **Revisit and reinterpret.** Assign periodic re-reading of earlier entries with a new prompt ("What would you now revise?"), exploiting spacing [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 6. **Require synthesis.** A final product — a species account, site analysis, or reflective essay — must be built from journal evidence, giving the record a genuine purpose.
 
 ## Related Strategies

@@ -12,7 +12,7 @@ generated:
 # Peer Assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 associational, 1 review), `q2`–`q3` · 2 of 5 report an effect size
 
 ## Description
 Peer assessment arranges for learners to evaluate the quality of one another's work against explicit criteria, typically via rubrics, checklists, or structured feedback protocols. It functions simultaneously as an assessment mechanism (generating feedback at scale) and a learning activity (requiring assessors to internalize quality criteria and apply them to authentic examples).
@@ -58,6 +58,10 @@ Peer assessment operationalizes [Assessment for Learning](../principles/assessme
 3. Assign reviews: distribute work for anonymous review, typically 2–4 reviewers per artifact.
 4. Structure the feedback: require criterion-referenced comments plus one specific improvement suggestion, not just ratings.
 5. Close the loop: have authors revise based on feedback and optionally self-assess against the same rubric; instructor spot-checks a sample of reviews and grades.
+
+## Claims
+
+- [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](../claims/perceived-accuracy-lower-ctesp-context-difference.md) [~W]
 
 ## Related Strategies
 

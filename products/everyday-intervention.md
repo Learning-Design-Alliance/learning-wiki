@@ -22,7 +22,7 @@ sources:
 # EveryDay Intervention
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size
 
 ## Description
 A school- and district-partnered attendance intervention that analyzes attendance data and mails personalized absence reports to parents or guardians of students at risk of chronic absenteeism.
@@ -32,12 +32,12 @@ A school- and district-partnered attendance intervention that analyzes attendanc
 - **EveryDay Intervention Absence Reports program**: The EveryDay Intervention (formerly InClassToday) Absence Reports intervention partners with schools and districts to reduce absenteeism. After establishing a district partnership and securely receiving attendance data, the program "runs analyses to identify students who are at risk of being chronically absent" and generates "personalized Absence Reports with content tailored for each student" that are mailed directly to parents/guardians. Implementation requires minimal staffing: one district staff member supporting implementation at approximately 30 minutes per week and one district-level data staff member supporting data transfer, with no required technology or professional development be (Attendance (2018))
 
 ### Claims
-- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-reduce-absences-philadelphia-rct.md) [+W]
+- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
 - [The Absence Reports effect on absences replicates across urban, suburban, and rural elementary districts in California (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
 - [Across two randomized studies totaling 38,584 students, the weighted mean effect of Absence Reports on absences is +0.16, qualifying for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
-- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-california-replication-es-010.md) [+W]
-- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-016-strong-rating.md) [+W]
+- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
+- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -76,12 +76,12 @@ The EveryDay Intervention (formerly InClassToday) Absence Reports intervention p
 
 ## Claims
 
-- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-reduce-absences-philadelphia-rct.md) [+W]
+- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
 - [The Absence Reports effect on absences replicates across urban, suburban, and rural elementary districts in California (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
 - [Across two randomized studies totaling 38,584 students, the weighted mean effect of Absence Reports on absences is +0.16, qualifying for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
-- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-california-replication-es-010.md) [+W]
-- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-016-strong-rating.md) [+W]
+- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
+- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
 
 ## Related Elements
 
@@ -123,9 +123,9 @@ The EveryDay Intervention (formerly InClassToday) Absence Reports program "partn
 ## Claims
 
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
-- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-california-replication-es-010.md) [+W]
-- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-016-strong-rating.md) [+W]
-- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-reduce-absences-philadelphia-rct.md) [+W]
+- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](../claims/absence-reports-replication-california.md) [+W]
+- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+W]
+- [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](../claims/absence-reports-philadelphia-rct-es-019.md) [+W]
 
 ## Related Elements
 

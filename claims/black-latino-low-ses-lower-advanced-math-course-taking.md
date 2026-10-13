@@ -42,6 +42,9 @@ Descriptive analysis of the nationally representative HSLS:09 sample of over 23,
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Even among high-achieving students in schools offering advanced math, Black, Latino, and low-SES students took AP/IB calculus at far lower rates than Asian, White, and high-SES peers](high-achievers-ap-ib-calculus-access-gap.md) — a narrower finding that bears on this claim
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related

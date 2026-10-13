@@ -3,6 +3,7 @@ type: claim
 title: During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates
 description: During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates
 id: remote-covid-technology-access-problems-widespread
+aliases: [technology-access-problems-impede-participation]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,36 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
+  - id: means-2020
+    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    author: Means, B., and Neisler, J., with Langer Research Associates
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+  - id: means-2020-2
+    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    author: Means, B., and Neisler, J., with Langer Research Associates
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`–`q3`
 
 ## Subclaims
+
 `q2 i?` 44% of surveyed students reported internet connectivity issues serious enough to interfere with attending or participating in their courses at least occasionally, with 16% experiencing them often or very often; 23% reported hardware or software problems at least occasionally (8% often or very often). [→ Means 2021](#means-2021)
+
+`q3 i?` Internet connectivity issues interfered with course attendance or participation at least occasionally for 44 percent of students, with 16 percent experiencing them often or very often. [→ Means 2020](#means-2020)
+
+`q3 i?` Almost a quarter of students (23 percent) experienced hardware or software problems serious enough to impact participation at least occasionally. [→ Means 2020 (2)](#means-2020-2)
 
 ## Evidence
 
@@ -39,15 +61,37 @@ National probability-based KnowledgePanel survey of undergraduates whose in-pers
 
 > "Internet connectivity issues were serious enough to interfere with students’ ability to attend or participate in their courses at least occasionally for 44% of students, with 16% of students reporting that they experienced such problems often or very often."
 
+### Means 2020
+
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+
+`q3 · i?` · `associational · r2`
+
+Structured-response survey items asked students how often connectivity problems interfered with course participation. Ninety-five percent accessed courses via home internet; videoconferencing's high bandwidth demands are given as context.
+
+> "Internet connectivity issues were serious enough to interfere with students’ ability to attend or participate in their course at least occasionally for 44 percent of students, with 16 percent of students experiencing such problems often or very often."
+
+### Means 2020 (2)
+
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+
+`q3 · i?` · `associational · r2`
+
+Structured-response survey item on hardware/software problem frequency; ten percent of students shared their access device and three percent used a college-provided device.
+
+> "Almost a quarter of students (23 percent) experienced hardware or software problems serious enough to impact their ability to attend or participate in their course at least occasionally."
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
-- [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](technology-access-problems-impede-participation.md) — possibly the same claim (merge candidate)
 - [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — a narrower finding that bears on this claim
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
@@ -63,3 +107,7 @@ National probability-based KnowledgePanel survey of undergraduates whose in-pers
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
 - [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](contextual-factors-increase-test-anxiety.md) — related
+- [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
+- [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
+- [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related

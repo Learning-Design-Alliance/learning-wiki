@@ -17,7 +17,7 @@ sources:
 # Use longitudinal disengagement findings to inform detection of rapid guessing and interventions to reduce its effect on observed achievement test scores
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors draw practical implications from their longitudinal findings: because rapid guessing is largely state-like yet strongly tied to self-efficacy and self-management, detection and intervention efforts should attend to both situational conditions and student psychological measures. As they state, "These findings have implications for detecting rapid guessing and intervening to reduce its effect on observed achievement test scores."
@@ -35,6 +35,10 @@ The authors draw practical implications from their longitudinal findings: becaus
 
 ### Target Learning Goals
 - Improving test-taking engagement and the validity of observed achievement test scores
+
+## Claims
+
+- [Academic and test disengagement are connected through a common association with poor self-management](../claims/self-management-common-link-disengagement.md) [+W]
 
 ## Related Strategies
 

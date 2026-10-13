@@ -13,14 +13,14 @@ generated:
 # Exit Ticket
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 15 studies (7 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 6 claims (6 for) · 15 studies (7 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size
 
 ## Description
 An exit ticket is a brief assessment activity — typically 1–3 questions or a single prompt — completed by every learner in the final minutes of a lesson and submitted before leaving. It serves two functions simultaneously: it requires learners to retrieve and consolidate the day's content, and it generates rapid evidence the instructor can use to adjust the next lesson.
 
 ## Design Implications
 
-Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md) by making thinking visible at the moment instruction ends, when adjustment is still cheap [Formative assessment practices improve achievement when feedback is used to adapt instruction.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The retrieval demand also gives every learner a brief spaced practice opportunity rather than leaving consolidation to chance [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]. The design burden falls on the instructor: tickets must be actually read and acted on, or the routine decays into compliance theater.
+Exit tickets enact [Assessment for Learning](../principles/assessment-for-learning.md) by making thinking visible at the moment instruction ends, when adjustment is still cheap [Formative assessment practices improve achievement when feedback is used to adapt instruction.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The retrieval demand also gives every learner a brief spaced practice opportunity rather than leaving consolidation to chance [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. The design burden falls on the instructor: tickets must be actually read and acted on, or the routine decays into compliance theater.
 
 ### Context
 #### Requirements
@@ -88,7 +88,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - Less useful for learners who already self-monitor accurately and for very young learners who cannot yet write fluently — oral or pictorial variants work better there [~W]
 
 ### Target Learning Goals
-- Consolidation and retention of the day's core content [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- Consolidation and retention of the day's core content [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 - Self-assessment and metacognitive monitoring of one's own understanding
 - Instructor-side diagnosis of misconceptions before they consolidate
 - Consolidation of the day's core concept through retrieval

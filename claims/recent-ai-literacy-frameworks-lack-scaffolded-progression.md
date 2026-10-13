@@ -44,5 +44,5 @@ Narrative review of 13 AI literacy framework articles from 2023-2024 plus the UN
 
 ## Related Claims
 - [Prominent existing AI literacy frameworks are not tailored to higher education](ai-literacy-frameworks-gap-higher-education.md) — related
-- [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — a narrower finding that bears on this claim
+- The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines — a narrower finding that bears on this claim
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related

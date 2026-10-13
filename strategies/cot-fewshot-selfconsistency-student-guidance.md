@@ -17,7 +17,7 @@ sources:
 # Guide student instruction with chain-of-thought decomposition, few-shot worked examples, and self-consistency over multiple LLM queries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 To help students instruct the LLM effectively, the methodology applies three established prompting principles. Students are guided to structure answers "as a series of simple, sequential steps for the LLM to follow" (CoT, including the phrase "let's think step by step"), to provide "several examples of test cases with corresponding input-output pairs" with step-by-step solutions (few-shot), and the system applies self-consistency: "a student's prompt is sent to the LLM multiple times," with success requiring the number of correct outputs to meet a predefined threshold.
@@ -35,6 +35,11 @@ To help students instruct the LLM effectively, the methodology applies three est
 
 ### Target Learning Goals
 - problem decomposition and procedural thinking; distinguishing LLM variability from flaws in one's own instructions
+
+## Claims
+
+- [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](../claims/cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) [+W]
+- [Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution](../claims/few-shot-prompting-no-f1-gain-reduces-overattribution.md) [~W]
 
 ## Related Strategies
 

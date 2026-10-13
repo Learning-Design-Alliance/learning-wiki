@@ -17,7 +17,7 @@ sources:
 # Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's implementable procedure: students draft an essay, submit it to ChatGPT-4 with a standardized core prompt targeting the four rubric dimensions, revise, then complete conventional rubric-based peer review with small-group discussion, and revise again. The core prompt asked the AI to "Provide constructive feedback on this essay focusing on task achievement, coherence and cohesion, lexical resource, and grammatical range and accuracy". The instructor periodically reviewed students' interaction logs, focusing on "the quality and appropriateness of their prompting strategies" to detect ineffective prompting practices.
@@ -42,6 +42,10 @@ The article's implementable procedure: students draft an essay, submit it to Cha
 
 ### Affordances
 - [Sct Ai Peer Feedback Scaffolding Framework](../theories/sociocultural-theory.md)
+
+## Claims
+
+- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](../claims/ai-feedback-perceived-expertise-efl-writing.md) [+W]
 
 ## Related Strategies
 

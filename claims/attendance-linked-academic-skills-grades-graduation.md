@@ -48,7 +48,6 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 ## Related Claims
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — a narrower finding that bears on this claim
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
-- [Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance](cps-charter-incoming-skills-feeder-pool.md) — related
+- Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Risk thresholds on GPA and attendance differ for active English Learners: above 95% attendance or above 2.0 GPA predicted ~90% graduation for active ELs, while former and never ELs reached similar likelihood at 90% attendance](el-risk-thresholds-gpa-attendance-graduation.md) — related
-- [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-attainment-risk-thresholds.md) — related

@@ -17,7 +17,7 @@ sources:
 # Three-brief In Focus series on effective data use in education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size
 
 ## Description
 A Mathematica Policy Research In Focus brief series, prepared for the Gates Foundation under the Strategic Data Use in Education project (2011-2015), comprising three briefs. This brief "focuses on supporting effective data use. The other two briefs focus on developing a coherent plan for effectively using data and on considerations for developing or enhancing a data system."
@@ -38,7 +38,7 @@ A Mathematica Policy Research In Focus brief series, prepared for the Gates Foun
 
 ## Claims
 
-- [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](../claims/data-use-often-fails-to-drive-decisions.md) [+W]
+- [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](../claims/data-often-fails-to-drive-education-decisions.md) [+W]
 
 ## Related Elements
 

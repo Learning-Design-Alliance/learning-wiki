@@ -17,7 +17,7 @@ sources:
 # Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To address the high uncertainty observed in the survey, the article recommends greater transparency about how GenAI tools may be used in academic work. It states "Institutions should consider developing accessible guidelines, training materials, or workshops that help students better understand how to use these technologies responsibly and in accordance with academic integrity principles." This complements the finding that formal regulations alone do not guide student behavior.
@@ -36,6 +36,10 @@ To address the high uncertainty observed in the survey, the article recommends g
 ### Target Learning Goals
 - understanding institutional GenAI regulations
 - responsible GenAI use aligned with academic integrity
+
+## Claims
+
+- [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](../claims/awareness-does-not-yield-rule-compliance-clarity.md) [+W]
 
 ## Related Strategies
 

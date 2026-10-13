@@ -16,7 +16,7 @@ sources:
 # Multivariate true score model for achievement and growth norms
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The norming approach is "a model-based approach employing a multivariate true score model that factors out known imprecision of scores" from fall, winter, and spring test scores. Observed scores are decomposed into true scores and error scores with observed SEMs entering the model; true scores are assumed multivariate normal in the user population, with restricted maximum likelihood estimates obtainable from standard software such as HLM7 or SAS Proc Mixed. Predicted marginal distributions yield achievement norms per term and fall-to-spring growth norms, including conditional gains given a fall score.
@@ -39,7 +39,7 @@ The norming approach is "a model-based approach employing a multivariate true sc
 ### Claims
 
 - [Course Specific Norms Normality Supported](../claims/course-specific-norms-normality-supported.md) [+M]
-- [Course Specific Term Score Correlations Above 090](../claims/course-specific-term-score-correlations-above-090.md) [+M]
+- [Course Specific Term Score Correlations Above 090](../claims/true-score-correlations-above-090.md) [+M]
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](../claims/normality-assumption-reasonable-course-specific.md) [+W]
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 

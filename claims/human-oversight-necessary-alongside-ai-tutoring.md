@@ -60,6 +60,6 @@ Observation from the study's thematic analysis: occasional human intervention wa
 ## Related Claims
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
-- [Situational-level real-time AI guidance for tutors raised students' topic mastery, especially for students of lower-rated tutors](situational-tutoring-guidance-raises-topic-mastery.md) — related
+- [Situational-level real-time AI guidance for tutors raised students' topic mastery, especially for students of lower-rated tutors](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
 - [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related

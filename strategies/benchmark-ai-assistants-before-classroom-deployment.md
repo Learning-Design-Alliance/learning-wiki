@@ -17,7 +17,7 @@ sources:
 # Benchmark AI assistants on specialized educational tasks before classroom deployment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on their finding that LLMs remain less consistent than experts and exhibit different failure modes, the authors conclude that "these findings highlight the importance of specialized educational benchmarks before using AI assistants in practice, but also underscore their existing potential for educational practice". The recommended workflow is to evaluate candidate models on domain-specific outcome-prediction tasks before deployment.
@@ -36,6 +36,11 @@ Based on their finding that LLMs remain less consistent than experts and exhibit
 
 ### Target Learning Goals
 - receiving reliable AI feedback on intervention strategies
+
+## Claims
+
+- [Estimated human baseline on the CDPK benchmark is approximately 50%, based on aggregate Chilean teacher exam results](../claims/estimated-human-baseline-50-percent-cdpk.md) [~W]
+- [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](../claims/real-world-students-bypass-chatbot-scaffolding.md) [+W]
 
 ## Related Strategies
 

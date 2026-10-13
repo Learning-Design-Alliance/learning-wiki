@@ -17,7 +17,7 @@ sources:
 # Adopt LLMs in higher education only alongside organizational readiness, ethical guidance and professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's implementation recommendation is that institutions adopting LLMs pair the technology with non-technological conditions. As the review states, "Successful implementation requires not only technological infrastructure but also organizational readiness, ethical guidance, and professional development to ensure that AI-enhanced curricula prepare graduates for a rapidly changing world". Related works synthesized in the review echo this: earlier reviews flagged ethics, privacy, accuracy, plagiarism, unequal access and over-reliance, concluding benefits depend on institutional policies, teacher guidance and digital literacy among students and teachers.
@@ -37,6 +37,10 @@ The review's implementation recommendation is that institutions adopting LLMs pa
 
 ### Target Learning Goals
 - responsible and effective integration of LLMs into teaching and assessment
+
+## Claims
+
+- [The baseline country difference in GenAI pedagogical readiness was explained by exposure and institutional conditions: the Kazakhstan coefficient fell from B = 0.205 to a non-significant B = 0.041](../claims/institutional-conditions-explain-genai-readiness-country-gap.md) [+W]
 
 ## Related Strategies
 

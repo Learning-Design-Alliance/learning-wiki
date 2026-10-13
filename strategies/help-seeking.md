@@ -12,7 +12,7 @@ generated:
 # Help Seeking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Help seeking is an adaptive self-regulation strategy in which learners recognize they need assistance, formulate a request, and obtain help from a teacher, peer, or system. It is carried out through explicit requests (questions, office hours, forum posts), structured mechanisms (hint buttons, peer tutoring), and classroom norms that legitimize asking. Because it requires monitoring one's own understanding and acting on that judgment, it is classified as a core self-regulatory behavior rather than a passive receipt of support.
@@ -57,6 +57,10 @@ Help seeking depends on learners first accurately judging their own comprehensio
 4. **Lower the social cost.** Offer anonymous question channels, small-group help routines, or peer structures ([Collaborative Learning](../patterns/collaborative-learning.md)).
 5. **Prompt at the right moment.** Cue help seeking when learners show signs of unproductive struggle, not before they attempt the task themselves.
 6. **Follow up.** After help is received, require learners to re-attempt independently so the help transfers into performance.
+
+## Claims
+
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](../claims/ai-help-seeking-is-a-skill.md) [~W]
 
 ## Related Strategies
 

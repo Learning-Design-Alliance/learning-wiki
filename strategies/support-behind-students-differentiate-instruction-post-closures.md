@@ -17,7 +17,7 @@ sources:
 # Prepare for fall 2020 by supporting academically behind students and further differentiating instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends that in preparing for fall 2020, "educators will likely need to consider ways to support students who are academically behind and further differentiate instruction." This follows directly from its projection that losses would be uneven, with some students losing ground while the top third may make reading gains. The strategy is a planning recommendation for the post-closure return to instruction rather than a tested intervention.
@@ -35,6 +35,11 @@ The paper recommends that in preparing for fall 2020, "educators will likely nee
 
 ### Target Learning Goals
 - Recovering lost reading and mathematics learning after school closures
+
+## Claims
+
+- [Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains](../claims/below-20-students-treading-water.md) [~W]
+- [The lowest-performing middle school readers fell further behind during post-COVID recovery](../claims/lowest-performing-middle-school-readers-falling-further-behind.md) [+W]
 
 ## Related Strategies
 - 

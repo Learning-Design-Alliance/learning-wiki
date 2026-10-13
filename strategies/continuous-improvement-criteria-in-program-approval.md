@@ -17,7 +17,7 @@ sources:
 # Embed data-driven continuous improvement criteria into state EPP program approval
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends that states embed data-driven continuous improvement criteria into their program approval processes, under which "EPPs will be asked to demonstrate how they use information to inform ongoing improvements." These processes are described as consistent with Council for the Accreditation of Educator Preparation expectations, which accredits more than 800 providers across the nation. States can also share timely information with EPPs and use their convening power to identify, support, and share best practices for continuous improvement.
@@ -37,6 +37,10 @@ The brief recommends that states embed data-driven continuous improvement criter
 
 ### Target Learning Goals
 - building EPP culture and capacity to use data for continuous program improvement
+
+## Claims
+
+- [Few states share EPP graduates' classroom performance data with the programs that prepared them](../claims/few-states-share-graduate-performance-data-with-epps.md) [+W]
 
 ## Related Strategies
 

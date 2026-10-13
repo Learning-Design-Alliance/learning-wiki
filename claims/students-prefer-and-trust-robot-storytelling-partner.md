@@ -45,4 +45,4 @@ Qualitative interview evidence from the discussion section: a student's stated p
 ## Related Claims
 - [Robot-assisted storytelling produces statistically significant pre-post improvement in cognitive engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-cognitive-engagement-gain.md) — related
 - [Robot-assisted storytelling produces statistically significant pre-post improvement in behavioural engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-behavioural-engagement-gain.md) — related
-- [The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study](course-completion-walking-context-only.md) — related
+- The article reports course completion and robot walking as implementation context, with student performance and learning data reserved for a separate study — related

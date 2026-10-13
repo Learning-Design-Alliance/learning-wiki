@@ -12,14 +12,14 @@ generated:
 # Note Taking Structures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (6 causal, 5 quant-synthesis, 4 review), `q2`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 16 studies (6 causal, 6 quant-synthesis, 4 review), `q2`–`q4` · 4 of 16 report an effect size
 
 ## Description
 Note taking structures are pre-organized formats — Cornell pages, comparison matrices, skeletal outlines, guided notes — that shape *how* learners record information during a lesson. Rather than transcribing freely, learners place content into designated regions or fields, which imposes an organization on the material and creates a built-in review artifact.
 
 ## Design Implications
 
-Structured notes work through two mechanisms: they reduce the transcription burden during encoding, freeing working memory for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and they impose a generative organization that supports later retrieval. The largest gains come when learners *review* their notes — the encoding benefit of taking notes alone is modest, but reviewing structured notes produces substantial retention gains [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]. Structure matters most when the material itself is poorly organized or delivered at high density; when a lecture is already well-organized, imposed structure adds little [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
+Structured notes work through two mechanisms: they reduce the transcription burden during encoding, freeing working memory for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M], and they impose a generative organization that supports later retrieval. The largest gains come when learners *review* their notes — the encoding benefit of taking notes alone is modest, but reviewing structured notes produces substantial retention gains [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]. Structure matters most when the material itself is poorly organized or delivered at high density; when a lecture is already well-organized, imposed structure adds little [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Structured notes work through two mechanisms: they reduce the transcription burd
 1. Choose a format that mirrors the content's structure; provide the template in advance as an [Advance Organizer](../elements/advance-organizers.md).
 2. Briefly model completing the format on a short segment, thinking aloud about what merits recording and why ([Think-Aloud](../elements/think-aloud.md)).
 3. Deliver content with pauses at structural junctures so learners summarize in their own words rather than transcribe.
-4. Build in a review routine — cue-column self-questioning (Cornell) or blank-filling ([Annotating](../principles/annotating.md)) — within 24 hours and again at spaced intervals [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+4. Build in a review routine — cue-column self-questioning (Cornell) or blank-filling ([Annotating](../principles/annotating.md)) — within 24 hours and again at spaced intervals [Distributed practice improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 5. Fade the scaffold: move from full templates to learner-designed notes as skill develops.
 
 ## Related Strategies

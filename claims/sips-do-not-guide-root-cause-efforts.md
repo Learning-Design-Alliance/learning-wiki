@@ -3,6 +3,7 @@ type: claim
 title: Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement
 description: Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement
 id: sips-do-not-guide-root-cause-efforts
+aliases: [sips-address-symptoms-not-causes]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
+
 `q1 i?` Most SIPs fail to guide staff toward root causes, so student achievement is unlikely to improve while root causes remain. [→ Andrew Hegedus 2010](#andrew-hegedus-2010)
+
+`q1 i?` Surface-level root-cause discussion in SIPs produces symptom-addressing plans. [→ Andrew Hegedus 2010](#andrew-hegedus-2010)
 
 ## Evidence
 
@@ -39,12 +43,25 @@ The white paper's framing statement, based on the author's review of education r
 
 > "Most School Improvement Plans (SIPs) in education do not guide staff efforts to tackle the root causes that prevent significant performance improvement. It is unlikely student achievement will improve should these root causes remain."
 
+<!-- merged 2026-10-13 from sips-address-symptoms-not-causes: that page's entry for this study, which differed from the one above, kept verbatim.
+### Andrew Hegedus 2010
+
+Andrew Hegedus. (2010). Finding root causes effectively: A powerful way to improve schools. NWEA Research white paper. https://www.nwea.org/research/publication/finding-root-causes-effectively-a-powerful-way-to-improve-schools/
+
+`q1 · i?` · `theoretical · r1`
+
+The author's diagnostic claim from the paper's description section: SIPs reflect "surface level discussions about the root causes of school performance issues," which the author says leads to symptom-focused plans. No study data backs this statement in the available text.
+
+> "SIPs generally reflect surface level discussions about the root causes of school performance issues. This then leads to plans that address symptoms rather than causes."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
-- [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — possibly the same claim (merge candidate)
 - [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](ci-groundwork-strong-theory-link-and-equity-depth-limited.md) — related
 - [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related

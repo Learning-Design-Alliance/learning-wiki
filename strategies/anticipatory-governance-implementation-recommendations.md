@@ -17,7 +17,7 @@ sources:
 # Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's practical recommendations translate its findings into implementable actions for university leaders, faculty, and institutions. Leaders are "encouraged to embed anticipatory governance into institutional strategies by establishing roles such as Chief AI Officers or AI task forces to align curriculum, policy, and infrastructure with emerging technological and workforce demands". Faculty should pursue professional development strengthening AI literacy and foresight methods to act as co-creators of future-ready curricula. Institutions should create student councils on AI policy or co-design workshops, and form partnerships with industries and local communities so AI policies reflect local needs and values.
@@ -44,6 +44,10 @@ The review's practical recommendations translate its findings into implementable
 
 ### Affordances
 - Anticipatory Governance Framework Higher Education Ai
+
+## Claims
+
+- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](../claims/ai-outcomes-shaped-by-leadership-infrastructure-governance.md) [+W]
 
 ## Related Strategies
 

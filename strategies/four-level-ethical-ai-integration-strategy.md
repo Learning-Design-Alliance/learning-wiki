@@ -17,7 +17,7 @@ sources:
 # Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (3 associational, 1 quant-synthesis, 1 qualitative, 1 design), `q2` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 The study's concluding recommendation is that ethical AI use in higher education requires action at several levels simultaneously: "professional development support should be provided to faculty members, courses covering ethical dimensions should be added to curricula, clear ethical usage guidelines should be established at universities, and these guidelines should be updated through interdisciplinary collaboration." This responds to the study's findings that faculty lack institutional guidelines and support, students receive inconsistent guidance, and both groups rely on individual effort. The strategy treats ethical AI integration as an institutional design task rather than an individual one.
@@ -40,6 +40,15 @@ The study's concluding recommendation is that ethical AI use in higher education
 
 ### Affordances
 - Six Theme Ethical Structure Ai Higher Education
+
+## Claims
+
+- [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](../claims/educators-lack-institutional-genai-support.md) [+W]
+- [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](../claims/genai-use-high-ethical-guidelines-rare.md) [+W]
+- [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](../claims/faculty-survey-ethical-ai-profile-institutional-support-lowest.md) [~W]
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](../claims/ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) [+W]
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](../claims/nursing-academics-report-genai-policy-ambiguity.md) [+W]
+- [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](../claims/students-urge-ai-literacy-and-clear-rules.md) [+W]
 
 ## Related Strategies
 
