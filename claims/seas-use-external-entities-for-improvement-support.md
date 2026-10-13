@@ -43,6 +43,6 @@ Interview finding: SEAs leverage regionally based supports such as regional serv
 
 
 ## Related Claims
-- [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
-- [Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states](direct-service-providers-connectors-hmy.md) — related
+- States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives — related
+- Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states — related
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related

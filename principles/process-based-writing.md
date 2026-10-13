@@ -19,7 +19,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (13 for, 7 mixed) · 35 studies (9 causal, 9 quant-synthesis, 5 review, 5 theoretical, 3 associational, 3 qualitative, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (14 for, 11 mixed) · 40 studies (13 causal, 9 quant-synthesis, 5 review, 5 theoretical, 4 associational, 3 qualitative, 1 design), `q1`–`q4` · 10 of 40 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,14 @@ The expectation should weaken if well-controlled studies show that adding drafti
 
 Better drafts with help, better final versions, better unaided writing on the next piece, delayed retention, transfer to other genres and the writer's own valued use are separate claims. The present evidence establishes no number of drafts, no number of comments and no criterion for moving a writer from supported to independent use.
 
+## Claims
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+W]
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](../claims/plan-quality-improves-after-llm-adaptive-feedback.md) [~W]
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](../claims/penny-feedback-successful-uptake.md) [~W]
+- [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](../claims/synchronous-suggestions-shape-subsequent-writing.md) [~W]
+- [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](../claims/lexical-diversity-advantage-first-task-only.md) [~W]
+
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
 - [Peer Feedback/Peer Review](peer-feedback.md) — revision is stronger when learners get and use feedback before final submission.
@@ -243,10 +251,6 @@ Process-based writing helps because strong writing rarely emerges from a single 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
-- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+W]
-- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](../claims/plan-quality-improves-after-llm-adaptive-feedback.md) [~W]
-- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](../claims/penny-feedback-successful-uptake.md) [~W]
-- [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](../claims/synchronous-suggestions-shape-subsequent-writing.md) [~W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

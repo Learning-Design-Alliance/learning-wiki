@@ -50,9 +50,9 @@ Survey results reported in the Progress section from the 2023–24 APS Skills, H
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — a broader claim this one bears on
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
-- [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — related
+- Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math — related
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — related
-- [The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers](los-padillas-fourth-grade-ela-gains.md) — related
-- [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
-- [Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22](los-padillas-kindergarten-formative-gains.md) — related
+- The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers — related
+- Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years — related
+- Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — related
 - [Students reported a weaker sense of belonging than staff perceived, indicating staff overestimate their impact on students' belonging and respect](staff-overestimate-student-belonging.md) — related

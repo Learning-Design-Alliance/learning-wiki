@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 35 claims (10 for, 24 mixed, 1 against) · 10 studies (6 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (10 for, 26 mixed, 1 against) · 10 studies (6 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 36 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -76,6 +76,8 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](../claims/input-stage-patterns-predict-quality.md) [+W]
 - [Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1](../claims/clarification-requests-three-way-interaction.md) [~W]
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](../claims/strategy-specific-factor-effects.md) [~W]
+- [Time (two years) shows no significant effect on children's overall amount of meaning negotiation](../claims/no-time-effect-overall-nom.md) [~W]
+- [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](../claims/task-condition-did-not-moderate-strategy-use.md) [~W]
 
 ## Related Theories
 

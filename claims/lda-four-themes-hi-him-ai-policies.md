@@ -43,9 +43,9 @@ Unsupervised LDA topic modeling (topicmodels package in R) on the preprocessed c
 
 
 ## Related Claims
-- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
-- [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
+- Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies — related
+- Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently — related
 - [Text mining of 69 Scopus documents on ChatGPT in programming education identifies four dominant research themes](text-mining-four-themes-chatgpt-programming-education.md) — related
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
-- [Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy](most-cahiim-programs-have-ai-guidance-documents.md) — related
+- Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy — related

@@ -43,7 +43,7 @@ Case study of Elliott Elementary (Lincoln, Nebraska), a Title I PK–5 school wh
 
 
 ## Related Claims
-- [Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation](amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) — related
+- Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation — related
 - [Three SIG Cohort 1 elementary schools that integrated PK–3 early learning strategies into turnaround plans showed improved student achievement](sig-schools-integrating-pk3-strategies-improved-achievement.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
 - [District pre-pandemic performance and pandemic recovery predict kindergarten math more strongly than state-funded PreK4 enrollment, which loses significance once both are controlled](district-performance-stronger-predictor-than-prek4-enrollment.md) — related

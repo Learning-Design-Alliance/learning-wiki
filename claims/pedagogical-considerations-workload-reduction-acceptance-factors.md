@@ -44,7 +44,7 @@ Second-order qualitative analysis of think-aloud protocols addressing RQ3. A sec
 
 ## Related Claims
 - [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](adapted-stories-reduces-preparation-burden.md) — a narrower finding that bears on this claim
-- [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — a broader claim this one bears on
+- Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification — a broader claim this one bears on
 - [Understandability alone is insufficient to establish trust for some teachers, who require real classroom experience](understandability-insufficient-trust-needs-classroom-experience.md) — related
 - [Teachers report domain-driven explanations are more influential for building trust than data-driven explanations](domain-driven-explanations-build-trust-more-than-data-driven.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related

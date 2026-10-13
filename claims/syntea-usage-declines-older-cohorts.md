@@ -44,6 +44,6 @@ Descriptive analysis of usage rates by generational cohort (Pew Research Center 
 
 ## Related Claims
 - [A substantial proportion of distance students (44,035 of 76,485) used the AI-based learning assistant Syntea during one observation month](syntea-substantial-adoption-distance-students.md) — related
-- [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — related
+- Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students — related
 - [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related

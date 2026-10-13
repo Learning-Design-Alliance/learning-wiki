@@ -46,7 +46,7 @@ OLS models predicting fall 2020 GPA as a function of eligibility in the full ana
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate](chicago-connected-eligibility-and-participation-rates.md) — related
+- About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate — related
 - [Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre-pandemic GPA students but lower engagement for low pre-pandemic GPA students](chicago-connected-eligibility-heterogeneous-engagement-effects.md) — related
 - [Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-gpa-effects.md) — related
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related

@@ -13,7 +13,7 @@ generated:
 # Inquiry Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies (2 quant-synthesis, 2 theoretical, 1 causal, 1 review), `q1`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Inquiry learning places learners in the role of investigator: they pose or explore questions, gather and analyze evidence, and construct explanations, with the instructor acting as guide rather than primary explainer. It ranges along a continuum from open (learner-generated questions and procedures) to guided (teacher-structured tasks and prompts), and the evidence strongly favors the guided end.
@@ -55,7 +55,7 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](../claims/minimally-guided-approaches-ignore-cognitive-architecture.md) [-W]
 
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the guidance structure that separates effective guided inquiry from ineffective discovery

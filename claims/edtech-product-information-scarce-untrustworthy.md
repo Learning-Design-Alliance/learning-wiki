@@ -47,5 +47,5 @@ Qualitative listening-tour findings from conversations with more than 50 stakeho
 - [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related
 - [Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs](vendor-incentives-average-learner-design.md) — related
 - [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — a narrower finding that bears on this claim
-- [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related
+- Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations — related
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related

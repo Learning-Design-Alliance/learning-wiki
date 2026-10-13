@@ -17,7 +17,7 @@ sources:
 # SIG-funded parent liaisons paired with structured parent contact practices to increase family engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A strategy in which rural SIG schools used SIG funds to hire or expand parent liaison positions and instituted structured outreach to families. Liaisons hosted community breakfasts, translated communications into Spanish, ran morning English classes and family math and literacy nights, and one school required teachers to contact five parents weekly with at least one positive contact. Respondents credited these practices with improving parent-school communication.
@@ -36,6 +36,10 @@ A strategy in which rural SIG schools used SIG funds to hire or expand parent li
 
 ### Target Learning Goals
 - Increase parent involvement in school-based activities to support school improvement
+
+## Claims
+
+- [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](../claims/ell-parent-language-literacy-barrier.md) [~W]
 
 ## Related Strategies
 

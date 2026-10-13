@@ -13,7 +13,7 @@ generated:
 # Provide guidance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 3 mixed, 2 against) · 18 studies (8 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 19 studies (9 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 7 claims rest on one study
 
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.
@@ -57,6 +57,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~W]
 - [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
 - [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](../claims/chatgpt-hint-error-rate-self-consistency.md) [~W]
+- [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](../claims/context-effect-depends-on-guidance-style.md) [~W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the most heavily researched form of guidance; complete solution models for study

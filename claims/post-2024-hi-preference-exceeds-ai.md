@@ -43,4 +43,4 @@ Figure-based longitudinal trend (Fig. 1) plotting cumulative student poll respon
 
 
 ## Related Claims
-- [By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI](2026-classroom-poll-shift-toward-human-intelligence.md) — a narrower finding that bears on this claim
+- By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI — a narrower finding that bears on this claim

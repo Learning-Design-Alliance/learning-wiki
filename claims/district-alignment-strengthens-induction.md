@@ -63,6 +63,6 @@ The report's synthesis of survey and case study data describes benefits of prepa
 
 ## Related Claims
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
-- [Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding](induction-program-variation-and-funding-challenges.md) — related
+- Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
 - [Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement](induction-impacts-knowledge-resilience-advancement.md) — related

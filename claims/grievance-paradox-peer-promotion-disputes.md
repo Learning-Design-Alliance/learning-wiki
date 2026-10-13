@@ -43,5 +43,5 @@ The author's review of grievance cases coming to him as Rutgers president in the
 
 
 ## Related Claims
-- [Faculty quality decline is not a demonstrated or necessary consequence of academic collective bargaining, though the risk exists with or without a union](faculty-quality-decline-not-necessary-consequence-of-bargaining.md) — related
-- [Increasing explicitness and centralization of university governance is driven by fiscal stringency and other underlying factors, not by unionization](governance-centralization-not-caused-by-unionization.md) — related
+- Faculty quality decline is not a demonstrated or necessary consequence of academic collective bargaining, though the risk exists with or without a union — related
+- Increasing explicitness and centralization of university governance is driven by fiscal stringency and other underlying factors, not by unionization — related

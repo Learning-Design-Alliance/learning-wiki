@@ -62,10 +62,10 @@ The report finds college choice has little impact on graduation for low-qualific
 
 
 ## Related Claims
-- [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
+- Undermatch occurs when students attend a college less selective than their high school academic achievement would allow — related
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
-- [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
+- College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching — related
 - [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](good-college-match-increases-graduation-chance.md) — a broader claim this one bears on
-- [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related
+- Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent — related
 - [U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year](teacher-pay-77-percent-of-college-graduates.md) — related
-- [Nearly half (49.6 percent) of low-income students under-match into colleges less selective than their credentials warrant, and under-matched students are substantially less likely to graduate](undermatching-low-income-students-lower-graduation.md) — related
+- Nearly half (49.6 percent) of low-income students under-match into colleges less selective than their credentials warrant, and under-matched students are substantially less likely to graduate — related

@@ -44,8 +44,8 @@ Logistic regression predicting BTO status with a standardized School Climate Ind
 
 ## Related Claims
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](bto-schools-higher-school-climate-percentile.md) — related
-- [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
+- School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources — related
 - [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](sci-stronger-than-personnel-resources-for-bto.md) — a narrower finding that bears on this claim
-- [The climate advantage of beating-the-odds schools persists after controlling for student demographics, school size, and personnel resources](climate-gap-persists-with-controls.md) — related
-- [Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds](enrollment-main-demographic-driver-of-bto.md) — reports the opposite
+- The climate advantage of beating-the-odds schools persists after controlling for student demographics, school size, and personnel resources — related
+- Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds — reports the opposite
 - [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](bto-schools-more-positive-school-climates.md) — related

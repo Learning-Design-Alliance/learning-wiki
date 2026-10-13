@@ -12,7 +12,7 @@ generated:
 # ARCS Model of Motivational Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons (Park, 2018).
@@ -58,6 +58,8 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 ## Claims
 
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](../claims/arcs-strongest-correlations-intention-use.md) [+W]
+- [ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways](../claims/arcs-moderation-effects-null.md) [-W]
+- [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](../claims/assessment-redesign-insights-tlc-convening.md) [+W]
 
 ## Related Theories
 

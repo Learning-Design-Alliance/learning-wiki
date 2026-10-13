@@ -27,7 +27,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 22 studies (7 causal, 6 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 22 report an effect size · 10 claims rest on one study
+> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 24 studies (7 causal, 6 quant-synthesis, 4 theoretical, 3 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -83,6 +83,11 @@ For example, in a first-year writing course the designer's objective may be an a
 ## What would revise this model?
 
 Revise it if comparable learners using criteria-based self-assessment with a revision step do not outperform comparable learners without one on an aligned delayed task under a defensible comparison; if removing marks from checkpoints does not change how much uncertainty learners reveal, measured by a private re-elicitation; or if trained self-assessment remains as miscalibrated as untrained for the learners in question, in which case the learner-side route should rely on external evidence. A synthesis-level average, a feature estimate from meta-regression, or a confounded cohort contrast does not settle any of these. Do not protect the model by relabelling every null result as poor fidelity.
+
+## Claims
+
+- [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](../claims/baseline-post-feedback-gains-near-zero-no-condition-differences.md) [-W]
+- [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](../claims/teacher-feedback-moves-learning-forward.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
@@ -159,8 +164,6 @@ Assessment for learning works when evidence changes what happens next for the le
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
-- [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](../claims/baseline-post-feedback-gains-near-zero-no-condition-differences.md) [-W]
-- [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](../claims/teacher-feedback-moves-learning-forward.md) [+W]
 
 ## Description
 This principle holds that explicit-reflective teaching of the nature of science becomes more effective and durable when formative assessment is embedded in it. In the study, after each NOS activity the experimental group designed their own activities, presented them, and received feedback: "the academician provided feedback on whether the activities reflected the nature of scien ce" and then "rearranged their activities according to this feedback." The article reports this combination "caused more positive changes in pre -school prospective teachers' thoughts about the NOS and SK than explicit -reflective teaching instruction."

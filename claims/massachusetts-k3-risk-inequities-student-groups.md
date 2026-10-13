@@ -43,7 +43,7 @@ Report's key findings summary of statewide screening benchmark analysis by stude
 
 
 ## Related Claims
-- [Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk](disparities-in-early-literacy-risk-identification-massachusetts.md) — related
+- Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk — related
 - [Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students](formal-early-childhood-experience-reduces-risk.md) — related
 - [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](intersecting-backgrounds-increase-literacy-risk.md) — related
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related

@@ -18,7 +18,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (11 for, 12 mixed, 4 against) · 19 studies (8 theoretical, 3 causal, 3 design, 2 quant-synthesis, 2 associational, 1 review), `q1`–`q4` · 5 of 19 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (13 for, 13 mixed, 7 against) · 25 studies (9 theoretical, 4 associational, 4 design, 3 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 5 of 25 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,15 @@ The expectation should weaken if end-point judgments built with broad sampling, 
 
 A summative score at the end of a course, retention months later, transfer to a new setting and use in the setting the learner values are separate claims. The present evidence sets no number of items or occasions, no share of higher-order marks and no scorer-agreement threshold.
 
+## Claims
+
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
+- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](../claims/disengagement-material-individual-scores-minor-aggregations.md) [~W]
+- [Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little](../claims/students-report-misalignment-assessment-other-indicators.md) [-W]
+- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](../claims/reach-performance-tasks-little-differentiation.md) [-W]
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]
+- [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](../claims/summative-assessment-dual-function-measure-and-support-learning.md) [+W]
+
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
 - [Competency-Based Assessment](competency-based-assessment.md)
@@ -196,11 +205,6 @@ Summative assessment is most useful when end-point judgments are based on eviden
 ### Claims
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — end-point judgments are often stronger when they sample meaningful whole-task performance rather than isolated recall alone
-- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [+W]
-- [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](../claims/disengagement-material-individual-scores-minor-aggregations.md) [~W]
-- [Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little](../claims/students-report-misalignment-assessment-other-indicators.md) [-W]
-- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](../claims/reach-performance-tasks-little-differentiation.md) [-W]
-- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](../claims/nclb-tests-low-higher-order-content.md) [-W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

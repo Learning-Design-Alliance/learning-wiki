@@ -45,5 +45,5 @@ Descriptive analysis of CPS administrative and GoCPS application data for studen
 ## Related Claims
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
-- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related
+- GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted — related
 - [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](students-relied-on-online-sources-school-research.md) — related

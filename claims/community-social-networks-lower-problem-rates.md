@@ -44,5 +44,5 @@ The review reports the clear finding from years of research into crime, delinque
 
 ## Related Claims
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
-- [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
+- Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related

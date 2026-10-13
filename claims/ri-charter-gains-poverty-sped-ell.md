@@ -44,7 +44,7 @@ Subgroup impact tables benchmark each group against matched control TPS students
 
 ## Related Claims
 - [Charter students receiving special education services show smaller learning gains than matched traditional public school peers](charter-special-education-smaller-gains.md) — reports the opposite
-- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related
+- More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages — related
 - [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — related
 - [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](ri-learning-gaps-tps-subgroups.md) — related
 - [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — related

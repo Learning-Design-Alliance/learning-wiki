@@ -44,5 +44,5 @@ The report's analysis of approved state waiver plans finds that although states 
 
 ## Related Claims
 - [States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support](esea-flexibility-narrowed-accountability-focus.md) — related
-- [Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020](cut-gap-in-half-goal-adoption.md) — related
-- [Most states set meaningful exit criteria for Priority and Focus schools, but some use signals schools cannot target, and the Department of Education required no course of action for schools that keep missing exit criteria](exit-criteria-and-consequences-vary-across-waiver-states.md) — related
+- Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020 — related
+- Most states set meaningful exit criteria for Priority and Focus schools, but some use signals schools cannot target, and the Department of Education required no course of action for schools that keep missing exit criteria — related

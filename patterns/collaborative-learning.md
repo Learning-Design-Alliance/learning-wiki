@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 14 studies (4 quant-synthesis, 3 causal, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 15 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -84,6 +84,10 @@ Record: **individual starting response → group, task and structure as delivere
 [Collaboration](../elements/collaboration.md), [group work](../elements/group-work.md), [collaborative problem solving](../elements/collaborative-problem-solving.md), [peer explanation](../elements/peer-explanation.md), [group roles](../elements/group-roles.md), [individual accountability](../elements/individual-accountability.md) and [group processing](../elements/group-processing.md).
 
 This pattern is scoped to pairs and small groups where each member's individual learning is the target. Collaboration skill as an outcome, belonging and peer relationships, long-running project teams, adult workplace teams and open-ended creative group work each need their own outcome measures and evidence. The policy supports observation and design reasoning; its predictive accuracy and the role of learners' valued goals remain to be tested with actual learners.
+
+## Claims
+
+- [Among AI-exposed students, open collaboration predicted higher aggregate offloading, which was associated with lower Week 8 higher-order thinking (indirect estimate −0.34)](../claims/offloading-mediation-lower-independent-hot.md) [-W]
 
 ## Related Patterns
 - [Collaborative Inquiry](collaborative-inquiry.md)

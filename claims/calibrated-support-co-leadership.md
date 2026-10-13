@@ -64,7 +64,7 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 ## Related Claims
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
-- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — a broader claim this one bears on
 - [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
@@ -82,4 +82,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
-- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use — related

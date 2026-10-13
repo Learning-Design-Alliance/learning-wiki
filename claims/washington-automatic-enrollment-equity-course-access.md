@@ -43,9 +43,9 @@ State-level CRDC analysis identifying Washington as an outlier. The report attri
 
 
 ## Related Claims
-- [Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s](florida-equitable-advanced-course-offerings.md) — related
-- [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — reports the opposite
-- [U.S. high schools with high student of color enrollment are less likely to offer advanced mathematics courses than schools with low student of color enrollment](high-student-of-color-schools-offer-fewer-advanced-math-courses.md) — reports the opposite
-- [State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools](state-disparities-advanced-course-access-new-york.md) — related
+- Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s — related
+- U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools — reports the opposite
+- U.S. high schools with high student of color enrollment are less likely to offer advanced mathematics courses than schools with low student of color enrollment — reports the opposite
+- State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools — related
 - [Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites](opt-out-advanced-enrollment-raises-access.md) — a broader claim this one bears on
-- [AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged](wa-ap-enrollment-declined-gaps-unchanged.md) — related
+- AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged — related

@@ -63,6 +63,6 @@ Spearman's Rho computed on the same definition-of-elements variables; the printe
 
 ## Related Claims
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](doctoral-teachers-highest-advanced-oer-competence.md) — a narrower finding that bears on this claim
-- [Teachers' ICT-use competence is high and statistically independent of educational level](ict-competence-independent-of-education-level.md) — related
+- Teachers' ICT-use competence is high and statistically independent of educational level — related
 - [MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules](mooc-oer-competencies-mostly-advanced-similar-across-modules.md) — related
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related

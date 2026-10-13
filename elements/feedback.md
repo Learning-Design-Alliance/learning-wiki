@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 85 claims (45 for, 34 mixed, 6 against) · 82 studies (28 causal, 19 quant-synthesis, 12 review, 9 design, 8 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 27 of 82 report an effect size · 67 claims rest on one study
+> **Evidence** · 132 claims (65 for, 59 mixed, 8 against) · 108 studies (39 causal, 20 quant-synthesis, 17 review, 11 associational, 11 design, 6 qualitative, 4 theoretical), `q1`–`q4` · 30 of 108 report an effect size · 111 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -134,6 +134,53 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)](../claims/writing-score-trajectories-feedback-modes.md) [~W]
 - [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
 - [Platform users were more convinced than non-users that immediate, imperfect AI feedback is more useful than delayed demonstrator feedback (79% versus 59%)](../claims/users-value-immediate-ai-feedback-more-than-nonusers.md) [~W]
+- [AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)](../claims/ai-mediating-orchestration-type.md) [~W]
+- [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](../claims/ai-peer-feedback-agentive-revision-strategies.md) [+M]
+- [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](../claims/ai-peer-feedback-higher-affective-engagement.md) [+W]
+- [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](../claims/ai-peer-feedback-writing-gains-differential.md) [+M]
+- [AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission](../claims/ai-drafts-increase-feedback-length.md) [~W]
+- [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](../claims/aida-preferred-24-7-context-specific-feedback.md) [+W]
+- [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
+- [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](../claims/both-feedback-modalities-prompt-hard-evaluative-judgement.md) [+W]
+- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/corrective-feedback-boosts-classroom-testing-effect.md) [+W]
+- [ChatGPT feedback offered immediate assistance and alternative analytical perspectives, but hallucinated answers undermined students' trust for complex data analysis](../claims/chatgpt-feedback-hallucination-undermines-trust.md) [~W]
+- [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](../claims/educator-feedback-trusted-more-than-ai-feedback.md) [~W]
+- [Feedback channel is a non-significant moderator of feedback effects](../claims/feedback-channel-non-significant-moderator.md) [~W]
+- [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](../claims/continued-ai-conversations-linked-to-perceived-utility.md) [+M]
+- [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](../claims/feedback-medium-overall-effect-d048-heterogeneous.md) [+M]
+- [Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider](../claims/feedback-source-awareness-attitude-themes.md) [~W]
+- [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](../claims/genai-hints-effective-but-require-validation.md) [~W]
+- [ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach](../claims/genai-feedback-individualized-per-student.md) [+W]
+- [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](../claims/feedback-type-shifts-engagement-by-question-type.md) [~W]
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](../claims/genai-personalised-feedback-contested-depth.md) [~W]
+- [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](../claims/human-feedback-rated-superior-to-ai-feedback.md) [+W]
+- [GenAI-supported peer feedback groups achieved higher structural complexity of argumentation artifacts than peer-feedback-only groups](../claims/genai-peer-feedback-raises-argument-structural-complexity.md) [+W]
+- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](../claims/interactional-structures-shape-content-processing.md) [+W]
+- [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](../claims/genai-feedback-quality-tracks-initial-essay-quality.md) [~W]
+- [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](../claims/gender-prompt-emotional-connection-pedagogy.md) [~W]
+- [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](../claims/lexical-diversity-advantage-first-task-only.md) [~W]
+- [Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant](../claims/hybrid-feedback-conceptual-learning-advantage.md) [~W]
+- [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](../claims/llm-feedback-volume-vs-quality.md) [~W]
+- [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](../claims/layered-feedback-negative-total-effect.md) [-W]
+- [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](../claims/llm-feedback-rated-equal-to-human-feedback.md) [+W]
+- [All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction](../claims/llm-feedback-faster-time-to-solution.md) [+W]
+- [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](../claims/non-layered-ai-feedback-beats-layered-post-test.md) [~W]
+- [After PAIRR, most students prefer combined peer and AI feedback over either source alone](../claims/pairr-builds-confidence-in-ai-while-affirming-human-feedback.md) [+W]
+- [Negative feedback was low across all expertise groups with a small increase for proficient/expert teachers](../claims/negative-feedback-low-small-expert-increase.md) [~W]
+- [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](../claims/null-results-argument-dimensions-genai-peer-feedback.md) [~W]
+- [Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided](../claims/principal-pd-no-change-feedback-usefulness-perceptions.md) [-W]
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](../claims/knowledge-of-results-no-effect-achievement-test-dimensionality.md) [~W]
+- [Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting](../claims/seven-nonsignificant-moderators-call-feedback.md) [~W]
+- [Proactive multimodal feedback significantly increases feedback uptake compared to control](../claims/propact-feedback-increases-feedback-uptake.md) [+W]
+- [Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks](../claims/scoring-preferences-vary-by-scenario.md) [~W]
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](../claims/student-perceptions-human-contextual-ai-objective-structured.md) [~W]
+- [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](../claims/students-prefer-combined-peer-and-ai-feedback.md) [+W]
+- [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](../claims/student-trust-in-automated-feedback-null-apprehension.md) [~W]
+- [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](../claims/subtle-cueing-feedback-higher-impact.md) [~W]
+- [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](../claims/reward-reduced-assistant-use-feedback-changed-use-composition.md) [+W]
+- [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](../claims/zero-shot-feedback-quality-comparable-to-teacher.md) [~W]
+- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [+W]
+- [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](../claims/time-to-fix-descriptive-favor-llm-not-significant.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

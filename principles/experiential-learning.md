@@ -19,7 +19,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 26 studies (9 causal, 8 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 6 of 26 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 29 studies (9 causal, 8 quant-synthesis, 4 theoretical, 3 review, 3 qualitative, 1 associational, 1 design), `q1`–`q4` · 6 of 29 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,12 @@ The expectation should weaken if a full experiential cycle (experience, structur
 
 An engaging experience, an immediate skill gain, an explanation, near transfer, delayed retention and changed practice in the learner's own setting are separate claims. The evidence recorded here establishes no optimal number of cycles, no fixed order of Kolb's four stages, no readiness threshold for unguided experience, and no effect of placements, internships or service as such.
 
+## Claims
+
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](../claims/iterative-lesson-planning-before-clinical-placement.md) [~W]
+- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [~W]
+
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative
 - [Problem-Based Learning](problem-based-learning.md) — one form of experiential design centered on complex problems
@@ -210,9 +216,6 @@ Experiential learning works because it puts learners in situations where concept
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
-- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](../claims/ai-supports-transformative-experiential-learning.md) [+W]
-- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](../claims/iterative-lesson-planning-before-clinical-placement.md) [~W]
-- [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [~W]
 
 ## Description
 The paper closes with concrete guidance for trainers designing their own experiential courses: they "should decide that practice will be the focus of the training, begin with a diagnostic approach, avoid beginning courses with theory, use analysis of practice as the basis of the group training session, encourage peer support". It further advises spending time with trainees in their practice situation, being sensitive to cultural and traditional practices, developing materials and activities, and reviewing assessment methods. The rationale is that theory should illuminate practice rather than precede it.

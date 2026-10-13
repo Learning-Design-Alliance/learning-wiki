@@ -13,7 +13,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 8 mixed, 1 against) · 27 studies (11 quant-synthesis, 6 causal, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 27 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 29 studies (11 quant-synthesis, 7 review, 6 causal, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 29 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,11 @@ The expectation should weaken if further comparisons of planned universal manage
 
 Fewer disruptions, more engaged time, learning gains, lasting self-control and fair treatment across groups are separate claims. The present evidence establishes no best package, no number of rules, no length of the teaching period for routines and no point at which supports can be faded.
 
+## Claims
+
+- [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [+W]
+- [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](../claims/teacher-intervention-escalation-ladder.md) [+W]
+
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan
 - [Classroom Space and Procedural Design](classroom-space-and-procedural-design.md) — the concrete prevention-oriented practices (space, rules, procedures, transitions) that implement criterion 2
@@ -203,8 +208,6 @@ A comprehensive classroom management plan should incorporate strategies that acc
 ### Claims
 
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — relevant to designing criterion-5 self-control fading plans that don't over-rely on external reward
-- [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [+W]
-- [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](../claims/teacher-intervention-escalation-ladder.md) [+W]
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

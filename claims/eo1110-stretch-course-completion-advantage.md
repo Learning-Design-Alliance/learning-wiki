@@ -62,7 +62,7 @@ Course-record analysis of A2 completion rates by course type and WC placement ca
 
 
 ## Related Claims
-- [First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent](eo1110-a2-completion-unchanged.md) — related
+- First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent — related
 - [First-semester outcomes strongly predicted second-semester A2 and B4 completion: students who completed first-semester stretch courses mostly completed the requirement, while most who failed an A2 or B4 course did not retake it](eo1110-first-semester-outcomes-predict-second-semester.md) — related
 - [First-year completion of the A2 and B4 General Education requirements varied sharply by placement category, with wider gaps in QR than in WC](eo1110-ge-completion-varies-by-placement.md) — related
 - [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related

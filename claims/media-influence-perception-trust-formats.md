@@ -44,4 +44,4 @@ Survey of 141 students on perceived media influence. Overall, 52.2% perceive a r
 - [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](consumption-frequency-confidence-association.md) — related
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media](student-news-consumption-digital-preference.md) — related
-- [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
+- University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms — related

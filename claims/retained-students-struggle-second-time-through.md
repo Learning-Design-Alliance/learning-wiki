@@ -63,10 +63,9 @@ Cohort tracking of retained and Transition Center eighth graders. The brief attr
 
 ## Related Claims
 
-- [Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade](early-grade-retention-rise-double-retention.md) — related
+- Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade — related
 - [Students who failed both reading and math made up the majority of retained students, and fewer than 20% of them passed both subjects in Summer Bridge](failed-both-subjects-majority-of-retained.md) — related
 - [Second-year outcomes were worst for retained eighth graders and Transition Center students: only 27% met the criteria by May 1998 and about 16% of officially retained eighth graders dropped out](retained-eighth-graders-worst-outcomes-dropout.md) — related
 - [Only 43% of retained third graders and 47% of retained sixth graders met the test criteria by summer 1998 despite four chances, yet over two-thirds were promoted the next year largely due to waivers](retained-students-low-second-year-passing.md) — related
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related
 - [Fewer than 60 percent of retained third and sixth graders in 1998 and 1999 raised their test scores to the promotional cutoff even with an extra January chance to pass](retained-students-struggled-second-time-through-gate.md) — a broader claim this one bears on
-- [Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels](chicago-gate-achievement-rise.md)

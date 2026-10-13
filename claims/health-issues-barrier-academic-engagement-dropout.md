@@ -43,5 +43,5 @@ The brief asserts, citing the U.S. Department of Education, National Center for 
 
 
 ## Related Claims
-- [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- Half of reported developmental barriers stem from academic-related challenges (50.39%) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related

@@ -18,7 +18,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (6 for, 9 mixed) · 22 studies (5 causal, 5 quant-synthesis, 3 review, 3 qualitative, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (7 for, 9 mixed) · 23 studies (5 causal, 5 quant-synthesis, 4 qualitative, 3 review, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +73,10 @@ For example, a secondary-school physics student working in a pair at a simulatio
 The expectation should weaken if comparable learners doing a task jointly fail to outperform matched learners doing the same task alone, on individually measured, independent outcomes at the horizon that matters. If gains turn out to be carried by the individual checks, feedback, extra time or teacher monitoring rather than by learners engaging with each other's reasoning, the model should credit those components instead. If group self-reports and individual knowledge keep coming apart, as the online-group study above found, treat self-reports as observations of the group's process only. Do not protect the model by relabelling every failure as "not real collaboration" after the fact; record the task and structure in advance.
 
 Group performance during the task, individual understanding straight after it, delayed retention, collaboration skill and satisfaction are separate claims. The present evidence does not establish an optimal group size, composition or script, effects for adult workplace teams or online groups in general, or benefit for every learner in a group.
+
+## Claims
+
+- [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
 
 ## Related Principles
 - [Conditions for Productive Group Creativity](conditions-for-productive-group-creativity.md) — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

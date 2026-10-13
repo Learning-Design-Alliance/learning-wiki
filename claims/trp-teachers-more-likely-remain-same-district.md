@@ -50,10 +50,10 @@ Comparative retention analysis of two cohorts of novice TRP teachers (first- and
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
-- [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
+- Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer — related
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related
 - [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — related
-- [Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts](low-uptake-district-based-employment-residents.md) — related
+- Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts — related
 - [Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements](full-preparation-retention-first-year.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — a narrower finding that bears on this claim

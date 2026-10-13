@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (3 qualitative, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -59,6 +59,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 ## Claims
 
 - [Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students](../claims/ai-alternative-demoralizes-effort-cost.md) [+W] — attached 2026-10-10 from 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introdu, which proposed "Situated Expectancy-Value Theory (SEVT) as a framework for analyzing how AI availability reshapes motivational judgments".
+- [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](../claims/ai-availability-questions-programming-skill-utility.md) [+M]
+- [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](../claims/usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) [~W]
 
 ## Related Theories
 

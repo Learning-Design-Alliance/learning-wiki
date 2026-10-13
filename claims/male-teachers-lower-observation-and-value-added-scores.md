@@ -43,5 +43,5 @@ Analysis of 2013-14 REACH scores by teacher gender, adjusted for the schools tea
 
 
 ## Related Claims
-- [Male teachers score lower than female teachers on both observation and value-added measures](male-teachers-lower-evaluation-scores.md) — possibly the same claim (merge candidate)
+- Male teachers score lower than female teachers on both observation and value-added measures — possibly the same claim (merge candidate)
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — related

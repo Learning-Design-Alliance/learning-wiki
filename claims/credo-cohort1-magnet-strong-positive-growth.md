@@ -44,6 +44,6 @@ Section 5 summary of magnet school growth trends across the 10 cities, benchmark
 
 ## Related Claims
 - [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — related
-- [Newark magnet school special education students showed large above-state-average math growth in 2018-19](newark-magnet-special-ed-math-growth.md) — a narrower finding that bears on this claim
+- Newark magnet school special education students showed large above-state-average math growth in 2018-19 — a narrower finding that bears on this claim
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver](credo-cohort1-district-weaker-growth-exceptions.md) — related

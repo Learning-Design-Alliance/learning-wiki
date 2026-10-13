@@ -25,7 +25,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 18 studies (7 causal, 4 quant-synthesis, 3 review, 2 qualitative, 2 theoretical), `q2`–`q4` · 2 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 20 studies (7 causal, 4 quant-synthesis, 4 review, 3 theoretical, 2 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -92,6 +92,12 @@ Record: **problem and its framing → each learner's first response → resource
 [Problem-based learning](../elements/problem-based-learning.md), [problem scenario](../elements/problem-scenario.md), [solution development](../elements/solution-development.md), [invention](../elements/invention.md), [scaffolding](../elements/scaffolding.md), [case-based learning](../elements/case-based-learning.md), [group roles](../elements/group-roles.md), [feedback](../elements/feedback.md) and [reflection](../elements/reflection.md).
 
 This pattern is scoped to problem-centred units in which an explicit consolidation of target content is planned. Fully self-directed inquiry with no consolidation, assessment of whole PBL curricula, and learner groups below the ages in the evidence need distinct configurations and evidence. The wiki records no direct comparison of whole PBL curricula with conventional instruction, and the diagnostic branches above remain to be tested with actual learners.
+
+## Claims
+
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
+- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](../claims/ai-pbl-enhances-educator-student-collaboration.md) [~W]
+- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](../claims/ai-pbl-adaptive-personalized-engagement.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)
@@ -227,7 +233,6 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 #### Contradicting
 
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
-- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](../claims/pbl-evidence-base-equivocal.md) [~W]
 
 ## Design
 

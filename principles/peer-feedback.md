@@ -26,7 +26,7 @@ sources:
 # Peer Feedback/Peer Review
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 15 studies (4 causal, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 21 studies (7 causal, 4 qualitative, 3 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
@@ -77,6 +77,12 @@ Peer feedback improves learning when it teaches learners to recognize quality an
 - [Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both](../claims/counter-endorse-pronounce-subcategory-patterns.md) [~W]
 - [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](../claims/ai-revisions-most-appraisal-resources.md) [+W]
 - [Across tasks, teacher feedback shifted from basic error correction toward higher-order dimensions while AI-assisted peer feedback reduced content suggestions and increased technical-detail feedback](../claims/feedback-focus-shift-across-tasks.md) [~W]
+- [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](../claims/ai-peer-feedback-writing-gains-differential.md) [+M]
+- [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](../claims/pairr-reflections-show-critical-interrogation-of-ai-feedback.md) [+W]
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](../claims/student-perceptions-human-contextual-ai-objective-structured.md) [~W]
+- [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](../claims/peer-revisions-contractive-ai-balanced.md) [~W]
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
+- [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — peer review is a more criteria-driven form of peer discussion centered on improvement.

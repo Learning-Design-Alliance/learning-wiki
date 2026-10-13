@@ -43,9 +43,9 @@ The paper's own abstract describes an observational analysis of longitudinal, st
 
 
 ## Related Claims
-- [Attrition patterns at KIPP middle schools are typically no different than at nearby schools](kipp-attrition-no-different-than-nearby-schools.md) — related
-- [Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students](kipp-replaces-exiting-students-with-higher-achievers.md) — related
-- [Fewer students are replaced in the later years of KIPP middle school](fewer-student-replacements-in-later-middle-school-years.md) — related
-- [KIPP middle schools admit students disadvantaged in ways similar to other local students](kipp-admission-similar-disadvantage-to-local-students.md) — related
+- Attrition patterns at KIPP middle schools are typically no different than at nearby schools — related
+- Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students — related
+- Fewer students are replaced in the later years of KIPP middle school — related
+- KIPP middle schools admit students disadvantaged in ways similar to other local students — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related

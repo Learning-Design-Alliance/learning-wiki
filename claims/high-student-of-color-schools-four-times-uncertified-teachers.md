@@ -43,9 +43,9 @@ Descriptive analysis of the 2013–14 and 2015–16 Civil Rights Data Collection
 
 
 ## Related Claims
-- [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
-- [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — a broader claim this one bears on
+- Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14 — related
+- State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools — a broader claim this one bears on
 - [In 2016, 17.2% of teachers in high student of color enrollment schools were in their first or second year, compared to 9.1% in low-enrollment schools, and the gap widened from 2014 to 2016](inexperienced-teacher-gap-high-student-of-color-schools.md) — related
-- [Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment](uncertified-teacher-inequity-across-locales.md) — related
-- [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
-- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
+- Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment — related
+- California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers — related
+- Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools — related

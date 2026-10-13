@@ -43,7 +43,7 @@ Subgroup analysis of ELL students' growth for SY 2018-19, comparing Austin chart
 
 
 ## Related Claims
-- [Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth](fort-worth-ell-students-charter-advantage-reading.md) — related
+- Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth — related
 - [Austin charter Hispanic students outperformed Austin district Hispanic students in reading growth](austin-charter-hispanic-students-reading-advantage.md) — related
 - [Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage](austin-charter-poverty-students-outperform-district-peers.md) — related
 - [Austin charter schools outperformed Austin district schools in reading growth but not significantly in math](austin-charter-vs-district-growth-2018-19.md) — a broader claim this one bears on

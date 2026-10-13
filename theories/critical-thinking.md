@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (7 for, 1 mixed, 2 against) · 10 studies (3 review, 2 associational, 2 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 10 report an effect size · 10 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -44,6 +44,14 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 
 - [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](../claims/critical-questions-competency-based-science-assessment.md) [+W]
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](../claims/llm-errors-prompt-validation-cycles-critical-thinking.md) [+W]
+- [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](../claims/genai-dependence-negative-both-outcomes.md) [-W]
+- [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](../claims/ai-math-review-14-studies-outcomes.md) [+W]
+- [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](../claims/genai-higher-order-thinking-g072.md) [+W]
+- [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](../claims/journal-clubs-enhance-critical-appraisal-pharmacy-students.md) [+W]
+- [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](../claims/students-recognise-genai-benefits-and-limitations.md) [+W]
+- [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](../claims/wise-agent-no-aggregate-ct-gain.md) [-W]
+- [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](../claims/consumption-frequency-confidence-association.md) [+W]
+- [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](../claims/writing-dcts-co-development-correlations.md) [~W]
 
 ## Related Theories
 

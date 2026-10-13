@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 15 studies (4 causal, 4 qualitative, 3 quant-synthesis, 2 review, 1 associational, 1 design), `q2`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 17 studies (5 qualitative, 4 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q2`–`q4` · 1 of 17 report an effect size · 7 claims rest on one study
 
 ## Description
 Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation. Knowledge and utilization of existing informal and formal social networks to raise awareness of local learning opportunities can improve persistence and feelings of Safety. This can have a significant impact on vulnerable populations, especially adults who have been negatively impacted by Adverse Experiences, Socioeconomic Status, language barriers, and physical or cognitive limitations. When it comes to getting a job, networks are especially important to low-skilled workers and immigrants.​
@@ -85,6 +85,8 @@ Expanding social networks matters because access to opportunity is often mediate
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](../claims/cop-relationships-combat-aie-director-isolation.md) [+W]
 - [New network nodes were developed through field-based activities such as regional councils and faculty work groups](../claims/new-nodes-developed-through-field-based-activities.md) [+W]
+- [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](../claims/sel-working-group-cross-district-connections.md) [+W]
+- [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](../claims/tech-program-accomplishments-gains.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

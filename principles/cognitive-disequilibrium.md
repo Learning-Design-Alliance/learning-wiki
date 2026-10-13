@@ -18,7 +18,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 21 studies (8 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 21 studies (8 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,6 +89,10 @@ For example, a secondary physics student who predicts that a heavier ball will l
 The model should weaken if controlled comparisons, for learners whose starting model was recorded, show that a conflict-and-resolution sequence does no better on a delayed explanatory probe than a clear explanation of the correct model alone, or no better than refutation alone without a staged conflict. If gains follow the resolution support whether or not a conflict was staged, as some students in the peer-conflict study suggest, the weight belongs on the support, not the contradiction. If the large synthesis averages turn out to rest on comparisons with weak control instruction, they no longer bear on the conflict itself. Do not protect the model by calling every unchanged learner "not truly in disequilibrium" or "not ready to reflect" after the fact; record what was observed before the result is known.
 
 Surprise or confusion during the lesson, a correct answer immediately after it, a revised explanation at a delay and use of the model in a new context are separate claims. The present evidence does not establish how strong a contradiction should be, how soon resolution should follow, which learners respond with defence rather than revision, or whether a revised model persists.
+
+## Claims
+
+- [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](../claims/high-mixture-increases-regressive-changes.md) [~W]
 
 ## Related Principles
 - [Error Analysis](error-analysis.md) — cognitive disequilibrium often begins by surfacing and examining an incorrect but plausible model

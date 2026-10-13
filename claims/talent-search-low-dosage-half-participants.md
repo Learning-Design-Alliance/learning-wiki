@@ -43,6 +43,6 @@ Self-reported program-administration data: a 2000 survey of Talent Search projec
 
 
 ## Related Claims
-- [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
+- Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation — related
 - [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related

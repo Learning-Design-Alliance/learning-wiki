@@ -42,4 +42,4 @@ Inductive coding of open-ended survey responses in the Series Impact section. Th
 
 ## Related Claims
 - [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — related
-- [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
+- Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support — related

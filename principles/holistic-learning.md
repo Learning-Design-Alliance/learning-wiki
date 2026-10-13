@@ -18,7 +18,7 @@ sources:
 # Holistic Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 18 studies (6 causal, 5 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (6 for, 9 mixed) · 19 studies (6 causal, 5 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,10 @@ The expectation should weaken if comparisons of a whole-first against a parts-fi
 
 Performance on tasks matched to the whole, recall of details, delayed retention and transfer are separate outcomes. The present evidence establishes no overview size, no number of parts per session and no criterion for leaving the overview behind.
 
+## Claims
+
+- [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](../claims/global-change-holistic-and-local-analysis-challenge.md) [~W]
+
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — diagrams and maps often make the whole visible
 - [Scaffolding](scaffolding.md) — holistic designs still need supports so learners can move from overview to workable understanding
@@ -191,7 +195,6 @@ Holistic learning matters when learners are likely to lose meaning by encounteri
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — holistic structures can reduce memory burden when they help learners organize parts into meaningful units
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — seeing and practicing the whole can improve transfer in complex domains
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — wholes still need calibration when the initial complexity is too high
-- [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](../claims/global-change-holistic-and-local-analysis-challenge.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — diagrams and maps often make the whole visible

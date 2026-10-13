@@ -43,5 +43,5 @@ Partner states including Montana, North Carolina, Ohio and Oklahoma conducted th
 
 
 ## Related Claims
-- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
+- AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment — related
 - [The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle](me-inventory-most-useful-early-research-cycle.md) — related

@@ -62,7 +62,7 @@ Ownership-retention item (n=218). Majorities agreed they retain ownership when u
 
 
 ## Related Claims
-- [Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes](design-students-daily-weekly-genai-use.md) — related
+- Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership](prototype-generation-linked-ownership-loss.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — reports the opposite

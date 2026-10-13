@@ -18,7 +18,7 @@ sources:
 # Evaluating Sources
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 23 studies (11 causal, 3 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 2 of 23 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 24 studies (11 causal, 3 quant-synthesis, 3 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 2 of 24 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,10 @@ The expectation should weaken if controlled comparisons with effect sizes find t
 
 A better verdict on new sites, a better reason, durability over months, and changed browsing, sharing or citing outside class are separate claims. The evidence here reaches the first two, for web sources, at horizons up to five weeks. It establishes no optimal dose, no effect size, and nothing for research articles, primary documents or curated databases.
 
+## Claims
+
+- [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](../claims/persistent-incorrect-trust-cue-beliefs.md) [+W]
+
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality
 - [Annotating](annotating.md) — annotation can focus attention on credibility signals, claims, and evidence
@@ -186,7 +190,6 @@ Evaluating sources improves learning when learners move beyond surface cues and 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need explicit evaluation routines rather than only being told to “use credible sources”
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — instructor coaching improves learners’ source judgments when prompts respond to the actual weakness in their reasoning
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — evaluation improves when credibility criteria and evidence expectations are explicit
-- [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](../claims/persistent-incorrect-trust-cue-beliefs.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality

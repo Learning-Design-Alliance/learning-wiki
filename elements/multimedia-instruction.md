@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (12 for) · 17 studies (9 causal, 4 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 5 of 17 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 17 studies (9 causal, 4 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 6 of 17 report an effect size · 9 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -48,6 +48,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
 - [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](../claims/generated-textbook-videos-easier-to-follow-than-plain-text.md) [+W] — attached 2026-10-11 from Siddhanth Sridhar et al. (2026), which proposed "Dynamic Learning Solutions pipeline: PDF-to-video educational explanation system"; tests this page's relationship.
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
+- [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~W]
+- [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](../claims/verbal-redundancy-small-overall-effect.md) [~W]
 
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)

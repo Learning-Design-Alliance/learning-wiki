@@ -23,7 +23,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 18 studies (11 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +73,15 @@ For example, an apprentice electrician may value reading a real wiring diagram o
 The load-reduction expectation should weaken if comparable novices on high-element-interactivity tasks fail to benefit under defensible comparisons with aligned outcomes, or if benefits appear equally for low-element-interactivity material. The expertise qualification should weaken if, as in the multimedia overview above, prior knowledge repeatedly fails to moderate effects when it is measured. If effort falls without any gain in performance or transfer, the model's claim about learning (as opposed to comfort) is not supported for that design. Do not protect the model by relabelling every failure as "too much load" or "too much expertise" after the fact.
 
 A learning-phase efficiency gain, immediate performance, near transfer, delayed retention and unaided use in the learner's setting are separate claims. The present evidence does not establish a threshold of expertise at which to remove support, a universal ordering of techniques, or that reduced load causes the gains it accompanies.
+
+## Claims
+
+- [How commonly the increased efficiency effect is present in test data is unclear](../claims/increased-efficiency-prevalence-unclear.md) [~W]
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
+- [Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only](../claims/descriptive-process-estimates-support-layers.md) [~W]
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
+- [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
+- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](../claims/redundant-text-no-effect-posterior-probability-lesson.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)
@@ -129,10 +138,6 @@ Cognitive Load Theory implies that performance problems are often design problem
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
-- [How commonly the increased efficiency effect is present in test data is unclear](../claims/increased-efficiency-prevalence-unclear.md) [~W]
-- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](../claims/visual-channel-overload-hurts-visual-knowledge.md) [+W]
-- [Supplementary process estimates linked differentiated support to lower cognitive load for low-proficiency and higher discourse awareness for intermediate learners, but were descriptive only](../claims/descriptive-process-estimates-support-layers.md) [~W]
-- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
 
 ## Description
 Drawing on the negative extraneous-germane correlation, the authors state that "in order to increase learners’ efforts to learn (germane cognitive load), the educators must improve the design of instructional materials to lower the extraneous cognitive load", for example by removing redundancy or split-attention content. They also suggest interest may be used as a proxy for germane load.

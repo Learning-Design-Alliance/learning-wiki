@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (1 for, 5 mixed) · 14 studies (6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 15 studies (6 quant-synthesis, 5 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -71,6 +71,10 @@ For example, in a nursing course a designer may aim for students to represent a 
 The expectation that structured perspective-taking improves attitudes towards a group should weaken if sustained, well-implemented programmes compared with defensible controls fail to show it at a delay, or if their effects disappear once the publication bias the review flags is taken into account. If the attitude change appears without any change in measured perspective-taking or empathic concern, the mechanism this page assumes is wrong, and another explanation (exposure, information, demand) fits better. If gains on ratings never reach conduct, keep the two outcomes apart rather than calling both empathy. Do not protect the model by relabelling every null as poor facilitation.
 
 An immediate change in a rating, a delayed change in attitude, more accurate inference of what another person thinks, and changed behaviour towards others are separate claims. The present evidence does not establish which activity type, dose or facilitation produces durable change, does not test interviews, journaling or listening rounds as such, and does not say how the relationship differs by age.
+
+## Claims
+
+- [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](../claims/empathic-mindset-teacher-intervention-lowers-suspensions.md) [+W]
 
 ## Related Principles
 - [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — empathy often grows when learners examine the same issue from more than one position.

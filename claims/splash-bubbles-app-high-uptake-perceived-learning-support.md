@@ -69,7 +69,7 @@ Survey ratings on a 1 (not very helpful) to 5 (very helpful) scale of app suppor
 - [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](splash-bubbles-sync-feature-uptake-and-barriers.md) — related
 - [The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts](splash-bubbles-show-positive-reception-science-learning.md) — related
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) — related
-- [Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone](splash-bubbles-station-study-coviewing-majority.md) — related
+- Most families in the station study co-viewed the Splash and Bubbles show with an adult rather than watching alone — related
 - [Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing than comparison children](app-child-initiated-science-conversations-higher.md) — related
 - [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — related
 - [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related

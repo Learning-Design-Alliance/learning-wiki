@@ -43,4 +43,4 @@ Editorial argument dismantling the US-dominance myth. The authors state the beli
 
 
 ## Related Claims
-- [STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%)](steam-ai-literacy-research-geographic-concentration.md) — related
+- STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related

@@ -49,4 +49,4 @@ Interview evidence on culture-domain indicators. The report describes "a negativ
 - [Authorizers can identify distress indicators through existing formal and informal monitoring activities](existing-monitoring-yields-distress-indicators.md) — related
 - [Patterns of teacher turnover and declining staff capacity were talent-domain indicators of charter school distress](teacher-turnover-talent-distress-indicator.md) — related
 - [Lack of curriculum alignment with standards and across grade levels compounded student academic decline in distressed charter schools](curriculum-alignment-distress-indicator-instruction.md) — related
-- [Fragile enrollment created a downward spiral linking enrollment loss to budget cuts and steeper financial decline](fragile-enrollment-downward-spiral-charter-finance.md) — related
+- Fragile enrollment created a downward spiral linking enrollment loss to budget cuts and steeper financial decline — related

@@ -44,10 +44,10 @@ The brief describes the policy context: in 2007 the Council of the District of C
 
 ## Related Claims
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related
-- [In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control](dcps-39-percent-principals-did-not-return-2008-09.md) — related
+- In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control — related
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — related
-- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
+- Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training — related
 - [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](dc-reform-analysis-statistical-controls.md) — related
-- [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
-- [It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines](dcps-principal-gains-took-three-years-no-declines.md) — related
+- The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress — related
+- It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines — related
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related

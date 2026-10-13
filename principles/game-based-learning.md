@@ -39,7 +39,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 9 mixed) · 26 studies (10 quant-synthesis, 8 causal, 5 review, 2 theoretical, 1 associational), `q1`–`q4` · 9 of 26 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (11 for, 10 mixed) · 27 studies (10 quant-synthesis, 8 causal, 5 review, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 27 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,11 @@ The model should weaken if games whose core move carries the content, with model
 
 A gain in the game, a gain on an aligned outside test, delayed retention, transfer to a new task and continued voluntary practice are separate claims. The present evidence does not establish an effective dose beyond one preschool schedule, which game genres help which goals, or whether games help adults and older children at all compared with non-game practice.
 
+## Claims
+
+- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](../claims/moderate-agency-better-learning-outcomes.md) [~W]
+- [Digital game-based learning supports long-term retention of second-language vocabulary](../claims/dgbl-long-term-vocabulary-retention.md) [+W]
+
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.
 - [Immediate Feedback](immediate-feedback.md) — games depend on fast consequence signals to support adaptation and persistence.
@@ -222,7 +227,6 @@ Game-based learning is strongest when the game mechanics require the same thinki
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 quant-synthesis, 3 review, 2 causal, 2 theoretical), `q1`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
-- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](../claims/moderate-agency-better-learning-outcomes.md) [~W]
 
 ## Description
 The most common way a learning game fails is structural rather than aesthetic: the learning and the play are two activities, and the play is the reward for surviving the learning. A racing game with a popup question before each lap, a shooter that pauses for a vocabulary item — in both, the essential repeated activity is still racing or shooting, and the learning is an interruption of it. Plass and colleagues put the prescription plainly, reporting the same conclusion from the designers Isbister, Flanagan and Hash (2010) interviewed: **learning needs to be embedded in the core mechanics of a game rather than added on to existing mechanics.** Game play cannot be used as a reward for answering questions about facts, and factual quizzes cannot be forced into unrelated game play.

@@ -53,8 +53,8 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related
 - [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related
 - [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related
-- [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
+- Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms — related
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
-- [The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.](genai-platforms-challenge-higher-education-assessment.md) — a broader claim this one bears on
+- The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment. — a broader claim this one bears on
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related

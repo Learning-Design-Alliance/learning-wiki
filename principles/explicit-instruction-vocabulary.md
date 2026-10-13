@@ -30,7 +30,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (22 for, 3 mixed, 1 against) · 34 studies (11 quant-synthesis, 10 causal, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 34 report an effect size · 16 claims rest on one study
+> **Evidence** · 28 claims (24 for, 3 mixed, 1 against) · 35 studies (11 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 35 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,11 @@ The expectation should weaken if well-controlled comparisons of explicit teachin
 
 Recognising a word, recalling its meaning, comprehending a text that uses it, using it in one's own speech or writing, and keeping it at a delay are separate claims. The present evidence establishes the first three for taught words over the short term in school-age and second-language learners; it establishes no dose, no schedule and no criterion for a word being learned.
 
+## Claims
+
+- [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](../claims/gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) [+W]
+- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](../claims/diverse-contexts-speed-word-identification.md) [+W]
+
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable
 - [Explicit Instruction: Phonics](phonics.md) — some learners need word-level decoding support alongside meaning instruction
@@ -226,8 +231,6 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice vocabulary learners benefit from explicit routines for noticing, defining, and applying words
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — instruction should limit and organize target words so learners can attend to the most generative terms
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — vocabulary support is stronger when instructors respond to actual misuse, confusion, or missing background knowledge
-- [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](../claims/gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) [+W]
-- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](../claims/diverse-contexts-speed-word-identification.md) [+W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

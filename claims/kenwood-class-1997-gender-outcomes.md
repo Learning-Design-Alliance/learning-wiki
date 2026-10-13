@@ -81,6 +81,6 @@ Girls' section of Table 2, fifth-year row, printed verbatim: "Fifth Year 1997–
 
 
 ## Related Claims
-- [Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35)](barton-1993-gender-graduation.md) — related
-- [Of Kenwood's class of 1997 (429 entering ninth graders in 1993), 269 graduated within five years while 77 dropped out and 73 left CPS](kenwood-class-1997-five-year-outcomes.md) — related
-- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — a broader claim this one bears on
+- Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — related
+- Of Kenwood's class of 1997 (429 entering ninth graders in 1993), 269 graduated within five years while 77 dropped out and 73 left CPS — related
+- Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent) — a broader claim this one bears on

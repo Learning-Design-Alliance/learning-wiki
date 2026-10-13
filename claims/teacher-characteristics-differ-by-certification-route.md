@@ -49,11 +49,11 @@ Descriptive comparison of teacher characteristics across certification routes fo
 - [Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers](elementary-less-selective-alt-routes-similar-traditional.md) — related
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
 - [Research by others indicates pairing teachers and students of the same race significantly increases reading and math achievement of Black and White students and raises high school completion probability](race-matched-teacher-achievement-benefits.md) — related
-- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
-- [Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers](cps-pathway-differences-coursework-length-and-career-plans.md) — related
+- Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States — related
+- Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers — related
 - [Increasing selectivity of teacher preparation entrance exams is not mutually exclusive with increasing diversity — nine states that raised selectivity saw education student diversity increase.](selectivity-and-diversity-compatible.md) — related
-- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
-- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
-- [Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21](teachers-of-color-alternative-route-entry.md) — related
-- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
-- [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related
+- Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors — related
+- Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover — related
+- Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21 — related
+- Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers — related
+- Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates — related

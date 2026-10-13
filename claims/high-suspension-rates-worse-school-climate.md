@@ -47,5 +47,5 @@ Observational analysis relating schools' suspension rates to school climate meas
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related
 - [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related
-- [Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions](higher-performing-schools-better-student-experiences.md) — related
+- Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions — related
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — possibly the same claim (merge candidate)

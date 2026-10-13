@@ -43,9 +43,9 @@ Observational analysis of six-year graduation rates for the 2007 first-time, ful
 
 
 ## Related Claims
-- [Closing all institutional Pell/non-Pell completion gaps would cut the 14-point national gap only in half, to 7 percentage points](closing-institutional-gaps-halves-national-gap.md) — related
-- [Enrollment stratification amplifies the national gap: Pell students are concentrated at lower-SAT, lower-graduation-rate institutions](pell-enrollment-stratification-sat-quartiles.md) — related
-- [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — a narrower finding that bears on this claim
+- Closing all institutional Pell/non-Pell completion gaps would cut the 14-point national gap only in half, to 7 percentage points — related
+- Enrollment stratification amplifies the national gap: Pell students are concentrated at lower-SAT, lower-graduation-rate institutions — related
+- About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points — a narrower finding that bears on this claim
 - [The average within-institution Pell/non-Pell completion gap is only 5.7 percentage points, far smaller than the 14-point national gap](pell-institutional-gap-5-7-points.md) — related
-- [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — related
+- Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics — related
 - [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

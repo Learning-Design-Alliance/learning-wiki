@@ -17,7 +17,7 @@ sources:
 # Person-Centered Psychology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Carl Rogers' humanistic psychology and small-group encounter methods, person-centered psychology offers a relational methodology for the conditions under which people can safely engage with uncomfortable material about themselves and others — including, in a learning-sciences context, material about power, privilege, and systemic oppression. The framework centers three conditions: **unconditional positive regard** (accepting a person without conditions attached to that acceptance), **empathic listening** (understanding a situation from inside the other person's frame of reference, not just one's own), and **congruence** (a facilitator's own authenticity, which invites reciprocal vulnerability from participants). Enacted in small groups with a here-and-now focus, these conditions let participants enact and examine their own habitual relational patterns — around voice, power, and belonging — in real time, rather than only discussing such patterns in the abstract.
@@ -35,7 +35,9 @@ Drawing on Carl Rogers' humanistic psychology and small-group encounter methods,
 - Building the relational conditions (safety, authenticity, empathic understanding) that allow a group to move from abstract critical analysis to embodied, lived examination of power and belonging
 
 ## Claims
+
 - (none yet — the source article is a conceptual/theoretical contribution with no empirical claim to attach)
+- [The congruence-change and symptom-reduction relation does not hold at six-month follow-up](../claims/congruence-symptom-relation-absent-at-six-months.md) [-W]
 
 ## Related Theories
 

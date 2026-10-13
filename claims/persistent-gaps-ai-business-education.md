@@ -45,6 +45,6 @@ Gap identification arises from the study's bibliometric mapping of the 213-artic
 ## Related Claims
 - [A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment](four-clusters-ai-business-education-research.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
+- Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
-- [On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%)](competency-adequacy-largest-policy-gap.md) — related
+- On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%) — related

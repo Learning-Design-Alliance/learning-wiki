@@ -59,7 +59,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (15 for, 6 mixed, 1 unmarked) · 22 studies (12 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (18 for, 9 mixed, 1 unmarked) · 25 studies (14 causal, 5 quant-synthesis, 5 review, 1 theoretical), `q2`–`q4` · 7 of 25 report an effect size · 23 claims rest on one study
 
 ## Description
 
@@ -200,11 +200,6 @@ Spaced practice trades short-term performance for long-term retention: massed st
 - [Learners prefer massed study despite its inferior outcomes.](../claims/learners-misjudge-spacing-benefits.md) [~M] — learners' study choices are driven by short-term fluency, so spacing often needs structural support
 - [Spaced retrieval outperforms spaced restudy.](../claims/spaced-retrieval-outperforms-restudy.md) [+S] — the spacing effect is amplified when each encounter requires retrieval rather than rereading
 - [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
-- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
-- [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](../claims/spacing-enhances-learning-across-domains-lifespan.md) [+W]
-- [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](../claims/relearning-confound-distributed-practice-designs.md) [~W]
-- [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
-- [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
 
 ## Related Principles
 - [Retrieval Practice](retrieval-practice.md) — spacing and retrieval are complementary; spaced testing is the strongest known combination for durable retention
@@ -415,3 +410,12 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 ## Key Sources
 - Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 -->
+
+## Claims
+
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
+- [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](../claims/spacing-enhances-learning-across-domains-lifespan.md) [+W]
+- [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](../claims/relearning-confound-distributed-practice-designs.md) [~W]
+- [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
+- [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](../claims/retention-interval-by-levels-of-thinking-interaction-not-significant.md) [~W]
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]

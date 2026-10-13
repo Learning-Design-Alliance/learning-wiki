@@ -43,5 +43,5 @@ The authors draw on "data and experiences observing and analyzing school lotteri
 
 
 ## Related Claims
-- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

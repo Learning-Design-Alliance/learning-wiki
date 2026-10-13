@@ -22,7 +22,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 review, 4 associational, 2 theoretical, 1 design), `q2`–`q4` · 6 of 24 report an effect size · 10 claims rest on one study
+> **Evidence** · 19 claims (9 for, 10 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 review, 4 associational, 2 theoretical, 1 design), `q2`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,6 +80,11 @@ For example, a first-year chemistry student may value passing the end-of-term ex
 The expectation should weaken if comparisons that hold course features other than the activities constant (time, assessments, quizzes, instructor) show no advantage for active-learning sections on aligned outcomes. If gains are explained by the extra quizzes, homework or home time that came with the format, credit those features rather than activity. If constructive and interactive tasks keep failing to outperform merely active ones in authentic classrooms, drop the engagement ordering and keep only the end points. If novices given guided activity do no better than novices given clear explanation followed by practice, the claim reduces to the value of practice. Do not protect the model by relabelling every failure as "not really active learning" after the fact.
 
 A course-end exam advantage, a narrowed achievement gap, durable retention, transfer to unfamiliar problems and changes in reasoning ability are separate claims. The present evidence does not establish an optimal share of active class time, a best activity type, or an effect for any individual learner, and it rests largely on undergraduate STEM courses.
+
+## Claims
+
+- [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](../claims/any-clicker-pattern-beats-absence-except-lowest-quartile.md) [+W]
+- [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](../claims/homework-explanation-quality-predicts-exam-performance.md) [~W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

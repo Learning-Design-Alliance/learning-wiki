@@ -45,4 +45,4 @@ The study's comparative synthesis of fifteen national systems' curricula and exa
 ## Related Claims
 - [National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows](exam-washback-drives-language-policy.md) — related
 - [In several national systems a significant portion of students completes secondary education without any formal programming exposure](access-gap-secondary-programming-exposure.md) — related
-- [Specialist and general-track language choices are coupled through shared teacher pipelines](teacher-resource-coupling-tracks.md) — related
+- Specialist and general-track language choices are coupled through shared teacher pipelines — related

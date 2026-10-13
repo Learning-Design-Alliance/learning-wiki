@@ -44,21 +44,21 @@ Descriptive subgroup analysis of CPS administrative suspension data for 2013-14.
 
 ## Related Claims
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
-- [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
+- Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS — related
 - [A subset of about a quarter of Chicago high schools and 10 percent of middle-grades schools have very high suspension rates, almost all predominantly serving African-American students](high-suspension-schools-concentrated-disadvantage.md) — related
-- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
-- [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
-- [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
+- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
+- Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
+- Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — a broader claim this one bears on
+- Black and poor students are suspended from US schools at higher rates than White and nonpoor students — a broader claim this one bears on
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
-- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — a broader claim this one bears on
+- Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer — a broader claim this one bears on
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
-- [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
-- [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
+- Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed — related
+- Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment — related
 - [A first suspension doubles a student's odds of dropping out of school](first-suspension-doubles-dropout-odds.md) — related
-- [Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools](intersectional-suspension-risk.md) — related
-- [Black students lose five times as many instructional days to suspension as White students](black-students-lose-five-times-instructional-days.md) — related
-- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
+- Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools — related
+- Black students lose five times as many instructional days to suspension as White students — related
+- Racial differences in suspension rates reflect policies and adult biases, not differences in behavior — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
-- [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related
+- Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases — related

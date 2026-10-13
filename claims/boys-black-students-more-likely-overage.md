@@ -46,6 +46,6 @@ Findings section of the brief, from the observational CPS analysis: within-censu
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related
 - [Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate](racial-equity-climate-doubles-overage-graduation.md) — related
 - [Neighborhood groupings reveal variation within Chicago's 77 community areas that typical analyses miss](groupings-finer-grained-than-77-community-areas.md) — related
-- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
-- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
+- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
+- Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race — related
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related

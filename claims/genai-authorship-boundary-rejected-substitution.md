@@ -44,7 +44,7 @@ RQ2 thematic analysis found ethical acceptability framed around whether GenAI us
 
 ## Related Claims
 - [Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks](disciplinary-norms-shape-genai-acceptability.md) — a broader claim this one bears on
-- [Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants](editing-proofreading-most-prevalent-genai-use.md) — related
+- Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related

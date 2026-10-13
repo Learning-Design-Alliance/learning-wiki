@@ -15,7 +15,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 22 studies (11 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 22 studies (11 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -131,6 +131,13 @@ This pattern is scoped to structured targets with a definable correct performanc
 - **Tested with:** early-childhood teachers, one curriculum.
 - **Not settled:** whether scripting improves learning outcomes; the claim measures adherence, not learning, and no wiki claim compares scripted with unscripted direct instruction.
 
+## Claims
+
+- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
+- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
+- [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
+
 ## Related Patterns
 
 ## Key Sources
@@ -170,10 +177,6 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 
 > **Pattern** · [All patterns](index.md)
 > **Evidence** · no claims cited
-- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
-- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
-- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
-- [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 
 ## Description
 Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.

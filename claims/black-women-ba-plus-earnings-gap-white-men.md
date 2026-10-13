@@ -44,5 +44,5 @@ Education Trust analysis of U.S. Census Bureau Current Population Survey 2021 An
 
 ## Related Claims
 - [Black students from low-income families had lower good-job rates than White and Latino peers at every degree level, while Latinos and Latinas were relatively advantaged, and gaps narrowed with more education](racial-gaps-good-jobs-shrink-with-education.md) — related
-- [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related
+- Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt — related
 - [Black adults with a college degree have less wealth than White adults without a high school diploma](college-degree-wealth-gap-persists.md) — related

@@ -62,6 +62,6 @@ Simple slope plots (Figs. 2, 3) with estimated marginal means depicted the inter
 
 
 ## Related Claims
-- [Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions](attitudes-toward-ebps-cluster-within-schools.md) — related
+- Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions — related
 - [At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs](organizational-strategic-factors-associated-with-attitudes.md) — related
 - [At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence](individual-level-general-and-strategic-factors-attitudes.md) — related

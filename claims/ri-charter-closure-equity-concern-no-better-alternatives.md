@@ -43,9 +43,9 @@ In the qualitative interview study, officials cited the 2020 closure of the Acad
 
 
 ## Related Claims
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related
-- [No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares](school-characteristics-benchmark-shares.md) — related
-- [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
+- No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
+- About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math — related
 - [Key officials report that Rhode Island's new charter performance framework reduced political interference through standardized, transparent data and consistent processes](ri-charter-framework-reduced-political-interference.md) — related
 - [Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools](receiving-school-quality-moderates-closure-impacts.md) — related

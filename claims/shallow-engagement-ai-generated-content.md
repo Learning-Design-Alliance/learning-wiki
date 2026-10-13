@@ -46,6 +46,6 @@ Observation surfaced in Session 4, where faculty worked through four faculty-sou
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — related
-- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
+- Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
-- [Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities](cognitive-dependency-discourse-faculty-driven.md) — related
+- Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities — related

@@ -43,6 +43,6 @@ Analysis of the linked statewide dataset in the Invisible Achievement Gap report
 
 
 ## Related Claims
-- [Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care](foster-care-achievement-gap-aims.md) — related
-- [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
+- Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care — related
+- Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate — related
 - [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related

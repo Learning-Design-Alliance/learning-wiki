@@ -51,6 +51,6 @@ The brief's descriptive comparison reports that the enrollment pattern at HBCUs 
 - [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](other-federal-aid-did-not-offset-plus-decline.md) — related
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related
-- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
-- [Credit disparities make private loans harder to access for Black, Native American, and Latino communities](credit-score-disparities-block-private-loan-access.md) — related
-- [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related
+- Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt — related
+- Credit disparities make private loans harder to access for Black, Native American, and Latino communities — related
+- The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million — related

@@ -43,10 +43,10 @@ In the refined gap-closer sample (308 institutions after excluding exclusivity g
 
 
 ## Related Claims
-- [Graduation-rate gaps between white and black students generally grew across gap-analysis institutions, reaching nearly 19 points by 2010](black-white-graduation-gaps-grew-nineteen-points.md) — related
-- [White-Hispanic graduation-rate gaps narrowed modestly overall, and top gap-closers narrowed gaps by more than 7 percentage points](gap-closers-narrowed-gaps-more-than-seven-points.md) — related
-- [At exemplar institutions such as Ohio State, graduation rates for black students rose faster than for white students, narrowing gaps (black +31.1 vs white +20.5 points)](exemplar-institutions-black-gains-outpace-white.md) — a narrower finding that bears on this claim
-- [At four-year public institutions that improved overall graduation rates, black students' rates rose 4.4 percentage points over a decade versus 5.6 points for white students, widening the gap](black-grad-gains-lag-white-gains-232-institutions.md) — related
-- [About 68.5 percent of improving institutions raised black graduation rates, but 31.5 percent showed no gains for black students and fewer than half of gainers narrowed gaps](institutions-black-gains-gap-closure-shares.md) — related
-- [Institutions serving similar students can have divergent URM outcomes: NC State raised URM graduation rates 12 points and nearly halved its gap while demographically similar Auburn saw URM rates decline and its gap grow past 20 points](similar-colleges-different-urm-outcomes.md) — related
-- [Adult degree attainment rates among White adults exceed those of Black adults by 16.3 percentage points and Latino adults by 24.5 percentage points across 41 states](white-black-latino-attainment-gaps-41-states.md) — related
+- Graduation-rate gaps between white and black students generally grew across gap-analysis institutions, reaching nearly 19 points by 2010 — related
+- White-Hispanic graduation-rate gaps narrowed modestly overall, and top gap-closers narrowed gaps by more than 7 percentage points — related
+- At exemplar institutions such as Ohio State, graduation rates for black students rose faster than for white students, narrowing gaps (black +31.1 vs white +20.5 points) — a narrower finding that bears on this claim
+- At four-year public institutions that improved overall graduation rates, black students' rates rose 4.4 percentage points over a decade versus 5.6 points for white students, widening the gap — related
+- About 68.5 percent of improving institutions raised black graduation rates, but 31.5 percent showed no gains for black students and fewer than half of gainers narrowed gaps — related
+- Institutions serving similar students can have divergent URM outcomes: NC State raised URM graduation rates 12 points and nearly halved its gap while demographically similar Auburn saw URM rates decline and its gap grow past 20 points — related
+- Adult degree attainment rates among White adults exceed those of Black adults by 16.3 percentage points and Latino adults by 24.5 percentage points across 41 states — related

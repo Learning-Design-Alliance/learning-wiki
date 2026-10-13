@@ -26,7 +26,7 @@ sources:
 # Mentoring/Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 19 studies (6 associational, 4 causal, 4 qualitative, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 19 report an effect size · 15 claims rest on one study
+> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 29 studies (8 associational, 7 qualitative, 6 review, 4 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 29 report an effect size · 30 claims rest on one study
 
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
@@ -86,6 +86,21 @@ Mentoring and coaching are effective because they attach support to the learner�
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](../claims/rtap-mentorship-value-and-variability.md) [~W]
 - [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](../claims/rtap-mentors-of-color-especially-valuable.md) [~W]
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](../claims/web-folders-enable-coaching.md) [+W]
+- [Baseline coaches produced weaker or absent learning gains: RBF improved only failure count, MIA neither outcome](../claims/baselines-weak-or-absent-skill-gains.md) [-W]
+- [Coached teachers report more frequent impactful technology use practices developing student skills](../claims/coaching-increases-impactful-technology-use-practices.md) [+W]
+- [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](../claims/coaching-associated-employment-earnings-gains.md) [+W]
+- [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](../claims/cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) [~W]
+- [Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice](../claims/conferences-reflective-but-coaching-skills-lacking.md) [~W]
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](../claims/mentoring-influences-new-teacher-retention.md) [+W]
+- [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](../claims/mentoring-coaching-reduce-teacher-attrition.md) [+W]
+- [Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods](../claims/pr-ideal-coach-characteristics-teacher-voice.md) [+W]
+- [Mentoring residents improves mentors' own teaching practice](../claims/mentoring-residents-improves-mentor-practice.md) [+W]
+- [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](../claims/no-mentoring-retention-relationships-by-district-subgroups.md) [~W]
+- [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](../claims/mentoring-halves-new-teacher-attrition.md) [+W]
+- [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](../claims/coach-support-to-families-closures.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [+W]
+- [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](../claims/strong-mentoring-25-point-retention-plan-elementary.md) [+W]
+- [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

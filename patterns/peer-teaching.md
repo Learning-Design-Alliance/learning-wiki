@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 3 studies (2 quant-synthesis, 1 causal), `q3` · 3 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q3` · 4 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
@@ -32,6 +32,9 @@ Peer teaching is the short-form canonical pattern for learners teaching concepts
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](../claims/pals-no-discernible-math-effects-ld.md) [~W] — attached 2026-10-07 from What Works Clearinghouse (2012), which proposed "PALS Math two-activity session structure: coach-modeled self-talk questioning followed by practice"; tests this page's relationship.
 - [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](../claims/pals-strong-evidence-first-grade-literacy-es-023.md) [+W] — attached 2026-10-08 from Peer-Assisted Learning Strategies (PALS) (2001), which proposed "Turn-taking paired tutoring with structured literacy skill sequence and simple peer error correction"; tests this page's relationship.
 - [PALS has potentially positive effects on reading achievement for English language learners, with a combined effect size of 0.31 but no statistically significant effects on individual measures](../claims/pals-potentially-positive-reading-effects-ells.md) [~W]
+- [PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering](../claims/pals-potentially-positive-comprehension-effect-adolescent.md) [~W]
+- [In the meeting-standards study, PALS classrooms used more one-on-one and peer-mediated instruction and less teacher-led instruction than comparison classrooms](../claims/pals-classrooms-more-peer-mediated-less-teacher-led.md) [+W]
+- [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](../claims/pals-improvement-index-reading-12-percentile.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

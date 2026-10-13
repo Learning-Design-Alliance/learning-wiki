@@ -44,7 +44,7 @@ Survey of 148 edtech coaches (Figure 5) on support to district/school leaders: s
 
 ## Related Claims
 - [Most U.S. educators surveyed report being engaged in coaching, with respondents across all 50 states](83-percent-survey-respondents-engaged-in-coaching.md) — related
-- [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
+- About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons — related
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
-- [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related
+- During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more — related
 - [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related

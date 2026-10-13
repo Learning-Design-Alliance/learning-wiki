@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 25 studies (13 causal, 6 quant-synthesis, 4 review, 1 associational, 1 design), `q1`–`q4` · 7 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 36 claims (18 for, 18 mixed) · 28 studies (15 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 28 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -98,6 +98,22 @@ The bounded words-with-pictures expectation should weaken if comparable learners
 
 A learning-phase preference, immediate recall, explanation of a mechanism, delayed retention and use on a real task are separate claims. The present evidence does not establish a universal best format, an optimal segment length, or a forecast for an individual learner.
 
+## Claims
+
+- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](../claims/generative-processing-principles-mayer-2008.md) [+W]
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [~W]
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
+- [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](../claims/segmenting-principle-mayer-2008.md) [+W]
+- [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
+- [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
+- [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
+- [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](../claims/treatment-science-pretest-independent-effects.md) [~W]
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
+- [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~W]
+- [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](../claims/verbal-redundancy-small-overall-effect.md) [~W]
+- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](../claims/redundant-text-no-effect-posterior-probability-lesson.md) [~W]
+- [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](../claims/segmentation-moderates-verbal-redundancy.md) [~W]
+
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md) — multimedia learning is a more specific representational principle within the broader multimodal design space
 - [Dual Coding](dual-coding.md) — provides the clearest explanatory account for why coordinated representations can improve learning
@@ -170,15 +186,6 @@ Multimedia learning is strongest when multiple representations clarify a concept
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
-- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](../claims/generative-processing-principles-mayer-2008.md) [+W]
-- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [~W]
-- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](../claims/redundancy-effect-not-significant-middle-school.md) [~W]
-- [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](../claims/segmenting-principle-mayer-2008.md) [+W]
-- [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
-- [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](../claims/spoken-versus-signaled-written-null.md) [~W]
-- [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](../claims/voice-media-outperform-picture-text-overall.md) [+W]
-- [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](../claims/treatment-science-pretest-independent-effects.md) [~W]
-- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 
 ## Description
 The article concludes that relevant visual information such as diagrams in texts can improve learning, though not under all instructional conditions: "diagrams fostered students' application of the lesson content relative to text alone only if students read the lesson twice, and not if they answered questions while reading". Visual representations may be beneficial only if students have adequate resources available to process them, so teachers should consider the resource demands of working with visuals.

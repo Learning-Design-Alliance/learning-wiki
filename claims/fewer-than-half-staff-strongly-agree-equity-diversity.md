@@ -43,7 +43,7 @@ Descriptive analysis of CSSS scale response distributions (Table 3); mean agreem
 
 
 ## Related Claims
-- [African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff](african-american-staff-negative-respect-for-diversity-perceptions.md) — related
+- African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff — related
 - [African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities](african-american-staff-least-positive-instructional-equity-perceptions.md) — related
 - [Staff perceptions of instructional equity varied by role: teachers, special education teachers, and administrators most positive; paraprofessionals, resource officers, and counselors least positive](staff-role-differences-instructional-equity-perceptions.md) — related
-- [Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower](staff-role-differences-respect-for-diversity-perceptions.md) — related
+- Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower — related

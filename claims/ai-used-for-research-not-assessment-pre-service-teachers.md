@@ -46,4 +46,4 @@ Figure 2 survey results on primary purposes of AI use among the 380 respondents.
 - [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — a broader claim this one bears on
 - [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
-- [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
+- ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use — related

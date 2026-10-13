@@ -17,7 +17,7 @@ sources:
 # Level-differentiated emphases: awareness, exploration, specialization
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The guide differentiates the function of industrial arts by school level: elementary school provides INSIGHTS into and AWARENESS of the industrial-technical society; junior high courses provide EXPLORATION of the adult world of work and support of SELF CONCEPTS during early adolescence; senior high provides concentrated, specialized study with career EXPLORATION IN DEPTH and BEGINNING SPECIALIZATION. Operational level goals and expected outcomes are listed for each level under career emphasis and industrial-technological emphasis headings.
@@ -39,6 +39,7 @@ The guide differentiates the function of industrial arts by school level: elemen
 ### Claims
 
 - [The literature review reports a converging consensus that middle school is the ideal time to begin career exploration](../claims/middle-school-ideal-time-career-exploration-consensus.md) [+W]
+- [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](../claims/early-career-pathway-exposure-enhances-self-efficacy.md) [+W]
 
 ## Related Patterns
 

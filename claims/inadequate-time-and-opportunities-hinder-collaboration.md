@@ -44,7 +44,7 @@ Survey of district and charter educators in the grant evaluation. "Nearly all re
 
 ## Related Claims
 - [Respondents viewed local foundations, businesses, and community groups as promoting cross-sector collaboration, while competition, political divisions, and teachers' unions may hinder it](community-actors-promote-competition-unions-hinder-collaboration.md) — related
-- [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — possibly the same claim (merge candidate)
+- Limited school staff time is a crucial obstacle impeding cross-sector collaboration — possibly the same claim (merge candidate)
 - [In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector](schoolwide-grant-half-collaborated-across-sector.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related

@@ -51,7 +51,7 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
 - [Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal](weak-coherence-impairs-improvement-wilson.md) — related
-- [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — related
+- Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal — related
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
 - [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — a narrower finding that bears on this claim
 - [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — related

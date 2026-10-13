@@ -17,7 +17,7 @@ sources:
 # Sustain framework implementation through ongoing teacher professional development and collaborative educator practices
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (4 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The article identifies teacher development as a condition for sustained implementation of DL2F. It states that 'ongoing professional development for teachers and collaborative practices among educators contribute to the framework's successful implementation in the Philippine secondary school context', and repeats in the conclusion that these practices contribute significantly to the framework's sustained success.
@@ -42,6 +42,7 @@ The article identifies teacher development as a condition for sustained implemen
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+W]
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
 
 ## Related Principles
 - 

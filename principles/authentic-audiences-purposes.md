@@ -13,7 +13,7 @@ generated:
 # Authentic Audiences & Purposes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 17 studies (6 causal, 3 review, 3 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 17 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 18 studies (6 causal, 3 review, 3 design, 3 theoretical, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 0 of 18 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -61,6 +61,10 @@ For example, a student writing a policy brief may value being taken seriously by
 ## What would revise this model?
 
 The expectation should weaken if comparisons that hold topic, time and order constant find no difference in rated quality between real-audience and teacher-only versions, or if a simulated audience produces the same change as a real one (which would point to a changed task framing rather than a genuine reader). If quality gains appear only on presentation and not on substance, the relationship is about polish, not learning. If public exposure reduces participation or the depth of reflective writing for identifiable learners, as the public/private comparison hints, the conditions on audience size and choice become part of the model rather than a caveat. A product-quality gain, content learning, persistence and later transfer to real communication are separate claims; the present evidence speaks only to the first, on small samples.
+
+## Claims
+
+- [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](../claims/skilled-reader-estimate-audience-effect.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations

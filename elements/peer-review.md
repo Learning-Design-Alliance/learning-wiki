@@ -22,7 +22,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 associational, 2 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (4 associational, 2 quant-synthesis), `q2`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.
@@ -55,6 +55,7 @@ Peer review is the element in which learners examine and respond to one another'
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+W]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md)

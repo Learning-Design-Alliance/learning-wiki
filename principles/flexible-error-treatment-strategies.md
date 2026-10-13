@@ -18,7 +18,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 3 mixed, 1 against) · 5 studies (2 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 6 studies (3 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 The article proposes that "teachers should employ different and flexible error treatment strategies in accordance with the teaching objectives, students' linguistic competence, their affective factors and the effectiveness of the error correction". Error treatment decisions — whether to treat or ignore, when and how to correct — should rest on theoretical foundations combining affective and cognitive feedback, reinforcement theory, and communicative language teaching.
@@ -47,6 +47,7 @@ The article proposes that "teachers should employ different and flexible error t
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
 - [CF treatment improved irregular past tense performance on both GJT and EIT with large effects](../claims/cf-treatment-improves-irregular-past-tense-gjt-eit.md) [~W]
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](../claims/baseline-post-feedback-gains-near-zero-no-condition-differences.md) [-W]
+- [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](../claims/cbi-version-affects-attitudes-lean-most-negative.md) [~W]
 
 ## Related Principles
 

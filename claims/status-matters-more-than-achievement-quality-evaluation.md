@@ -43,4 +43,4 @@ A randomized survey experiment assessed parents' preferences for school qualitie
 
 
 ## Related Claims
-- [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — reports the opposite
+- Growth matters more than achievement or status when parents choose between schools — reports the opposite

@@ -54,7 +54,7 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Class mood and peer participation moderated one learner's willingness to speak in class](class-mood-moderates-willingness-to-speak.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
-- [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](us-classes-expected-more-talk-than-japanese.md) — related
+- Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes — related
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

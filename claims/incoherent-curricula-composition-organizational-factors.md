@@ -43,5 +43,5 @@ Analysis of grade-level coherence measured as similarity in math content coverag
 
 
 ## Related Claims
-- [High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms](high-poverty-schools-pacing-flattens-fourth-grade.md) — related
+- High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms — related
 - [Smaller schools and schools with lower student mobility show significantly stronger instructional pacing even after controlling for prior achievement and poverty](school-size-mobility-affect-pacing.md) — related

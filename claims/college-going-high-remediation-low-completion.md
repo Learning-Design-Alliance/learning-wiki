@@ -82,4 +82,4 @@ The report's data page, citing Adelman in National Crosstalk (Summer 1998), pres
 
 ## Related Claims
 - [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related
-- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent) — related

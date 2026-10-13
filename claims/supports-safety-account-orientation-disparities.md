@@ -43,7 +43,7 @@ Regression adjustment analysis of CHKS data by sexual orientation, parallel to t
 
 
 ## Related Claims
-- [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
+- Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students — related
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — related
 - [Adjusting for perceived school supports and safety eliminates the transgender/non-transgender school connectedness gap and halves mental health, motivation, and middle school performance gaps](supports-safety-account-transgender-disparities.md) — related

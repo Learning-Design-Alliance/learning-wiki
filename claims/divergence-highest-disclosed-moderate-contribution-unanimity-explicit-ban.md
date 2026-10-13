@@ -65,4 +65,4 @@ Stress-test vignette applying an explicit task-level AI prohibition to all 20 un
 - [Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected](disclosure-alone-often-changes-little.md) — related
 - [Process-only AI assistance produces more indeterminate classifications than uses retaining AI-generated text](process-only-assistance-more-indeterminate-than-retained-text.md) — related
 - [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
-- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
+- Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation — related

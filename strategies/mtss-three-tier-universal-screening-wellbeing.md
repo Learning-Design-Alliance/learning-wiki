@@ -17,7 +17,7 @@ sources:
 # Organize student well-being supports through a three-tier MTSS with universal screening
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that school leaders use multitiered systems of support (MTSS) to organize academic, behavioral, and social-emotional interventions based on three tiers: universal (all students), targeted (small groups), and intensive (individual students). MTSS use academic, behavioral, and SEL data, with universal screening to identify needs; students can move in and out of tiers based on their needs and progress. The report states "School leaders can use MTSS to organize academic, behavioral, and social-emotional interventions based on three 'tiers' or levels of support."
@@ -40,6 +40,10 @@ The report recommends that school leaders use multitiered systems of support (MT
 
 ### Affordances
 - [Three Category School Mental Health Supports Framework](../products/three-category-framework-for-organizing-school-mental-health-and-well-being-supports.md)
+
+## Claims
+
+- [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](../claims/kansas-mtss-strong-implementation-hallmarks.md) [+W]
 
 ## Related Strategies
 

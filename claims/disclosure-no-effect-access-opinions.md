@@ -45,6 +45,6 @@ Aggregated data-access opinion means were 2.69 (control), 2.50 (text), and 2.48 
 ## Related Claims
 - [Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure](detailed-disclosure-increases-confidence-data-collected.md) — related
 - [Data disclosure of any format does not change students' acceptance of data collection by their university](disclosure-no-effect-acceptance.md) — related
-- [Students believe private companies neither have nor should have access to their educational data](students-oppose-private-company-data-access.md) — related
+- Students believe private companies neither have nor should have access to their educational data — related
 - [A majority of students think they should be informed of data collection details at multiple contact points throughout their studies](students-want-multiple-informed-consent-contact-points.md) — related
-- [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
+- In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak — related

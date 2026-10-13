@@ -49,5 +49,5 @@ Figure 2 analysis for District A middle school math teachers (N=235 teachers as 
 - [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](results-robust-to-quartile-grouping.md) — related
 - [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
-- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
-- [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related
+- Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers — related
+- Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile — related

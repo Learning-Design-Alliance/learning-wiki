@@ -59,8 +59,8 @@ The review's summary statement of service delivery outcomes across the synthesis
 
 ## Related Claims
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
-- [Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions](infrastructure-readiness-determines-ai-scalability.md) — related
+- Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
-- [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
-- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — related
+- Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education — related
+- AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently — related
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related

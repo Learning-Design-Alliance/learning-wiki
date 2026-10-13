@@ -44,6 +44,6 @@ The policy brief's overview states that "Census funding is viewed as a cost-cont
 
 ## Related Claims
 - [Census funding has raised concerns about funding equity](census-funding-equity-concerns.md) — related
-- [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
-- [Disability rates tended to fall following state special education capitation finance reforms](disability-rates-fall-after-capitation-reforms.md) — related
-- [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
+- Capitation-based special education finance was associated with a rising share of local funding — related
+- Disability rates tended to fall following state special education capitation finance reforms — related
+- Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in — related

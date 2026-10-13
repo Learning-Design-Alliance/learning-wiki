@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (15 for, 13 mixed, 1 against) · 18 studies (5 quant-synthesis, 4 associational, 3 causal, 3 design, 2 qualitative, 1 review), `q1`–`q4` · 6 of 18 report an effect size · 27 claims rest on one study
+> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 20 studies (6 associational, 5 quant-synthesis, 3 causal, 3 design, 2 qualitative, 1 review), `q1`–`q4` · 6 of 20 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,11 @@ Costs and limits the earlier page named, kept: online teaching can take markedly
 
 This pattern is scoped to the shape of a mostly online course across a term. How to split a course between online and in-person time is [Blended Learning](blended-learning.md); how a designer produces a course (analysis, prototyping, review) is a design process, not this pattern. Whether a course built this way produces better end-of-term performance or completion than the same course without its week-1 contact, structured small-group discussion or self-regulation supports, for which learners and at what staff cost, remains to be tested.
 
+## Claims
+
+- [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [~W]
+- [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
+
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself
 - [Discussion-Based Learning](discussion-based-learning.md) — the discussion strand of this course at lesson scale
@@ -205,8 +210,6 @@ Course-design literature converges on a recurring set of moves that build these 
 
 ### Claims
 
-- [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [~W]
-- [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
 
 ## Design
 

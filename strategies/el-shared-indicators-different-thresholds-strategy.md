@@ -17,7 +17,7 @@ sources:
 # Use the same early warning and college readiness indicator systems for English Learners as for other students, but apply subgroup-specific risk thresholds and targeted supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's policy takeaway is that "Schools do not need different systems of early warning and college readiness indicators for English Learners," because the best indicators are the same for most students, but the at-risk threshold differs for active ELs in high school. Recommended supports include improving former ELs' GPAs toward 3.0, monitoring late-arriving ELs through their first two years, prioritizing attendance and course passing over English proficiency for long-term ELs without IEPs, and improving attendance for long-term ELs with IEPs.
@@ -35,6 +35,10 @@ The study's policy takeaway is that "Schools do not need different systems of ea
 
 ### Target Learning Goals
 - High school graduation, college enrollment, and college degree completion
+
+## Claims
+
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](../claims/gpa-most-predictive-attainment-english-learners.md) [~W]
 
 ## Related Strategies
 

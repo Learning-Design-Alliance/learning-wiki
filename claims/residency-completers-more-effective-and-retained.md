@@ -43,10 +43,10 @@ The brief's synthesis of prior research (citing Saunders et al. 2024, Kirksey & 
 
 
 ## Related Claims
-- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — a broader claim this one bears on
+- Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers — a broader claim this one bears on
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — reports the opposite
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — a broader claim this one bears on
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — a narrower finding that bears on this claim
-- [Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers](cps-pathway-differences-coursework-length-and-career-plans.md) — related
-- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers — related
+- Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover — related

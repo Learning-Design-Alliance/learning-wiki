@@ -46,8 +46,8 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
-- [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
-- [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
+- Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training — related
+- About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
 - [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related
 - [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related

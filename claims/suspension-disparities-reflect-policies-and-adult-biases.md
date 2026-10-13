@@ -43,10 +43,10 @@ The guide’s background section states, citing cited research, that "these diff
 
 
 ## Related Claims
-- [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — a narrower finding that bears on this claim
-- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related
-- [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
+- For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups — a narrower finding that bears on this claim
+- Black students and students with disabilities are disproportionately referred for behavioral threat assessments — related
+- Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
-- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
+- At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](disability-suspension-disparity.md) — related
+- Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19% — related

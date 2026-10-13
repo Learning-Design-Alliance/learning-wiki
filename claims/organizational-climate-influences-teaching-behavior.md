@@ -51,4 +51,4 @@ Second-hand assertion: the review quotes Milem (2001, p. 5) stating that "The cl
 - [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md)
 - [Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement](induction-impacts-knowledge-resilience-advancement.md) — related
-- [College instructors perceive Generative AI through power relations with four distinct centers](instructors-perceive-genai-through-power-relations.md) — related
+- College instructors perceive Generative AI through power relations with four distinct centers — related

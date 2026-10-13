@@ -44,5 +44,5 @@ Descriptive analysis of 2014 and 2016 CRDC data on first- and second-year teache
 
 ## Related Claims
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](high-student-of-color-schools-four-times-uncertified-teachers.md) — related
-- [Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected](inexperienced-teacher-inequity-by-location.md) — a broader claim this one bears on
-- [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
+- Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected — a broader claim this one bears on
+- State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools — related

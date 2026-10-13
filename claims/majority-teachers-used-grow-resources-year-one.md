@@ -43,5 +43,5 @@ Citywide self-report survey of teachers in grades four through eight; the analys
 
 
 ## Related Claims
-- [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related
-- [Chicago elementary principals are overwhelmingly positive about Grow, with higher endorsement rates than teachers on shared items](principals-overwhelmingly-positive-grow.md) — related
+- More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students — related
+- Chicago elementary principals are overwhelmingly positive about Grow, with higher endorsement rates than teachers on shared items — related

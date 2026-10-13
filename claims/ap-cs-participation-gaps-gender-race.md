@@ -41,11 +41,11 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 
 
 ## Related Claims
-- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
+- Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected — related
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — a broader claim this one bears on
-- [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — related
+- Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
-- [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
-- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
-- [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](black-latino-underrepresented-ap-test-takers.md) — related
+- Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains — related
+- San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender — a broader claim this one bears on
+- Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers — related
 - [Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal](data-standards-render-marginalized-students-invisible.md) — related

@@ -62,9 +62,9 @@ The guide argues that barriers to partnership include "the assumptions, beliefs,
 
 
 ## Related Claims
-- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related
 - [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
-- [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
+- More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related

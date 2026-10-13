@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 26 studies (9 causal, 6 review, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 13 claims rest on one study
+> **Evidence** · 46 claims (25 for, 16 mixed, 5 against) · 49 studies (21 causal, 13 review, 6 quant-synthesis, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 49 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,36 @@ For example, a secondary-school learner using an adaptive mathematics platform m
 The expectation should weaken if, with comparable learners and content, individualised selection does not outperform the same content in a fixed sequence on independent outcomes, or if tutoring-system gains disappear on standardised measures and at a delay. If difficulty-only adaptation does as well as adaptation of support, the claim that support is the active part should be revised. If routing decisions based on a learner model are no better than a teacher's or the learner's own choices, the diagnostic step needs rethinking. If time saved, persistence or the learner's own goals move against achievement, the model is incomplete without them. Do not protect it by relabelling every failure as low fidelity or poor engagement.
 
 Within-system performance, aligned achievement, standardised achievement, delayed retention, transfer and time to criterion are separate claims. The present evidence does not establish which adaptation target matters most, an optimal difficulty band or mastery threshold, or a forecast for an individual learner.
+
+## Claims
+
+- [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](../claims/adaptive-learning-gains-15-25-percent.md) [~W]
+- [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+W]
+- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [~W]
+- [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.](../claims/bkt-sequence-recommendation-students-solved-harder-exercises.md) [+W]
+- [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [~W]
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](../claims/genai-personalised-feedback-contested-depth.md) [~W]
+- [The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level](../claims/cmt-alignment-cosine-similarity-0962.md) [~W]
+- [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](../claims/lms-process-indicators-pilot.md) [+W]
+- [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
+- [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](../claims/one-shot-generation-lowers-adaptivity.md) [~W]
+- [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](../claims/non-adaptive-condition-higher-mastery-probabilities.md) [-W]
+- [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
+- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](../claims/personalized-paths-experiment-outcomes.md) [+S]
+- [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](../claims/personalized-paths-lower-cognitive-load.md) [+W]
+- [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](../claims/significant-prepost-gains-ckt-pst.md) [~W]
+- [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](../claims/student-context-personalization-improves-tutor-metrics.md) [+W]
+- [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [-W]
+- [Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches](../claims/rl-sample-inefficiency-reward-design-limits.md) [~W]
+- [An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science](../claims/adaptive-ai-stem-deep-learning-gains-sixth-grade.md) [+W]
+- [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)](../claims/ai-adaptive-learning-medium-large-effects-reviewed.md) [+M]
+- [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](../claims/adaptive-its-no-difference-cognitive-load-enjoyment.md) [~W]
+- [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](../claims/ai-math-pedagogical-opportunities-personalisation-feedback.md) [+W]
+- [The EEG-adaptive exercise condition produced significantly higher cognitive engagement during training than the unrestricted chatbot condition (p = .018), and was the only condition above the 0.5 baseline](../claims/adaptive-mode-higher-eeg-engagement.md) [+W]
+- [Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories](../claims/context-sensitive-personalization-disciplinary-backgrounds.md) [~W]
+- [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](../claims/woot-math-rct-adaptivity-significant-effects.md) [+W]
+- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](../claims/rl-adaptive-system-grade-engagement-gains.md) [+W]
+- [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time
@@ -206,24 +236,6 @@ Adaptive designs operationalize the zone of proximal development: tasks are matc
 
 > **Pattern** · [All patterns](index.md)
 > **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
-- [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](../claims/adaptive-learning-gains-15-25-percent.md) [~W]
-- [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+W]
-- [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](../claims/adaptive-fading-beats-fixed-and-linear-scaffolding.md) [~W]
-- [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.](../claims/bkt-sequence-recommendation-students-solved-harder-exercises.md) [+W]
-- [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [~W]
-- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](../claims/genai-personalised-feedback-contested-depth.md) [~W]
-- [The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level](../claims/cmt-alignment-cosine-similarity-0962.md) [~W]
-- [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](../claims/lms-process-indicators-pilot.md) [+W]
-- [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
-- [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](../claims/one-shot-generation-lowers-adaptivity.md) [~W]
-- [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](../claims/non-adaptive-condition-higher-mastery-probabilities.md) [-W]
-- [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
-- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](../claims/personalized-paths-experiment-outcomes.md) [+S]
-- [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](../claims/personalized-paths-lower-cognitive-load.md) [+W]
-- [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](../claims/significant-prepost-gains-ckt-pst.md) [~W]
-- [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](../claims/student-context-personalization-improves-tutor-metrics.md) [+W]
-- [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](../claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md) [-W]
-- [Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches](../claims/rl-sample-inefficiency-reward-design-limits.md) [~W]
 
 ## Description
 Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.

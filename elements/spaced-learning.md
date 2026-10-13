@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 3 of 8 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 9 studies (4 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 3 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -32,6 +32,7 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M]
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](../claims/spacing-effect-robust-verbal-recall.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
 
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)

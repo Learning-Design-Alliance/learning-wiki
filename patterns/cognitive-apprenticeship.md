@@ -28,7 +28,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 12 studies (5 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q2`–`q4` · 1 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (7 for, 4 mixed, 1 against) · 16 studies (6 causal, 3 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -92,6 +92,13 @@ Record: **task and conditions → model shown (what was narrated) → learner at
 [Modeling](../elements/modeling.md), [think-aloud](../elements/think-aloud.md), [demonstration](../elements/demonstration.md), [worked examples](../elements/worked-examples.md), [coaching](../elements/coaching.md), [eliciting student thinking](../elements/eliciting-student-thinking.md), [feedback](../elements/feedback.md), [hints](../elements/hints.md), [scaffolding](../elements/scaffolding.md), [fading](../elements/fading.md), [articulation](../elements/articulation.md), [reflection](../elements/reflection.md) and [practice](../elements/practice.md). Principles the sequence draws on: [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md), [guided practice](../principles/guided-practice.md) and [purposeful reflection](../principles/purposeful-reflection.md).
 
 This pattern is general across domains; a clinical round, a writing workshop or a design studio is a design that uses it, not a separate pattern. It depends on someone being able to make their reasoning explicit, and contingent coaching is hard to sustain for many learners at once. The evidence for contingency comes mostly from one-to-one tutoring. Whether the full sequence improves independent performance more than explicit strategy instruction, or more than its parts used alone, has not been tested here, and neither has its diagnostic policy.
+
+## Claims
+
+- [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](../claims/scaffolded-task-progression-diagnostic-shift.md) [~W]
+- [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](../claims/web-based-ca-instructor-time-burden.md) [~W]
+- [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](../claims/education-population-moderates-scaffolding-effect.md) [~W]
+- [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](../claims/fading-no-effect-productive-learning-events.md) [-W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning
@@ -171,8 +178,6 @@ Course or unit — the full modeling → coaching → fading arc typically unfol
 #### Contradicting
 
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — expertise reversal: too much guidance can impede learners who already have strong prior knowledge
-- [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](../claims/scaffolded-task-progression-diagnostic-shift.md) [~W]
-- [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](../claims/web-based-ca-instructor-time-burden.md) [~W]
 
 ## Design
 

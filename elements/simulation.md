@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (21 for, 2 mixed, 2 against) · 29 studies (9 quant-synthesis, 8 review, 7 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 29 report an effect size · 14 claims rest on one study
+> **Evidence** · 33 claims (25 for, 6 mixed, 2 against) · 36 studies (10 quant-synthesis, 10 review, 7 causal, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 22 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -81,6 +81,14 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](../claims/llm-simulations-bridge-theory-practice-gap.md) [+W]
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](../claims/expert-evaluation-realism-and-feedback-awareness.md) [+W]
 - [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [+W]
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](../claims/ai-simulation-high-learner-acceptance.md) [+W]
+- [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](../claims/ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) [+W]
+- [Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group](../claims/low-equity-participants-converge-toward-high-equity-responses.md) [~W]
+- [The CATALST simulation-based statistics course achieved a high pass rate comparable to or better than the traditional course at the same institution](../claims/catalst-pass-rate-comparable-to-traditional.md) [+W]
+- [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](../claims/anatomage-vr-engagement-34-percent.md) [~W]
+- [Overall 3E, Empower, and Empathize scores were higher in the second AI-patient encounter, but the uncontrolled design precludes attributing this to training](../claims/session2-3e-scores-higher-uncontrolled.md) [~W]
+- [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](../claims/ai-ambulatory-case-simulations-diagnostic-reasoning.md) [+W]
+- [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](../claims/genai-virtual-patient-short-term-gains-mixed.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

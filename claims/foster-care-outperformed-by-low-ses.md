@@ -44,6 +44,6 @@ Statewide test analysis of the linked dataset compared foster care students agai
 
 ## Related Claims
 - [Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test](foster-care-lowest-math-proficiency.md) — related
-- [Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students](foster-care-distinct-from-low-ses-arizona.md) — related
-- [Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care](foster-care-achievement-gap-aims.md) — related
-- [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
+- Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students — related
+- Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care — related
+- Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate — related

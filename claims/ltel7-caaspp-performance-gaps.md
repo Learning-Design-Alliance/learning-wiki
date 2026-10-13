@@ -43,8 +43,8 @@ Analysis of CAASPP assessment data for 2022–23 shown in Figures 14–17. The r
 
 
 ## Related Claims
-- [Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)](boys-disproportionately-represented-ltel7-california.md) — related
+- Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs) — related
 - [Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)](ltel7-began-lowest-english-proficiency.md) — related
-- [Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers](ltel7-school-context-disadvantages.md) — related
-- [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related
-- [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers — related
+- Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient — related
+- Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers — related

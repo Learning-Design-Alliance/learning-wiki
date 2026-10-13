@@ -45,4 +45,4 @@ The guidance cites studies, unnamed in the text, that a finalist pool including 
 ## Related Claims
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
 - [Racist hiring practices reduce African American candidates' job offers despite equal or better credentials](racist-hiring-practices-toc-candidates.md) — related
-- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
+- African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications. — related

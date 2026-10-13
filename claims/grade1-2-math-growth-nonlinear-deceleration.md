@@ -44,7 +44,7 @@ Three-level hierarchical linear growth model with a quadratic term, fit by grade
 
 ## Related Claims
 - [Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels](early-math-growth-decelerates-first-half-year.md) — a broader claim this one bears on
-- [Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2](school-level-variation-math-growth-grade1-2.md) — related
+- Substantial variation in mathematics growth was attributable to schools, with 29% and 27% of linear growth-rate variance at the school level in Grades 1 and 2 — related
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
 - [In Grade 3 only, higher initial fall status was associated with larger within-year growth, suggesting baseline gaps may widen](grade3-initial-status-positive-growth-correlation.md) — related
 - [Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups](grade3-accelerated-growth-on-above-grade-level.md) — related

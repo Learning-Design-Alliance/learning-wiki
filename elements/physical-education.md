@@ -13,7 +13,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 3 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
@@ -54,7 +54,8 @@ Effective PE instruction sequences observation, guided practice, and application
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Successful motor engagement (ALT-PE) increased gradually across expertise groups while remaining statistically non-significant](../claims/alt-pe-increases-across-expertise-groups.md) [~W]
+- [The ratio of SMM time to ALT-PE decreased gradually with increasing expertise level](../claims/smm-alt-pe-ratio-decreases-with-expertise.md) [+W]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — the primary means of conveying a movement model; silent or over-verbalized demonstrations are less effective

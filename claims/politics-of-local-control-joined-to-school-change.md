@@ -45,7 +45,7 @@ Authors' summary characterization of the study's combined quantitative and quali
 ## Related Claims
 - [School change efforts under the reform are classifiable as either systemic or unfocused](systemic-versus-unfocused-change-classification.md) — a narrower finding that bears on this claim
 - [In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction](one-third-schools-democratic-participation-lever-systemic-change.md) — a narrower finding that bears on this claim
-- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related
+- High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership — related
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — a narrower finding that bears on this claim
 - [The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach](indicator-system-validity-96-92-percent.md) — a narrower finding that bears on this claim
 - [An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy](prevalence-four-politics-types-chicago-elementary.md) — a narrower finding that bears on this claim

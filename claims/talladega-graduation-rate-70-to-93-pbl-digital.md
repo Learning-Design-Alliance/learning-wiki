@@ -44,4 +44,4 @@ Case-study profile of Talladega County Schools (about 7,000 learners, 71 percent
 
 ## Related Claims
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
-- [Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half](chicago-graduation-gains-halved-by-composition-adjustment.md) — related
+- Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half — related

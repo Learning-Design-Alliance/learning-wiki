@@ -62,7 +62,7 @@ Hierarchical clustering analysis reported in Section 4.4: "The hierarchical clus
 
 
 ## Related Claims
-- [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related
+- University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks — related
 - [Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes](ai-ethics-practice-based-keyword-orientation.md) — related
 - [Health and education topics rose in prominence across the 2021–2025 AI Index Reports, while sport and exercise themes appeared only indirectly](ai-index-health-education-rise-sport-absent.md) — a narrower finding that bears on this claim
 - [The AI Index discourse analysis provides no test of intervention effects; the study's contribution is conceptual and agenda-setting](conceptual-not-intervention-evidence.md) — related

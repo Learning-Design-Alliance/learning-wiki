@@ -43,10 +43,10 @@ The report's summary of its analysis of charter schools' impact on traditional p
 
 
 ## Related Claims
-- [Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools](philadelphia-charter-gains-equal-district-schools.md) — related
+- Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools — related
 - [The U.S. charter school sector has grown to more than 7,000 schools nationwide, prompting an active debate over charters' effects on the public school system and their regulation](charter-sector-growth-over-7000-schools-debate.md) — a broader claim this one bears on
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — related
-- [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-similar-to-nearby-traditional-schools.md) — related
-- [Average charter schools perform about the same as nearby traditional public schools, with large variation in effects](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — related
+- The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly — related
+- Average charter schools perform about the same as nearby traditional public schools, with large variation in effects — related
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
 - [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related

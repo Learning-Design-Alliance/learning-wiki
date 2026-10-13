@@ -44,7 +44,7 @@ Regression models with a male indicator controlling for algebra/geometry and hon
 
 ## Related Claims
 - [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related
-- [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
+- Students earned higher average grades in CS courses than in core courses, with few failing CS — related
 - [Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry](differential-course-placement-created-different-category-weights.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related

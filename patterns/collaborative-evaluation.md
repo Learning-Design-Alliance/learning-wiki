@@ -24,7 +24,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 16 claims (6 for, 10 mixed) · 34 studies (15 causal, 7 quant-synthesis, 5 associational, 3 review, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 34 report an effect size · 4 claims rest on one study
+> **Evidence** · 19 claims (7 for, 12 mixed) · 37 studies (15 causal, 7 quant-synthesis, 5 associational, 4 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,12 @@ Record: **object and its reference judgment → criteria as given → each learn
 
 This pattern is scoped to learners judging the quality of objects against criteria, with a reference judgment available. Where no reference exists and the question is which position to hold, use [structured academic controversy](structured-academic-controversy.md); where the aim is giving feedback on an individual's draft, [structured peer review](structured-peer-review.md). The policy supports observation and design reasoning; whether judging together and comparing with a reference improves each learner's later alone judgments more than judging alone with the same reference, for which learners, at what time cost and at what horizon, remains to be tested.
 
+## Claims
+
+- [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
+- [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [~W]
+- [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](../claims/hallucination-as-pedagogical-resource.md) [~W]
+
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)
 - [Discussion Group](discussion-based-learning.md)
@@ -191,7 +197,6 @@ The pattern works best when the object being evaluated admits comparison and jus
 - Social constructivist perspectives — evaluative understanding deepens through comparison and dialogue.
 - Formative assessment perspectives — using criteria collaboratively helps learners internalize standards of quality.
 - Reflective judgment perspectives — learners improve by defending and revising claims in response to alternatives.
-- [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W]
 
 #### Contradicting / Qualifying
 - Collaboration does not guarantee quality; the value comes from evidence-based reasoning, not simply group discussion.
@@ -205,7 +210,6 @@ The pattern works best when the object being evaluated admits comparison and jus
 #### Contradicting
 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
-- [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [~W]
 
 ## Design
 

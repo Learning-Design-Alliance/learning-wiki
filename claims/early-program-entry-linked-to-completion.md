@@ -43,6 +43,6 @@ The guide cites emerging recognition of this association to justify its intermed
 
 
 ## Related Claims
-- [Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access](academic-qualifications-vary-by-enrollment-status.md) — related
-- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access — related
+- Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent) — related
 - [Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years](delayed-enrollment-lower-completion.md) — related

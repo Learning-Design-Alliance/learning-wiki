@@ -45,6 +45,6 @@ The brief's own description states that "researchers have translated test scores
 ## Related Claims
 - [Assessments are framed as one indicator among many of student impact from COVID-19](assessments-one-indicator-among-many-covid-impact.md) — related
 - [Translating test scores into months of learning has major downsides despite its perceived accessibility](months-of-learning-translation-major-downsides.md) — related
-- [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — a narrower finding that bears on this claim
+- Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year — a narrower finding that bears on this claim
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — a narrower finding that bears on this claim
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related

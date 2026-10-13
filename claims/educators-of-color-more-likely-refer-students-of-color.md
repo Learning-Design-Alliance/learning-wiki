@@ -45,4 +45,4 @@ The brief attributes this referral finding to its Shut Out report, stating that 
 ## Related Claims
 - [Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites](opt-out-advanced-enrollment-raises-access.md) — related
 - [Among high-achieving Black students, advanced-math takers more often had counselors who set high standards and spent more time on college preparation, though the standards difference was not statistically significant](counselor-standards-college-prep-advanced-math.md) — related
-- [The average student-to-school-counselor ratio (385:1) exceeds the recommended 250:1, with higher ratios in schools serving more students of color and low-income students](counselor-ratio-385-exceeds-250-recommendation.md) — related
+- The average student-to-school-counselor ratio (385:1) exceeds the recommended 250:1, with higher ratios in schools serving more students of color and low-income students — related

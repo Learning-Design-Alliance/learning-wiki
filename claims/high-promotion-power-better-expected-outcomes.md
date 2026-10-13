@@ -44,5 +44,5 @@ This is the report's own Key Findings statement comparing students at high versu
 
 ## Related Claims
 - [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — a broader claim this one bears on
-- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
+- There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled — related
 - [The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school](louisiana-school-contributions-separated-from-family-resources.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use selective alternative certification routes as one lever for staffing disadvantaged schools, with expectations calibrated to route selectivity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief addresses teacher shortages in disadvantaged schools by presenting evidence on alternative certification routes as a staffing strategy. It distinguishes highly selective routes (Teach For America, Teaching Fellows) from "less selective alternative routes that accept nearly all applicants," and reports that only the most selective route showed a measurable test-score advantage, in secondary math. Staffing decisions can therefore weigh selectivity against expected achievement effects.
@@ -35,6 +35,11 @@ The brief addresses teacher shortages in disadvantaged schools by presenting evi
 
 ### Target Learning Goals
 - Student achievement through teacher staffing and recruitment decisions
+
+## Claims
+
+- [Teach For America teachers had no impact on student reading achievement](../claims/tfa-no-reading-achievement-impact.md) [-W]
+- [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](../claims/tfa-positive-math-achievement-impact.md) [+W]
 
 ## Related Strategies
 - 

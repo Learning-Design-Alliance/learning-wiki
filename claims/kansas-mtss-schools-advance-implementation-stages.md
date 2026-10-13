@@ -62,8 +62,8 @@ Longitudinal analysis of the 292 schools responding to the survey in both 2013 a
 
 
 ## Related Claims
-- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate](kansas-mtss-broad-training-reach.md) — related
+- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate — related
 - [Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics](kansas-mtss-fidelity-monitoring-stronger-implementation.md) — related
-- [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training](kansas-mtss-half-schools-trained.md) — related
+- Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training — related
 - [Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time](kansas-mtss-implementation-stages-advancing.md) — a broader claim this one bears on
 - [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related

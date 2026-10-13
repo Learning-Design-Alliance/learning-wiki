@@ -46,5 +46,5 @@ Survey-weighted teacher-level logistic regression of TALIS 2024 adoption data fo
 - [Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast](assessment-marking-inverse-demand-ai-association.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — related
 - [Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast](special-education-strongest-demand-ai-alignment.md) — related
-- [Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity](cross-system-heterogeneity-task-specific-ai-profiles.md) — related
+- Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity — related
 - [The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient](demand-ai-allocation-association-task-contingent.md) — related

@@ -43,4 +43,4 @@ Trend analysis of standardized Tests of Achievement and Proficiency scores in th
 
 
 ## Related Claims
-- [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related
+- Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools — related

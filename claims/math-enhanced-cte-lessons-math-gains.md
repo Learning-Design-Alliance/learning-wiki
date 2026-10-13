@@ -63,7 +63,7 @@ The review describes an experimental evaluation in which CTE teachers worked wit
 
 ## Related Claims
 - [The Saga blended technology-enhanced tutoring model significantly improves standardized math scores, math GPA, and reduces math course failures (+0.19)](saga-blended-model-rct3-outcomes.md) — related
-- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation — related
 - [Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests](saga-blended-tutoring-test-score-impacts-mixed.md) — related
 - [eMINTS shows no discernible effects on general literacy achievement](emints-no-discernible-literacy-effects.md) — related
 - [ACT/SAT test preparation and coaching programs have positive effects on general academic achievement (high school), based on six studies averaging a +9 improvement index](actsat-prep-positive-effects-high-school-achievement.md) — related

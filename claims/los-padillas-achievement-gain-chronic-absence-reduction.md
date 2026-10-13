@@ -44,10 +44,10 @@ Case study profile of Los Padillas Elementary (about 200 students, Albuquerque P
 
 ## Related Claims
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — a narrower finding that bears on this claim
-- [Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22](los-padillas-kindergarten-formative-gains.md) — a narrower finding that bears on this claim
-- [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — a narrower finding that bears on this claim
-- [The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers](los-padillas-fourth-grade-ela-gains.md) — a narrower finding that bears on this claim
-- [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
+- Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — a narrower finding that bears on this claim
+- Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math — a narrower finding that bears on this claim
+- The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers — a narrower finding that bears on this claim
+- Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
 - [LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools](ccspp-lausd-chronic-absence-math-gains.md) — related
 - [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — a broader claim this one bears on

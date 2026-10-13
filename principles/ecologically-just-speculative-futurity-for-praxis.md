@@ -18,7 +18,7 @@ sources:
 # Cultivate ecologically just speculative futurity as requisite to political praxis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To counter apocalypticism that emerges when we fail to imagine life beyond oppressive structures, the article argues that "an ecologically-attuned CCP must explicitly facilitate the imagining of more emancipatory futures for humans and nonhumans alike." The principle pairs CCP's language of critique with a language of possibility propelled by ecological justice, drawing on radical imagination, storytelling as precursor to praxis, and counterstorytelling. It asks what stories, languages of possibility, and performances can guide us toward ecologically just futures, tethered to Fassett and Warren's commitment that educators embrace pedagogy and research as praxis.
@@ -40,7 +40,8 @@ To counter apocalypticism that emerges when we fail to imagine life beyond oppre
 - thinking against constraints of contemporary structures of oppression
 
 ### Claims
-- 
+
+- [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](../claims/approaching-markers-future-attainability.md) [+W]
 
 ## Related Principles
 

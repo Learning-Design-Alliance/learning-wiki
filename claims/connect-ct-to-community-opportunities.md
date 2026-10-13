@@ -45,5 +45,5 @@ A 2022 research discovery drawn from teacher reflections: a teacher wrote about 
 ## Related Claims
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — related
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — related
-- [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](appalachian-problem-solving-heritage-lost.md) — related
-- [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
+- Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses — related
+- Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization — related

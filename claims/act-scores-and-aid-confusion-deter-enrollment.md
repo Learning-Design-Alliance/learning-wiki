@@ -62,6 +62,6 @@ The case study reports it was "her wariness about the cost of college that seale
 
 
 ## Related Claims
-- [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
-- [Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky](combined-barriers-summer-melt-marco.md) — related
+- Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly — related
+- Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky — related
 - [Becoming too focused on a single college option left a highly qualified student with no fallback when that option fell through, and she did not enroll in college](single-option-focus-summer-melt-risk.md) — related

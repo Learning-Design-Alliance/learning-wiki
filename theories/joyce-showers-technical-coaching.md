@@ -17,7 +17,7 @@ sources:
 # Joyce and Showers' technical coaching: a cyclical training extension for transferring new teaching skills
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper analyzes Joyce and Showers' model, which borrows coaching from athletics and treats it as the next step after training. Drawing on their empirical work and a meta-analysis of training and staff development, they claim "the coaching process enables nearly all teachers to sustain practice and gain executive control over a large range of curricular and instructional practices." Effective training first has teachers study the rationale, see demonstrations, practice, and get feedback; coaching then supports transfer, first checking performance against an expert model with clinical assessment forms, then shifting to joint inquiry and collaborative lesson planning. Peer coaching can also build a professional learning community.
@@ -39,6 +39,7 @@ The paper analyzes Joyce and Showers' model, which borrows coaching from athleti
 ### Claims
 
 - [Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label](../claims/reflective-versus-technical-coaching-comparison.md) [+W]
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
 
 ## Related Theories
 - [Schon Reflective Coaching Dialogue](schon-reflective-coaching-dialogue.md)

@@ -43,4 +43,4 @@ Pre/post cohort comparison of transcript data from CPS administrative records, c
 
 
 ## Related Claims
-- [Despite large increases in course-taking, the science requirement produced little evidence of additional science learning, as most graduates earned Cs or lower](cps-science-requirement-little-learning-gain.md) — related
+- Despite large increases in course-taking, the science requirement produced little evidence of additional science learning, as most graduates earned Cs or lower — related

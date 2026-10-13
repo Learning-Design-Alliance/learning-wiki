@@ -43,5 +43,5 @@ Qualitative feedback from the year-long field test in six Council of the Great C
 
 
 ## Related Claims
-- [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](capability-belief-achievement-gap-survey.md) — related
+- Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related

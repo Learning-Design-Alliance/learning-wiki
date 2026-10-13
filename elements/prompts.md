@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 14 studies (6 causal, 4 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 18 studies (9 causal, 4 quant-synthesis, 2 review, 2 associational, 1 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -55,6 +55,10 @@ Prompts work by triggering self-explanations and strategic processing that learn
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](../claims/prompt-type-differences-general-vs-regulated.md) [+W] — attached 2026-10-12 from Wong et al. (2026), which proposed "Seven sample prompts scaffolding collaborative ChatGPT interaction in creative problem-solving".
 - [Names alone elicit weaker, less consistent identity-marked feedback language than explicit attribute prompts](../claims/names-alone-elicit-weaker-marked-language.md) [+W]
+- [Missing prompt-element types significantly co-occur: failure to provide appropriate functionality explanation correlates strongly with missing expected output/return and with extraneous elements](../claims/prompt-mistake-co-occurrence-correlations.md) [~W]
+- [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](../claims/prompt-strategies-foreground-different-pedagogical-themes.md) [~W]
+- [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](../claims/collaborative-prompts-mediate-independent-originality.md) [+W]
+- [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](../claims/prompting-effort-and-verbose-response-costs.md) [~W]
 
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — prompts can elicit think-aloud behavior; the two together make reasoning visible and rehearsed

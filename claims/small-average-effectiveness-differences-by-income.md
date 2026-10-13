@@ -43,10 +43,10 @@ The snapshot reports as a key finding that in the average of the 26 study distri
 
 
 ## Related Claims
-- [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — a narrower finding that bears on this claim
+- Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income — a narrower finding that bears on this claim
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
 - [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related
 - [High- and low-income students have similar chances of being taught by the most effective and the least effective teachers](similar-access-most-least-effective-teachers.md) — related
-- [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers-income.md) — related
+- High- and low-income students have similar chances of being taught by the most and least effective teachers — related
 - [In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small](small-average-effectiveness-differences.md) — possibly the same claim (merge candidate)
-- [A small subset of study districts shows meaningful inequity in access to effective teachers in math](meaningful-math-inequity-subset-districts.md) — related
+- A small subset of study districts shows meaningful inequity in access to effective teachers in math — related

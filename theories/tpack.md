@@ -13,7 +13,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (11 for, 9 mixed) · 12 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q2` · 4 of 12 report an effect size · 20 claims rest on one study
+> **Evidence** · 21 claims (11 for, 10 mixed) · 12 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q2` · 4 of 12 report an effect size · 21 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -64,6 +64,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](../claims/teacher-beliefs-mediate-ai-integration.md) [+W]
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](../claims/teacher-educators-shallow-genai-understanding-gaps.md) [~W]
 - [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](../claims/no-grade-differences-in-aick.md) [~W]
+- [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](../claims/content-knowledge-not-associated-genai-integration.md) [~W]
 
 ## Related Theories
 

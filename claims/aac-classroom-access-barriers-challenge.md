@@ -45,5 +45,5 @@ Narrative background synthesis in the protocol's introduction and abstract, repo
 ## Related Claims
 - [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — a narrower finding that bears on this claim
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — a narrower finding that bears on this claim
-- [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
+- Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children — related
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related

@@ -45,5 +45,5 @@ Documentary case-study evidence from the report's account of the turnaround: the
 ## Related Claims
 - [Orchard Gardens K–8 School rose from among Massachusetts' lowest-performing schools (Level 4) to Level 1 during its SIG turnaround](orchard-gardens-level4-to-level1-turnaround.md) — related
 - [A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools](perry-street-quasi-experimental-achievement-gains.md) — related
-- [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
+- Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related

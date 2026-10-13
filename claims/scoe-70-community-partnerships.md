@@ -43,9 +43,9 @@ Program documentation brief reporting partnership counts under Project Cal-Well.
 
 
 ## Related Claims
-- [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](scoe-3000-educators-ruler-sel-training.md) — related
-- [Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce](scoe-cal-well-training-833-and-3104.md) — related
+- SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019 — related
+- Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce — related
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — related
-- [From 2019 through 2023, Cohort 2 LEAs reported 13,262 students received mental health services after a referral](cal-well-13262-students-received-services.md) — related
-- [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related
-- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
+- From 2019 through 2023, Cohort 2 LEAs reported 13,262 students received mental health services after a referral — related
+- The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions — related
+- School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations — related

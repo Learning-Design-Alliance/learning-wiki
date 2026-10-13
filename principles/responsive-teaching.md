@@ -13,7 +13,7 @@ generated:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 12 studies (4 causal, 4 quant-synthesis, 2 review, 2 qualitative), `q1`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 13 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 review), `q1`–`q4` · 2 of 13 report an effect size · 3 claims rest on one study
 
 ## Description
 Responsive teaching means continuously eliciting learner thinking and adjusting instruction in real time — re-sequencing, re-explaining, extending, or redirecting — based on what students actually say and do rather than on the planned lesson script. It treats student ideas, including errors and partial understandings, as the primary evidence for instructional decisions.
@@ -65,6 +65,7 @@ Responsive teaching operationalizes formative assessment as a moment-to-moment p
 - [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — treating student errors as objects of analysis supports conceptual change
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](../claims/genai-tutors-struggle-infer-student-knowledge.md) [-W]
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](../claims/tools-should-surface-misconceptions-track-difficulties.md) [~W]
+- [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](../claims/stem-more-amenable-difficulty-scaling.md) [~W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — responsive teaching is formative assessment enacted at the level of moment-to-moment instructional decisions

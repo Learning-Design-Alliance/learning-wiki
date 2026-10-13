@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 30 studies (13 causal, 8 review, 7 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 8 of 30 report an effect size · 8 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 32 studies (14 causal, 9 review, 7 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 8 of 32 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,12 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - **Default:** no wiki evidence of fading: duration did not moderate cognitive or behavioural outcomes in the gamification meta-analysis — [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [~M]
 - **Not settled:** the novelty effect named in Constraints above has no claim page; no wiki claim follows a gamified course over a long deployment.
 
+## Claims
+
+- [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](../claims/gamified-security-games-confidence-understanding.md) [+W]
+- [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](../claims/gamified-modules-beat-mimecast-phishing.md) [+W]
+- [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
+
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards
 - [Assessment for Learning](assessment-for-learning.md) — badges and progress indicators are most valuable when they function as low-stakes feedback on mastery
@@ -261,8 +267,6 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](../claims/quizizz-gamification-better-memorization.md) [+W]
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
-- [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](../claims/gamified-security-games-confidence-understanding.md) [+W]
-- [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](../claims/gamified-modules-beat-mimecast-phishing.md) [+W]
 
 ## Design Decisions
 

@@ -46,7 +46,7 @@ Newmann, Bryk, and Nagaoka examined how prior achievement related to benefits of
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
+- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-pedagogy-assignments-predict-achievement-gains.md) — possibly the same claim (merge candidate)
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — a broader claim this one bears on

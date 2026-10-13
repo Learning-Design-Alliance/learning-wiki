@@ -46,5 +46,5 @@ Difference-in-differences analysis of the Philadelphia discipline reform reports
 - [In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected](full-implementation-schools-peer-outcomes-unaffected.md) — related
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
-- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
+- In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

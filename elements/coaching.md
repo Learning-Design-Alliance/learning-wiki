@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 2 mixed, 1 unmarked) · 19 studies (6 review, 5 causal, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 15 claims (10 for, 4 mixed, 1 unmarked) · 23 studies (8 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 23 report an effect size · 8 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -57,6 +57,11 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Most coached teachers report improvement across classroom challenge categories after working with a coach](../claims/coaching-improves-classroom-challenge-categories.md) [+W]
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](../claims/long-beach-coach-assigned-schools-caaspp-rose.md) [~W]
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](../claims/web-folders-enable-coaching.md) [+W]
+- [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](../claims/bounded-reliance-hybrid-feedback-preference.md) [+W]
+- [Coached teachers report more frequent impactful technology use practices developing student skills](../claims/coaching-increases-impactful-technology-use-practices.md) [+W]
+- [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](../claims/genai-hints-effective-but-require-validation.md) [~W]
+- [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
 
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the structural principle coaching operationalizes; coaching is scaffolding delivered interactively

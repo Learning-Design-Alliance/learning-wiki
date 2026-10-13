@@ -43,9 +43,9 @@ Conditional regression analysis (300 college-year observations, enrollment-weigh
 
 
 ## Related Claims
-- [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related
-- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related
+- Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student — related
+- Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student — related
 - [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
-- [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
-- [Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs](sdoh-needs-associated-with-el-program-context.md) — related
+- Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities — related
+- Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs — related

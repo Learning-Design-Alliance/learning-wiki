@@ -43,5 +43,5 @@ Finding from the report's document reviews and interviews with district leaders 
 
 
 ## Related Claims
-- [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
+- Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines — related
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related

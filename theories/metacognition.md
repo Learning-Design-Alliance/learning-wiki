@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 32 claims (18 for, 13 mixed, 1 against) · 27 studies (12 causal, 6 theoretical, 5 review, 4 qualitative), `q1`–`q3` · 3 of 27 report an effect size · 30 claims rest on one study
+> **Evidence** · 44 claims (24 for, 17 mixed, 3 against) · 38 studies (16 causal, 8 review, 7 theoretical, 5 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 42 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -74,6 +74,18 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](../claims/trained-students-remediate-genai-deficiencies.md) [+W]
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](../claims/trust-but-cant-verify-novices.md) [~W]
+- [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](../claims/agency-control-over-cognitive-effort.md) [+W]
+- [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](../claims/cognitive-surrender-inflates-confidence-after-errors.md) [~W]
+- [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](../claims/checking-coexists-with-unresolved-error-zhang.md) [-W]
+- [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](../claims/no-illusion-of-mastery-from-ai-practice.md) [+W]
+- [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](../claims/llm-assistance-enhances-employee-creativity.md) [+W]
+- [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](../claims/overestimation-largest-under-full-traces.md) [-W]
+- [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [~W]
+- [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](../claims/task-completion-weak-proxy-competence.md) [+W]
+- [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](../claims/students-unaware-of-ai-learning-harm.md) [+W]
+- [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](../claims/verification-lagged-rising-ai-use.md) [~W]
+- [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](../claims/teacher-role-shifted-diagnosis-coaching.md) [+W]
+- [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](../claims/thinking-aversion-predicts-speedup-illusion.md) [~W]
 
 ## Related Theories
 

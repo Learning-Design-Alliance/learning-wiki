@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (3 qualitative, 1 review, 1 design, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 15 studies (4 review, 4 qualitative, 3 associational, 2 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 15 report an effect size · 16 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -59,6 +59,16 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](../claims/practical-measure-data-tailors-crse-instruction.md) [+W]
 - [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](../claims/milestones-adapt-exercise-pace-per-team.md) [+W]
+- [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](../claims/ai-adaptive-pathways-support-engagement.md) [+W]
+- [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](../claims/its-mature-implementation-personalized-learning.md) [+W]
+- [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](../claims/adaptive-learning-gains-15-25-percent.md) [+W]
+- [NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points.](../claims/ngcc-courseware-small-positive-grade-impact.md) [+W]
+- [Most instructors using adaptive courseware believed it improved student learning and would use it again](../claims/instructors-positive-perceptions-adaptive-courseware.md) [+W]
+- [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](../claims/simple-slopes-ai-literacy-low-high.md) [~W]
+- [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](../claims/student-focus-group-perceptions-courseware.md) [~W]
+- [The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system](../claims/adaptive-mode-per-question-delta-increase-warm-up.md) [~W]
+- [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
+- [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

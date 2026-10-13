@@ -39,7 +39,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 unmarked) · 14 studies (4 causal, 3 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 unmarked) · 18 studies (4 causal, 4 review, 3 quant-synthesis, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 7 claims rest on one study
 
 ## Description
 
@@ -121,8 +121,6 @@ The article argues that student turns in tutoring dialogues, not only tutor turn
 ### Claims
 
 - [Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [~W]
-- [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](../claims/no-pronunciation-assessment-clt-bangladesh.md) [~W]
-- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
@@ -216,3 +214,10 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 ## Key Sources
 - Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 -->
+
+## Claims
+
+- [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](../claims/no-pronunciation-assessment-clt-bangladesh.md) [~W]
+- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [~W]
+- [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](../claims/automated-ai-assessment-high-impact-moderate-challenge.md) [+W]
+- [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]

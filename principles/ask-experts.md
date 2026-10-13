@@ -30,7 +30,7 @@ sources:
 # Ask Experts
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (4 for, 10 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 associational, 2 review, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 2 of 24 report an effect size · 7 claims rest on one study
+> **Evidence** · 16 claims (6 for, 10 mixed) · 26 studies (8 causal, 5 quant-synthesis, 5 associational, 3 theoretical, 2 review, 2 qualitative, 1 design), `q1`–`q4` · 3 of 26 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,11 @@ The expectation should weaken if studies comparing consultations with domain exp
 
 The present evidence establishes no length or frequency of consultation, no number of consultations in a series, and no criterion for withdrawing the expert.
 
+## Claims
+
+- [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](../claims/human-tutoring-effect-d-079.md) [+W]
+- [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+W]
+
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic
 - [Communities of Practice](communities-of-practice.md) — extends expert access into sustained participation in a practice community
@@ -212,8 +217,6 @@ Asking experts works best when the interaction helps learners move from vague co
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — expert questioning is especially valuable when it prompts learners to explain their own reasoning instead of only listening to answers
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — expert involvement should decrease as competence increases so learners assume more responsibility for performance
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — experts can improve novice learning by redirecting attention from "getting the right answer" to strategies, criteria, and process
-- [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](../claims/human-tutoring-effect-d-079.md) [+W]
-- [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic

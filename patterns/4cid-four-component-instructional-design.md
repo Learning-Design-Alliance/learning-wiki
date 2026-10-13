@@ -25,7 +25,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 12 studies (5 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 14 studies (5 causal, 3 review, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 14 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -88,6 +88,11 @@ Record: **task and class → support given and removed → response and reasonin
 [Whole-task performance](../elements/whole-task-performance.md), [supportive information](../elements/supportive-information.md), [procedural information](../elements/procedural-information.md), [just-in-time information](../elements/just-in-time-information.md), [part-task practice](../elements/part-task-practice.md), [fading](../elements/fading.md), [scaffolding](../elements/scaffolding.md), [worked examples](../elements/worked-examples.md), [problem presentation](../elements/problem-presentation.md) and [assessment](../elements/assessment.md). The pattern also applies [guided practice](../principles/guided-practice.md), [problem-based learning](../principles/problem-based-learning.md), [competency-based learning and assessment](../principles/competency-based-assessment.md) and [worked examples](../principles/worked-examples.md); the [worked-examples pattern](worked-examples.md) is the lesson-level policy for the support inside a task class.
 
 This pattern is scoped to complex skills where whole-task transfer is the objective; it is excessive for single facts or one-step procedures, and its analysis and sequencing cost design time. The evidence above tests components in other configurations, not the pattern as a whole, and the conditional branches remain to be tested with learners.
+
+## Claims
+
+- [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](../claims/scaffolded-task-progression-diagnostic-shift.md) [~W]
+- [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
@@ -160,7 +165,6 @@ The pattern is strongest when learners need transfer to authentic performance. I
 #### Contradicting
 
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
-- [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](../claims/scaffolded-task-progression-diagnostic-shift.md) [~W]
 
 ## Design
 

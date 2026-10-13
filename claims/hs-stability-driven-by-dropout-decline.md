@@ -45,5 +45,5 @@ Descriptive trend analysis of high school out-mobility components in Chapter 1 (
 ## Related Claims
 - [Elementary student mobility in CPS decreased between 1995 and 2007, with school-year stability rising from 87.9 to 91.2 percent and school-year in-mobility falling from 11.4 to 7.1 percent](cps-elementary-mobility-decreased-1995-2007.md) — related
 - [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related
-- [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
-- [Residential mobility is closely associated with elementary school transfers in CPS, with nearly 80 percent of mid-year within-district transfers accompanied by a residential move](residential-mobility-drives-elementary-transfers.md) — related
+- The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes — related
+- Residential mobility is closely associated with elementary school transfers in CPS, with nearly 80 percent of mid-year within-district transfers accompanied by a residential move — related

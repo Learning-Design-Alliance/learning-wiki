@@ -44,7 +44,7 @@ Same observational analysis of REACH Students data. Observation-score concentrat
 
 ## Related Claims
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — possibly the same claim (merge candidate)
-- [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — related
+- Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools — related
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — possibly the same claim (merge candidate)
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — possibly the same claim (merge candidate)
-- [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
+- Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials — related

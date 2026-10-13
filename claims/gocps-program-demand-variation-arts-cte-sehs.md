@@ -44,8 +44,8 @@ First-ever district-wide application-rate analysis enabled by centralized GoCPS 
 
 ## Related Claims
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
-- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related
+- GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted — related
 - [Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highly rated programs](gocps-program-demand-variation.md) — possibly the same claim (merge candidate)
 - [Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students](gocps-preferences-vary-by-student-background.md) — related
-- [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related
+- Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08 — related
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related

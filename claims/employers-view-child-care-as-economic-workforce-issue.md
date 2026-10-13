@@ -43,5 +43,5 @@ The report cites a U.S. Chamber of Commerce Foundation study of employers: "50% 
 
 
 ## Related Claims
-- [Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers](child-care-providers-four-key-challenge-areas.md) — related
+- Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers — related
 - [Providers reported racial and gender bias within their local business communities, with many feeling less supported than other businesses due to their race](providers-report-racial-gender-bias-in-business-community.md) — related

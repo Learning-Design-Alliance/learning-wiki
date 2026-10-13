@@ -18,7 +18,7 @@ sources:
 # Real-World Problems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Real-world problems are tasks framed around authentic issues, needs, or dilemmas outside purely academic abstraction. They are useful when learners need to see relevance and apply knowledge in contexts that resemble actual use.
@@ -42,7 +42,7 @@ Real-world problems are tasks framed around authentic issues, needs, or dilemmas
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
 
 ## Related Elements
 - [Problem Presentation](problem-presentation.md)

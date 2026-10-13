@@ -45,5 +45,5 @@ Qualitative case study of Sabrina (ACT 25, weighted GPA 3.77), who worked nearly
 ## Related Claims
 - [Low ACT scores and confusion about financial aid led a hardworking, college-aspiring student to decide not to attend college at all](act-scores-and-aid-confusion-deter-enrollment.md) — related
 - [Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college](parental-and-structured-school-support-college-search.md) — a broader claim this one bears on
-- [Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky](combined-barriers-summer-melt-marco.md) — related
-- [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — related
+- Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky — related
+- Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit — related

@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (10 for, 11 mixed) · 36 studies (12 causal, 10 quant-synthesis, 5 review, 4 associational, 3 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 36 report an effect size · 9 claims rest on one study
+> **Evidence** · 27 claims (15 for, 12 mixed) · 42 studies (13 causal, 10 quant-synthesis, 5 review, 5 associational, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,15 @@ Record: **draft and the criteria as given → each reviewer's comments on the an
 
 This pattern is scoped to peers commenting on an individual's draft that the author then revises before it is judged. Learning to judge quality without a draft to improve is [collaborative evaluation](collaborative-evaluation.md); co-writing a shared text is [collaborative learning](collaborative-learning.md); the teacher-side loop of reading evidence and choosing a next action is [formative assessment](formative-assessment.md). The policy supports observation and design reasoning; whether the full cycle improves the revised work and the reviewer's own next draft more than peer comments without calibration or a required revision plan, for which learners, at what time cost and at what horizon, remains to be tested.
 
+## Claims
+
+- [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](../claims/precision-of-language-evaluation-criterion.md) [+W]
+- [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](../claims/trainer-expected-improve-comment-quality.md) [+W]
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+W]
+- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](../claims/collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) [+W]
+- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
+- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~W]
+
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)
 - [LDA Reflection](lda-reflection.md)
@@ -202,11 +211,6 @@ The pattern works best when the review process is designed carefully. Unstructur
 - Formative assessment perspectives — feedback before final judgment improves learning opportunities.
 - Social constructivist perspectives — standards and reasoning become more visible through peer exchange.
 - Reflective practice traditions — reviewing and revising work helps learners evaluate process and product.
-- [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](../claims/precision-of-language-evaluation-criterion.md) [+W]
-- [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](../claims/trainer-expected-improve-comment-quality.md) [+W]
-- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+W]
-- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](../claims/collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) [+W]
-- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 
 #### Contradicting / Qualifying
 - Peer review is not automatically helpful; criteria, calibration, and revision expectations matter.

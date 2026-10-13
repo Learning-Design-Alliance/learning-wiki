@@ -43,4 +43,4 @@ The report cites the 2024 NETP's observation, quoting that funding "narrowed the
 ## Related Claims
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines](digital-divide-home-not-magnified-by-schools.md) — related
-- [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — related
+- The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students — related

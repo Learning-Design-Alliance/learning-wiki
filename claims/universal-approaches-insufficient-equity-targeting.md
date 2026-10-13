@@ -43,7 +43,7 @@ The report's opening assertion from a convening of intermediary higher education
 
 
 ## Related Claims
-- [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
+- Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average — related
 - [Dual credit participation in Texas is associated with stronger postsecondary outcomes, with low-income DC students twice as likely and Black and Latino DC students three times as likely to earn an associate degree in high school](dc-participation-postsecondary-outcome-gaps-erased.md) — related
-- [High-achieving Black and Latino and low-income students who pass Algebra I in eighth grade still take advanced high school math at lower rates than their peers](algebra-i-passers-advanced-math-disparity.md) — related
+- High-achieving Black and Latino and low-income students who pass Algebra I in eighth grade still take advanced high school math at lower rates than their peers — related
 - [Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall](localized-names-personalization-subgroup-performance.md) — related

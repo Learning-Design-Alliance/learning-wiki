@@ -62,9 +62,9 @@ Survey on AI use in coursework designed for physics students, administered in a 
 
 
 ## Related Claims
-- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
 - [A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct](student-concern-unintentional-genai-academic-misconduct.md) — related
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
 - [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](physics-student-ai-use-survey-findings.md) — a narrower finding that bears on this claim
-- [GenAI tools are already widely used in the academic work of the surveyed undergraduates](genai-widely-used-in-student-academic-work.md) — a narrower finding that bears on this claim
+- GenAI tools are already widely used in the academic work of the surveyed undergraduates — a narrower finding that bears on this claim

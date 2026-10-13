@@ -43,5 +43,5 @@ Scenario stress test across 180 policy-by-scenario observations from the 30-pack
 
 
 ## Related Claims
-- [Output-verification support is the least covered scenario in policy guidance](output-verification-thinnest-scenario.md) — related
+- Output-verification support is the least covered scenario in policy guidance — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related

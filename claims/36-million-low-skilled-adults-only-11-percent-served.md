@@ -43,7 +43,7 @@ The guide's Market Overview section, citing research by Tyton Partners, reports 
 
 
 ## Related Claims
-- [US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget](adult-ed-market-underserved-and-underdigitized.md) — possibly the same claim (merge candidate)
+- US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget — possibly the same claim (merge candidate)
 - [Capacity gap in adult education — programs serve about four million of 36 million U.S. adults reading at a 3rd grade level or below — alongside high smart phone ownership among adult education students](adult-ed-access-gap-and-mobile-readiness.md) — possibly the same claim (merge candidate)
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
 - [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related

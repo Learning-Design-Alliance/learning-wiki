@@ -43,5 +43,5 @@ Key accomplishments section reports administrative counts from University High, 
 
 
 ## Related Claims
-- [Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools](roswell-suspension-graduation-substance-infraction-declines.md) — a broader claim this one bears on
-- [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — related
+- Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools — a broader claim this one bears on
+- Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24 — related

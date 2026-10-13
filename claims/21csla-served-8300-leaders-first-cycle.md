@@ -44,5 +44,5 @@ Document review and program records reported in the report's access section: par
 
 ## Related Claims
 - [Commissioned evaluations found 21CSLA offerings influenced participants' knowledge, skills, and practices related to evidence-based practices, continuous improvement, and equity](21csla-evaluations-influenced-knowledge-practices.md) — related
-- [21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource](21csla-equity-work-challenges-and-reputation.md) — related
-- [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](initiative-forms-and-roles-served.md) — related
+- 21CSLA's equity-forward work faces pushback from some educational leaders and difficulties recruiting a diverse coaching corps, yet has a strong reputation as an equity resource — related
+- State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often — related

@@ -18,7 +18,7 @@ sources:
 # Three aspects of children's language knowledge hypothesized to support fluent reading acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In analyzing how home-school language switching affects reading development, the paper distinguishes three general aspects of children's knowledge of language hypothesized as important for acquiring fluent reading skills: "vocabulary-concept knowledge" of the child, metalinguistic insights regarding the nature of printed text, and facility in processing decontextualized language. These aspects are conceptually distinguishable but are all determined by the child's linguistic experiences prior to school and are likely strongly related empirically. The pattern frames the primary academic task of the early school years as learning to extract information efficiently from printed text.
@@ -39,7 +39,9 @@ In analyzing how home-school language switching affects reading development, the
 - Literacy development in L1 and L2
 
 ### Claims
+
 - [Developmental Interdependence Hypothesis](../theories/developmental-interdependence-hypothesis.md) [+M]
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](../claims/cross-linguistic-transfer-skill-specific.md) [~W]
 
 ## Related Patterns
 - 

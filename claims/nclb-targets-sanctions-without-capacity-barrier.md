@@ -43,5 +43,5 @@ The author's retrospective assessment, stated in the Executive Summary of this p
 
 
 ## Related Claims
-- [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
+- Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind. — related
 - [States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support](esea-flexibility-narrowed-accountability-focus.md) — related

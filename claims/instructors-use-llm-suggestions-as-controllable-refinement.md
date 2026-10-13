@@ -43,7 +43,7 @@ Observational data from three instructors teaching in VR with LumiNote, drawing 
 
 
 ## Related Claims
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — a broader claim this one bears on
 - [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](aissa-students-iterative-use-selective-uptake.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
 - [The article identifies four open directions: human-teacher agreement, pedagogical impact, LLM pipeline refinement, and selective feedback uptake](aissa-future-work-four-directions.md) — related

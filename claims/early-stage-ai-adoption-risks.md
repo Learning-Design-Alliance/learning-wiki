@@ -45,5 +45,5 @@ This is the authors' analytical argument, not an empirical test: the article off
 ## Related Claims
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
-- [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
+- Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment — related
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related

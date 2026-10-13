@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (15 for, 4 mixed, 1 against) · 26 studies (11 causal, 8 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 14 claims rest on one study
+> **Evidence** · 22 claims (15 for, 6 mixed, 1 against) · 28 studies (13 causal, 8 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -88,6 +88,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](../claims/germane-load-redistributive-function-reformulation.md) [~W]
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](../claims/directive-feedback-higher-cognitive-load.md) [~W]
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](../claims/modality-effect-audio-with-visuals-improves-learning.md) [+W] — attached 2026-10-13 from Noetel et al. (2022), which proposed "Cognitive Theory of Multimedia Learning: dual-channel, limited-capacity, active processing"; tests this page's relationship.
+- [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](../claims/ada-cognitive-load-slightly-increased-non-significant.md) [~W]
+- [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](../claims/genai-training-comparable-load-marginal-intrinsic-increase.md) [~W]
 
 ## Related Theories
 

@@ -43,7 +43,7 @@ The authors draw on organization and management literature and education literat
 
 
 ## Related Claims
-- [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
+- Limited school staff time is a crucial obstacle impeding cross-sector collaboration — related
 - [Several collaboration activities show promise in spreading effective practices across schools and staff, but overall progress in increasing collaboration has been limited](district-charter-collaboration-progress-limited-despite-promising-activities.md) — related
 - [Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited](collaboration-progress-limited-despite-promise.md) — related
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related

@@ -46,16 +46,16 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — related
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — possibly the same claim (merge candidate)
-- [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
+- Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2 — related
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
 - [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
-- [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
-- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses — related
+- Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry — related
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
 - [Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students](heat-exposure-racial-learning-disparities.md) — related
-- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
-- [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
+- Black and Latinx students generally feel less safe at school than their White peers — related
+- Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
-- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts — related

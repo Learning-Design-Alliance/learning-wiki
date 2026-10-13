@@ -13,7 +13,7 @@ generated:
 # Argument Construction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Argument construction asks learners to build a structured claim–evidence–reasoning case for a position, typically using an explicit framework such as Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Learners must gather and evaluate evidence, articulate warrants connecting evidence to claims, and anticipate counterarguments — converting domain knowledge into defensible reasoning rather than recall.
@@ -56,6 +56,7 @@ Argument construction supports learning because generating and defending a posit
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
+- [Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group](../claims/genai-peer-feedback-raises-argument-quality.md) [~W]
 
 ## Related Elements
 - [Research](research.md) — supplies the evidence base; arguments without sourced grounds collapse into opinion

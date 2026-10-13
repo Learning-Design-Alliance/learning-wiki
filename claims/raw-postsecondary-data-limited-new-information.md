@@ -43,6 +43,6 @@ The issue brief's key findings state that raw postsecondary data serve descripti
 
 
 ## Related Claims
-- [Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success](fewer-behavioral-than-academic-indicator-differences.md) — related
+- Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success — related
 - [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — related
-- [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](academic-indicator-attainment-varies-by-student-group.md) — related
+- Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13 — related

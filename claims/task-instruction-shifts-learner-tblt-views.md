@@ -44,5 +44,5 @@ Post-treatment t-test (Table 7) comparing teachers' (n = 32, mean 18.94) and II 
 
 ## Related Claims
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
-- [Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views](teachers-learners-tblt-views-differ-baseline.md) — related
+- Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views — related
 - [TOEFL-materials instruction did not change learners' views toward TBLT](toefl-instruction-no-view-change.md) — related

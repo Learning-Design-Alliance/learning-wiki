@@ -26,7 +26,7 @@ sources:
 # Developing Your Cultural Awareness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 20 studies (7 causal, 4 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 1 of 20 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 21 studies (7 causal, 5 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 1 of 21 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,10 @@ The expectation should weaken if sustained cycles built on outside evidence, com
 
 A changed scenario response, a changed tally, a changed learner experience and a changed learner outcome are separate claims. The present evidence establishes no number of cycles, no instrument as best, and no effect of cultural-awareness development on learners' achievement.
 
+## Claims
+
+- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](../claims/suspension-disparities-reflect-policies-and-adult-biases.md) [+W]
+
 ## Related Principles
 
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — cultural awareness helps instructors connect content to learner experience without stereotyping.
@@ -207,7 +211,6 @@ Developing cultural awareness improves instruction when it changes how educators
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — instructors improve cultural awareness when they monitor recurring patterns in their own interpretation and practice
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — awareness becomes instructionally meaningful when it changes how support is calibrated for real learners
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
-- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](../claims/suspension-disparities-reflect-policies-and-adult-biases.md) [+W]
 
 ## Related Principles
 

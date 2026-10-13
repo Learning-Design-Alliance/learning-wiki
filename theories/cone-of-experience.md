@@ -13,7 +13,7 @@ generated:
 # Cone of Experience (Concrete-to-Abstract Media Selection)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Edgar Dale's Cone of Experience (1946, revised 1969) organizes instructional media and methods along a continuum of concreteness: direct, purposeful experience ("seen, handled, tasted, touched, felt, and smelled") at the broad base, moving up through observed and mediated experience (demonstrations, dramatized experience, exhibits, field trips, motion pictures), to highly abstract verbal and visual symbols at the narrow top (Lee & Reeves, 2018). Dale later mapped Bruner's three modes of representation onto the Cone: enactive (learning by doing), iconic (learning through observation), and symbolic (learning through abstraction). Dale explicitly called the Cone a "visual analogy" for the progression of experience, **not** a prescription that concrete media are always superior or that instruction should be sequenced strictly bottom-to-top.
@@ -45,6 +45,9 @@ Dale's own guidance was for **balance**, not maximization of concreteness: "Too 
 - The "Remembering Cone" / "Bogus Cone" retention-percentage claim is not part of Dale's actual model and has no credible evidentiary basis (Molenda, 2003; Subramony, 2003) — a claim frequently, incorrectly attributed to this principle
 
 ## Claims
+
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](../claims/concrete-eco-feedback-visualizations-preferred-over-abstract.md) [+W]
+- [Abstract and concrete animation representations do not differ significantly in middle school students' electricity achievement under any of the five text-representation conditions](../claims/abstract-concrete-representation-no-difference.md) [~W]
 
 ## Related Principles
 - [User-Centered Design for Learning](../principles/user-centered-design-for-learning.md) — both concern deliberate choice of instructional medium, though this principle addresses concreteness/abstraction rather than interface usability

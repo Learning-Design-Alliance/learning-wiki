@@ -18,7 +18,7 @@ sources:
 # Social Interdependence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (7 for, 12 mixed) · 16 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (7 for, 12 mixed, 1 against) · 17 studies (5 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 17 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,10 @@ For example, in an engineering design sprint (from the earlier page), a student 
 The expectation should weaken if face-to-face groups with team recognition built from individual learning, over several weeks, fail to outperform matched groups with no group reward, or matched individual work, on independent individual measures. If structured interaction without rewards does as well as rewards plus structure, as the review cited suggests it sometimes does, the model should drop group reward from its core and keep role or resource dependence and individual checks. If the online null result recurs in live classrooms, interdependence type is a design preference for participation and attitudes, not for achievement. Do not protect the model by calling every failure "weak interdependence" after the fact; record the structure in advance.
 
 Group product quality, individual achievement at the end of a unit, delayed retention, collaboration skill and attitudes to group work are separate claims. The present evidence sets no group size, composition, duration or scoring rule.
+
+## Claims
+
+- [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md)

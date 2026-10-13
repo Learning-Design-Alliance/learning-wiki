@@ -23,7 +23,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (13 for, 5 mixed) · 25 studies (11 causal, 6 review, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 5 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 21 claims (15 for, 6 mixed) · 27 studies (12 causal, 6 review, 5 quant-synthesis, 2 qualitative, 2 theoretical), `q2`–`q4` · 6 of 27 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -82,6 +82,12 @@ For example, a returning adult learner in an `online-self-paced` course may valu
 The expectation should weaken if signals or organizers on comparable material fail to improve aligned outcomes for learners without prior knowledge of it, in comparisons that control for prior knowledge. If the gains turn out to come from added time or repetition rather than organization, revise the explanation. It should be narrowed further if more studies like the field study show added structure harming learners who already know the material. If studies of course-level structure (agendas, consistent formats, progress markers) are added and show no effect on learning beyond reducing logistical questions, keep orientation and learning as separate claims. Do not protect the model by relabelling every failure as poor implementation, "too much structure" or low motivation.
 
 A gain on an immediate test, a change in what is recalled, delayed retention, transfer to a task with a different structure, and ease of navigation are separate claims. The present evidence does not establish an optimal amount of structure, a fading rule as expertise grows, or effects at course scale.
+
+## Claims
+
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](../claims/student-engagement-authenticity-clear-sequence.md) [+W]
+- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](../claims/unclear-presentation-complex-structure-penalty.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — clear structure is often one mechanism for managing extraneous load
@@ -188,9 +194,6 @@ Clear structure matters when learners need to orient themselves quickly, underst
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size · 1 claim rests on one study
-- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
-- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](../claims/student-engagement-authenticity-clear-sequence.md) [+W]
-- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](../claims/unclear-presentation-complex-structure-penalty.md) [+W]
 
 ## Description
 Instruction should make its structure visible. Learners need to know what they are learning, why it matters, how the content is organized, and what successful performance looks like. Clear structure and presentation reduce avoidable confusion, support attention, and let learners spend effort on the idea or task itself rather than on guessing the lesson's logic.

@@ -62,11 +62,11 @@ The brief adds that punitive actions do not lead to a real understanding of why 
 
 
 ## Related Claims
-- [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
-- [Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels](truancy-begins-early-and-worsens.md) — related
-- [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
-- [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related
+- Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester — related
+- Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels — related
+- Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy — related
+- By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject — related
 - [Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates](family-circumstances-and-parent-beliefs-relate-to-preschool-attendance.md) — related
 - [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
-- [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
-- [As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent](family-circumstances-cumulative-absence-burden.md) — related
+- CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting — related
+- As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent — related

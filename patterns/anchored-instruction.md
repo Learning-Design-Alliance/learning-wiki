@@ -20,7 +20,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (1 for, 7 mixed) · 22 studies (10 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (1 for, 8 mixed) · 23 studies (10 causal, 5 quant-synthesis, 3 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -90,6 +90,10 @@ Record: **anchor and its embedded data → each learner's first framing → expl
 [Anchored instruction](../elements/anchored-instruction.md), [problem scenario](../elements/problem-scenario.md), [problem presentation](../elements/problem-presentation.md), [peer interaction](../elements/peer-interaction.md), [scaffolding](../elements/scaffolding.md), [explicit teaching](../elements/explicit-teaching.md), [self-explanation](../elements/self-explanation.md), [comparing cases](../elements/comparing-cases.md) and [debrief](../elements/debrief.md).
 
 This pattern is scoped to lessons and units built around one shared scenario, with guidance and an explicit connection to the target concept planned. Fully self-directed inquiry in an anchor, multi-anchor curricula, and anchors judged only on engagement need distinct configurations and evidence. The wiki records no comparison of anchored instruction with another approach, and the diagnostic branches above remain to be tested with actual learners.
+
+## Claims
+
+- [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](../claims/reading-four-voices-connects-story-and-graph.md) [~W]
 
 ## Related Patterns
 

@@ -19,7 +19,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (2 for, 25 mixed) · 16 studies (5 causal, 5 review, 4 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 16 report an effect size · 26 claims rest on one study
+> **Evidence** · 38 claims (6 for, 31 mixed, 1 against) · 22 studies (6 causal, 6 review, 6 associational, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 22 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,20 @@ The expectation should weaken if local differential-prediction checks across gro
 
 Item bias, differential prediction and the effect of testing conditions are separate claims, each needing its own evidence, and the wiki holds only second-hand or neighbouring evidence for each. The present evidence establishes no acceptable size of prediction gap, no DIF method to trust over another, and no intervention at the sitting that reliably changes a group's scores.
 
+## Claims
+
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](../claims/a-parameter-moderates-dif-detection-by-index.md) [~W]
+- [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](../claims/act-score-gaps-by-race-at-same-gpa.md) [-W]
+- [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](../claims/close-positioned-items-also-flagged-dif-possible-type-i-error.md) [~W]
+- [Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves](../claims/flagged-dif-items-displayed-non-uniform-dif.md) [~W]
+- [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](../claims/dif-one-item-moderate-large-rest-negligible.md) [+W]
+- [An iterative two-stage linking procedure improves identification of DIF items](../claims/iterative-linking-improves-dif-identification.md) [+W]
+- [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](../claims/timed-test-gender-gap-underpredicts-college-performance.md) [+W]
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](../claims/polytomous-dfit-factors-little-effect.md) [~W]
+- [No significant gender difference in word-problem performance on either formatted or unformatted test forms](../claims/no-gender-difference-either-test-form.md) [+W]
+- [Essay position did not affect essay scores, but essay-last students wrote essays of similar quality in less time using fewer words](../claims/essay-position-no-score-effect-less-time-fewer-words.md) [~W]
+- [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](../claims/gpa-test-scores-best-college-degree-prediction-el.md) [~W]
+
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here
 - [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
@@ -204,15 +218,6 @@ Whether standardized tests are biased against particular social class, racial, o
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](../claims/sat-underpredicts-girls-performance.md) [+W]
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](../claims/male-oriented-item-content-biases-test-scores.md) [+W]
-- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](../claims/a-parameter-moderates-dif-detection-by-index.md) [~W]
-- [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](../claims/act-score-gaps-by-race-at-same-gpa.md) [-W]
-- [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](../claims/close-positioned-items-also-flagged-dif-possible-type-i-error.md) [~W]
-- [Items flagged as DIF in booklet comparisons displayed non-uniform DIF in their item characteristic curves](../claims/flagged-dif-items-displayed-non-uniform-dif.md) [~W]
-- [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](../claims/dif-one-item-moderate-large-rest-negligible.md) [+W]
-- [An iterative two-stage linking procedure improves identification of DIF items](../claims/iterative-linking-improves-dif-identification.md) [+W]
-- [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](../claims/timed-test-gender-gap-underpredicts-college-performance.md) [+W]
-- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](../claims/polytomous-dfit-factors-little-effect.md) [~W]
-- [No significant gender difference in word-problem performance on either formatted or unformatted test forms](../claims/no-gender-difference-either-test-form.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

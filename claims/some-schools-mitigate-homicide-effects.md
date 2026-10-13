@@ -46,4 +46,4 @@ Hierarchical linear modeling produced separate school-grade-year estimates of th
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [Average effects of proximity to homicide are relatively small because they combine unaffected students with a subset facing much larger challenges](proximity-homicide-effects-small-heterogeneous.md) — related
 - [Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students](proximity-homicide-lowers-student-outcomes.md) — a broader claim this one bears on
-- [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
+- Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition — related

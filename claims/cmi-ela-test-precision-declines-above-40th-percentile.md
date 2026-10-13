@@ -43,10 +43,10 @@ Item response theory measurement-precision analysis across levels of ELA perform
 
 
 ## Related Claims
-- [Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system](cmi-ela-credit-bearing-placement-declined-to-11-percent.md) — related
+- Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system — related
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
 - [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related
 - [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) — related
 - [Students placed into Level 3 and Level 4 intensive pathways had the highest first-attempt passing rates in credit-bearing ELA courses, while Level 2 intensive pathway students had the lowest](cmi-intensive-pathways-level3-4-highest-ela-passing-rates.md) — related
 - [A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse](misplacement-rates-24-33-percent.md) — related
-- [Large majorities of incoming California community college students place into remedial-level mathematics and English](ca-cc-remedial-placement-rates.md) — related
+- Large majorities of incoming California community college students place into remedial-level mathematics and English — related

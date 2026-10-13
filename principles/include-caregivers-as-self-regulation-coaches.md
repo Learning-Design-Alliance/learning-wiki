@@ -18,7 +18,7 @@ sources:
 # Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 8 mixed) · 20 studies (13 quant-synthesis, 3 causal, 3 review, 1 design), `q2`–`q4` · 9 of 20 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (13 quant-synthesis, 3 causal, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 9 of 21 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,10 @@ The designer's objective is usually the young person's self-regulation in a name
 The expectation should weaken if trials of adolescent or young-adult self-regulation programmes, with and without an adult component of the kind described, show no difference on observed regulation or conduct, or show gains only while the adult keeps cueing. If adults' own-regulation training adds nothing beyond coaching the co-regulation moves, step 2 should go. If information-only adult components (a handout, an evening talk) match coached ones for adults of adolescents, the rehearsal step is a preference, not a requirement, and the parent-coaching evidence did not carry to this age. If young adults do better with no adult involved, the age range should narrow. Do not protect the model by calling every failure "adults not engaged enough" after the fact.
 
 Adult knowledge, adult practice, the young person's regulation with the adult present, without the adult, and in the setting the young person values are separate claims; the present evidence establishes none of them for 14–25-year-olds, nor any dose for the adult component.
+
+## Claims
+
+- [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](../claims/educator-wellbeing-supports-student-relationships.md) [+W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — owns the general relationship between teaching planning, monitoring and acting and the learner's regulation; this page adds the adults around the learner.

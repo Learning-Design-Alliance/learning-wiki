@@ -15,7 +15,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (10 for, 7 mixed) · 30 studies (12 causal, 11 quant-synthesis, 5 review, 1 design, 1 theoretical), `q1`–`q4` · 12 of 30 report an effect size · 7 claims rest on one study
+> **Evidence** · 26 claims (17 for, 9 mixed) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 36 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,18 @@ Record: **skill and competency → learners, age and starting observation, with 
 
 This pattern is scoped to sustained, explicit teaching and reinforcement of named social and emotional skills, mostly in schools. A one-off workshop, a whole-school behaviour policy, clinical treatment of anxiety or trauma, and professional formation for adults need other configurations or additional evidence. The policy supports observation and design reasoning; which of its steps matter, at what weekly dose, for adults, and against what achievement cost in teaching time, remains to be tested.
 
+## Claims
+
+- [SEL program effects are sustained over long-term follow-up periods](../claims/sel-long-term-sustained-effects.md) [+W]
+- [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](../claims/intentional-sel-instruction-deaf-students.md) [~W]
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](../claims/integrated-skills-habits-mindsets-instruction.md) [+W]
+- [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](../claims/schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) [+W]
+- [Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends](../claims/mindfulness-conflict-resolution-transfer-out-of-school.md) [+W]
+- [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](../claims/sel-programs-reduce-behavior-problems-distress.md) [+W]
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](../claims/sel-programs-11-percentile-academic-gain.md) [+W]
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](../claims/sel-requires-educative-inclusive-environments.md) [~W]
+- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](../claims/sel-programs-improve-academic-performance.md) [+W]
+
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability
 - [Case-Based Learning](case-based-learning.md) — cases with interpersonal and ethical dimensions provide authentic contexts for practicing decision-making and perspective-taking
@@ -199,7 +211,6 @@ Program or course — durable effects require multi-year implementation with sus
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — social and emotional skills are acquired through observation and modeling of competent others
 - [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — autonomy, competence, and relatedness are basic needs; SEL environments that support them sustain motivation
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — the self-management competency of SEL overlaps directly with SRL's forethought, monitoring, and reflection phases
-- [SEL program effects are sustained over long-term follow-up periods](../claims/sel-long-term-sustained-effects.md) [+W]
 
 #### Contradicting / Qualifying
 - [Behaviorism](../theories/behaviorism.md) — pure contingency-management approaches to classroom behavior can undermine the autonomy and internalization SEL aims for; reward-heavy climates may crowd out intrinsic motivation [~M]
@@ -217,7 +228,6 @@ Program or course — durable effects require multi-year implementation with sus
 -->
 - <!-- TODO: add claim links when evidence pages exist -->
 <!-- deprecated 2026-10-05 (continued):
-- [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](../claims/intentional-sel-instruction-deaf-students.md) [~W]
 
 ## Design
 

@@ -12,7 +12,7 @@ generated:
 # Optimize Classroom Temperature
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Optimizing classroom temperature means keeping instructional spaces within a moderate thermal range — approximately 68–74°F (20–23°C) — and preventing sustained exposure to heat above that range. It is carried out through HVAC control, ventilation, teacher authority over thermostat settings, and attention to solar gain and outdoor conditions. Thermal comfort is a precondition for attention: as classrooms warm beyond the comfort zone, concentration, working memory, and task persistence degrade measurably.
@@ -56,6 +56,10 @@ Temperature is an environmental load on cognition rather than a pedagogical vari
 4. Ventilate: ensure fresh-air supply; check that cooling measures have not sealed the room and raised CO₂ levels [Cedeño Laurent et al., 2018] [-M].
 5. Schedule: during hot periods, move demanding instruction and assessments to cooler rooms and cooler hours.
 6. Review: compare engagement and comfort reports across rooms and seasons; treat persistent complaints as data, not noise.
+
+## Claims
+
+- [Students in high-poverty schools face the greatest impact from hot test days](../claims/high-poverty-schools-greatest-heat-impact.md) [+W]
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the parallel environmental-load strategy; noise and heat jointly consume attentional resources

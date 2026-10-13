@@ -43,13 +43,13 @@ The report cites research indicating that subgroup tracking of discipline data h
 
 
 ## Related Claims
-- [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
+- Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors — related
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
-- [Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18](maryland-exclusionary-discipline-declined-all-subgroups.md) — related
-- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
+- Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18 — related
+- In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
-- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
-- [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
+- Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years — related

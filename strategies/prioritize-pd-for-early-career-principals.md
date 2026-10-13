@@ -17,7 +17,7 @@ sources:
 # Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (1 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report's findings support directing professional development resources toward early-career principals, for whom the student-achievement associations are largest, and toward content on leading instruction. The authors state that "principal professional development can be a key factor in helping early-career principals more quickly reach the effectiveness levels of their more experienced peers," and that programs "especially those focused on instructional leadership, appear to help principals develop specific means to support teaching and learning for those furthest from opportunity."
@@ -41,6 +41,12 @@ The report's findings support directing professional development resources towar
 
 ### Affordances
 - Professional Learning Theory Of Action Principals
+
+## Claims
+
+- [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](../claims/pd-benefits-early-career-principals.md) [+W]
+- [Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students](../claims/principal-pd-associated-retention-achievement.md) [+W]
+- [The principal professional development program did not improve student achievement in English language arts or math](../claims/principal-pd-no-student-achievement-improvement.md) [-W]
 
 ## Related Strategies
 

@@ -13,7 +13,7 @@ generated:
 # Small-Group Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 qualitative, 1 causal), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 4 studies (2 qualitative, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support. It is useful when instruction benefits from more responsiveness than whole-class delivery allows.
@@ -39,6 +39,7 @@ Small-group instruction is the element in which learners work with an instructor
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](../claims/skill-barriers-conversation-facilitation-classroom-management.md) [-W]
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](../claims/novel-material-instructor-support-less-important.md) [~W]
 - [Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher](../claims/small-presentation-groups-make-learning-visible.md) [+W]
+- [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](../claims/small-group-language-instruction-larger-effects.md) [+W]
 
 ## Related Elements
 - [Group Work](group-work.md)

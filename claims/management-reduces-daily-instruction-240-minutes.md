@@ -44,5 +44,5 @@ Based on three years of classroom observations coded as activity segments, the r
 
 ## Related Claims
 - [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related
-- [Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours](chicago-students-500-hours-not-900.md) — related
+- Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours — related
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — reports the opposite

@@ -44,9 +44,9 @@ Observational comparison of MAP Growth median percentile ranks between a spring 
 
 ## Related Claims
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
-- [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
+- Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2 — related
 - [Second graders' 2021–22 fall–spring growth in math and reading paralleled prepandemic achievement gains](second-graders-2021-22-growth-paralleled-prepandemic.md) — related
-- [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related
+- First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7% — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
-- [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
+- End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points) — related
 - [After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement](espark-no-nwea-achievement-gains-first-grade.md) — related

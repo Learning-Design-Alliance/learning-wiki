@@ -17,7 +17,7 @@ sources:
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (3 causal, 2 qualitative, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 9 studies (3 causal, 2 qualitative, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 0 of 9 report an effect size · 4 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -30,10 +30,12 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - Qualifies theories that treat learning only as internal information processing.
 
 ## Claims
+
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](../claims/teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) [+M]
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — whole, integrated tasks support transfer better than fragmented practice alone in many complex domains
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — situated whole-task participation may still need staged simplification for absolute novices
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
+- [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
 
 ## Related Theories
 

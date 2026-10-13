@@ -17,7 +17,7 @@ sources:
 # Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The district began providing real-time early warning data reports and credit recovery reports to high schools in 2008, and the biggest changes in graduation and on-track rates occurred afterward. Schools use these data to monitor students' performance, prevent class failure, identify students needing to make up credits, and partner with nonprofits providing mentoring to at-risk students.
@@ -35,6 +35,10 @@ The district began providing real-time early warning data reports and credit rec
 
 ### Target Learning Goals
 - Staying on-track to graduate in ninth grade; earning credits; improving attendance and course pass rates
+
+## Claims
+
+- [Chicago's on-track data system was associated with improved high school graduation rates](../claims/chicago-ontrack-system-improved-graduation-rates.md) [+W]
 
 ## Related Strategies
 

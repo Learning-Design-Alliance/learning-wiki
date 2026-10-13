@@ -43,5 +43,5 @@ The article narrates Baird and Clare's (2017) case study of an Australian univer
 
 
 ## Related Claims
-- [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](self-reported-cheating-rates-college-high-school.md) — related
+- Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges — related
 - [A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct](student-concern-unintentional-genai-academic-misconduct.md) — related

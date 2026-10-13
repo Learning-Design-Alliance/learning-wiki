@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (5 for, 3 mixed, 2 against) · 9 studies (4 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 22 claims (10 for, 7 mixed, 5 against) · 21 studies (9 review, 5 associational, 4 qualitative, 2 theoretical, 1 design), `q1`–`q3` · 0 of 21 report an effect size · 21 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -59,6 +59,18 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](../claims/edm-infers-broader-student-attributes.md) [+W]
 - [Predictive analytics can benefit education only if educators heed how their use should differ from industry](../claims/predictive-analytics-benefit-heed-schooling-differences.md) [~W]
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](../claims/secondary-outcomes-varied-predictability.md) [~W]
+- [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](../claims/ai-enhances-teaching-administration-education.md) [+W]
+- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](../claims/ai-feedback-trustworthiness-goodwill-concerns.md) [-W]
+- [AI tools such as chatbots, intelligent tutoring systems, and early alert systems are identified as having potential to serve marginalized students, contingent on ethical governance and infrastructure](../claims/ai-tools-potential-marginalized-students-contingent-safeguards.md) [~W]
+- [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](../claims/at-risk-identification-demographic-patterns.md) [-W]
+- [Algorithmic bias and data privacy are central ethical risks of AI in adult education](../claims/algorithmic-bias-privacy-risks-adult-education.md) [~W]
+- [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](../claims/attendance-predictive-of-grades-remote-learning.md) [+W]
+- [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](../claims/early-warning-agents-retention-gains.md) [+W]
+- [Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness](../claims/data-sharing-hesitation-versus-teacher-access.md) [~M]
+- [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](../claims/interaction-patterns-three-student-groups-heatmaps.md) [~W]
+- [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](../claims/lad-dominant-system-type-lecturer-decision-support.md) [+W]
+- [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](../claims/proactive-monitoring-minimal-evidence.md) [-W]
+- [Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)](../claims/stable-lms-features-lower-in-high-risk-group.md) [+W]
 
 ## Related Elements
 

@@ -47,4 +47,4 @@ Findings from the 2014 school survey, corroborated by Core Team and KSDE leaders
 - [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related
 - [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related
 - [Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics](kansas-mtss-fidelity-monitoring-stronger-implementation.md) — related
-- [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
+- LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students — related

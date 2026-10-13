@@ -43,8 +43,8 @@ District-wide CPS administrative data analysis, 2012-13 to 2015-16. The article 
 
 
 ## Related Claims
-- [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related
-- [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
+- The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points — related
+- Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students — related
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
 - [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related

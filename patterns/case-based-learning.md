@@ -14,7 +14,7 @@ grain_size: lesson
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 17 studies (8 causal, 4 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 18 studies (8 causal, 4 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 18 report an effect size · 3 claims rest on one study
 
 ## Description and scope
 
@@ -82,6 +82,10 @@ Record: **cases and how they differ → each learner's first analysis → compar
 
 This pattern is scoped to lessons in which cases are analysed and compared and the principle they share is made explicit. Whole case-based curricula, cases used as unguided problems before any instruction, discussion formats judged on participation, and assessment of professional competence need distinct configurations and evidence. The wiki records no randomized comparison of case-based learning as a whole format with another approach, and the diagnostic branches above remain to be tested with actual learners.
 
+## Claims
+
+- [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
+
 ## Related Patterns
 - [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 
@@ -115,7 +119,6 @@ Case-based learning is the short-form canonical pattern for learning through ana
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
-- [Case-based learning benefits depended on faculty-guided embedding, while complex cases and team workflows showed null or unfavorable effects](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W]
 
 ## Description
 Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?

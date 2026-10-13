@@ -65,7 +65,7 @@ Descriptive CHKS tabulations of school safety measures by sexual orientation and
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — a narrower finding that bears on this claim
+- Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students — a narrower finding that bears on this claim
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — reports the opposite
 - [Students unsure about their gender identity or sexual orientation fall between LGBTQ and non-LGBTQ peers on supports and well-being](not-sure-students-intermediate-outcomes.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
@@ -75,4 +75,4 @@ Descriptive CHKS tabulations of school safety measures by sexual orientation and
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — a narrower finding that bears on this claim
 - [Adjusting for perceived school supports and safety eliminates the transgender/non-transgender school connectedness gap and halves mental health, motivation, and middle school performance gaps](supports-safety-account-transgender-disparities.md) — related
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
-- [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — a narrower finding that bears on this claim
+- Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students — a narrower finding that bears on this claim

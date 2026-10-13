@@ -45,6 +45,6 @@ The report's key findings state that third-grade ELs who had enrolled in a CPS p
 ## Related Claims
 - [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
-- [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
+- Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs — related
 - [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](low-screener-scores-performance-not-attendance.md) — related
 - [Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal evaluation](gsrp-longitudinal-evaluation-positive-outcomes.md) — related

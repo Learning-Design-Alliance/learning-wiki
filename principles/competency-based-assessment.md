@@ -23,7 +23,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 16 studies (5 causal, 3 review, 3 design, 3 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 16 report an effect size · 10 claims rest on one study
+> **Evidence** · 21 claims (8 for, 12 mixed, 1 against) · 24 studies (7 causal, 4 review, 4 design, 4 theoretical, 2 associational, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 1 of 24 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,17 @@ For example, a nurse returning to practice may value being trusted to run a medi
 The model should weaken if criterion-referenced judgements, made with calibrated assessors on representative tasks, predict later performance in the target setting no better than norm-referenced grades or time-based credit, or if they lead to no better decisions about what to teach next. If assessor disagreement on well-specified rubrics stays large after calibration, the threshold cannot carry the weight the principle puts on it, and judgements should be reported with their uncertainty or replaced by multiple assessors and attempts. If making criteria visible reliably raises stress or performance-avoidance enough to lower learning, as one rubric study suggests it can, the default design's step 4 needs a different form. Do not protect the model by calling every inconsistent judgement a poorly written rubric.
 
 A score on a rubric, agreement between assessors, a threshold's defensibility, learning gains from the assessment process, and performance in the learner's real setting are separate claims. The present evidence does not establish how to set a threshold for a given decision, how much calibration produces acceptable agreement, or whether competency judgements transfer across settings.
+
+## Claims
+
+- [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](../claims/agentic-assessment-rater-agreement-and-helpfulness.md) [~W]
+- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](../claims/large-scale-cat-threshold-method-comparison.md) [~W]
+- [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](../claims/ai-not-best-practice-competency-based-assessment.md) [~W]
+- [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](../claims/prompting-limited-uneven-proficiency-control-writing-simulation.md) [~W]
+- [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](../claims/vcp-rubric-lacked-calibration-and-clarity.md) [~W]
+- [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](../claims/student-reported-grading-errors-lata.md) [~W]
+- [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
+- [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](../claims/llms-support-competency-based-assessment-design.md) [+W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule
@@ -182,13 +193,6 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (2 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
-- [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](../claims/agentic-assessment-rater-agreement-and-helpfulness.md) [~W]
-- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](../claims/large-scale-cat-threshold-method-comparison.md) [~W]
-- [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](../claims/ai-not-best-practice-competency-based-assessment.md) [~W]
-- [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](../claims/prompting-limited-uneven-proficiency-control-writing-simulation.md) [~W]
-- [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](../claims/vcp-rubric-lacked-calibration-and-clarity.md) [~W]
-- [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](../claims/student-reported-grading-errors-lata.md) [~W]
-- [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 
 ## Description
 Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.

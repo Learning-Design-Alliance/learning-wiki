@@ -13,7 +13,7 @@ generated:
 # Journaling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.
@@ -46,6 +46,7 @@ Journaling is the element in which learners record reflections, observations, qu
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](../claims/journaling-assistant-no-intrinsic-motivation-effect.md) [~W] — attached 2026-10-11 from Sven Scheu et al. (2026), which proposed "Mobile chatbot-based learning journaling system with example-based course and LLM journaling assistant".
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](../claims/course-users-earlier-journal-entry-timing.md) [+W]
+- [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](../claims/educators-cannot-reliably-detect-genai-reflections.md) [-W]
 
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)

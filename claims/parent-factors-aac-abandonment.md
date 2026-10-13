@@ -46,6 +46,6 @@ Narrative background synthesis of parent-perception studies cited in the protoco
 - [The synthesis will address three research questions on stakeholder experiences, influencing factors, and required implementation strategies for classroom AAC](aac-qes-three-research-questions.md) — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
 - [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) — related
-- [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
+- Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children — related
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — related

@@ -15,7 +15,7 @@ grain_size: lesson
 # Cognitively Guided Instruction (CGI) for Math
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 12 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method. The instructor presents a problem, listens closely to how learners approach it, and uses discussion and comparison to guide movement toward more sophisticated reasoning. The core design move is to treat learner thinking as instructional material.
@@ -70,7 +70,9 @@ The pattern is especially strong for building number sense, conceptual understan
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
+
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](../claims/stem-plc-instructional-practice-shifts.md) [~W]
 
 ## Design
 

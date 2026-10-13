@@ -47,5 +47,5 @@ The fact sheet summarizes multiple studies comparing redshirted students with st
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — related
-- [Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades](redshirting-rate-stable-about-5-percent.md) — related
+- Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades — related
 - [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](school-entry-age-early-advantage-fades-by-later-grades.md) — a narrower finding that bears on this claim

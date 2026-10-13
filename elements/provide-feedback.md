@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 unmarked) · 17 studies (6 quant-synthesis, 3 causal, 3 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 16 claims (7 for, 7 mixed, 1 against, 1 unmarked) · 21 studies (6 quant-synthesis, 5 review, 4 causal, 2 qualitative, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -58,6 +58,12 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](../claims/outcome-feedback-impedes-complex-task-learning-mcpl.md) [~W]
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed.md) [~W]
 - [In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details](../claims/teacher-feedback-more-items-first-task-vocabulary-technical.md) [+W]
+- [Students trust educator feedback more than AI-generated feedback: 90.5% versus 60.1% rated it somewhat or very trustworthy in an Australian survey](../claims/educator-feedback-trusted-more-than-ai-feedback.md) [~W]
+- [The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab](../claims/fi-negative-effects-robust-not-sampling-error.md) [~M]
+- [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](../claims/layered-feedback-negative-total-effect.md) [-W]
+- [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](../claims/subtle-cueing-feedback-higher-impact.md) [~W]
+- [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](../claims/human-feedback-rated-superior-to-ai-feedback.md) [+W]
+- [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
 
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance

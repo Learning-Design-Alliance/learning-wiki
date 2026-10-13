@@ -43,5 +43,5 @@ Item-level polarity analysis of easiest and hardest thresholds from the student 
 
 
 ## Related Claims
-- [Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed](academics-linear-genai-skill-trajectory.md) — related
+- Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed — related
 - [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](students-inverted-genai-competence-profile.md) — related

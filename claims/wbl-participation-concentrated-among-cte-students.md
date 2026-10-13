@@ -44,4 +44,4 @@ Analysis of the district's novel WBL participation data as part of the report's 
 
 ## Related Claims
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
-- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation — related

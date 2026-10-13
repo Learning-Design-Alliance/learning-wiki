@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -56,6 +56,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [~W]
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [+W]
+- [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader element; peer collaboration specifies the peer-to-peer (rather than learner–instructor) configuration

@@ -39,7 +39,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 5 mixed, 1 against) · 19 studies (9 review, 4 causal, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 19 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (11 for, 5 mixed, 1 against) · 20 studies (9 review, 4 causal, 2 design, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,10 @@ The expectation should weaken if comparisons of strengths-based against deficit-
 
 Teacher expectations, recognized competence in a familiar form, self-efficacy, persistence, standard-form performance and delayed outcomes are separate claims. The present evidence establishes no dose of strengths conferences, no wording of feedback and no criterion for handing the noticing to the learner.
 
+## Claims
+
+- [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](../claims/complex-texts-unit-changed-teacher-beliefs.md) [+W]
+
 ## Related Principles
 
 - [Learner Choice](autonomy.md) — strengths-based design often creates multiple legitimate pathways into a task.
@@ -224,7 +228,6 @@ A strengths-based approach improves learning when instructors make existing capa
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — learners benefit when they can identify which strategies and assets are already working for them
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
-- [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](../claims/complex-texts-unit-changed-teacher-beliefs.md) [+W]
 
 ## Related Principles
 

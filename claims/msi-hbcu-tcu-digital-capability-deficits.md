@@ -41,12 +41,12 @@ The report states that MSIs, HBCUs, and TCUs are historically lower-resourced th
 
 
 ## Related Claims
-- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](technology-access-problems-impede-participation.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
-- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
-- [Institutions serving the most students of color have been underfunded, and flexible, long-term funding is needed, as illustrated by Maryland's $577 million for HBCUs and $150–544 million owed to Tennessee State University](flexible-long-term-funding-minority-serving-institutions.md) — a broader claim this one bears on
+- Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students — related
+- Institutions serving the most students of color have been underfunded, and flexible, long-term funding is needed, as illustrated by Maryland's $577 million for HBCUs and $150–544 million owed to Tennessee State University — a broader claim this one bears on
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
-- [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
+- Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

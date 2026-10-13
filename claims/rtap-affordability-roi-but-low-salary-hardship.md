@@ -44,5 +44,5 @@ Interview finding on financial support: the most cited enrollment reason was aff
 
 ## Related Claims
 - [Apprentices desired clearer, more consistent program communication, especially about financial obligations](rtap-communication-clarity-desired.md) — related
-- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
+- Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge — related
 - [Apprentices most valued paid, job-embedded in-classroom experience with students as the central component of their preparation](rtap-in-classroom-experience-most-valued.md) — related

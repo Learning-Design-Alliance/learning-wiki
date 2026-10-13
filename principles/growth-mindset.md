@@ -26,7 +26,7 @@ sources:
 # Growth Mindset
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 12 studies (5 review, 4 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 1 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 14 studies (5 review, 4 causal, 2 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 1 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 Growth mindset is the belief that intellectual and performance abilities are malleable and can be developed through effort, effective strategies, and help-seeking. As a design principle, it recommends (a) explicitly teaching learners about the malleability of ability and how the brain changes with learning, and (b) aligning feedback, task design, and grading practices so that effort, strategy use, and progress — not innate talent — are what get noticed and rewarded.
@@ -104,6 +104,9 @@ Mindset interventions are best understood as small motivational levers, not stan
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — challenge supports growth only when expectations are clear enough to orient effort and progress
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](../claims/growth-mindset-interventions-conditional-teacher-context.md) [~W]
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](../claims/peer-norms-sustain-mindset-gpa-effects.md) [~M]
+- [The growth mindset intervention was estimated to prevent about 5.3% of US lower-achieving ninth-graders per year from being off track for graduation](../claims/growth-mindset-reduces-off-track-gpa-rates.md) [+W]
+- [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](../claims/resilience-teachable-skill-unsupported.md) [~W]
+- [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](../claims/usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) [~W]
 
 ## Related Principles
 - [Assessment for Learning](assessment-for-learning.md) — formative assessment frames errors as information, the structural condition under which growth framing works

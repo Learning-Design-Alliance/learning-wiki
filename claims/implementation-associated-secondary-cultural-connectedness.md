@@ -43,6 +43,6 @@ Mixed-effects multilevel regression of spring 2022 SCCS secondary student data f
 
 
 ## Related Claims
-- [Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices](alaska-schools-mostly-emerging-trauma-engaged-implementation.md) — related
+- Most Alaska schools surveyed demonstrated an emerging (middle) level of implementation of trauma-engaged practices — related
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](implementation-not-associated-most-outcomes.md) — related

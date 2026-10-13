@@ -43,4 +43,4 @@ The only published Salem-Keizer study examined 5 years of threat assessment reco
 
 
 ## Related Claims
-- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related
+- Black students and students with disabilities are disproportionately referred for behavioral threat assessments — related

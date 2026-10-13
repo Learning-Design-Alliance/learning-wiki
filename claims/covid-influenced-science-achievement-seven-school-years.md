@@ -44,6 +44,6 @@ Large-scale analysis of science test scores across seven school years (2019 thro
 
 ## Related Claims
 - [NWEA's 2024 technical brief examines pandemic impacts on science achievement and gains from 2019 through 2024, continuing research on COVID-19 school-closure effects on learning](covid-science-achievement-trends-2019-2024-brief.md) — possibly the same claim (merge candidate)
-- [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
-- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms — related
+- Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math — related
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related

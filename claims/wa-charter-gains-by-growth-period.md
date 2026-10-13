@@ -43,11 +43,11 @@ Growth-period disaggregation of the VCR matched analysis. The report states that
 
 
 ## Related Claims
-- [Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016](idaho-charter-growth-period-reading.md) — reports the opposite
+- Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016 — reports the opposite
 - [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — reports the opposite
-- [Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18](sc-charter-math-gap-narrows-over-growth-periods.md) — reports the opposite
-- [Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers](wa-charter-gains-by-years-enrolled.md) — related
-- [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — related
+- Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18 — reports the opposite
+- Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers — related
+- Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers — related
 - [No cohort-by-years-of-enrollment configuration shows statistically different learning gains from TPS](wa-charter-cohort-years-enrollment-null.md) — a broader claim this one bears on
-- [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — reports the opposite
-- [First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs](idaho-charter-years-of-enrollment-null.md) — related
+- Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017 — reports the opposite
+- First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs — related

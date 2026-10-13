@@ -43,7 +43,7 @@ GLM models predicting i-Ready growth (Tables 1 and 2). Referral coefficients wer
 
 
 ## Related Claims
-- [Suspensions and referrals increase as grade level progresses, peaking in third grade among K-5 students](discipline-acts-peak-grade-three-elementary.md) — related
+- Suspensions and referrals increase as grade level progresses, peaking in third grade among K-5 students — related
 - [Suspensions showed significant negative associations with math growth in grades 3-5, with increasingly negative effects](suspensions-negative-math-growth-upper-elementary.md) — related
 - [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
 - [Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement](suspension-spillovers-small-negative-peer-achievement.md) — related

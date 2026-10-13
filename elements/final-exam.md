@@ -13,7 +13,7 @@ generated:
 # Final Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (3 review, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 A final exam is a high-stakes, cumulative assessment administered at the end of a course or program, covering material from the entire instructional period. It functions primarily as a [Summative Assessment](summative-assessment.md) — certifying proficiency rather than guiding ongoing instruction — though its cumulative design also gives it a powerful secondary learning function.
@@ -52,7 +52,8 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](../claims/summative-assessment-dual-function-measure-and-support-learning.md) [+W]
+- [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](../claims/cheatsheet-type-no-significant-performance-difference.md) [~W]
 
 ## Related Elements
 - [Summative Assessment](summative-assessment.md) — the assessment category the final exam instantiates

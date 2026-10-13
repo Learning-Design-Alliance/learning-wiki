@@ -12,7 +12,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 8 studies (3 review, 2 qualitative, 2 theoretical, 1 causal), `q1`–`q2` · 0 of 8 report an effect size · 15 claims rest on one study
+> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 9 studies (3 review, 2 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 16 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -38,6 +38,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - Vocabulary learned incidentally through reading.
 
 ## Claims
+
 - [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](../claims/noticing-errors-decreases-errors-preserves-quality.md) [+W]
 - [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](../claims/cfts-promoted-noticing-peer-dialogs-metacognition.md) [+W]
@@ -53,6 +54,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W]
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [-M]
 - [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
+- [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](../claims/children-drawings-notice-integration-elements.md) [+W]
 
 ## Related Theories
 

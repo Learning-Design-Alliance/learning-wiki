@@ -47,5 +47,5 @@ The brief reports this second-hand as a promising practice: OneGoal is a three-y
 - [Dual credit participation in Texas is associated with stronger postsecondary outcomes, with low-income DC students twice as likely and Black and Latino DC students three times as likely to earn an associate degree in high school](dc-participation-postsecondary-outcome-gaps-erased.md) — related
 - [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](dual-enrollment-college-algebra-23-percent-degree-attainment.md) — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — related
-- [Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree](cps-delayed-and-two-year-paths-low-degree-completion.md) — related
+- Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree — related
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related

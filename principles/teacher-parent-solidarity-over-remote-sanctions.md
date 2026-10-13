@@ -18,7 +18,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report describes Mead's 1942 analysis of the teacher's role, in which she observed the tremendous emotional and social significance of every teacher action within the community and that teacher deviations arouse terrible anxiety in parents. Mead framed two roads open to the teacher: to "seek to increase her ties of solidarity with the parents, sharing in their community life, continually interpreting to them," or to press for more powerful and remote sanctions behind her teaching, and asked how close or distant teacher-parent ties should be.
@@ -41,6 +41,7 @@ The report describes Mead's 1942 analysis of the teacher's role, in which she ob
 
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](../claims/ninth-grade-teachers-less-parent-communication.md) [+W] — attached 2026-10-08 from Roderick et al. (1998), which proposed "Increasing parental involvement in high schools requires changing teachers' and schools' outreach practices, not just expecting parents to engage".
 - [Mobile apps increased timely, direct communication between parents and educators during remote schooling](../claims/mobile-apps-timely-parent-teacher-communication.md) [~W]
+- [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](../claims/parental-involvement-meta-analyses-effect-sizes.md) [+W]
 
 ## Related Principles
 - 

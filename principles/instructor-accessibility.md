@@ -26,7 +26,7 @@ sources:
 # Instructor Accessibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (7 for, 14 mixed) · 24 studies (5 causal, 4 quant-synthesis, 4 review, 4 qualitative, 3 associational, 3 design, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (9 for, 14 mixed) · 26 studies (5 causal, 5 qualitative, 4 quant-synthesis, 4 review, 4 design, 3 associational, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,11 @@ For example, in an online course for working nurses, the designer's objective is
 The expectation should weaken if comparisons of courses that differ in reachability (a kept reply window, several channels, outreach to quiet learners) against comparable courses without them find no difference in persistence or performance, or a difference only among learners who were already doing well. If outreach to quiet learners raises contact but not completion, the outreach step is a reassurance measure only. If faster replies do no better than slower replies that are reliably kept, the response window should be set by capacity alone. If peer-first answering in the middle of a course lowers the accuracy of the help learners receive, the arc should keep the instructor first for longer. Do not protect the model by calling every failure "not accessible enough" after the fact.
 
 Use of help, satisfaction with the instructor, help received before a deadline, persistence and achievement are separate outcomes; evidence for one does not establish the others. The present evidence establishes no response window, no number of channels or live hours, and no effect of outreach.
+
+## Claims
+
+- [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](../claims/students-recommend-office-hours-over-llms.md) [+W]
+- [A significant portion of participants said they would have exited LER onboarding without live human support](../claims/live-support-prevents-ler-onboarding-exit.md) [+W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md) — accessibility often determines whether timely feedback is actually available.

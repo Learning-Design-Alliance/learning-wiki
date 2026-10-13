@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 29 studies (11 causal, 7 quant-synthesis, 6 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 3 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 29 studies (11 causal, 7 quant-synthesis, 6 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -124,6 +124,11 @@ Record: **the idea and its known wrong versions → each learner's starting pred
 
 This pattern is scoped to building understanding of a `concept` or `principle` over one lesson or a short unit. Fluent procedures, complex skills practised as whole tasks, concepts best induced from examples, and open inquiry need other configurations ([Direct Instruction](direct-instruction.md), [Merrill's First Principles](merrills-first-principles-of-instruction.md), [Concept Attainment](concept-attainment.md)). The policy supports observation and design reasoning; whether this sequence produces better prediction and explanation on unseen cases than explanation followed by independent practice, for which learners, at what time cost and at what delay, remains to be tested.
 
+## Claims
+
+- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]
+- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [~W]
+
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
@@ -176,7 +181,6 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 - Constructivist perspectives — understanding develops by connecting new ideas to prior knowledge.
 - Generative learning perspectives — explanation, connection, and use strengthen conceptual processing.
 - Guided instruction traditions — learners often need support before independent application.
-- [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/self-explanation-prompts-meta-analysis-g-055.md) [+W]
 
 #### Contradicting / Qualifying
 - The pattern should not become lecture plus token practice; the central work is in sense-making and connection.
@@ -190,7 +194,6 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 #### Contradicting
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
-- [Self-explanation prompting is potentially effective across a range of instructional conditions](../claims/self-explanation-effective-across-instructional-conditions.md) [~W]
 
 ## Design
 

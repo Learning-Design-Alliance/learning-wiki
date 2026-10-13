@@ -17,7 +17,7 @@ sources:
 # Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The course used a hybrid form of the 7-step Maastricht PBL model in which a case 'story' unfolds progressively over tutorials through 'pages' of information following a trigger scenario. Table 1 structures the cycle: whole-class work on clarification, definition, analysis and review; small groups establishing learning goals; self-directed study; reconvening to report and synthesise; a non-contact preparation week; a 15-minute group presentation with anonymous peer and tutor feedback; and a post-presentation debrief with self-assessment against a four-dimension tutorial performance survey.
@@ -44,6 +44,7 @@ The course used a hybrid form of the 7-step Maastricht PBL model in which a case
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](../claims/pbl-attitudes-valuing-interdependence-self.md) [+W]
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](../claims/pbl-knowledge-generation-application-dissemination.md) [+W]
 - [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](../claims/pbl-skills-interpersonal-problem-solving-group.md) [+W]
+- [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](../claims/staged-feedback-survey-perceptions.md) [~W]
 
 ## Related Patterns
 - 

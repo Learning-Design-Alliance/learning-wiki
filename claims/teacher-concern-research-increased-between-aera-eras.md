@@ -43,6 +43,6 @@ Document analysis of AERA annual meeting program pdfs (10 files for 2005–2014,
 
 
 ## Related Claims
-- [Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research](literacy-reading-aera-research-declined-34-percent.md) — related
+- Literacy and reading research declined 34 percent between eras, in a pattern the author attributes to the defunding of Reading First rather than competition from equity research — related
 - [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — related
-- [Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB](policy-terms-declined-after-essa.md) — related
+- Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB — related

@@ -43,4 +43,4 @@ Post-institute survey of the ten participants (Table 13) reporting implementatio
 
 
 ## Related Claims
-- [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related
+- Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration — related

@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 19 studies (7 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
+> **Evidence** · 17 claims (9 for, 8 mixed) · 21 studies (8 causal, 6 quant-synthesis, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -71,6 +71,15 @@ For example, an adult learner may value understanding why a spreadsheet formula 
 The expectation should weaken if comparable learners, starting responses and aligned outcomes fail to show an advantage for explicit, guided instruction over minimally guided discovery under defensible comparisons, or if the advantage seen at the end of instruction routinely disappears at a delay. It should be narrowed further if problem-first designs keep beating instruction first on conceptual and transfer outcomes for the learners and tasks a design targets. If redundancy for more knowledgeable learners appears much earlier or later than responses suggest, revise how readiness to fade is observed. Do not protect the model by relabelling every failure as a missing phase, a poor implementation or insufficient prior knowledge.
 
 Immediate procedural performance, conceptual understanding, transfer, delayed retention and use the learner values are separate claims. The present evidence does not establish a fading point, an optimal lesson script or a numerical forecast for an individual learner.
+
+## Claims
+
+- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
+- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
+- [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
+- [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](../claims/tbi-advantage-larger-under-oet-interaction.md) [~W]
+- [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](../claims/minimally-guided-approaches-ignore-cognitive-architecture.md) [+W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone
@@ -148,11 +157,6 @@ Direct instruction is strongest when learners need a clear model of what success
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q3`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
-- [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](../claims/dependent-measure-moderates-discovery-effects.md) [~W]
-- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W]
-- [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](../claims/domain-moderates-unassisted-discovery-deficit.md) [+W]
-- [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
-- [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](../claims/tbi-advantage-larger-under-oet-interaction.md) [~W]
 
 ## Description
 Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.

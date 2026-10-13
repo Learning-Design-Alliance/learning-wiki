@@ -63,8 +63,8 @@ Definitional/conceptual claim in the integrity section, citing Balalle & Pannila
 
 ## Related Claims
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — a narrower finding that bears on this claim
-- [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md) — a narrower finding that bears on this claim
-- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct — a narrower finding that bears on this claim
+- Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related

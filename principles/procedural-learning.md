@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 31 studies (14 causal, 7 theoretical, 5 review, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 31 report an effect size · 10 claims rest on one study
+> **Evidence** · 21 claims (11 for, 9 mixed, 1 against) · 34 studies (17 causal, 7 theoretical, 5 review, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 34 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,12 @@ The expectation should weaken if studies comparing the arc (model, supported att
 
 Accuracy with help, unaided accuracy, speed, delayed retention, choice among procedures, transfer to changed tasks and use in the setting the learner values are separate claims. The present evidence establishes no amount of practice to fluency, no spacing schedule for procedures and no criterion for when a procedure is learned.
 
+## Claims
+
+- [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](../claims/opportunity-count-no-effect-execution.md) [~W]
+- [No significant differences in posttest rule accuracy across scaffolding conditions](../claims/no-rule-accuracy-difference-across-conditions.md) [-W]
+- [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](../claims/trainee-experience-moderates-aiding-transfer.md) [~W]
+
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs
 - [Scaffolding](scaffolding.md) — helps learners perform procedures they cannot yet execute independently
@@ -206,9 +212,6 @@ Procedural learning is most important when the learning target is a repeatable p
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — explicit models can reduce blind search for novices as they acquire new procedures
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices often improve more when attention is directed to execution and process than to end-state outcomes alone
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — procedural learning is stronger when support adapts to learner performance rather than staying fixed
-- [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](../claims/opportunity-count-no-effect-execution.md) [~W]
-- [No significant differences in posttest rule accuracy across scaffolding conditions](../claims/no-rule-accuracy-difference-across-conditions.md) [-W]
-- [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](../claims/trainee-experience-moderates-aiding-transfer.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

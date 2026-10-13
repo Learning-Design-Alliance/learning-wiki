@@ -27,7 +27,7 @@ grain_size: lesson
 # Cognitive Load Reduction (CLT Scaffolding Approach)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 15 studies (7 causal, 3 theoretical, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 0 of 15 report an effect size · 8 claims rest on one study
 
 ## Description
 This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning. In practice, it often combines clear sequencing, worked examples, careful multimedia use, segmentation, and guided practice that fades over time. The aim is not to make learning effortless; it is to prevent avoidable overload so learners can focus on understanding and performance.
@@ -82,6 +82,10 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](../claims/ai-intelligent-scaffolding-lowers-knowledge-threshold.md) [~W]
+- [Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient](../claims/cognitive-debt-reactive-ai-approaches-insufficient.md) [~W]
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](../claims/ai-raises-problem-complexity-ceiling.md) [~W]
+- [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](../claims/diverse-explanations-no-perceived-information-overload.md) [~W]
+- [Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification](../claims/data-comics-perceived-limitations-overload-design-dependence.md) [~W]
 
 ## Design
 

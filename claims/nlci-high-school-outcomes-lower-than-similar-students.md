@@ -43,7 +43,7 @@ Cohort comparison of Collins Academy High School students with students of simil
 
 
 ## Related Claims
-- [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](middle-grades-principals-lasting-effects-student-outcomes.md) — related
+- Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects — related
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — reports the opposite
 - [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](nlci-student-mobility-limits-vertical-integration-gains.md) — related
 - [Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative](nlci-test-scores-improved-similar-to-district.md) — related

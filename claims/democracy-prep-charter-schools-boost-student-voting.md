@@ -49,5 +49,5 @@ The article's title states its central finding: Democracy Prep charter schools b
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — a broader claim this one bears on
 - [Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points](democracy-prep-increases-voter-registration-16-points.md) — related
 - [Enrolling in Democracy Prep increases student voter registration rates by about 16 percentage points](democracy-prep-lottery-registration-gain-16-points.md) — related
-- [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related
+- U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling — related
 - [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — related

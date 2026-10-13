@@ -44,6 +44,4 @@ Chi-square analysis of the survey (N=300) found a significant race/ethnicity rel
 
 - [Most survey respondents search for educational and job opportunities on mobile devices rather than laptops or desktops](mobile-majority-search-job-opportunities.md)
 - [40% of caregivers found statewide assessments very or somewhat helpful for keeping their child on track for college, with Black caregivers more often finding them helpful](caregivers-split-assessment-helpfulness.md)
-- [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md)
 - [Black TECTA participants took 7.4 more months on average to earn a CDA after orientation than white participants](black-tecta-participants-longer-cda-completion-time.md)
-- [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md)

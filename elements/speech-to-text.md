@@ -26,7 +26,7 @@ sources:
 # Speech-to-text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 mixed, 1 against) · 13 studies (4 qualitative, 2 causal, 2 review, 2 associational, 1 quant-synthesis, 1 design, 1 theoretical), `q2`–`q4` · 0 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 mixed, 1 against) · 15 studies (4 associational, 4 qualitative, 2 causal, 2 review, 1 quant-synthesis, 1 design, 1 theoretical), `q2`–`q4` · 0 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments. Its instructional value is not just accommodation, although that is often essential. It can reduce transcription barriers, help learners externalize ideas more quickly, and support drafting when handwriting or keyboarding would otherwise consume too much effort.
@@ -77,6 +77,7 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](../claims/edited-voice-no-significant-difference.md) [~W]
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](../claims/text-perceived-accuracy-control-editability.md) [-M]
 - [Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies](../claims/asr-accuracy-drop-non-native-learner-speech.md) [~W]
+- [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](../claims/asr-accuracy-motivation-not-reflection.md) [~M]
 
 ## Related Principles
 - [Process-Based Writing](../principles/process-based-writing.md) — speech-to-text is often most useful in drafting and revision cycles.

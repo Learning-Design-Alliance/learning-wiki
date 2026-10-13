@@ -13,7 +13,7 @@ generated:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 20 studies (8 causal, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (10 for, 9 mixed) · 21 studies (9 causal, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,11 @@ The expectation should weaken if first-hand comparisons of varied-context with s
 
 Recall of the taught items, near transfer, far transfer, delayed transfer and use in the learner's own setting are separate claims. The present evidence establishes no number of cases, no session dose and no criterion for moving on.
 
+## Claims
+
+- [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](../claims/no-three-way-interaction-test-question-type-transfer.md) [+W]
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
+
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)
 - [Problem-based Learning](problem-based-learning.md)
@@ -186,8 +191,6 @@ Transfer of learning improves when learners encounter underlying structure acros
 ### Claims
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — Learners transfer more effectively when they practice integrated tasks that preserve the structure of later performance.
-- [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](../claims/no-three-way-interaction-test-question-type-transfer.md) [+W]
-- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

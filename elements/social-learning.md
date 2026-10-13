@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (9 for) · 10 studies (4 quant-synthesis, 4 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 11 studies (5 qualitative, 4 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 8 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -33,3 +33,4 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](../claims/sns-groups-support-informal-design-learning.md) [+W]
 - [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
+- [Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites](../claims/observational-effect-spread-collaboration-three-sites.md) [~W]

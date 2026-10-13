@@ -46,4 +46,4 @@ State-machine (transition-diagram) analysis of question-type sequences within ea
 - [A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions](few-question-types-dominate-student-ai-inquiries.md) — related
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](generation-differences-in-question-type-usage.md) — related
 - [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related
-- [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related
+- Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks — related

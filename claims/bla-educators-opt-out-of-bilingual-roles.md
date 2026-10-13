@@ -43,5 +43,5 @@ Regional Kern County pilot analysis of local workforce data. Despite exponential
 
 
 ## Related Claims
-- [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — related
-- [California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment](ca-blind-spot-bla-assignment-retention-data.md) — related
+- Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
+- California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment — related

@@ -44,5 +44,5 @@ Observational analysis of CSSS data disaggregated by staff role (Exhibit 5); the
 
 ## Related Claims
 - [African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities](african-american-staff-least-positive-instructional-equity-perceptions.md) — related
-- [Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower](staff-role-differences-respect-for-diversity-perceptions.md) — related
+- Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower — related
 - [Fewer than half of secondary staff strongly agreed that their schools foster instructional equity (46%) or respect for diversity (45%)](fewer-than-half-staff-strongly-agree-equity-diversity.md) — related

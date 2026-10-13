@@ -48,8 +48,8 @@ The report's key findings state that "evidence is limited on the reliability and
 - [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related
 - [Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations](early-adopters-used-alternative-growth-measures-in-formal-evaluations.md) — related
 - [Evaluation systems including alternative student growth measures showed a wider range of teacher performance than previous systems lacking growth measures](growth-measures-widen-teacher-performance-range.md) — related
-- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
-- [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related
+- Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers — related
+- Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems — related
 - [The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional](evaluation-reliability-determines-exceptional-teacher-proportion.md) — related
 - [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

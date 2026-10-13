@@ -43,5 +43,5 @@ Interview analysis of providers' beliefs about cultural and contextual alignment
 
 
 ## Related Claims
-- [BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes](bipoc-provider-motivations-prosociality-equity.md) — related
+- BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes — related
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related

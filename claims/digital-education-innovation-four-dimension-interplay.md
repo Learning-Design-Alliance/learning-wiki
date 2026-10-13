@@ -48,5 +48,5 @@ Authors' conceptual argument in the section adapting the knowledge triangle. The
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related
-- [Digital transformation permeates all levels of the education system as an interdependent structure](digital-transformation-interdependent-multi-level-structure.md) — a narrower finding that bears on this claim
-- [Review identifies a sub-theme on educational providers expanding collaboration with other organisations amid digitalisation](collaboration-with-stakeholders-subtheme.md) — related
+- Digital transformation permeates all levels of the education system as an interdependent structure — a narrower finding that bears on this claim
+- Review identifies a sub-theme on educational providers expanding collaboration with other organisations amid digitalisation — related

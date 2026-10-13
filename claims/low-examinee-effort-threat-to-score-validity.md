@@ -44,7 +44,7 @@ The article asserts, in its abstract, that "Low examinee effort is a major threa
 
 ## Related Claims
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
-- [The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools](evaluating-reforms-versus-gaming-in-threatened-schools.md) — related
+- The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools — related
 - [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md) — related
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — a narrower finding that bears on this claim
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](cats-address-unmotivated-examinee-validity-threat.md) — related

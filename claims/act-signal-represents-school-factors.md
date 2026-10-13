@@ -43,4 +43,4 @@ The authors' key-finding interpretation states "most of the signal from the ACT 
 
 
 ## Related Claims
-- [Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains](chicago-honors-course-gains-due-to-better-prepared-students.md) — related
+- Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains — related

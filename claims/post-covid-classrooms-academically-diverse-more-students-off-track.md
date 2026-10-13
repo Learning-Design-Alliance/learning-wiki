@@ -43,12 +43,12 @@ The technical appendix's own description states the accompanying brief "examines
 
 
 ## Related Claims
-- [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — related
+- The lowest-performing middle school readers fell further behind during post-COVID recovery — related
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — related
-- [Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities](pandemic-left-students-behind-worsened-inequities.md) — a broader claim this one bears on
+- Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities — a broader claim this one bears on
 - [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — possibly the same claim (merge candidate)
 - [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — possibly the same claim (merge candidate)
-- [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — related
-- [NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading](post-covid-middle-school-reading-urgent-challenge.md) — related
-- [The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude](post-pandemic-increase-at-risk-students.md) — related
-- [Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic](same-grade-students-differ-more-in-needs.md) — possibly the same claim (merge candidate)
+- Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress — related
+- NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading — related
+- The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude — related
+- Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic — possibly the same claim (merge candidate)

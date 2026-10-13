@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (3 for, 3 unmarked) · 8 studies (2 causal, 2 review, 2 theoretical, 1 qualitative, 1 design), `q2`–`q3` · 1 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 2 mixed, 3 unmarked) · 10 studies (3 review, 2 causal, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 1 of 10 report an effect size · 7 claims rest on one study
 
 ## Description
 Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
@@ -64,6 +64,9 @@ Self-directed learning is most valuable when learners are expected to take meani
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](../claims/ai-enhances-adult-learner-autonomy.md) [+W]
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](../claims/instructions-increase-self-testing-cumulative-learning.md) [+W]
 - [Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps](../claims/teachers-surprised-by-student-questioning-capability.md) [+W]
+- [Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning](../claims/tuga-negative-direct-effect-sdl.md) [~W]
+- [AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning](../claims/awe-enhance-organization-quality-self-directed-learning.md) [+W]
+- [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](../claims/ai-enhances-learning-relevance-goal-career.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

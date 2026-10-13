@@ -43,6 +43,6 @@ The abstract reports the article's reanalysis of the New York exam results: "A c
 
 
 ## Related Claims
-- [The first release of New York's Common Core exam results was widely misread as showing dramatic declines in student achievement](ny-common-core-results-misread-as-decline.md) — related
+- The first release of New York's Common Core exam results was widely misread as showing dramatic declines in student achievement — related
 - [New York students showed positive achievement and growth results under the APPR evaluation system](ny-positive-achievement-growth-under-appr.md) — related
-- [A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception](rasch-reanalysis-corroborates-slowing-trends.md) — related
+- A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception — related

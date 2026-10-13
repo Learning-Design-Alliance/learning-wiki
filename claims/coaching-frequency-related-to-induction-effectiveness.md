@@ -43,7 +43,7 @@ Analysis of 4 years of CTC program completer survey data (6,812 completers, Sept
 
 
 ## Related Claims
-- [Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding](induction-program-variation-and-funding-challenges.md) — related
+- Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding — related
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
 - [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](sustained-coaching-contact-hours.md) — related
 - [Teachers who find coaching valuable spend more time and meet more frequently with their coaches](coaching-time-frequency-linked-to-perceived-value.md) — related

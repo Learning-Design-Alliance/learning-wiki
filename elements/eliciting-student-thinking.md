@@ -13,7 +13,7 @@ generated:
 # Eliciting Student Thinking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Eliciting student thinking is the practice of prompting learners to externalize their ideas, reasoning, and problem-solving approaches — through questioning, discussion, or explanation — so that both instructor and learner can examine them. It functions as a diagnostic and generative move: the instructor gains access to partial or faulty conceptions, and the learner deepens understanding by articulating it.
@@ -56,6 +56,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](../claims/app-promotes-question-and-check-talk-moves.md) [+W]
+- [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](../claims/teacher-responses-can-close-off-pupil-thinking.md) [-W]
 
 ## Related Elements
 

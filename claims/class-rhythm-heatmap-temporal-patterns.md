@@ -44,4 +44,4 @@ Class rhythm heatmap analysis (Figure 3) of the pilot cohort's temporal interact
 
 ## Related Claims
 - [Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th](cumulative-engagement-staircase-deadline-peaks.md) — related
-- [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — reports the opposite
+- Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students — reports the opposite

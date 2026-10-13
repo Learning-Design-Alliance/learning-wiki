@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 design, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 12 studies (3 causal, 3 quant-synthesis, 2 design, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -43,6 +43,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]
+- [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](../claims/no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) [~W]
 
 ## Related Theories
 

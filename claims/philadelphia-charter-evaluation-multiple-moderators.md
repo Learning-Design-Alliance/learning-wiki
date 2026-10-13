@@ -45,6 +45,6 @@ The report describes the scope of its evaluation: it examines "effects of years 
 ## Related Claims
 - [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — related
 - [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — related
-- [Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools](philadelphia-charter-gains-equal-district-schools.md) — related
+- Philadelphia charter school students' achievement gains are approximately equal to gains of students attending district-operated public schools — related
 - [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related
-- [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related
+- Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales — related

@@ -43,5 +43,5 @@ The brief's comparative framing reports DC math impacts of "one-third of a stand
 
 
 ## Related Claims
-- [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
-- [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](dcps-principal-gains-larger-faster-middle-schools.md) — related
+- After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools — related
+- Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools — related

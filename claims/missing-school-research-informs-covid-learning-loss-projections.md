@@ -45,7 +45,7 @@ The presentation's framing argument: because COVID interruptions are unprecedent
 ## Related Claims
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](covid-modeling-openings-closings-learning-loss.md) — related
-- [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
+- Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved — related
 - [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](little-data-closure-impacts-2020.md) — related
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — possibly the same claim (merge candidate)
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related

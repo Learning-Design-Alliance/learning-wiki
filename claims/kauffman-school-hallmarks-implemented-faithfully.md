@@ -43,7 +43,7 @@ Qualitative analysis using surveys, interviews, focus groups, and classroom obse
 
 
 ## Related Claims
-- [The Kauffman Foundation's prior Kansas City education programs preceded and motivated the founding of the Kauffman charter school](kauffman-prior-programs-preceded-charter-school-founding.md) — related
+- The Kauffman Foundation's prior Kansas City education programs preceded and motivated the founding of the Kauffman charter school — related
 - [Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance](kauffman-school-qualitative-mechanisms-faithful-implementation.md) — possibly the same claim (merge candidate)
 - [Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance](kauffman-stakeholders-believe-methods-improve-behavior-attitudes-performance.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on

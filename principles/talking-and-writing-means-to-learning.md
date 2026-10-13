@@ -23,7 +23,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 7 studies (2 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 2 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 8 studies (2 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that "talking and writing are a means to learning" (p.50). It argues for an instructional model based on dialogue between student and teacher using speech and writing as instruments for learning, encouraging a collaborative learning environment, constructing a student-centered environment guided and facilitated by the teacher, and emphasizing higher level cognitive skills rather than correction of surface forms.
@@ -62,6 +62,7 @@ The article presents the Bullock Report's basic tenet, adopted by Cummins for mi
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](../claims/chatgpt-teachable-agent-knowledge-gains.md) [+W] — attached 2026-10-10 from Angxuan Chen et al. (2024), which proposed "Use natural-language teaching tasks with ChatGPT agents to promote deeper cognitive processing in learning-by-teaching"; tests this page's relationship.
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](../claims/interactive-genai-dialogue-promotes-engagement.md) [+W]
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
+- [Deeper-learning inquiry strategies in low-income mathematics classes reduced linguistic, ethnic, and class outcome disparities](../claims/deeper-learning-math-inquiry-reduces-disparities.md) [+W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)

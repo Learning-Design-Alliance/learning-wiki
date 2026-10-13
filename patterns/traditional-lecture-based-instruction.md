@@ -15,7 +15,7 @@ grain_size: course
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 against) · 4 studies (2 review, 1 causal, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 mixed, 3 against) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 3 of 6 report an effect size · 3 claims rest on one study
 
 ## Description
 Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
@@ -41,6 +41,8 @@ Lecture's effectiveness depends heavily on which of four common instructional ob
 ## Claims
 
 - [Actively engaging learning environments show demonstratively higher learning gains than traditional one-way lecture environments](../claims/active-engagement-higher-learning-gains-than-lecture.md) [-W]
+- [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](../claims/ccct-outperformed-lecture-achievement.md) [-W]
+- [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](../claims/genai-instructional-method-moderator.md) [~W]
 
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.

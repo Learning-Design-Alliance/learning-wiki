@@ -43,5 +43,5 @@ The report's own summary states this demonstration as a central contribution: "t
 
 
 ## Related Claims
-- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
+- Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related

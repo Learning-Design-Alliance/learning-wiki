@@ -43,4 +43,4 @@ The report cites a Georgia study finding that diesel bus retrofits "led to enhan
 
 
 ## Related Claims
-- [As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days](schools-hvac-upgrades-heat-closures.md) — related
+- As of 2020 about half of U.S. schools required HVAC upgrades, and many now face heat-related closures or shortened days — related

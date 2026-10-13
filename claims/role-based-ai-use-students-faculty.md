@@ -43,5 +43,5 @@ Interview-based content analysis of AI use patterns among 16 students and 12 fac
 
 
 ## Related Claims
-- [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
+- Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use — related
 - [A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms](ai-adaptation-gap-students-faculty-staff.md) — related

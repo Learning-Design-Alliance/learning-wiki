@@ -44,7 +44,7 @@ Authors' conceptual interpretation in the framework development section, not a t
 
 ## Related Claims
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — a narrower finding that bears on this claim
-- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — a broader claim this one bears on
+- Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills — a broader claim this one bears on
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — a narrower finding that bears on this claim
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — a narrower finding that bears on this claim

@@ -45,6 +45,6 @@ A descriptive implementation-practice slide citing the Tinsley et al. 2022 repor
 ## Related Claims
 - [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — related
 - [Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways](higher-ed-micro-credential-outcomes.md) — related
-- [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — a broader claim this one bears on
+- The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent — a broader claim this one bears on
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — a narrower finding that bears on this claim

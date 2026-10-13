@@ -43,7 +43,7 @@ The report's introduction states this research gap as the motivation for studyin
 
 
 ## Related Claims
-- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
+- Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States — related
 - [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
-- [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
-- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016 — related
+- Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors — related

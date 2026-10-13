@@ -62,7 +62,7 @@ Interview findings on school climate: experts "frequently stated that the ways R
 
 
 ## Related Claims
-- [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](expert-motivations-restorative-justice-schools.md) — related
+- Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models — related
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — possibly the same claim (merge candidate)
 - [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](rj-improves-school-climate-evidence-limited.md) — related
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
@@ -72,7 +72,7 @@ Interview findings on school climate: experts "frequently stated that the ways R
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — a narrower finding that bears on this claim
 - [Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated](frequent-rj-use-relationships-referrals-racial-gap.md) — related
-- [California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer](california-suspension-decline-safer-schools.md) — a narrower finding that bears on this claim
+- California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer — a narrower finding that bears on this claim
 - [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related
 - [CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies](cstag-training-shifts-staff-knowledge-beliefs.md) — related
 - [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](denver-restorative-justice-suspension-gap-narrowed.md) — related

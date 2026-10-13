@@ -62,7 +62,7 @@ Second component of analytical result 3. The article reports that well-governed 
 
 
 ## Related Claims
-- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — a broader claim this one bears on
+- AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently — a broader claim this one bears on
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — a broader claim this one bears on
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related

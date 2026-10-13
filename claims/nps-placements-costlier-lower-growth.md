@@ -62,4 +62,4 @@ Supplemental analyses of California data across three school years found "a cons
 
 
 ## Related Claims
-- [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
+- Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities — related

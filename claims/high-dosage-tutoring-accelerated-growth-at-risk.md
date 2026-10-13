@@ -46,7 +46,7 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude](post-pandemic-increase-at-risk-students.md) — related
+- The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude — related
 - [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](ff-tutoring-scale-up-success.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
 - [High-dosage tutoring is positively associated with charter school achievement impacts](high-dosage-tutoring-associated-charter-success.md) — a broader claim this one bears on

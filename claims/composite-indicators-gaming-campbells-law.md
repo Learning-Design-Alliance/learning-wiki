@@ -44,4 +44,4 @@ The report's argumentative analysis of composite-indicator accountability system
 
 ## Related Claims
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
-- [The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools](evaluating-reforms-versus-gaming-in-threatened-schools.md) — possibly the same claim (merge candidate)
+- The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools — possibly the same claim (merge candidate)

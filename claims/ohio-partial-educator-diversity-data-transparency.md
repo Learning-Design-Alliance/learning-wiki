@@ -45,6 +45,6 @@ Policy-scan assessment under Goal 1 finds Ohio "partially meets criteria": state
 ## Related Claims
 - [California publicly reports school-level educator workforce race data but lags two years and publishes no data on preparation-program candidates, completers, or retention of educators of color](california-educator-diversity-data-transparency-gaps.md) — related
 - [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](ohio-resident-educator-induction-mentoring-meets-criteria.md) — related
-- [Ohio's Diversifying the Education Profession Taskforce (fall 2018, 40 individuals) is rated a best practice](ohio-diversifying-education-profession-taskforce-best-practice.md) — related
-- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- Ohio's Diversifying the Education Profession Taskforce (fall 2018, 40 individuals) is rated a best practice — related
+- In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color — related
 - [Pennsylvania's policy scan shows strong Grow Your Own, residency, and induction investments but weak data transparency, scholarships, and program approval standards for diversity](pa-policy-scan-strengths-gaps-educator-diversity.md) — related

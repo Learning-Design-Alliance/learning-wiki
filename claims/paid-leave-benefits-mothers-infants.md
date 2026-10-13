@@ -43,4 +43,4 @@ The article reports, citing research without naming studies, that paid family le
 
 
 ## Related Claims
-- [The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage](us-lags-industrialized-nations-early-family-supports.md) — related
+- The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage — related

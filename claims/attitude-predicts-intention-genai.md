@@ -49,6 +49,6 @@ PLS-SEM path analysis in the 434-teacher sample. The AOU→BI path was significa
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
-- [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
+- Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related

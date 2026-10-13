@@ -47,4 +47,4 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study](female-higher-learning-agency-genai-contexts.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
-- [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
+- Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes — related

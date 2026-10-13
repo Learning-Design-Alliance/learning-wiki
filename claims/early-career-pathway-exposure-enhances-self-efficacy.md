@@ -45,6 +45,6 @@ Second-hand citation: the report attributes this finding to Onyejiji (2023) and,
 ## Related Claims
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — a narrower finding that bears on this claim
-- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
+- Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
-- [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — a narrower finding that bears on this claim
+- The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year — a narrower finding that bears on this claim

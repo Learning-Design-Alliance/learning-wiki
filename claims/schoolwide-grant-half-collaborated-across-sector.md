@@ -45,5 +45,5 @@ Survey of district and charter educators sampled from 21 cross-sector collaborat
 ## Related Claims
 - [Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult](inadequate-time-and-opportunities-hinder-collaboration.md) — related
 - [In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors](individual-targeted-grants-three-quarters-cross-sector.md) — related
-- [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](teachers-receptive-but-involvement-limited.md) — related
+- Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited — related
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related

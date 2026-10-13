@@ -65,6 +65,6 @@ The brief reports, citing Schildkraut et al. (2020), that drills and training "i
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans](95-percent-us-schools-conduct-lockdown-drills.md) — related
+- 95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans — related
 - [Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes](behavioral-skills-training-mastery-lockdown-steps.md) — related
 - [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related

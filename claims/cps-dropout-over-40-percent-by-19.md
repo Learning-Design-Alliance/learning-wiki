@@ -45,4 +45,4 @@ The agenda cites Consortium estimates as the basis for a planned comprehensive a
 ## Related Claims
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — a narrower finding that bears on this claim
 - [Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend](unverified-transfers-raise-rates-remove-trend.md) — related
-- [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
+- The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes — related

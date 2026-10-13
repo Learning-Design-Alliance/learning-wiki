@@ -46,6 +46,6 @@ The brief's opening framing statement asserts, citing research generally without
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-brief-assertion.md) — possibly the same claim (merge candidate)
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — possibly the same claim (merge candidate)
 - [All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers](diverse-teacher-workforce-benefits-all-students.md) — related
-- [In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are](california-students-77-percent-teachers-39-percent-of-color.md) — related
-- [In Massachusetts (2019-20), people of color are 35% of students but only 6.9% of teachers and 16% of paraprofessionals, and 38% of schools have no teachers of color](ma-teacher-diversity-gap-2019-20.md) — related
+- In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related
+- In Massachusetts (2019-20), people of color are 35% of students but only 6.9% of teachers and 16% of paraprofessionals, and 38% of schools have no teachers of color — related
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — a narrower finding that bears on this claim

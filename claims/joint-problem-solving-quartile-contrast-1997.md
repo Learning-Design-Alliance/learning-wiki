@@ -43,12 +43,12 @@ Descriptive quartile comparison from the Joint Problem Solving scale summary, wh
 
 
 ## Related Claims
-- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
+- In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed — related
 - [Program coherence varies widely within quartiles: more than half of top-quartile teachers report moderate coherence and 32 percent report little or none, while 44 percent of bottom-quartile teachers report strong or very strong coherence](program-coherence-quartile-contrast-1997.md) — related
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](instructional-leadership-high-ratings-both-quartiles-1997.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
-- [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
+- Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools — related
 - [Teacher-parent interaction and trust are lower in bottom-quartile schools, and even top-rated schools show limited very strong trust](teacher-parent-interaction-trust-differences.md) — related
-- [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
+- Teachers rate principal instructional leadership highly even in many bottom-quartile schools — related
 - [More than half of teachers in bottom-quartile schools describe little or no program coherence](program-coherence-bottom-quartile-little-or-none.md) — related
 - [Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust](teacher-parent-trust-bottom-quartile-low.md) — related

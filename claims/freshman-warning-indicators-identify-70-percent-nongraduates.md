@@ -51,7 +51,7 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
 - [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related
-- [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
+- Freshman failures clustered in math more than English, and many students failed both core subjects — related
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related

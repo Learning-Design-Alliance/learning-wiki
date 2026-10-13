@@ -61,7 +61,7 @@ The same NTPS analysis broken down by educational attainment (Figure 3) shows th
 
 
 ## Related Claims
-- [Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers](black-teachers-disproportionate-loan-debt.md) — related
-- [Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts](loan-debt-multiple-jobs-teachers.md) — related
-- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
-- [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related
+- Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers — related
+- Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts — related
+- Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt — related
+- Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%) — related

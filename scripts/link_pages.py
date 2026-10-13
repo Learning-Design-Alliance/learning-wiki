@@ -419,13 +419,22 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
     replacing an empty template placeholder; else add `## fallback` before the
     page's Related/Examples/Key Sources tail, or at the end when it has none."""
     lines = path.read_text(encoding="utf-8").split("\n")
+    # A heading inside an HTML comment is not a section: a converted page keeps its old body in a
+    # <!-- deprecated --> block with its own `### Claims`, and 334 links written there in one pass
+    # counted for nothing (2026-10-13).
+    live, depth = [], 0
+    for l in lines:
+        live.append(depth == 0)
+        depth += l.count("<!--") - l.count("-->")
+        depth = max(depth, 0)
     at = None
     for want in heads:
-        at = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and m.group(2) == want), None)
+        at = next((i for i, l in enumerate(lines) if live[i] and (m := HEAD_RE.match(l)) and m.group(2) == want),
+                  None)
         if at is not None:
             break
     if at is None:
-        tail = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
+        tail = next((i for i, l in enumerate(lines) if live[i] and (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
                      and (m.group(2).startswith("Related ") or m.group(2) in ("Examples", "Key Sources"))), None)
         if tail is None:
             while lines and not lines[-1].strip():
@@ -434,7 +443,10 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
         else:
             lines[tail:tail] = [f"## {fallback}", "", bullet, ""]
     else:
-        end = next((i for i in range(at + 1, len(lines)) if HEAD_RE.match(lines[i])), len(lines))
+        # The section also ends where a comment opens and runs on (a deprecated block), so the
+        # bullet is not appended inside it; a one-line template hint does not end it.
+        end = next((i for i in range(at + 1, len(lines))
+                    if HEAD_RE.match(lines[i]) or lines[i].count("<!--") > lines[i].count("-->")), len(lines))
         body = [l for l in lines[at + 1:end] if l.strip() not in ("-",)]
         while body and not body[-1].strip():
             body.pop()
@@ -453,8 +465,11 @@ def cites_claim(path: Path) -> bool:
 
 
 def links_to(path: Path, dst: str) -> bool:
+    """Whether the page links `dst` outside an HTML comment: a link kept in a deprecated
+    block counts for nothing, so it must not stop a live one being written."""
     root = WIKI_ROOT.resolve()
-    for m in LINK_RE.finditer(path.read_text(encoding="utf-8")):
+    text = re.sub(r"<!--.*?-->", "", path.read_text(encoding="utf-8"), flags=re.S)
+    for m in LINK_RE.finditer(text):
         try:
             if str((path.parent / unquote(m.group(1))).resolve().relative_to(root).with_suffix("")) == dst:
                 return True

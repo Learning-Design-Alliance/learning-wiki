@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 mixed) · 12 studies (4 review, 3 causal, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (3 for, 7 mixed) · 16 studies (4 causal, 4 review, 4 theoretical, 2 associational, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 16 report an effect size · 7 claims rest on one study
 
 ## Description
 Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner. It is useful when instruction relies on collaboration, external representations, or shared expertise.
@@ -57,6 +57,11 @@ Distributed cognition matters when successful performance depends on how learner
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — tools and collaborators are most helpful when support is responsive rather than generic
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](../claims/developmental-shift-cognitive-offloading.md) [~W]
 - [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](../claims/strategic-offloading-intentional-transformative-learning.md) [~W]
+- [Open collaboration involved more prompts, greater text incorporation, less self-generated text, and deeper idea and reasoning offloading than bounded support](../claims/open-collaboration-process-intensity-profile.md) [+W]
+- [Open collaboration exceeded bounded support in offloading at all four layers, with the largest differences at the idea and reasoning layers](../claims/open-collaboration-deeper-layer-offloading.md) [+W]
+- [Cognitive offloading is positively, not negatively, associated with transformative learning experience, contrary to the hypothesized negative effect](../claims/cognitive-offloading-positively-predicts-transformative-learning.md) [+W]
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](../claims/ai-reliance-correlated-lower-critical-thinking-offloading.md) [~W]
+- [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](../claims/offloading-content-constrains-volume.md) [~W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

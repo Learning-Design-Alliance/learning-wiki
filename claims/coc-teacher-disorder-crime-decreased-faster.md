@@ -47,4 +47,4 @@ HLM analysis of My Voice, My School survey data from 47 CoC and 38 comparison hi
 - [Pilot CoC schools did not improve faster than non-pilot CoC schools or non-CoC schools on any measure](coc-pilot-schools-no-differential-improvement.md) — related
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — related
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related
-- [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related
+- More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students — related

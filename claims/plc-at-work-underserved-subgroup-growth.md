@@ -48,6 +48,6 @@ Subgroup analysis within the Arkansas quasi-experimental study, in which 85% of 
 - [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related
 - [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related
-- [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding — related
 - [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](a4l-frl-subgroup-no-difference.md) — related
 - [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](a4l-ell-subgroup-impact.md) — related

@@ -27,7 +27,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 33 studies (10 causal, 9 quant-synthesis, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 33 report an effect size · 11 claims rest on one study
+> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 40 studies (11 causal, 9 quant-synthesis, 8 review, 4 qualitative, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,16 @@ The expectation should weaken if comparisons of the same feedback with and witho
 
 Following the information on the corrected item, unaided performance on a new item, delayed retention, and the learner's own monitoring are separate outcomes. The present evidence establishes no number of cycles, no cycle length and no hand-over criterion.
 
+## Claims
+
+- [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](../claims/agentic-feedback-42-undergrads-rubric-alignment-gain.md) [+W]
+- [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](../claims/mm04-workflow-boundary-failures.md) [~W]
+- [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](../claims/data-use-supports-ongoing-hqim-implementation.md) [~W]
+- [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](../claims/shallow-acceptance-originality-rarely-invoked.md) [-W]
+- [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](../claims/attempt-reduction-varies-by-course-part.md) [~W]
+- [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
+- [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
+
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)
 - [Formative Assessment](formative-assessment.md)
@@ -211,13 +221,6 @@ Feedback loops matter because information about performance is useful only when 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — feedback loops help learners notice the gap between current performance and the target
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — loops are instructionally valuable when they trigger adaptive changes in support or strategy
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — timely correction inside a loop can make important errors more memorable and less likely to recur
-- [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](../claims/agentic-feedback-42-undergrads-rubric-alignment-gain.md) [+W]
-- [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](../claims/mm04-workflow-boundary-failures.md) [~W]
-- [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](../claims/data-use-supports-ongoing-hqim-implementation.md) [~W]
-- [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](../claims/shallow-acceptance-originality-rarely-invoked.md) [-W]
-- [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](../claims/attempt-reduction-varies-by-course-part.md) [~W]
-- [Valid test case feedback improves correctness without reducing subsequent submission counts](../claims/valid-test-cases-not-fewer-submissions.md) [+W]
-- [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)

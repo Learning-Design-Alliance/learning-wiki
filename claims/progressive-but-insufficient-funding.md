@@ -43,14 +43,14 @@ Authors' synthesis of the equity and cost function findings: spending is progres
 
 
 ## Related Claims
-- [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related
+- Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student — related
 - [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](conditional-regression-need-factors-milestones.md) — related
 - [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — a narrower finding that bears on this claim
 - [Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost](first-generation-larger-adequacy-gaps.md) — related
-- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related
-- [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
+- Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student — related
+- Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities — related
 - [Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost](small-colleges-larger-adequacy-gaps.md) — related
-- [Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities](needs-based-staffing-addresses-inequity.md) — related
-- [Unfunded pension debt diverts state spending from current students, reaching roughly $16,000 per student in California, $10,000 in Texas, and $15,500 in Florida](pension-debt-per-student-ca-tx-fl.md) — related
-- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related
-- [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related
+- Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities — related
+- Unfunded pension debt diverts state spending from current students, reaching roughly $16,000 per student in California, $10,000 in Texas, and $15,500 in Florida — related
+- California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
+- Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey — related

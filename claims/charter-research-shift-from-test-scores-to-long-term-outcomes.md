@@ -58,5 +58,5 @@ The article's framing of the literature states that "various studies have examin
 - [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
 - [Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college](early-college-attainment-gains.md) — related
-- [More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment](experienced-teachers-nontest-benefits.md) — related
+- More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment — related
 - [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — related

@@ -49,8 +49,8 @@ The report's longitudinal student-level analysis across its eight study sites re
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a narrower finding that bears on this claim
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
-- [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-similar-to-nearby-traditional-schools.md) — related
-- [Average charter schools perform about the same as nearby traditional public schools, with large variation in effects](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — related
+- The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly — related
+- Average charter schools perform about the same as nearby traditional public schools, with large variation in effects — related
 - [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related
 - [The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings](charter-high-schools-attainment-and-long-run-earnings-suggestion.md) — related
 - [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — related

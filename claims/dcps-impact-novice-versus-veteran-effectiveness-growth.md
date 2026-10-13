@@ -44,4 +44,4 @@ The report's third research question frames an analysis of novice-teacher effect
 
 ## Related Claims
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
-- [The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time](dcps-impact-retention-effective-teachers-research-question.md) — related
+- The report examines whether retention rates of effective DCPS teachers changed after IMPACT began, including dismissal rates and school-level retention over time — related

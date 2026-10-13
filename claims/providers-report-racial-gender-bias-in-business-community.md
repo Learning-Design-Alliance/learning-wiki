@@ -44,5 +44,5 @@ Finding from the report's qualitative interviews with 32 providers across 10 sta
 
 ## Related Claims
 - [Employers increasingly view child care as an economic issue, with 50% of employers losing employees during the pandemic citing child care concerns](employers-view-child-care-as-economic-workforce-issue.md) — related
-- [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
-- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
+- Honours community members report isolation and negative bias from regular students and lecturers — related
+- Black and Latinx students generally feel less safe at school than their White peers — related

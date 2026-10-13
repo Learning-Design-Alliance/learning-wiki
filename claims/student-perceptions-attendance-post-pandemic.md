@@ -44,6 +44,6 @@ The agenda states, citing endnoted Consortium research on student attendance (Al
 
 ## Related Claims
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — a narrower finding that bears on this claim
-- [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
+- Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related

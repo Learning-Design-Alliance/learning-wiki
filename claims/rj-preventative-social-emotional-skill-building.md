@@ -43,6 +43,6 @@ Interview findings: RJ "can serve a preventative purpose when implemented in sch
 
 
 ## Related Claims
-- [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](expert-motivations-restorative-justice-schools.md) — related
+- Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models — related
 - [Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated](frequent-rj-use-relationships-referrals-racial-gap.md) — related
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related

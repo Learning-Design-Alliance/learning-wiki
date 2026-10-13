@@ -45,5 +45,5 @@ Theoretical argument in the Goal Gap section: the gap predates AI; technologies 
 ## Related Claims
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related
 - [Structural misalignment: learning-oriented goals are predominantly operationalized through performance-driven theories and modular customization](structural-misalignment-pedagogy-theory-customization.md) — a narrower finding that bears on this claim
-- [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
+- Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities — related
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related

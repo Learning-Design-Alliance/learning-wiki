@@ -44,12 +44,12 @@ Document analysis applying 15 fixed vignettes to the public policy environments 
 
 ## Related Claims
 - [Cross-university divergence is highest for disclosed language rewriting and a disclosed AI-drafted paragraph, while an explicit assessment prohibition produces unanimity](divergence-highest-disclosed-moderate-contribution-unanimity-explicit-ban.md) — related
-- [Guidance supplies the operative rule in over a third of classifications and resolves most cases where binding instruments are silent on GenAI](guidance-resolves-binding-silence-on-genai.md) — related
+- Guidance supplies the operative rule in over a third of classifications and resolves most cases where binding instruments are silent on GenAI — related
 - [Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected](disclosure-alone-often-changes-little.md) — related
 - [Process-only AI assistance produces more indeterminate classifications than uses retaining AI-generated text](process-only-assistance-more-indeterminate-than-retained-text.md) — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
-- [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related
-- [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
+- Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use — related
+- Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation — related
 - [Strict AI prohibitions can intensify students' moral conflict without preventing AI use](strict-ai-prohibition-intensifies-moral-conflict.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related

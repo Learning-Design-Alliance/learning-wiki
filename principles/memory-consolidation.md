@@ -22,7 +22,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (4 for, 5 mixed, 2 against) · 23 studies (13 causal, 6 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 23 report an effect size · 4 claims rest on one study
+> **Evidence** · 17 claims (8 for, 6 mixed, 3 against) · 29 studies (16 causal, 6 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,15 @@ The expectation should weaken if sequences that reactivate earlier material in l
 
 End-of-session performance, delayed recall, use in later tasks and use in the setting the learner values are separate claims. The present evidence establishes no number of returns, no gap for a particular learner and no release criterion.
 
+## Claims
+
+- [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](../claims/ai-practice-improved-writing-skill-persisted-one-day.md) [+W]
+- [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [+W]
+- [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](../claims/vocabulary-forgetting-pattern-decline-then-rise.md) [~W]
+- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [-W]
+- [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](../claims/genai-learning-gain-persists-one-week.md) [+W]
+- [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](../claims/h3-product-process-dissociation-hypothesis.md) [+W]
+
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time
 - [Retrieval Practice](retrieval-practice.md) — active recall is one of the strongest routes to durable retention
@@ -196,10 +205,6 @@ Memory consolidation matters because initial understanding is not the same as du
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — corrected prediction errors can strengthen later retention under the right feedback conditions
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — explanation can help stabilize knowledge by integrating it more deeply
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — better organization can support consolidation by making knowledge easier to encode and later retrieve
-- [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](../claims/ai-practice-improved-writing-skill-persisted-one-day.md) [+W]
-- [Immediate task success does not establish learning that persists without AI support](../claims/immediate-performance-not-evidence-of-independent-learning.md) [+W]
-- [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](../claims/vocabulary-forgetting-pattern-decline-then-rise.md) [~W]
-- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](../claims/simulation-advantage-immediate-not-sustained.md) [-W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

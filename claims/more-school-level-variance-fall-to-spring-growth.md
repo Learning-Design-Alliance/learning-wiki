@@ -43,7 +43,7 @@ Intraclass correlation coefficients computed from the school- and student-level 
 
 
 ## Related Claims
-- [Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level](district-level-variance-kindergarten-entry-scores.md) — related
+- Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level — related
 - [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](fall-to-spring-gains-decelerate-across-grades.md) — related
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related

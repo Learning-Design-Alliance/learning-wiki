@@ -31,7 +31,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (5 for, 14 mixed) · 23 studies (7 review, 5 theoretical, 4 causal, 3 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 23 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (7 for, 16 mixed, 1 against) · 29 studies (8 review, 5 causal, 5 qualitative, 5 theoretical, 3 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,14 @@ For example, an adult apprentice electrician may value wiring a real circuit at 
 The model should weaken if well-controlled comparisons of autonomy-supportive against controlling conditions, in real courses, show no difference in voluntary engagement or persistence at a delayed horizon. It should also weaken if the reward-undermining effect turns out to be confined to laboratory tasks. If choice keeps showing motivation gains with no learning gains, keep that split rather than calling both "engagement". If well-timed, performance-contingent control (as in the feedback experiment) replicates in academic tasks while open choice does not, the principle should be restated around when the learner controls what, not around choice in general. Do not protect the model by calling every failure of choice a lack of structure, or every success of direct instruction a hidden form of autonomy support.
 
 Motivation during a task, free-choice engagement afterwards, immediate learning, delayed retention and the learner's own valued use are separate claims. The present evidence does not establish how many options to offer, how to sequence widening choice, or how culture and age moderate any of it.
+
+## Claims
+
+- [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](../claims/ai-monitoring-pressure-and-judgement-concerns.md) [~W]
+- [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](../claims/ai-enhances-adult-learner-autonomy.md) [+W]
+- [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
+- [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](../claims/limited-student-choice-opt-out-system.md) [-W]
+- [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](../claims/aivaluate-thematic-advantages-and-limitations.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance
@@ -220,10 +228,6 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies (2 review, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
-- [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](../claims/ai-monitoring-pressure-and-judgement-concerns.md) [~W]
-- [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](../claims/ai-enhances-adult-learner-autonomy.md) [+W]
-- [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
-- [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](../claims/limited-student-choice-opt-out-system.md) [-W]
 
 ## Description
 Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.

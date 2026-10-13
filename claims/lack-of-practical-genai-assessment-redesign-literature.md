@@ -45,4 +45,4 @@ The article states this literature gap as motivation for its contribution, asser
 ## Related Claims
 - [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](assessment-twins-triangulate-evidence-mitigate-threats.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — a narrower finding that bears on this claim
-- [The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.](genai-platforms-challenge-higher-education-assessment.md) — related
+- The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment. — related

@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 10 studies (2 quant-synthesis, 2 review, 2 associational, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 12 studies (4 review, 2 quant-synthesis, 2 associational, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 7 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -71,6 +71,9 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [+W]
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](../claims/provide-context-rate-nonmonotonic.md) [~W]
+- [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
+- [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](../claims/scaffolding-little-incremental-exam-prediction.md) [-W]
+- [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](../claims/apps-focus-cognitive-receptive-skills-lack-collaboration.md) [+W]
 
 ## Related Theories
 

@@ -43,6 +43,6 @@ Category-level descriptive distribution from the same human-coded validation sam
 
 
 ## Related Claims
-- [In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%)](instructional-practices-largest-domain-36-5-percent.md) — related
+- In the human-coded validation sample, Instructional Practices was the largest domain of educator AI use (1,913 code applications; 36.5%) — related
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
 - [Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic](socio-emotional-support-most-frequent-code.md) — related

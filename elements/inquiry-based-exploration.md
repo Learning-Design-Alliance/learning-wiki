@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 11 studies (4 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -58,6 +58,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](../claims/inquiry-based-stem-activities-enhance-problem-solving-reported.md) [+W]
 - [Open-ended tasks produce higher AI literacy performance than structured tasks](../claims/oet-outperforms-stt-ai-literacy-performance.md) [+M]
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
+- [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](../claims/chatgpt-steam-ibl-learner-advantages.md) [+W]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation

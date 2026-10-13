@@ -45,7 +45,7 @@ The review's theory-mapping of 84 studies found that "a considerable number of s
 ## Related Claims
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
-- [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
+- AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators — related
 - [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](gpt4o-theory-references-codebook-covers-srl-theories.md) — related
 - [Self-Regulated Learning Theory is the most frequently used framework in AI–metacognition STEM studies, with later diversification toward system-level and co-regulation frameworks](srl-theory-dominant-framework-ai-metacognition-stem.md) — related

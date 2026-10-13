@@ -52,5 +52,5 @@ Descriptive exceptions reported in the Asian-group section of the CHKS 2017–19
 - [Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)](transgender-students-double-harassment-rates.md) — related
 - [Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations](transgender-students-report-fewer-school-supports.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — reports the opposite
-- [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
-- [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
+- Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students — related
+- Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students — related

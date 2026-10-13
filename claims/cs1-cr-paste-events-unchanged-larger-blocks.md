@@ -43,5 +43,5 @@ Keystroke-log analysis of paste event counts per submission across eight assignm
 
 
 ## Related Claims
-- [The percentage of pasted characters in coding assignments rose significantly from 61.0% in Fall 2024 to 68.1% in CS1-CR](cs1-cr-pasted-character-percentage-increase.md) — related
+- The percentage of pasted characters in coding assignments rose significantly from 61.0% in Fall 2024 to 68.1% in CS1-CR — related
 - [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](cs1-cr-effort-unchanged-despite-ai.md) — related

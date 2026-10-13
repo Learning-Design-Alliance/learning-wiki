@@ -14,7 +14,7 @@ grain_size: lesson, unit, school-wide
 # Responsive Classroom
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Responsive Classroom (RC) is a research- and evidence-based social-emotional learning (SEL) approach for K–8 classrooms developed by the Northeast Foundation for Children. It treats social skills and academic learning as inseparable: teachers use structured routines — most notably the daily [Morning Meeting](../elements/check-in.md), rule creation with students, interactive modeling, academic choice, and positive teacher language — to build a caring classroom community in which academic engagement can flourish. The approach solves the problem of treating behavior management and instruction as separate systems by embedding relationship-building and self-regulation into the same daily structures that deliver content.
@@ -52,9 +52,11 @@ Lesson-level routines (Morning Meeting, academic choice) nested within a school-
 
 ### Theory
 #### Supporting
+
 - [Self-Determination Theory](../theories/self-determination-theory.md) (Deci & Ryan) — student rule creation, academic choice, and positive teacher language support the autonomy, competence, and relatedness needs that drive intrinsic motivation
 - [Social Learning Theory](../theories/social-learning-theory.md) (Bandura) — interactive modeling teaches social and academic behaviors through observation and rehearsal rather than rules alone
 - [Constructivism](../theories/constructivism.md) — students co-construct classroom norms and learning goals rather than receiving them
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](../claims/school-success-linked-social-emotional-development.md) [+W]
 
 #### Contradicting / Qualifying
 - [Behaviorism](../theories/behaviorism.md) — RC deliberately replaces reward/punishment contingency management with logical consequences and community accountability; strict behavioral systems conflict with its teacher-language practices

@@ -44,5 +44,5 @@ The analysis examined four-year college degree attainment among Chicago students
 
 ## Related Claims
 - [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
-- [All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average](all-els-overrepresented-two-year-colleges.md) — related
-- [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related
+- All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average — related
+- Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict — related

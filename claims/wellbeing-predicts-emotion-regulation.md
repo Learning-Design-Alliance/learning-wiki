@@ -44,7 +44,7 @@ Inferential analysis of the 269-educator survey found well-being predicted emoti
 
 ## Related Claims
 - [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
-- [Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation](nslp-participation-associated-lower-growth-goal-attainment.md) — related
+- Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation — related
 - [Many teacher background characteristics showed no association with SEL skills, well-being, or school climate perceptions](teacher-background-characteristics-null-associations-sel.md) — related
-- [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — related
+- Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related

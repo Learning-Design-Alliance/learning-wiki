@@ -44,4 +44,3 @@ Drawing on the Education Trust's College Results Online tool, the report states 
 
 ## Related Claims
 
-- [Institutions serving similar students can have divergent URM outcomes: NC State raised URM graduation rates 12 points and nearly halved its gap while demographically similar Auburn saw URM rates decline and its gap grow past 20 points](similar-colleges-different-urm-outcomes.md)

@@ -62,5 +62,5 @@ The report's synthesis of prior research states NCLB "eroding programs that were
 
 
 ## Related Claims
-- [Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB](policy-terms-declined-after-essa.md) — related
+- Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB — related
 - [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — related

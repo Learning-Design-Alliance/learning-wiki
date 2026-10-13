@@ -44,8 +44,8 @@ Administrative-data analysis of displaced K-7 students reenrolled in CPS in fall
 
 ## Related Claims
 - [Student attendance is closely tied to a range of educational outcomes](attendance-tied-to-educational-outcomes.md) — related
-- [Nearly all displaced students (93 percent) enrolled in schools with higher performance policy points than their closed schools, but one-quarter attended schools lower-rated than their designated welcoming school](chicago-closings-93-percent-higher-rated-than-closed-school.md) — related
+- Nearly all displaced students (93 percent) enrolled in schools with higher performance policy points than their closed schools, but one-quarter attended schools lower-rated than their designated welcoming school — related
 - [There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school](chicago-closings-no-increase-in-families-leaving-district.md) — related
-- [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related
+- Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools — related
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](turnaround-student-composition-stable-except-restart.md) — related
 - [Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools](receiving-school-quality-moderates-closure-impacts.md) — related

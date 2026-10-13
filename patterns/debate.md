@@ -24,7 +24,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (1 for, 9 mixed, 1 against) · 20 studies (6 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (1 for, 10 mixed, 1 against) · 21 studies (6 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -95,6 +95,10 @@ Record: **resolution and intended target → starting written position → assig
 [Debate](../elements/debate.md), [structured debate](../elements/structured-debate.md), [argumentation](../elements/argumentation.md), [assigned positions](../elements/assigned-positions.md), [justification](../elements/justification.md), [role reversal](../elements/role-reversal.md), [peer discussion](../elements/peer-discussion.md), [class discussion](../elements/class-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [debrief](../elements/debrief.md). Principles the pattern draws on: [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) and [Peer Discussion](../principles/peer-discussion.md).
 
 This pattern is scoped to structured adversarial argument on a question that admits more than one defensible answer. Questions with one correct answer, topics where a pro/con frame would create a false equivalence, and goals that call for collaborative synthesis need other configurations (Structured Academic Controversy, seminar or discussion formats). The policy supports observation and design reasoning; whether debate improves individual reasoning, topic understanding or speaking more than another argument format, for which learners and at what horizon, remains to be tested.
+
+## Claims
+
+- [More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it](../claims/claim-controversial-debates-improve-discussion-prompted-accuracy.md) [~W]
 
 ## Related Patterns
 - [Socratic Seminar](socratic-seminar.md)
@@ -191,7 +195,6 @@ The pattern can take many forms, but the core features are role clarity, timed t
 #### Contradicting
 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
-- [More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it](../claims/claim-controversial-debates-improve-discussion-prompted-accuracy.md) [~W]
 
 ## Design
 

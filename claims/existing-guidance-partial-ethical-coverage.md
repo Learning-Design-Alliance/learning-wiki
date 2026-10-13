@@ -44,4 +44,4 @@ Conceptual synthesis comparing ethical-dimension coverage of FERPA, GDPR, DELICA
 
 ## Related Claims
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
-- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
+- AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap — related

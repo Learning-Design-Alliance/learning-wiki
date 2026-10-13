@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (2 design, 1 causal, 1 associational), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (3 causal, 2 design, 1 associational), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -55,6 +55,8 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](../claims/learners-prefer-incremental-hints-over-solutions.md) [+W]
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed.md) [~W]
 - [Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback](../claims/advanced-students-attempt-reduction-novices-not.md) [~W]
+- [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](../claims/condition-subject-main-effects-no-interaction.md) [~W]
+- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md)

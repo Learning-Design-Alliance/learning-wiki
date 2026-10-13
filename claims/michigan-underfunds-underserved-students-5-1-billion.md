@@ -45,7 +45,6 @@ The brief's opening analysis by The Education Trust-Midwest estimates that "Mich
 ## Related Claims
 
 - [Michigan ranks 20th of 28 similar-formula states for its low-income funding weight and 26th of 31 for English Learner funding](michigan-ranks-near-bottom-low-income-and-el-funding-weights.md) — a narrower finding that bears on this claim
-- [Michigan has one of the highest rates of concentrated poverty nationwide, with 37% of low-income students in high-poverty districts, yet allocates no additional funds for district poverty concentration](michigan-concentrated-poverty-no-concentration-weighting.md) — related
+- Michigan has one of the highest rates of concentrated poverty nationwide, with 37% of low-income students in high-poverty districts, yet allocates no additional funds for district poverty concentration — related
 - [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](michigan-low-income-weight-11-5-percent-loophole.md) — a narrower finding that bears on this claim
 - [Michigan provides the lowest English Learner funding weight among weighting states, allocating about 1% to 11% more versus research recommending at least twice as much](michigan-english-learner-funding-lowest.md) — a narrower finding that bears on this claim
-- [Michigan is one of only sixteen states providing less state and local funding to its highest-poverty districts than to its lowest-poverty districts](michigan-highest-poverty-districts-receive-less-funding.md)

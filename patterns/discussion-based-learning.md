@@ -24,7 +24,7 @@ grain_size: lesson
 # Discussion-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size
+> **Evidence** · 7 claims (1 for, 6 mixed) · 17 studies (4 causal, 4 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q2`–`q4` · 1 of 17 report an effect size · 3 claims rest on one study
 
 ## Description
 Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone. Learners make claims, test interpretations, compare perspectives, and refine ideas through dialogue guided by prompts, norms, and facilitation moves.
@@ -79,9 +79,13 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 - Some learners need preparation scaffolds or alternative participation routes to engage equitably.
 
 ### Claims
+
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
+- [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](../claims/ai-agent-validation-rate-within-human-range.md) [~W]
+- [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](../claims/human-ai-discourse-functional-differences.md) [~W]
 
 ## Design
 
@@ -179,8 +183,6 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 #### Contradicting
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
-- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
-- [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](../claims/ai-agent-validation-rate-within-human-range.md) [~W]
 
 ## Design
 

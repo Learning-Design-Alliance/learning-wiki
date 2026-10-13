@@ -23,7 +23,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (16 for, 14 mixed, 1 against) · 41 studies (11 causal, 9 quant-synthesis, 7 theoretical, 6 review, 3 associational, 3 qualitative, 2 design), `q1`–`q4` · 9 of 41 report an effect size · 23 claims rest on one study
+> **Evidence** · 49 claims (23 for, 24 mixed, 2 against) · 58 studies (13 causal, 13 review, 11 quant-synthesis, 9 theoretical, 6 associational, 4 qualitative, 2 design), `q1`–`q4` · 11 of 58 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,27 @@ Do not protect the model by calling every failure "poor implementation" after th
 
 Access, use, assisted success, unaided immediate performance, delayed retention and transfer are separate outcomes. The present evidence establishes no dose of digital practice, no threshold for moving on, and no effect of the medium itself.
 
+## Claims
+
+- [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](../claims/adult-ed-out-of-class-use-mobile-gap.md) [~W]
+- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [~W]
+- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [~W]
+- [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
+- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt-access-supported-practice-poorer-unaided-test.md) [~W]
+- [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](../claims/adaptive-learning-gains-15-25-percent.md) [~W]
+- [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)](../claims/ai-adaptive-learning-medium-large-effects-reviewed.md) [+M]
+- [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](../claims/genai-access-raises-immediate-test-scores.md) [~W]
+- [A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)](../claims/genai-learning-gain-persists-one-week.md) [~W]
+- [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](../claims/genai-feedback-weaknesses-realtime-and-errors.md) [~W]
+- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](../claims/guarded-ai-placement-prevents-unaided-exam-harm.md) [+W]
+- [In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course](../claims/genai-chat-tutor-rct-physics-improved-performance.md) [+W]
+- [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](../claims/post-test-decline-after-ai-tutor-session.md) [-W]
+- [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](../claims/multiple-scaffolds-dls-achievement-srl.md) [+W]
+- [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](../claims/ngcc-impact-moderators-context.md) [~W]
+- [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
+- [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
+
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
 - [Learner Choice](autonomy.md) — platforms can support alternative pathways, modalities, and pacing
@@ -232,12 +253,6 @@ Digital learning matters when technology changes what learners can access, rehea
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — digital systems are often most effective when they make progress visible and usable for learner adjustment
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — adaptive hints, feedback, and platform supports can help when they respond to learner performance rather than staying generic
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — digital tools that prompt explanation, annotation, or reasoning can outperform passive content delivery
-- [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](../claims/adult-ed-out-of-class-use-mobile-gap.md) [~W]
-- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](../claims/avatar-social-presence-increases-tutor-engagement.md) [~W]
-- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](../claims/computer-based-scaffolding-positive-cognitive-outcomes-stem.md) [~W]
-- [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](../claims/llms-scalable-personalized-feedback-large-courses.md) [+W]
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
-- [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](../claims/gpt-access-supported-practice-poorer-unaided-test.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

@@ -13,7 +13,7 @@ generated:
 # Problem-Solving Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 5 studies (2 causal, 2 theoretical, 1 review), `q1`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 8 studies (3 causal, 3 review, 2 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Problem-solving tasks are structured activities in which learners must apply knowledge to reach a goal state that is not directly given — diagnosing a fault, designing a solution, or deciding among alternatives. Unlike routine exercises, they require learners to select and coordinate strategies, making them the primary vehicle for developing analytical reasoning and transferable skill.
@@ -53,7 +53,9 @@ Well-designed problem-solving tasks sit at the right point on the guidance spect
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](../claims/computer-based-simulations-assess-inquiry-skills.md) [+W]
+- [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](../claims/problem-based-principal-preparation-self-efficacy.md) [+W]
+- [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
 
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — a problem-solving task anchored in a rich, realistic case narrative

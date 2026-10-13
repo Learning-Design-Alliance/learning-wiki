@@ -43,5 +43,5 @@ Survey and interview findings on support sources (Figure 3 and accompanying text
 
 
 ## Related Claims
-- [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related
-- [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
+- Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers — related
+- Principals are generally more positive about TPE than teachers, but perception gaps are narrowing — related

@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 9 studies (4 associational, 3 qualitative, 1 causal, 1 review), `q2` · 1 of 9 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (11 for, 3 mixed) · 11 studies (4 associational, 3 qualitative, 2 design, 1 causal, 1 review), `q1`–`q2` · 1 of 11 report an effect size · 14 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.
@@ -61,6 +61,9 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 - [Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS](../claims/ccss-teacher-collaboration-grade-level-teams-observations.md) [+W]
 - [Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation](../claims/coaching-partnership-voluntary-non-evaluative.md) [~W]
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](../claims/informal-pd-more-satisfying-than-in-service.md) [+W]
+- [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](../claims/math-expertise-coaches-associated-greater-gains.md) [+W]
+- [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](../claims/collaborative-planning-time-top-micro-credential-support.md) [~W]
+- [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
 
 ## Related Principles
 

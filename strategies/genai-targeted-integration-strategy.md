@@ -17,7 +17,7 @@ sources:
 # Integrate Gen-AI as a targeted instructional tool using medium-to-long-term (8–16 week) interventions, phased scaffolding, and guided prompts rather than direct answers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on its findings, the study proposes that Gen-AI "should be systematically integrated as a targeted instructional tool to foster HOT", with medium- to long-term interventions of 8–16 weeks recommended. To mitigate risks of long-term use, the authors recommend phased scaffolding in which AI support is systematically faded, and guided Gen-AI interaction using carefully designed prompts that steer the tool toward providing conceptual frameworks or reasoning processes rather than direct answers. They also recommend professional development for educators on integrating Gen-AI into instructional design.
@@ -40,6 +40,10 @@ Based on its findings, the study proposes that Gen-AI "should be systematically 
 - problem-solving ability
 - critical thinking
 - self-regulated learning
+
+## Claims
+
+- [The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones](../claims/ai-intervention-duration-effect-size-trend.md) [+W]
 
 ## Related Strategies
 

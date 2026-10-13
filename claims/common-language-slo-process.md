@@ -45,7 +45,7 @@ Statewide survey results across all 24 local school districts (19,022 respondent
 ## Related Claims
 - [Educators who participated in TPE-related training agree more with positive statements about TPE than those without training or information](tpe-training-linked-to-more-positive-educator-perceptions.md) — related
 - [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related
-- [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
+- Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items — related
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — related
-- [Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked](maryland-tpe-four-year-perception-gains.md) — related
-- [Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile](slo-support-district-quartile-gap.md) — related
+- Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked — related
+- Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile — related

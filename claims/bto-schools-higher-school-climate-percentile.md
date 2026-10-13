@@ -43,8 +43,8 @@ Comparative analysis of School Climate Index scores across 1,715 California midd
 
 
 ## Related Claims
-- [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](bto-cu-climate-gap-twice-as-large.md) — related
+- The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools — related
 - [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](bto-schools-more-positive-school-climates.md) — possibly the same claim (merge candidate)
-- [The climate advantage of beating-the-odds schools persists after controlling for student demographics, school size, and personnel resources](climate-gap-persists-with-controls.md) — related
-- [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — related
+- The climate advantage of beating-the-odds schools persists after controlling for student demographics, school size, and personnel resources — related
+- School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools — related
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — related

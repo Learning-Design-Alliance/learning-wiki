@@ -13,7 +13,7 @@ generated:
 # Optional Quizzes or Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (5 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 15 studies (5 quant-synthesis, 3 review, 3 design, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Optional quizzes and discussion sections are supplementary, typically ungraded or low-stakes activities that let learners rehearse and consolidate course content outside required assessments. Quizzes enact [retrieval practice](../principles/retrieval-practice.md); discussion sections add social elaboration and instructor feedback. Because they are optional, their effectiveness depends heavily on whether learners actually choose to use them.
@@ -54,6 +54,9 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+W]
+- [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](../claims/high-but-heterogeneous-voluntary-ai-discussion-uptake.md) [~W]
+- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](../claims/genai-practice-platform-uptake-230-submissions.md) [~W]
+- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [-W]
 
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the feedback function these activities serve; without feedback they are practice without correction

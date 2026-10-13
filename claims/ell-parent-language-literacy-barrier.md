@@ -43,6 +43,6 @@ The brief identifies parent communication as a barrier: parents "may have limite
 
 
 ## Related Claims
-- [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](ell-mll-remote-support-challenges.md) — related
+- Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges — related
 - [Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement](ell-parent-schooling-history-barrier.md) — related
-- [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
+- ELL parents generally place a high value on their children's education — related

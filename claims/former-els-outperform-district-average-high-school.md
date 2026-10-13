@@ -43,7 +43,7 @@ Descriptive analysis of three CPS cohorts (78,507 first-time ninth-graders, 2014
 
 
 ## Related Claims
-- [Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)](cps-former-els-graduate-higher-than-never-els.md) — related
+- Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%) — related
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related
 - [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](el-college-persistence-varies-by-subgroup.md) — related
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related

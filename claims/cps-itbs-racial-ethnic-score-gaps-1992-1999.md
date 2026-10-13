@@ -81,24 +81,24 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 
 
 ## Related Claims
-- [The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates](cps-african-american-test-score-gap-widened-1990s.md) — related
+- The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
-- [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — related
-- [When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts](within-race-comparison-erases-cps-gaps.md) — related
+- No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000 — related
+- When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts — related
 - [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](act-score-gaps-by-race-at-same-gpa.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
-- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
-- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry — related
+- Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates — related
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
-- [AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group](ai-an-teacher-quality-access-gap.md) — related
-- [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
+- AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group — related
+- Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students — related
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related
-- [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — a narrower finding that bears on this claim
+- Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district — a narrower finding that bears on this claim
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
-- [Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers](black-latino-low-ses-lower-advanced-math-course-taking.md) — related
-- [Even among high-achieving students in schools offering advanced math, Black, Latino, and low-SES students took AP/IB calculus at far lower rates than Asian, White, and high-SES peers](high-achievers-ap-ib-calculus-access-gap.md) — related
-- [High-achieving Black and Latino and low-income students who pass Algebra I in eighth grade still take advanced high school math at lower rates than their peers](algebra-i-passers-advanced-math-disparity.md) — related
+- Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers — related
+- Even among high-achieving students in schools offering advanced math, Black, Latino, and low-SES students took AP/IB calculus at far lower rates than Asian, White, and high-SES peers — related
+- High-achieving Black and Latino and low-income students who pass Algebra I in eighth grade still take advanced high school math at lower rates than their peers — related
 - [Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework](pell-adjustment-narrows-pep-gaps.md) — related
-- [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related
+- NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017 — related

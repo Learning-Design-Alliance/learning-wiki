@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 27 studies (10 causal, 7 quant-synthesis, 5 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 27 report an effect size · 3 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 28 studies (10 causal, 7 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 9 of 28 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,10 @@ The expectation should weaken if studies with the device held constant find that
 
 Note completeness, note accuracy, immediate performance, delayed retention, transfer and use in the task the learner cares about are separate claims. The present evidence establishes no blank density, pause interval, review delay or hand-over criterion for note-taking.
 
+## Claims
+
+- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
+
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.
 - [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — guided notes and visual cues can improve note quality.
@@ -213,7 +217,6 @@ Note-taking helps when it turns attention into an organized external record rath
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — structured notes help by externalizing and organizing information that would otherwise compete for working memory
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — note-taking supports learners in noticing what they understand, what they missed, and what they need next
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — notes become more powerful when they transform information through summary, connection, or question rather than copying
-- [Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

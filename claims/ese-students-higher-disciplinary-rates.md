@@ -44,4 +44,4 @@ Descriptive comparison of disciplinary acts by ESE program status in the distric
 
 ## Related Claims
 - [English Language Learners had significantly fewer disciplinary acts than non-ELL students](ell-students-fewer-disciplinary-acts.md) — related
-- [Male students received significantly higher rates of suspensions and referrals than female students](male-students-higher-discipline-rates-elementary.md) — related
+- Male students received significantly higher rates of suspensions and referrals than female students — related

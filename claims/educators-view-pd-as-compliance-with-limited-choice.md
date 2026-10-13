@@ -44,4 +44,4 @@ The report cites the 2015 Gates Foundation report “Teachers Know Best: Teacher
 
 ## Related Claims
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
-- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
+- American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities — related

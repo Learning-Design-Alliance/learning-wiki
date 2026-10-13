@@ -45,8 +45,8 @@ The report's research review, citing Diamond (2001), Odom et al. (2004), Kwon et
 
 ## Related Claims
 - [Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students](formal-early-childhood-experience-reduces-risk.md) — related
-- [Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district](multidistrict-selpas-without-large-district-higher-funding-inclusion.md) — related
-- [Among small districts in multidistrict SELPAs, membership in a SELPA without a large district was associated with higher preK inclusion but lower K–12 inclusion](small-districts-mixed-inclusion-by-selpa-composition.md) — related
+- Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district — related
+- Among small districts in multidistrict SELPAs, membership in a SELPA without a large district was associated with higher preK inclusion but lower K–12 inclusion — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — related
 - [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related

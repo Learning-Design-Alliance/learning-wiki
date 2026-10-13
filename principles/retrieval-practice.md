@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (9 for, 10 mixed, 1 against, 1 unmarked) · 13 studies (6 quant-synthesis, 5 causal, 2 review), `q2`–`q4` · 9 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 49 claims (24 for, 23 mixed, 1 against, 1 unmarked) · 22 studies (8 quant-synthesis, 7 causal, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,37 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - **Tested with:** evidence reported second-hand in one review chapter (Karpicke 2017).
 - **Not settled:** whether retrieval practice works for material high in element interactivity is contested — one study found effects with randomly ordered but not intact text, another found them for both — [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](../claims/whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) [~M].
 
+## Claims
+
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
+- [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
+- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
+- [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
+- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
+- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
+- [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [~W]
+- [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](../claims/llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) [~W]
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
+- [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](../claims/retrieval-practice-benefits-persist-six-to-nine-months.md) [+W]
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](../claims/retrieval-format-by-levels-of-thinking-interaction-not-significant.md) [~W]
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
+- [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
+- [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](../claims/retrieval-format-by-retention-interval-interaction-not-significant.md) [~W]
+- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
+- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
+- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
+- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](../claims/retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) [~W]
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
+- [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
+- [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
+- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
+- [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [~M]
+- [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/corrective-feedback-boosts-classroom-testing-effect.md) [+W]
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/offloading-to-ai-costs-learning.md) [+W]
+- [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
+
 ## Related Principles
 - [Spaced Learning](spaced-learning.md)
 - [Immediate Feedback](immediate-feedback.md)
@@ -205,29 +236,6 @@ Retrieval practice works because the act of remembering strengthens future acces
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 4 studies (3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 4 report an effect size · 4 claims rest on one study
-- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
-- [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
-- [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](../claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) [~W]
-- [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
-- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [+W]
-- [Repeated successful retrieval during learning predicted final recall in both experiments](../claims/repeated-retrieval-success-predicts-final-recall.md) [+W]
-- [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [~W]
-- [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](../claims/llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) [~W]
-- [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
-- [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](../claims/retrieval-practice-benefits-persist-six-to-nine-months.md) [+W]
-- [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](../claims/retrieval-format-by-levels-of-thinking-interaction-not-significant.md) [~W]
-- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](../claims/retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) [~W]
-- [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](../claims/retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) [+W]
-- [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](../claims/retrieval-format-by-retention-interval-interaction-not-significant.md) [~W]
-- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](../claims/retrieval-practice-enhances-learning-applied-settings.md) [+W]
-- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [+W]
-- [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](../claims/retrieval-practice-improves-final-inference-and-transfer-questions.md) [~W]
-- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](../claims/retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) [~W]
-- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
-- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
-- [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
-- [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
-- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
 
 ## Description
 The chapter's common theme across manipulations of initial retrieval practice: "Conditions that provide less retrieval support and require more effort from the learner tend to produce greater gains in learning, as long as learners can successfully retrieve material". Spacing, fewer cues, and recall formats add effort, while learning to criterion or feedback can protect success.

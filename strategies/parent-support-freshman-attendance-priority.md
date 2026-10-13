@@ -17,7 +17,7 @@ sources:
 # Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends three concrete parent actions for the freshman year: reinforcing on-time attendance and no class cutting, talking with teachers when grades start to fall, and making academics the top priority including studying instead of socializing before big tests. It grounds these in its findings that "Even occasional skipping leads to dramatically lower grades" and that "students do better in their courses when they trust their teachers and count on them for support."
@@ -37,6 +37,10 @@ The brief recommends three concrete parent actions for the freshman year: reinfo
 - on-time graduation from high school
 - passing freshman courses
 - college readiness
+
+## Claims
+
+- [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](../claims/low-freshman-absence-high-graduation.md) [+W]
 
 ## Related Strategies
 

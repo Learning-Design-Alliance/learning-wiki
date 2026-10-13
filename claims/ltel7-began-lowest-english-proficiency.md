@@ -43,12 +43,12 @@ Analysis of CELDT data for students designated LTEL7 in 2022–23, all of whom b
 
 
 ## Related Claims
-- [Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)](boys-disproportionately-represented-ltel7-california.md) — related
-- [Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs. 83.5% of other ever-ELs)](ltel7-less-likely-seal-biliteracy-schools.md) — related
-- [Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)](ses-disadvantage-more-prevalent-ltel7.md) — related
-- [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related
-- [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs) — related
+- Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs. 83.5% of other ever-ELs) — related
+- Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%) — related
+- Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%) — related
+- Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers — related
 - [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](ltel7-caaspp-performance-gaps.md) — related
 - [Improvements in English proficiency acquisition occurred across all initial proficiency levels but were largest for students with the lowest initial scores, though large gaps remained by end of elementary school](proficiency-gains-by-initial-level.md) — related
-- [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — related
-- [Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten](ltel7-kindergarten-start-declines-by-grade.md) — related
+- Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers — related
+- Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten — related

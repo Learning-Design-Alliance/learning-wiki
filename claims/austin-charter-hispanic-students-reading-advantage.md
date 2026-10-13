@@ -47,4 +47,4 @@ Subgroup analysis of Hispanic students' growth for SY 2018-19, comparing Austin 
 - [Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage](austin-charter-poverty-students-outperform-district-peers.md) — related
 - [Austin charter schools outperformed Austin district schools in reading growth but not significantly in math](austin-charter-vs-district-growth-2018-19.md) — a broader claim this one bears on
 - [Austin CMO-affiliated charters outperformed independent Austin charters in both subjects](austin-cmo-vs-independent-charter-growth.md) — related
-- [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
+- Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth — related

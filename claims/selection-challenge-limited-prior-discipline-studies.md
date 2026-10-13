@@ -44,5 +44,5 @@ The abstract's methodological framing: the authors state their fight-pair compar
 
 ## Related Claims
 - [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](fight-pairs-black-poor-punished-more-harshly.md) — related
-- [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — related
-- [The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities](implicit-bias-possible-discipline-disparities.md) — related
+- Black and poor students are suspended from US schools at higher rates than White and nonpoor students — related
+- The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities — related

@@ -43,5 +43,5 @@ Project self-assessment of an initial needs assessment conducted by New Careers,
 
 
 ## Related Claims
-- [Region II local ABE directors assigned lower priority to inservice education than the national sample](region-ii-directors-lower-inservice-priority.md) — related
-- [Region II directors prioritized ESL classes higher and vocational counseling, job placement, and several other practices lower than the national sample](region-ii-directors-esl-higher-other-practices-lower.md) — related
+- Region II local ABE directors assigned lower priority to inservice education than the national sample — related
+- Region II directors prioritized ESL classes higher and vocational counseling, job placement, and several other practices lower than the national sample — related

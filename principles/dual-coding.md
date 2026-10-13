@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 28 studies (10 review, 9 causal, 8 quant-synthesis, 1 associational), `q1`–`q4` · 9 of 28 report an effect size · 6 claims rest on one study
+> **Evidence** · 17 claims (10 for, 5 mixed, 2 against) · 30 studies (10 review, 9 causal, 8 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 10 of 30 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,11 @@ The expectation should weaken if comparisons with comparable learners and aligne
 
 Comprehension while the visual is in view, recall a week later, transfer to a new problem and use in the setting the learner values are separate claims. The present evidence establishes no number of visuals per lesson, no length of drawing activity and no criterion for moving from supplied to learner-made visuals.
 
+## Claims
+
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](../claims/multiple-representations-aid-understanding-faculty-time.md) [+W]
+- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](../claims/generative-processing-principles-mayer-2008.md) [+W]
+
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)
 - [Multimedia Learning](multimedia-learning.md) — holds the presented explanation with a picture: placement, duplicated words, decoration and segmenting
@@ -187,7 +192,6 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 ### Claims
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — coordinated verbal and visual representations can reduce inferential burden and make structure easier to hold in mind
-- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](../claims/multiple-representations-aid-understanding-faculty-time.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md)

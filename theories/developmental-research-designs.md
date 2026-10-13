@@ -12,7 +12,7 @@ generated:
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.
@@ -43,6 +43,8 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 ## Claims
 
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](../claims/correlational-design-limits-epistemic-freedom-study.md) [+W]
+- [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](../claims/redshirted-cohort-third-grade-outcomes.md) [~W]
+- [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](../claims/genai-duration-related-cognitive-gains.md) [~W]
 
 ## Related Theories
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](research-design-taxonomy.md) — the general research-design taxonomy this specializes for studying change over time

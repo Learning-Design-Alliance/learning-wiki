@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 10 studies (5 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 against) · 11 studies (5 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Positive Behavioral Interventions and Supports (PBIS) is a multi-tiered framework for establishing the social culture and behavioral supports needed for all students to succeed. Rather than reacting to misbehavior with escalating punishment, schools define a small set of positively stated expectations, explicitly teach them like academic content, and consistently acknowledge students who meet them. Support is organized in three tiers: universal expectations for all students (Tier 1), targeted small-group support for students at risk (Tier 2), and individualized intensive interventions (Tier 3). The framework is implemented at the whole-school level, with teams using behavioral data (e.g., office discipline referrals) to guide decisions.
@@ -78,6 +78,7 @@ Program or whole school — PBIS is designed as a school-wide system, not a clas
 
 - None identified — though evidence for academic gains is weaker than for behavioral outcomes [~M]
 - [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](../claims/pbis-fidelity-conditions-no-difference-iss-single-oss.md) [-W]
+- [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](../claims/implementation-not-associated-most-outcomes.md) [-W]
 
 ## Design
 

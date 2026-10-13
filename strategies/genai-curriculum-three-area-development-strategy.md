@@ -17,7 +17,7 @@ sources:
 # Structure GenAI curriculum development around functionality, cross-context applications, and ethical-legal dimensions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy implements the student-identified priority areas as a planning structure for GenAI curriculum development: build student capability in "understanding and optimising GenAI functionality", provide experiences applying GenAI across varied contexts, and teach students to navigate the ethical and legal dimensions of GenAI. The article presents these three areas as what students themselves identified as priorities for development, so curriculum designers can use them as a checklist for coverage when integrating GenAI into university programs.
@@ -41,6 +41,10 @@ This strategy implements the student-identified priority areas as a planning str
 
 ### Affordances
 - Genai Curriculum Three Priority Areas Taxonomy
+
+## Claims
+
+- [Students identify exploring GenAI applications across contexts as a second priority area for curriculum development](../claims/genai-applications-across-contexts-priority.md) [+W]
 
 ## Related Strategies
 - Student Codesign Genai Curricula
