@@ -51,3 +51,4 @@ Meta-analysis of 57 independent effect sizes from 33 reports (N = 3,452) compari
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — reports the opposite
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation](modality-effect-holds-middle-school-electricity.md) — related
+- [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related

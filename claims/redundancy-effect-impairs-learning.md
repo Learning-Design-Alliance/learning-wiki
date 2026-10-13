@@ -122,3 +122,5 @@ Both subclaims currently lack Evidence entries; the classic experimental and met
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Modality effect: presenting explanatory text in spoken rather than written form with visual information increases effective working memory capacity and learning](modality-effect-spoken-text-visual-information.md) — related
 - [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — a broader claim this one bears on
+- [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-audio-with-visuals-improves-learning.md) — related

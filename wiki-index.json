@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":18365,
+"claim":18372,
 "design":714,
 "element":1080,
 "learner-variable":12,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1579,
 "research-method":421,
-"strategy":5579,
+"strategy":5580,
 "theory":1372
 },
 "kinds":[
@@ -20792,6 +20792,15 @@
 "type":"claim"
 },
 {
+"description":"Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition",
+"evidence_strength":"moderate",
+"id":"captioning-second-language-videos-large-benefits",
+"path":"claims/captioning-second-language-videos-large-benefits.md",
+"status":"draft",
+"title":"Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition",
+"type":"claim"
+},
+{
 "description":"Gold text descriptions improve VLM correctness-and-error assessment, but performance still lags other question types",
 "evidence_strength":"moderate",
 "id":"captions-improve-correctness-qa-but-lag",
@@ -32417,6 +32426,15 @@
 "type":"claim"
 },
 {
+"description":"Presenting related material contiguously in space and time yields large learning benefits",
+"evidence_strength":"moderate",
+"id":"contiguity-spatial-temporal-large-learning-benefits",
+"path":"claims/contiguity-spatial-temporal-large-learning-benefits.md",
+"status":"draft",
+"title":"Presenting related material contiguously in space and time yields large learning benefits",
+"type":"claim"
+},
+{
 "description":"Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children",
 "evidence_strength":"weak",
 "id":"contingency-reinforcement-raises-achievement",
@@ -40777,6 +40795,24 @@
 "path":"claims/design-model-differences-no-greater-than-model-model.md",
 "status":"draft",
 "title":"Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods",
+"type":"claim"
+},
+{
+"description":"Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge",
+"evidence_strength":"moderate",
+"id":"design-principle-effects-moderated-by-pacing-and-complexity",
+"path":"claims/design-principle-effects-moderated-by-pacing-and-complexity.md",
+"status":"draft",
+"title":"Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge",
+"type":"claim"
+},
+{
+"description":"Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects",
+"evidence_strength":"moderate",
+"id":"design-principles-improve-cognitive-load-management",
+"path":"claims/design-principles-improve-cognitive-load-management.md",
+"status":"draft",
+"title":"Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects",
 "type":"claim"
 },
 {
@@ -96804,6 +96840,15 @@
 "type":"claim"
 },
 {
+"description":"Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals",
+"evidence_strength":"moderate",
+"id":"modality-effect-audio-with-visuals-improves-learning",
+"path":"claims/modality-effect-audio-with-visuals-improves-learning.md",
+"status":"draft",
+"title":"Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals",
+"type":"claim"
+},
+{
 "description":"The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concr...",
 "evidence_strength":"moderate",
 "id":"modality-effect-holds-middle-school-electricity",
@@ -98620,6 +98665,15 @@
 "path":"claims/multimedia-activities-less-fun-than-instructive.md",
 "status":"draft",
 "title":"Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features",
+"type":"claim"
+},
+{
+"description":"Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles",
+"evidence_strength":"moderate",
+"id":"multimedia-design-principles-improve-learning-overall",
+"path":"claims/multimedia-design-principles-improve-learning-overall.md",
+"status":"draft",
+"title":"Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles",
 "type":"claim"
 },
 {
@@ -136066,6 +136120,15 @@
 "path":"claims/sigcse-ts-hallucinations-increased-2025-2026.md",
 "status":"draft",
 "title":"Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers",
+"type":"claim"
+},
+{
+"description":"Signaling (cueing) increases learning and reduces cognitive load in multimedia",
+"evidence_strength":"moderate",
+"id":"signaling-cueing-increases-learning",
+"path":"claims/signaling-cueing-increases-learning.md",
+"status":"draft",
+"title":"Signaling (cueing) increases learning and reduces cognitive load in multimedia",
 "type":"claim"
 },
 {
@@ -203206,6 +203269,14 @@
 "type":"strategy"
 },
 {
+"description":"The article closes by highlighting \\\"a range of evidence-based strategies that could be implemented by educators\\\", drawn from the meta-meta-analytic comparison of design principles on a common metric.",
+"id":"apply-evidence-based-multimedia-design-principles",
+"path":"strategies/apply-evidence-based-multimedia-design-principles.md",
+"status":"draft",
+"title":"Educators should apply evidence-based multimedia design principles, prioritising the largest-effect strategies",
+"type":"strategy"
+},
+{
 "description":"The review recommends using expertise reversal findings as the basis for learner-tailored design: identify the learner's prior knowledge level and select instructional techniques and procedures whose effectiveness is...",
 "id":"apply-expertise-reversal-to-adaptive-design",
 "path":"strategies/apply-expertise-reversal-to-adaptive-design.md",
@@ -259536,6 +259607,7 @@
 "capitation-declines-subjective-mild-categories":"capitation-declines-subjective-mild-categories",
 "capitation-rising-local-funding-share":"capitation-rising-local-funding-share",
 "capt-strong-segmentals-weak-prosody":"capt-strong-segmentals-weak-prosody",
+"captioning-second-language-videos-large-benefits":"captioning-second-language-videos-large-benefits",
 "captions-improve-correctness-qa-but-lag":"captions-improve-correctness-qa-but-lag",
 "carbon-per-accuracy-rewards-undertrained-models":"carbon-per-accuracy-rewards-undertrained-models",
 "carbon-saving-recognition-increases-eco-mode-selection":"carbon-saving-recognition-increases-eco-mode-selection",
@@ -260832,6 +260904,7 @@
 "contiguity-alone-fails-in-cognitive-learning":"contiguity-alone-fails-in-cognitive-learning",
 "contiguity-principle-improves-learning":"split-attention-effect-degrades-learning",
 "contiguity-principles-mayer-2008":"contiguity-principles-mayer-2008",
+"contiguity-spatial-temporal-large-learning-benefits":"contiguity-spatial-temporal-large-learning-benefits",
 "contingency-reinforcement-raises-achievement":"contingency-reinforcement-raises-achievement",
 "contingent-scaffolding-improves-learning":"contingent-scaffolding-improves-learning",
 "contingent-scaffolding-surrenders-full-answer-least":"contingent-scaffolding-surrenders-full-answer-least",
@@ -261764,6 +261837,8 @@
 "design-factors-work-through-vigilance":"design-factors-work-through-vigilance",
 "design-for-high-schools-academic-press-personalism":"design-for-high-schools-academic-press-personalism",
 "design-model-differences-no-greater-than-model-model":"design-model-differences-no-greater-than-model-model",
+"design-principle-effects-moderated-by-pacing-and-complexity":"design-principle-effects-moderated-by-pacing-and-complexity",
+"design-principles-improve-cognitive-load-management":"design-principles-improve-cognitive-load-management",
 "design-sprints-prototype-learning-strategies":"design-sprints-prototype-learning-strategies",
 "design-students-daily-weekly-genai-use":"design-students-daily-weekly-genai-use",
 "designation-wise-bloom-question-differences":"designation-wise-bloom-question-differences",
@@ -268038,6 +268113,7 @@
 "mobile-majority-search-job-opportunities":"mobile-majority-search-job-opportunities",
 "mobile-user-typology-predicts-adoption-intention":"mobile-user-typology-predicts-adoption-intention",
 "mobility-hiring-equity-closes-tqgs-5-years":"mobility-hiring-equity-closes-tqgs-5-years",
+"modality-effect-audio-with-visuals-improves-learning":"modality-effect-audio-with-visuals-improves-learning",
 "modality-effect-holds-middle-school-electricity":"modality-effect-holds-middle-school-electricity",
 "modality-effect-narration-over-text":"modality-effect-narration-over-text",
 "modality-effect-spoken-text-visual-information":"modality-effect-spoken-text-visual-information",
@@ -268242,6 +268318,7 @@
 "multilingual-learners-larger-gains-higher-tiers":"multilingual-learners-larger-gains-higher-tiers",
 "multilingual-students-critically-evaluate-ai-feedback-pairr":"multilingual-students-critically-evaluate-ai-feedback-pairr",
 "multimedia-activities-less-fun-than-instructive":"multimedia-activities-less-fun-than-instructive",
+"multimedia-design-principles-improve-learning-overall":"multimedia-design-principles-improve-learning-overall",
 "multimedia-glosses-improve-efl-vocabulary-acquisition":"multimedia-glosses-improve-efl-vocabulary-acquisition",
 "multimedia-glosses-improve-efl-vocabulary-retention":"multimedia-glosses-improve-efl-vocabulary-retention",
 "multimedia-introductory-activities-rated-more-motivating":"multimedia-introductory-activities-rated-more-motivating",
@@ -272449,6 +272526,7 @@
 "sig-schools-adopt-three-improvement-practices":"sig-schools-adopt-three-improvement-practices",
 "sig-schools-integrating-pk3-strategies-improved-achievement":"sig-schools-integrating-pk3-strategies-improved-achievement",
 "sigcse-ts-hallucinations-increased-2025-2026":"sigcse-ts-hallucinations-increased-2025-2026",
+"signaling-cueing-increases-learning":"signaling-cueing-increases-learning",
 "signaling-effect-abstract-only":"signaling-effect-abstract-only",
 "signaling-improves-learning":"signaling-improves-learning",
 "signaling-principle-increased-learning-outcomes":"signaling-principle-increased-learning-outcomes",
@@ -280534,6 +280612,7 @@
 "applications-raise-self-esteem-internal-control-reduce-perfectionism":"applications-raise-self-esteem-internal-control-reduce-perfectionism",
 "applied_science_testing":"applied_science_testing",
 "apply-cognitive-principles-simultaneously-in-curriculum-revision":"apply-cognitive-principles-simultaneously-in-curriculum-revision",
+"apply-evidence-based-multimedia-design-principles":"apply-evidence-based-multimedia-design-principles",
 "apply-expertise-reversal-to-adaptive-design":"apply-expertise-reversal-to-adaptive-design",
 "apply-goal-setting-research-to-teacher-goals":"apply-goal-setting-research-to-teacher-goals",
 "apply-kei-threshold-cohort-tracking":"apply-kei-threshold-cohort-tracking",

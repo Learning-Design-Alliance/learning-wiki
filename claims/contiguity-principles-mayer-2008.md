@@ -67,3 +67,4 @@ Controlled experiments comparing simultaneous versus successive presentation of 
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
+- [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on

@@ -91,3 +91,6 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — a narrower finding that bears on this claim
 - [Segmentation increases learning time](segmenting-increases-learning-time.md) — a narrower finding that bears on this claim
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — possibly the same claim (merge candidate)
+- [Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related
+- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) — related

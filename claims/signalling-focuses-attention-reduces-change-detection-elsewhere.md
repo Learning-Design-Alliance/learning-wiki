@@ -47,3 +47,4 @@ Small-group case study of 21 undergraduates studying a multimedia animation on c
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — a narrower finding that bears on this claim
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
 - [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
+- [Signaling (cueing) increases learning and reduces cognitive load in multimedia](signaling-cueing-increases-learning.md) — related

@@ -30762,5 +30762,81 @@
  "interleaving\tinterleaved slope-problem practice\tblocked slope-problem practice": {
   "label": "interleaved vs blocked practice",
   "treatment_is_a": true
+ },
+ "media-design\tcaptioned second-language videos\tuncaptioned second-language videos": {
+  "label": "captioned vs uncaptioned videos",
+  "treatment_is_a": true
+ },
+ "media-design\tcaptioned videos, especially second-language videos\tuncaptioned videos": {
+  "label": "captioned vs uncaptioned videos",
+  "treatment_is_a": true
+ },
+ "media-design\tmaterials presented contiguously\tmaterials presented non-contiguously": {
+  "label": "contiguous vs non-contiguous multimedia presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tmodality design\tnon-modality multimedia design": {
+  "label": "modality-based multimedia design vs non-modality multimedia design",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design interventions\tcomparison multimedia designs": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles\tcomparison multimedia designs": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in complex media\tcomparison conditions in complex media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in learner-paced media\tbaseline conditions in learner-paced media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in simple media\tcomparison conditions in simple media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia design principles in system-paced media\tbaseline conditions in system-paced media": {
+  "label": "multimedia design principles vs comparison multimedia designs",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia using audio for words alongside images\tmultimedia using text alongside images": {
+  "label": "spoken words with pictures vs written words with pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tpersonalised multimedia\tnon-personalised multimedia": {
+  "label": "personalised multimedia vs non-personalised multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaled multimedia\tunsignaled multimedia": {
+  "label": "signaled multimedia vs unsignaled multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaled or cued multimedia\tunsignaled multimedia": {
+  "label": "signaled multimedia vs unsignaled multimedia",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling cues\tno signaling cues": {
+  "label": "signaling cues vs no signaling cues",
+  "treatment_is_a": true
+ },
+ "media-design\tspatially contiguous design\tspatially distant design": {
+  "label": "spatially contiguous vs spatially distant design",
+  "treatment_is_a": true
+ },
+ "media-design\tspoken words with pictures\twritten words with pictures": {
+  "label": "spoken words with pictures vs written words with pictures",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporally contiguous presentation\ttemporally separated presentation": {
+  "label": "temporally contiguous vs temporally separated presentation",
+  "treatment_is_a": true
+ },
+ "media-design\ttemporally or spatially contiguous multimedia\tnon-contiguous multimedia": {
+  "label": "contiguous vs non-contiguous multimedia presentation",
+  "treatment_is_a": true
  }
 }
