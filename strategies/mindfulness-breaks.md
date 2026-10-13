@@ -81,7 +81,7 @@ Mindfulness breaks address the attentional and emotional preconditions for learn
 - [Active Listening](active-listening.md) — shares the attentional-focus skill base; mindfulness supports listening stamina
 - [Achievable Micro-Goals](achievable_micro-goals.md) — pairs well: a calm, focused state makes small-goal follow-through more likely
 - [Brain Breaks](brain-breaks.md) — movement-based counterparts; mindfulness breaks are the attention-focused variant
-- [Spaced Practice](spaced_practice.md) — both depend on consistent scheduling over time rather than single events
+- [Spaced Practice](spaced-practice-scheduling.md) — both depend on consistent scheduling over time rather than single events
 - [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 - [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
 
@@ -152,7 +152,7 @@ Mindfulness breaks work by reducing the interference of distracting thoughts and
 
 ## Related Strategies
 - [Brain Breaks](brain-breaks.md) — movement-based counterparts; mindfulness breaks are the attention-focused variant
-- [Spaced Practice](spaced_practice.md) — both depend on consistent scheduling over time rather than single events
+- [Spaced Practice](spaced-practice-scheduling.md) — both depend on consistent scheduling over time rather than single events
 
 ## Examples
 - **[Headspace](https://www.headspace.com)** — bite-sized guided meditations (1–5 minutes) used as class breaks; its education program provides age-banded exercises.

@@ -72,7 +72,7 @@ Peer feedback improves achievement when it is structured and criterion-reference
 - [Rubric](../elements/rubrics.md) — shared criteria that anchor critique and reduce personal judgment
 
 ## Patterns That Use This Strategy
-- [Project-Based Learning](project-based-learning.md) — critique and revision is a core design principle of Gold Standard PBL
+- [Project-Based Learning](project-based-learning-pbl.md) — critique and revision is a core design principle of Gold Standard PBL
 - [Cooperative Learning](../patterns/cooperative-learning.md) — peer feedback supplies the individual accountability within group interdependence
 - [Community of Inquiry](../principles/community-of-inquiry.md) — peer critique operationalizes the social presence and cognitive presence elements
 

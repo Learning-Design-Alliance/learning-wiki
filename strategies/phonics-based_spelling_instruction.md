@@ -32,7 +32,7 @@ Spelling instruction grounded in phoneme segmentation produces more durable word
 - English contains many irregular or "tricky" words (e.g., *said*, *one*) whose spellings cannot be fully generated from phonics; these require partial or whole-word teaching [~S]
 - Effectiveness depends heavily on learners' existing phonemic awareness; children who cannot segment sounds gain little from segmentation-based spelling routines [-M]
 - Overreliance on phonetic spelling without feedback can entrench invented spellings that later require remediation [~W]
-- Benefits diminish for older learners and for morphologically complex vocabulary, where [Morphological Instruction](morphological-instruction.md) (morphology-based teaching) is more effective [~M]
+- Benefits diminish for older learners and for morphologically complex vocabulary, where [Morphological Instruction](morphological-analysis-instruction.md) (morphology-based teaching) is more effective [~M]
 
 #### Implementation Variability
 - **Synthetic phonics approach**: learners blend and segment phonemes explicitly, spelling each sound as it is identified (e.g., [Jolly Phonics](https://www.jollylearning.co.uk))
@@ -62,7 +62,7 @@ Spelling instruction grounded in phoneme segmentation produces more durable word
 ## Related Strategies
 - [Dictation and Encoding Practice](dictation-and-encoding-practice.md) — the most common delivery routine for phonics-based spelling
 - [Word Study / Developmental Spelling](word-study-developmental-spelling.md) — extends phonics-based spelling with pattern and meaning layers
-- [Decodable Text Reading](decodable-text-reading.md) — the reading-side counterpart that recycles the same taught patterns
+- [Decodable Text Reading](decodable-text-reading-practice.md) — the reading-side counterpart that recycles the same taught patterns
 
 ## Examples
 - Guiding a child to spell *hat* by reminding them of the letters that make the sounds /h/, /a/, /t/, then having them write one letter per sound box.

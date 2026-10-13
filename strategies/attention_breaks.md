@@ -59,7 +59,7 @@ Attention breaks operationalize self-monitoring of attention, a self-regulation 
 6. Fade the external cue as the learner begins self-initiating attention checks.
 
 ## Related Strategies
-- [Self-Monitoring](self-monitoring.md) — the broader family of interventions; attention breaks are the attention-focused variant
+- [Self-Monitoring](self-monitoring-strategies.md) — the broader family of interventions; attention breaks are the attention-focused variant
 - [Check-Ins](../principles/check-ins.md) — periodic teacher–learner contact that can serve the same cueing function with social support
 
 ## Related Elements

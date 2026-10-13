@@ -39,7 +39,7 @@ Following Boyd and Myers's priority of identifying symbols critical to the learn
 
 ## Related Strategies
 
-- [Addressing Biases in the Use of Language and Symbols](addressing_biases_in_the_use_of_language_and_symbols.md)
+- [Addressing Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md)
 
 ## Examples
 -

@@ -60,7 +60,7 @@ PA instruction is one of the most consistently supported early-literacy interven
 
 - [Phonics Instruction](../strategies/phonics-instruction.md) — the natural continuation; PA without letter-sound linkage under-realizes its potential
 - [Repeated Reading](../strategies/repeated-reading.md) — builds the fluency that PA-supported decoding feeds into
-- [Vocabulary Instruction](../strategies/vocabulary-instruction.md) — ensures children are segmenting words they actually know
+- [Vocabulary Instruction](explicit-vocabulary-instruction.md) — ensures children are segmenting words they actually know
 - [Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training](pa-lessons-small-group-delivery-training.md)
 
 ## Examples

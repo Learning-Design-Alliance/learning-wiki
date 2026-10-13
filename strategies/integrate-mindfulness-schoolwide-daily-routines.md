@@ -45,9 +45,7 @@ The brief recommends schoolwide integration of mindfulness into existing routine
 
 - [Train and support educators to implement mindfulness through programs, coaching, and shared leadership](educator-training-mindfulness-implementation-supports.md)
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
-- [Self-Regulation - Mindfulness Techniques](self-regulation_-_mindfulness_techniques.md)
-- [Mindfulness Techniques for Self-Regulation](mindfulness_techniques_for_self-regulation.md)
-- [Mindfulness Techniques for Emotional Regulation](mindfulness_techniques_for_emotional_regulation.md)
+- [Self-Regulation - Mindfulness Techniques](mindfulness_techniques_for_emotional_regulation.md)
 - [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
 - [Select evidence-based mindfulness programs matched to school needs assessment data](select-evidence-based-mindfulness-programs-needs-assessment.md)
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)

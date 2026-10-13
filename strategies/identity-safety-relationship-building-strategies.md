@@ -45,7 +45,7 @@ The report recommends concrete relationship-building strategies: empathy-enhanci
 
 - [Develop Cultural Awareness](develop_cultural_awareness.md)
 - [Building a Trusting Community](building_a_trusting_community.md)
-- [Teacher Racial Identity Work](teacher_racial_identity_work.md)
+- [Teacher Racial Identity Work](racial_identity_work.md)
 - [Start with Yourself (Identity Mapping)](start-with-yourself-identity-mapping.md)
 
 ## Examples

@@ -59,7 +59,7 @@ Repeated, spaced encounters with content strengthen retention far more than a si
 
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that governs *when* multiple exposures should occur
-- [Retrieval Practice](retrieval-practice.md) — the most effective way to make each exposure active
+- [Retrieval Practice](retrieval-practice-activities.md) — the most effective way to make each exposure active
 - [Interleaving](interleaving.md) — mixing exposures to related topics so each encounter also requires discrimination
 
 ## Examples

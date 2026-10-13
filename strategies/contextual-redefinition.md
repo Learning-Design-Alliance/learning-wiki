@@ -61,7 +61,7 @@ The strategy leverages inference from context while protecting against the well-
 ## Related Strategies
 - [Frayer Model](frayer-model.md) — extends a confirmed definition into a four-quadrant concept analysis
 - [Pretesting](pretesting.md) — shares the guess-then-feedback mechanism
-- [Morphological Analysis](morphological-analysis.md) — complements contextual inference with word-part analysis
+- [Morphological Analysis](morphological-analysis-instruction.md) — complements contextual inference with word-part analysis
 
 ## Examples
 - **Before-reading vocabulary routine**: a middle-school science teacher presents "evaporate" in "The puddle evaporated, leaving only a faint ring of dust," collects student guesses, then confirms the definition before students read the water-cycle chapter.

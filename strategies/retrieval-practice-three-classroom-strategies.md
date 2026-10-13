@@ -42,7 +42,7 @@ The article describes three concrete retrieval-practice routines a math teacher 
 - [Retrieval Practice Activities](retrieval-practice-activities.md)
 - [Flashcard Drill](flashcard-drill.md)
 - [Timed Retrieval Practice](timed-retrieval-practice.md)
-- [Spaced Retrieval](spaced-retrieval.md)
+- [Spaced Retrieval](spaced-retrieval-practice.md)
 
 ## Examples
 -

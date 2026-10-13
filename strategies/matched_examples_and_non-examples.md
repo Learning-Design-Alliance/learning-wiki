@@ -60,7 +60,7 @@ Contrasting cases sharpen discrimination by making the defining attribute visibl
 
 ## Related Strategies
 - [Comparing Cases](../elements/comparing-cases.md) — the broader strategy of structured comparison; matched example/non-example pairs are its minimal form
-- [Worked Examples](worked-examples.md) — for procedural learning; pairs naturally with non-examples of common errors
+- [Worked Examples](worked-examples-first.md) — for procedural learning; pairs naturally with non-examples of common errors
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing the misconception first makes the non-example contrast meaningful
 
 ## Examples

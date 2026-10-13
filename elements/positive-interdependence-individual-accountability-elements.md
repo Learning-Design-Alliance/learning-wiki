@@ -48,7 +48,7 @@ The digest identifies the two elements that all cooperative learning advocates a
 
 ## Examples
 
-- [Cooperative Learning Activities](../strategies/cooperative_learning_activities.md)
+- [Cooperative Learning Activities](../strategies/cooperative-learning.md)
 - [Establishing Group Roles](../strategies/establish-group-roles.md)
 
 ## Key Sources

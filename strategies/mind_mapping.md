@@ -49,7 +49,7 @@ Mind mapping's learning benefit comes primarily from the *generative processing*
 - Knowledge organization: building hierarchical and associative structure across a body of content
 - Conceptual understanding: identifying relationships, overlaps, and gaps between ideas [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Brainstorming and planning: generating and structuring ideas before writing or project work
-- Not well suited to: verbatim retention or fluent recall — use [Spaced Retrieval](../strategies/spaced-retrieval.md) instead [-S]
+- Not well suited to: verbatim retention or fluent recall — use [Spaced Retrieval](spaced-retrieval-practice.md) instead [-S]
 
 ### Instructions
 1. Present the central concept and model the process with a brief worked map, narrating *why* each branch is placed where it is ([Provide Guidance](../elements/provide-guidance.md))
@@ -61,7 +61,7 @@ Mind mapping's learning benefit comes primarily from the *generative processing*
 - [Concept Mapping](../elements/concept-mapping.md) — the more constrained, proposition-labeled variant; research evidence is strongest for this form
 - [Outlining](outlining.md) — the linear alternative; mind maps trade linear sequence for visible association
 - [Brainstorming](brainstorming.md) — mind mapping structures the output of a brainstorming phase
-- [Retrieval Practice](retrieval-practice.md) — the stronger alternative when the goal is durable retention rather than organization
+- [Retrieval Practice](retrieval-practice-activities.md) — the stronger alternative when the goal is durable retention rather than organization
 
 ## Examples
 - **[MindMeister](https://www.mindmeister.com)** — collaborative web-based mind mapping with real-time co-editing and export to text outlines; used for team planning and lecture note structuring.

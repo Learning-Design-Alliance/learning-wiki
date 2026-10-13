@@ -41,7 +41,7 @@ The article presents web literacies — the abilities to utilize the Web for per
 
 ## Related Strategies
 
-- [Four Moves and a Habit](four_moves_and_a_habit.md)
+- [Four Moves and a Habit](four_moves.md)
 - [Direct Instruction Web Based Reading Strategies](direct_instruction-web-based_reading_strategies.md)
 
 ## Examples

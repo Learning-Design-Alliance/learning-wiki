@@ -59,7 +59,7 @@ Tier Two words offer the highest instructional yield because they are frequent e
 
 ## Related Strategies
 
-- [Morphological Analysis](../strategies/morphological-analysis.md) — extends each taught word into a family, multiplying vocabulary yield
+- [Morphological Analysis](morphological-analysis-instruction.md) — extends each taught word into a family, multiplying vocabulary yield
 - [Pre-teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — a lighter-weight variant used to clear comprehension barriers before reading
 - [Frayer Model](../strategies/frayer-model.md) — a graphic organizer for defining, exemplifying, and contrasting a word
 - [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)

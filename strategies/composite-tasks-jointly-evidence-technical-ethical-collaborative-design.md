@@ -42,8 +42,7 @@ The review's instructional implication is that STEAM instruction should move bey
 ## Related Strategies
 
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
-- [Multimodal Composition Projects](multimodal_composition_projects.md)
-- [Multimodal Composition](multimodal_composition.md)
+- [Multimodal Composition Projects](composition_projects-multimodal.md)
 
 ## Examples
 -

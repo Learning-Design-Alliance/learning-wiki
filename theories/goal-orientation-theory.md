@@ -72,7 +72,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
-- [Standards/Mastery-Based Grading](../strategies/standards-mastery-based-grading.md)
+- [Standards/Mastery-Based Grading](../strategies/standards-based-grading.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (1984). *Goal setting: A motivational technique that works!* Prentice Hall.

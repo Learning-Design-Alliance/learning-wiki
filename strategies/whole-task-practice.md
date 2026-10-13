@@ -59,7 +59,7 @@ Whole task practice supports schema construction by letting learners experience 
 
 ## Related Strategies
 - [Part-Task Practice](../elements/part-task-practice.md) — the complementary strategy for automating subskills; whole task practice provides integration, part-task practice provides fluency
-- [Worked Examples](worked-examples.md) — a low-load way to expose learners to whole tasks before independent performance
+- [Worked Examples](worked-examples-first.md) — a low-load way to expose learners to whole tasks before independent performance
 - [Case-Based Learning](case-based-learning.md) — whole-task practice applied to ill-structured, case-anchored domains
 
 ## Examples

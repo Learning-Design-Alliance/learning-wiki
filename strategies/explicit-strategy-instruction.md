@@ -81,7 +81,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 - [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical strategy-instruction program for reading comprehension
 - [Self-Explanation](../elements/self-explanation.md) — a strategy that can itself be explicitly taught
-- [Worked Examples](worked-examples.md) — a modeling format often used to demonstrate strategies
+- [Worked Examples](worked-examples-first.md) — a modeling format often used to demonstrate strategies
 
 ## Examples
 - **Reciprocal teaching of reading** (Palincsar & Brown, 1984): seventh graders taught summarizing, questioning, clarifying, and predicting through teacher modeling followed by student-led group dialogue; comprehension gains of roughly two standard deviations over controls.
@@ -154,7 +154,7 @@ Strategy instruction works because it converts tacit expert procedures into teac
 ## Related Strategies
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical strategy-instruction program for reading comprehension
 - [Self-Explanation](../elements/self-explanation.md) — a strategy that can itself be explicitly taught
-- [Worked Examples](worked-examples.md) — a modeling format often used to demonstrate strategies
+- [Worked Examples](worked-examples-first.md) — a modeling format often used to demonstrate strategies
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown, 1984): seventh-grade struggling readers, taught summarizing, questioning, clarifying, and predicting through teacher modeling followed by student-led group practice, gained up to two years in comprehension over ~20 sessions.

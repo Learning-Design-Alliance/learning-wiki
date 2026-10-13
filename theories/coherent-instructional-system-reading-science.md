@@ -56,7 +56,6 @@ The page describes a research brief that "examines the practices and conditions 
 
 - [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](../strategies/coherent-instructional-system-model-for-leaders.md)
 - [Adapt a practical model of a coherent instructional system for reading and science improvement](../strategies/coherent-instructional-system-model-reading-science.md)
-- [Coherent instructional system model for reading and science improvement](../strategies/coherent-instructional-system-reading-science-model.md)
 
 ## Key Sources
 - NWEA Research publications listing page. (2026). https://www.nwea.org/research/
@@ -99,7 +98,7 @@ NWEA's 2026 brief "The Power of Connectedness" offers "a practical model that le
 
 - [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](../strategies/coherent-instructional-system-model-for-leaders.md)
 - [Adapt a practical model of a coherent instructional system for reading and science improvement](../strategies/coherent-instructional-system-model-reading-science.md)
-- [Coherent instructional system model for reading and science improvement](../strategies/coherent-instructional-system-reading-science-model.md)
+- [Coherent instructional system model for reading and science improvement](../strategies/coherent-instructional-system-model-reading-science.md)
 
 ## Key Sources
 - NWEA Research. (2026). NWEA Research — Publications listing page. https://www.nwea.org/research/

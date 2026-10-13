@@ -204,7 +204,7 @@ Structured critique converts the diffuse social risk of "peer feedback" into a b
 
 ## Patterns That Use This Strategy
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md) — critique protocols operationalize peer evaluation with structure
-- [Project-Based Learning](project-based-learning.md) — critique and revision cycles are a core PBL design feature
+- [Project-Based Learning](project-based-learning-pbl.md) — critique and revision cycles are a core PBL design feature
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — critique enacts the "articulation" and "reflection" methods
 
 ## Examples

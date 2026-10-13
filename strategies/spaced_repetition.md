@@ -59,7 +59,7 @@ Spacing exploits the fact that some forgetting between encounters makes retrieva
 6. Keep reviews low-stakes and brief; spacing works best as frequent, short encounters rather than long cram sessions.
 
 ## Related Strategies
-- [Retrieval Practice](retrieval-practice.md) — the activity that makes each spaced encounter effective; spacing without retrieval is far weaker
+- [Retrieval Practice](retrieval-practice-activities.md) — the activity that makes each spaced encounter effective; spacing without retrieval is far weaker
 - [Interleaving](interleaving.md) — mixes item types within and across sessions; combines naturally with spacing schedules
 - [Cumulative Quizzing](cumulative-quizzing.md) — a course-level mechanism for delivering spaced retrieval at scale
 

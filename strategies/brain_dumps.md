@@ -37,7 +37,7 @@ Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at n
 - **Pre-instruction dump** — surfaces prior knowledge and misconceptions before new content ([Activation](../elements/activation.md))
 - **Post-lecture dump** — consolidation and formative check; compare against notes to identify gaps
 - **Collaborative dump** — individuals dump, then pairs merge lists and research what neither recalled
-- **Cumulative dump** — periodic dumps covering everything so far, adding [Spaced Retrieval](spaced-retrieval.md) benefits
+- **Cumulative dump** — periodic dumps covering everything so far, adding [Spaced Retrieval](spaced-retrieval-practice.md) benefits
 - **Non-written variants** — diagramming, listing aloud, or sketchnoting for learners whose writing is a bottleneck
 
 ### Target Learners
@@ -59,10 +59,10 @@ Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at n
 
 ## Related Strategies
 
-- [Spaced Retrieval](spaced-retrieval.md) — distributing brain dumps over time multiplies the retention benefit
+- [Spaced Retrieval](spaced-retrieval-practice.md) — distributing brain dumps over time multiplies the retention benefit
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a pre-instruction brain dump is one concrete way to do this
 - [Exit Tickets](exit-ticket.md) — a brief, structured post-lesson variant of the same retrieval mechanism
-- [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
+- [Retrieval Practice With Graphic Organizers](graphic_organizers_for_retrieval_practice.md)
 
 ## Related Elements
 - [Summarization and Synthesis](../elements/summarization-and-synthesis.md) — a brain dump is free-recall summarization without the source in view

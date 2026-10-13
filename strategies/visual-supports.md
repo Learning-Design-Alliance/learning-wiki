@@ -58,7 +58,7 @@ Well-designed visuals improve learning because presenting words and correspondin
 5. Have learners generate or complete visuals themselves ([Annotating](../principles/annotating.md), concept mapping) to deepen processing.
 
 ## Related Strategies
-- [Advance Organizers](../strategies/advance_organizers.md) — a visual framework presented before instruction to orient learners
+- [Advance Organizers](use-advance-organizers.md) — a visual framework presented before instruction to orient learners
 - [Chunking](../principles/chunking.md) — visual grouping is one way to implement chunking of complex material
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — visuals often serve as the hook that surfaces relevant prior knowledge
 

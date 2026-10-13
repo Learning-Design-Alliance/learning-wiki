@@ -94,7 +94,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 ## Related Strategies
 
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the specific verbalization technique that makes modeling effective
-- [Use Worked Examples](use_worked_examples.md) — the problem-solving analogue: a completed solution with reasoning as the model
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: a completed solution with reasoning as the model
 - [activating-prior-knowledge](activating-prior-knowledge.md) — front-loads the knowledge that makes a model comprehensible
 - Gradual release of responsibility ("I do, we do, you do") — the instructional frame that sequences modeling, guided practice, and independence [Fisher & Frey, 2011]
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)

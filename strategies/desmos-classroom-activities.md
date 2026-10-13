@@ -60,7 +60,7 @@ The strategy's core mechanism is making student thinking collectively visible: b
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the pause-and-discuss moments within an activity enact the same structure
 - [Peer Instruction](peer-instruction.md) — dashboard-revealed response distributions serve the same function as clicker votes
-- [Worked Examples](worked-examples.md) — some Desmos screens present annotated solutions before student attempts
+- [Worked Examples](worked-examples-first.md) — some Desmos screens present annotated solutions before student attempts
 
 ## Examples
 - **[Polygraph: Parabolas](https://teacher.desmos.com/polygraph)** — a paired guessing game where students ask questions to identify a graph, forcing precise vocabulary use; the teacher dashboard reveals which vocabulary gaps block progress.

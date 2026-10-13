@@ -44,7 +44,6 @@ This strategy has teachers work with a Data-Informed Growth Coach to design "a c
 ## Related Strategies
 
 - [Micro Credentials And Badging](micro-credentials-and-badging.md)
-- [Micro Credentials](micro-credentials.md)
 - [Badges](badges.md)
 
 ## Examples

@@ -43,7 +43,7 @@ Teachers created sentence frames matched to each phase's language function to re
 - [Scaffold Structure and Function](scaffold_structure_and_function.md)
 - [Word Walls](word-walls.md)
 - [Sentence Frames And Starters](sentence-frames-and-starters.md)
-- [Pre-Writing with Graphic Organizers](pre-writing_with_graphic_organizers.md)
+- [Pre-Writing with Graphic Organizers](graphic_organizers_for_pre-writing.md)
 
 ## Examples
 -

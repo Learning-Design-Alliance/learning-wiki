@@ -59,7 +59,7 @@ Analogies work because they activate relevant prior knowledge and let learners r
 6. Fade the analogy once the target schema is established, so learners reason from the concept itself rather than the comparison
 
 ## Related Strategies
-- [Advance Organizers](../strategies/advance_organizers.md) — analogies are one of the most powerful organizer types
+- [Advance Organizers](use-advance-organizers.md) — analogies are one of the most powerful organizer types
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the mechanism analogies exploit
 - [Multiple Representations](../strategies/multiple-representations.md) — an analogy is one representation among several that should ultimately be coordinated
 

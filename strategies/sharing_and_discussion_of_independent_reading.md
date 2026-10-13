@@ -61,7 +61,7 @@ Social interaction around text is a core driver of reading engagement and volume
 
 ## Related Strategies
 
-- [Independent reading](independent-reading.md) — the prerequisite activity; sharing gives it a purpose and audience
+- [Independent reading](independent-reading-time.md) — the prerequisite activity; sharing gives it a purpose and audience
 - [Literature circles](literature-circles.md) — a fully elaborated version of the book-club format
 - [Read-alouds](read-alouds.md) — a complementary whole-class text experience that seeds discussion
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)

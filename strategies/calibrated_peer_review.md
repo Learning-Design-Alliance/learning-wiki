@@ -63,8 +63,8 @@ Calibration addresses the central weakness of peer review — untrained reviewer
 ## Related Strategies
 
 - [Rubric-Based Assessment](rubric-based-assessment.md) — the rubric is the shared instrument that makes calibration possible
-- [Worked Examples](worked-examples.md) — benchmark exemplars function as worked examples of evaluative judgment
-- [Reciprocal Peer Critique](reciprocal-peer-critique.md) — a lighter-weight variant without the calibration gate
+- [Worked Examples](worked-examples-first.md) — benchmark exemplars function as worked examples of evaluative judgment
+- [Reciprocal Peer Critique](peer-critique.md) — a lighter-weight variant without the calibration gate
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples

@@ -58,7 +58,7 @@ Student models make abstract quality criteria concrete: learners judge their own
 5. Require learners to apply the same criteria to their own draft and revise ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
-- [Worked Examples](../strategies/worked-examples.md) — the expert-produced counterpart; student models trade expert polish for attainability and evaluative-judgment practice
+- [Worked Examples](worked-examples-first.md) — the expert-produced counterpart; student models trade expert polish for attainability and evaluative-judgment practice
 - [Peer Review](../elements/peer-review.md) — critiquing student models rehearses the same evaluative skills peer review requires
 - [Rubrics](../strategies/rubrics.md) — criteria that make model comparison productive rather than superficial
 

@@ -62,7 +62,7 @@ Deliberate practice differs from mere repetition: it targets identified weakness
 
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that makes repeated practice durable
-- [Retrieval Practice](retrieval-practice.md) — testing-based practice that strengthens long-term memory
+- [Retrieval Practice](retrieval-practice-activities.md) — testing-based practice that strengthens long-term memory
 - [Formative Feedback](formative-feedback.md) — the feedback engine that directs each practice cycle
 
 ## Examples

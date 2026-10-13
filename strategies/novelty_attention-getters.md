@@ -61,7 +61,7 @@ Novelty exploits the distinctiveness effect: stimuli that deviate from the surro
 ## Related Strategies
 - [Call-and-Response](call-and-response.md) — a verbal novelty routine that doubles as retrieval practice
 - [Attention Signals](attention-signals.md) — the broader category; novelty getters are one variant
-- [Classroom Routines](classroom-routines.md) — the procedural structure novelty getters plug into
+- [Classroom Routines](classroom-routines-and-procedures.md) — the procedural structure novelty getters plug into
 
 ## Examples
 - **Whole Brain Teaching** (https://wholebrainteaching.com) — the "Class–Yes" call-and-response and "Scoreboard" routines embed novelty within a consistent management system

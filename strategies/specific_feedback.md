@@ -63,7 +63,7 @@ Feedback improves learning when it answers "Where am I going, how am I doing, an
 
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the broader principle that feedback must specify what to do next; specific feedback is its writing-specific application
 - [Peer Feedback](../elements/peer-feedback.md) — students delivering location-specific comments to one another builds evaluative judgment
-- [Formative Assessment](formative-assessment.md) — the assessment-for-learning cycle that specific feedback serves
+- [Formative Assessment](formative-assessment-cycles.md) — the assessment-for-learning cycle that specific feedback serves
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Examples

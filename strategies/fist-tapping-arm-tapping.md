@@ -59,7 +59,7 @@ Tapping converts an abstract orthographic task into a coordinated motor-verbal s
 
 ## Related Strategies
 - [Air Writing](air_writing.md) — the same motor-tracing logic applied to letter formation
-- [Simultaneous Multisensory Instruction](simultaneous_multisensory_instruction.md) — the broader VAKT family of routines
+- [Simultaneous Multisensory Instruction](multisensory_instruction.md) — the broader VAKT family of routines
 - [Choral Reading](choral-reading.md) — group verbal rehearsal paired with a physical or visual anchor
 
 ## Examples

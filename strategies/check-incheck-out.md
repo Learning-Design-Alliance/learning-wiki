@@ -101,7 +101,7 @@ CICO operationalizes [Behaviorism](../theories/behaviorism.md) — clear expecta
 - [Daily Behavior Report Cards](daily-behavior-report-cards.md) — the point card is essentially a DBRC embedded in a mentoring routine
 - [Positive Reinforcement](positive-reinforcement.md) — the contingent feedback and rewards at check-out enact this mechanism
 - [Mentoring](mentoring.md) — the adult relationship component that distinguishes CICO from a bare token system
-- [Self-Monitoring](self-monitoring.md) — the standard fade path for students exiting CICO
+- [Self-Monitoring](self-monitoring-strategies.md) — the standard fade path for students exiting CICO
 - [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
 - [Use behavior ratings to provide feedback to students](use-behavior-ratings-provide-feedback.md)
 - [Check-ins](../principles/check-ins.md) — the broader family of brief adult–student contact routines; CICO is its most structured, data-driven form

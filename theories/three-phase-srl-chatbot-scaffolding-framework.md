@@ -51,7 +51,6 @@ The study organizes chatbot design around a three-phase conceptualization of sel
 - [Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding](../strategies/four-design-insights-gai-chatbots-srl.md)
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
 - [Self Regulated Learning](../strategies/self-regulated-learning.md)
-- [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-strategy-instruction.md)
 
 ## Key Sources
 - Hilliger, I., Pérez-Sanagustín, M., González, C., Villalobos, E. and Celis, S. (2026). A GAI-Based Chatbot for Scaffolding Self-Regulated Learning: Insights from a Design-Based Research Approach. Journal of Learning Analytics, 13(1), 74–88. https://doi.org/10.18608/jla.2026.9143

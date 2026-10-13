@@ -60,7 +60,7 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 
 ## Related Strategies
 
-- [Worked examples](../strategies/use_worked_examples.md) — worked examples can model the drawing step itself, showing what a good diagram looks like before learners generate their own
+- [Worked examples](worked-examples-first.md) — worked examples can model the drawing step itself, showing what a good diagram looks like before learners generate their own
 - [Think-aloud modeling](../strategies/think-aloud-modeling.md) — pairing verbalized reasoning with diagram construction makes the representation decisions explicit
 - [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
 

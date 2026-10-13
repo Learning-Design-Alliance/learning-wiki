@@ -41,7 +41,7 @@ Teachers opened lessons with warm-up questions projected on the board that "offe
 ## Related Strategies
 
 - [Which One Doesn’t Belong?](which_one_doesnt_belong.md)
-- [Notice And Wonder](notice-and-wonder.md)
+- [Notice And Wonder](i-notice-i-wonder.md)
 - [Open Ended Questioning](open-ended-questioning.md)
 - [Estimation Warm Ups](estimation-warm-ups.md)
 - [Retrieval Practice Warm Ups](retrieval-practice-warm-ups.md)

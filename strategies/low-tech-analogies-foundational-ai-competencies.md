@@ -40,7 +40,7 @@ This strategy responds to first-level digital divide constraints by teaching fou
 
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Address Digital Literacy](address_digital_literacy.md)
-- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](design-adult-edtech-short-mobile-contextualized.md)
+- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](adult-edtech-design-short-mobile-first-contextualized.md)
 
 ## Examples
 -

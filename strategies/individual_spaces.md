@@ -59,7 +59,7 @@ The physical environment functions as a silent instructional variable: seating p
 ## Related Strategies
 - [Flexible Seating](flexible-seating.md) — the furniture-level cousin: individual spaces organize *zones*, flexible seating organizes *options within* them
 - [Cooperative Learning](cooperative-learning.md) — collaborative zones host structured interdependence; space alone does not create it
-- [Classroom Routines](classroom-routines.md) — the behavioral infrastructure that makes zone transitions efficient
+- [Classroom Routines](classroom-routines-and-procedures.md) — the behavioral infrastructure that makes zone transitions efficient
 
 ## Examples
 - **Summit Prep School** uses distinct seating configurations for independent work, collaborative work, mini-lessons, and large-group discussions, with students moving between zones as activities change.

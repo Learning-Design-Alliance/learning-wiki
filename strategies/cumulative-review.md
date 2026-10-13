@@ -78,7 +78,7 @@ Cumulative review works because each retrieval strengthens memory and slows forg
 
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle cumulative review operationalizes
-- [Retrieval Practice](retrieval-practice.md) — the mechanism that makes review effective rather than merely familiar
+- [Retrieval Practice](retrieval-practice-activities.md) — the mechanism that makes review effective rather than merely familiar
 - [Interleaved Practice](interleaved-practice.md) — mixing content types so review also builds discrimination
 - Retrieval practice — review only strengthens memory when it requires reconstruction from memory
 - Interleaving — the scheduling cousin: mixing problem types within a session complements mixing topics across sessions

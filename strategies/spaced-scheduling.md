@@ -59,7 +59,7 @@ Spacing produces substantially better long-term retention than massed study of t
 
 ## Related Strategies
 
-- [Retrieval Practice](retrieval-practice.md) — the active component that makes each spaced encounter effective
+- [Retrieval Practice](retrieval-practice-activities.md) — the active component that makes each spaced encounter effective
 - [Interleaving](interleaving.md) — mixes item types within and across sessions; combines with spacing for large retention gains
 - [Cumulative Review](cumulative-review.md) — a course-level way of institutionalizing spacing
 - [Cramming](cramming.md) — the massed alternative; useful for immediate performance but poor for retention

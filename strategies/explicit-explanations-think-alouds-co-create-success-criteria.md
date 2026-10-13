@@ -40,9 +40,9 @@ To communicate learning expectations, the brief recommends that "Teachers can pr
 
 - [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](embedded-evidence-gathering-without-separate-tests.md)
 - [Establishing Clear Expectations](establishing-clear-expectations.md)
-- [Explicit or Direct Instruction](explicit_or_direct_instruction.md)
+- [Explicit or Direct Instruction](direct-instruction.md)
 - [Explicit Teaching](explicit-teaching.md)
-- [Establishing Discussion Norms](establishing-discussion-norms.md)
+- [Establishing Discussion Norms](class-discussion-norms.md)
 - [Use the five GAA-LS subscales to target instruction and make AI-related assessment expectations visible in assessment briefs](gaa-ls-informs-targeted-teaching-and-transparent-assessment-design.md)
 
 ## Examples

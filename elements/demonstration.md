@@ -80,7 +80,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — Presents a fully solved problem with step-by-step reasoning, then asks learners to solve a similar problem. The worked example is the demonstration component.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — Presents a fully solved problem with step-by-step reasoning, then asks learners to solve a similar problem. The worked example is the demonstration component.
 
 **[Think-Aloud Modeling](../strategies/think-aloud-modeling.md)** — Instructor verbalizes their reasoning while solving a problem or reading a text, making metacognitive moves visible (monitoring confusion, checking work, revising approach).
 

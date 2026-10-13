@@ -58,7 +58,7 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 6. Fade to unsupported problem solving and verify with [Assessment](../elements/assessment.md) that performance holds without support
 
 ## Related Strategies
-- [Worked Examples](worked-examples.md) — the fully guided starting point of a fade sequence
+- [Worked Examples](worked-examples-first.md) — the fully guided starting point of a fade sequence
 - [Scaffolded Inquiry](../elements/scaffolded-inquiry.md) — fading applied to inquiry supports rather than solution steps
 - [Self-Explanation](../elements/self-explanation.md) — prompts that keep faded steps cognitively active
 - [Mastery Learning](mastery-learning.md) — an alternative criterion for deciding when to fade (performance-based rather than sequence-based)

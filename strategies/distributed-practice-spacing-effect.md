@@ -59,7 +59,7 @@ Spacing is one of the most robust findings in learning science: distributed prac
 6. Where volume is high, use adaptive spaced-repetition software to individualize item scheduling ([Adaptive Learning](../principles/adaptive-learning.md)).
 
 ## Related Strategies
-- [Retrieval Practice](../strategies/retrieval-practice.md) — the mechanism spacing amplifies; spaced retrieval is the strongest known combination for retention
+- [Retrieval Practice](retrieval-practice-activities.md) — the mechanism spacing amplifies; spaced retrieval is the strongest known combination for retention
 - [Interleaving](../strategies/interleaving.md) — a scheduling sibling: spacing separates sessions in time, interleaving mixes content within them
 - [Cumulative Review](../strategies/cumulative-review.md) — course-level structure that operationalizes spacing across a term
 

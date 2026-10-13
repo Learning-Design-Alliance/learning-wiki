@@ -81,7 +81,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 
 - [Self-Explanation](../elements/self-explanation.md) — a specific metacognitive strategy: prompting learners to explain their reasoning to themselves
 - [Spaced Practice](../principles/spaced-learning.md) — a strategy learners must be taught to plan and monitor over time
-- [Retrieval Practice](retrieval-practice.md) — high-utility technique whose value learners systematically misjudge without metacognitive calibration
+- [Retrieval Practice](retrieval-practice-activities.md) — high-utility technique whose value learners systematically misjudge without metacognitive calibration
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a structured, collaborative form of metacognitive strategy instruction for reading
 - [Self-Regulated Learning Instruction](self-regulated-learning-instruction.md) — the broader cycle (forethought–performance–reflection) that metacognitive strategies serve
 - [Retrieval Practice Training](retrieval-practice-training.md) — teaching learners *which* study strategies actually work

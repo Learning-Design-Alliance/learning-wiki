@@ -47,7 +47,7 @@ Citing Zaretskii (2009), the article states that adult help given to a child wor
 ## Examples
 
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
-- [Teach Self-Regulation Skills](../strategies/teach_self-regulation_skills.md)
+- [Teach Self-Regulation Skills](../strategies/teach-self-regulation-strategies.md)
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565

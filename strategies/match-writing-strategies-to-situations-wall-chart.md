@@ -45,7 +45,7 @@ Beyond teaching strategies, the guide has students learn when and why to use the
 - [Explicit Strategy Instruction](explicit-strategy-instruction.md)
 - [Creating Strategy Charts](creating_strategy_charts.md)
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
-- [Authentic Writing](authentic-writing.md)
+- [Authentic Writing](authentic-writing-tasks.md)
 
 ## Examples
 -

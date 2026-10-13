@@ -63,7 +63,7 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — CRS adds anonymous aggregation and whole-class visibility to the pair-share structure
 - [Peer Instruction](peer-instruction.md) — the canonical CRS implementation; the vote-discussion-revote cycle is its core mechanism
-- [Retrieval Practice](retrieval-practice.md) — each poll question is a low-stakes retrieval event embedded in instruction
+- [Retrieval Practice](retrieval-practice-activities.md) — each poll question is a low-stakes retrieval event embedded in instruction
 - [Formative Feedback](formative-feedback.md) — the answer distribution is the feedback signal that drives instructional adjustment
 
 ## Examples

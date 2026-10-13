@@ -51,7 +51,7 @@ Two versions of the same worked algebra problems used in the study. "The full- w
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)
-- [Completion Problems](../strategies/completion-problems.md)
+- [Completion Problems](../strategies/completion-problems-first.md)
 - [Faded Worked Examples](../strategies/faded-worked-examples.md)
 - [Worked_Examples_Types](../strategies/worked_examples_types.md)
 

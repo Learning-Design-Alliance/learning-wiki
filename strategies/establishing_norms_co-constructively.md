@@ -61,7 +61,7 @@ Co-construction converts norms from external compliance demands into shared comm
 ## Related Strategies
 
 - [Active-Listening](active-listening.md) — the facilitation stance that makes genuine co-construction possible rather than performative
-- [Classroom physical activity and community routines](classroom-routines.md) — norms are sustained through the routines that operationalize them
+- [Classroom physical activity and community routines](classroom-routines-and-procedures.md) — norms are sustained through the routines that operationalize them
 - [Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space](youmedia-staff-certification-and-flexible-rules.md)
 
 ## Examples

@@ -60,7 +60,7 @@ Encoding is more effective than exposure-only methods because producing a spelli
 
 ## Related Strategies
 - [Phonics instruction](../strategies/phonics-instruction.md) — encoding is the production-side counterpart; decoding and encoding reinforce the same mappings
-- [Retrieval practice](../strategies/retrieval-practice.md) — dictation is retrieval practice applied to orthography
+- [Retrieval practice](retrieval-practice-activities.md) — dictation is retrieval practice applied to orthography
 - [Dictation and sentence writing](../strategies/dictation.md) — extends encoding from isolated words to connected text
 
 ## Examples

@@ -80,7 +80,7 @@ Identifying self-talk is the awareness-building first step in self-instructional
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small goals give self-talk concrete situations to attach to and provide success experiences to log
 - [Action Planning](action_planning.md) — identified self-talk patterns inform deliberate plans for how to respond in triggering situations
 - [Active Listening](active-listening.md) — the same noticing discipline applied to external dialogue supports the internal version
-- [Reframing Self-Talk](reframing-self-talk.md) — the natural next step once messages are identified
+- [Reframing Self-Talk](positive-self-talk-reframing.md) — the natural next step once messages are identified
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — shares the pattern of surfacing what learners already bring (here, internal beliefs) before new learning
 
 ## Examples
@@ -154,7 +154,7 @@ Identifying self-talk is a self-monitoring strategy: it externalizes internal di
 6. Extend by having students identify which messages are helpful versus unhelpful, as a bridge to reframing strategies.
 
 ## Related Strategies
-- [Reframing Self-Talk](reframing-self-talk.md) — the natural next step once messages are identified
+- [Reframing Self-Talk](positive-self-talk-reframing.md) — the natural next step once messages are identified
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — shares the pattern of surfacing what learners already bring (here, internal beliefs) before new learning
 
 ## Related Elements

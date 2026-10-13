@@ -48,10 +48,9 @@ The brief organizes its recommendations as a framework of five key design princi
 ## Examples
 
 - [Use micro-modules pairing short audio lessons with reflection texts and interactive quizzes for adult ELL mobile learning](../strategies/cell-ed-micro-module-recipe.md)
-- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](../strategies/design-adult-edtech-short-mobile-contextualized.md)
+- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](../strategies/adult-edtech-design-short-mobile-first-contextualized.md)
 - [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md)
 - [Provide easily accessible resource repositories and assessment tools to reduce teachers' time spent searching for and adapting OpenSciEd materials](../strategies/accessible-resource-repositories-for-openscied-teachers.md)
-- [Design adult learning products with short lessons, visualizations, mobile-first simplicity, and contextualized content integrating basic and job skills](../strategies/adult-edtech-design-short-mobile-first-contextualized.md)
 
 ## Key Sources
 - Designing Technology for Adult Learners: Support and Scaffolding. (2016). Digital Promise, Accelerating Change. https://digitalpromise.dspacedirect.org/items/0b18a16a-2f1d-400b-9fed-df5675ba40cf

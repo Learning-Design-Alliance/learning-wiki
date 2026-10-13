@@ -62,7 +62,7 @@ Fluency in basic facts is a well-documented predictor of later mathematics achie
 
 ## Related Strategies
 
-- [Retrieval Practice](retrieval-practice.md) — the general mechanism drills instantiate; facts are a special case of retrieval targets
+- [Retrieval Practice](retrieval-practice-activities.md) — the general mechanism drills instantiate; facts are a special case of retrieval targets
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling principle that makes drill sessions durable
 - [Incremental Rehearsal](incremental-rehearsal.md) — the high-success variant for struggling learners
 - [Cover-Copy-Compare](cover-copy-compare.md) — a self-managed, untimed alternative

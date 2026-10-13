@@ -48,7 +48,7 @@ Teacher expectations are among the most powerful and self-fulfilling forces in t
 - Culture-building: establishing shared norms of excellence, revision, and critique
 - Self-efficacy and academic identity: students coming to see themselves as capable of rigorous work
 - Quality craftsmanship: producing, critiquing, and revising work against high standards
-- Transferable habits of mind: persistence through ambiguity inherent in [project-based learning](project-based-learning.md)
+- Transferable habits of mind: persistence through ambiguity inherent in [project-based learning](project-based-learning-pbl.md)
 
 ### Instructions
 1. **Interrogate your own expectations.** Audit which students you call on, which tasks you assign, and whose work you display; identify where you have quietly lowered the bar.

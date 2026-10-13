@@ -38,7 +38,7 @@ The article's stated aim is that its recommendations "increase the number of suc
 
 ## Related Strategies
 
-- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](targeted-recommendations-promote-effective-data-use.md)
+- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](data-use-recommendations-for-state-district-system-developers.md)
 - [Use newsflashes—succinct email blasts announcing new research findings—to inform decision makers, stakeholders, and practitioners](newsflash-research-dissemination-strategy.md)
 
 ## Examples

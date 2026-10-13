@@ -60,7 +60,7 @@ Cramming exploits the *spacing effect*: massed practice feels effective because 
 ## Related Strategies
 
 - [Spaced Practice](../principles/spaced-learning.md) — the direct alternative; same total time, distributed across sessions
-- [Retrieval Practice](retrieval-practice.md) — replaces passive rereading with self-testing that strengthens memory
+- [Retrieval Practice](retrieval-practice-activities.md) — replaces passive rereading with self-testing that strengthens memory
 - [Interleaving](interleaving.md) — mixes problem types within and across sessions, countering blocked massed study
 - [Cumulative Quizzing](cumulative-quizzing.md) — course structure that makes deferring study impossible
 - [Favor learning strategies that rely on long-term memory and integrate new material with existing cognitive structures](long-term-memory-strategies-older-learners.md)

@@ -104,7 +104,6 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.
 - [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 - [Mastery Learning](../strategies/mastery-learning.md)
-- [Use Mastery Learning](../strategies/use_mastery_learning.md)
 
 ## Key Sources
 - Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), *Mastery learning: Theory and practice*. Holt, Rinehart and Winston.
@@ -249,7 +248,7 @@ The article recommends the teacher-paced, group-based mastery model for postseco
 
 - [Mastery Learning](../strategies/mastery-learning.md)
 - [Mastery Learning](../patterns/mastery-learning.md)
-- [Use Mastery Learning](../strategies/use_mastery_learning.md)
+- [Use Mastery Learning](../strategies/mastery-learning.md)
 
 ## Key Sources
 - Guskey, Thomas R., et al. (1982). The Effectiveness of Mastery Learning Strategies in Undergraduate Education Courses. Paper presented at the Annual Meeting of the American Educational Research Association, New York. https://eric.ed.gov/?id=ED213702

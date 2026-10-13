@@ -36,7 +36,7 @@ Genre scaffolding reduces the cognitive burden of composing by giving learners a
 
 #### Implementation Variability
 - **Reading-to-writing cycle:** analyze published models → deconstruct stages → joint construction → independent writing (Sydney School / teaching-learning cycle)
-- **Strategy-integrated variant:** pair the genre frame with planning and revising strategies such as [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md), so learners also manage the writing process
+- **Strategy-integrated variant:** pair the genre frame with planning and revising strategies such as [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md), so learners also manage the writing process
 - **Contrastive variant:** juxtapose two genres on the same topic (e.g., news report vs. editorial) to highlight how purpose shapes structure
 - **Digital variant:** use annotated exemplars with margin commentary instead of whole-class deconstruction
 
@@ -59,7 +59,7 @@ Genre scaffolding reduces the cognitive burden of composing by giving learners a
 6. **Review and revise:** evaluate drafts against the genre's purpose and audience, not just its parts.
 
 ## Related Strategies
-- [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) — complements genre knowledge with process self-regulation
+- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — complements genre knowledge with process self-regulation
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — same model→guided→independent fading logic applied to reading comprehension
 - [Mentor Text Analysis](../strategies/mentor-text-analysis.md) — the text-study phase of the genre cycle in isolation
 

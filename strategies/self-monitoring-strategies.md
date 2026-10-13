@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: self-monitoring-strategies
-aliases: [self-monitoring_strategies]
+aliases: [self-monitoring_strategies, self-monitoring]
 title: Self Monitoring Strategies
 description: Techniques that prompt learners to track their own comprehension, performance, and progress against criteria during learning.
 status: review
@@ -13,7 +13,7 @@ generated:
 # Self Monitoring Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 theoretical), `q1`–`q4` · 7 of 13 report an effect size
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size
 
 ## Description
 Self monitoring strategies prompt learners to observe and evaluate their own comprehension, performance, or progress against explicit criteria while learning. Typical forms include comprehension checks ("Can I explain this in my own words?"), progress tracking against a rubric or checklist, error logging, and periodic self-questioning during reading or problem solving. Monitoring is the engine of [Self-Regulated Learning](../theories/self-regulated-learning.md): without accurate self-assessment, learners cannot adapt their study strategies or know when to seek help.
@@ -31,6 +31,8 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - A clear performance standard or goal against which monitoring is compared
 - A concrete recording method (checklist, tally, log, rubric) that is low-effort enough not to displace the learning task itself
 - Prompts timed to natural checkpoints (end of a problem, paragraph, or work session)
+- Explicit criteria, rubrics, or expert models against which learners can compare their own work
+- A follow-on action: monitoring without a mechanism to revise strategy or restudy produces no benefit
 
 #### Constraints
 - Self-monitoring accuracy is poorest for novices, who lack the knowledge to recognize what they do not know [-M] — unguided self-assessment can entrench illusions of competence
@@ -41,6 +43,9 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - Learners frequently overestimate their comprehension and readiness (illusions of knowing), so self-report alone is unreliable [-S]; monitoring must be checked against objective performance, not trusted as-is
 - Recording can become a compliance ritual with no effect on behavior if learners never receive feedback on the accuracy of their monitoring
 - Over-monitoring (excessive check-ins, logging every action) can undermine motivation and autonomy [autonomy-supports-intrinsic-motivation](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
+- Judgments made from fluency cues (ease of rereading, familiarity) are systematically miscalibrated and can *reduce* effective study allocation [-M] — learners restudy what already feels easy and skip what needs work
+- Younger learners and novices monitor poorly without external scaffolds; unguided "monitor yourself" prompts often produce no measurable gain [~M]
+- Excessive self-tracking overhead can consume working memory needed for the task itself, particularly for complex material [~W]
 
 #### Implementation Variability
 - **Embedded prompts**: short comprehension-check questions inserted in texts or courseware (e.g., "Could you explain step 3 to a classmate?")
@@ -52,6 +57,10 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - **Attention/engagement monitoring**: brief check-ins or attention ratings during independent work
 - **Process monitoring**: checklists tracking strategy steps (e.g., "Did I check my work?") rather than outcomes
 - **Technology-mediated**: dashboards and progress indicators in adaptive platforms externalize monitoring data for the learner
+- **Judgment-of-learning prompts**: after studying, learners rate confidence per item, then restudy low-confidence items
+- **Self-testing**: learners generate answers before checking, converting monitoring into retrieval practice
+- **Criterion comparison**: learners score their own draft against a rubric or expert model before submission
+- **Progress dashboards**: systems surface performance data (e.g., mastery bars, error patterns) for learners to interpret
 
 ### Target Learners
 - Adolescents and adults developing independent study skills; monitoring accuracy improves with metacognitive maturity [~M]
@@ -60,6 +69,9 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - Students with weak self-regulation, including many learners with ADHD or executive function difficulties, who benefit from externalized monitoring structure [+M]
 - Older elementary through adult learners; young children lack the metacognitive capacity for accurate self-judgment and need heavily scaffolded, concrete monitoring forms
 - High-achieving learners may gain less, since their monitoring is already relatively accurate [~M]
+- Adolescents and adults; monitoring accuracy develops slowly and requires heavy scaffolding in younger children [~M]
+- Learners preparing for independent study or assessment, where study-allocation decisions matter
+- Struggling learners benefit most when monitoring is paired with explicit criteria — without them, they tend to overestimate mastery [-M]
 
 ### Target Learning Goals
 - Metacognitive skill development: accurate judgment of learning and comprehension
@@ -68,6 +80,9 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - Sustained attention and on-task behavior during independent work
 - Strategy regulation: knowing when to persist, switch approaches, or seek help
 - Long-term retention, via better-timed restudy and [Distributed Practice](distributed-practice.md) decisions
+- Metacognitive skill: accurate self-assessment and study regulation as a transferable capability
+- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/distributed-practice-improves-retention.md) [+S]
+- Self-regulated learning dispositions: independence, persistence, ownership of progress
 
 ### Instructions
 1. Establish criteria: give learners a rubric, exemplar, or checklist that defines what "understanding" or "done well" looks like ([Assessment](../elements/assessment.md)).
@@ -80,13 +95,15 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 ## Related Strategies
 
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the theoretical framework; monitoring is its central cyclical phase
-- [Retrieval Practice](../strategies/retrieval-practice.md) — the most accurate self-monitoring vehicle, since testing reveals gaps that review hides
+- [Retrieval Practice](retrieval-practice-activities.md) — the most accurate self-monitoring vehicle, since testing reveals gaps that review hides
 - [Check-Ins](../elements/check-in.md) — lightweight embedded monitoring prompts in live or asynchronous settings
 - [Self-Reinforcement](self-reinforcement.md) — the next step in the self-regulation cycle; monitoring identifies when reinforcement is earned
 - [Goal Setting](../elements/goal-setting.md) — supplies the standard that monitoring is measured against
 - [Help Seeking](help-seeking.md) — the productive action that accurate monitoring should trigger
 - [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
 - [Teacher supports for self-regulated GenAI feedback engagement](teacher-supports-self-regulated-genai-feedback.md)
+- [Self-Evaluation](self-evaluation.md) — the terminal reflection that closes the monitoring loop at the end of a task
+- [Spaced Practice](../principles/spaced-learning.md) — monitoring determines *what* to space; the two strategies compound
 
 ## Examples
 - **Calibration in introductory psychology**: students predict exam scores before each quiz and graph prediction vs. actual across the term, visibly improving judgment accuracy.
@@ -97,6 +114,9 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - **Stop-and-jot comprehension checks** — during reading, students pause at paragraph ends to write a one-line summary and rate "I get it / I'm confused," triggering rereading decisions.
 - **[Khan Academy](https://www.khanacademy.org)** — mastery progress bars and skill dashboards externalize monitoring, showing learners exactly which skills are proficient versus struggling.
 - **Exam wrappers** — post-exam reflection forms (used widely in undergraduate STEM courses) prompting students to record how they studied and compare that with their results, feeding forward into next-exam planning.
+- **Khan Academy mastery tracking** — learners see per-skill mastery bars and are prompted to continue or revisit skills, externalizing the monitoring judgment.
+- **Exam wrappers** — post-exam reflection forms (used widely in undergraduate STEM courses) ask students to compare predicted with actual scores and plan study changes for the next exam.
+- **Reciprocal teaching** — students take turns leading comprehension-monitoring questions ("What was confusing?"), making monitoring a visible, practiced routine.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
@@ -105,6 +125,8 @@ Self monitoring improves learning primarily when it is *accurate* and *criterion
 - Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. *Journal of Experimental Psychology: General, 126*(4), 349–370. [doi:10.1037/0096-3445.126.4.349](https://doi.org/10.1037/0096-3445.126.4.349)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Graham, S., Harris, K. R., & Reid, R. (1992). Developing self-regulated learners. *Focus on Exceptional Children, 24*(6), 1–16.
+- Sitzmann, T., & Ely, K. (2011). A meta-analysis of self-regulated learning in work-related training and educational attainment. *Psychological Bulletin, 137*(3), 421-442. [doi:10.1037/a0022777](https://doi.org/10.1037/a0022777)
+- Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.
 
 <!-- merged 2026-10-09 from strategies/self-monitoring_strategies ("Self Monitoring Strategies"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -177,4 +199,70 @@ Self monitoring improves learning primarily when it is *accurate* and *cued*: le
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Graham, S., Harris, K. R., & Reid, R. (1992). Developing self-regulated learners. *Focus on Exceptional Children, 24*(6), 1–16.
 - Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444. [doi:10.1146/annurev-psych-113011-143823](https://doi.org/10.1146/annurev-psych-113011-143823)
+-->
+
+<!-- merged 2026-10-13 from strategies/self-monitoring ("Self Monitoring"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Self Monitoring
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+
+## Description
+Self monitoring is the ongoing process by which learners observe and judge their own understanding, performance, or progress — asking "Do I actually get this?" or "How did I do against the criteria?" — and use those judgments to regulate further study. It is the monitoring phase of [Self-Regulated Learning](../theories/self-regulated-learning.md), sitting between forethought (planning) and reflection (evaluation). In practice it is carried out through self-questioning, self-testing, checklists, progress tracking, and comparing one's work against models or rubrics.
+
+## Design Implications
+
+Self monitoring only improves learning when the monitoring is *accurate* and when it triggers *adjustment*: learners frequently judge their comprehension as better than it is, especially after rereading or fluent lectures [~M]. Designers should therefore build in external checks — retrieval practice, criterion-referenced rubrics, worked models — that calibrate learners' judgments against actual performance rather than relying on feelings of fluency [Self-assessment improves achievement when learners compare work against explicit criteria.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+
+### Context
+#### Requirements
+- Explicit criteria, rubrics, or expert models against which learners can compare their own work
+- Low-stakes opportunities to test understanding ([Practice](../elements/practice.md), self-quizzing) so judgments are based on retrieval, not recognition
+- Time and prompts built into the learning sequence for monitoring to occur ([Check-In](../elements/check-in.md), learning logs)
+- A follow-on action: monitoring without a mechanism to revise strategy or restudy produces no benefit
+
+#### Constraints
+- Judgments made from fluency cues (ease of rereading, familiarity) are systematically miscalibrated and can *reduce* effective study allocation [-M] — learners restudy what already feels easy and skip what needs work
+- Younger learners and novices monitor poorly without external scaffolds; unguided "monitor yourself" prompts often produce no measurable gain [~M]
+- Excessive self-tracking overhead can consume working memory needed for the task itself, particularly for complex material [~W]
+
+#### Implementation Variability
+- **Judgment-of-learning prompts**: after studying, learners rate confidence per item, then restudy low-confidence items
+- **Self-testing**: learners generate answers before checking, converting monitoring into retrieval practice
+- **Criterion comparison**: learners score their own draft against a rubric or expert model before submission
+- **Progress dashboards**: systems surface performance data (e.g., mastery bars, error patterns) for learners to interpret
+
+### Target Learners
+- Adolescents and adults; monitoring accuracy develops slowly and requires heavy scaffolding in younger children [~M]
+- Learners preparing for independent study or assessment, where study-allocation decisions matter
+- Struggling learners benefit most when monitoring is paired with explicit criteria — without them, they tend to overestimate mastery [-M]
+
+### Target Learning Goals
+- Metacognitive skill: accurate self-assessment and study regulation as a transferable capability
+- Retention and exam performance, via better allocation of restudy effort [Practice testing strengthens retention more than rereading.](../claims/distributed-practice-improves-retention.md) [+S]
+- Self-regulated learning dispositions: independence, persistence, ownership of progress
+
+### Instructions
+1. Establish criteria: give learners a rubric, expert model, or answer key they can access independently ([Advance Organizers](../elements/advance-organizers.md) can frame what "understanding" looks like).
+2. Prompt a monitoring event: after a study segment, have learners predict or rate their understanding *before* checking ([Check-In](../elements/check-in.md)).
+3. Test the judgment: require retrieval or application ([Practice](../elements/practice.md)) rather than recognition, so judgments rest on evidence.
+4. Compare and calibrate: learners contrast their prediction with actual performance and note the gap ([Annotating](../principles/annotating.md) a monitoring log makes gaps visible over time).
+5. Act on the gap: direct learners to restudy, change strategy, or seek help — monitoring must connect to a decision ([Assessment](../elements/assessment.md) results feed the next cycle).
+
+## Related Strategies
+- [Self-Evaluation](self-evaluation.md) — the terminal reflection that closes the monitoring loop at the end of a task
+- [Goal Setting](../elements/goal-setting.md) — supplies the standard against which monitoring judgments are made
+- [Spaced Practice](../principles/spaced-learning.md) — monitoring determines *what* to space; the two strategies compound
+
+## Examples
+- **Khan Academy mastery tracking** — learners see per-skill mastery bars and are prompted to continue or revisit skills, externalizing the monitoring judgment.
+- **Exam wrappers** — post-exam reflection forms (used widely in undergraduate STEM courses) ask students to compare predicted with actual scores and plan study changes for the next exam.
+- **Reciprocal teaching** — students take turns leading comprehension-monitoring questions ("What was confusing?"), making monitoring a visible, practiced routine.
+
+## Key Sources
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+- Sitzmann, T., & Ely, K. (2011). A meta-analysis of self-regulated learning in work-related training and educational attainment. *Psychological Bulletin, 137*(3), 421-442. [doi:10.1037/a0022777](https://doi.org/10.1037/a0022777)
+- Winne, P. H., & Hadwin, A. F. (1998). Studying as self-regulated engagement in learning. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), *Metacognition in educational theory and practice* (pp. 277–304). Erlbaum.
 -->

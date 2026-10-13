@@ -80,7 +80,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 7. Return to the same mentor across the unit as learners revise ([Practice](../elements/practice.md) with revisiting deepens internalization).
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — the problem-solving analogue: a fully worked solution studied before independent attempts
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: a fully worked solution studied before independent attempts
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the method for making the mentor's (and teacher's) craft decisions visible
 - [Contrasting Cases](../elements/comparing-cases.md) — pairing multiple mentors to highlight what varies and what stays constant
 - [Sentence Combining](sentence-combining.md) — a complementary technique for teaching syntactic flexibility through explicit practice

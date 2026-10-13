@@ -73,7 +73,7 @@ Self-instruction converts executive control from external (teacher prompts) to i
 5. **Reflect and transfer** — learner reviews which statements helped and adapts them to new tasks ([Individual Reflection](../elements/individual-reflection.md), [Application](../elements/application.md))
 
 ## Related Strategies
-- [Self-Monitoring](self-monitoring.md) — self-instruction supplies the verbal mechanism that drives monitoring
+- [Self-Monitoring](self-monitoring-strategies.md) — self-instruction supplies the verbal mechanism that drives monitoring
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the instructional method for teaching self-statements
 - [Goal Setting](../elements/goal-setting.md) — problem-definition statements operationalize goals into task talk
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a structured dialogue format in which students take turns leading the same self-questioning moves

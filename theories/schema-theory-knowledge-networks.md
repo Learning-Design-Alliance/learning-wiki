@@ -51,7 +51,7 @@ Schema theory, in its broadest sense, is "a theory of knowledge" (Rumelhart, 198
 ## Examples
 
 - [Elaborate new information precisely and meaningfully within the learner's perspective to facilitate schema encoding and retrieval](../principles/elaborative-reasoning.md)
-- [Advance Organizers](../strategies/advance_organizers.md)
+- [Advance Organizers](../strategies/use-advance-organizers.md)
 - [Visualizations and Mind Maps](../strategies/visualizations_and_mind_maps.md)
 - [Activation](../principles/activation.md)
 - [Making Connections](../strategies/making_connections.md)

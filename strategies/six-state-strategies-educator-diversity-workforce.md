@@ -39,8 +39,7 @@ The brief's policy scan organizes state action around six strategies: making edu
 ## Related Strategies
 
 - [Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it](public-school-level-educator-diversity-data-strategy.md)
-- [Six state policy strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-workforce-diversity.md)
-- [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
+- [Six state policy strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 
 ## Examples
 -

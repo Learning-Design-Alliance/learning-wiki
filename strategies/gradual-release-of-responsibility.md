@@ -77,7 +77,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 
 - [Direct Instruction](direct-instruction.md) — shares the model–guide–independent structure; GRR adds an explicit emphasis on the transfer of responsibility as the outcome
 - [Scaffolded Inquiry](../elements/scaffolded-inquiry.md) — an inquiry-oriented variant in which the release happens through progressively open tasks rather than demonstration
-- [Worked Examples](worked-examples.md) — the worked-example-to-problem-pairing sequence is a GRR implementation in problem-solving domains
+- [Worked Examples](worked-examples-first.md) — the worked-example-to-problem-pairing sequence is a GRR implementation in problem-solving domains
 - [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 - [Scaffolding](../principles/scaffolding.md) — the underlying mechanism; GRR specifies its temporal sequencing
 - [Fading](../elements/fading.md) — the systematic withdrawal of support that defines the release

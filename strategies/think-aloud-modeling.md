@@ -127,7 +127,7 @@ Think-aloud modeling converts tacit expert knowledge into observable, learnable 
 5. Fade the support: shift from full modeling to prompts to independent, silent performance ([Fading](../elements/fading.md)).
 
 ## Related Strategies
-- [Worked Examples](worked-examples.md) — think-aloud modeling adds the reasoning narration that makes worked examples teach strategy, not just procedure
+- [Worked Examples](worked-examples-first.md) — think-aloud modeling adds the reasoning narration that makes worked examples teach strategy, not just procedure
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — learners take over the think-aloud role in structured dialogue
 - [Self-Explanation Prompts](self-explanation-prompts.md) — the learner-side counterpart: prompting students to verbalize their own reasoning after observing a model
 - [Modeling](modeling.md) — the broader category; think-aloud is its cognitively richest form

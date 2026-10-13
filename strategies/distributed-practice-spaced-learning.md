@@ -57,7 +57,7 @@ Distributed practice is one of the most robust findings in learning science, wit
 5. Teach learners about the spacing effect so they can schedule their own study effectively.
 
 ## Related Strategies
-- [Retrieval Practice](retrieval-practice.md) — the mechanism that makes each spaced session effortful and effective; spacing without retrieval is far weaker
+- [Retrieval Practice](retrieval-practice-activities.md) — the mechanism that makes each spaced session effortful and effective; spacing without retrieval is far weaker
 - [Interleaved Practice](interleaved-practice.md) — mixing problem types within and across sessions compounds spacing benefits
 - [Mastery Learning](mastery-learning.md) — spacing schedules can be driven by individual mastery rather than fixed calendars
 

@@ -62,7 +62,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 
 ## Related Strategies
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured planning–working–reflecting cycle that operationalizes the middle of the continuum
-- [Project-Based Learning](project-based-learning.md) — a common vehicle for the learner-as-designer end of the continuum
+- [Project-Based Learning](project-based-learning-pbl.md) — a common vehicle for the learner-as-designer end of the continuum
 
 ## Examples
 - **Elementary literacy menus**: students choose from teacher-designed reading response options, then graduate to proposing their own response formats — a classic application of [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md).

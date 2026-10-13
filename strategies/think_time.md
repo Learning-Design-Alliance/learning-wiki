@@ -60,7 +60,7 @@ Extending post-question pauses reliably increases the length and quality of lear
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a structured format that guarantees private think time before public response
 - [Cold Calling](cold-call.md) — cold calling combined with adequate wait time avoids the anxiety costs of cold calling alone
-- [Retrieval Practice](retrieval-practice.md) — think time during retrieval should be long enough to allow effortful search but not so long that learners abandon retrieval for review
+- [Retrieval Practice](retrieval-practice-activities.md) — think time during retrieval should be long enough to allow effortful search but not so long that learners abandon retrieval for review
 
 ## Related Elements
 - [Practice](../elements/practice.md) — think time during practice determines whether learners engage in effortful retrieval or pattern-match quickly

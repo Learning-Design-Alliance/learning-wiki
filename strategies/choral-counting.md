@@ -84,7 +84,7 @@ Choral Counting converts a procedural skill (skip counting) into a shared object
 - Counting Collections — the individual/small-group counterpart from the same published routine set; students count physical objects and record, deepening cardinality and unitizing
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — a short choral count can serve as a warm-up that surfaces prior knowledge before new content
 - [Number Talks](../strategies/number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
-- [Notice and Wonder](../strategies/notice-and-wonder.md) — the noticing protocol that structures the discussion phase
+- [Notice and Wonder](i-notice-i-wonder.md) — the noticing protocol that structures the discussion phase
 
 ## Examples
 - **Grade 2, counting by 5s in rows of 4:** students notice that the ones digit cycles 5, 0, 5, 0 within each row and connect it to 5 + 5 = 10, building an early model of why multiples of 5 alternate endings.
@@ -159,7 +159,7 @@ Choral Counting converts a procedural skill (skip counting) into an object of co
 ## Related Strategies
 - [Number Talks](../strategies/number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the count surfaces what learners already know about the increment before new instruction
-- [Notice and Wonder](../strategies/notice-and-wonder.md) — the noticing protocol that structures the discussion phase
+- [Notice and Wonder](i-notice-i-wonder.md) — the noticing protocol that structures the discussion phase
 
 ## Examples
 - **Choral Counting & Number Talks** (Franke & Turrou) — the published teacher resource and accompanying video library of classroom enactments (https://www.heinemann.com/choralcountingnumbertalks)

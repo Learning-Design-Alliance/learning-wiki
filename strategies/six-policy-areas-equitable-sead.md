@@ -44,7 +44,6 @@ The brief identifies six key policy issues for state and school leaders to creat
 - [Three state levers for supporting local SEAD implementation](three-state-levers-sead-implementation.md)
 - [Seven state-level policy actions to improve school discipline equity](seven-state-actions-improve-discipline-policy.md)
 - [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel-sead.md)
-- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel.md)
 - [Family, community, and student engagement as full partners in SEAD policy and practice](family-community-student-engagement-sead-partnerships.md)
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)

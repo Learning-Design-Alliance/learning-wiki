@@ -61,7 +61,7 @@ Multisyllable word instruction reduces the working-memory burden of decoding lon
 
 ## Related Strategies
 - [Phonics Instruction](phonics-instruction.md) — the single-syllable foundation on which multisyllable instruction builds
-- [Morphological Analysis](morphological-analysis.md) — affix-based word analysis that complements syllable division with meaning
+- [Morphological Analysis](morphological-analysis-instruction.md) — affix-based word analysis that complements syllable division with meaning
 - [Dictation](dictation.md) — the encoding counterpart that forces learners to apply syllable types in spelling
 
 ## Related Elements

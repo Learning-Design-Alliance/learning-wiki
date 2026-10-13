@@ -71,7 +71,7 @@ The manual's research strand rests on an intellectual foundation drawn from Fred
 - [Assignment-scoring standards and rubrics for authentic intellectual work in writing and mathematics](../elements/aiw-assignment-scoring-standards-rubrics.md)
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
 - [Chicago Annenberg classroom assignment collection and scoring system](../elements/annenberg-assignment-collection-scoring-system.md)
-- [Focus Projects on Issues of Justice](../strategies/focus_projects_on_issues_of_justice.md)
+- [Focus Projects on Issues of Justice](../strategies/focus_on_issues_of_justice.md)
 
 ## Key Sources
 - Wenzel, S., Nagaoka, J., Morris, L., Billings, S., & Fendt, C. (2002). Documentation of the 1996-2002 Chicago Annenberg Research Project Strand on Authentic Intellectual Demand Exhibited in Assignments and Student Work: A Technical Process Manual. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual
@@ -123,7 +123,7 @@ The authentic intellectual work framework, originally developed by the National 
 
 - [Chicago Annenberg classroom assignment collection and scoring system](../elements/annenberg-assignment-collection-scoring-system.md)
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
-- [Focus Projects on Issues of Justice](../strategies/focus_projects_on_issues_of_justice.md)
+- [Focus Projects on Issues of Justice](../strategies/focus_on_issues_of_justice.md)
 
 ## Key Sources
 - Anthony S. Bryk, Jenny K. Nagaoka, and Fred M. Newmann. (2000). Chicago Classroom Demands for Authentic Intellectual Work: Trends from 1997-1999. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/chicago-classroom-demands-authentic-intellectual-work-trends-1997-1999

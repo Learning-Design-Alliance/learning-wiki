@@ -55,7 +55,7 @@ Text Talk operationalizes dialogic questioning and vocabulary-in-context instruc
 2. Read aloud, pausing at stopping points to ask an open-ended question about the story's ideas — hold back the illustration until children have answered from the text.
 3. Follow up children's responses with probes ("Why do you think that?" "What in the story tells you that?") to extend reasoning.
 4. When a target word appears, give a brief, child-friendly explanation in context and connect it to children's experiences.
-5. After reading, revisit target words with questions requiring children to use them in new contexts ([Spaced Retrieval](spaced-retrieval.md) across subsequent days strengthens retention).
+5. After reading, revisit target words with questions requiring children to use them in new contexts ([Spaced Retrieval](spaced-retrieval-practice.md) across subsequent days strengthens retention).
 6. Extend with follow-up activities such as [Act It Out](../elements/act-it-out.md) or drawing/writing that reuses story language.
 
 ## Related Strategies

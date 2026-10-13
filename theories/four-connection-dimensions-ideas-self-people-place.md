@@ -51,7 +51,6 @@ The framework organizes connection into four essential dimensions: connection to
 - [System-level strategies to build enabling conditions for Powerful Learning](../strategies/system-level-strategies-powerful-learning-conditions.md)
 - [Real World Math Applications](../strategies/real-world_math_applications.md)
 - [Recall prior knowledge](../elements/recall-prior-knowledge.md)
-- [Real World_Math_Connections](../strategies/real-world_math_connections.md)
 - [Connecting Background Knowledge To Content](../strategies/connecting_background_knowledge_to_content.md)
 - [Making Connections](../strategies/making_connections.md)
 - [Cultivate curiosity and lower psychological barriers by opening each project with real-world motivation cases and simple accessible AI examples](../strategies/curiosity-cases-and-simple-examples-lower-barriers.md)

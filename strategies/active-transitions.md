@@ -57,7 +57,7 @@ Transitions are a recurring source of lost instructional time and off-task behav
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the cognitive transition variant primes schemas before new instruction
-- [Retrieval Practice](retrieval-practice.md) — transitions are a natural slot for low-stakes retrieval
+- [Retrieval Practice](retrieval-practice-activities.md) — transitions are a natural slot for low-stakes retrieval
 - [Brain Breaks](brain-breaks.md) — movement-focused transitions targeting regulation rather than content
 
 ## Examples

@@ -40,7 +40,7 @@ From study findings, the report offers four interrelated recommendations: presen
 ## Related Strategies
 
 - [Collect My Data](collect_my_data.md)
-- [Real World_Math_Connections](real-world_math_connections.md)
+- [Real World_Math_Connections](real-world_math_applications.md)
 
 ## Examples
 -

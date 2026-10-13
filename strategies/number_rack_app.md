@@ -59,7 +59,7 @@ The rekenrek's 5-and-10 structure exploits subitizing and the fives-structure of
 
 ## Related Strategies
 - [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the rack is an ideal modeling tool for CGI problem types
-- [Concrete-Representational-Abstract](../strategies/concrete-representational-abstract.md) — the app occupies the representational tier between counters and symbols
+- [Concrete-Representational-Abstract](concrete-representational-abstract-cra.md) — the app occupies the representational tier between counters and symbols
 
 ## Related Elements
 - [Practice](../elements/practice.md) — bead tasks must be frequent and varied to build fluency

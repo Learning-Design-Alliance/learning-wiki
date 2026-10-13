@@ -59,7 +59,7 @@ Authentic, purposeful tasks improve engagement and help learners see the value o
 
 ## Related Strategies
 - [Estimation Activities](estimation-activities.md) — the prediction-check cycle at the core of route tracking is a general estimation routine
-- [Real-World Math Connections](real-world_math_connections.md) — Map It Out! is a specific instance of situating computation in family life
+- [Real-World Math Connections](real-world_math_applications.md) — Map It Out! is a specific instance of situating computation in family life
 - [Travel Journals](travel_journals.md) — pairs naturally; the journal records the data the map work generates
 
 ## Examples

@@ -61,7 +61,7 @@ Affirmations work by protecting a learner's sense of self-integrity, which reduc
 ## Related Strategies
 - [Growth mindset framing](../strategies/growth-mindset-framing.md) — affirmations about malleable ability are a delivery vehicle for mindset messages
 - [Journaling](../strategies/journaling.md) — the written medium through which value affirmations are most often administered
-- [Self-monitoring](../strategies/self-monitoring.md) — noticing negative self-talk is the prerequisite step
+- [Self-monitoring](self-monitoring-strategies.md) — noticing negative self-talk is the prerequisite step
 
 ## Examples
 - **Value-affirmation writing before assessments** — In the Sherman et al. (2009) studies, middle-school students wrote a few sentences about a personally important value at the start of the term; the intervention narrowed the racial achievement gap over two years.

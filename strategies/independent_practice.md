@@ -59,7 +59,7 @@ Independent practice consolidates what guided instruction established, but its e
 
 ## Related Strategies
 
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the guided precursor; fading from worked examples to independent problems is the standard transition into independent practice
+- [Use Worked Examples](worked-examples-first.md) — the guided precursor; fading from worked examples to independent problems is the standard transition into independent practice
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration phase that should precede independent work
 - [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 

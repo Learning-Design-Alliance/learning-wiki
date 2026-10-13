@@ -75,7 +75,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 
 ## Related Strategies
 
-- [Formative feedback cycles](formative-assessment.md) — action oriented feedback is the delivery mechanism inside a formative loop
+- [Formative feedback cycles](formative-assessment-cycles.md) — action oriented feedback is the delivery mechanism inside a formative loop
 - [Erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — diagnosing a flawed example primes learners to give and receive action oriented comments
 - **Conferencing (writing workshop)** — the primary delivery vehicle for individualized action-oriented feedback
 - **Peer editing with protocols** — scales action-oriented feedback beyond the teacher

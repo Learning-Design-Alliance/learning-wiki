@@ -63,7 +63,7 @@ PWIM leverages the pairing of image and word to build vocabulary and word recogn
 
 - [Interactive Writing](interactive-writing.md) — shares the shared-text construction logic at the sentence level
 - [Word Walls](word-walls.md) — PWIM word banks function as a living, picture-anchored word wall
-- [Vocabulary Pre-Teaching](vocabulary-pre-teaching.md) — PWIM inverts it: vocabulary is elicited from learners rather than pre-taught
+- [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — PWIM inverts it: vocabulary is elicited from learners rather than pre-taught
 - [Use a word chart combining descriptive words and a drawn picture to build vocabulary knowledge](word-chart-vocabulary-activity.md)
 
 ## Examples

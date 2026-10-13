@@ -60,7 +60,7 @@ Exemplars give novices a concrete reference model, reducing unguided search duri
 6. Move immediately to a production task ([Practice](../elements/practice.md)) where learners apply the criteria, followed by self- or peer-assessment against them ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
-- [Worked Examples](worked-examples.md) — exemplar analysis applied to problem solving; the analysis prompts add the elaboration that plain worked examples often lack
+- [Worked Examples](worked-examples-first.md) — exemplar analysis applied to problem solving; the analysis prompts add the elaboration that plain worked examples often lack
 - [Comparing Cases](../elements/comparing-cases.md) — the multi-exemplar variant that drives abstraction of general principles
 - [Error Analysis](../principles/error-analysis.md) — using flawed exemplars as the object of diagnosis
 

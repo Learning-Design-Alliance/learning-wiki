@@ -43,8 +43,7 @@ The article recommends integrating the advantages of an AI-enabled immersive vir
 
 ## Related Strategies
 
-- [Virtual Reality (VR) Training](virtual-reality-vr-training.md)
-- [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Virtual Reality (VR) Training](virtual-reality-immersive-training.md)
 
 ## Examples
 -

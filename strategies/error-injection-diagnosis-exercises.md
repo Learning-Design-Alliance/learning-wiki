@@ -40,7 +40,7 @@ The article recommends giving students a subtly wrong simulation—sign error in
 
 - [Erroneous Examples](erroneous_examples.md)
 - [Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development](synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd.md)
-- [Emphasize Reasoning over Answers](emphasize_reasoning_over_answers.md)
+- [Emphasize Reasoning over Answers](de-emphasize-answers-emphasize-reasoning.md)
 - [White-box-then-black-box sequencing: transparent study of a method before opaque delegation](white-box-then-black-box-sequencing.md)
 
 ## Examples

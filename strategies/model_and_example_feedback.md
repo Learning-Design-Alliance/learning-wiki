@@ -58,7 +58,7 @@ Exemplars work because they convert abstract rubric language into perceptual, co
 5. Repeat with new exemplars as task complexity grows, fading annotation over time
 
 ## Related Strategies
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the problem-solving analogue: models of solutions rather than models of finished products
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: models of solutions rather than models of finished products
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — makes the *evaluation* reasoning visible, not just the product
 - [Action-Oriented Feedback](action-oriented-feedback.md) — exemplars show the target; actionable feedback tells learners how to close the gap
 

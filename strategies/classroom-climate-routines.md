@@ -61,7 +61,7 @@ Climate routines function as environmental scaffolding: by making social expecta
 
 ## Related Strategies
 
-- [Restorative practices circles](../strategies/restorative-practices-circles.md) — a community-building routine that doubles as a response to harm
+- [Restorative practices circles](restorative-circles.md) — a community-building routine that doubles as a response to harm
 - [Positive greetings at the door](../strategies/positive-greetings-at-the-door.md) — a single high-leverage entry routine with behavioral evidence
 - [Co-creating classroom norms](../strategies/co-creating-classroom-norms.md) — establishes the shared expectations routines then maintain
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)

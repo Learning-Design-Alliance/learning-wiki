@@ -103,7 +103,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 **[Demonstration](../elements/demonstration.md)** — the worked example is CLT's most direct instructional expression; by presenting a fully solved problem, demonstration eliminates the search component of problem solving, which is the primary source of extraneous load for novices.
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — concrete application of CLT's worked example effect; the study-then-solve cycle is a direct implementation of the example-problem sequence shown to reduce load and improve transfer.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — concrete application of CLT's worked example effect; the study-then-solve cycle is a direct implementation of the example-problem sequence shown to reduce load and improve transfer.
 
 **[User-Centered Design for Learning](../principles/user-centered-design-for-learning.md)** — applies CLT's extraneous-load concept to interface design: confusing navigation and inconsistent terminology impose extraneous load exactly as an unnecessarily split-attention diagram does.
 - [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/cognitive-load-management.md)

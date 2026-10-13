@@ -58,9 +58,9 @@ Whole class self-monitoring converts an individual behavior-management technique
 6. [Assess performance](../elements/assess-performance.md) by graphing class-wide on-task data, then gradually fade cue frequency as behavior stabilizes.
 
 ## Related Strategies
-- [Self-Monitoring](self-monitoring.md) — the individualized technique from which whole-class self-monitoring is adapted
+- [Self-Monitoring](self-monitoring-strategies.md) — the individualized technique from which whole-class self-monitoring is adapted
 - [Check-Ins](../principles/check-ins.md) — brief structured moments of reflection that can host the monitoring cycle
-- [Classroom Behavior Management Routines](classroom-routines.md) — the structured environment self-monitoring depends on
+- [Classroom Behavior Management Routines](classroom-routines-and-procedures.md) — the structured environment self-monitoring depends on
 
 ## Examples
 - **Classroom example**: An elementary teacher uses a variable-interval audio tone; students mark "Was I doing my work?" on a desk card, then the class graphs daily on-task percentages and discusses trends in a Friday meeting.

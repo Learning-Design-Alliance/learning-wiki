@@ -79,7 +79,7 @@ Arts integration works largely because it forces generative, multimodal encoding
 
 ## Related Strategies
 - [Drawing to Learn](drawing-to-learn.md) — the visual-arts subset, with the strongest direct evidence base
-- [Project-Based Learning](project-based-learning.md) — arts integration often operates as a project with an authentic creative product
+- [Project-Based Learning](project-based-learning-pbl.md) — arts integration often operates as a project with an authentic creative product
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — art tasks can surface intuitive models that instruction then revises
 
 ## Examples

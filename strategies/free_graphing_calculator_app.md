@@ -58,7 +58,7 @@ Calculator access generally supports conceptual learning and problem solving whe
 
 ## Related Strategies
 - [Desmos Classroom Activities](desmos-classroom-activities.md) — a graphing tool embedded in structured, responsive lessons; illustrates what this app lacks pedagogically
-- [Worked Examples](worked-examples.md) — the instructional complement the app does not provide for novices
+- [Worked Examples](worked-examples-first.md) — the instructional complement the app does not provide for novices
 
 ## Related Elements
 - [Procedural Information](../elements/procedural-information.md) — the app's reference tables supply just-in-time procedural support, but unlike instruction they do not teach the procedure

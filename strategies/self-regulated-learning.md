@@ -58,7 +58,7 @@ SRL instruction works because learners who monitor their understanding and adapt
 
 ## Related Strategies
 
-- [Retrieval Practice](../strategies/retrieval-practice.md) — a high-utility strategy SRL instruction should teach learners to choose over rereading
+- [Retrieval Practice](retrieval-practice-activities.md) — a high-utility strategy SRL instruction should teach learners to choose over rereading
 - [Formative Feedback](../strategies/formative-feedback.md) — supplies the external accuracy signal that makes self-monitoring trainable
 - [Goal Setting](../elements/goal-setting.md) — the forethought phase operationalized
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)

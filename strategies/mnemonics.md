@@ -57,7 +57,7 @@ Mnemonics work by imposing meaningful organization on otherwise arbitrary associ
 
 ## Related Strategies
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the verbal subset of mnemonic techniques
-- [Spaced Retrieval](spaced-retrieval.md) — the consolidation mechanism that makes mnemonic gains durable
+- [Spaced Retrieval](spaced-retrieval-practice.md) — the consolidation mechanism that makes mnemonic gains durable
 - [Chunking](../principles/chunking.md) — the general organizing principle mnemonics exploit
 
 ## Examples

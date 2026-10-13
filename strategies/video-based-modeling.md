@@ -59,7 +59,7 @@ Video modeling draws on observational learning research: learners extract a symb
 
 ## Related Strategies
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the narration method that makes video modeling more than silent observation
-- [Use Worked Examples](use_worked_examples.md) — video modeling is the dynamic, often psychomotor counterpart of the worked example
+- [Use Worked Examples](worked-examples-first.md) — video modeling is the dynamic, often psychomotor counterpart of the worked example
 - [Video Based Reflection](../elements/video-based-reflection.md) — uses video of the learner's own performance for analysis rather than an expert model
 
 ## Examples

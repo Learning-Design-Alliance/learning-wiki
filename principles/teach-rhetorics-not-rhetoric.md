@@ -53,7 +53,7 @@ The fifth operationalization values a multiplicity of voices while developing a 
 ## Examples
 
 - [Producing Counter-texts](../strategies/producing_counter-texts.md)
-- [Multimodal Composition](../strategies/multimodal_composition.md)
+- [Multimodal Composition](../strategies/composition_projects-multimodal.md)
 
 ## Key Sources
 - Cyphert, Dale. (1996). Taking the Helm in Critical Pedagogy: The Basic Speech Curriculum as an Operationalization of the Paradigm. https://eric.ed.gov/?id=ED403616

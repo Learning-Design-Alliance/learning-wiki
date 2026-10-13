@@ -57,7 +57,7 @@ Pre-reading quizzes exploit the pretesting effect: attempting to retrieve an ans
 5. After reading, briefly revisit the questions so learners confirm or correct their initial answers and resolve any errors.
 
 ## Related Strategies
-- [Retrieval practice](retrieval-practice.md) — pre-reading quizzes are retrieval practice applied before learning rather than after
+- [Retrieval practice](retrieval-practice-activities.md) — pre-reading quizzes are retrieval practice applied before learning rather than after
 - [Advance organizers](../elements/advance-organizers.md) — the orientation function of a pretest overlaps with expository advance organizers
 - [Activating prior knowledge](activating-prior-knowledge.md) — pretests surface what learners already know and expose gaps
 

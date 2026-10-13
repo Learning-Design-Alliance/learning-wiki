@@ -62,7 +62,7 @@ Anchors give knowledge a context of use, supporting transfer and making abstract
 
 - [Case-Based Learning](case-based-learning.md) — the closest relative; anchors are extended, media-rich cases with embedded data rather than completed narratives
 - [Problem-Based Learning](problem-based-learning.md) — shares the problem-first sequence but anchors emphasize a shared, detailed scenario over a brief problem statement
-- [Project-Based Learning](project-based-learning.md) — anchors can launch projects; the anchor supplies context while the project supplies production
+- [Project-Based Learning](project-based-learning-pbl.md) — anchors can launch projects; the anchor supplies context while the project supplies production
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](problem-situation-sequences-progressive-comprehension.md)
 
 ## Examples

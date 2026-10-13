@@ -60,7 +60,7 @@ Attribution retraining targets the motivational antecedents of persistence rathe
 
 ## Related Strategies
 - [Growth Mindset Interventions](growth-mindset-interventions.md) — adjacent belief-change strategy; attribution retraining is more specific and task-anchored
-- [Self-Regulated Learning Strategy Instruction](self-regulated-learning-strategy-instruction.md) — supplies the strategies that reattribution points toward
+- [Self-Regulated Learning Strategy Instruction](self-regulated-learning-instruction.md) — supplies the strategies that reattribution points toward
 - [Mastery-Oriented Feedback](mastery-oriented-feedback.md) — the ongoing feedback practice that sustains retrained attributions
 
 ## Examples

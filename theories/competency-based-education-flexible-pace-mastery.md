@@ -53,7 +53,7 @@ CBE is an educational model in which, as the brief states, "it measures learning
 
 - [Competency Based Progression](../strategies/competency-based-progression.md)
 - [Competency Based Learning](../strategies/competency-based-learning.md)
-- [Use Mastery Learning](../strategies/use_mastery_learning.md)
+- [Use Mastery Learning](../strategies/mastery-learning.md)
 - [Mastery Based Progression](../strategies/mastery-based-progression.md)
 - [Competency-Based Learning](../patterns/competency-based-learning.md)
 - [Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively](../strategies/student-agency-pace-and-work-mode.md)

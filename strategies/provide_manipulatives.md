@@ -77,8 +77,8 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 
 ## Related Strategies
 
-- [Concrete-Representational-Abstract sequence](../strategies/concrete-representational-abstract.md) — the instructional sequence that formalizes the fading of manipulatives
-- [Use Worked Examples](../strategies/use_worked_examples.md) — demonstrations can be enacted on manipulatives before learners act independently
+- [Concrete-Representational-Abstract sequence](concrete-representational-abstract-cra.md) — the instructional sequence that formalizes the fading of manipulatives
+- [Use Worked Examples](worked-examples-first.md) — demonstrations can be enacted on manipulatives before learners act independently
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
 
@@ -153,7 +153,7 @@ Manipulatives support learning when they function as *representations of* a conc
 ## Related Strategies
 
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
-- [Worked Examples](../strategies/use_worked_examples.md) — a teacher-modeled manipulation demonstrates how the object encodes the concept before learners manipulate independently
+- [Worked Examples](worked-examples-first.md) — a teacher-modeled manipulation demonstrates how the object encodes the concept before learners manipulate independently
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples

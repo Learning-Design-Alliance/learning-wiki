@@ -60,7 +60,7 @@ Because anxious learners' working memory is partially occupied by worry, reducin
 
 ## Related Strategies
 - [Growth Mindset Framing](growth-mindset-framing.md) — reframing ability as malleable removes a core anxiety driver
-- [Low-Stakes Testing](low-stakes-testing.md) — retrieval practice without grade threat builds both fluency and confidence
+- [Low-Stakes Testing](frequent-low-stakes-quizzes.md) — retrieval practice without grade threat builds both fluency and confidence
 - [Expressive Writing Before Assessment](expressive-writing-before-assessment.md) — the best-evidenced single regulation intervention
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — graduated difficulty keeps challenge within reach
 

@@ -61,7 +61,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 ## Related Strategies
 
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — complements RTI by making Tier 1 instruction accessible to the widest range of learners, reducing false referrals
-- [Formative Assessment](formative-assessment.md) — the classroom-level counterpart; RTI's progress monitoring is formative assessment institutionalized across tiers
+- [Formative Assessment](formative-assessment-cycles.md) — the classroom-level counterpart; RTI's progress monitoring is formative assessment institutionalized across tiers
 - [Differentiated Instruction](differentiated-instruction.md) — Tier 2 grouping is one structured form of differentiation
 - [Deploy prevention and intervention supports for underachieving gifted students](gifted-underachievement-interventions.md)
 - [Apply goal-line decision rules to CBM data to adjust IEP goals or revise instruction](cbm-goal-line-decision-rules-iep.md)

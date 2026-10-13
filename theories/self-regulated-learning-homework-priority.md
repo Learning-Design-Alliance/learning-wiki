@@ -45,11 +45,10 @@ The paper defines self-regulated learning as "the ability for a student to plan,
 ## Examples
 
 - [Self-Directed Learning](../principles/self-directed-learning.md)
-- [Teach Self-Regulation Skills](../strategies/teach_self-regulation_skills.md)
+- [Teach Self-Regulation Skills](../strategies/teach-self-regulation-strategies.md)
 - [Scaffolding for Self-Regulation](../strategies/scaffolding_self-regulation.md)
 - [Self Monitoring Strategies](../strategies/self-monitoring-strategies.md)
-- [Self Monitoring](../strategies/self-monitoring.md)
-- [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-strategy-instruction.md)
+- [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-instruction.md)
 
 ## Key Sources
 - Roschelle, J. & Hodkowski, N.M. (2020). Using Research on Homework to Improve Remote and Hybrid Learning [White Paper]. San Mateo, CA: Digital Promise. http://hdl.handle.net/20.500.12265/107

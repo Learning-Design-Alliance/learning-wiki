@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: formative-feedback
-aliases: [formative_feedback]
+aliases: [formative_feedback, use-formative-feedback]
 title: Formative Feedback
 description: Giving learners information about their work that tells them where they are going, how they are doing, and what to do next — while there is still time and opportunity to act on it.
 status: review
@@ -30,7 +30,7 @@ sources:
 # Formative Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 13 claims (9 for, 2 mixed, 2 against) · 22 studies (7 quant-synthesis, 6 review, 4 causal, 4 associational, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size · 2 claims rest on one study
+> **Evidence** · 14 claims (9 for, 2 mixed, 3 against) · 25 studies (9 quant-synthesis, 7 review, 4 causal, 4 associational, 1 theoretical), `q2`–`q4` · 8 of 25 report an effect size · 2 claims rest on one study
 
 ## Description
 Formative feedback is information given to a learner about their work, at a point where they can still change the work or their approach to the next one. What makes it formative is not its timing alone but its content and its consequence: it addresses the task or the process rather than the person, it names a specific next action, and it is followed by an opportunity to act. A comment on a returned final paper that no one will revise is summative regardless of how detailed it is.
@@ -52,6 +52,10 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - Timing that lets learners revise or retry — feedback delivered after the opportunity to act is wasted
 - A climate of psychological safety; learners must see feedback as information, not judgment
 - Follow-up structures: revision cycles, [Practice](../elements/practice.md), or [Coaching](../elements/coaching.md) that convert feedback into action
+- A clear target: learners must know what good performance looks like (criteria, exemplars, rubrics)
+- Low-stakes opportunities to perform and receive feedback ([Practice](../elements/practice.md), drafts, [Check-Ins](../elements/check-in.md))
+- Time and structure for learners to act on the feedback — revision, retry, or self-explanation
+- Feedback that specifies the gap and a next step, not just a grade
 
 #### Constraints
 - Feedback directed at the person — praise, ability attributions, discouragement — moves attention to the self and can depress subsequent performance [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-S]
@@ -62,6 +66,10 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - Peer-generated feedback varies in accuracy with the peer's own expertise, so it needs criteria and moderation [Peer feedback accuracy depends on expertise.](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
 - Overly detailed feedback can overwhelm novices; too little leaves experts unmoved — the [expertise-reversal effect](../theories/expertise-reversal-effect.md) applies to feedback granularity [~M]
 - In high-stakes evaluative climates, learners may optimize for the grade rather than the improvement the feedback describes [~M]
+- Feedback without an opportunity to apply it produces little learning gain [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [-M] — the "formative" label is meaningless unless the loop closes
+- Grades or scores attached to feedback can absorb attention and erase the effect of comments; learners focus on the number, not the advice [~S]
+- Overly frequent or vague praise reduces effectiveness and can create dependence on external evaluation [~M]
+- Feedback that highlights ability rather than strategy can harm motivation for struggling learners [~M]
 
 #### Implementation Variability
 - **Comment-only marking** — grades withheld until after revision, so the comment is the only available signal ([Effective Feedback](effective_feedback.md))
@@ -75,6 +83,10 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - Self-assessment: develops self-regulation as learners internalize the criteria [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - Automated feedback: scalable and immediate, but limited to well-specified task domains
 - The same formative logic applies to teacher professional growth: performance management framed as developmental rather than evaluative, with the teacher participating in setting goals, yields feedback that is more meaningful and applicable to daily practice
+- **Whole-class feedback**: common errors addressed collectively, saving time and reducing individual marking load
+- **Peer feedback**: structured protocols (e.g., two-stars-and-a-wish, gallery critique) build evaluative judgment while distributing the feedback load
+- **Automated feedback**: hints and correctness signals in platforms like Khan Academy or Codecademy deliver immediate, on-demand feedback at scale
+- **Self-assessment against exemplars**: learners compare their work to models, building the internal standards needed for independent performance
 
 ### Target Learners
 - Learners working on anything revisable — writing, design, code, performance, problem sets with re-attempts
@@ -84,6 +96,8 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - Requires care with learners for whom critique carries high social or emotional cost, where framing and privacy matter as much as content
 - High-achieving learners often need less corrective feedback and more challenge; excessive guidance can reduce their engagement [~M]
 - Learners with low self-efficacy need early, achievable success feedback to sustain persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Advanced learners benefit from feedback that raises challenge rather than confirms success [~W]
+- Younger learners need feedback delivered immediately and concretely; older learners can act on delayed, more abstract feedback [~M]
 
 ### Target Learning Goals
 - Improved performance on the specific task and on structurally similar later ones
@@ -93,6 +107,9 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - Skill refinement: closing specific gaps between current and target performance
 - Self-regulated learning: building learners' capacity to judge and adjust their own work
 - Conceptual understanding: feedback that surfaces misconceptions for revision [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
+- Skill refinement: correcting procedures and strategies during acquisition
+- Conceptual understanding: surfacing and addressing misconceptions before they stabilize
+- Self-regulation: building learners' capacity to judge and adjust their own work
 
 ### Instructions
 1. **Make the target visible first.** Share criteria or exemplars before the work begins, so feedback has something to point at ([Criteria Development](../elements/criteria-development.md)).
@@ -113,7 +130,10 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - [Exemplar-Based Feedback](exemplar-based-feedback.md) — using annotated examples to communicate the standard rather than describing it
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the assessment system that generates formative feedback
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — knowing the starting point makes the feedback gap meaningful
-- [Self-Monitoring](self-monitoring.md) — the internalized endpoint of formative feedback
+- [Self-Monitoring](self-monitoring-strategies.md) — the internalized endpoint of formative feedback
+- [Use Worked Examples](worked-examples-first.md) — exemplars set the quality standard that feedback references
+- [Use Retrieval Practice](retrieval-practice-activities.md) — retrieval tasks generate the evidence that formative feedback acts on
+- [Use Mastery Learning](mastery-learning.md) — formative feedback is the mechanism by which mastery thresholds are reached
 
 ## Examples
 
@@ -128,12 +148,16 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - **Khan Academy** — immediate correctness feedback and hint scaffolds on every practice item, so learners act on feedback within seconds.
 - **Peer observation programs in schools** — teachers observe colleagues using a structured framework and exchange developmental (non-evaluative) feedback, applying the same formative logic to educator growth; this works best when teachers help set the observation goals and feedback is decoupled from formal evaluation.
 - **Dylan Wiliam's "embedded formative assessment"** — engineering classroom discussions, hinge questions, and comment-only marking (no grades) so students must read and use the feedback.
+- **Dylan Wiliam's "embedded formative assessment"** techniques — hinge questions, comment-only marking, and traffic-light self-assessment — operationalize feedback loops in everyday classroom routines.
+- **Khan Academy** (https://www.khanacademy.org) — immediate correctness feedback and step-level hints on practice exercises, with mastery tracking that lets learners retry until proficient.
+- **Draft-and-revise writing workshops** — teacher and peer comments on drafts, with revision required before grading, so feedback is consequential.
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Shute, V. J. (2008). Focus on formative feedback. *Review of Educational Research, 78*(1), 153–189. [doi:10.3102/0034654307313795](https://doi.org/10.3102/0034654307313795)
 - Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. *Psychological Bulletin, 119*(2), 254–284. [doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+- Wiliam, D. (2011). *Embedded formative assessment*. Solution Tree Press.
 
 <!-- merged 2026-10-09 from strategies/formative_feedback ("Formative Feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -189,7 +213,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 ## Related Strategies
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the assessment system that generates formative feedback
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — knowing the starting point makes the feedback gap meaningful
-- [Self-Monitoring](self-monitoring.md) — the internalized endpoint of formative feedback
+- [Self-Monitoring](self-monitoring-strategies.md) — the internalized endpoint of formative feedback
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the core element this strategy operationalizes
@@ -207,4 +231,71 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Shute, V. J. (2008). Focus on formative feedback. *Review of Educational Research, 78*(1), 153–189. [doi:10.3102/0034654307313795](https://doi.org/10.3102/0034654307313795)
 - Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. *Psychological Bulletin, 119*(2), 254–284. [doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)
+-->
+
+<!-- merged 2026-10-13 from strategies/use-formative-feedback ("Use Formative Feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use Formative Feedback
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+
+## Description
+Formative feedback is information delivered to learners about the quality of their current understanding or performance, intended to be *used* to close the gap between present and desired performance. It is carried out through low-stakes tasks, quick checks, drafts, and targeted comments — with explicit opportunities for learners to revise or act on the information before summative assessment.
+
+## Design Implications
+
+Formative feedback is among the most consistently supported influences on achievement, but its effect depends on learners actually acting on it: feedback that arrives without a chance to revise is information, not instruction [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Feedback should be task-focused and actionable rather than person-focused; comments about the self ("you're so smart") do not tell learners what to do next and can undermine motivation when performance is threatened.
+
+### Context
+#### Requirements
+- A clear target: learners must know what good performance looks like (criteria, exemplars, rubrics)
+- Low-stakes opportunities to perform and receive feedback ([Practice](../elements/practice.md), drafts, [Check-Ins](../elements/check-in.md))
+- Time and structure for learners to act on the feedback — revision, retry, or self-explanation
+- Feedback that specifies the gap and a next step, not just a grade
+
+#### Constraints
+- Feedback without an opportunity to apply it produces little learning gain [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [-M] — the "formative" label is meaningless unless the loop closes
+- Grades or scores attached to feedback can absorb attention and erase the effect of comments; learners focus on the number, not the advice [~S]
+- Overly frequent or vague praise reduces effectiveness and can create dependence on external evaluation [~M]
+- Feedback that highlights ability rather than strategy can harm motivation for struggling learners [~M]
+
+#### Implementation Variability
+- **Whole-class feedback**: common errors addressed collectively, saving time and reducing individual marking load
+- **Peer feedback**: structured protocols (e.g., two-stars-and-a-wish, gallery critique) build evaluative judgment while distributing the feedback load
+- **Automated feedback**: hints and correctness signals in platforms like Khan Academy or Codecademy deliver immediate, on-demand feedback at scale
+- **Self-assessment against exemplars**: learners compare their work to models, building the internal standards needed for independent performance
+
+### Target Learners
+- Struggling learners benefit most from specific, strategy-focused feedback delivered early, before errors consolidate [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- Advanced learners benefit from feedback that raises challenge rather than confirms success [~W]
+- Younger learners need feedback delivered immediately and concretely; older learners can act on delayed, more abstract feedback [~M]
+
+### Target Learning Goals
+- Skill refinement: correcting procedures and strategies during acquisition
+- Conceptual understanding: surfacing and addressing misconceptions before they stabilize
+- Self-regulation: building learners' capacity to judge and adjust their own work
+
+### Instructions
+1. Establish criteria and show exemplars of strong and weak performance ([Non-Examples](../elements/non-examples.md) sharpen the criteria).
+2. Give a low-stakes task ([Practice](../elements/practice.md)) that generates evidence of current understanding.
+3. Deliver task-focused feedback that names the gap and one concrete next step — avoid grades on draft work.
+4. Build in structured time to revise or retry; the feedback loop closes only when learners act.
+5. Repeat with progressively less support, shifting responsibility toward [Self-Assessment](../elements/self-assessment.md) as evaluative judgment develops.
+
+## Related Strategies
+- [Use Worked Examples](worked-examples-first.md) — exemplars set the quality standard that feedback references
+- [Use Retrieval Practice](retrieval-practice-activities.md) — retrieval tasks generate the evidence that formative feedback acts on
+- [Use Mastery Learning](mastery-learning.md) — formative feedback is the mechanism by which mastery thresholds are reached
+
+## Examples
+- **Dylan Wiliam's "embedded formative assessment"** techniques — hinge questions, comment-only marking, and traffic-light self-assessment — operationalize feedback loops in everyday classroom routines.
+- **Khan Academy** (https://www.khanacademy.org) — immediate correctness feedback and step-level hints on practice exercises, with mastery tracking that lets learners retry until proficient.
+- **Draft-and-revise writing workshops** — teacher and peer comments on drafts, with revision required before grading, so feedback is consequential.
+
+## Key Sources
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+- Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+- Wiliam, D. (2011). *Embedded formative assessment*. Solution Tree Press.
+- Shute, V. J. (2008). Focus on formative feedback. *Review of Educational Research, 78*(1), 153–189. [doi:10.3102/0034654307313795](https://doi.org/10.3102/0034654307313795)
 -->

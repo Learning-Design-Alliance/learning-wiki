@@ -38,7 +38,7 @@ Because some students found single-theme short stories boring, the article recom
 
 ## Related Strategies
 
-- [Rich Library: Multimodal Resources](rich_library-multimodal_resources.md)
+- [Rich Library: Multimodal Resources](rich_library-multimodal.md)
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
 - [Sustained Silent Reading](sustained-silent-reading.md)
 - [Literature Circles](literature-circles.md)

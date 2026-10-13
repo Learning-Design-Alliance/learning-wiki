@@ -16,12 +16,12 @@ Page counts are regenerated with every index rebuild.
 
 | Type | Pages | Description |
 |------|-------|-------------|
-| [Principles](principles/) | 375 | Research-backed design commitments: what to do and why. |
+| [Principles](principles/) | 376 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 1,080 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 126 | Reusable instructional designs at the lesson or unit level. |
 | [Designs](designs/) | 713 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
 | [Products & Programmes](products/) | 1,579 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
-| [Strategies](strategies/) | 5,734 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Strategies](strategies/) | 5,578 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 420 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |

@@ -60,7 +60,7 @@ Elaborative interrogation is one of the most consistently supported learning tec
 ## Related Strategies
 
 - [Self-Explanation](../elements/self-explanation.md) — the sibling technique applied to one's own reasoning steps rather than stated facts
-- [Retrieval Practice](retrieval-practice.md) — complementary; interrogation elaborates at encoding, retrieval strengthens later
+- [Retrieval Practice](retrieval-practice-activities.md) — complementary; interrogation elaborates at encoding, retrieval strengthens later
 - [Rereading](rereading.md) — the low-yield technique elaborative interrogation typically replaces
 - [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](elaborative-interrogation-minimal-resource-adjunct.md)
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)

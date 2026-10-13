@@ -47,8 +47,7 @@ The brief recommends that educators "Begin interactions and lessons with groundi
 - [Mindfulness Breaks](mindfulness-breaks.md)
 - [Mindfulness And Breathing Exercises](mindfulness-and-breathing-exercises.md)
 - [Create structure and consistency through schedules, regular communication, and clear instructions in distance learning](structure-consistency-distance-learning-schedules.md)
-- [Mindfulness Techniques for Self-Regulation](mindfulness_techniques_for_self-regulation.md)
-- [Self-Regulation - Mindfulness Techniques](self-regulation_-_mindfulness_techniques.md)
+- [Mindfulness Techniques for Self-Regulation](mindfulness_techniques_for_emotional_regulation.md)
 - [Mindfulness Techniques for Managing Emotional Impulses](mindfulness_techniques_for_managing_emotional_impulses.md)
 - [Screen lessons, texts, activities, and videos in advance to ensure they are not activating for students and families](screen-materials-for-activating-content.md)
 

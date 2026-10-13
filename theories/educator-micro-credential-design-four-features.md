@@ -56,7 +56,6 @@ The report defines educator micro-credentials as an emerging learning design wit
 ## Examples
 
 - [Micro Credentials And Badging](../strategies/micro-credentials-and-badging.md)
-- [Micro Credentials](../strategies/micro-credentials.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
 - [Attach micro-credentials to district initiatives, incentives, and job-embedded structures to strengthen professional learning systems](../strategies/attach-micro-credentials-to-district-initiatives-and-incentives.md)
 - [Expand micro-credential systems into seven future content areas](../strategies/micro-credential-future-expansion-areas.md)

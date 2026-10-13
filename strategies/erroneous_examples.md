@@ -19,7 +19,7 @@ An erroneous example (also called an "incorrect example" or "faulty worked examp
 
 ## Design Implications
 
-Diagnosing errors forces learners to articulate *why* a step is wrong, which engages deeper processing than passively studying correct solutions and directly targets conceptual understanding [Studying erroneous examples with explanation prompts improves conceptual knowledge more than correct-only examples.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]. Errors should be plausible — drawn from real learner misconceptions or common procedural slips — so that diagnosis requires genuine reasoning rather than spotting an artificial absurdity. Because error analysis is more demanding than studying correct examples, it is typically sequenced after some correct [worked examples](../strategies/use_worked_examples.md) or paired with them in example–problem sequences [Example–problem pairs reduce cognitive load for novices relative to problem solving alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
+Diagnosing errors forces learners to articulate *why* a step is wrong, which engages deeper processing than passively studying correct solutions and directly targets conceptual understanding [Studying erroneous examples with explanation prompts improves conceptual knowledge more than correct-only examples.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]. Errors should be plausible — drawn from real learner misconceptions or common procedural slips — so that diagnosis requires genuine reasoning rather than spotting an artificial absurdity. Because error analysis is more demanding than studying correct examples, it is typically sequenced after some correct [worked examples](worked-examples-first.md) or paired with them in example–problem sequences [Example–problem pairs reduce cognitive load for novices relative to problem solving alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -51,7 +51,7 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 - Self-monitoring: building the habit of checking one's own work for characteristic errors
 
 ### Instructions
-1. Teach the correct procedure first, ideally with a [worked example](../strategies/use_worked_examples.md) so learners have a valid reference model.
+1. Teach the correct procedure first, ideally with a [worked example](worked-examples-first.md) so learners have a valid reference model.
 2. Present the erroneous example and prompt learners to (a) locate the error, (b) explain why it violates a principle, and (c) correct it — the explanation step is what drives conceptual gains [+M].
 3. Have learners compare the corrected version against the original correct example to consolidate the discrimination.
 4. Follow with standard [practice](../elements/practice.md) problems, prompting learners to check their own solutions for the class of error just diagnosed.
@@ -59,7 +59,7 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 
 ## Related Strategies
 
-- [Use Worked Examples](use_worked_examples.md) — the correct-solution counterpart; erroneous examples are typically sequenced after or alongside them
+- [Use Worked Examples](worked-examples-first.md) — the correct-solution counterpart; erroneous examples are typically sequenced after or alongside them
 - [Self-Explanation](../elements/self-explanation.md) — the explanation prompt that makes error diagnosis effective
 - [Faded Worked Examples](faded-worked-examples.md) — completion-format erroneous examples blend the two approaches
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)

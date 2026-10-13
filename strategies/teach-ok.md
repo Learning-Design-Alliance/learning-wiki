@@ -60,7 +60,7 @@ Teach-OK converts passive listening into [retrieval and explanation](../elements
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the slower, more open-ended discussion cousin; Teach-OK trades depth of reflection for pace and retrieval demand
 - [Jigsaw](jigsaw.md) — a longer-cycle peer teaching structure where each learner owns unique content
-- [Retrieval Practice](retrieval-practice.md) — the re-teaching turn is essentially a free-recall retrieval event
+- [Retrieval Practice](retrieval-practice-activities.md) — the re-teaching turn is essentially a free-recall retrieval event
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core mechanism; explaining to another person produces the "learning-by-teaching" benefit

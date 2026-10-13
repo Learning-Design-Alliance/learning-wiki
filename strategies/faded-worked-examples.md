@@ -59,7 +59,7 @@ Fading combines the working-memory benefits of [Worked Examples](../principles/w
 6. Monitor completion accuracy; slow the fade if error rates spike, accelerate it for learners solving completions quickly ([Adaptive Difficulty](../elements/adaptive-difficulty.md)).
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — the non-faded parent strategy; fading is its dynamic extension
+- [Use Worked Examples](worked-examples-first.md) — the non-faded parent strategy; fading is its dynamic extension
 - [Self-Explanation Prompting](self-explanation-prompts.md) — the standard companion, converting example study into generative processing
 - [Interleaving](interleaving.md) — faded sequences can be interleaved across problem types to build discrimination
 

@@ -42,7 +42,7 @@ The article recommends that when introducing AI partners in classrooms, educator
 
 ## Related Strategies
 
-- [Discussion Norms](discussion-norms.md)
+- [Discussion Norms](class-discussion-norms.md)
 - [Establishing Classroom Norms](establishing_classroom_norms.md)
 - [Structured Discussion Techniques](structured_discussion_techniques.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)

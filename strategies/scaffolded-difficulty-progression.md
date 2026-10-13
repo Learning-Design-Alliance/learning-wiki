@@ -53,7 +53,7 @@ Tasks pitched too high overload working memory and produce failure-driven diseng
 ### Instructions
 1. Analyze the target task to identify sources of difficulty (number of interacting elements, prior knowledge required, abstraction level).
 2. Assess entry knowledge and place learners at the appropriate starting level.
-3. Design the first task as a simplified or supported version of the whole task, using [Worked Examples](worked-examples.md) or [Scaffolding](../principles/scaffolding.md) to reduce load.
+3. Design the first task as a simplified or supported version of the whole task, using [Worked Examples](worked-examples-first.md) or [Scaffolding](../principles/scaffolding.md) to reduce load.
 4. Define explicit mastery criteria and check understanding before increasing difficulty ([Assessment](../elements/assessment.md)).
 5. Increase difficulty along one dimension at a time — complexity, novelty, or support removal — not all at once.
 6. Fade support in step with rising difficulty ([Fading](../elements/fading.md)), moving from worked examples to completion problems to independent [Practice](../elements/practice.md).

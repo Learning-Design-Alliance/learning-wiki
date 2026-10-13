@@ -44,7 +44,6 @@ An implementable fluency-building routine: students do "1-minute practice readin
 
 - Read Naturally Three Component Fluency Strategy
 - [Repeated Reading](repeated-reading.md)
-- [Repeated Reading for Fluency](repeated_reading_for_fluency.md)
 - [Reading Fluency Practice](reading-fluency-practice.md)
 - [Paired Repeated Reading](paired-repeated-reading.md)
 

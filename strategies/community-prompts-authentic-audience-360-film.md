@@ -39,8 +39,7 @@ Program observations identified the challenge prompts (share what makes your com
 
 ## Related Strategies
 
-- [Focusing Projects on Issues of Justice](focusing_projects_on_issues_of_justice.md)
-- [Focus on Issues of Justice](focus_on_issues_of_justice.md)
+- [Focusing Projects on Issues of Justice](focus_on_issues_of_justice.md)
 - [Racial Equity in PBL - Focus Projects on Issues of Justice](racial_equity_in_pbl_-_focus_projects_on_issues_of_justice.md)
 
 ## Examples

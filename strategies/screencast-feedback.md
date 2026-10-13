@@ -63,7 +63,7 @@ Screencast feedback leverages the redundancy and signaling affordances of combin
 ## Related Strategies
 - [Written margin comments](../strategies/written-feedback.md) — the default alternative; scannable but lower in tone and specificity
 - [Audio feedback](../strategies/audio-feedback.md) — the voice-only variant; retains tone but loses visual pointing
-- [Rubric-based feedback](../strategies/rubric-feedback.md) — provides the criteria structure a screencast can reference
+- [Rubric-based feedback](rubric-based-feedback.md) — provides the criteria structure a screencast can reference
 
 ## Examples
 - **Writing-intensive online courses**: instructors at many universities use Zoom or Kaltura to record 5-minute document walkthroughs of essay drafts before revision; research on such implementations (e.g., in Distance Education studies of screencast feedback) reports students rating screencasts as more useful and personal than written comments.

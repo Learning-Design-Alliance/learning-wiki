@@ -49,7 +49,7 @@ Among its guiding assumptions, the brief states that "Environments are more cond
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
 - [Rightful Presence Implementation Guide (swiftschools.org)](../elements/rightful-presence-implementation-guide.md)
 - [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md)
-- [Focusing Projects on Issues of Justice](../strategies/focusing_projects_on_issues_of_justice.md)
+- [Focusing Projects on Issues of Justice](../strategies/focus_on_issues_of_justice.md)
 - [Building a Trusting Community](../strategies/building_a_trusting_community.md)
 - [Co-designed future-oriented research questions on personalization, learning environments, engagement metrics, and reward systems](../elements/seernet-co-designed-research-questions.md)
 

@@ -81,7 +81,7 @@ Retrieval attempts strengthen orthographic representations more effectively than
 - [Cover-Copy-Compare](cover-copy-compare.md) — a self-managed variant requiring no teacher time
 - [Dictation](dictation.md) — the classic whole-class delivery format
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling mechanism that multiplies the value of each retrieval attempt
-- [Retrieval Practice](retrieval-practice.md) — the general strategy of which spelling retrieval is a domain application
+- [Retrieval Practice](retrieval-practice-activities.md) — the general strategy of which spelling retrieval is a domain application
 - [Feedback](../elements/feedback.md) — the corrective loop that makes retrieval safe and productive
 
 ## Examples
@@ -154,7 +154,7 @@ Retrieval — attempting to recall spelling before seeing the correct form — p
 
 ## Related Strategies
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling mechanism that multiplies the value of each retrieval attempt
-- [Retrieval Practice](retrieval-practice.md) — the general strategy of which spelling retrieval is a domain application
+- [Retrieval Practice](retrieval-practice-activities.md) — the general strategy of which spelling retrieval is a domain application
 - [Dictation](dictation.md) — a production task that embeds spelling retrieval in sentence context
 - [Feedback](../elements/feedback.md) — the corrective loop that makes retrieval safe and productive
 

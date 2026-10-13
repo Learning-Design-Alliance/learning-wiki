@@ -53,7 +53,7 @@ The report situates earned micro-credentials within "a larger micro-credential e
 
 - [Digital Promise micro-credential ecosystem on the BloomBoard platform](../products/digital-promise-micro-credential-platform.md)
 - [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](../products/digital-promise-micro-credentials.md)
-- [Micro Credentials](../strategies/micro-credentials.md)
+- [Micro Credentials](../strategies/micro-credentials-and-badging.md)
 
 ## Key Sources
 - Crow, T. (contributing author Pipkin, H.). (2017). Micro-credentials for Impact: Holding Professional Learning to High Standards. Learning Forward and Digital Promise. https://www.digitalpromise.org/micro-credentials

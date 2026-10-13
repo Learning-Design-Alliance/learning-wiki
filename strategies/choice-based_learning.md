@@ -60,7 +60,7 @@ Choice supports motivation primarily by satisfying the basic psychological need 
 
 ## Related Strategies
 - [Academic Choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — a structured planning–working–reflecting cycle that operationalizes choice for younger learners
-- [Project-Based Learning](../strategies/project-based-learning.md) — typically embeds topic and product choice within an extended authentic task
+- [Project-Based Learning](project-based-learning-pbl.md) — typically embeds topic and product choice within an extended authentic task
 
 ## Examples
 - **Montessori classrooms** — children select work from a prepared environment; the option set is curated so every choice is productive, an early and influential model of structured choice.

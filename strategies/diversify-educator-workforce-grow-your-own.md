@@ -50,7 +50,7 @@ The brief recommends states diversify and retain the educator workforce to foste
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability](marshall-plan-for-teaching-seven-areas.md)
 - [Grow-your-own teacher training programs targeting community members facing certification and career-change barriers](grow-your-own-toc-teacher-programs.md)
-- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel.md)
+- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel-sead.md)
 - [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)

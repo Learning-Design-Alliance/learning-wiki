@@ -41,7 +41,7 @@ The article recommends embedding the ReACT cycle — reasoning, acting, observin
 
 ## Related Strategies
 
-- [Simulation Learning](simulation_learning.md)
+- [Simulation Learning](simulation-based-learning.md)
 - [Action Research](action-research.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 

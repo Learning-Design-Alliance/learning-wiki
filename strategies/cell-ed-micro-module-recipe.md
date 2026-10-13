@@ -41,7 +41,7 @@ The brief describes Cell-Ed's implementable recipe for adult English language le
 
 ## Related Strategies
 
-- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](design-adult-edtech-short-mobile-contextualized.md)
+- [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](adult-edtech-design-short-mobile-first-contextualized.md)
 
 ## Examples
 -

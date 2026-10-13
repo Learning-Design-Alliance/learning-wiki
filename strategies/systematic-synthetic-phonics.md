@@ -59,7 +59,7 @@ SSP is the most strongly evidence-supported approach to early reading instructio
 
 ## Related Strategies
 - [Direct Instruction](../patterns/direct-instruction.md) — SSP is typically delivered through direct-instruction routines: teacher modeling, unison response, immediate feedback
-- [Decodable Text Reading](decodable-text-reading.md) — the application phase that makes phonics practice transferable
+- [Decodable Text Reading](decodable-text-reading-practice.md) — the application phase that makes phonics practice transferable
 - [Repeated Reading](repeated-reading.md) — builds the fluency and automaticity that phonics accuracy alone does not guarantee
 
 ## Examples

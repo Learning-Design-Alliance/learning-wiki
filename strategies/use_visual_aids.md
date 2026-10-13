@@ -58,7 +58,7 @@ Visual aids exploit the separation of visual and auditory processing channels in
 5. Follow with an activity that requires learners to use or reproduce the visual — labeling a blank diagram, drawing their own version, or explaining the visual to a peer.
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — worked examples are visual aids applied to problem solving; the solution steps function as a procedural diagram
+- [Use Worked Examples](worked-examples-first.md) — worked examples are visual aids applied to problem solving; the solution steps function as a procedural diagram
 - [Activate Background Knowledge](activating-prior-knowledge.md) — visuals can serve as the activation stimulus, surfacing prior knowledge before new content
 - [Chunking Information](chunking_information.md) — visual grouping is a primary chunking mechanism
 

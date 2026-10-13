@@ -70,7 +70,7 @@ Direct instruction reduces unguided search during initial learning, which is whe
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — Presents a fully solved problem with step-by-step reasoning before learners attempt similar problems; the canonical direct-instruction move for mathematics.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — Presents a fully solved problem with step-by-step reasoning before learners attempt similar problems; the canonical direct-instruction move for mathematics.
 
 **[National Institute for Direct Instruction (DI programs)](https://www.nifdi.org)** — Published curricula (e.g., *Reading Mastery*, *Connecting Math Concepts*) with scripted lessons, choral responding, and continuous assessment; the large-scale implementation of the Engelmann model.
 

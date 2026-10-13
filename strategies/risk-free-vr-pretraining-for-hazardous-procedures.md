@@ -38,10 +38,8 @@ The article recommends that virtual simulation complement physical training for 
 
 ## Related Strategies
 
-- [Virtual Reality Training](virtual-reality-training.md)
+- [Virtual Reality Training](virtual-reality-immersive-training.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
-- [Virtual Reality (VR) Training](virtual-reality-vr-training.md)
-- [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
 
 ## Examples

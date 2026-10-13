@@ -60,7 +60,7 @@ Well-designed performance tasks sit at the intersection of [Authentic Assessment
 
 ## Related Strategies
 - [Case-Based Learning](case-based-learning.md) — a common performance-task format built around realistic cases
-- [Project-Based Learning](project-based-learning.md) — extended performance tasks organized around a driving question and product
+- [Project-Based Learning](project-based-learning-pbl.md) — extended performance tasks organized around a driving question and product
 - [Portfolio Assessment](portfolio-assessment.md) — aggregates performance evidence across tasks over time
 
 ## Examples

@@ -78,7 +78,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - [Retrieval Practice](../elements/practice.md) — the mechanism spacing amplifies; spaced retrieval is the strongest known combination
 - [Interleaving](../elements/practice.md) — mixing problem types within spaced sessions adds a second desirable difficulty
 - [Cumulative Assessment](../elements/assess-performance.md) — course structures that force spaced review by design
-- [Retrieval Practice](retrieval-practice.md) — the activity that fills the spaced sessions; spacing and retrieval combine multiplicatively
+- [Retrieval Practice](retrieval-practice-activities.md) — the activity that fills the spaced sessions; spacing and retrieval combine multiplicatively
 - [Interleaved Practice](interleaved-practice.md) — a within-session complement that mixes problem types across spaced reviews
 - [Cumulative Review](cumulative-review.md) — curriculum-level mechanism for guaranteeing spacing without learner self-management
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
@@ -152,7 +152,7 @@ Distributed practice is one of the most robust findings in learning science: acr
 
 ## Related Strategies
 
-- [Retrieval Practice](retrieval-practice.md) — the activity that fills the spaced sessions; spacing and retrieval combine multiplicatively
+- [Retrieval Practice](retrieval-practice-activities.md) — the activity that fills the spaced sessions; spacing and retrieval combine multiplicatively
 - [Interleaved Practice](interleaved-practice.md) — a within-session complement that mixes problem types across spaced reviews
 - [Cumulative Review](cumulative-review.md) — curriculum-level mechanism for guaranteeing spacing without learner self-management
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)

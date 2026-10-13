@@ -46,7 +46,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - Cumulative review, so previously taught correspondences continue to appear
 - Materials for the tactile channel that do not themselves demand attention: sand trays, letter tiles, textured cards ([Word Building](word_building.md))
 - Immediate corrective feedback at the point of error, before the wrong mapping is rehearsed ([Immediate Feedback](../elements/immediate-feedback.md))
-- Decodable text so that new correspondences are practised in reading, not only in isolation ([Decodable Text Reading](decodable-text-reading.md))
+- Decodable text so that new correspondences are practised in reading, not only in isolation ([Decodable Text Reading](decodable-text-reading-practice.md))
 - Ongoing diagnostic assessment to place each learner in the sequence rather than teaching the whole class the same lesson
 - A systematic scope and sequence of grapheme–phoneme correspondences, taught cumulatively
 - Explicit teacher modeling of each correspondence before student production ([Direct Instruction](../patterns/direct-instruction.md))
@@ -100,7 +100,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 2. **Introduce one correspondence explicitly.** Name the grapheme, produce the phoneme, show the mouth position — do not ask learners to induce it from examples ([Demonstration](../elements/demonstration.md)).
 3. **Add the motor channel at the point of mapping.** Learner traces or builds the grapheme while saying the sound, so the action and the sound co-occur rather than alternate.
 4. **Blend into words immediately.** Move from the isolated correspondence into words containing it in the same session ([Word Building](word_building.md)).
-5. **Read it in connected text.** Practise the new correspondence in decodable text where it actually appears, so decoding transfers to reading ([Decodable Text Reading](decodable-text-reading.md)).
+5. **Read it in connected text.** Practise the new correspondence in decodable text where it actually appears, so decoding transfers to reading ([Decodable Text Reading](decodable-text-reading-practice.md)).
 6. **Spell it back.** Dictate words using the correspondence, since encoding checks the mapping in the other direction.
 7. **Correct at the point of error.** Interrupt and re-run the mapping immediately rather than letting the error be rehearsed ([Immediate Feedback](../elements/immediate-feedback.md)).
 8. **Review cumulatively.** Include previously taught correspondences in every session's word lists ([Practice](../elements/practice.md)).
@@ -110,7 +110,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 - [Explicit Systematic Phonics Instruction](explicit-systematic-phonics-instruction.md) — the evidenced core, without the multisensory layer
 - [Explicit Phonics Routines](explicit-phonics-routines.md) — the lesson-level routines that make the sequence deliverable
 - [Word Building](word_building.md) — the manipulative component in isolation
-- [Decodable Text Reading](decodable-text-reading.md) — where new correspondences get practised in real reading
+- [Decodable Text Reading](decodable-text-reading-practice.md) — where new correspondences get practised in real reading
 - [Building a Sound Wall](building_a_sound_wall.md) — a phoneme-organized reference that matches how the code is being taught
 - [Decoding Drills](decoding-drills.md) — the fluency-building practice that follows accurate mapping
 - Systematic phonics — the content backbone; multisensory delivery is a method layered on it

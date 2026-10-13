@@ -63,7 +63,7 @@ Difficult dialogues collapse when participants lack trust in the facilitator and
 ## Related Strategies
 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing existing beliefs before new content is a core preparation move
-- [Establishing Discussion Norms](establishing-discussion-norms.md) — the agreements component of ground preparation
+- [Establishing Discussion Norms](class-discussion-norms.md) — the agreements component of ground preparation
 - [Facilitating Difficult Dialogues](facilitating-difficult-dialogues.md) — the in-conversation counterpart to this pre-conversation work
 - [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
 - [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)

@@ -60,7 +60,7 @@ Drawing works because it combines multiple memory pathways: it engages [Dual Cod
 ## Related Strategies
 - [Concept Mapping](../elements/concept-mapping.md) — a structured, node-and-link variant of drawing focused on relational knowledge
 - [Sketchnoting](sketchnoting.md) — real-time visual note-taking combining drawing with [Annotating](../principles/annotating.md)
-- [Retrieval Practice](retrieval-practice.md) — drawing from memory is a retrieval activity with a generative visual component
+- [Retrieval Practice](retrieval-practice-activities.md) — drawing from memory is a retrieval activity with a generative visual component
 
 ## Examples
 - **Science sketching in elementary curricula**: programs such as the Lawrence Hall of Science's *FOSS* (Full Option Science System, https://www.fossweb.com) embed science notebooks in which students draw observations and mechanisms before writing explanations.

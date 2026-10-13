@@ -39,7 +39,7 @@ Based on observed variability in Gradebook use, the report recommends that CPS c
 
 ## Related Strategies
 
-- [Standards-/Mastery-Based Grading](standards-mastery-based-grading.md)
+- [Standards-/Mastery-Based Grading](standards-based-grading.md)
 
 ## Examples
 -

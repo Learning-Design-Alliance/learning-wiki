@@ -52,7 +52,7 @@ The article uses Paivio's dual coding theory (DCT) to explain why video plus nar
 - [Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension](../principles/multimodal-instruction.md)
 - [Dual Coding](../strategies/dual-coding.md)
 - [Multisensory Encoding](../strategies/multisensory-encoding.md)
-- [Illustration Through Multiple Media](../strategies/illustration_through_multiple_media.md)
+- [Illustration Through Multiple Media](../strategies/illustrate_through_multiple_media.md)
 
 ## Key Sources
 - Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1

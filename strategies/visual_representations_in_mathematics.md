@@ -59,8 +59,8 @@ Visual representations reduce working memory demands by holding intermediate qua
 5. Compare multiple representations of the same problem to build flexibility and support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
-- [Worked Examples](../strategies/use_worked_examples.md) — worked examples can embed completed diagrams, letting learners study expert representation choices
-- [Concrete-Representational-Abstract](../strategies/concrete-representational-abstract.md) — the broader sequencing framework this strategy fits within
+- [Worked Examples](worked-examples-first.md) — worked examples can embed completed diagrams, letting learners study expert representation choices
+- [Concrete-Representational-Abstract](concrete-representational-abstract-cra.md) — the broader sequencing framework this strategy fits within
 - [Analogies](../strategies/analogies.md) — a diagram functions as a visual analogy between an unfamiliar problem and a known structure
 
 ## Examples

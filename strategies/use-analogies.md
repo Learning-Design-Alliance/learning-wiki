@@ -75,8 +75,8 @@ Analogies are effective because they transfer *relational structure*, not surfac
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — analogies are a structured form of activation; both depend on what learners already hold
-- [Use Concrete Examples](use_concrete_examples.md) — examples instantiate the target directly; analogies import structure from outside it
-- [Use Multiple Representations](use_multiple_representations.md) — an analogy is one representation among several; combining them offsets any single analogy's distortions
+- [Use Concrete Examples](concrete-examples.md) — examples instantiate the target directly; analogies import structure from outside it
+- [Use Multiple Representations](multiple-representations.md) — an analogy is one representation among several; combining them offsets any single analogy's distortions
 
 ## Examples
 - **Electricity as water flow** — a staple of physics instruction: voltage as pressure, current as flow rate, resistance as pipe narrowing; effective only when instructors explicitly reject the "water is used up" implication.
@@ -146,7 +146,7 @@ Analogies improve comprehension and transfer when the source and target share de
 
 ## Related Strategies
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — analogies are a specific, high-leverage method of doing this
-- [Use Concrete Examples](../strategies/use_concrete_examples.md) — examples instantiate the target directly; analogies import structure from elsewhere
+- [Use Concrete Examples](concrete-examples.md) — examples instantiate the target directly; analogies import structure from elsewhere
 
 ## Examples
 - **Water-flow analogy for electric circuits** — widely used in physics teaching (e.g., PhET Interactive Simulations' circuit construction activities, https://phet.colorado.edu); effective when voltage/pressure and resistance/constriction are mapped, misleading if current "drains" is left uncorrected

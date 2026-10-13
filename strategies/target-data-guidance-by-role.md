@@ -41,7 +41,6 @@ The brief directs its recommendations and strategies at three distinct audiences
 ## Related Strategies
 
 - [Offer data-use recommendations and strategies targeted to state officials, district-level staff, and system developers](data-use-recommendations-for-state-district-system-developers.md)
-- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](targeted-recommendations-promote-effective-data-use.md)
 
 ## Examples
 -
