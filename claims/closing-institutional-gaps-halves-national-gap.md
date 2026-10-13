@@ -42,6 +42,9 @@ Decomposition analysis of the national gap into an institutional-gap component a
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The average within-institution Pell/non-Pell completion gap is only 5.7 percentage points, far smaller than the 14-point national gap](pell-institutional-gap-5-7-points.md) — related
 - [Pell Grant recipients at four-year institutions graduate at a rate 14 percentage points lower than non-Pell students nationally (51% vs. 65% in six years)](pell-nonpell-national-gap-14-points.md) — related

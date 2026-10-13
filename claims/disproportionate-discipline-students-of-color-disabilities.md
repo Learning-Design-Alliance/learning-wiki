@@ -42,6 +42,9 @@ Analysis of the U.S. Department of Education's Civil Rights Data Collection for 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related

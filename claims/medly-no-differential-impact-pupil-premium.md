@@ -42,6 +42,9 @@ Treatment-by-status interaction analysis in the same intention-to-treat framewor
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)](medly-micro-rct-improves-gcse-science-attainment.md) — related
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related

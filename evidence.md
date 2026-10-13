@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-179 claims are cited both ways.
+186 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [processes](processes/index.md) | 18 | 17 | 5 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
+| [learner-variables](learner-variables/index.md) | 14 | 14 | 60 | 0 |
 | [designs](designs/index.md) | 715 | 469 | 1 | 0 |
 | [products](products/index.md) | 1,579 | 1,265 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 423 | 371 | 1 | 0 |

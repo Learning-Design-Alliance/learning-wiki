@@ -42,6 +42,9 @@ Logistic regression analysis of College Scorecard, PVC ROI framework, and IPUMS 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related
 - [Controlling for Pell share reverses HBCUs' measured earnings premium under Threshold 1, from underperforming to outperforming non-MSIs by approximately $7,000](hbcu-earnings-premium-reversal-pell-control.md) — related

@@ -42,6 +42,9 @@ The study snapshot's key findings report that across 26 study districts, high- a
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
 - [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related

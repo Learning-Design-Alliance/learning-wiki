@@ -42,6 +42,9 @@ The report presents national degree-attainment data by family income (Figure 1, 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Bachelor's attainment by age 24 is 82 percent for the highest income quartile versus 8 percent for the lowest](bachelors-attainment-82-versus-8-by-quartile.md) — possibly the same claim (merge candidate)
 - [Illinois students from low-income families were less likely than higher-income peers to work in good jobs, with good-job rates rising steadily by parental earnings quintile](low-income-students-less-likely-good-jobs-by-quintile.md) — related

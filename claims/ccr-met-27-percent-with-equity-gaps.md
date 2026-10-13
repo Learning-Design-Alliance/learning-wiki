@@ -61,5 +61,8 @@ Descriptive analysis of 2017/18 graduate data by student group (figure 5). The r
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among 2018 on-time graduates, the most frequently unmet CCR requirements were laboratory science (37 percent), fine arts (29 percent), and world languages (23 percent)](most-unmet-requirements-science-arts-languages.md) — related

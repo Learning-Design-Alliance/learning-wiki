@@ -42,6 +42,9 @@ Key finding of the 26-district study of fourth- to eighth-grade teachers over fi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related
 - [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers-income.md) — possibly the same claim (merge candidate)

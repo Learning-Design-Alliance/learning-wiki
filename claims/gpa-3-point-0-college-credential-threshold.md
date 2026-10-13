@@ -42,6 +42,9 @@ The study's analysis of ninth-grade GPA against college credential attainment fo
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — related
 - [Combining GPA with attendance, or course failure rates with attendance, gives the best prediction of high school graduation for most English Learner groups but not long-term English Learners with IEPs](gpa-attendance-combination-best-graduation-prediction-el.md) — related

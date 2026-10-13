@@ -61,6 +61,9 @@ The 2007 unmet-need analysis by income quintile (Figure 13) reports top-quintile
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [At least 177,000 low-income high school graduates score high enough on the SAT/ACT to qualify for entry to a public research university](177000-high-achieving-low-income-graduates.md) — related
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related

@@ -61,6 +61,9 @@ Descriptive mean-difference patterns from the same generation comparison. The ar
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [First-generation students asked fewer questions overall than continuing-generation students in both sessions](first-generation-students-ask-fewer-ai-questions.md) — related
 - [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related

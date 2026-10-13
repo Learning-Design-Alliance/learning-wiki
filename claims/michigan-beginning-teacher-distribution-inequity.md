@@ -42,6 +42,9 @@ Analysis of Michigan workforce data by Opportunity Index band found students in 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In Michigan districts where most students are Black, students are far more likely than peers in majority-white districts to have inexperienced or out-of-field teachers](majority-black-districts-teacher-quality-gap.md) — related
 - [In Michigan, students in high-poverty districts are far more likely to be taught by out-of-field teachers than students in low-poverty districts](michigan-high-poverty-districts-out-of-field-teachers.md) — related

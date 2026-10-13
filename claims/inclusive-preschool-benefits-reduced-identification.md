@@ -43,6 +43,9 @@ The report's research review, citing Diamond (2001), Odom et al. (2004), Kwon et
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students](formal-early-childhood-experience-reduces-risk.md) — related
 - [Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district](multidistrict-selpas-without-large-district-higher-funding-inclusion.md) — related

@@ -80,6 +80,9 @@ Chapter 2 analysis using census-block median family income as a proxy for socioe
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related

@@ -41,6 +41,9 @@ Regression analysis by IEP status; Table 3 reports effect sizes up to 0.23 SD fo
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Multilingual learners gained more in higher-tier programs than non-multilingual learners, with Tier 5 gains of 2.6–2.8 additional months](multilingual-learners-larger-gains-higher-tiers.md) — related
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related

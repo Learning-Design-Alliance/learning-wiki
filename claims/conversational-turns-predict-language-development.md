@@ -59,6 +59,9 @@ The original study observed 42 families across a range of socioeconomic backgrou
 ## Discussion
 The shift from "word count" to "conversational turns" as the operative mechanism has a direct, practical implication for instructional and parenting guidance: interventions that simply increase the volume of language a child is exposed to (background media, more talking *at* a child) are less well-supported than interventions that increase genuine back-and-forth interaction. This claim should be read as a corrective to, rather than an outright replacement of, the Hart and Risley line of research — both point toward the same practical conclusion (responsive interaction matters), even though the original "30 million word" framing has not held up in its most literal form.
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related

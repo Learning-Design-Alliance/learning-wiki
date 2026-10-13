@@ -42,6 +42,9 @@ CRDC analysis disaggregating suspension rates by disability status and race (Fig
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — a broader claim this one bears on

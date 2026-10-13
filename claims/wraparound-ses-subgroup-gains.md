@@ -42,6 +42,9 @@ Subgroup analyses from the same 2023-24 quasi-experimental study of the Wraparou
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](ixl-math-positive-subgroup-impacts.md) — related
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](wraparound-ses-improves-math-achievement.md) — a broader claim this one bears on

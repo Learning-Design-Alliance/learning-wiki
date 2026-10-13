@@ -42,6 +42,9 @@ Heterogeneity analysis (table 10) of the randomized comparison: the printed year
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools](eitp-heterogeneity-baseline-achievement.md) — related
 - [The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant](eitp-year1-math-effect-null.md) — related

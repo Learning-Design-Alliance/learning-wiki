@@ -42,6 +42,9 @@ School-poverty subgroup analysis within the MAP Growth observational dataset (8.
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
 - [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) — related

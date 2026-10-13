@@ -42,6 +42,9 @@ The key findings report that youth with an IEP are "more likely than in the past
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related

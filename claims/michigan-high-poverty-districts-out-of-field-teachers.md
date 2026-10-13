@@ -42,6 +42,9 @@ Analysis of Michigan educator workforce data (MI School Data 23-24 Annual Educat
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In Michigan districts where most students are Black, students are far more likely than peers in majority-white districts to have inexperienced or out-of-field teachers](majority-black-districts-teacher-quality-gap.md) — related
 - [Students in Michigan's highest-poverty districts are nearly three times more likely to learn from beginning teachers than peers in low-poverty districts](michigan-beginning-teacher-distribution-inequity.md) — related

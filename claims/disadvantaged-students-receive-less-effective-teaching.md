@@ -60,6 +60,9 @@ The brief summarizes recent IES studies using value-added measures of teacher ef
 
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — a narrower finding that bears on this claim

@@ -42,6 +42,9 @@ Analysis of CS enrollment by neighborhood SES with and without adjustment for sc
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related

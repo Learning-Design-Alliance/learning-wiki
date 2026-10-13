@@ -42,6 +42,9 @@ The study of 120 low-income preschool and kindergarten children reports replicat
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children](tom-predicts-concurrent-academic-outcomes.md) — related
 - [A combination of sociocognitive variables predicts concurrent academic outcomes at school entry](sociocognitive-combination-predicts-school-entry-outcomes.md) — related

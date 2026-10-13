@@ -42,6 +42,9 @@ The study of the Spring 2019 state summative assessment found subgroup differenc
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](disengagement-material-individual-scores-minor-aggregations.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related

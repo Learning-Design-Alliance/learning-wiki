@@ -42,6 +42,9 @@ The brief translates the value-added disparity into weeks of learning, reporting
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](district-variation-teaching-disparity.md) — related
 - [One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap](teaching-disparity-share-of-achievement-gap.md) — related

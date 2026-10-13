@@ -42,6 +42,9 @@ The report's key findings summarize comparisons from the NLTS 2012 national long
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP](504-plan-youth-intermediate-challenge-level.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related

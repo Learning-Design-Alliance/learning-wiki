@@ -42,6 +42,9 @@ Reflective editorial section on financial barriers, drawn from the authors' shar
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](thirteen-first-generation-chemists-scope-limit.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related

@@ -42,6 +42,9 @@ Retrospective matched study in a large suburban district with over 3,000 element
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Imagine IM shows consistent positive impacts on student math achievement across three prospective quasi-experimental studies, with an average effect size of +0.11 across four studies](imagine-im-average-effect-size-011-moderate-rating.md) — a broader claim this one bears on
 - [In a small urban district in Iowa with over 4,400 students in grades K-5, Imagine IM showed directionally positive impacts on FastBridge earlyMath (+0.10) and aMath (+0.04), with significant subgroup effects and no meaningful differences on the state math assessment](imagine-im-iowa-study-fastbridge-subgroups.md) — related

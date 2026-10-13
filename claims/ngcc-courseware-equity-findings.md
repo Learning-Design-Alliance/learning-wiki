@@ -61,6 +61,9 @@ Secondary analysis of subgroup independence across NGCC impact studies, reportin
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related

@@ -42,6 +42,9 @@ The fact sheet reports from the NLTS 2012 decade comparison that "Youth with an 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — related
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related

@@ -42,6 +42,9 @@ The report's research synthesis states that "exclusionary responses, such as sus
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — possibly the same claim (merge candidate)
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related

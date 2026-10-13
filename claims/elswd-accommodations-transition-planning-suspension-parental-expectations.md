@@ -42,6 +42,9 @@ Descriptive comparison of accommodations, transition planning, suspension, and p
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related
 - [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related

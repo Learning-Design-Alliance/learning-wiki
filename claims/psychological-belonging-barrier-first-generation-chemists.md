@@ -44,6 +44,7 @@ Reflective editorial section identifying psychological factors as an "often unde
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related

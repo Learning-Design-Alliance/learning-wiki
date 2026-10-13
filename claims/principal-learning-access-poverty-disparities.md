@@ -42,6 +42,9 @@ National and California principal survey analyses found principals in low-povert
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — possibly the same claim (merge candidate)

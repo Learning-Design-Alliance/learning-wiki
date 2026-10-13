@@ -42,6 +42,9 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related

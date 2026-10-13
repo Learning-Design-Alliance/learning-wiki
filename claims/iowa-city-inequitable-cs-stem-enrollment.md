@@ -42,6 +42,9 @@ The district's own equity challenge statement, made in its participation in Equi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — a broader claim this one bears on
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — possibly the same claim (merge candidate)

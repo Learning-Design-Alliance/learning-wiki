@@ -42,5 +42,8 @@ Descriptive comparison of question counts by generation status across the two se
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](generation-differences-in-question-type-usage.md) — related

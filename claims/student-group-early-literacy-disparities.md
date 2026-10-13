@@ -42,6 +42,9 @@ Observational analysis of 2020/21 and 2021/22 screening data across all grantee 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)](early-literacy-persistence-below-benchmark.md) — related
 - [K–3 students in Massachusetts grantee schools with the highest percentages of historically marginalized student groups were more likely to be below literacy benchmark at least once and to stay below across the year](marginalized-group-schools-early-literacy-benchmark-gaps.md) — related

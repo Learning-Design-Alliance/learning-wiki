@@ -42,6 +42,9 @@ The snapshot reports as a key finding that in the average of the 26 study distri
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — a narrower finding that bears on this claim
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related

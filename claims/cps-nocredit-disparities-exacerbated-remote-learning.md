@@ -42,6 +42,9 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020](cps-grades-4-8-no-credit-incompletes-spring-2020.md) — related

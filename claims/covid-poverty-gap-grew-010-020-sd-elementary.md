@@ -42,5 +42,8 @@ Observational analysis of 5.4 million students' test scores comparing low-povert
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related

@@ -42,6 +42,9 @@ The brief attributes this tipping-point claim to prior researchers, citing work 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related

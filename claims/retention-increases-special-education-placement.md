@@ -42,6 +42,9 @@ Tracking of retained cohorts under the CPS promotional policy shows an 18 percen
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related
 - [Retained sixth graders had lower achievement growth than promoted low-achieving counterparts](sixth-grade-retention-lowered-achievement-growth.md) — related

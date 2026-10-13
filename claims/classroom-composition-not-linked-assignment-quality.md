@@ -42,6 +42,9 @@ Classroom-level correlational analysis across the fieldwork sample of 437 classe
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related

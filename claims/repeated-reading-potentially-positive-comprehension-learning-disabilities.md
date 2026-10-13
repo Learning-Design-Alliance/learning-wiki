@@ -44,6 +44,7 @@ WWC synthesis of two randomized controlled trials meeting group design standards
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)](read-naturally-potentially-positive-general-reading-achievement.md) — related

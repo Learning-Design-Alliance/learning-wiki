@@ -42,6 +42,9 @@ The fact sheet reports, from the National Longitudinal Transition Study 2012 com
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-most-positive-change.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related

@@ -42,6 +42,9 @@ The study examined state responses to capitation policies for special education 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories](capitation-declines-subjective-mild-categories.md) — a narrower finding that bears on this claim
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related

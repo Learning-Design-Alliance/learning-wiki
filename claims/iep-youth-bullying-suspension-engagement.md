@@ -42,6 +42,9 @@ Key findings from the NLTS 2012 comparisons report that "The vast majority of yo
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with a 504 plan face fewer functional, social, and educational challenges than youth with an IEP, but more than other youth without an IEP](504-plan-youth-intermediate-challenge-level.md) — related
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related

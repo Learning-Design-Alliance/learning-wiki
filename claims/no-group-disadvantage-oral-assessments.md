@@ -42,6 +42,9 @@ The review reports, citing Huxham et al. (2012), a comparison of subgroup disadv
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related

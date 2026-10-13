@@ -43,6 +43,9 @@ Meta-regression of the single-case design sample testing student-characteristic 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
 - [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related

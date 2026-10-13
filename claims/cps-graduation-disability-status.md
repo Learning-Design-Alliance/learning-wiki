@@ -44,6 +44,7 @@ Descriptive table of four-year graduation rates by disability category for the 2
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Students with IEPs related to disabilities other than learning disabilities graduated at a far lower rate (46.4%) than students with learning-disability IEPs (77.5%) or without IEPs (84.6%)](cps-graduation-disability-gaps.md) — possibly the same claim (merge candidate)

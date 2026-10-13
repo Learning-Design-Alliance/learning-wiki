@@ -42,6 +42,9 @@ Successive-criteria analysis of IPEDS 2009 data: the 65 low-net-price institutio
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [All but five public flagships charge low-income students net prices above $4,600, and none of the five affordable flagships enrolls low-income students at or above the national average](flagships-unaffordable-or-inaccessible-to-low-income.md) — related
 - [For-profit colleges cluster in the high-net-price, low-graduation region, with 94 percent of their low-income students paying more than 100 percent of family income](for-profits-cluster-high-price-low-graduation.md) — related

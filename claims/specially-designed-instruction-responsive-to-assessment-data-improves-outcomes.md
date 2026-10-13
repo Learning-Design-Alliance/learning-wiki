@@ -42,6 +42,9 @@ The brief asserts, citing four studies (Al Otaiba et al., 2014; Hurwitz et al., 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related

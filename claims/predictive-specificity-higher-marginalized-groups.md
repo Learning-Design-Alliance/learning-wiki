@@ -42,6 +42,9 @@ Logistic regression analysis of predictive specificity by student group. The aut
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — related
 - [Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts](never-expelled-stronger-predictor-marginalized-groups.md) — related

@@ -61,6 +61,9 @@ Analysis of student composition within SAT quartiles (Figure 5). The report stat
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Pell Grant recipients at four-year institutions graduate at a rate 14 percentage points lower than non-Pell students nationally (51% vs. 65% in six years)](pell-nonpell-national-gap-14-points.md) — related
 - [About 35 percent of institutions serve Pell recipients nearly as well as non-Pell recipients, while a similar share have gaps exceeding 9 percentage points](pell-gap-institution-distribution.md) — related

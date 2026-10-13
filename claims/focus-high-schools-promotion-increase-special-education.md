@@ -42,6 +42,9 @@ The report's summary of outcome changes states there was "an overall increase in
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Boston's Focus on High Schools initiative was associated with reductions in student math and English scores after implementation](focus-high-schools-math-english-score-reductions.md) — related
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related

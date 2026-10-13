@@ -42,6 +42,9 @@ The brief reports this ECLS-K finding, citing Zill & West (2001), as background 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students from poor families lag behind more affluent peers in early elementary math performance](poor-families-lag-affluent-peers-early-math.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — a broader claim this one bears on

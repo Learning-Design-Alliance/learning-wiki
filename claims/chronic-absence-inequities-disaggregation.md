@@ -42,6 +42,9 @@ The brief states these groups are "more likely to be chronically absent from sch
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Low-income and multilingual parents report less welcoming school staff and more negative school experiences than higher-income and English-speaking parents](unwelcoming-staff-barrier-low-income-multilingual-parents.md) — related
 - [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related

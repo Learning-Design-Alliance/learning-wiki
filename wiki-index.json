@@ -3,7 +3,7 @@
 "claim":17957,
 "design":715,
 "element":1080,
-"learner-variable":12,
+"learner-variable":14,
 "method":38,
 "pattern":126,
 "principle":377,
@@ -176452,6 +176452,14 @@
 "type":"learner-variable"
 },
 {
+"description":"Identified learning, developmental and intellectual disabilities (dyslexia and other specific learning disabilities, autism, intellectual disability), and the special educational needs that follow from them.",
+"id":"learning-disabilities",
+"path":"learner-variables/learning-disabilities.md",
+"status":"draft",
+"title":"Learning Disabilities and Developmental Differences",
+"type":"learner-variable"
+},
+{
 "description":"Whether a learner is willing to spend effort here, and what makes the spending feel worth it.",
 "id":"motivation",
 "path":"learner-variables/motivation.md",
@@ -176481,6 +176489,14 @@
 "path":"learner-variables/self-regulation.md",
 "status":"draft",
 "title":"Self-Regulation",
+"type":"learner-variable"
+},
+{
+"description":"A learner's family income, wealth, parental education and occupation, and the resources and constraints that come with them.",
+"id":"socioeconomic-status",
+"path":"learner-variables/socioeconomic-status.md",
+"status":"draft",
+"title":"Socioeconomic Status",
 "type":"learner-variable"
 },
 {
@@ -273531,10 +273547,12 @@
 "belonging":"belonging",
 "digital-literacy":"digital-literacy",
 "domain-context":"domain-context",
+"learning-disabilities":"learning-disabilities",
 "motivation":"motivation",
 "prior-knowledge":"prior-knowledge",
 "reading-and-language":"reading-and-language",
 "self-regulation":"self-regulation",
+"socioeconomic-status":"socioeconomic-status",
 "time-and-continuity":"time-and-continuity",
 "working-memory":"working-memory"
 },

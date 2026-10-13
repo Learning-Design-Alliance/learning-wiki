@@ -42,6 +42,9 @@ Figure 11a comparison of Black charter students in poverty against their Black T
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — a broader claim this one bears on

@@ -42,6 +42,9 @@ The brief reports district-level variation in the teaching-effectiveness dispari
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — a broader claim this one bears on
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — related

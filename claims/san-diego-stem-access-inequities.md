@@ -80,6 +80,9 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — a narrower finding that bears on this claim
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — a narrower finding that bears on this claim

@@ -42,6 +42,9 @@ The report's key findings place youth with a 504 plan between the other groups: 
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — related

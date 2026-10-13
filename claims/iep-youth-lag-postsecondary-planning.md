@@ -42,6 +42,9 @@ Among the report's key findings on transition preparation, "Youth with an IEP la
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related

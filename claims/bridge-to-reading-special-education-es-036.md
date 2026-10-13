@@ -42,5 +42,8 @@ Subgroup analysis within the 2024-2025 Michigan Tier 2 study of 873 first and se
 ## Discussion
 
 
+## Learner Variables
+- [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](greenfield-literacy-sped-larger-gains.md) — related

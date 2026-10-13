@@ -42,6 +42,9 @@ Institution-by-institution analysis of IPEDS net-price data for the 50 flagships
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Only 29 low-net-price institutions graduate at least half their students, and only five of those enroll at least 30 percent low-income students](only-29-low-net-price-institutions-graduate-half.md) — related
 - [Low-income students are underrepresented and high-income students overrepresented at public research-extensive universities relative to college enrollment overall](low-income-underrepresentation-public-research-universities.md) — related

@@ -42,6 +42,9 @@ School-poverty gap models comparing students in schools with over 75% FRPL eligi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related

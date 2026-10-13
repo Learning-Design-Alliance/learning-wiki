@@ -42,6 +42,9 @@ Reflective editorial section reporting the authors' collective structured writin
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related

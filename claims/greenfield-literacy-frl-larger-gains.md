@@ -42,6 +42,9 @@ In the same quasi-experimental study of 482 third graders across 15 elementary s
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](greenfield-literacy-sped-larger-gains.md) — related
 - [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](greenfield-literacy-training-caaspp-ela-gain.md) — a broader claim this one bears on

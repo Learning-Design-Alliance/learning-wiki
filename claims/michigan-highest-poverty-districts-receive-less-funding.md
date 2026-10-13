@@ -42,6 +42,9 @@ National funding-formula research cited in the report's introduction shows Michi
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](michigan-low-income-weight-11-5-percent-loophole.md)

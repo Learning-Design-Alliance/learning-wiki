@@ -42,6 +42,9 @@ The report describes a large-scale study of "over 700 state preschool classrooms
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs](economically-diverse-preschool-language-gains.md) — related
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — a broader claim this one bears on

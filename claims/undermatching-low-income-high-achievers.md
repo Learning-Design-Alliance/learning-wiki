@@ -42,6 +42,9 @@ The report cites the most recent analysis (Bowen, Chingos, and McPherson, 2009; 
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related

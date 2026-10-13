@@ -42,6 +42,9 @@ Comparative analysis of associations between relational trust and school enrollm
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Teachers and students in Valparaíso and Illinois responded similarly and positively about trust among teachers, between teachers and principals, and between students and teachers](relational-trust-similar-positive-valparaiso-illinois.md) — related
 - [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related

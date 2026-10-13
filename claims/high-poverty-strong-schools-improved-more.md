@@ -42,6 +42,9 @@ Quantitative study of 2011–18 CPS data compared improvement among elementary s
 ## Discussion
 
 
+## Learner Variables
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — a broader claim this one bears on
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
