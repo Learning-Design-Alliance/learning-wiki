@@ -59,7 +59,7 @@ SMA converts attention from an invisible, unexamined state into an object of exp
 6. Fade the cue and recording sheet as on-task behavior stabilizes, shifting to periodic check-ins ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
-- [Self-monitoring of performance](self-monitoring-of-performance.md) — same mechanism applied to academic output rather than attention
+- [Self-monitoring of performance](self-monitoring-of-performance-smp.md) — same mechanism applied to academic output rather than attention
 - [Goal setting](../elements/goal-setting.md) — pairing a target with the monitoring record strengthens effects
 - [Self-reinforcement](self-reinforcement.md) — learners reward themselves for meeting attention goals
 - [Checklists](checklists.md) — a related externalized self-evaluation format

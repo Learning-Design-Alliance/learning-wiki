@@ -39,7 +39,7 @@ The brief presents self-assessment as the formative assessment practice supporti
 ## Related Strategies
 
 - [Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition](five-teacher-moves-build-el-agency.md)
-- [Formative Assessment](formative-assessment.md)
+- [Formative Assessment](formative-assessment-cycles.md)
 
 ## Examples
 -

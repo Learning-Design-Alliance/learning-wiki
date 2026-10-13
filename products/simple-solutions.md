@@ -76,7 +76,7 @@ Simple Solutions is a spiral review supplement designed to build long-term maste
 - [Independent Practice](../strategies/independent_practice.md)
 - [Daily Review](../strategies/daily_review.md)
 - [Distributed Practice](../strategies/distributed-practice.md)
-- [Spaced Practice](../strategies/spaced_practice.md)
+- [Spaced Practice](../strategies/spaced-practice-scheduling.md)
 - [Cumulative Review](../strategies/cumulative-review.md)
 - [Implement the spiral-review supplement with existing classroom staff, teacher onboarding training, and weekly computer-based quizzes](../strategies/low-staffing-spiral-review-implementation.md)
 

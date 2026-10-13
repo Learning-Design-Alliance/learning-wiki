@@ -60,7 +60,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 
 ## Related Strategies
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical reading-comprehension application of the modeling–coaching–fading cycle
-- [Worked Examples](use_worked_examples.md) — the demonstration phase rendered as a self-study artifact
+- [Worked Examples](worked-examples-first.md) — the demonstration phase rendered as a self-study artifact
 - [Situated Learning](../theories/situated-learning.md) — the theoretical grounding for authentic-context participation
 - [Scaffolded Inquiry](../elements/scaffolded-inquiry.md) — shares the fading logic but with learner-generated rather than modeled solutions
 

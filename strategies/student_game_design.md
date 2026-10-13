@@ -61,7 +61,7 @@ Student game design is a constructionist strategy — learning happens through b
 
 ## Related Strategies
 - [Learning by Teaching](../strategies/learning-by-teaching.md) — designing a game that teaches others is a form of preparation for teaching that demands deep processing
-- [Project-Based Learning](../strategies/project-based-learning.md) — game design is a sustained artifact-building project with an authentic product
+- [Project-Based Learning](project-based-learning-pbl.md) — game design is a sustained artifact-building project with an authentic product
 - [Peer Review](../elements/peer-review.md) — playtesting sessions double as structured peer critique
 
 ## Related Elements

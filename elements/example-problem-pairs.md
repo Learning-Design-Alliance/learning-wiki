@@ -69,7 +69,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — The general strategy of alternating fully solved problems with isomorphic practice problems; example problem pairs are its core unit.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — The general strategy of alternating fully solved problems with isomorphic practice problems; example problem pairs are its core unit.
 
 **[Sweller & Cooper's algebra studies](https://doi.org/10.1207/s1532690xci0201_3)** — The original experimental paradigm: students studied a worked algebra example then solved a matched problem, outperforming problem-only peers on subsequent tests.
 

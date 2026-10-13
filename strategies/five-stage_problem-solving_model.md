@@ -60,7 +60,7 @@ The model's value lies in converting problem solving from an unstructured search
 
 ## Related Strategies
 
-- [IDEAL Problem Solving](../strategies/ideal-problem-solving.md) — a closely parallel five-stage model (Identify, Define, Explore, Act, Look back)
+- [IDEAL Problem Solving](ideal-problem-solving-model.md) — a closely parallel five-stage model (Identify, Define, Explore, Act, Look back)
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — similarly externalizes expert strategies through structured stages
 - [Case-Based Learning](../strategies/case-based-learning.md) — supplies the authentic problems the cycle is applied to
 - [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)

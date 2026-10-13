@@ -64,7 +64,7 @@ Problem-based scenarios leverage [Active Learning](../principles/active-learning
 
 - [Case-Based Learning](case-based-learning.md) — the same authentic-problem core without the narrative role-play frame; cases are typically past-tense, make-believe PBL is present-tense
 - [Simulation](../elements/simulation.md) — a more systematized version where the make-believe world has explicit rules and feedback loops
-- [Project-Based Learning](project-based-learning.md) — shares authentic products and sustained inquiry, but centers on creating an artifact rather than solving a posed problem
+- [Project-Based Learning](project-based-learning-pbl.md) — shares authentic products and sustained inquiry, but centers on creating an artifact rather than solving a posed problem
 - [Role-Play](role-play.md) — the enactment technique that supplies the make-believe frame
 - [Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships](real-context-action-tasks-engineering.md)
 

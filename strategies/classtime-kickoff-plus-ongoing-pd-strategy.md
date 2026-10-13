@@ -52,7 +52,7 @@ The summary describes a professional development model for successful Classtime 
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 - [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](capit-onboarding-data-coaching-strategy.md)
-- [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
+- [Support implementation with initial Science of Reading training plus PLC-based lesson study](plc-lesson-study-implementation-support.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 - [Prepare teachers with one full training day plus a mid-year follow-up day](jump-math-one-day-training-mid-year-follow-up.md)
 - [Provide various forms of follow-up to sustain new practices learned in PD](follow-up-supports-sustain-pd-practices.md)

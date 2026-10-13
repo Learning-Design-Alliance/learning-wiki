@@ -38,10 +38,8 @@ To implement PALS, tutoring training is provided through AIR: users visit the Fu
 
 ## Related Strategies
 
-- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](reciprocal-teaching-peer-assisted-learning-strategies-pals.md)
-- [PALS_Peer Assisted Learning Strategies](pals_peer-assisted-learning-strategies.md)
+- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](peer-assisted-learning-strategies-pals.md)
 - [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
-- [Peer-Assisted Learning Strategies (PALS)](peer-assisted-learning-strategies-pals.md)
 - [Prediction Relay](prediction_relay.md)
 - [Partner Reading](partner-reading.md)
 - [Paragraph Shrinking](paragraph_shrinking.md)

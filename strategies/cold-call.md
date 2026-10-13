@@ -98,7 +98,7 @@ Cold calling dramatically broadens participation beyond volunteers, distributing
 - [Think-Pair-Share](../patterns/think-pair-share.md) — gives every student rehearsal time before a possible cold call, lowering threat and raising answer quality
 - [Wait Time](wait-time.md) — the pause that converts a cold call from a pop quiz into retrieval practice
 - [Random Calling](random-calling.md) — the fairness mechanism that makes cold call feel predictable rather than targeted
-- [Discussion Norms](discussion-norms.md) — establishing the climate that determines whether cold calling helps or harms
+- [Discussion Norms](class-discussion-norms.md) — establishing the climate that determines whether cold calling helps or harms
 - [Random Calling with Name Cards](random-calling-name-cards.md) — procedural tool for even distribution
 - [Class Discussion Facilitation](class-discussion-facilitation.md) — cold calling as one move within broader discussion leadership
 
@@ -199,7 +199,7 @@ Cold calling increases the proportion of students actively processing a question
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor; the pair discussion gives every student a rehearsed answer before public cold calling
 - [Wait Time](wait-time.md) — the element that makes cold calling a thinking technique rather than a quiz
 - [Random Calling](random-calling.md) — a fairness-signaling variant using random selection
-- [Discussion Norms](discussion-norms.md) — establishing the climate that determines whether cold calling helps or harms
+- [Discussion Norms](class-discussion-norms.md) — establishing the climate that determines whether cold calling helps or harms
 - [Random Calling with Name Cards](random-calling-name-cards.md) — procedural tool for even distribution
 - [Class Discussion Facilitation](class-discussion-facilitation.md) — cold calling as one move within broader discussion leadership
 

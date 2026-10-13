@@ -43,7 +43,7 @@ This strategy focuses instructional time on reading with expression. The guide d
 - [Readers Theatre](readers-theatre.md)
 - [Paired Repeated Reading](paired-repeated-reading.md)
 - [Reader's Theater](readers_theater.md)
-- [Repeated Reading for Fluency](repeated_reading_for_fluency.md)
+- [Repeated Reading for Fluency](repeated-reading.md)
 - [Echo Reading](echo-reading.md)
 - [Choral Reading](choral-reading.md)
 - [Rereading](rereading.md)

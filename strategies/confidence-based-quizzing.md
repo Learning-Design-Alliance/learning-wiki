@@ -60,7 +60,7 @@ CBQ converts a routine quiz into a metacognitive monitoring exercise: the confid
 
 ## Related Strategies
 
-- [Retrieval Practice](retrieval-practice.md) — CBQ is a metacognitive layer on top of quizzing; the retrieval itself is what builds memory
+- [Retrieval Practice](retrieval-practice-activities.md) — CBQ is a metacognitive layer on top of quizzing; the retrieval itself is what builds memory
 - [Self-Assessment](../elements/self-assessment.md) — confidence ratings are a micro-form of self-assessment done at item level
 - [Error Analysis](../principles/error-analysis.md) — confident errors surfaced by CBQ are the highest-value material for error analysis
 - [Spaced Repetition](../elements/spaced-repetition.md) — calibration data can drive scheduling of what to review

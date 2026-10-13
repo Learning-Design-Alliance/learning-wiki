@@ -46,7 +46,7 @@ The digest notes that hearing loss and declining visual acuity affect many peopl
 ## Examples
 
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md)
-- [Text-to-Speech (TTS)](../strategies/text-to-speech-tts.md)
+- [Text-to-Speech (TTS)](../strategies/text-to-speech-tts-software.md)
 - [Preferential Seating](../strategies/preferential_seating.md)
 - [Multiple Ways to Perceive Information](../strategies/multiple_ways_to_perceive_information.md)
 - [Multisensory Encoding](../strategies/multisensory-encoding.md)

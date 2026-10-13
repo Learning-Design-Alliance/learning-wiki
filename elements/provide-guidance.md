@@ -71,7 +71,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — Presents a fully solved problem with step-by-step reasoning, then alternates with problems for the learner to solve; the canonical example-problem pairing.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — Presents a fully solved problem with step-by-step reasoning, then alternates with problems for the learner to solve; the canonical example-problem pairing.
 
 **[Think-Aloud Modeling](../strategies/think-aloud-modeling.md)** — Instructor verbalizes reasoning and self-monitoring while performing a task, making expert decision-making available for imitation.
 

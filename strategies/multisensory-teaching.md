@@ -59,7 +59,7 @@ Multisensory instruction is best understood through dual coding: pairing verbal 
 
 ## Related Strategies
 
-- [Concrete–Representational–Abstract](../strategies/concrete-representational-abstract.md) — the math-specific sequence that operationalizes multisensory progression and then fades it
+- [Concrete–Representational–Abstract](concrete-representational-abstract-cra.md) — the math-specific sequence that operationalizes multisensory progression and then fades it
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — multisensory entry points work best when anchored to existing knowledge
 - [Accommodations](../elements/accommodations.md) — for learners with sensory or motor impairments, modality choices become accessibility decisions rather than encoding enhancements
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)

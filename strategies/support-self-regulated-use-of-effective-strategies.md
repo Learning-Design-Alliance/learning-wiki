@@ -41,8 +41,7 @@ The review closes by drawing practical implications for situations in which lear
 
 ## Related Strategies
 
-- [Teach Self-Regulation Skills](teach_self-regulation_skills.md)
-- [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
+- [Teach Self-Regulation Skills](teach-self-regulation-strategies.md)
 - [Scaffolding Self-Regulation](scaffolding_self-regulation.md)
 
 ## Examples

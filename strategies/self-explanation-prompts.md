@@ -78,7 +78,7 @@ Self explanation forces the learner to actively integrate new information with p
 
 ## Related Strategies
 
-- [Worked Examples](../strategies/use_worked_examples.md) — the most common carrier; step-by-step self explanation prompts turn passive example study into active processing
+- [Worked Examples](worked-examples-first.md) — the most common carrier; step-by-step self explanation prompts turn passive example study into active processing
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — instructor version of the same move; models the explaining learners are later prompted to do
 - [Elaborative Interrogation](../strategies/elaborative-interrogation.md) — the "why is this true?" variant applied to factual text rather than procedures
 - [Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions](elaborative-interrogation-minimal-resource-adjunct.md)

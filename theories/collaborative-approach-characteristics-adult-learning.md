@@ -58,7 +58,7 @@ The handbook defines collaborative approaches to adult learning as participatory
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](../strategies/cooperative-structures-for-adult-classrooms.md)
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
 - [Youth Participatory Action Research (YPAR)](../strategies/youth-participatory-action-research-ypar.md)
-- [Challenge Based Learning](../strategies/challenge_based_learning.md)
+- [Challenge Based Learning](../strategies/challenge-based-learning-cbl.md)
 - [Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs](../strategies/participatory-collaborative-funding-bridge-mll-design-research.md)
 
 ## Key Sources

@@ -39,7 +39,7 @@ The brief recommends states influence district discipline by setting clear goals
 
 ## Related Strategies
 
-- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel.md)
+- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel-sead.md)
 - [Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities](restorative-discipline-policies-reduce-exclusionary-disparities.md)
 - [Seven state-level policy actions to improve school discipline equity](seven-state-actions-improve-discipline-policy.md)
 - [Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring](restorative-practices-attendance-monitoring-strategy.md)

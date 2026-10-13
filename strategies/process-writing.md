@@ -45,7 +45,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 
 #### Implementation Variability
 - **Writers' workshop** (Atwell, Calkins): student-directed cycles with peer conferencing and mini-lessons
-- **Strategy-focused variants**: [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) adds explicit self-regulation instruction (goal setting, self-monitoring) to the process cycle
+- **Strategy-focused variants**: [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) adds explicit self-regulation instruction (goal setting, self-monitoring) to the process cycle
 - **Collaborative variants**: joint composing and structured peer review [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - **Digital variants**: version-tracking tools (Google Docs revision history) make revision visible and assessable
 - **Strategy-focused** (e.g., Self-Regulated Strategy Development): teaches genre-specific planning and revising strategies with self-regulation supports — strongest evidence base
@@ -76,7 +76,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 
 ## Related Strategies
 
-- [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) — adds explicit self-regulation instruction to the process cycle; strongest-evidence writing intervention
+- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — adds explicit self-regulation instruction to the process cycle; strongest-evidence writing intervention
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — the individual feedback mechanism that drives draft improvement
 - [Sentence combining](../strategies/sentence-combining.md) — targets the sentence-level skill that process cycles alone under-teach
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)

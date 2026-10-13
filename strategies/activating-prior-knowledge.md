@@ -42,7 +42,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - Overly long or open-ended brainstorming can raise extraneous load and dilute focus on the learning goal [Cognitive load management principles favor brief, focused activation.](../principles/cognitive-load-management.md) [~M]
 
 #### Implementation Variability
-- **Retrieval prompts**: brief recall questions or low-stakes quizzing on prerequisite material ([Retrieval Practice](retrieval-practice.md))
+- **Retrieval prompts**: brief recall questions or low-stakes quizzing on prerequisite material ([Retrieval Practice](retrieval-practice-activities.md))
 - **Prediction tasks**: asking learners to predict outcomes of a demonstration or experiment before seeing them, which surfaces intuitions and creates readiness for feedback
 - **Analogy and metaphor**: mapping a familiar domain onto the new one ([Analogies](../elements/analogies.md))
 - **Graphic advance organizers**: previews of the structure of upcoming material ([Advance Organizers](../elements/advance-organizers.md))
@@ -79,7 +79,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 
 ## Related Strategies
 
-- [Retrieval Practice](retrieval-practice.md) — activation is a retrieval event; spaced retrieval of prior units doubles as review
+- [Retrieval Practice](retrieval-practice-activities.md) — activation is a retrieval event; spaced retrieval of prior units doubles as review
 - [Pretesting](pretesting.md) — asking questions about not-yet-learned material, a related "forward" activation that primes attention
 - [Misconception Repair](misconception-repair.md) — the necessary follow-through when activation surfaces errors
 - [Spaced Practice](../principles/spaced-learning.md) — activation prompts at lesson openings can implement spacing of earlier content

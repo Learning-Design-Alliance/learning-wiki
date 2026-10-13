@@ -60,7 +60,7 @@ Concept learning depends on exposure to varied, well-chosen instances: comparing
 6. Fade support: move from prompted comparison to independent classification as accuracy grows ([Fading](../elements/fading.md))
 
 ## Related Strategies
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the procedural analogue: studying solved instances rather than inducing a concept
+- [Use Worked Examples](worked-examples-first.md) — the procedural analogue: studying solved instances rather than inducing a concept
 - [Comparing Cases](../elements/comparing-cases.md) — the core comparison mechanism this strategy sequences into a concept lesson
 - [Guided Inquiry](../elements/guided-inquiry.md) — broader inquiry framing in which example sets serve as the data
 

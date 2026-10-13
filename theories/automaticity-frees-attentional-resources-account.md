@@ -53,7 +53,6 @@ This account holds that achieving automaticity in low-level transcription skills
 - [Handwriting Instruction](../strategies/handwriting-instruction.md)
 - [Handwriting Fluency Instruction](../strategies/handwriting-fluency-instruction.md)
 - [Handwriting Fluency Practice](../strategies/handwriting-fluency-practice.md)
-- [Explicit Instruction: Handwriting](../strategies/explicit_instruction-handwriting.md)
 
 ## Key Sources
 - Kim, Y.-S., Al Otaiba, S., Puranik, C., Sidler Folsom, J., & Gruelich, L. (2013). The contributions of vocabulary and letter writing automaticity to word reading and spelling for kindergartners. Reading and Writing. https://doi.org/10.1007/s11145-013-9440-9

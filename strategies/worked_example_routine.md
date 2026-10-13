@@ -58,7 +58,7 @@ The routine addresses the central failure mode of example-based learning: learne
 5. **You Try** — Students solve a structurally similar problem independently ([Practice](../elements/practice.md)); check before assigning further problems
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — the broader strategy this routine structures into a repeatable classroom sequence
+- [Use Worked Examples](worked-examples-first.md) — the broader strategy this routine structures into a repeatable classroom sequence
 - [Think-Aloud Modeling](think-aloud-modeling.md) — complements the routine by making expert reasoning audible before or during the Read step
 - [Comparing Cases](../elements/comparing-cases.md) — variant where pairs compare two worked examples to discriminate solution methods
 
@@ -74,7 +74,7 @@ The routine addresses the central failure mode of example-based learning: learne
 - [Direct Instruction](../patterns/direct-instruction.md) — guided practice phase enacts the example-then-practice sequence
 
 ## Examples
-- **[Use Worked Examples](../strategies/use_worked_examples.md)** — the parent strategy: present a fully solved problem with step-by-step reasoning, then a similar problem for independent solution.
+- **[Use Worked Examples](worked-examples-first.md)** — the parent strategy: present a fully solved problem with step-by-step reasoning, then a similar problem for independent solution.
 - **Mathematics classrooms** — a teacher presents a two-step equation solution, pairs discuss why the inverse operation was applied at each line, students write explanations, then solve a matched problem; the sequence repeats with a faded (partially worked) example next.
 - **[Khan Academy](https://www.khanacademy.org)** — video worked examples followed by practice with on-demand hints, approximating the Read → You Try sequence digitally, though the Discuss and Explain steps must be added by the teacher.
 

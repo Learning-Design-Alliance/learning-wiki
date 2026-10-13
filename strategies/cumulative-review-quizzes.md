@@ -80,11 +80,11 @@ Retrieval practice produces substantially stronger long-term retention than rest
 
 ## Related Strategies
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md) — cumulative quizzing is spacing operationalized through assessment
-- [Retrieval Practice](retrieval-practice.md) — the underlying mechanism; cumulative quizzes are its most sustainable classroom implementation
+- [Retrieval Practice](retrieval-practice-activities.md) — the underlying mechanism; cumulative quizzes are its most sustainable classroom implementation
 - [Interleaved Practice](interleaved-practice.md) — cumulative review naturally interleaves topics, improving discrimination between problem types
 - [Two-Stage Quizzes](two-stage-quizzes.md) — adds collaborative re-retrieval and peer explanation
 - [Spaced repetition](spaced_repetition.md) — the scheduling algorithm that cumulative quizzing implements manually
-- [Frequent low-stakes testing](frequent-low-stakes-testing.md) — the assessment structure that makes cumulative quizzing sustainable
+- [Frequent low-stakes testing](frequent-low-stakes-quizzes.md) — the assessment structure that makes cumulative quizzing sustainable
 
 ## Examples
 - **[Team-Based Learning](https://www.teambasedlearning.org)** — Readiness Assurance Tests given at the start of each unit include items from all prior units, so earlier content is re-retrieved throughout the course.
@@ -158,7 +158,7 @@ Retrieval practice produces durable, transferable learning that outperforms rest
 ## Related Strategies
 - [Spaced repetition](spaced_repetition.md) — the scheduling algorithm that cumulative quizzing implements manually
 - [Interleaved practice](interleaved-practice.md) — mixing problem types within a session; cumulative quizzes are interleaving across time
-- [Frequent low-stakes testing](frequent-low-stakes-testing.md) — the assessment structure that makes cumulative quizzing sustainable
+- [Frequent low-stakes testing](frequent-low-stakes-quizzes.md) — the assessment structure that makes cumulative quizzing sustainable
 
 ## Examples
 - **Roediger, McDaniel, and colleagues' middle-school study** — Science and social studies teachers in Columbia, MO embedded brief cumulative review quizzes into regular units; quizzed material was retained substantially better on unit tests and end-of-semester exams ([Scientific American Mind summary](https://www.scientificamerican.com/article/retrieval-practice-and-studying/)).

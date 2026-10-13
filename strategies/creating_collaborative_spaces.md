@@ -62,7 +62,7 @@ Collaboration improves achievement when it is structured — with positive inter
 
 ## Related Strategies
 - [Structuring Group Work](structuring-group-work.md) — the task-design counterpart; this strategy supplies the environment, that one supplies the task
-- [Establishing Discussion Norms](establishing-discussion-norms.md) — the social contract that makes peer talk productive
+- [Establishing Discussion Norms](class-discussion-norms.md) — the social contract that makes peer talk productive
 - [Peer Instruction](peer-instruction.md) — a tightly scripted collaborative routine usable within any space
 
 ## Examples

@@ -56,12 +56,12 @@ Maze tasks convert comprehension into a series of local sentence-level decisions
 2. Replace every nth word (typically 5th–7th) with three choices; construct the semantic distractor first, then the unrelated distractor.
 3. Pilot the items and discard any where the distractor is chosen almost as often as the key (poor discrimination) or almost never (obvious distractor).
 4. Administer with a time limit (commonly 2–3 minutes) and score correct minus incorrect to penalize guessing.
-5. Pair results with a richer measure — e.g., [Retrieval Practice](retrieval-practice.md)-style recall prompts or retelling — before drawing instructional conclusions, since maze scores underrepresent global comprehension [~M].
+5. Pair results with a richer measure — e.g., [Retrieval Practice](retrieval-practice-activities.md)-style recall prompts or retelling — before drawing instructional conclusions, since maze scores underrepresent global comprehension [~M].
 
 ## Related Strategies
 - [Cloze Procedure](cloze-procedure.md) — the open-ended parent format; harder to score, more demanding of production
 - [Curriculum-Based Measurement](curriculum-based-measurement.md) — the broader family of brief, repeatable progress measures into which maze fits
-- [Formative Assessment](formative-assessment.md) — the instructional stance maze data should serve
+- [Formative Assessment](formative-assessment-cycles.md) — the instructional stance maze data should serve
 
 ## Examples
 - **PEA Maze (Progressive Achievement Assessment)** — used in the PALS reading intervention research (Fuchs et al.), a maze with increasing difficulty levels administered every two weeks to monitor comprehension growth.

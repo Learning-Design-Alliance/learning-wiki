@@ -54,11 +54,11 @@ Word study treats spelling as a problem-solving activity in which learners disco
 2. Form flexible groups and select a feature at each group's instructional edge — one the learner uses but confuses.
 3. Design a closed sort contrasting the target feature with a known feature (e.g., CVC short *a* vs. CVCe long *a*), drawing on [chunking](../principles/chunking.md) of words into pattern families.
 4. Model sorting 2–3 words aloud, then have learners sort, read, and check their sorts in small groups.
-5. Follow with writing application: dictation sentences and use of target words in [authentic writing](authentic-writing.md), so patterns transfer to composition.
+5. Follow with writing application: dictation sentences and use of target words in [authentic writing](authentic-writing-tasks.md), so patterns transfer to composition.
 6. Re-assess every 2–4 weeks and regroup; move to the next feature when learners spell the current one correctly in writing, not just in sorts.
 
 ## Related Strategies
-- [Phonics Systematic Instruction](systematic-phonics-instruction.md) — word study operationalizes systematic phonics within a developmental framework
+- [Phonics Systematic Instruction](explicit-systematic-phonics-instruction.md) — word study operationalizes systematic phonics within a developmental framework
 - [Morphology Instruction](morphology-instruction.md) — the natural extension for syllables-affixes and derivational stages
 - [Dictation](dictation.md) — the writing-application step that converts sort knowledge into spelling accuracy
 

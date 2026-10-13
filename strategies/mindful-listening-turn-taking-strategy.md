@@ -44,7 +44,6 @@ The brief describes integrating mindful listening into the curriculum for elemen
 - [Use pausing, body-centered awareness, and mindful listening as tools in restorative justice and conflict resolution](mindfulness-tools-restorative-justice-conflict-resolution.md)
 - [Bounce Cards](bounce_cards.md)
 - [Class Discussion Norms](class-discussion-norms.md)
-- [Establishing Discussion Norms](establishing-discussion-norms.md)
 - [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
 
 ## Examples

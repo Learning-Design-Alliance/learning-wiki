@@ -59,7 +59,7 @@ Fading resolves the central tension of example-based learning: full examples are
 6. Advance learners based on completion accuracy, not time on task ([Mastery Learning](../elements/mastery-learning.md))
 
 ## Related Strategies
-- [Completion Problems](completion-problems.md) — the intermediate task format fading is built from
+- [Completion Problems](completion-problems-first.md) — the intermediate task format fading is built from
 - [Example-Problem Pairs](../elements/example-problem-pairs.md) — the alternating structure that fading sequences typically embed
 - [Self-Explanation Prompting](self-explanation-prompts.md) — prompts that deepen processing of the studied steps
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — broader difficulty management across a task series

@@ -60,7 +60,7 @@ Diagnostic assessment is the evidence-gathering half of [Assessment for Learning
 
 ## Related Strategies
 
-- [Formative Assessment](../strategies/formative-assessment.md) — diagnostic assessment is its pre-instructional counterpart; both use evidence to adjust teaching
+- [Formative Assessment](formative-assessment-cycles.md) — diagnostic assessment is its pre-instructional counterpart; both use evidence to adjust teaching
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the instructional response once diagnostics reveal what learners already hold
 - [Adaptive Difficulty](../elements/adaptive-difficulty.md) — automated diagnostics drive continuous difficulty adjustment in digital systems
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)

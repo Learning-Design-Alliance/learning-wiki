@@ -62,8 +62,8 @@ Digital reading formats change how learners allocate attention between decoding 
 
 ## Related Strategies
 - [Text-to-Speech Tools](text-to-speech-tools.md) — the feature-level counterpart embedded in most e-book platforms
-- [Independent Reading](independent-reading.md) — audiobooks expand what counts as accessible independent reading
-- [Vocabulary Instruction](vocabulary-instruction.md) — listening volume supplies the incidental encounters vocabulary growth depends on
+- [Independent Reading](independent-reading-time.md) — audiobooks expand what counts as accessible independent reading
+- [Vocabulary Instruction](explicit-vocabulary-instruction.md) — listening volume supplies the incidental encounters vocabulary growth depends on
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the curricular frame that gives digital reading a purpose

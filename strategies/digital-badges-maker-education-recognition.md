@@ -39,7 +39,7 @@ The paper describes digital badges as serving to organize, communicate and displ
 ## Related Strategies
 
 - [Badges](badges.md)
-- [Micro Credentials](micro-credentials.md)
+- [Micro Credentials](micro-credentials-and-badging.md)
 
 ## Examples
 -

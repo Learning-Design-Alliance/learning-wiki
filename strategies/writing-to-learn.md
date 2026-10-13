@@ -61,7 +61,7 @@ Writing is generative: composing requires learners to retrieve knowledge, select
 6. Periodically escalate: move from expressive to discipline-specific forms (lab reasoning, historical argument) as learners gain fluency, connecting to [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) by making disciplinary thinking visible in writing.
 
 ## Related Strategies
-- [Retrieval Practice](retrieval-practice.md) — writing-to-learn overlaps with retrieval when prompts require recall and reconstruction from memory
+- [Retrieval Practice](retrieval-practice-activities.md) — writing-to-learn overlaps with retrieval when prompts require recall and reconstruction from memory
 - [Peer Feedback](../elements/peer-feedback.md) — a natural follow-through that turns private writing into dialogue
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the written variant ("write-pair-share") adds retrieval before discussion
 

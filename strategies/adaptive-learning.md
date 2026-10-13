@@ -60,8 +60,8 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 ## Related Strategies
 
 - [Mastery Learning](mastery-learning.md) — the instructional logic most adaptive systems automate; adaptation without a mastery criterion is mere pacing variation
-- [Spaced Retrieval](spaced-retrieval.md) — adaptive scheduling of review items (e.g., expanding intervals) is a common and well-supported adaptation dimension
-- [Formative Assessment](formative-assessment.md) — supplies the performance evidence on which any adaptation depends
+- [Spaced Retrieval](spaced-retrieval-practice.md) — adaptive scheduling of review items (e.g., expanding intervals) is a common and well-supported adaptation dimension
+- [Formative Assessment](formative-assessment-cycles.md) — supplies the performance evidence on which any adaptation depends
 - [Use ongoing assessments to tailor early-childhood learning experiences](ongoing-assessment-tailored-early-learning.md)
 - [Profile-driven adaptive strategy rules composed dynamically and injected into the system prompt each turn](adaptive-strategy-prompt-injection-rules.md)
 

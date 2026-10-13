@@ -59,7 +59,7 @@ Job aids exploit the distinction between information needed for *learning* and i
 6. Decide the fade plan: for tasks that should become automatic, transition from aid-dependent to aid-free performance over successive attempts
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — worked examples build the schema during training; job aids carry the load afterward — the two should be sequenced, not conflated
+- [Use Worked Examples](worked-examples-first.md) — worked examples build the schema during training; job aids carry the load afterward — the two should be sequenced, not conflated
 - [Checklists](checklists.md) — the most common job aid form, with its own evidence base in high-stakes fields
 - [Fading](../elements/fading.md) — governs the transition from external support to internalized skill
 

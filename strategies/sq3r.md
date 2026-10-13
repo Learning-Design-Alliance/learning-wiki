@@ -57,7 +57,7 @@ SQ3R's active components align with well-supported learning science: generating 
 5. **Review** — return after a delay (same day, then spaced), re-answer the questions, and check against the text
 
 ## Related Strategies
-- [Retrieval practice](../strategies/retrieval-practice.md) — the Recite/Review steps are embedded retrieval; the strongest-evidence component
+- [Retrieval practice](retrieval-practice-activities.md) — the Recite/Review steps are embedded retrieval; the strongest-evidence component
 - [Question generation](../strategies/question-generation.md) — the Question step in isolation
 - [Annotating](../principles/annotating.md) — a lighter-weight active-reading alternative
 

@@ -58,7 +58,7 @@ Varied examples support schema formation by helping learners abstract the genera
 5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/example-problem-sequences-reduce-cognitive-load.md).
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — varied worked examples are the standard vehicle for this strategy in problem-solving domains
+- [Use Worked Examples](worked-examples-first.md) — varied worked examples are the standard vehicle for this strategy in problem-solving domains
 - [Non-Examples](../elements/non-examples.md) — near-miss non-examples do the complementary work of isolating defining attributes
 - [Interleaving](interleaving.md) — mixing concept categories compounds the discrimination benefits of varied examples
 

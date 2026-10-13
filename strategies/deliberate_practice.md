@@ -62,7 +62,7 @@ Deliberate practice reframes practice time as a design problem: the quality of t
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — distributes deliberate practice sessions for durable retention
 - [Mastery Learning](mastery-learning.md) — holds learners at a component until criteria are met before advancing
-- [Retrieval Practice](retrieval-practice.md) — a deliberate practice variant for memory-based learning goals
+- [Retrieval Practice](retrieval-practice-activities.md) — a deliberate practice variant for memory-based learning goals
 
 ## Examples
 - **Ericsson's violin study** — the original research compared practice histories of elite, good, and teacher-track violinists at the Berlin academy, finding elite performers had accumulated far more hours of structured, teacher-guided practice.

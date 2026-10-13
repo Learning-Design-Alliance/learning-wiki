@@ -53,7 +53,7 @@ A VR training module for radiopharmaceutical administration built in Unity with 
 
 ## Examples
 
-- [Virtual Reality (VR) Training](../strategies/virtual-reality-vr-training.md)
+- [Virtual Reality (VR) Training](../strategies/virtual-reality-immersive-training.md)
 
 ## Key Sources
 - Kakimoto Akihiro, Fujise Daisuke, Watanabe Shota, Otaka Yutaka, Minemoto Sakura, Yasumatsu Ayaka, Hasegawa Shin. (2026). Development and Educational Evaluation of a Radiation Visualization System in a Virtual Reality Training Module for Radiopharmaceutical Administration: Mixed Methods Study of Students’ Learning Experiences. JMIR Medical Education. https://doi.org/10.2196/104397

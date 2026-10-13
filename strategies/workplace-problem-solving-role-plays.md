@@ -39,7 +39,7 @@ Module 5 applies cultural knowledge to everyday work situations. Participants an
 
 ## Related Strategies
 
-- [Responsible Decision-Making Practice](responsible_decision-making_practice.md)
+- [Responsible Decision-Making Practice](practice_responsible_decision-making.md)
 - [Maximization of Transfer and Generalization](maximize_transfer_and_generalization.md)
 - [Scenario Based Training](scenario-based-training.md)
 

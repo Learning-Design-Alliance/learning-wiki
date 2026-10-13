@@ -63,7 +63,7 @@ Multiple representations work because they distribute information across verbal 
 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — representation only works if learners can connect it to existing knowledge
 - [Chunking Text](../strategies/chunking-text.md) — a load-management companion to multi-format presentation
-- [Use Worked Examples](../strategies/use_worked_examples.md) — a representation format that models both outcome and reasoning
+- [Use Worked Examples](worked-examples-first.md) — a representation format that models both outcome and reasoning
 - [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 

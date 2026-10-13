@@ -48,7 +48,7 @@ Table 1 of the article compiles VR websites and apps with addresses and descript
 ## Examples
 
 - [Virtual Reality Simulations](../strategies/virtual-reality-simulations.md)
-- [Virtual Reality Training](../strategies/virtual-reality-training.md)
+- [Virtual Reality Training](../strategies/virtual-reality-immersive-training.md)
 
 ## Key Sources
 - Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404

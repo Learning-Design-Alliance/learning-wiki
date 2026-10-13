@@ -62,7 +62,7 @@ Daily 5 converts the literacy block from whole-class seatwork into structured in
 
 ## Related Strategies
 - [Guided reading small groups](../strategies/guided-reading.md) — the teacher-led instruction Daily 5 rotations exist to make time for
-- [Independent reading](../strategies/independent-reading.md) — the highest-value single task within the rotation
+- [Independent reading](independent-reading-time.md) — the highest-value single task within the rotation
 - [Work stations / literacy centers](../strategies/literacy-centers.md) — the broader family of rotation structures Daily 5 simplifies
 
 ## Examples

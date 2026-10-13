@@ -63,7 +63,7 @@ The *quality* of family literacy interaction matters more than its quantity: car
 
 - [Read-Alouds](read-alouds.md) — the classroom counterpart; techniques modeled at school can transfer home
 - [Home-School Communication](home-school-communication.md) — the partnership infrastructure that sustains engagement
-- [Vocabulary Instruction](vocabulary-instruction.md) — shared reading is a primary vehicle for incidental vocabulary growth
+- [Vocabulary Instruction](explicit-vocabulary-instruction.md) — shared reading is a primary vehicle for incidental vocabulary growth
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)

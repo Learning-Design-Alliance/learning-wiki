@@ -77,7 +77,7 @@ Graphic organizers reduce extraneous cognitive load by offloading intermediate p
 
 ## Related Strategies
 - [Schema-Based Instruction](schema-based-instruction.md) — the word-problem variant of math graphic organizers, with the strongest evidence base
-- [Worked Examples](worked-examples.md) — a completed organizer on a solved problem functions as a worked example of the representation itself
+- [Worked Examples](worked-examples-first.md) — a completed organizer on a solved problem functions as a worked example of the representation itself
 - [Annotating](../principles/annotating.md) — marking up problems shares the goal of making structure visible
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — teacher modeling of organizer use makes expert problem-reading visible
 
@@ -152,7 +152,7 @@ Graphic organizers reduce extraneous cognitive load by offloading problem struct
 
 ## Related Strategies
 - [Schema-Based Instruction](schema-based-instruction.md) — the underlying approach most math graphic organizers operationalize
-- [Worked Examples](worked-examples.md) — a completed organizer on a solved problem functions as a worked example
+- [Worked Examples](worked-examples-first.md) — a completed organizer on a solved problem functions as a worked example
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — teacher modeling of organizer use makes expert problem-reading visible
 
 ## Related Elements

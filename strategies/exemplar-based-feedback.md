@@ -57,7 +57,7 @@ Exemplars work because they externalize quality standards that criteria lists le
 5. Return to the exemplars after revision to check that the gap closed; repeat with harder exemplars as competence grows.
 
 ## Related Strategies
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the problem-solving analogue: exemplars of process rather than product
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: exemplars of process rather than product
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — makes the *production* of exemplar-quality work visible, complementing the product-level view
 - [Action-Oriented Feedback](action-oriented-feedback.md) — combines well: exemplar shows the target, action comments specify the next step toward it
 

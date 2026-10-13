@@ -38,8 +38,8 @@ The brief recommends increasing access to digital learning, which "feels natural
 
 ## Related Strategies
 
-- [Provide Easy-Access Educational Tools](provide_easy-access_educational_tools.md)
-- [Rich Library: Multimodal Resources](rich_library-multimodal_resources.md)
+- [Provide Easy-Access Educational Tools](easy-access_educational_tools.md)
+- [Rich Library: Multimodal Resources](rich_library-multimodal.md)
 
 ## Examples
 -

@@ -61,7 +61,7 @@ Flashcards work because retrieval is a learning event, not merely an assessment:
 ## Related Strategies
 
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling principle that makes flashcards durable rather than cram-dependent
-- [Retrieval Practice](retrieval-practice.md) — the underlying learning mechanism each card enacts
+- [Retrieval Practice](retrieval-practice-activities.md) — the underlying learning mechanism each card enacts
 - [Self-Testing](../elements/self-testing.md) — the broader family of techniques flashcards operationalize
 - [Allocate revision time economically by concentrating self-testing on the box of not-yet-known items](concentrate-revision-on-unknown-box.md)
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)

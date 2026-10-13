@@ -49,8 +49,7 @@ The handbook catalogs the most commonly used cooperative learning structures and
 - [Numbered Heads Together](numbered-heads-together.md)
 - [Task Force Teams of Inquiry](task_force_teams_of_inquiry.md)
 - [Cooperative Classroom Activities](cooperative_classroom_activities.md)
-- [Cooperative Learning Activities](cooperative_learning_activities.md)
-- [Cooperative Learning](cooperative-learning.md)
+- [Cooperative Learning Activities](cooperative-learning.md)
 
 ## Examples
 -

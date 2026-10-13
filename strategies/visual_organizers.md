@@ -57,7 +57,7 @@ Visual organizers work by making relational structure explicit, reducing the wor
 5. Revisit and revise the organizer as content deepens, using it as a formative check ([Assessment](../elements/assessment.md)) on structural understanding.
 
 ## Related Strategies
-- [Advance Organizers](../strategies/advance_organizers.md) — the pre-instructional variant that primes relevant prior knowledge
+- [Advance Organizers](use-advance-organizers.md) — the pre-instructional variant that primes relevant prior knowledge
 - [Chunking](../principles/chunking.md) — organizers group information into coherent units, enacting the same load-reduction logic
 - [Concept Mapping](../elements/concept-mapping.md) — the learner-constructed, node-and-link form of this strategy
 

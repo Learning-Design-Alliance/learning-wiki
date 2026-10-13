@@ -42,7 +42,7 @@ STeLLA® trains teachers in instructional strategies emphasizing three areas: ex
 ## Related Strategies
 
 - [Repeat Key Points](repeat_key_points.md)
-- [Use Multiple Representations](use_multiple_representations.md)
+- [Use Multiple Representations](multiple-representations.md)
 - [Pictures & Visuals](pictures-visuals.md)
 
 ## Examples

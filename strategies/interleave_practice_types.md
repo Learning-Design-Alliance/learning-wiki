@@ -38,7 +38,7 @@ Interleaving works because it trains problem *identification* alongside problem 
 - **Within-session interleaving** — mixing problem types inside a single worksheet or quiz
 - **Between-session interleaving** — rotating topics across successive sessions (a scheduling decision rather than a materials decision)
 - **Faded interleaving** — beginning with blocked practice on each new type, then mixing once basic procedures are established
-- **Interleaved retrieval** — combining mixing with [Retrieval Practice](retrieval-practice.md), so each item also functions as a spaced retrieval attempt
+- **Interleaved retrieval** — combining mixing with [Retrieval Practice](retrieval-practice-activities.md), so each item also functions as a spaced retrieval attempt
 
 ### Target Learners
 - Learners past the initial acquisition stage who can execute procedures but confuse *when* to apply them [~S]
@@ -60,7 +60,7 @@ Interleaving works because it trains problem *identification* alongside problem 
 
 ## Related Strategies
 - [Spaced Practice](../principles/spaced-learning.md) — interleaving's natural companion; both trade short-term fluency for long-term retention
-- [Retrieval Practice](retrieval-practice.md) — interleaved items double as spaced retrieval attempts
+- [Retrieval Practice](retrieval-practice-activities.md) — interleaved items double as spaced retrieval attempts
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side contrast trains the same discrimination skill with more scaffolding
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md) — sequencing within a type, complementary to sequencing across types
 

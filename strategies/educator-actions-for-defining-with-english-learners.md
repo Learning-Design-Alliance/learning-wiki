@@ -39,11 +39,10 @@ The brief closes with concrete, specific actions mathematics educators can take 
 
 ## Related Strategies
 
-- [Clarify Vocabulary, Symbols, and Language Structures](clarify-vocabulary-symbols-and-language-structures.md)
-- [Clarification of Vocabulary, Symbols, and Language Structures](clarification-of-vocabulary-symbols-and-language-structures.md)
+- [Clarify Vocabulary, Symbols, and Language Structures](clarification-of-vocabulary-symbols-and-language-structures.md)
 - [Explicit Vocabulary Instruction](explicit-vocabulary-instruction.md)
 - [Front Loading Vocabulary](front-loading-vocabulary.md)
-- [Vocabulary Pre Teaching](vocabulary-pre-teaching.md)
+- [Vocabulary Pre Teaching](pre-teaching-vocabulary.md)
 - [Alphabet Books](alphabet_books.md)
 - [Learning Logs](learning-logs.md)
 

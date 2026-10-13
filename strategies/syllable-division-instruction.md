@@ -60,7 +60,7 @@ Syllable division reduces the working-memory burden of decoding long words by co
 
 ## Related Strategies
 
-- [Systematic Phonics Instruction](../strategies/systematic-phonics-instruction.md) — syllable division extends phonics from single-syllable to multisyllabic words
+- [Systematic Phonics Instruction](explicit-systematic-phonics-instruction.md) — syllable division extends phonics from single-syllable to multisyllabic words
 - [Morphology Instruction](../strategies/morphology-instruction.md) — an alternative or complementary unit for dividing longer words at meaning boundaries
 - [Repeated Reading](../strategies/repeated-reading.md) — builds the fluency that division instruction aims to unblock
 - [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)

@@ -63,7 +63,7 @@ Audiobooks leverage the auditory channel to deliver rich language input while by
 ## Related Strategies
 - [Read-Alouds](read-alouds.md) — the live, teacher-mediated counterpart; audiobooks extend the same input asynchronously
 - [Sustained Silent Reading](sustained-silent-reading.md) — audiobooks can run in parallel as "ear reading" during independent reading time
-- [Vocabulary Instruction](vocabulary-instruction.md) — audiobooks supply rich context for encountering new words
+- [Vocabulary Instruction](explicit-vocabulary-instruction.md) — audiobooks supply rich context for encountering new words
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the selection mechanism that gives listening a purpose

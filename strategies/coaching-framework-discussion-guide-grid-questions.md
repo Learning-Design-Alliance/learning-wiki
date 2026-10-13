@@ -44,7 +44,7 @@ The brief operationalizes its framework as a discussion tool: Figure 2 provides 
 ## Related Strategies
 
 - [Note Taking Structures](note-taking_structures.md)
-- [Providing Graphic Organizers or Guided Notes](providing_graphic_organizers_or_guided_notes.md)
+- [Providing Graphic Organizers or Guided Notes](graphic-organizers-and-guided-notes-processing-speed.md)
 - [Organizing Information and Taking Notes](organizing_information_and_taking_notes.md)
 
 ## Examples

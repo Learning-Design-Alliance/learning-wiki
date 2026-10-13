@@ -42,13 +42,11 @@ After identifying specific strengths across the whole child framework, teachers 
 
 - [Leveraging Strengths to Address Learning Differences](leveraging_strengths_to_address_learning_differences.md)
 - [Identifying and Addressing Self-Regulation Strengths and Challenges](identifying_and_addressing_self-regulation_strengths_and_challenges.md)
-- [Leveraging Strengths to Improve Relationship Skills](leveraging_strengths_to_improve_relationship_skills.md)
-- [Strength-Based Strategies for Responsible Decision-Making](strength-based_strategies_for_responsible_decision-making.md)
+- [Leveraging Strengths to Improve Relationship Skills](leveraging_strengths_in_relationship_skills.md)
+- [Strength-Based Strategies for Responsible Decision-Making](strength-based_approach_to_responsible_decision-making.md)
 - [Leveraging Strengths to Address Attention Challenges](leveraging_strengths_to_address_attention_challenges.md)
 - [Strength-Based Approach to Social Awareness](strength-based_approach_to_social_awareness.md)
 - [Strength-Based Approach to Self-Awareness](strength-based_approach_to_self-awareness.md)
-- [Strength-Based Strategies for Self-Awareness](strength-based_strategies_for_self-awareness.md)
-- [Leveraging Strengths in Relationship Skills](leveraging_strengths_in_relationship_skills.md)
 
 ## Examples
 -

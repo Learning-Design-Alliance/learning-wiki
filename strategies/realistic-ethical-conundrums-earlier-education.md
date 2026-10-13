@@ -39,7 +39,7 @@ The article recommends that educators "present[] them more realistic ethical con
 
 ## Related Strategies
 
-- [Responsible Decision-Making Practice](responsible_decision-making_practice.md)
+- [Responsible Decision-Making Practice](practice_responsible_decision-making.md)
 - [Define and Apply Ethical Responsibility](define_and_apply_ethical_responsibility.md)
 - [Problem Scenario Analysis](problem_scenario_analysis.md)
 

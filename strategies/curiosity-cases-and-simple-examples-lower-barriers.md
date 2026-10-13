@@ -37,7 +37,6 @@ At the base of the curriculum pyramid, curiosity and self-motivation are intenti
 ## Related Strategies
 
 - [Cultivate Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
-- [Cultivation of Multiple Ways of Knowing and Making Meaning](cultivation_of_multiple_ways_of_knowing_and_making_meaning.md)
 - [Extension Projects for Advanced Students](extension_projects_for_advanced_students.md)
 
 ## Examples

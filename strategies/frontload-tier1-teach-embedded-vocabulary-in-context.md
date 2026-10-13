@@ -47,7 +47,7 @@ Montebello teachers learned to distinguish Tier 1 words (Beck, McKeown, & Kucan,
 - [Tier Two Vocabulary Instruction](tier_two_vocabulary_instruction.md)
 - [Teaching Academic Vocabulary in PBL](teaching_academic_vocabulary_in_pbl.md)
 - [Teach Academic Vocabulary](teach_academic_vocabulary.md)
-- [Vocabulary Instruction](vocabulary-instruction.md)
+- [Vocabulary Instruction](explicit-vocabulary-instruction.md)
 - [Vocabulary Instruction Small Groups](vocabulary-instruction-small-groups.md)
 
 ## Examples

@@ -60,7 +60,7 @@ Models work the way worked examples do in problem solving: they eliminate unguid
 
 ## Related Strategies
 - [Sentence Combining](sentence-combining.md) — a complementary skill-focused writing strategy from the same evidence base
-- [Use Worked Examples](use_worked_examples.md) — the problem-solving analogue: study a complete solution before producing one
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: study a complete solution before producing one
 - [Process Writing](process-writing.md) — models supply the product knowledge that process instruction assumes
 
 ## Examples

@@ -60,7 +60,7 @@ Task analysis is the diagnostic foundation of instructional design: without an a
 ## Related Methods
 - [Learner Analysis](learner-analysis.md) — task analysis identifies what must be taught; learner analysis identifies who is being taught and what they already bring
 - [Sequencing](../principles/sequencing.md) — the analysis output is the primary input for ordering instruction
-- [Worked Examples](../strategies/worked-examples.md) — the steps surfaced by task analysis become the content of worked demonstrations
+- [Worked Examples](../strategies/worked-examples-first.md) — the steps surfaced by task analysis become the content of worked demonstrations
 
 ## Examples
 - **[Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md)** — the Ten Steps method operationalizes task analysis as its first phase: analyzing constituent skills and cognitive strategies to design whole-task learning tasks.

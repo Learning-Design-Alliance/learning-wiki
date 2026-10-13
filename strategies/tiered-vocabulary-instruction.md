@@ -79,7 +79,7 @@ The strategy operationalizes a core insight from vocabulary research: instructio
 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connecting new words to known concepts and experiences anchors meaning
 - [Accessible Syntax](../strategies/accessible_syntax.md) — vocabulary instruction pairs with sentence-level access; complex words in complex sentences still block comprehension
-- [Morphological Analysis](../strategies/morphological-analysis.md) — extends each taught word to its word family, multiplying instructional yield
+- [Morphological Analysis](morphological-analysis-instruction.md) — extends each taught word to its word family, multiplying instructional yield
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — the front-loading move that makes tiered selection actionable before reading
 - [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
@@ -153,7 +153,7 @@ The tiering framework is fundamentally a selection and prioritization tool: beca
 6. **Assess in use**: Evaluate whether learners recognize and deploy Tier Two words in comprehension tasks and their own compositions, not just on matching quizzes
 
 ## Related Strategies
-- [Morphological Analysis](../strategies/morphological-analysis.md) — extends each taught word to its word family, multiplying instructional yield
+- [Morphological Analysis](morphological-analysis-instruction.md) — extends each taught word to its word family, multiplying instructional yield
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — connects new words to concepts learners already hold
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — the front-loading move that makes tiered selection actionable before reading
 

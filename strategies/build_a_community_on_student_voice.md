@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: build_a_community_on_student_voice
-aliases: [building_a_community_on_student_voice]
+aliases: [building_a_community_on_student_voice, community_building_on_student_voice]
 title: Build a Community on Student Voice
 description: Building a community on student voice means structuring the classroom so students routinely contribute to — and increasingly shape — the norms, discussions, and decisions of their learning community.
 status: review
@@ -13,7 +13,7 @@ generated:
 # Build a Community on Student Voice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (6 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 6 claims (6 for) · 13 studies (7 review, 3 quant-synthesis, 2 theoretical, 1 causal), `q1`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Building a community on student voice means structuring the classroom so that students routinely contribute to — and increasingly shape — the norms, discussions, and decisions of their learning community. It is carried out through regular structures such as daily check-ins, reflection routines, sentence stems, and student-led discussion, with the instructor acting as facilitator rather than sole authority. The goal is both relational (students feel known and safe) and agentic (students practice self-advocacy and shared ownership of learning).
@@ -31,6 +31,8 @@ Student voice practices work because they support learners' basic psychological 
 - A supportive classroom environment with established norms of respectful listening and confidentiality
 - Scaffolds for articulation — sentence stems, starters, word banks — so language proficiency does not gate participation ([Articulation](../elements/articulation.md))
 - Visible teacher follow-through: acting on, or explicitly responding to, what students say
+- Psychological safety: norms that treat contributions as valued, not evaluated
+- Visible follow-through — student input must occasionally change what happens in the classroom, or voice routines become performative
 
 #### Constraints
 - Requires significant time investment; check-ins and student-led discussion consume instructional minutes that must be justified against content coverage goals
@@ -41,6 +43,10 @@ Student voice practices work because they support learners' basic psychological 
 - Students may initially resist sharing or feel uncomfortable speaking in groups; forced participation can increase anxiety rather than belonging [~M]
 - Tokenistic voice — soliciting opinions with no decision-making influence — reduces engagement over time and teaches students that speaking up is pointless [-W]
 - Dominant voices can crowd out quiet students unless structures (turns, written-first protocols, small groups) equalize airtime
+- Time-intensive; discussion routines compete with content coverage and can erode instructional time if unstructured [-M]
+- Hesitant or marginalized students may not participate without structured supports (stems, pair-share before whole-class sharing, [assigned positions](../elements/assigned-positions.md) in discussion) [~M]
+- Tokenism risk: soliciting voice without acting on it can reduce trust and future participation [-W]
+- Large classes make whole-class voice routines impractical; small-group structures are needed instead
 
 #### Implementation Variability
 - **Daily check-ins** (brief emotional/goal sharing) vs. **weekly reflection sheets** vs. **student-led discussion** — vary in time cost and depth
@@ -51,6 +57,10 @@ Student voice practices work because they support learners' basic psychological 
 - **Written-first voice** — reflection sheets or exit tickets before discussion, lowering the barrier for reluctant speakers
 - **Student-led discussion** — rotating facilitation of [class discussion](../elements/class-discussion.md) shifts authority progressively to students
 - **Participatory decision-making** — students co-design norms, topics, or assessment criteria; highest autonomy, highest implementation demand
+- **Daily check-ins** (brief emotional/logistical pulse) vs. **academic check-ins** (share current thinking on a task)
+- **Written-first variants** (reflection sheets, journals) for students uncomfortable speaking publicly
+- **Student-led discussion formats** (seminar, rotating facilitation) as voice capacity develops
+- **Governance-level voice**: students co-construct norms or choose among activities, extending voice from expression to decision-making
 
 ### Target Learners
 - All students, but the largest gains accrue to students who feel marginalized, anxious about speaking, or historically excluded from classroom authority [~S]
@@ -59,6 +69,8 @@ Student voice practices work because they support learners' basic psychological 
 - Students of all ages; routines scale from early elementary check-ins to secondary student-led seminars
 - Reluctant or marginalized students benefit most from written-first and small-group formats, which reduce social risk [~M]
 - Students still developing language proficiency need sentence stems and word banks to participate equitably
+- All K–12 learners, with the strongest documented benefits in elementary and secondary settings where community routines are easiest to institutionalize [+M]
+- Multilingual learners and students with communication-related needs, when sentence stems and written alternatives are provided [~M]
 
 ### Target Learning Goals
 - Engagement and motivation: connecting classroom activity to student interests and values, which raises task value [+M]
@@ -69,6 +81,10 @@ Student voice practices work because they support learners' basic psychological 
 - Self-advocacy and metacognition: recognizing one's own strengths, needs, and learning preferences
 - Communication skills: articulating reasoning and responding to peers ([Articulation](../elements/articulation.md))
 - Ownership of learning: connecting tasks to personal value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
+- Communication and self-advocacy: articulating one's thinking and needs
+- Metacognition and reflection: naming what one understands and where one struggles [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Classroom community: belonging, empathy, and shared norms
+- Motivation: connecting tasks to personal value (task value supports engagement; see Ryan & Deci, 2000) [+M]
 
 ### Instructions
 1. **Establish safety first.** Co-create discussion norms with students before asking for vulnerable contributions; model respectful response to every contribution.
@@ -77,6 +93,9 @@ Student voice practices work because they support learners' basic psychological 
 4. **Hand over discussion leadership.** Move from instructor-moderated [Class Discussion](../elements/class-discussion.md) to student-led formats with rotating facilitators, gradually fading instructor control as facilitation competence grows.
 5. **Close the loop.** Publicly connect decisions and instruction to student input ("Several of you asked for…, so today we…") so voice has visible consequence.
 6. **Assess participation formatively.** Track breadth of participation (who speaks, how often) rather than volume, and adjust facilitation to include hesitant voices.
+
+### Claims
+- [Active Learning](../principles/active-learning.md) — voice routines convert passive recipients into contributors, aligning with evidence that participatory formats improve exam performance [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 
 ## Related Strategies
 
@@ -87,6 +106,7 @@ Student voice practices work because they support learners' basic psychological 
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — norms work that underpins safe sharing
 - [Action Planning](action_planning.md) — converts voiced needs into student-owned next steps
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
+- [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — voice routines surface the prior knowledge that activation strategies then build on
 
 ## Examples
 - **Daily check-ins**: students share a feeling and a goal at the start of class; the teacher adjusts pacing or grouping based on patterns across responses.
@@ -98,6 +118,10 @@ Student voice practices work because they support learners' basic psychological 
 - **Sentence stems and word banks** ("I noticed…", "I need help with…", "A strategy that worked for me…") support students who struggle to articulate thoughts.
 - **[RULER](https://www.ycei.org/ruler)** (Yale Center for Emotional Intelligence) — the Mood Meter and char check-in routines institutionalize daily emotional voice in classrooms.
 - **[Restorative circles](https://www.iirp.edu)** — structured talking circles give every participant equal voice in community problem-solving.
+- **Responsive Classroom [Morning Meeting](https://www.responsiveclassroom.org)** — a published daily routine combining greeting, sharing, and group activity that institutionalizes student voice in elementary classrooms.
+- **Daily check-ins** at the start or end of class, with reflection sheets embedded in projects so students document their thinking as they work.
+- **Sentence stems** ("I noticed…", "I wonder…", "I need help with…") posted and used across subjects to lower the barrier to speaking.
+- **Socratic seminar / rotating discussion facilitation** in secondary humanities, where students progressively own the discussion structure itself.
 
 ## Key Sources
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
@@ -108,6 +132,7 @@ Student voice practices work because they support learners' basic psychological 
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Mitra, D. L., & Serriere, S. C. (2015). Student voice to improve schools: Insights from youth. *The Educational Forum, 79*(3), 316–327.
 - Cook-Sather, A. (2006). Sound, presence, and silence: The evolving scholarship on student voice in teaching and learning. *Curriculum Inquiry, 36*(4), 359–377.
+- Juvonen, J. (2006). Sense of belonging, social bonds, and school functioning. *Journal of School Health, 76*(6), 284–289.
 
 <!-- merged 2026-10-09 from strategies/building_a_community_on_student_voice ("Building a Community on Student Voice"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -180,4 +205,86 @@ Student voice practices work through two mechanisms: they satisfy learners' need
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Mitra, D. L., & Serriere, S. C. (2015). Student voice to improve schools: Insights from youth. *The Educational Forum, 79*(3), 316–327.
 - Cook-Sather, A. (2006). Sound, presence, and silence: The evolving scholarship on student voice in teaching and learning. *Curriculum Inquiry, 36*(4), 359–377.
+-->
+
+<!-- merged 2026-10-13 from strategies/community_building_on_student_voice ("Community Building on Student Voice"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Community Building on Student Voice
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 4 claims (4 for) · 9 studies (4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 9 report an effect size
+
+## Description
+Community building on student voice is the deliberate structuring of classroom time, routines, and norms so that students regularly share and discuss their thinking and see that input shaping the learning environment. Common mechanisms include daily [check-ins](../principles/check-ins.md), reflection sheets, sentence stems, and student-led [class discussion](../elements/class-discussion.md), which together build the confidence to speak up and advocate for one's own learning.
+
+## Design Implications
+
+Student voice practices work primarily through belonging and autonomy: when students perceive their contributions matter, engagement and motivation rise (Cornelius-White, 2007) [+M], and a sense of school belonging predicts engagement and persistence (Osterman, 2000) [+M]. Voice opportunities also function as autonomy support, which sustains intrinsic motivation [Autonomy-supportive environments sustain intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. The practice is social as much as individual: hearing peers' reasoning normalizes partial understanding and builds [Building Empathy](../principles/building-empathy.md) across the group.
+
+### Context
+#### Requirements
+- Protected, predictable time for sharing (e.g., opening or closing [check-ins](../principles/check-ins.md))
+- Psychological safety: norms that treat contributions as valued, not evaluated
+- Language supports such as sentence stems and word banks that lower the barrier to [articulation](../elements/articulation.md)
+- Visible follow-through — student input must occasionally change what happens in the classroom, or voice routines become performative
+
+#### Constraints
+- Time-intensive; discussion routines compete with content coverage and can erode instructional time if unstructured [-M]
+- Hesitant or marginalized students may not participate without structured supports (stems, pair-share before whole-class sharing, [assigned positions](../elements/assigned-positions.md) in discussion) [~M]
+- Tokenism risk: soliciting voice without acting on it can reduce trust and future participation [-W]
+- Large classes make whole-class voice routines impractical; small-group structures are needed instead
+
+#### Implementation Variability
+- **Daily check-ins** (brief emotional/logistical pulse) vs. **academic check-ins** (share current thinking on a task)
+- **Written-first variants** (reflection sheets, journals) for students uncomfortable speaking publicly
+- **Student-led discussion formats** (seminar, rotating facilitation) as voice capacity develops
+- **Governance-level voice**: students co-construct norms or choose among activities, extending voice from expression to decision-making
+
+### Target Learners
+- All K–12 learners, with the strongest documented benefits in elementary and secondary settings where community routines are easiest to institutionalize [+M]
+- Disengaged or low-belonging students, for whom visible valuing of input can shift persistence trajectories [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Multilingual learners and students with communication-related needs, when sentence stems and written alternatives are provided [~M]
+
+### Target Learning Goals
+- Communication and self-advocacy: articulating one's thinking and needs
+- Metacognition and reflection: naming what one understands and where one struggles [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Classroom community: belonging, empathy, and shared norms
+- Motivation: connecting tasks to personal value (task value supports engagement; see Ryan & Deci, 2000) [+M]
+
+### Affordances
+- [Check-Ins](../principles/check-ins.md) — the recurring routine that makes voice a norm rather than an event; low cost, high signal about student state and understanding
+- [Active Learning](../principles/active-learning.md) — voice routines convert passive recipients into contributors, aligning with evidence that participatory formats improve exam performance [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
+- [Communities of Practice](../principles/communities-of-practice.md) — sustained voice practices move a class from a group to a community with shared identity and norms
+- [Community of Inquiry](../principles/community-of-inquiry.md) — student voice supplies the social-presence and teaching-presence conditions this framework identifies as necessary for deep learning
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — voice becomes most meaningful when directed at real decisions and real listeners, not just the teacher
+
+### Personalization
+- Adaptable across subjects and age groups; stems and word banks can be tuned to vocabulary level
+- Written, spoken, and visual sharing channels let students choose their mode of contribution
+
+### Instructions
+1. Establish norms for respectful listening and valuing of contributions before any sharing routine begins.
+2. Open or close sessions with a brief [check-in](../principles/check-ins.md) — emotional or academic — so sharing becomes routine.
+3. Provide sentence stems and word banks to scaffold [articulation](../elements/articulation.md) for students who lack the language to contribute.
+4. Use structured [class discussion](../elements/class-discussion.md) formats (think-pair-share, small groups) before whole-class sharing so every student voices an idea at least once.
+5. Run student-led [class discussion](../elements/class-discussion.md) with rotating facilitation as confidence grows.
+6. Act visibly on student input — adjust pacing, examples, or norms — and name what changed because of what students said.
+
+## Related Strategies
+- [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — voice routines surface the prior knowledge that activation strategies then build on
+- [Active Listening](active-listening.md) — the teacher-side counterpart; voice only builds community when listening is genuine
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a norms-based strategy that creates the safety voice requires
+
+## Examples
+- **Responsive Classroom [Morning Meeting](https://www.responsiveclassroom.org)** — a published daily routine combining greeting, sharing, and group activity that institutionalizes student voice in elementary classrooms.
+- **Daily check-ins** at the start or end of class, with reflection sheets embedded in projects so students document their thinking as they work.
+- **Sentence stems** ("I noticed…", "I wonder…", "I need help with…") posted and used across subjects to lower the barrier to speaking.
+- **Socratic seminar / rotating discussion facilitation** in secondary humanities, where students progressively own the discussion structure itself.
+
+## Key Sources
+- Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
+- Osterman, K. F. (2000). Students' need for belonging in the school community. *Review of Educational Research, 70*(3), 323–367. [doi:10.3102/00346543070003323](https://doi.org/10.3102/00346543070003323)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
+- Juvonen, J. (2006). Sense of belonging, social bonds, and school functioning. *Journal of School Health, 76*(6), 284–289.
 -->

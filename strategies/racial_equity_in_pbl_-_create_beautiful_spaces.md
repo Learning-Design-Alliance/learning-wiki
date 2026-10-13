@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (2 for) · 5 studies (4 causal, 1 review), `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
-For many students, their communities and homes are not always beautiful places. This strategy leverages project-based learning ([PBL](project-based-learning.md)) to transform the classroom into a space made beautiful *by* student work — curated displays, exhibitions, and installations of finished projects. Walking into a building made beautiful by their own creations signals to students that their intellectual labor has aesthetic and public value. It is both an equity practice (countering environments that underserved students may experience as institutional or neglectful) and a motivational one: work destined for public display carries authentic purpose [Authentic audiences increase the quality and effort of student work.](../claims/authentic-audiences-improve-student-work.md) [+M].
+For many students, their communities and homes are not always beautiful places. This strategy leverages project-based learning ([PBL](project-based-learning-pbl.md)) to transform the classroom into a space made beautiful *by* student work — curated displays, exhibitions, and installations of finished projects. Walking into a building made beautiful by their own creations signals to students that their intellectual labor has aesthetic and public value. It is both an equity practice (countering environments that underserved students may experience as institutional or neglectful) and a motivational one: work destined for public display carries authentic purpose [Authentic audiences increase the quality and effort of student work.](../claims/authentic-audiences-improve-student-work.md) [+M].
 
 ## Design Implications
 
@@ -64,7 +64,7 @@ The strategy connects to belonging research: visible evidence that one's contrib
 ## Examples
 - **Expeditionary Learning (EL Education)** schools build "crew" culture around public exhibitions of expedition products — museum-style displays of student work open to families and community — as a core design feature ([https://eleducation.org](https://eleducation.org)).
 - **High Tech High (San Diego)** transforms hallways and galleries into rotating exhibitions of student projects each quarter, with students curating and serving as docents ([https://www.hightechhigh.org](https://www.hightechhigh.org)).
-- A teacher reworking a drab corridor into a "gallery of mathematicians" where every student's [PBL](project-based-learning.md) geometry installation is mounted with an artist-style label and reflection statement.
+- A teacher reworking a drab corridor into a "gallery of mathematicians" where every student's [PBL](project-based-learning-pbl.md) geometry installation is mounted with an artist-style label and reflection statement.
 
 ## Key Sources
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

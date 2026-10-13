@@ -61,7 +61,7 @@ The strategy rests on social learning theory: learners acquire attitudes, expect
 
 - [Goal Setting](../elements/goal-setting.md) — substitution is more durable when the new influences are tied to explicit learning goals
 - [Peer Tutoring](peer-tutoring.md) — structures positive peer interaction that doubles as academic support
-- [Self-Monitoring](self-monitoring.md) — the reflective mechanism that powers the audit and re-evaluation cycle
+- [Self-Monitoring](self-monitoring-strategies.md) — the reflective mechanism that powers the audit and re-evaluation cycle
 - [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)
 
 ## Examples

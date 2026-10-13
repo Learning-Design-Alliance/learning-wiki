@@ -158,16 +158,14 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Graphic Organizers](../elements/graphic-organizers.md), [Concept Mapping](../elements/concept-mapping.md) and [Advance Organizers](../elements/advance-organizers.md) — the elements that carry this principle.
 - [Graphic Organizers for Note-Taking](../strategies/graphic_organizers_for_note-taking.md) — learners structure notes from readings or lectures in an organizer.
 - [KWL Charts](../strategies/kwl-chart.md)
-- [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
-- [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
-- [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
+- [Pre-Reading Graphic Organizers](../strategies/graphic_organizers_for_pre-reading.md)
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
 - [Clarifying](../strategies/clarifying.md)
 - [Student-generated mapping exercise](../strategies/student-generated-mapping-strategy.md)
 - [Teacher-provided graphic map as review](../strategies/teacher-provided-advance-graphic-map.md)
 - [Text Illustrations With Graphic Organizers](../strategies/text_illustrations_with_graphic_organizers.md)
 - [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
-- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-guided-notes.md)
+- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-and-guided-notes-processing-speed.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.
@@ -280,10 +278,10 @@ Teachers should use graphic organizers to structure lessons and material, pre-te
 ## Examples
 
 - [KWL Charts](../strategies/kwl-chart.md)
-- [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
+- [Pre-Reading Graphic Organizers](../strategies/graphic_organizers_for_pre-reading.md)
 - [KWL Chart](../strategies/kwl-chart.md)
 - [KWL Chart](../strategies/kwl-chart.md)
-- [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
+- [Note-Taking Using Graphic Organizers](../strategies/graphic_organizers_for_note-taking.md)
 - [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
 - [Clarifying](../strategies/clarifying.md)
@@ -334,7 +332,7 @@ Graphically depicting key concepts and their interrelationships helps convey and
 - [Text Illustrations With Graphic Organizers](../strategies/text_illustrations_with_graphic_organizers.md)
 - [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
 - [Graphic Organizers](../strategies/graphic-organizers.md)
-- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-guided-notes.md)
+- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-and-guided-notes-processing-speed.md)
 
 ## Key Sources
 - Jonassen, D. H. (1984). Semantic relationships and structural knowledge acquisition in introductory psychology. https://eric.ed.gov/?id=ED258538

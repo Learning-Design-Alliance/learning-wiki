@@ -361,9 +361,9 @@ The guide's organizing framework treats learner variability as a design challeng
 - [Explicitly Addressing Social Awareness](../strategies/explicitly_addressing_social_awareness.md)
 - [Strength-Based Approach to Social Awareness](../strategies/strength-based_approach_to_social_awareness.md)
 - [Leveraging Strengths to Support Processing Speed](../strategies/leveraging_strengths_to_support_processing_speed.md)
-- [Strength-Based Strategies for Self-Awareness](../strategies/strength-based_strategies_for_self-awareness.md)
+- [Strength-Based Strategies for Self-Awareness](../strategies/strength-based_approach_to_self-awareness.md)
 - [Apply Student-Centered Strategies to Support Learning Differences](../strategies/apply_student-centered_strategies_to_support_learning_differences.md)
-- [Strength-Based Strategies for Responsible Decision-Making](../strategies/strength-based_strategies_for_responsible_decision-making.md)
+- [Strength-Based Strategies for Responsible Decision-Making](../strategies/strength-based_approach_to_responsible_decision-making.md)
 - [Identifying and Addressing Self-Regulation Strengths and Challenges](../strategies/identifying_and_addressing_self-regulation_strengths_and_challenges.md)
 
 ## Key Sources

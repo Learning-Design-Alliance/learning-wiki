@@ -62,7 +62,7 @@ Interdisciplinary activities build integrated knowledge structures and support t
 ## Related Strategies
 
 - [Case-Based Learning](../patterns/case-based-learning.md) — authentic cases are a natural vehicle for interdisciplinary problems
-- [Project-Based Learning](project-based-learning.md) — extended projects frequently require multi-disciplinary work
+- [Project-Based Learning](project-based-learning-pbl.md) — extended projects frequently require multi-disciplinary work
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the prerequisite step for connecting new material across disciplines
 - [Use discipline-specific clues as design problems to foster analyze and evaluate steps](discipline-clues-as-design-problems.md)
 

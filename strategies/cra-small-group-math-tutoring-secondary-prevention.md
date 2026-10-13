@@ -38,8 +38,7 @@ The case study's secondary prevention is a university-developed tutoring program
 
 ## Related Strategies
 
-- [Concrete Representational Abstract Sequence](concrete-representational-abstract-sequence.md)
-- [Concrete Representational Abstract](concrete-representational-abstract.md)
+- [Concrete Representational Abstract Sequence](concrete-representational-abstract-cra.md)
 - [Timed Math Fact Drills](timed_math_fact_drills.md)
 
 ## Examples

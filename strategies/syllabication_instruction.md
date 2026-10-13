@@ -60,7 +60,7 @@ Syllabication gives learners a structural schema for attacking multisyllable wor
 7. Apply the pattern in connected text reading and writing so the rule transfers beyond word lists.
 
 ## Related Strategies
-- [Systematic Phonics Instruction](systematic-phonics-instruction.md) — syllabication is the multisyllable extension of letter-sound phonics
+- [Systematic Phonics Instruction](explicit-systematic-phonics-instruction.md) — syllabication is the multisyllable extension of letter-sound phonics
 - [Morphology Instruction](morphology-instruction.md) — complements syllabication by teaching meaning-bearing units (prefixes, suffixes, roots)
 - [Dictation and Spelling Practice](dictation-and-spelling-practice.md) — the spelling-side application of syllable patterns
 

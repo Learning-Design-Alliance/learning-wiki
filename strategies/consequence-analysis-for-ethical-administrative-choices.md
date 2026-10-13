@@ -44,7 +44,7 @@ The paper recommends that administrators facing non-routine decisions involving 
 ## Related Strategies
 
 - [Student Reflection (Responsible Decision-Making)](student-reflection-responsible-decision-making.md)
-- [Responsible Decision-Making Practice](responsible_decision-making_practice.md)
+- [Responsible Decision-Making Practice](practice_responsible_decision-making.md)
 - [Ethical Responsibility Tools](ethical_responsibility_tools.md)
 
 ## Examples

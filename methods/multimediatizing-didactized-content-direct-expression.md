@@ -51,7 +51,7 @@ The principle of multimediatizing "consists in the direct expression of a didact
 - [Ten fundamental prerequisites for a multimedia language authoring system](../designs/ten-prerequisites-multimedia-language-authoring.md)
 - [LAVAC computerized language laboratory toolkit](../products/lavac.md)
 - [Digital Storytelling](../strategies/digital_storytelling.md)
-- [Multimodal Composition Projects](../strategies/multimodal_composition_projects.md)
+- [Multimodal Composition Projects](../strategies/composition_projects-multimodal.md)
 
 ## Key Sources
 - Toma, Tony. (2000). Real-Time Courseware Design: The LAVAC Video Sequencer. https://eric.ed.gov/?id=ED444508

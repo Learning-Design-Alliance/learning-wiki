@@ -57,7 +57,7 @@ Pre training works by splitting learning into two manageable phases: first acqui
 5. Follow with [Practice](../elements/practice.md) on the integrated material.
 
 ## Related Strategies
-- [Advance Organizers](../strategies/advance_organizers.md) — a structural frame before instruction; pre training goes further by teaching actual prerequisite content
+- [Advance Organizers](use-advance-organizers.md) — a structural frame before instruction; pre training goes further by teaching actual prerequisite content
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — retrieves existing knowledge rather than building new component knowledge
 - [Chunking](../principles/chunking.md) — the segmentation logic that pre training applies to the *sequence* of instruction
 

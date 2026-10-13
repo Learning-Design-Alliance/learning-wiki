@@ -61,7 +61,7 @@ Spelling and reading rely on shared orthographic representations, so systematic 
 ## Related Strategies
 
 - [Phonics Instruction](phonics-instruction.md) — decoding counterpart; spelling instruction reinforces the same grapheme–phoneme mappings in reverse
-- [Morphological Analysis](morphological-analysis.md) — extends word study beyond phonology to meaning units
+- [Morphological Analysis](morphological-analysis-instruction.md) — extends word study beyond phonology to meaning units
 - [Dictation and Encoding Practice](dictation-and-encoding-practice.md) — the retrieval-based practice format that builds orthographic memory
 - [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)
 

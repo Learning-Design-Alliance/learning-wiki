@@ -55,7 +55,6 @@ The chapter enumerates the key elements of a cooperative lesson: positive interd
 - [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
 - [Cooperative Learning](../strategies/cooperative-learning.md)
 - [Cooperative Learning](../elements/cooperative-learning.md)
-- [Cooperative Learning Activities](../strategies/cooperative_learning_activities.md)
 - [Encourage Cooperation](../strategies/encourage_cooperation.md)
 - [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
 

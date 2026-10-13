@@ -41,7 +41,7 @@ The article describes explicit instruction as teaching where "the teacher clearl
 
 - [Explicit Teaching](explicit-teaching.md)
 - [Strategy Instruction](strategy_instruction.md)
-- [Explicit or Direct Instruction](explicit_or_direct_instruction.md)
+- [Explicit or Direct Instruction](direct-instruction.md)
 
 ## Examples
 -

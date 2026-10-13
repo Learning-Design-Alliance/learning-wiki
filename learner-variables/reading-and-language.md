@@ -149,7 +149,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Accessible Syntax](../strategies/accessible_syntax.md) — lowers sentence-level demand without lowering content
 - [Explicit Vocabulary Instruction](../strategies/explicit-vocabulary-instruction.md) — direct teaching of the words the text assumes
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — front-loads the terms so the reading is not the first encounter
-- [Clarify Vocabulary, Symbols, and Language Structures](../strategies/clarify-vocabulary-symbols-and-language-structures.md) — the disciplinary-register case
+- [Clarify Vocabulary, Symbols, and Language Structures](../strategies/clarification-of-vocabulary-symbols-and-language-structures.md) — the disciplinary-register case
 - [Audiobooks](../elements/audiobooks.md) — decouples the content from the decoding demand
 
 ## Key Sources

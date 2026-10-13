@@ -39,7 +39,7 @@ Recommendation 6 teaches students to self-monitor and reflect on their own behav
 ## Related Strategies
 
 - [Self-Monitoring of Behavior](self-monitoring-of-behavior.md)
-- [Teach Self-Regulation Skills](teach_self-regulation_skills.md)
+- [Teach Self-Regulation Skills](teach-self-regulation-strategies.md)
 - [Self Monitoring Strategies](self-monitoring-strategies.md)
 - [Use behavior ratings to provide feedback to students](use-behavior-ratings-provide-feedback.md)
 

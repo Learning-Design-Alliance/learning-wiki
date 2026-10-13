@@ -61,7 +61,7 @@ Self-evaluation is the self-assessment step within self-regulated writing cycles
 6. Fade the supports: move from full checklists to student-generated criteria as evaluation skill grows ([Fading](../elements/fading.md)).
 
 ## Related Strategies
-- [Self-Monitoring](self-monitoring.md) — the broader self-regulation behavior of which writing self-evaluation is a specific instance
+- [Self-Monitoring](self-monitoring-strategies.md) — the broader self-regulation behavior of which writing self-evaluation is a specific instance
 - [Revision](../elements/revision.md) — the action step that converts evaluation judgments into improved text
 - Peer Review — externalizes the same evaluation criteria onto a peer's draft before self-application
 

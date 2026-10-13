@@ -59,7 +59,7 @@ AR's training value comes from combining real-world context with controllable, r
 
 ## Related Strategies
 - [Simulation-Based Training](../strategies/simulation-based-training.md) — AR is a variant that preserves real-world context
-- [Virtual Reality Training](../strategies/virtual-reality-training.md) — fully synthetic alternative when real terrain is unavailable
+- [Virtual Reality Training](virtual-reality-immersive-training.md) — fully synthetic alternative when real terrain is unavailable
 - [Scenario-Based Training](../strategies/scenario-based-training.md) — AR supplies the scenario content layer
 - [After-Action Review](../strategies/after-action-review.md) — the debrief method that converts AR exercise data into learning
 

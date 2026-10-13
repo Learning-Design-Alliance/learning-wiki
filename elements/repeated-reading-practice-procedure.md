@@ -55,7 +55,7 @@ Repeated reading is an academic practice, without a single developer, that "aims
 ## Examples
 
 - [Reading Fluency Practice](../strategies/reading-fluency-practice.md)
-- [Repeated Reading for Fluency](../strategies/repeated_reading_for_fluency.md)
+- [Repeated Reading for Fluency](../strategies/repeated-reading.md)
 - [Timed Practice With Progress Monitoring](../strategies/timed-practice-with-progress-monitoring.md)
 
 ## Key Sources

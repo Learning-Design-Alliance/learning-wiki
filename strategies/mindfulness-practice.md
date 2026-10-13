@@ -78,7 +78,7 @@ Mindfulness training targets the attentional control system: regular practice st
 
 - [Check-In](../elements/check-in.md) — mindfulness is often the vehicle for an opening check-in routine
 - [Spaced Practice](../principles/spaced-learning.md) — same repetition logic: distributed, repeated brief sessions beat massed ones
-- [Retrieval Practice](retrieval-practice.md) — a calm, focused state before retrieval reduces anxiety-driven interference
+- [Retrieval Practice](retrieval-practice-activities.md) — a calm, focused state before retrieval reduces anxiety-driven interference
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Check-ins](../principles/check-ins.md) — structured moments that extend mindfulness into metacognitive awareness of readiness to learn
 - [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)

@@ -58,7 +58,7 @@ Routines reduce the working-memory demands of recurring tasks by making the sequ
 6. **Transfer to varied cases** — apply the routine across new content and gradually introduce cases where it must be adapted, preventing over-rigid application.
 
 ## Related Strategies
-- [Worked Examples](../strategies/use_worked_examples.md) — a worked example is a routine demonstrated on a concrete case
+- [Worked Examples](worked-examples-first.md) — a worked example is a routine demonstrated on a concrete case
 - [Spaced Practice](../principles/spaced-learning.md) — distributed rehearsal is what drives routines to fluency
 - [Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes routine steps learnable
 

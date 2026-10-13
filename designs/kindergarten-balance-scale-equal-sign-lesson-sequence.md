@@ -44,7 +44,7 @@ Seven lessons within an 18-lesson kindergarten early algebra intervention that "
 - [Teacher Shifts Equal Sign Language With Kindergarten Lesson Focus](../claims/teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus.md) [+W]
 
 ## Related Patterns
-- [Concrete Representational Abstract](../strategies/concrete-representational-abstract.md)
+- [Concrete Representational Abstract](../strategies/concrete-representational-abstract-cra.md)
 - [Manipulatives](../strategies/manipulatives.md)
 - [Concrete Modeling](../elements/concrete-modeling.md)
 

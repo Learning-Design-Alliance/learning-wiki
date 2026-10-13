@@ -73,7 +73,7 @@ Student-generated questions are a strong predictor of engagement and a lever for
 6. **Reflect on the questions themselves.** Periodically have students reread old entries and note which wonders they can now answer and which have grown — making learning visible and sustaining the disposition.
 
 ## Related Strategies
-- [Question Formulation Technique](question-formulation-technique.md) — a structured protocol for generating, improving, and prioritizing questions; I Wonder Journals provide the ongoing capture that QFT episodes can refine
+- [Question Formulation Technique](question-formulation-technique-qft.md) — a structured protocol for generating, improving, and prioritizing questions; I Wonder Journals provide the ongoing capture that QFT episodes can refine
 - [Science Notebooks](science-notebooks.md) — the disciplinary container into which "I wonder" entries typically fit
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — wondering surfaces what students already believe, exposing misconceptions the teacher can address
 

@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**375 entries** · 0 stable · 134 in review · 241 drafts
+**376 entries** · 0 stable · 135 in review · 241 drafts
 
 ---
 
@@ -106,6 +106,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity](include-caregivers-as-self-regulation-coaches.md) - For adolescents and young adults in a self-regulation programme, adding coached support for the adults around them (their own regulation, and rehearsed co-regulation of the young person) is expected to make gains larger and more transferable, a practice brief's guideline that no claim in this wiki tests directly; neighbouring syntheses show coached parent training beating information alone for younger children.
 * [Inquiry-based Learning](inquiry-based-learning.md) - For school science learners, inquiry that is guided (prompts, feedback, teacher-led explanation and a synthesis) is associated with better conceptual understanding than comparison instruction, while unguided discovery of essential content learns less than explicit instruction for novices.
 * [Instructor Accessibility](instructor-accessibility.md) - For a learner who gets stuck on course work between contacts, published channels, a kept reply window, an invitation that makes asking normal and replies that respond to the learner's attempt are expected to raise the share who get help before they disengage, though no claim here tests instructor accessibility as such.
+* [Interleaving](interleaving.md) - When the goal is to tell apart categories or problem types that resemble one another, mixing examples or problems of different kinds in practice (interleaving) is expected to improve later classification and problem choice over practising one kind at a time (blocking); a meta-analysis of 59 studies supports this for visual categories and, more weakly, mathematics, finds no benefit for expository texts and a reversal for word lists, and finds the benefit grows with how similar the categories are.
 
 #### J {: #letter-j }
 

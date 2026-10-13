@@ -61,7 +61,7 @@ Modeling works because observing an expert perform a task — especially with ve
 
 ## Related Strategies
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the general-purpose narration technique underlying writing modeling
-- [Use Worked Examples](use_worked_examples.md) — the static, analyzable counterpart to live modeling
+- [Use Worked Examples](worked-examples-first.md) — the static, analyzable counterpart to live modeling
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the core element teacher modeling enacts

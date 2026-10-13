@@ -198,8 +198,8 @@ PALS is "a supplemental peer-tutoring program in which student pairs perform a s
 
 ## Examples
 
-- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](../strategies/reciprocal-teaching-peer-assisted-learning-strategies-pals.md)
-- [PALS_Peer Assisted Learning Strategies](../strategies/pals_peer-assisted-learning-strategies.md)
+- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](../strategies/peer-assisted-learning-strategies-pals.md)
+- [PALS_Peer Assisted Learning Strategies](../strategies/peer-assisted-learning-strategies-pals.md)
 - [Peer-Assisted Learning Strategies (PALS)](../strategies/peer-assisted-learning-strategies-pals.md)
 - [Prediction Relay](../strategies/prediction_relay.md)
 - [Paragraph Shrinking](../strategies/paragraph_shrinking.md)
@@ -254,8 +254,8 @@ Peer-Assisted Learning Strategies and Peer-Assisted Literacy Strategies are "pee
 ## Examples
 
 - [Reciprocal Peer Tutoring](../strategies/reciprocal-peer-tutoring.md)
-- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](../strategies/reciprocal-teaching-peer-assisted-learning-strategies-pals.md)
-- [PALS_Peer Assisted Learning Strategies](../strategies/pals_peer-assisted-learning-strategies.md)
+- [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](../strategies/peer-assisted-learning-strategies-pals.md)
+- [PALS_Peer Assisted Learning Strategies](../strategies/peer-assisted-learning-strategies-pals.md)
 
 ## Key Sources
 - Lb0

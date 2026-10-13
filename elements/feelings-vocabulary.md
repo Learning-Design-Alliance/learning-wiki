@@ -61,7 +61,7 @@ Emotion labeling supports self-regulation and communication, and affective granu
 - [Check-In](check-in.md) — the routine that gives feelings vocabulary recurring, authentic use
 - [Act It Out](act-it-out.md) — embodied practice linking emotion words to facial, vocal, and postural cues
 - [Analogies](analogies.md) — metaphors ("like a pressure cooker") can bridge emotion words to known experience
-- [Vocabulary Instruction](../strategies/vocabulary-instruction.md) — the general word-learning element this specializes
+- [Vocabulary Instruction](../strategies/explicit-vocabulary-instruction.md) — the general word-learning element this specializes
 
 ## Examples
 - **RULER Approach (Yale Center for Emotional Intelligence)** — teaches a "Mood Meter" with dozens of graded emotion terms organized by pleasantness and energy; learners plot their state and select regulation strategies. [https://ei.yale.edu](https://ei.yale.edu)

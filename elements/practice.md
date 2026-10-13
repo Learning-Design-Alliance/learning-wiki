@@ -160,7 +160,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — Alternates fully solved problems with isomorphic problems for learners to solve; the practice problem immediately follows the demonstration.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — Alternates fully solved problems with isomorphic problems for learners to solve; the practice problem immediately follows the demonstration.
 
 **[Khan Academy](https://www.khanacademy.org)** — Practice exercise sets with immediate feedback, hint scaffolds, and spaced review built into the mastery system.
 

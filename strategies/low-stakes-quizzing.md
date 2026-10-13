@@ -81,7 +81,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 ## Related Strategies
 
 - [Spaced Practice](../principles/spaced-learning.md) — spacing quizzes multiplies the retention benefit of each retrieval event
-- [Formative Assessment](../strategies/formative-assessment.md) — low stakes quizzing is the most frequent, granular instrument of a formative system
+- [Formative Assessment](formative-assessment-cycles.md) — low stakes quizzing is the most frequent, granular instrument of a formative system
 - [Interleaving](../strategies/interleaving.md) — mixing item types within quizzes forces discrimination between concepts
 - [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
 - [Flipped Classroom](../patterns/flipped-classroom.md) — pre-class reading quizzes hold learners accountable for first exposure and free class time for application

@@ -161,7 +161,7 @@ Understanding with speech on, understanding without it, reading the words unaide
 - **Audio review of instructor feedback**: Written comments are revisited through TTS so learners can process them more carefully.
 - **Chunked listening routine**: Learners pause after each paragraph or section to summarize and annotate.
 - **Pronunciation-supported vocabulary review**: Learners use TTS to hear unfamiliar academic language while reading it.
-- **Strategy pages describing the tool in use**: [Text-to-Speech (TTS)](../strategies/text-to-speech-tts.md), [Text To Speech Technology](../strategies/text-to-speech-technology.md), [Text To Speech Tools](../strategies/text-to-speech-tools.md), [Text-to-Speech Software](../strategies/text-to-speech_software.md).
+- **Strategy pages describing the tool in use**: [Text-to-Speech (TTS)](../strategies/text-to-speech-tts-software.md), [Text To Speech Technology](../strategies/text-to-speech-technology.md), [Text To Speech Tools](../strategies/text-to-speech-tools.md), [Text-to-Speech Software](../strategies/text-to-speech-tts-software.md).
 - [Apply Section 508 accessibility tips and tools when preparing presentations, Excel files, websites, and multimedia products](../strategies/508-compliance-accessibility-tips-for-education-materials.md)
 
 ## Key Sources

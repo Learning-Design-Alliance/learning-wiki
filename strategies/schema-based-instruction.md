@@ -73,7 +73,7 @@ Schema-based instruction works because expert problem solving is driven by recog
 5. Assess by asking students to name the schema and justify the classification, not only to produce the answer ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
-- [Worked Examples](../strategies/use_worked_examples.md) — solved problems are the vehicle for demonstrating each schema in action
+- [Worked Examples](worked-examples-first.md) — solved problems are the vehicle for demonstrating each schema in action
 - [Erroneous Examples](../strategies/erroneous_examples.md) — flawed keyword-based solutions sharpen schema discrimination
 - [Graphic Organizers](graphic-organizers.md) — schema diagrams are a domain-specific instance of this family
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the method for making schema classification visible
@@ -146,7 +146,7 @@ Schema-based instruction works because expert problem solving is schema-driven: 
 6. Include [Non-Examples](../elements/non-examples.md) — problems that look similar but belong to a different schema — to sharpen discrimination.
 
 ## Related Strategies
-- [Use Worked Examples](use_worked_examples.md) — worked examples are the primary vehicle for demonstrating a schema in action
+- [Use Worked Examples](worked-examples-first.md) — worked examples are the primary vehicle for demonstrating a schema in action
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the method for making schema classification visible
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side problems with the same schema but different surface features build structural recognition
 

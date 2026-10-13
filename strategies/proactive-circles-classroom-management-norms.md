@@ -43,7 +43,6 @@ Experts described teachers managing classrooms using RJ strategies such as "proa
 - [Classroom Climate Routines](classroom-climate-routines.md)
 - [Restorative Circles](restorative-circles.md)
 - [Classroom Management](classroom-management.md)
-- [Restorative Practices Circles](restorative-practices-circles.md)
 - [Restorative Practices](restorative-practices.md)
 - [Restorative Approaches](restorative-approaches.md)
 

@@ -49,7 +49,6 @@ The article describes Bloom's group-based, teacher-paced mastery learning model 
 
 - [Superimpose group-based mastery learning on traditional lecture-format courses with formative tests and corrective activities](../patterns/mastery-learning.md)
 - [Mastery Learning](../strategies/mastery-learning.md)
-- [Use Mastery Learning](../strategies/use_mastery_learning.md)
 - [Mastery Based Progression](../strategies/mastery-based-progression.md)
 - [Mastery Based Retesting](../strategies/mastery-based-retesting.md)
 

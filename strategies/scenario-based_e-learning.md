@@ -61,7 +61,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 ## Related Strategies
 - [Case-Based Learning](case-based-learning.md) — scenario analysis without branching; scenarios are the interactive extension of cases
 - [Role-Play](acting-role-play.md) — the live, human-mediated counterpart to simulated scenarios
-- [Worked Examples](use_worked_examples.md) — a modeled expert scenario can precede learner-driven scenarios as a fading sequence
+- [Worked Examples](worked-examples-first.md) — a modeled expert scenario can precede learner-driven scenarios as a fading sequence
 
 ## Examples
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/case-method-and-participation/Pages/default.aspx)** — the classroom ancestor of scenario-based e-learning; digital versions (HBX/Live) add interactive decision elements.

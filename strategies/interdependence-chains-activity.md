@@ -44,7 +44,7 @@ A pre-intermediate level activity, adapted from Haley (2010), in which students 
 
 - [Drawing To Learn](drawing-to-learn.md)
 - [Graphic Organizers as Text Illustrations](graphic_organizers_as_text_illustrations.md)
-- [Graphic Organizers/Guided Notes](graphic-organizers-guided-notes.md)
+- [Graphic Organizers/Guided Notes](graphic-organizers-and-guided-notes-processing-speed.md)
 
 ## Examples
 -

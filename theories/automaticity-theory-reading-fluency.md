@@ -46,7 +46,7 @@ Automaticity Theory (AT) is presented as a main theory in developing reading flu
 ## Examples
 
 - [Teach phonics and fluency together through a three-step rhyming poetry sequence](../strategies/rhyming-poetry-three-step-instruction-sequence.md)
-- [Repeated Reading for Fluency](../strategies/repeated_reading_for_fluency.md)
+- [Repeated Reading for Fluency](../strategies/repeated-reading.md)
 - [Reading Fluency Practice](../strategies/reading-fluency-practice.md)
 - [Choral Reading](../strategies/choral-reading.md)
 - [Echo Reading](../strategies/echo-reading.md)

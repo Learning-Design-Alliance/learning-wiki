@@ -57,7 +57,7 @@ The structure operationalizes two well-supported ideas: activating prior knowled
 
 ## Related Strategies
 
-- [Worked Examples](../strategies/use_worked_examples.md) — an alternative Before-phase move when exploration would overwhelm novices; can be interleaved with the three-phase arc across a unit
+- [Worked Examples](worked-examples-first.md) — an alternative Before-phase move when exploration would overwhelm novices; can be interleaved with the three-phase arc across a unit
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a common During-phase participation structure
 - [Gallery Walk](../strategies/gallery-walk.md) — an After-phase format for sharing and critiquing student work
 - [Teachers as designers and guardians of the task structure across all three AIRIS phases](teacher-guardian-of-ai-task-structure.md)

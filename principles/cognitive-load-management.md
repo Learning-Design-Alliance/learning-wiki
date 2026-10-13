@@ -124,7 +124,6 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
 - [Wait Time](../strategies/wait-time.md)
 - [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
-- [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
 - [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
 - [Progressively disclose analytical depth: start beginners with streamlined visual interfaces, then introduce richer analytical tools as expertise grows](../strategies/progressive-disclosure-visual-to-analytical-support.md)
 
@@ -332,7 +331,7 @@ Because older adults tend to process information more slowly and may have declin
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
 - [Wait Time](../strategies/wait-time.md)
 - [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
-- [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
+- [Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
 
 ## Key Sources
 - Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37

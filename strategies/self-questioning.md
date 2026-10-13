@@ -58,7 +58,7 @@ Self questioning works because answering a question requires retrieval and elabo
 
 ## Related Strategies
 - [Self-Explanation](../elements/self-explanation.md) — the complementary generative act: explaining to oneself rather than interrogating the material
-- [Retrieval Practice](retrieval-practice.md) — answering questions (self-generated or otherwise) is retrieval; questioning adds the generation step
+- [Retrieval Practice](retrieval-practice-activities.md) — answering questions (self-generated or otherwise) is retrieval; questioning adds the generation step
 - [Annotating](../principles/annotating.md) — questions written in margins are a common annotation form serving the same monitoring function
 
 ## Examples

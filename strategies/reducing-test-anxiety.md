@@ -61,7 +61,7 @@ Test anxiety consumes working-memory resources during assessment, so its reducti
 
 ## Related Strategies
 - [Distributed Practice](distributed-practice.md) — spacing retrieval across sessions lowers per-event stakes while improving retention
-- [Retrieval Practice](retrieval-practice.md) — frequent low-stakes testing desensitizes the testing situation itself
+- [Retrieval Practice](retrieval-practice-activities.md) — frequent low-stakes testing desensitizes the testing situation itself
 - [Formative Feedback](formative-feedback.md) — feedback that separates performance from judgment reduces evaluative threat
 
 ## Examples

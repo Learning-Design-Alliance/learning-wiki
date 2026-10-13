@@ -62,7 +62,7 @@ Genre knowledge is largely tacit; learners who have not absorbed it through wide
 ## Related Strategies
 
 - [Process Writing](process-writing.md) — genre instruction supplies the structural knowledge that process approaches often leave implicit
-- [Self-Regulated Strategy Development](self-regulated-strategy-development.md) — wraps genre strategies in self-regulation training; the two combine well
+- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — wraps genre strategies in self-regulation training; the two combine well
 - [Mentor Text Analysis](mentor-text-analysis.md) — the text-study phase on which explicit genre teaching depends
 - [Teach students that different genres of writing serve different purposes and let them practice genre selection](genres-serve-purposes-genre-selection-practice.md)
 

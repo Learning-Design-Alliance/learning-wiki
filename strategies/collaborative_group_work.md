@@ -63,7 +63,7 @@ Collaboration improves achievement when it is genuinely cooperative — positive
 - [Jigsaw](../strategies/jigsaw.md) — a high-interdependence variant where each member holds unique information
 - [Peer Instruction](../strategies/peer-instruction.md) — short-cycle collaboration around conceptual questions
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role-based group dialogue for reading comprehension
-- [Project-Based Learning](../strategies/project-based-learning.md) — sustained collaborative work toward an authentic product
+- [Project-Based Learning](project-based-learning-pbl.md) — sustained collaborative work toward an authentic product
 
 ## Examples
 - **Jigsaw classroom** (Aronson) — students become "experts" in one segment and teach it to their home group; the original design specifically used interdependence to reduce intergroup bias ([jigsaw.org](https://www.jigsaw.org)).

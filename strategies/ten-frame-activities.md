@@ -62,7 +62,7 @@ Ten frames exploit the visual system's capacity to perceive small quantities at 
 ## Related Strategies
 - [Number Talks](number-talks.md) — ten frame flashes are a common warm-up routine within number talks
 - [Subitizing Activities](subitizing-activities.md) — ten frames are one structured representation used to develop subitizing
-- [Concrete-Representational-Abstract Sequence](concrete-representational-abstract-sequence.md) — the frame sits at the representational bridge between counters and symbols
+- [Concrete-Representational-Abstract Sequence](concrete-representational-abstract-cra.md) — the frame sits at the representational bridge between counters and symbols
 
 ## Examples
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** K–2 curriculum embeds ten frame routines in its number sense warm-ups.

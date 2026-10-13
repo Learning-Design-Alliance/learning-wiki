@@ -40,7 +40,7 @@ The brief defines peer feedback as "the practice of students analyzing evidence 
 
 - [Peer Feedback](peer_feedback.md)
 - [Peer Feedback Protocols](peer-feedback-protocols.md)
-- [Reciprocal Peer Critique](reciprocal-peer-critique.md)
+- [Reciprocal Peer Critique](peer-critique.md)
 - [Peer Review Protocols](peer-review-protocols.md)
 - [Peer Assessment](peer_assessment.md)
 - [Action Oriented Feedback](action-oriented-feedback.md)

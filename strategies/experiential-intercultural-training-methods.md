@@ -44,7 +44,7 @@ Several annotated background materials recommend experiential methods for interc
 - [Acting/Role Play](acting-role-play.md)
 - [WWYD Critical Incidents](wwyd_critical_incidents.md)
 - [Role Play](role-play.md)
-- [Simulation Learning](simulation_learning.md)
+- [Simulation Learning](simulation-based-learning.md)
 - [Debriefing](debriefing.md)
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
 

@@ -61,7 +61,7 @@ The strategy works by offloading regulation onto an external cue at precisely th
 7. Fade adult prompting as the learner initiates card use independently
 
 ## Related Strategies
-- [Self-Monitoring](../strategies/self-monitoring.md) — cards presuppose noticing one's own escalation; explicit self-monitoring routines supply that trigger
+- [Self-Monitoring](self-monitoring-strategies.md) — cards presuppose noticing one's own escalation; explicit self-monitoring routines supply that trigger
 - [Mindfulness Breaks](../strategies/mindfulness-breaks.md) — a common card content; brief mindfulness practice reduces anxiety in school settings
 - [Fidget Tools](../strategies/fidget-tools.md) — a tangible strategy frequently depicted on cards; effective as a regulation aid, counterproductive when treated as a toy
 

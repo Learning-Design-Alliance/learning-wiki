@@ -57,7 +57,6 @@ The article recommends that ER material "should be fun, easy, and frequent", sin
 - [Classroom Library](../strategies/classroom_library.md)
 - [Implement extensive reading via stand-alone courses, curricular components, or reading clubs, with self-report accountability and no comprehension testing](../strategies/extensive-reading-implementation-models-self-report-accountability.md)
 - [Independent Reading Time](../strategies/independent-reading-time.md)
-- [Supported Independent Reading](../strategies/supported_independent_reading.md)
 
 ## Key Sources
 - Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517

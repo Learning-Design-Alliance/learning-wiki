@@ -74,7 +74,7 @@ CAPIT Reading is "a blended supplemental phonics program designed for all three 
 
 - [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](../strategies/capit-onboarding-data-coaching-strategy.md)
 - [Explicit Instruction: Decoding](../strategies/explicit_instruction-decoding.md)
-- [Explicit Systematic Phonics](../strategies/explicit-systematic-phonics.md)
+- [Explicit Systematic Phonics](../strategies/explicit-systematic-phonics-instruction.md)
 - [Direct Instruction Phonics](../strategies/direct_instruction-phonics.md)
 - [Explicit Systematic Phonics Instruction](../strategies/explicit-systematic-phonics-instruction.md)
 

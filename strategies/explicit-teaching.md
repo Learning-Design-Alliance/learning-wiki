@@ -77,7 +77,7 @@ Explicit teaching reduces ambiguity about what success looks like and lowers the
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — situates modelling within a broader modelling–coaching–fading sequence
 - [4C/ID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — embeds explicit supportive information within whole learning tasks
 - [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
-- [Worked Examples](../strategies/use_worked_examples.md) — a demonstration format central to the modelling phase of explicit teaching
+- [Worked Examples](worked-examples-first.md) — a demonstration format central to the modelling phase of explicit teaching
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes modelling effective
 - [Scaffolded Questioning](../strategies/scaffolded-questioning.md) — the primary check-for-understanding technique during guided practice
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
@@ -154,7 +154,7 @@ Explicit teaching works because it reduces unguided search and manages working m
 
 ## Related Strategies
 
-- [Worked Examples](../strategies/use_worked_examples.md) — a demonstration format central to the modelling phase of explicit teaching
+- [Worked Examples](worked-examples-first.md) — a demonstration format central to the modelling phase of explicit teaching
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes modelling effective
 - [Scaffolded Questioning](../strategies/scaffolded-questioning.md) — the primary check-for-understanding technique during guided practice
 - [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)

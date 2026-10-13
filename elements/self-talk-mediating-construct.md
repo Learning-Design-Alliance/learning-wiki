@@ -52,12 +52,10 @@ Self-talk is the internal verbalization by which students perceive, interpret, a
 
 - [Self-Instruction](../strategies/self-instruction.md)
 - [Positive Self Talk Modeling](../strategies/positive-self-talk-modeling.md)
-- [Reframing Self Talk](../strategies/reframing-self-talk.md)
+- [Reframing Self Talk](../strategies/positive-self-talk-reframing.md)
 - [Positive Self Talk Instruction](../strategies/positive-self-talk-instruction.md)
 - [Self Talk](../strategies/self-talk.md)
 - [Identify Self-Talk](../strategies/identify_self-talk.md)
-- [Positive Self Talk Reframing](../strategies/positive-self-talk-reframing.md)
-- [Modeling Positive Self-Talk](../strategies/modeling_positive_self-talk.md)
 
 ## Key Sources
 - Burnett, P. C. (1999). The Impact of Teachers' Praise on Students' Self-Talk and Self-Concepts. Paper presented at AERA, Montreal. https://eric.ed.gov/?id=ED431768

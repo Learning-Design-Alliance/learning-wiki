@@ -59,7 +59,7 @@ Self advocacy instruction works because it converts help-seeking from an admissi
 
 ## Related Strategies
 
-- [Teaching Self-Monitoring](../strategies/self-monitoring.md) — the metacognitive precursor: learners must track their own performance before they can articulate needs
+- [Teaching Self-Monitoring](self-monitoring-strategies.md) — the metacognitive precursor: learners must track their own performance before they can articulate needs
 - [Goal Setting with Learners](../elements/goal-setting.md) — advocacy is most concrete when anchored to a learner-set goal
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — structures the handoff of support decisions from adult to learner
 - [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)

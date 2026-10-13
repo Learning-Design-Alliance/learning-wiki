@@ -64,7 +64,7 @@ Learning clubs combine two well-supported levers: autonomy through topic choice 
 
 - [Jigsaw](jigsaw.md) — a structure that adds individual accountability to club-style grouping
 - [Literature Circles](literature-circles.md) — the reading-focused ancestor of learning clubs
-- [Project-Based Learning](project-based-learning.md) — clubs can serve as the collaborative unit within a longer project
+- [Project-Based Learning](project-based-learning-pbl.md) — clubs can serve as the collaborative unit within a longer project
 - [Use Student-Written Texts in Literacy Instruction](use-student-written-texts-in-literacy-instruction.md)
 
 ## Examples

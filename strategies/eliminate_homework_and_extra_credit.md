@@ -62,7 +62,7 @@ Grading homework completion measures compliance, not learning, and creates incen
 ## Related Strategies
 - [Standards-Based Grading](standards-based-grading.md) — the grading system this strategy most often accompanies
 - [Retakes and Revisions](retakes-and-revisions.md) — the replacement mechanism for extra credit
-- [Frequent Low-Stakes Testing](frequent-low-stakes-testing.md) — a graded-but-low-stakes alternative that preserves retrieval benefits
+- [Frequent Low-Stakes Testing](frequent-low-stakes-quizzes.md) — a graded-but-low-stakes alternative that preserves retrieval benefits
 
 ## Related Elements
 - [Practice](../elements/practice.md) — homework becomes ungraded practice rather than a graded product

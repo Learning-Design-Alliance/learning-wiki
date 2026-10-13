@@ -45,7 +45,6 @@ This implementable design move addresses the gatekeeping the article documents, 
 
 - [Prepare college instructors to support English Learners' language and academic development in dual enrollment courses](pd-for-college-instructors-teaching-els.md)
 - [Maintaining Sensitivity to Language Concerns](maintaining_sensitivity_to_language_concerns.md)
-- [Sensitivity to Language Concerns](sensitivity_to_language_concerns.md)
 
 ## Examples
 -

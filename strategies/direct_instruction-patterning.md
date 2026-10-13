@@ -60,7 +60,7 @@ Patterning operationalizes the insight that learners generalize from whatever va
 
 ## Related Strategies
 - [Explicit Teaching](explicit-teaching.md) — the broader family of teacher-led, structured instruction that patterning serves
-- [Worked Examples](worked-examples.md) — an example-based format that can be patterned the same way (sequenced positives and negatives)
+- [Worked Examples](worked-examples-first.md) — an example-based format that can be patterned the same way (sequenced positives and negatives)
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the review mechanism that maintains the discriminations patterning establishes
 
 ## Examples

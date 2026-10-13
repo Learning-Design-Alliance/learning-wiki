@@ -87,7 +87,7 @@ The Wilson Reading System® is "a supplemental reading and writing curriculum de
 - [Multisensory Instruction](../strategies/multisensory_instruction.md)
 - [Systematic Synthetic Phonics](../strategies/systematic-synthetic-phonics.md)
 - [Dictation](../strategies/dictation.md)
-- [Explicit Systematic Phonics](../strategies/explicit-systematic-phonics.md)
+- [Explicit Systematic Phonics](../strategies/explicit-systematic-phonics-instruction.md)
 - [Phoneme-Grapheme Mapping](../strategies/phoneme-grapheme_mapping.md)
 
 ## Key Sources

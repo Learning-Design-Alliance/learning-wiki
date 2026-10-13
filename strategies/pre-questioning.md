@@ -59,7 +59,7 @@ Pre questioning works through two complementary mechanisms: it functions as a [p
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — prequestions are a question-based method of achieving the same activation
-- [Retrieval Practice](../strategies/retrieval-practice.md) — prequestions apply retrieval principles *before* study rather than after; the same testing effect operates in both directions
+- [Retrieval Practice](retrieval-practice-activities.md) — prequestions apply retrieval principles *before* study rather than after; the same testing effect operates in both directions
 - [Advance Organizers](../elements/advance-organizers.md) — a non-question alternative for orienting learners before instruction
 
 ## Examples

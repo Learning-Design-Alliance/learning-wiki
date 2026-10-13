@@ -58,7 +58,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 
 ## Related Strategies
 - [Flipped Classroom](flipped-classroom.md) — video as the pre-class content delivery mechanism
-- [Use Worked Examples](use_worked_examples.md) — screencast demonstrations of solved problems are video-based worked examples
+- [Use Worked Examples](worked-examples-first.md) — screencast demonstrations of solved problems are video-based worked examples
 - [Interactive Video Quizzing](interactive-video-quizzing.md) — embedding questions to force generative processing
 
 ## Examples

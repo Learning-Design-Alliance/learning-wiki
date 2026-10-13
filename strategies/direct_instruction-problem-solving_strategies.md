@@ -59,7 +59,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 6. **Fade the scaffolds.** Progressively remove the forced-choice prompts so learners internalize selection ([Fading](../elements/fading.md)).
 
 ## Related Strategies
-- [Worked Examples](../strategies/use_worked_examples.md) — the modeling vehicle for demonstrating strategy execution step by step
+- [Worked Examples](worked-examples-first.md) — the modeling vehicle for demonstrating strategy execution step by step
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the method for making strategy *selection* visible, not just execution
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a canonical instance of explicit strategy instruction with faded group practice
 

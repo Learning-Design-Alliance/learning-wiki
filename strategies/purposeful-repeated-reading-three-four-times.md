@@ -40,7 +40,6 @@ For fluency building, structure repeated reading so each reread has a distinct p
 ## Related Strategies
 
 - [Repeated Reading](repeated-reading.md)
-- [Repeated Reading for Fluency](repeated_reading_for_fluency.md)
 - [Rereading](rereading.md)
 - [Close Reading](close-reading.md)
 - [Reading Fluency Practice](reading-fluency-practice.md)

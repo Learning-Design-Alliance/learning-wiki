@@ -71,7 +71,7 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 
 ## Examples
 
-**[Use Worked Examples](../strategies/use_worked_examples.md)** — Presents a fully solved problem for study before asking learners to solve a parallel one; the solution is the exemplar.
+**[Use Worked Examples](../strategies/worked-examples-first.md)** — Presents a fully solved problem for study before asking learners to solve a parallel one; the solution is the exemplar.
 
 **Comparing and contrasting cases** — Learners study two worked-out cases differing on one key feature and articulate the difference, a structure shown to improve abstract understanding [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 

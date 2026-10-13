@@ -102,7 +102,7 @@ Shadowing is a preventive, high-supervision form of behavior support: it reduces
 - [Acting-Role-Play](acting-role-play.md) — rehearsing replacement behaviors in low-stakes contexts complements in-the-moment prompting
 - [Active-Listening](active-listening.md) — how the shadowing adult talks the child through escalation moments
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — the assessment that should precede and shape shadowing
-- [Self-Monitoring](self-monitoring.md) — the natural successor strategy as shadowing fades
+- [Self-Monitoring](self-monitoring-strategies.md) — the natural successor strategy as shadowing fades
 - [Functional Behavioral Assessment](functional_behavioral_assessment.md) — the assessment process shadowing data feeds into
 - [Praise and Reinforcement](praise_and_reinforcement.md) — the mechanism by which replacement behaviors are strengthened
 
@@ -182,7 +182,7 @@ Shadowing is a prevention-first behavior support: by interrupting the antecedent
 ## Related Strategies
 - [Positive Behavior Support](positive-behavior-support.md) — the broader multi-tiered framework in which shadowing functions as an intensive, individualized tier
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — the assessment that should precede and shape shadowing
-- [Self-Monitoring](self-monitoring.md) — the natural successor strategy as shadowing fades
+- [Self-Monitoring](self-monitoring-strategies.md) — the natural successor strategy as shadowing fades
 
 ## Examples
 - **Preschool biting/hitting**: a paraprofessional shadows a four-year-old during free play and transitions, pre-correcting before high-risk moments and coaching the child to request a turn or a break instead of biting; support fades to across-the-room monitoring after two incident-free weeks.

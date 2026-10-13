@@ -75,7 +75,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 ## Related Strategies
 
 - Sentence deconstruction — the inverse move; taking complex sentences apart builds the same syntactic awareness
-- [Strategy instruction in writing](../strategies/self-regulated-strategy-development.md) — combining functions as one tool within broader composing strategies
+- [Strategy instruction in writing](self-regulated-strategy-development-srsd.md) — combining functions as one tool within broader composing strategies
 - [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 - Sentence decombining (sentence splitting) — the inverse move, useful for students whose sentences run on
 - Kernel-sentence expansion — a precursor activity for writers not yet ready for combining

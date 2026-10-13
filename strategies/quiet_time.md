@@ -61,7 +61,7 @@ Quiet time functions as an arousal-regulation routine: sustained attention and w
 ## Related Strategies
 - [Brain Breaks](brain-breaks.md) — the complementary high-arousal counterpart; quiet time downshifts arousal, brain breaks re-energize it
 - [Mindfulness Practice](mindfulness-practice.md) — a specific contemplative variant of quiet time with its own evidence base
-- [Classroom Routines](classroom-routines.md) — quiet time works only as a consistently enacted routine
+- [Classroom Routines](classroom-routines-and-procedures.md) — quiet time works only as a consistently enacted routine
 
 ## Related Elements
 - [Choice Boards](../elements/choice-boards.md) — structure the student-directed activity selection

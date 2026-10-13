@@ -58,7 +58,7 @@ Model texts function as worked examples for writing: they substitute a completed
 5. Return to the model during revision as a reference standard for self- and peer-evaluation
 
 ## Related Strategies
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the problem-solving analogue: a completed solution studied before independent attempts
+- [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: a completed solution studied before independent attempts
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — complements model texts by making the *process* of producing such a text visible
 - [Comparing Cases](../elements/comparing-cases.md) — the general mechanism behind contrasting multiple models
 

@@ -40,7 +40,7 @@ The brief offers strategies for improving automated writing feedback tools so th
 
 - [Provide school and district leader support strategies when adopting automated writing feedback tools like Ecree](leader-support-strategies-for-automated-writing-feedback-adoption.md)
 - [Use automated writing feedback tools like Ecree to support writing in middle and high school English language arts classrooms](use-ecree-to-support-writing-in-ela-classrooms.md)
-- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](targeted-recommendations-promote-effective-data-use.md)
+- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](data-use-recommendations-for-state-district-system-developers.md)
 
 ## Examples
 -

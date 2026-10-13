@@ -59,7 +59,7 @@ Explicit, systematic phonics-based spelling instruction produces stronger genera
 ## Related Strategies
 
 - [Dictation and sentence writing](../strategies/dictation.md) — the production-side assessment that verifies generalization
-- [Morphology instruction](../strategies/morphological-analysis.md) — the natural extension for polysyllabic words in later grades
+- [Morphology instruction](morphological-analysis-instruction.md) — the natural extension for polysyllabic words in later grades
 - [Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice](morphograph-rule-apply-practice-routine.md)
 
 ## Examples

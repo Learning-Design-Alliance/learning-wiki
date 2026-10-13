@@ -38,7 +38,7 @@ The article recommends that during initial vocabulary acquisition, teachers use 
 
 ## Related Strategies
 
-- [Spaced Retrieval](spaced-retrieval.md)
+- [Spaced Retrieval](spaced-retrieval-practice.md)
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
 - [Spaced Scheduling](spaced-scheduling.md)
 - [Distributed Practice](distributed-practice.md)

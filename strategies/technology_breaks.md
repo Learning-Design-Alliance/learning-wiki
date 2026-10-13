@@ -57,7 +57,7 @@ Media multitasking during study reliably degrades comprehension and efficiency: 
 
 ## Related Strategies
 - [Pomodoro Technique](pomodoro-technique.md) — the interval-timing structure technology breaks typically ride on
-- [Self-Monitoring](self-monitoring.md) — the tracking mechanism that makes adherence visible
+- [Self-Monitoring](self-monitoring-strategies.md) — the tracking mechanism that makes adherence visible
 - [Reducing Distractions](reducing-distractions.md) — the broader environmental-design family this strategy belongs to
 
 ## Examples

@@ -61,7 +61,7 @@ Generative strategies improve retention and transfer because they force learners
 ## Related Strategies
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight generative prompt (recall, connect, question) usable at the end of any session
 - [Self-explanation](../elements/self-explanation.md) — the most-studied generative activity, prompting learners to justify steps to themselves
-- [Retrieval practice](retrieval-practice.md) — related but distinct: reconstructing from memory rather than transforming presented material
+- [Retrieval practice](retrieval-practice-activities.md) — related but distinct: reconstructing from memory rather than transforming presented material
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students commit to an answer, then explain their reasoning to a neighbor before re-answering; the peer explanation is the generative act. [https://blog.iclicker.com/peer-instruction/](https://blog.iclicker.com/peer-instruction/)

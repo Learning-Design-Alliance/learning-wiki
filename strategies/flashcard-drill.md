@@ -80,7 +80,7 @@ Flashcards work because they force retrieval rather than restudy; the act of pul
 
 ## Related Strategies
 - [Spaced Repetition Scheduling](../strategies/spaced-repetition-scheduling.md) — the scheduling mechanism that makes drill durable rather than ephemeral
-- [Retrieval Practice](../strategies/retrieval-practice.md) — the broader principle; flashcards are its most compact implementation
+- [Retrieval Practice](retrieval-practice-activities.md) — the broader principle; flashcards are its most compact implementation
 - [Interleaved Practice](../strategies/interleaved-practice.md) — mixing card categories improves discrimination between related items
 - Spaced Repetition Scheduling — the scheduling layer that makes flashcard drill durable rather than cram-like
 - Retrieval Practice Testing — the general principle; flashcards are its most portable implementation

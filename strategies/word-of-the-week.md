@@ -60,7 +60,7 @@ Vocabulary research consistently shows that word knowledge develops through mult
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — linking the new word to known concepts and experiences is the elaboration step that makes it stick
-- [Morphological Analysis](morphological-analysis.md) — teaching roots and affixes multiplies the payoff of each weekly word
+- [Morphological Analysis](morphological-analysis-instruction.md) — teaching roots and affixes multiplies the payoff of each weekly word
 
 ## Examples
 - **[Bringing Words to Life](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167)** — Beck, McKeown, and Kucan's instructional framework supplies the Tier Two selection logic and the "friendly definition" introduction routine that most Word Of The Week implementations follow.

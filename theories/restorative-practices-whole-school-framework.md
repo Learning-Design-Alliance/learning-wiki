@@ -57,7 +57,6 @@ The program is grounded in restorative practices, operationalized through 11 ess
 - [Restorative Questions](../strategies/restorative-questions.md)
 - [Co-Creating Classroom Norms](../strategies/co-creating-classroom-norms.md)
 - [Circle Time Emotions](../strategies/circle_time_emotions.md)
-- [Restorative Practices Circles](../strategies/restorative-practices-circles.md)
 
 ## Key Sources
 - SaferSanerSchools™ Whole-School Change program. (2018). Evidence summary. https://evidenceforessa.org/program/safersanerschools-whole-school-change/

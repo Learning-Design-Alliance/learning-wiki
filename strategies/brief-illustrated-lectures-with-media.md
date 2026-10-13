@@ -38,8 +38,7 @@ The teaching strategies section prescribes a sequence of brief lectures, each on
 
 ## Related Strategies
 
-- [Providing Graphic Organizers or Guided Notes](providing_graphic_organizers_or_guided_notes.md)
-- [Graphic Organizers and Guided Notes (Processing Speed)](graphic-organizers-and-guided-notes-processing-speed.md)
+- [Providing Graphic Organizers or Guided Notes](graphic-organizers-and-guided-notes-processing-speed.md)
 
 ## Examples
 -

@@ -63,7 +63,7 @@ Reading aloud exposes learners to language and text structures above their indep
 ## Related Strategies
 - [Shared Reading](shared-reading.md) — learners see the print and join in; read aloud shifts more print work to the learner
 - [Repeated Reading](repeated-reading.md) — targets fluency through learner reading rather than listening
-- [Vocabulary Pre-Teaching](vocabulary-pre-teaching.md) — the front-loaded complement to in-text vocabulary pauses
+- [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — the front-loaded complement to in-text vocabulary pauses
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of 2–3-year-olds trained in PEER questioning produced measurable expressive language gains in weeks.

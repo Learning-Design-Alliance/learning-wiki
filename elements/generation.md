@@ -68,7 +68,7 @@ Generation reliably improves retention of the generated material relative to rea
 
 ## Examples
 
-**[Retrieval practice / pretesting](../strategies/retrieval-practice.md)** — Learners answer questions before or without studying the answer; errors are corrected in feedback. The attempt itself improves subsequent encoding.
+**[Retrieval practice / pretesting](../strategies/retrieval-practice-activities.md)** — Learners answer questions before or without studying the answer; errors are corrected in feedback. The attempt itself improves subsequent encoding.
 
 **Completion problems in programming tutors** — Platforms like [Codecademy](https://www.codecademy.com) and Parsons-problem exercises give partial code and require learners to generate the remainder, fading toward full program writing.
 

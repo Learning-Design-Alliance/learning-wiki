@@ -64,7 +64,7 @@ The strategy combines two well-supported mechanisms: cooperative goal structures
 ## Related Strategies
 
 - [Jigsaw](../strategies/jigsaw.md) — a structured interdependence variant that guarantees each member's contribution is essential
-- [Project-Based Learning](../strategies/project-based-learning.md) — the broader family this strategy belongs to, with a driving question and sustained investigation
+- [Project-Based Learning](project-based-learning-pbl.md) — the broader family this strategy belongs to, with a driving question and sustained investigation
 - [Gallery Walk](../strategies/gallery-walk.md) — a presentation format for sharing team findings
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 

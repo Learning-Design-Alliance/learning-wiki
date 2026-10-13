@@ -46,7 +46,7 @@ This strategy integrates the Know–Want–Learn chart into the phases of inquir
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
 - [Activate Background Knowledge](activate_background_knowledge.md)
 - [Connect Prior Knowledge to New Learning](connect_prior_knowledge_to_new_learning.md)
-- [Question Formulation Technique](question-formulation-technique.md)
+- [Question Formulation Technique](question-formulation-technique-qft.md)
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 
 ## Examples

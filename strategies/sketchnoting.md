@@ -88,7 +88,7 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 ## Related Strategies
 - [Drawing to Learn](drawing-to-learn.md) — the underlying generative activity, without the note-taking framing
 - [Draw to Explain](draw-to-explain.md) — prompted drawing tied to a specific explanatory target; the best-evidenced version of the mechanism
-- [Note-Taking Using Graphic Organizers](note-taking_using_graphic_organizers.md) — structure supplied rather than generated, trading generative benefit for reliability [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+- [Note-Taking Using Graphic Organizers](graphic_organizers_for_note-taking.md) — structure supplied rather than generated, trading generative benefit for reliability [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Mind Mapping](mind_mapping.md) — spatial, learner-generated, but node-and-branch rather than pictorial
 - [Concept Mapping](concept_mapping.md) — labelled-relation diagrams, more constrained and more assessable than sketchnotes
 - [Interactive Note-Taking](interactive-note-taking.md) — the broader family of note formats that require processing rather than transcription

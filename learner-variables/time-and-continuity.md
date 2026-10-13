@@ -140,7 +140,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - Access — a device shared with a household changes when study is possible at all.
 
 ## Examples
-- [Spaced Practice](../strategies/spaced_practice.md) — the scheduling response
+- [Spaced Practice](../strategies/spaced-practice-scheduling.md) — the scheduling response
 - [Interleaving](../strategies/interleaving.md) — mixes types within a session rather than blocking them
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md) — separates time needed from competence held
 - [Self-Paced Learning](../elements/self-paced-learning.md) — lets the schedule bend to the learner's available time

@@ -49,8 +49,7 @@ The resource organizes its account of learning around three brain phases: encodi
 
 ## Examples
 
-- [Use Retrieval Practice](../strategies/use_retrieval_practice.md)
-- [Retrieval Practice Activities](../strategies/retrieval-practice-activities.md)
+- [Use Retrieval Practice](../strategies/retrieval-practice-activities.md)
 - [Brain Dumps](../strategies/brain_dumps.md)
 - [Timed Retrieval Practice](../strategies/timed-retrieval-practice.md)
 

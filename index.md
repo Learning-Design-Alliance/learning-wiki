@@ -12,7 +12,7 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (375)
+### [Principles](principles/index.md) (376)
 Research-backed design commitments: what to do and why.
 
 ### [Elements](elements/index.md) (1080)
@@ -27,7 +27,7 @@ Designs for a particular setting, course, population or product: what a design u
 ### [Products & Programmes](products/index.md) (1579)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (5734)
+### [Strategies](strategies/index.md) (5578)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)

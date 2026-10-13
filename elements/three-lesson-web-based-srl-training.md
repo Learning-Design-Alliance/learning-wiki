@@ -53,7 +53,6 @@ A web-based training on self-regulated learning that "can be attended by virtual
 
 ## Related Elements
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
-- [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-strategy-instruction.md)
 
 ## Examples
 

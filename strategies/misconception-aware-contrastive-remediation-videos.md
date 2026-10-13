@@ -42,7 +42,7 @@ When a learner answers a quiz question incorrectly, the system generates "a targ
 
 - [Interactive Video Quizzing](interactive-video-quizzing.md)
 - [Question Answering](question-answering.md)
-- [Errors as Learning Opportunities](errors_as_learning_opportunities.md)
+- [Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
 
 ## Examples
 -

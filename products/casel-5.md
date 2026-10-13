@@ -76,7 +76,7 @@ The CASEL 5 names five interrelated areas of competence that form the building b
 - [Social Emotional Learning Routines](../strategies/social-emotional-learning-routines.md)
 - [Social Emotional Learning Integration](../strategies/social-emotional-learning-integration.md)
 - [Social Emotional Learning](../patterns/social-emotional-learning.md)
-- [Leveraging Strengths to Improve Relationship Skills](../strategies/leveraging_strengths_to_improve_relationship_skills.md)
+- [Leveraging Strengths to Improve Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
 - [Relationship Skills Identification and Support](../strategies/relationship_skills_identification_and_support.md)
 
 ## Key Sources

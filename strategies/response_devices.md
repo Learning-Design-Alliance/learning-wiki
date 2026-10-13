@@ -61,7 +61,7 @@ Response devices convert passive audiences into active respondents and give inst
 ## Related Strategies
 - [Peer Instruction](peer-instruction.md) — the canonical response-device pedagogy: vote, discuss, re-vote
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-tech variant with the same commit-discuss-share structure
-- [Formative Assessment](formative-assessment.md) — response devices are one instrument for enacting it
+- [Formative Assessment](formative-assessment-cycles.md) — response devices are one instrument for enacting it
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

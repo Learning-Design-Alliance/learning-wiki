@@ -60,7 +60,7 @@ Practice outside class multiplies opportunities for retrieval and skill consolid
 ## Related Strategies
 
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle take-home sets are well positioned to implement
-- [Retrieval Practice](retrieval-practice.md) — the cognitive mechanism that makes practice items effective
+- [Retrieval Practice](retrieval-practice-activities.md) — the cognitive mechanism that makes practice items effective
 - [Interleaved Practice](interleaved-practice.md) — item-mixing variation that improves discrimination
 - [Flipped Classroom](flipped-classroom.md) — repositions take-home work as first exposure rather than consolidation
 - [Pair clicker questions with at-home follow-up reflections asking students to explain each statement](pair-clickers-with-at-home-reflection-explanations.md)

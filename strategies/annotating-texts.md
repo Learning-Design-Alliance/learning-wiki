@@ -81,7 +81,7 @@ Annotation works because it forces selection and organization of ideas rather th
 - [Close Reading](close-reading.md) — annotation is the primary tool of close reading; the scheme here supplies its method
 - [Self-Questioning](self-questioning.md) — margin questions are annotation in its most generative form
 - [Summarization](summarizing.md) — margin gists are micro-summaries; both force selection and restatement
-- [Retrieval Practice](retrieval-practice.md) — annotations become prompts for later self-testing, which is where retention gains materialize
+- [Retrieval Practice](retrieval-practice-activities.md) — annotations become prompts for later self-testing, which is where retention gains materialize
 - **Close Reading protocols** — annotation is the core move in most close-reading routines
 - **Reciprocal Teaching** — shares the predict/question/clarify/summarize moves that annotation externalizes
 - **Marginalia discussion** — social annotation as the discussion medium itself

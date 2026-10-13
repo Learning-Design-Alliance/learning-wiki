@@ -95,7 +95,7 @@ Exact Path Growth is "a personalized learning program for K-12 learners, designe
 
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](../strategies/exact-path-existing-staff-implementation-strategy.md)
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](../strategies/exact-path-existing-staff-vendor-pd-implementation.md)
-- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](../strategies/exact-path-implementation-strategy.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](../strategies/exact-path-existing-staff-implementation-strategy.md)
 
 ## Key Sources
 - Exact Path Growth Evidence Rating Summary. (2024). Edmentum. https://www.edmentum.com/products/exact-path
@@ -140,7 +140,7 @@ Exact Path Growth is a personalized learning program for K-12 learners in Math a
 
 ## Examples
 
-- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](../strategies/exact-path-implementation-strategy.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](../strategies/exact-path-existing-staff-implementation-strategy.md)
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](../strategies/exact-path-existing-staff-vendor-pd-implementation.md)
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](../strategies/exact-path-existing-staff-implementation-strategy.md)
 

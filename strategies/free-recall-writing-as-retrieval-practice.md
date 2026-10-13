@@ -39,8 +39,7 @@ After reading an educational text, students write down as much as they can remem
 - Transfer to inference and problem-solving questions
 
 ## Related Strategies
-- [Retrieval Practice](retrieval-practice.md)
-- [Retrieval Practice Activities](retrieval-practice-activities.md)
+- [Retrieval Practice](retrieval-practice-activities.md)
 
 ## Examples
 -

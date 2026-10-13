@@ -59,7 +59,7 @@ Multiple examples work because comparing across cases directs attention to the s
 5. Move to [Application](../elements/application.md): students apply the technique in their own writing and optionally generate a new example
 
 ## Related Strategies
-- [Use Worked Examples](../strategies/use_worked_examples.md) — the single-example core case; multiple examples extend it to support abstraction
+- [Use Worked Examples](worked-examples-first.md) — the single-example core case; multiple examples extend it to support abstraction
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — narration method that makes each example's reasoning visible
 
 ## Examples

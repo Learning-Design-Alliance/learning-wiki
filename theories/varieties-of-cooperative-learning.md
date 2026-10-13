@@ -61,7 +61,7 @@ The bulletin organizes the main cooperative learning methods: Circles of Learnin
 - [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)
 - [Modified Jigsaw Activities](../strategies/modified_jigsaw_activities.md)
-- [Cooperative Learning Strategies](../strategies/cooperative_learning_strategies.md)
+- [Cooperative Learning Strategies](../strategies/cooperative-learning.md)
 
 ## Key Sources
 - Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207

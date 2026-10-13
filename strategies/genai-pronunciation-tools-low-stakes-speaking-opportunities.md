@@ -43,7 +43,7 @@ The authors recommend that, in contexts where corrective pronunciation feedback 
 
 ## Related Strategies
 
-- [Incorporating Self-Testing](incorporating_self-testing.md)
+- [Incorporating Self-Testing](incorporating_methods_for_self-testing.md)
 - [Reduce anxiety and build self-confidence in older language learners](reduce-anxiety-build-confidence-older-learners.md)
 
 ## Examples
