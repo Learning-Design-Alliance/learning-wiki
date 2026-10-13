@@ -43,7 +43,7 @@ Descriptive cross-tabulation (Table 2, N=4,317) comparing students' college acce
 
 
 ## Related Claims
-- [College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling](college-mismatch-common-among-chicago-graduates.md) — possibly the same claim (merge candidate)
+- College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — possibly the same claim (merge candidate)
 - [Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications](college-match-benefits-rise-with-qualifications.md) — related
 - [Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013](cps-undermatch-trend-rose-then-rebounded.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related

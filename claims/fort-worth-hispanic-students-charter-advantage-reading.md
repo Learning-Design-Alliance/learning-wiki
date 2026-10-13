@@ -49,5 +49,5 @@ Subgroup comparison of Hispanic students in Fort Worth charter versus other dist
 - [Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth](fort-worth-ell-students-charter-advantage-reading.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related
 - [Austin charter Hispanic students outperformed Austin district Hispanic students in reading growth](austin-charter-hispanic-students-reading-advantage.md) — related
-- [Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap](fort-worth-overall-growth-below-state-2018-19.md) — related
+- Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap — related
 - [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related

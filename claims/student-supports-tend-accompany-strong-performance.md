@@ -47,4 +47,4 @@ Results-section comparison across the ten CHSRI schools: the student-supports fa
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
 - [Students report fewer violent incidents and a personalized, supportive environment in CHSRI small schools](chsri-small-schools-fewer-violent-incidents-personalization.md) — related
 - [An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training](equity-focus-drives-formative-assessment.md) — related
-- [Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools](equity-core-value-drives-personalization.md) — related
+- Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools — related

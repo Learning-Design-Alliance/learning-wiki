@@ -44,7 +44,7 @@ Descriptive analysis of 2013-14 REACH evaluation data from CPS elementary school
 
 ## Related Claims
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — a narrower finding that bears on this claim
-- [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — possibly the same claim (merge candidate)
+- Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools — possibly the same claim (merge candidate)
 - [Low observation scores are even more concentrated in high-poverty schools than low value-added scores](observation-scores-stronger-poverty-concentration.md) — possibly the same claim (merge candidate)
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related

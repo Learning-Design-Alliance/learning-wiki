@@ -45,6 +45,6 @@ Pre-policy multilevel logistic regression results for full-day enrollment by dis
 ## Related Claims
 - [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](classrooms-near-home-positive-enrollment-association.md) — related
 - [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related
-- [Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k](pre-policy-distance-negatively-related-prek-enrollment.md) — related
+- Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related

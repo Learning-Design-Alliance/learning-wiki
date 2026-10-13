@@ -45,7 +45,7 @@ Observational analysis of state staffing databases for the fall 2016 cohort of 1
 ## Related Claims
 - [Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)](lower-retention-at-below-average-proficiency-schools.md) — related
 - [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related
-- [Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah](retention-by-student-racial-composition-state-differences.md) — related
+- Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah — related
 - [Each state's lowest four-year principal retention rate occurred at a different grade span](grade-span-retention-varies-by-state.md) — related
 - [The locale types with the lowest four-year principal retention differed across the three states](locale-retention-patterns-differ-by-state.md) — related
 - [Fund-supported principals plan fewer total years in the principalship but more years in education than other principals](fund-principals-future-plans.md) — related

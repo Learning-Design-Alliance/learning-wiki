@@ -45,5 +45,5 @@ Descriptive comparison of four-year graduation rates by EL status among 2019–2
 ## Related Claims
 - [Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate](cps-graduation-english-learner-status.md) — possibly the same claim (merge candidate)
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related
-- [Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%)](cps-el-graduation-higher-rate.md) — related
+- Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%) — related
 - [Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools](former-els-outperform-district-average-high-school.md) — related

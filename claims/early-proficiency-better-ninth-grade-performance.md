@@ -45,5 +45,5 @@ Subgroup comparison in the CPS 2004-05 cohort study: students proficient "before
 ## Related Claims
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
-- [Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs](new-ell-strong-freshman-weak-graduation.md) — related
+- Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [Graduation rates differed by timing of English proficiency: 60 percent for middle-grades proficiency versus 68 percent for pre-sixth-grade proficiency](proficiency-timing-graduation-rates-60-68.md) — related

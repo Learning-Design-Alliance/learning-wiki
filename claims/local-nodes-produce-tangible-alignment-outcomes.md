@@ -43,7 +43,7 @@ Consideration drawn from the cross-state evaluation of the four state spotlights
 
 
 ## Related Claims
-- [Approximately 70% of Core to College key collaborators identified by Alignment Directors were from higher education](core-to-college-collaborators-70-percent-higher-education.md) — related
+- Approximately 70% of Core to College key collaborators identified by Alignment Directors were from higher education — related
 - [Core to College network interactions were primarily information sharing and making connections between K–12 and higher education](core-to-college-interactions-primarily-information-sharing.md) — related
 - [New network nodes were developed through field-based activities such as regional councils and faculty work groups](new-nodes-developed-through-field-based-activities.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related

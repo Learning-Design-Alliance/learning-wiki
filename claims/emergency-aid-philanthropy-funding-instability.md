@@ -65,6 +65,6 @@ The brief's institutional barriers section reports emergency aid is often a side
 - [The first emergency aid pilots, Dreamkeepers and Angel Fund, served more than 2,400 students across 26 tribal colleges and 11 community colleges in their first two years](dreamkeepers-angel-fund-pilot-reach.md) — related
 - [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](programs-not-broadening-funding-sources.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
-- [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — related
+- Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — related
 - [Pandemic-era HEERF distribution strengthened institutional emergency aid systems, improving application, approval, and disbursement processes](heerf-strengthened-emergency-aid-systems.md) — related
 - [Awareness gaps, stigma, and complex campus systems prevent students from accessing available emergency aid](student-barriers-emergency-aid-access.md) — related

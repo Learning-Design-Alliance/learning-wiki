@@ -47,4 +47,4 @@ Qualitative interviews with seniors in three CPS high schools (from a longitudin
 - [Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention](ap-fourth-year-math-enrollment-not-retention.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
-- [More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree](cps-seniors-high-education-plans-aspirations.md) — related
+- More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree — related

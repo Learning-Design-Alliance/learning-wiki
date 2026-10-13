@@ -43,5 +43,5 @@ Descriptive analysis of CPS administrative testing records for 2004 reported in 
 
 
 ## Related Claims
-- [Only about 9 percent of CPS students who start first grade without transferring out meet Illinois Learning Standards in reading and math by eleventh grade, and continuously enrolled students outperform returners](cps-cohort-standards-attainment-attrition-survivor-effect.md) — related
+- Only about 9 percent of CPS students who start first grade without transferring out meet Illinois Learning Standards in reading and math by eleventh grade, and continuously enrolled students outperform returners — related
 - [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related

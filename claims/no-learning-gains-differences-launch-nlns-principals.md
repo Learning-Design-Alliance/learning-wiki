@@ -49,7 +49,7 @@ Analysis of ITBS reading learning gains from 1997 to 2005, comparing schools led
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — related
 - [LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management](principal-preparation-satisfaction-confidence-differences.md) — related
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
-- [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
+- Fund-supported principals are younger and have shorter tenure than other CPS principals — related
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
 - [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — reports the opposite
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — reports the opposite

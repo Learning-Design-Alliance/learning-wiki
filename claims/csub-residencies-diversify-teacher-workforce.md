@@ -48,4 +48,4 @@ This is a statement attributed to former Dean James Rodríguez in the Institutio
 - [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — a broader claim this one bears on
 - [CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey](csub-residents-rate-programs-4-3-of-5.md) — related
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — a broader claim this one bears on
-- [California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents](completer-pool-growing-racial-ethnic-diversity.md) — related
+- California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related

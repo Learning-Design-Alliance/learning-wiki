@@ -63,7 +63,7 @@ Disaggregated PAI calculation by race/ethnicity and gender (Table 1, Figure 9) u
 
 ## Related Claims
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
-- [If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway](cps-2019-bdai-20-percent-bachelors.md) — related
+- If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway — related
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — possibly the same claim (merge candidate)
 - [The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020](cps-2021-pai-27-percent.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related
@@ -71,4 +71,4 @@ Disaggregated PAI calculation by race/ethnicity and gender (Table 1, Figure 9) u
 - [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
 - [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
-- [Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation](only-41-percent-cps-aspiring-graduates-enroll-four-year-college.md) — related
+- Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related

@@ -44,6 +44,6 @@ Decomposition analysis of the race gap in Chapter 5 (Appendix C modeling). The r
 
 ## Related Claims
 - [African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level](african-american-mobility-gap-widened.md) — related
-- [Residential mobility is closely associated with elementary school transfers in CPS, with nearly 80 percent of mid-year within-district transfers accompanied by a residential move](residential-mobility-drives-elementary-transfers.md) — related
+- Residential mobility is closely associated with elementary school transfers in CPS, with nearly 80 percent of mid-year within-district transfers accompanied by a residential move — related
 - [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related

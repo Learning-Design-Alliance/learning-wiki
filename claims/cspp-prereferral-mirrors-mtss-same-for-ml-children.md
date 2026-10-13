@@ -43,7 +43,7 @@ Qualitative interview study of 13 coordinators overseeing CSPP, TK, or both acro
 
 
 ## Related Claims
-- [CSPP pre-referral decisions draw on baseline data from the ASQ, ASQ:SE-2, and the DRDP administered twice per year](cspp-baseline-data-asq-drdp.md) — related
+- CSPP pre-referral decisions draw on baseline data from the ASQ, ASQ:SE-2, and the DRDP administered twice per year — related
 - [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
 - [Systems constraints on pre-referral include lack of appropriate observation tools, over-identification fears, and COVID-19 effects](prereferral-constraints-tools-perceptions-covid.md) — related

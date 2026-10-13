@@ -62,7 +62,7 @@ WestEd-reported student survey perceptions of the social worker added to each ca
 
 
 ## Related Claims
-- [Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average](west-kern-ela-proficiency-gains.md) — related
+- Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average — related
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related

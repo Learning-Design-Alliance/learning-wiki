@@ -65,7 +65,7 @@ The report's review of research on spillover effects, reporting that one study f
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — related
 - [Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations](high-suspension-rates-worse-school-climate.md) — possibly the same claim (merge candidate)
 - [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](sros-associated-with-higher-exclusionary-discipline.md) — related
-- [Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions](higher-performing-schools-better-student-experiences.md) — related
+- Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions — related
 - [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — related

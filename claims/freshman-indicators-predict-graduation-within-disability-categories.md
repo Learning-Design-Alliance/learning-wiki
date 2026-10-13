@@ -64,7 +64,7 @@ Chapter 3 analysis (Figure 10) relating semester absences to five-year graduatio
 ## Related Claims
 - [Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities](absences-explain-course-performance-gaps-disabilities.md) — related
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — a narrower finding that bears on this claim
-- [More than 95 percent of Chicago freshmen with a B average or better graduate within four years](freshman-b-average-95-percent-graduate.md) — a narrower finding that bears on this claim
+- More than 95 percent of Chicago freshmen with a B average or better graduate within four years — a narrower finding that bears on this claim
 - [Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status](freshman-performance-three-tiers-disability-categories.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related

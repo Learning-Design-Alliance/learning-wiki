@@ -44,6 +44,6 @@ Descriptive analysis of 2023/24 NDE course enrollment data. The report finds the
 
 ## Related Claims
 - [The literature review reports a converging consensus that middle school is the ideal time to begin career exploration](middle-school-ideal-time-career-exploration-consensus.md) — related
-- [Middle school CTE enrollments in Nebraska were concentrated in a handful of courses, with 10 courses accounting for 76 percent and Middle School Career Development alone 22 percent](nebraska-middle-cte-enrollments-concentrated-ten-courses.md) — related
+- Middle school CTE enrollments in Nebraska were concentrated in a handful of courses, with 10 courses accounting for 76 percent and Middle School Career Development alone 22 percent — related
 - [Career development courses were the single largest category of Nebraska middle school CTE enrollments in AY 2023/24, at about 23 percent of 192,661 total enrollments](nebraska-middle-cte-career-development-largest-category.md) — related
-- [Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent)](nebraska-middle-cte-enrollment-grade-distribution.md) — related
+- Eighth grade was the most common grade for Nebraska middle school CTE enrollment (39 percent), followed by 7th (38 percent) and 6th grade (23 percent) — related

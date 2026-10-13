@@ -64,4 +64,4 @@ Cohort trend analysis printing age-16 dropout rates falling from 16.4 percent to
 ## Related Claims
 - [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](chicago-gate-dropout-rates-flat-then-declined.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
-- [Dropouts in more recent CPS cohorts left school at earlier grade levels, with a growing share not going beyond ninth grade](dropouts-leaving-at-earlier-grade-levels.md) — related
+- Dropouts in more recent CPS cohorts left school at earlier grade levels, with a growing share not going beyond ninth grade — related

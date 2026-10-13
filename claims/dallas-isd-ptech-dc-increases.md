@@ -45,7 +45,7 @@ A district case profile of Dallas ISD's Early College partnerships and P-TECH ex
 ## Related Claims
 - [Advanced course completion and dual credit graduation vary by district poverty concentration, with Latino students completing advanced courses and graduating with DC at higher rates in high-poverty districts](district-poverty-completion-patterns.md) — related
 - [CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students](wa-cte-dc-enrollment-rose-high-minority-schools.md) — related
-- [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — related
+- From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose — related
 - [Rural Washington districts show much lower AP enrollment and slower CTE DC growth than urban districts, with lower dual credit completion](wa-rural-urban-advanced-coursework-gaps.md) — related
 - [At Eisenhower High School, a data-informed partnership with Washington STEM coincided with CTE DC enrollment rising from 15% to 49% and advanced coursework completion rising from 28% to 63%](eisenhower-dual-credit-toolkit-case.md) — related
 - [Only a small share of Washington students completing CTE dual credit courses earn transferable college credit, with Black students among the least likely to earn credit](wa-cte-dc-credit-transfer-problem.md) — related

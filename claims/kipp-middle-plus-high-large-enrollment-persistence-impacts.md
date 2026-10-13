@@ -52,7 +52,7 @@ Lottery-based tracking study of 2,066 applicants compares students attending bot
 - [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](charter-high-school-college-attendance-gain.md) — related
 - [The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment](kipp-impacts-substantial-relative-racial-enrollment-disparities.md) — related
 - [KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement](kipp-middle-schools-extend-effects-to-four-year-enrollment.md) — related
-- [A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019](kipp-norcal-college-choice-study-2016-2019.md) — related
+- A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019 — related
 - Comparing lottery winners and lottery losers offers a rigorous way to assess charter middle schools' effects on long-term college outcomes — related
 - [Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college](charter-middle-admission-no-effect-degree-attainment-persistence.md) — related
 - [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related

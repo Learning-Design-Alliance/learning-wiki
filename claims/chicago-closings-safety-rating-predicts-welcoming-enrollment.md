@@ -43,5 +43,5 @@ Administrative-data analysis in Chapter 2 comparing enrollment at designated wel
 
 
 ## Related Claims
-- [Proximity to home was the primary reason families enrolled their children in lower-rated schools instead of their designated welcoming school](chicago-closings-proximity-primary-reason-lower-rated-schools.md) — related
+- Proximity to home was the primary reason families enrolled their children in lower-rated schools instead of their designated welcoming school — related
 - [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related

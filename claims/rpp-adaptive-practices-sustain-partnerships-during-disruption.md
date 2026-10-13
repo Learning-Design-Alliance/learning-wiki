@@ -53,7 +53,7 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
-- [Pandemic-related absences and reading setbacks made consistent writing-focused interactions difficult](pandemic-disruptions-hindered-mi-write-implementation.md) — related
+- Pandemic-related absences and reading setbacks made consistent writing-focused interactions difficult — related
 - [Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building](co-located-partnerships-spur-collaboration-when-leaders-invested-in-all-students.md) — related
 - [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related

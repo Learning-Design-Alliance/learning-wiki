@@ -43,5 +43,5 @@ PageRank centrality over the DEMATEL influence matrices (damping factor 0.85, ar
 
 
 ## Related Claims
-- [Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715)](available-resources-highest-ahp-priority.md) — related
-- [Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers](institutional-strategic-orientation-highest-snap-priority.md) — related
+- Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715) — related
+- Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related

@@ -43,4 +43,4 @@ Survey comparison using the validated Perception of Students' Use of GAI scale (
 ## Related Claims
 - [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related
 - [Staff showed more negativity in attitudes towards student use of GAI than students did](staff-more-negative-attitudes-student-gai.md) — related
-- [Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School](students-greater-facilitating-conditions-gai.md) — related
+- Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School — related

@@ -43,7 +43,7 @@ Descriptive analysis of state report card enrollment data disaggregated by race/
 
 
 ## Related Claims
-- [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — related
+- From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose — related
 - [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
 - [Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools](majority-black-latino-schools-less-likely-offer-ap.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — a broader claim this one bears on

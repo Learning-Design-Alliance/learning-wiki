@@ -62,7 +62,7 @@ The review attributes to Roderick, Nagaoka, Coca, & Moeller (2008) that a CPS gr
 
 
 ## Related Claims
-- [Almost one-half of between-school differences in college graduation rates among similarly-qualified CPS students is attributable to the colleges to which high schools send their students](college-choice-drives-between-school-graduation-gaps.md) — related
+- Almost one-half of between-school differences in college graduation rates among similarly-qualified CPS students is attributable to the colleges to which high schools send their students — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — a broader claim this one bears on
 - [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](good-college-match-increases-graduation-chance.md) — related

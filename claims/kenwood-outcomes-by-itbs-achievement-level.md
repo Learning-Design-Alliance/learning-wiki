@@ -64,5 +64,5 @@ Table 3, bottom section for students more than a year below grade level, fifth-y
 ## Related Claims
 - [Barton students more than a year below grade level in eighth grade dropped out at higher rates than students at or above grade level](barton-achievement-level-dropout-gradient.md) — a narrower finding that bears on this claim
 - [High-level outcome measures like graduation rates offer little actionable guidance for educators within a school year](graduation-rates-little-actionable-guidance.md) — related
-- [Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS](barton-1993-five-year-outcomes.md) — related
+- Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related

@@ -49,4 +49,4 @@ Descriptive results from the ten-item Principal Leadership scale. The report con
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](instructional-leadership-high-ratings-both-quartiles-1997.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
-- [About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership](teachers-rate-principals-highly.md) — related
+- About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related

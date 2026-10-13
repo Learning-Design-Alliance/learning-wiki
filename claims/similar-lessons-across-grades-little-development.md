@@ -43,4 +43,4 @@ Observation of math instruction across grades 2, 5, 8, 9, and 10 found introduct
 
 
 ## Related Claims
-- [Over 80 percent of observed Chicago lessons showed little to no depth or complexity, indicating neither depth nor coverage occurs with much frequency](chicago-lessons-lack-depth-and-complexity.md) — related
+- Over 80 percent of observed Chicago lessons showed little to no depth or complexity, indicating neither depth nor coverage occurs with much frequency — related

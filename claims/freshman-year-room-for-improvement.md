@@ -46,7 +46,7 @@ Descriptive statistics in the brief state that "More than half of Chicago freshm
 - [CHSRI freshmen earned slightly higher core GPAs than similar students, though averages remained below a C](chsri-freshman-core-gpa-slightly-higher.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
-- [More than 95 percent of Chicago freshmen with a B average or better graduate within four years](freshman-b-average-95-percent-graduate.md) — related
+- More than 95 percent of Chicago freshmen with a B average or better graduate within four years — related
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — related

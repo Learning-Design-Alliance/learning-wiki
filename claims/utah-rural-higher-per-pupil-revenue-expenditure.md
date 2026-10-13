@@ -43,7 +43,7 @@ Descriptive analysis of general fund revenue and expenditure from USBE data, adj
 
 
 ## Related Claims
-- [In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts](utah-rural-starting-salary-higher-average-lower.md) — related
+- In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts — related
 - [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](utah-rural-smaller-classes-fewer-advanced-courses.md) — related
 - [A smaller percentage of classes in rural Utah districts were taught by highly qualified teachers than in non-rural districts, and rural teacher transfer-out rates were lower, from 2012 to 2017](utah-rural-teacher-qualification-turnover-patterns.md) — related
 - [Rural Utah districts had a higher proportion of economically disadvantaged students and students with disabilities, while non-rural districts had a higher proportion of English learners, from 2012 to 2017](utah-rural-nonrural-demographic-differences-2012-2017.md) — related

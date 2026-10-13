@@ -48,6 +48,6 @@ Subgroup comparison of students in poverty in Fort Worth charter versus other di
 - [Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage](fort-worth-charter-beats-district-reading-growth.md) — a broader claim this one bears on
 - [Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth](fort-worth-ell-students-charter-advantage-reading.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related
-- [Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap](fort-worth-overall-growth-below-state-2018-19.md) — related
+- Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap — related
 - [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related

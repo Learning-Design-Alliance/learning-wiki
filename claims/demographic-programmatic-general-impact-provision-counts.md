@@ -83,4 +83,4 @@ The statute review found four states require only a general impact assessment wi
 ## Related Claims
 - [Sixteen states have district impact provisions in statute or regulation, and these fall into four primary categories: fiscal, demographic, programmatic, and general](sixteen-states-district-impact-provisions-four-categories.md) — a broader claim this one bears on
 - [State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs](engagement-requirements-without-meaningful-input.md) — related
-- [California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs](ab1505-community-interest-excludes-community-input.md) — related
+- California's AB 1505 community interest provision assesses charter applications almost exclusively in terms of district impact and does not appear to include community input on unmet needs — related

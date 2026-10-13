@@ -82,6 +82,6 @@ Mixed-effects linear model of rate of feature use found teacher was a significan
 
 ## Related Claims
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
-- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
+- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](teachers-positive-reactions-readworks-audio-supports.md) — related

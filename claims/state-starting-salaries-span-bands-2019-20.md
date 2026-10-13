@@ -43,5 +43,5 @@ Descriptive state-by-state analysis of NEA-collected starting salaries, defined 
 
 
 ## Related Claims
-- [Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country](michigan-teacher-salary-decline.md) — related
+- Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country — related
 - [Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher](turnover-and-salary-associated-with-certification.md) — related

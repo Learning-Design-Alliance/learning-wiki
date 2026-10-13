@@ -45,4 +45,4 @@ County-level projection analysis (Findings; Figure 3 shows total demand for TK t
 ## Related Claims
 - [Districts will need to hire between 11,900 and 15,600 additional lead TK teachers by 2025–26 beyond the estimated 4,100 already employed](additional-lead-tk-teachers-11900-15600.md) — a broader claim this one bears on
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
-- [Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26](tk-teacher-demand-nonlinear-spikes.md) — related
+- Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26 — related

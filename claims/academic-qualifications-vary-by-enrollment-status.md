@@ -81,7 +81,7 @@ Chapter 3 descriptive analysis of CPS 2015 graduates' pre-college academic profi
 
 
 ## Related Claims
-- [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related
+- Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway — related
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
 - [Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years](delayed-enrollment-lower-completion.md) — related
 - [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
@@ -89,5 +89,5 @@ Chapter 3 descriptive analysis of CPS 2015 graduates' pre-college academic profi
 - [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
-- [College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling](college-mismatch-common-among-chicago-graduates.md) — related
+- College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related

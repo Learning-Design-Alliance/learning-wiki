@@ -45,4 +45,4 @@ Theoretical argument in the task-definition section. The paper contrasts the com
 ## Related Claims
 - [The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution](four-stage-news-workflow-organisation.md) — related
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
-- [Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments](kt1-survey-difficulty-llm-use-attitudes.md) — related
+- Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments — related

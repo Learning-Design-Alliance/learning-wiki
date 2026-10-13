@@ -43,7 +43,7 @@ The report's key findings state positive, statistically significant, educational
 
 
 ## Related Claims
-- [The Kauffman School evaluation examined attendance and discipline outcomes in addition to achievement during the school's first two years](kauffman-school-evaluation-covered-attendance-and-discipline.md) — related
+- The Kauffman School evaluation examined attendance and discipline outcomes in addition to achievement during the school's first two years — related
 - [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in reading during its first two years](kauffman-school-positive-reading-achievement-growth-impacts.md) — related
 - [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014](kauffman-school-positive-achievement-impacts-three-subjects.md) — a broader claim this one bears on
 - [The Kauffman School had positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, reading, and science during its first four years](kauffman-school-positive-significant-achievement-growth-impacts.md) — a broader claim this one bears on

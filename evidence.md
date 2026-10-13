@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,165 |
-| Evidence entries | 21,382 |
-| Distinct studies | 5,096 |
-| Claims resting on one study | 17,787 (98%) |
+| Claims | 17,948 |
+| Evidence entries | 21,135 |
+| Distinct studies | 5,092 |
+| Claims resting on one study | 17,570 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 998 of 5,096 (20%) |
+| Studies reporting an effect size | 996 of 5,092 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 66 | 552 | 197 | 369 | 1,184 |
+| causal | 65 | 552 | 197 | 369 | 1,183 |
 | quant-synthesis | 43 | 89 | 38 | 115 | 285 |
-| review | 56 | 296 | 113 | 111 | 576 |
-| associational | 27 | 632 | 301 | 255 | 1,215 |
-| qualitative | 113 | 277 | 71 | 87 | 548 |
-| design | 62 | 544 | 165 | 37 | 808 |
+| review | 56 | 295 | 113 | 111 | 575 |
+| associational | 29 | 626 | 303 | 253 | 1,211 |
+| qualitative | 113 | 276 | 72 | 88 | 549 |
+| design | 62 | 545 | 166 | 36 | 809 |
 | theoretical | 74 | 282 | 71 | 53 | 480 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 770 (15%) | 3,257 (64%) | 958 (19%) | 111 (2%) |
+| 768 (15%) | 3,255 (64%) | 958 (19%) | 111 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,787, 2: 316, 3: 56, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,570, 2: 316, 3: 56, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -45,22 +45,22 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 |---|---|---|---|
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 33 |
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
-| [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 22 | 22 |
+| [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
 | [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
-| [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
-| [Rural Turnaround: Challenges and Opportunities. (2014). WestEd R&D Alert, Vol. 15, No. 1. …](claims/amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) | q2 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
-| [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' …](claims/annotating-improves-learning.md) | q2 | 12 | 8 |
+| [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 12 | 12 |
 | [Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. …](claims/bcps-stat-pilot-cpd-credit.md) | q1 | 12 | 12 |
 | [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
+| [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 12 | 12 |
 | [Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. …](claims/algebra-placement-8th-versus-9th-grade-outcomes.md) | q2 | 12 | 12 |
 | [Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory …](claims/algebra-enrollment-effects-failures-grades-up-tests-flat.md) | q2 | 11 | 11 |
+| [Merging Cognitive Science and Curriculum to Strengthen Middle School Math. (2014). WestEd R&D Alert, Vol. 15, …](claims/decorative-images-distract-from-math-problems.md) | q2 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
 

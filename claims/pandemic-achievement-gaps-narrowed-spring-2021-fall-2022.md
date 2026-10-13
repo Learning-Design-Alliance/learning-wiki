@@ -45,7 +45,7 @@ Analysis of MAP Growth reading and mathematics assessment data from 7 million st
 ## Related Claims
 - [Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away](achievement-below-typical-recovery-years-away.md) — related
 - [Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels](middle-school-declines-mostly-unchanged-2022.md) — related
-- [Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover](pennsylvania-2022-proficiency-still-below-pre-pandemic.md) — related
+- Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover — related
 - [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
 - [By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021](pennsylvania-2022-ela-proficiency-regained-six-of-ten-points.md) — related
 - [By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021](pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points.md) — related

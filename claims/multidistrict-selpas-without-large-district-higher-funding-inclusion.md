@@ -90,4 +90,4 @@ general education setting 53 (42–68) 57 (42–78) 0.56*"
 - [Single-district SELPAs had meaningfully lower inclusion rates, with a higher proportion of students with disabilities in general education less than 40 percent of the school day](single-district-selpas-lower-inclusion-restrictive-settings.md) — related
 - [Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised](idea-funding-15-percent-versus-40-promise.md) — related
 - [Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
-- [California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs](j50-legacy-rates-per-student-funding-557-to-900.md) — related
+- California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs — related

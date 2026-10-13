@@ -45,7 +45,7 @@ NYC DOE 2017–18 indicator data show Bronxdale 9th- and 10th-graders "earned su
 ## Related Claims
 - [Bronxdale students' postsecondary enrollment within 6 months of graduation (60%) exceeded borough (51%) and comparison-group (52%) rates and slightly exceeded the citywide average (59%)](bronxdale-postsecondary-enrollment-60-percent.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
-- [Bronxdale's 2017–18 school climate survey positive-response rates exceeded city high school averages on all surveyed indicators](bronxdale-climate-survey-exceeds-city-averages.md) — related
+- Bronxdale's 2017–18 school climate survey positive-response rates exceeded city high school averages on all surveyed indicators — related
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related

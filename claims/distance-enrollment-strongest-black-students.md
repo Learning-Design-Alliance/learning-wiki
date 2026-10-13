@@ -45,7 +45,7 @@ Post-hoc comparisons of regression-predicted enrollment rates within student gro
 ## Related Claims
 - [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](classrooms-near-home-positive-enrollment-association.md) — related
 - [Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance](white-students-full-day-enrollment-advantage.md) — related
-- [Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k](pre-policy-distance-negatively-related-prek-enrollment.md) — a broader claim this one bears on
+- Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k — a broader claim this one bears on
 - [After the policy changes, distance to any pre-k did not change substantially for most student groups, while White and highest-income students lived farther from pre-k](any-prek-access-unchanged-most-groups.md) — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related

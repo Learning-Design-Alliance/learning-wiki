@@ -62,9 +62,9 @@ The report's introduction describes district graduation trends: "from 2011 to 20
 
 
 ## Related Claims
-- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
-- [Seventy-six percent of CPS students graduated from high school in 2018, up from 57 percent in 2006](cps-graduation-rate-76-percent-2018.md) — related
-- [CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points](cps-hs-graduation-57-to-75.md) — related
+- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- Seventy-six percent of CPS students graduated from high school in 2018, up from 57 percent in 2006 — related
+- CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — a narrower finding that bears on this claim
@@ -79,6 +79,6 @@ The report's introduction describes district graduation trends: "from 2011 to 20
 - [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](talladega-graduation-rate-70-to-93-pbl-digital.md) — related
 - [The share of students in the On-Track category increased by 20 percentage points between 2009 and 2019 while the Intensive Support share decreased from 12 to 8 percent](condensed-eot-ontrack-increase-over-time.md) — related
 - [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related
-- [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
+- CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates — related
 - [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](freshman-ontrack-strong-5essentials-measures.md) — related

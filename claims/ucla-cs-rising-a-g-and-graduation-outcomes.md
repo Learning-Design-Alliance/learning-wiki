@@ -45,9 +45,9 @@ Longitudinal outcome reporting in this case-study report of UCLA-CS, a TK-12 com
 
 ## Related Claims
 
-- [CPS's four-year high school graduation rate declined for the first time in recent history in 2021, from 83.3% to 81.8%](cps-graduation-rate-first-decline-2021.md) — related
+- CPS's four-year high school graduation rate declined for the first time in recent history in 2021, from 83.3% to 81.8% — related
 - [CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021](cps-graduation-rate-84-percent-2022.md) — related
 - [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
 - [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
-- [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
+- Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related
 - [Peñasco's high school graduation rate rose above 90% versus 76% statewide, and K-2 students outpaced state peers on formative assessments](penasco-graduation-rate-and-k2-formative-gains.md)

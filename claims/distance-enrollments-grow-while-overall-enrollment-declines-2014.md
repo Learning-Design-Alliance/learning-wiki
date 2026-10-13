@@ -62,4 +62,4 @@ Two-year IPEDS trend analysis of distance enrollments by sector. The report note
 
 
 ## Related Claims
-- [CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013](cps-two-year-enrollment-share-declined-2006-2015.md) — related
+- CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013 — related

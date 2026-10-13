@@ -48,7 +48,7 @@ Descriptive analysis of turnover by school student-body composition (Figure 6) u
 - [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related
 - [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
-- [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — related
+- Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools — related
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another](inexperienced-teachers-high-poverty-schools.md) — related

@@ -43,5 +43,5 @@ Descriptive disaggregation of spring-to-fall return rates by race/ethnicity and 
 
 
 ## Related Claims
-- [Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups](cps-2020-two-year-declines-black-latinx-students.md) — related
+- Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups — related
 - [Two-year college retention of CPS first-year students continued to decline in 2020 (66.4% in 2019 vs. 61.9% in 2020)](cps-2020-two-year-retention-declined.md) — related

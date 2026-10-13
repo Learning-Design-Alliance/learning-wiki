@@ -43,4 +43,4 @@ Classroom observations conducted as part of the OUSD equity review, alongside st
 
 
 ## Related Claims
-- [A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students](ousd-lack-consistent-instructional-support-focus.md) — related
+- A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related

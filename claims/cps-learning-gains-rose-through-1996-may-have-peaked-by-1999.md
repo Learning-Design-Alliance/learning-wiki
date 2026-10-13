@@ -62,7 +62,7 @@ Descriptive comparison of 1997 and 1999 gain scores (Part 3, Table E), both comp
 
 
 ## Related Claims
-- [CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades](cps-productivity-gains-peaked-1997.md) — possibly the same claim (merge candidate)
+- CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades — possibly the same claim (merge candidate)
 - [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — related
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - [Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant](test-scores-change-slowly-schools-appear-stagnant.md) — related

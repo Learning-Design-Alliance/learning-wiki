@@ -48,5 +48,5 @@ Finding on interagency collaboration from the national PROMISE evaluation. The a
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
 - [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related
-- [Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting](sv-cbos-informal-collaboration-vision-setting.md) — related
+- Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting — related
 - [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related

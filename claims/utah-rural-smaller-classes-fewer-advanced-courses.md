@@ -64,8 +64,8 @@ Descriptive analysis of advanced course offerings (Advanced Placement, Internati
 ## Related Claims
 - [From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts](utah-rural-higher-per-pupil-revenue-expenditure.md) — related
 - [Rural Utah districts had a higher proportion of economically disadvantaged students and students with disabilities, while non-rural districts had a higher proportion of English learners, from 2012 to 2017](utah-rural-nonrural-demographic-differences-2012-2017.md) — related
-- [Early implementer districts were smaller, less urban, and had fewer students per teacher in required content areas than non-early implementers](early-implementers-fewer-students-per-teacher.md) — related
+- Early implementer districts were smaller, less urban, and had fewer students per teacher in required content areas than non-early implementers — related
 - [A smaller percentage of classes in rural Utah districts were taught by highly qualified teachers than in non-rural districts, and rural teacher transfer-out rates were lower, from 2012 to 2017](utah-rural-teacher-qualification-turnover-patterns.md) — related
 - [From 2012 to 2017, non-rural Utah districts had higher proficiency in English language arts and science and more graduates scoring 18+ on the ACT, while rural districts had higher four-year graduation rates](utah-rural-nonrural-academic-outcome-patterns.md) — related
-- [In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts](utah-rural-starting-salary-higher-average-lower.md) — related
+- In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts — related
 - [Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses](rural-districts-cte-limited-by-teacher-availability.md) — related

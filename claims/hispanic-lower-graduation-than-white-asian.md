@@ -45,5 +45,5 @@ Cross-racial comparison in the CPS cohort study: "Hispanic students, regardless 
 ## Related Claims
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
-- [Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs](new-ell-strong-freshman-weak-graduation.md) — related
+- Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor](ell-newcomers-after-age-12-lower-graduation.md) — related

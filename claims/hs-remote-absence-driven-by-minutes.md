@@ -45,4 +45,4 @@ Comparison of 2020-21 official absence rates against fall 2020 Google Meets non-
 ## Related Claims
 - [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related
 - [During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements](four-hour-synchronous-remote-instruction-threshold.md) — related
-- [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
+- Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related

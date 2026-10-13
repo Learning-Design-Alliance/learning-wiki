@@ -45,4 +45,4 @@ Weekly self-report survey analysis (RQ1) of students' AI use on a 0–4 scale ag
 ## Related Claims
 - [Team code comprehension dropped in lec09 when Implementation-phase AI usage peaked, and recovered in lec10 following instructor intervention](comprehension-dropped-lec09-recovered-after-intervention.md) — related
 - [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
-- [Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation](added-loc-increased-later-years-sdpbl.md) — related
+- Students' implementation throughput (added LOC per lecture) increased in 2024–2025 cohorts relative to 2022–2023, temporally corresponding with LLM proliferation — related

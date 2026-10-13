@@ -62,7 +62,7 @@ Survey comparison by LEA size. The report also states large LEAs were more likel
 
 
 ## Related Claims
-- [California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments](four-largest-districts-comprehensive-upk.md) — related
+- California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments — related
 - [Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day](full-day-tk-and-expanded-learning-offerings.md) — related
 - [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related
 - [Nearly half of California's UPK classrooms were stand-alone TK classes, but small LEAs were far less able to offer stand-alone TK than medium and large LEAs](upk-classroom-models-stand-alone-size-gradient.md) — related

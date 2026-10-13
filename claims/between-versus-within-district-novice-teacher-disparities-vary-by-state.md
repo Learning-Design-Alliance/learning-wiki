@@ -47,4 +47,4 @@ Decomposition analysis estimating the intraclass correlation to separate within-
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
 - [In eight states, more than 25% of Latino students attend schools with high percentages of novice teachers](eight-states-quarter-latino-students-high-novice-schools.md) — related
 - [Latino students have more novice teachers than their peers in more than half of U.S. states](latino-students-more-novice-teachers-majority-of-states.md) — related
-- [Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers](latino-students-novice-uncertified-teacher-disparities-louisiana.md) — related
+- Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers — related

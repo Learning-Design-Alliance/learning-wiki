@@ -43,7 +43,7 @@ Report's analysis of the competitive subgrant process; state allocations per ide
 
 
 ## Related Claims
-- [Per-student spending on homeless programs varied considerably across the five study districts, from $128 to $556](homeless-program-spending-varies-128-556-per-student.md) — related
+- Per-student spending on homeless programs varied considerably across the five study districts, from $128 to $556 — related
 - [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — related
 - [Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts](mckinney-vento-funding-low-not-proportional-to-need.md) — related
 - [McKinney-Vento funding per identified student rose only from $71 to $79 between 2010 and 2020 despite a 39% increase in identified students](mckinney-vento-inadequate-funding.md) — related

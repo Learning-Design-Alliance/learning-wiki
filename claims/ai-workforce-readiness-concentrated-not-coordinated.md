@@ -47,7 +47,7 @@ Survey finding from the 120-respondent instrument: about half of faculty disagre
 - [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](ccl-resources-concentrated-in-strong-cte-schools.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — possibly the same claim (merge candidate)
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
-- [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — related
+- The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines — related
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
 - [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related

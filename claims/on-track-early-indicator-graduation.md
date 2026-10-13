@@ -62,7 +62,7 @@ A second definitional statement from the same section, defining off-track studen
 
 
 ## Related Claims
-- [Barton freshmen in 1997–98: 31 of 74 on track, 29 off track, 6 dropped out, 8 left CPS](barton-1997-freshman-outcomes.md) — a narrower finding that bears on this claim
+- Barton freshmen in 1997–98: 31 of 74 on track, 29 off track, 6 dropped out, 8 left CPS — a narrower finding that bears on this claim
 - [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — possibly the same claim (merge candidate)
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — possibly the same claim (merge candidate)
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — a narrower finding that bears on this claim

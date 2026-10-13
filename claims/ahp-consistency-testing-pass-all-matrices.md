@@ -43,6 +43,6 @@ Consistency testing of all AHP comparison matrices from the 18-expert study (Tab
 
 
 ## Related Claims
-- [Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715)](available-resources-highest-ahp-priority.md) — related
+- Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715) — related
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related

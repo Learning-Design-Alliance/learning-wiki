@@ -43,7 +43,7 @@ The brief's introductory framing defines undermatch as a descriptive concept: st
 
 
 ## Related Claims
-- [A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019](kipp-norcal-college-choice-study-2016-2019.md) — related
+- A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019 — related
 - [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group](ib-dp-increases-four-year-and-selective-college-enrollment.md) — related

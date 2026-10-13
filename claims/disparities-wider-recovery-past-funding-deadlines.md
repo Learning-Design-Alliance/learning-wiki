@@ -43,7 +43,7 @@ Projection analysis within the MAP Growth observational study: the brief project
 
 
 ## Related Claims
-- [Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover](pennsylvania-2022-proficiency-still-below-pre-pandemic.md) — related
+- Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover — related
 - [By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021](pennsylvania-2022-ela-proficiency-regained-six-of-ten-points.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — related

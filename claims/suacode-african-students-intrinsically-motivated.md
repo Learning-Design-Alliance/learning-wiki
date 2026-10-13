@@ -47,4 +47,4 @@ Open-ended survey of SuaCode enrollees analyzed with a grounded theory approach;
 
 ## Related Claims
 - [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](free-accessible-content-weak-enrollment-motivator-suacode.md) — related
-- [The most frequent specific enrollment reasons among analyzed SuaCode students were interest in learning to code (20.3%), contributing to society (19.2%), and developing skills for advanced work (12.0%)](suacode-top-enrollment-reasons-frequencies.md) — a narrower finding that bears on this claim
+- The most frequent specific enrollment reasons among analyzed SuaCode students were interest in learning to code (20.3%), contributing to society (19.2%), and developing skills for advanced work (12.0%) — a narrower finding that bears on this claim

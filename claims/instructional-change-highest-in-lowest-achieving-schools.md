@@ -45,4 +45,4 @@ Survey self-reports on instructional change; the report notes teachers apparentl
 ## Related Claims
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
 - [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related
-- [Chicago teachers are far more likely to report improvements in their own work than improvements in student academic performance](teachers-report-own-effectiveness-gains-more-than-student-gains.md) — related
+- Chicago teachers are far more likely to report improvements in their own work than improvements in student academic performance — related

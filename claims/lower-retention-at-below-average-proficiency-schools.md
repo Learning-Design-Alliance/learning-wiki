@@ -46,5 +46,5 @@ Three-year retention analysis by spring 2019 test proficiency (figure 7) from st
 - [Fewer than half of principals in Arizona, Nevada, and Utah remained at the same school from fall 2016 to fall 2020](fewer-than-half-principals-remained-four-years-az-nv-ut.md) — related
 - [Each state's lowest four-year principal retention rate occurred at a different grade span](grade-span-retention-varies-by-state.md) — related
 - [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related
-- [Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah](retention-by-student-racial-composition-state-differences.md) — related
+- Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah — related
 - [New principals' five-year retention differs by school level, student-body racial composition, and free/reduced-price lunch category](cps-new-principal-retention-differentials.md) — related

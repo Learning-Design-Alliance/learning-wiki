@@ -43,7 +43,7 @@ Drop-off analysis tracking students from AP enrollment through completion, test-
 
 
 ## Related Claims
-- [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — related
+- From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose — related
 - [Only 53% of Kentucky AP test-takers earned a passing score in 2022, with about 2 in 5 Latino and 1 in 3 Black test-takers passing](ky-ap-proficiency-disparities-2022.md) — related
 - [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
 - [AP enrollment in Kentucky's highest-poverty districts dropped by half, to 5% of students, by 2021-22](ky-high-poverty-districts-ap-enrollment-halved.md) — a broader claim this one bears on

@@ -62,6 +62,6 @@ System director interview describing technological security as a privacy measure
 
 
 ## Related Claims
-- [In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data](three-privacy-themes-student-success-system-case.md) — related
+- In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data — related
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
 - [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](surface-level-privacy-understanding-users.md) — related

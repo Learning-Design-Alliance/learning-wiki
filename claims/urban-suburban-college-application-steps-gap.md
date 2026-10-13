@@ -63,5 +63,5 @@ The authors' own study, From High School to the Future: Potholes on the Road to 
 
 ## Related Claims
 - [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — a narrower finding that bears on this claim
-- [Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation](only-41-percent-cps-aspiring-graduates-enroll-four-year-college.md) — related
+- Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related

@@ -43,7 +43,7 @@ Decomposition of graduation-rate trends against ninth-grade behavioral measures.
 
 
 ## Related Claims
-- [Changes in student backgrounds and incoming achievement explain graduation improvements before 2006 but not after, because entering test scores stopped improving and declined](incoming-achievement-explains-gains-only-before-2006.md) — related
+- Changes in student backgrounds and incoming achievement explain graduation improvements before 2006 but not after, because entering test scores stopped improving and declined — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related

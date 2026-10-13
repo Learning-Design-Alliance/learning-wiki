@@ -43,7 +43,7 @@ The brief concludes that "student achievement remains lower than in a typical ye
 
 
 ## Related Claims
-- [Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover](pennsylvania-2022-proficiency-still-below-pre-pandemic.md) — related
+- Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover — related
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
 - [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related

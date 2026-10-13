@@ -47,7 +47,7 @@ Descriptive pre-post comparison of the two full-day access levers (Figures 10-11
 - [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](classrooms-near-home-positive-enrollment-association.md) — related
 - [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
-- [Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k](pre-policy-distance-negatively-related-prek-enrollment.md) — related
+- Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k — related
 - [Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance](white-students-full-day-enrollment-advantage.md) — related
 - [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related
 - [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related

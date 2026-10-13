@@ -44,4 +44,4 @@ Trend analysis of CPS principal surveys in 2001, 2003, and 2005, analyzed both f
 
 ## Related Claims
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
-- [CPS principals work about 60 hours per week and shifted time toward instructional activities from 1997 to 2007](cps-principals-time-shift-toward-instruction.md) — related
+- CPS principals work about 60 hours per week and shifted time toward instructional activities from 1997 to 2007 — related

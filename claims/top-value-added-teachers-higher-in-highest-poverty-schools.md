@@ -44,5 +44,5 @@ Descriptive analysis of value-added score distributions within higher- and lower
 
 ## Related Claims
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — reports the opposite
-- [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — reports the opposite
+- Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools — reports the opposite
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related

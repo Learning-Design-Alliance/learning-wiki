@@ -45,4 +45,4 @@ Qualitative interview study of SEA administrators; participants cited agency lea
 ## Related Claims
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
-- [Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers](institutional-strategic-orientation-highest-snap-priority.md) — related
+- Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related

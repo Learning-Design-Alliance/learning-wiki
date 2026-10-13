@@ -46,6 +46,6 @@ The brief reports that 8 million students were chronically absent before pandemi
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related
 - [Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students](foster-care-absenteeism-suspension-rates.md) — related
-- [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related
-- [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
+- Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24 — related
+- Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related
 - [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related

@@ -44,5 +44,5 @@ Regression analysis of district-level TEA and federal data (2023–24 and 2024�
 
 ## Related Claims
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related
-- [Charter school districts in Texas averaged a 52% teacher certification rate in 2024–25, far below the 87% average in traditional public school districts](texas-charter-certification-rates-lower.md) — related
+- Charter school districts in Texas averaged a 52% teacher certification rate in 2024–25, far below the 87% average in traditional public school districts — related
 - [The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%](texas-uncertified-teacher-share-tripled.md) — related

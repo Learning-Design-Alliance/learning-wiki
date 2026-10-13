@@ -49,7 +49,7 @@ EdTrust analysis of DESE data on the percentage of AP test scores (in any subjec
 - [In Massachusetts, only about half of Latino and Black 11th-12th graders completed at least one advanced course in 2021-22, compared to 64% of all students](ma-advanced-course-completion-racial-gaps.md) — related
 - [AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged](wa-ap-enrollment-declined-gaps-unchanged.md) — related
 - [Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools](majority-black-latino-schools-less-likely-offer-ap.md) — related
-- [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — related
+- From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [A school-level partnership with Mass Insight Education & Research expanded AP access and passing at Jeremiah E. Burke High School, with an 8-point gain for Black and 13-point gain for Latino test takers](mass-insight-burke-high-school-ap-case.md) — related
 - [Michigan AP exam score distributions differ sharply by race: 16.6% of exams taken by white students earned a 5 versus 5.6% for Black students](michigan-ap-score-racial-disparities.md) — related

@@ -46,5 +46,5 @@ Descriptive analysis of Georgia 2021-22 school-level data grouping schools by pe
 - [Access to school leaders of color varies widely across Georgia districts, e.g., 97% of students in Atlanta Public Schools had such access versus 57% in Columbia County](district-variation-leader-of-color-access.md) — a narrower finding that bears on this claim
 - [In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students)](georgia-leader-diversity-gap-2021-22.md) — related
 - [More than a third of Georgia students, and a majority of White students, attended schools with no school leader of color in 2021-22](many-students-no-leader-of-color-georgia.md) — related
-- [Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data](georgia-demographics-stable-across-pandemic.md) — related
+- Georgia's pre-pandemic (2019-20) leader and student demographic data was consistent with 2021-22 data — related
 - [Having a school leader of color is associated with higher math achievement, greater gifted-program access, and lower suspension rates for students of color](leader-of-color-linked-student-of-color-outcomes.md) — related

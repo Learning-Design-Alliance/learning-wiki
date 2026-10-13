@@ -44,8 +44,8 @@ Summary of the companion report's observational findings (Series Summary section
 
 ## Related Claims
 - [Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development](chicago-tap-scores-rose-for-ninth-grade-enrollees.md) — related
-- [Ninth graders with disabilities were heavily concentrated in neighborhood and vocational high schools, driven by general education students choosing other school types](cps-disabilities-concentrated-neighborhood-vocational-schools.md) — related
+- Ninth graders with disabilities were heavily concentrated in neighborhood and vocational high schools, driven by general education students choosing other school types — related
 - [Eleven struggling neighborhood high schools saw special education entry rise from 16 to 30 percent, and learning-disabled ninth graders were increasingly separated in English classrooms](cps-eleven-high-change-schools-concentration-and-separation.md) — related
-- [The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00](cps-ninth-grade-special-education-rose-11-5-to-16-4.md) — possibly the same claim (merge candidate)
+- The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — possibly the same claim (merge candidate)
 - [Learning disabilities drove almost the entire rise in ninth-grade special education enrollment](learning-disabilities-drove-cps-special-education-increase.md) — related
 - [After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders](cps-promotion-gate-shifted-retention-to-general-education.md) — related

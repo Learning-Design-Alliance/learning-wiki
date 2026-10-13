@@ -43,7 +43,7 @@ Attendance outcome from the same matched-comparison evaluation of Kauffman stude
 
 
 ## Related Claims
-- [The Kauffman Foundation's prior Kansas City education programs preceded and motivated the founding of the Kauffman charter school](kauffman-prior-programs-preceded-charter-school-founding.md) — related
+- The Kauffman Foundation's prior Kansas City education programs preceded and motivated the founding of the Kauffman charter school — related
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — related
 - [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](ff-rct-significant-attendance-impact.md) — related
 - [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](ff-intersectional-impact-black-male-low-attendance.md) — related

@@ -47,6 +47,6 @@ Case documentation from the Journeys Project: distance between Amargosa and othe
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts](small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity.md) — related
-- [Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation](amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) — related
+- Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation — related
 - [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues](small-rural-staffs-cross-subject-plcs-isolation.md) — related
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related

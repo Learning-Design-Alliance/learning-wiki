@@ -43,7 +43,7 @@ Analysis of 2013 California State Test results in OUSD, a district where nearly 
 
 
 ## Related Claims
-- [A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students](ousd-lack-consistent-instructional-support-focus.md) — related
+- A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — a broader claim this one bears on
 - [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — a broader claim this one bears on

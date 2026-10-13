@@ -43,4 +43,4 @@ WestEd, the consortium's external evaluator, compared founding districts' math p
 
 
 ## Related Claims
-- [Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average](west-kern-ela-proficiency-gains.md) — related
+- Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average — related

@@ -46,7 +46,7 @@ The guide reports, citing Bacher-Hicks et al. (2019), that "students who attend 
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
-- [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
+- Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
 - [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related

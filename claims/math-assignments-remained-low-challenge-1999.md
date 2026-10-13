@@ -46,6 +46,6 @@ Distribution analysis of 1999 mathematics assignments scored into four challenge
 - [The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998](annenberg-assignment-quality-improved-1997-1999.md) — related
 - [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — a broader claim this one bears on
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
-- [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — a broader claim this one bears on
+- Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — a broader claim this one bears on
 - [Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject](writing-more-challenging-than-math-assignments.md) — related
 - [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — related

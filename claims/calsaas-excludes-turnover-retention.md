@@ -43,4 +43,4 @@ The report's landscape analysis describes CalSAAS, created by Assembly Bill 1219
 
 
 ## Related Claims
-- [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — a broader claim this one bears on
+- Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — a broader claim this one bears on

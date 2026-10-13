@@ -43,7 +43,7 @@ Figure 4 analysis comparing 2005 and 2013 on-track rates by school performance q
 
 
 ## Related Claims
-- [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
+- CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related

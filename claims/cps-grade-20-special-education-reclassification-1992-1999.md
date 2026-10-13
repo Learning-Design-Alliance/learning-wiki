@@ -43,7 +43,7 @@ Observational analysis of CPS student information system records (Part 1 and Tab
 
 
 ## Related Claims
-- [The share of CPS students whose test scores were included in public reporting declined through the 1990s, reaching 74.2 percent in 2000](cps-test-inclusion-rates-declined-1990s.md) — a broader claim this one bears on
-- [The percentage of CPS elementary students whose ITBS scores count in accountability reporting fell from 82.3 percent in 1992 to 73.9 percent in 1999, with the lowest inclusion in third grade](cps-itbs-accountability-inclusion-declined-1992-1999.md) — a broader claim this one bears on
+- The share of CPS students whose test scores were included in public reporting declined through the 1990s, reaching 74.2 percent in 2000 — a broader claim this one bears on
+- The percentage of CPS elementary students whose ITBS scores count in accountability reporting fell from 82.3 percent in 1992 to 73.9 percent in 1999, with the lowest inclusion in third grade — a broader claim this one bears on
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
 - [In 1997, 31% of third graders and about 20% of sixth and eighth graders were excluded from Chicago's promotional test-score policy, with bilingual education the main exclusion reason in third grade and special education in sixth and eighth](cps-promotional-policy-exclusion-rates-1997.md) — related
