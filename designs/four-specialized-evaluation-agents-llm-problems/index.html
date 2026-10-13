@@ -828,7 +828,7 @@
 <h1 id="four-specialized-evaluation-agents-for-llm-generated-problems">Four specialized evaluation agents for LLM-generated problems<a class="headerlink" href="#four-specialized-evaluation-agents-for-llm-generated-problems" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Design</strong> · <a href="../">All designs</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 2 claims (2 mixed) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The system employs four agents that each evaluate a different dimension of generated problems: an Authenticity agent evaluating whether the context is age-appropriate and likely to be relatable for middle school learners; a Realism agent evaluating whether quantities, units, and contextual details are plausible for the chosen topic; a Reading-level agent evaluating whether vocabulary and sentence complexity match the intended reading level; and a Hallucination agent evaluating whether the problem is mathematically consistent with the original. Each agent returns a binary pass/fail decision, and failed cases return identified issues that are combined and provided to a refinement agent.</p>
@@ -852,11 +852,13 @@
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
-<li></li>
+<li><a href="../../claims/failure-patterns-vary-by-topic-and-curriculum-unit/">Validator failure patterns vary by interest topic and math curriculum unit</a> [~W]</li>
+<li><a href="../../claims/validator-reliability-highest-realism-lowest-authenticity/">Validator agent reliability is highest for realism and lowest for authenticity in human evaluation</a> [~W]</li>
 </ul>
 <h2 id="related-designs">Related Designs<a class="headerlink" href="#related-designs" title="Permanent link">&para;</a></h2>
 <ul>
-<li></li>
+<li><a href="../multi-agent-generate-validate-revise-personalization-framework/">Multi-agent generate–validate–revise framework with four specialized validator agents for math problem personalization</a></li>
+<li><a href="../multi-agent-teacher-in-the-loop-architecture/">Multi-agent teacher-in-the-loop architecture for context personalization</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <p>-</p>

@@ -756,7 +756,7 @@
 <h1 id="coursegraph-course-overlap-detection-methodology">CourseGraph course-overlap detection methodology<a class="headerlink" href="#coursegraph-course-overlap-detection-methodology" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>CourseGraph is a four-step methodology for automatically assessing whether an external course overlaps with courses in a home curriculum. As the authors describe, "CourseGraph first extracts information such as course titles, descriptions, and learning outcomes from a course's webpage using a Large Language Model (LLM) and a tailored prompt." The extracted fields are embedded with sBERT, cosine similarities are computed between course pairs, and size-independent features (max, min, mean similarity, and fractions above 0.5, 0.6, 0.7) feed a 15-dimensional feature vector into a Random Forest classifier that outputs an overlap/no-overlap decision. Embedding each course component separately supports explainability of which components drive an overlap prediction.</p>
@@ -766,6 +766,11 @@
 <li><strong>CourseGraph: an LLM-plus-sBERT-plus-Random-Forest pipeline for detecting overlap between university courses</strong>: CourseGraph is a four-step methodology for automatically assessing whether an external course overlaps with courses in a home curriculum. As the authors describe, "CourseGraph first extracts information such as course titles, descriptions, and learning outcomes from a course's webpage using a Large Language Model (LLM) and a tailored prompt." The extracted fields are embedded with sBERT, cosine similarities are computed between course pairs, and size-independent features (max, min, mean similarity, and fractions above 0.5, 0.6, 0.7) feed a 15-dimensional feature vector into a Random Forest classifier that outputs an overlap/no-overlap decision. Embedding each course component separately supports explainability of which components drive an overlap prediction. (Arthur Nijdam et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/rf-xgboost-beat-thresholds-and-llms-on-course-overlap/">On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap</a> [+W]</li>
+<li><a href="../../claims/coursegraph-mappings-align-with-program-director/">CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences</a> [+W]</li>
+<li><a href="../../claims/coursegraph-component-level-interpretability/">Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision</a> [+W]</li>
+</ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>

@@ -756,7 +756,7 @@
 <h1 id="courseblueprint">CourseBlueprint<a class="headerlink" href="#courseblueprint" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>CourseBlueprint is a retrieval-augmented course-blueprint and instructional-video generation pipeline developed by Md Zabirul Islam et al. that uses typed pedagogy representations to sequence prerequisites, adapt explanations, and generate engagement-oriented narration.</p>
@@ -766,8 +766,16 @@
 <li><strong>CourseBlueprint typed pedagogy pipeline with scaffolding, adaptive style, and engagement modules</strong>: CourseBlueprint is a retrieval-augmented pipeline that converts a topic and learner persona into a course blueprint rendered as an instructional video. It "replaces prompt chaining with typed intermediate representations": a scaffolding module builds a stage-labeled prerequisite concept graph with deterministic cycle removal, an adaptive controller assigns per-concept style specifications across depth, vocabulary, example density, abstraction, and analogy use, and an engagement generator emits narration following a fixed hook-retrieval-core-analogy-forward template. Each module can be disabled via a Boolean flag, enabling ablations by replacing its typed output with a default object. (Md Zabirul Islam et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/engagement-contract-ablation-reduces-pck-scores/">Removing the engagement contract reduces judged engagement, adaptive scores, readability, and engagement-move counts in pedagogical video generation</a> [+W]</li>
+<li><a href="../../claims/engagement-realizes-adaptive-style-in-narration/">Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration</a> [+W]</li>
+<li><a href="../../claims/cycle-break-safety-mechanism-concept-graphs/">The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal</a> [+W]</li>
+<li><a href="../../claims/slide-image-override-corpus-grounding-recovery/">A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic</a> [+W]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../bmed-2300-benchmark-corpus-and-evaluation-harness/">BMED 2300 benchmark corpus and evaluation harness</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Md Zabirul Islam, Md Motaleb Hossen Manik, and Ge Wang. (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora. arXiv preprint. https://arxiv.org/abs/2606.20608</li>

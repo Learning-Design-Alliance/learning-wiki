@@ -756,7 +756,7 @@
 <h1 id="trace-transformer-for-academic-course-grade-estimation">TRACE (TRansformer for Academic Course-grade Estimation)<a class="headerlink" href="#trace-transformer-for-academic-course-grade-estimation" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>TRACE (a TRansformer for Academic Course-grade Estimation) encodes a student's major, course and grade history with separate embedding layers and positional encodings based on relative semester, so all courses in the same semester share a temporal vector, enforcing a permutation-invariant representation within each term while preserving order across terms. Its decoder jointly predicts the next semester's course set and grades, trained with a novel loss combining KL divergence over the course distribution and MSE for grade regression. The author states this "enforces a permutation-invariant representation within each semester, which we argue more accurately reflects the unordered nature of concurrent enrollments."</p>
@@ -766,6 +766,11 @@
 <li><strong>TRACE: a Transformer architecture with semester-level concurrency encoding and joint course-set/grade prediction</strong>: TRACE (a TRansformer for Academic Course-grade Estimation) encodes a student's major, course and grade history with separate embedding layers and positional encodings based on relative semester, so all courses in the same semester share a temporal vector, enforcing a permutation-invariant representation within each term while preserving order across terms. Its decoder jointly predicts the next semester's course set and grades, trained with a novel loss combining KL divergence over the course distribution and MSE for grade regression. The author states this "enforces a permutation-invariant representation within each semester, which we argue more accurately reflects the unordered nature of concurrent enrollments." (Paul Savala (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/major-ablation-no-predictive-signal/">Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history</a> [+W]</li>
+<li><a href="../../claims/trace-outperforms-lstm-gnn-xgboost/">TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction</a> [+W]</li>
+<li><a href="../../claims/joint-course-grade-prediction-halves-mae/">Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only</a> [+W]</li>
+</ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>

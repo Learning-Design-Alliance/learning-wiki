@@ -756,7 +756,7 @@
 <h1 id="proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline">Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline<a class="headerlink" href="#proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 6 claims (6 for) · 2 studies (1 causal, 1 review), <code>q2</code>–<code>q3</code> · 0 of 2 report an effect size · 6 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Karr et al.'s released corpus and code evaluate commercial AI-text-detector errors using published abstracts, model rewrites, and humanized texts.</p>
@@ -766,6 +766,14 @@
 <li><strong>Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline (642 OpenAlex abstracts, three rewrite conditions, two detectors, one humanizer)</strong>: A controlled evaluation corpus and pipeline for quantifying AI-detector error rates under proxy labels. The authors sampled English abstracts from OpenAlex in chemistry, computer science, political science, and theology for 2013–2015 and 2023–2025; "After requiring 25 to 500 words and PDF access (≈20% loss), we retained 642 abstracts." Each abstract contributed an original plus three Gemini 3 Flash rewrites (refine abstract-only, refine abstract+article, new article-only), scored with Pangram 3.2 and GPTZero before and after Undetectable AI v11 humanization. Analysis code is released at the article's GitHub repository. (Jonathan A. Karr Jr. et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/humanization-drives-detection-below-4-percent/">After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR &gt; 96%) for Pangram and GPTZero</a> [+M]</li>
+<li><a href="../../claims/light-ai-edits-flagged-at-high-rates/">Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates</a> [+M]</li>
+<li><a href="../../claims/no-threshold-satisfies-all-three-error-rates/">No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low</a> [+M]</li>
+<li><a href="../../claims/non-stem-abstracts-flagged-more-than-stem/">Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM</a> [+M]</li>
+<li><a href="../../claims/detector-agreement-collapses-after-humanization/">Inter-detector agreement between Pangram and GPTZero collapses after humanization, so a single vendor flag is not a reliable consensus signal</a> [+M]</li>
+<li><a href="../../claims/detectors-insufficient-accuracy-high-stakes/">Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use</a> [+W]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>

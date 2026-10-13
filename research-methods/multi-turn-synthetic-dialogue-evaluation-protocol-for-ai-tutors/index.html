@@ -756,7 +756,7 @@
 <h1 id="multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors">Multi-turn synthetic-dialogue evaluation protocol for AI tutors<a class="headerlink" href="#multi-turn-synthetic-dialogue-evaluation-protocol-for-ai-tutors" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (3 for) · 2 studies (2 design), <code>q1</code>–<code>q2</code> · 0 of 2 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated. The article introduces "a novel multi-turn evaluation protocol that combines a fine-tuned student model and a fine-tuned tutor model to generate a large number of synthetic dialogues." Each evaluation point corresponds to 100 simulated conversations (10 repetitions across 10 student models) to limit variability and ensure reproducibility.</p>
@@ -766,8 +766,16 @@
 <li><strong>Multi-turn evaluation protocol combining a fine-tuned student model with single-shot LLM judging</strong>: A novel evaluation protocol in which a fine-tuned student model and a candidate tutor model generate synthetic multi-turn dialogues that are scored by conversational statistics and a reasoning LLM judge, with results aggregated. The article introduces "a novel multi-turn evaluation protocol that combines a fine-tuned student model and a fine-tuned tutor model to generate a large number of synthetic dialogues." Each evaluation point corresponds to 100 simulated conversations (10 repetitions across 10 student models) to limit variability and ensure reproducibility. (Janos Perczel et al. (2025))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/astra-v2-generator-stricter-realism/">The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues</a> [+W]</li>
+<li><a href="../../claims/off-the-shelf-llms-verbose-low-student-talk-time/">Off-the-shelf LLM tutors are more verbose than human tutors, leaving students only 5-15% of talk time versus close to 30% in human tutoring</a> [+W]</li>
+<li><a href="../../claims/fine-tuned-student-model-approximates-human-ai-dialogue/">A fine-tuned student model paired with GPT-4 produces conversational statistics closer to human-AI dialogues than two prompt-engineered base models</a> [+W]</li>
+</ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram/">History-conditioned student simulation: two-component profile-generator-plus-simulator framework</a></li>
+<li><a href="../offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors/">Offline evaluation with calibrated LLM judges for tutoring behaviors</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087</li>

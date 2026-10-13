@@ -756,7 +756,7 @@
 <h1 id="kt4eqg">KT4EQG<a class="headerlink" href="#kt4eqg" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 7 claims (7 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 7 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>KT4EQG is a personalized question-generation system combining knowledge tracing, large-language-model generation, reinforcement learning, and an alignment verifier, developed by Xinyi Gao et al.</p>
@@ -766,8 +766,19 @@
 <li><strong>KT4EQG system with released code</strong>: KT4EQG is an implemented personalized question generation system combining the KT2 knowledge tracer, a QWEN3-8B-based question generator trained with SFT and GRPO reinforcement learning, and an alignment verifier built on ALL-MINILM-L6-V2. The paper notes "Code available at https://github.com/UCSB-NLP-Chang/KT4EQG". The system was evaluated on XES3G5M and MOOCRADAR across six knowledge modules, with training on 8 NVIDIA H100 GPUs and the verifier trained on a single RTX 3090 Ti. (Xinyi Gao et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/alignment-rl-improves-concept-alignment/">Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training</a> [+W]</li>
+<li><a href="../../claims/consistent-gains-across-practice-rounds/">KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase</a> [+W]</li>
+<li><a href="../../claims/alignment-training-prevents-question-collapse/">Without alignment training, generated questions collapse to similar content regardless of the intended knowledge concept, whereas KT4EQG questions spread across many verified KCs</a> [+W]</li>
+<li><a href="../../claims/concept-selection-bottleneck-baselines/">Providing baselines with oracle knowledge-concept selection substantially improves their performance, identifying concept selection as a key bottleneck, though baselines with oracle KCs still trail KT4EQG</a> [+W]</li>
+<li><a href="../../claims/kt4eqg-competitive-under-alternative-tracers/">KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules</a> [+W]</li>
+<li><a href="../../claims/adaptive-kc-selection-policy/">KT4EQG's education-value objective produces an adaptive KC-selection policy: weaker students are given better-mastered concepts and stronger students progressively more challenging ones</a> [+W]</li>
+<li><a href="../../claims/kt4eqg-highest-exam-score-all-modules/">KT4EQG achieves the highest exam score across all knowledge modules on both XES3G5M and MOOCRADAR, outperforming all question-generation baselines</a> [+W]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../deeptutor/">DeepTutor</a></li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933</li>

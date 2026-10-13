@@ -756,7 +756,7 @@
 <h1 id="smarttutor">SmartTutor<a class="headerlink" href="#smarttutor" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 5 claims (5 for) · 1 study (1 causal), <code>q2</code> · 1 of 1 report an effect size · 5 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>A simulated Python tutoring environment developed by Oluseyi Olukolaa for testing pedagogical safety and adaptive tutoring policies in educational reinforcement-learning systems.</p>
@@ -766,6 +766,13 @@
 <li><strong>SmartTutor simulated Python tutoring testbed for evaluating pedagogical safety in educational RL</strong>: SmartTutor is a simulated Python tutoring environment comprising "a knowledge graph of 27 Python concepts (DAG, max depth 7", a student model with per-concept mastery tracking, a neural contextual bandit agent with UCB action selection over a 124-dimensional state representation, an action selection module enforcing C1 and C3 online, and a configurable reward system. Eight pedagogical actions span cognitive demand from d=0.0 (Encourage) to d=1.0 (Challenge), with Encourage producing zero mastery gain but the largest engagement boost (+0.8). Three learner profiles (Struggling, Average, Advanced) vary initial knowledge, gain multiplier, and confusion threshold. (Oluseyi Olukolaa (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/engagement-optimized-rl-tutor-reward-hacking/">An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate</a> [+W]</li>
+<li><a href="../../claims/multi-objective-reward-insufficient-reward-hacking/">A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)</a> [+W]</li>
+<li><a href="../../claims/constrained-architecture-reduces-rhsi/">A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)</a> [+W]</li>
+<li><a href="../../claims/c3-ablation-policy-collapse/">Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study</a> [+W]</li>
+<li><a href="../../claims/rhsi-ordering-parameter-robustness/">The RHSI condition ordering is robust across a 20-cell window-size and demand-floor grid, with EO strictly worst in all cells, though ST–MAS ordering reverses at demand floors ≥0.45</a> [+W]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>

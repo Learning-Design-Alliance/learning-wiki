@@ -828,7 +828,7 @@
 <h1 id="hero-qa-pipeline-hierarchical-retrieval-answer-generation-with-abstention-and-a-structured-output-llm-judge">HERO-QA pipeline: hierarchical retrieval, answer generation with abstention, and a structured-output LLM judge<a class="headerlink" href="#hero-qa-pipeline-hierarchical-retrieval-answer-generation-with-abstention-and-a-structured-output-llm-judge" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Design</strong> · <a href="../">All designs</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 2 claims (2 for) · 2 studies (1 associational, 1 design), <code>q2</code> · 0 of 2 report an effect size · 2 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>HERO-QA is the audit pipeline the article uses to generate and compare answers grounded in different institutional handbooks. The article states it "uses hierarchical BM25 (Robertson &amp; Zaragoza, 2009) and dense retrieval (Xiao et al., 2024) with reranking, or the full extracted text for short handbooks (≤80,000 characters)." Qwen3-32B generates answers at temperature 0.1 and can return NOT ADDRESSED when evidence is insufficient; a Qwen3-32B judge with structured JSON output assigns a relationship label (ABSENT, CONSISTENT, COMPLEMENTARY, DIVERGENT, CONTRADICTORY), a divergence topic, and a low/medium/high significance rating.</p>
@@ -852,11 +852,12 @@
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
-<li></li>
+<li><a href="../../claims/contradiction-rare-complementary-dominates/">Across 1.77M answer-pair comparisons, explicit contradiction is rare (0.06%) while compatible differences in detail dominate (57.3% complementary) among non-absent pairs</a> [+W]</li>
+<li><a href="../../claims/human-audit-claim-verifiability/">Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups</a> [+W]</li>
 </ul>
 <h2 id="related-designs">Related Designs<a class="headerlink" href="#related-designs" title="Permanent link">&para;</a></h2>
 <ul>
-<li></li>
+<li><a href="../retrieval-grounded-textbook-synthesis-pipeline/">Five-stage retrieval-grounded textbook synthesis pipeline producing 686K source-grounded books (32B tokens)</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <p>-</p>

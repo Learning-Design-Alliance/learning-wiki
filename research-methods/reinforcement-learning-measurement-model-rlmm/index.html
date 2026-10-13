@@ -756,7 +756,7 @@
 <h1 id="reinforcement-learning-measurement-model-rlmm">Reinforcement Learning Measurement Model (RLMM)<a class="headerlink" href="#reinforcement-learning-measurement-model-rlmm" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 design), <code>q2</code> · 1 of 1 report an effect size · 4 claims rest on one study</p>
+<strong>Evidence</strong> · 6 claims (6 for) · 1 study (1 design), <code>q2</code> · 1 of 1 report an effect size · 6 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The RLMM is a psychometric measurement framework for sequential process data that treats a person's inverse-temperature parameter βj as an ability to choose higher-valued actions under a Boltzmann policy. It replaces the MDP-MM's person-specific tabular value functions with "a shared parametric action-value function Qθ(s,a)", using centered and globally normalized advantages, a soft Bellman-consistency penalty encoding known task dynamics, and a block-coordinate MAP estimation procedure. It also yields step-level influence diagnostics that identify behaviorally critical decisions.</p>
@@ -771,6 +771,8 @@
 <li><a href="../../claims/rlmm-stable-runtime-speedup-growing-complexity/">RLMM runtime stays within approximately 15–20 seconds across the four peg-solitaire boards while MDP-MM runtime grows with task complexity, reaching a 19.1× speedup on the diamond board</a> [+M]</li>
 <li><a href="../../claims/rlmm-scales-to-millions-of-states/">The RLMM recovers ability parameters on peg-solitaire boards with up to more than 23 million states, where tabular MDP-MM estimation is impractical</a> [+M]</li>
 <li><a href="../../claims/aqualab-beta-associated-with-cumulative-reward/">In AQUALAB gameplay logs, the estimated RLMM person parameter is positively associated with cumulative trajectory reward (Pearson 0.5842, Spearman 0.5760)</a> [+M]</li>
+<li><a href="../../claims/rlmm-influence-diagnostics-big-l-steps-3-8/">Influence-function diagnostics identify steps 3–8 of the Big-L peg-solitaire board as the most consequential region, with the lowest-β participants showing substantially larger absolute influence values there</a> [+W]</li>
+<li><a href="../../claims/aqualab-beta-completion-and-efficiency/">In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
