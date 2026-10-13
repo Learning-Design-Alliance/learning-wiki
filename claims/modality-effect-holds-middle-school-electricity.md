@@ -70,3 +70,5 @@ Independent-sample t-test comparing Sp-C and W-C groups in the same quasi-experi
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — related
 - [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — a broader claim this one bears on
+- [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related
+- [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](verbal-redundancy-small-overall-effect.md) — related

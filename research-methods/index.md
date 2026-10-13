@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**420 entries** · 0 stable · 0 in review · 420 drafts
+**421 entries** · 0 stable · 0 in review · 421 drafts
 
 ---
 
@@ -371,6 +371,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [School value-added modeling](school-value-added-modeling.md) - Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative.
 * [Seasonal learning analysis](seasonal-learning-analysis.md) - The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows.
 * [SEL status-and-growth early-warning modeling](sel-status-and-growth-early-warning-modeling.md) - This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking \"whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predict
+* [Select the research design that fits the intervention and evaluation setting](select-the-research-design-that-fits-the-intervention-and-evaluation-setting.md) - The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice.
 * [Self-referential analytic assessment framework](self-referential-analytic-assessment-framework.md) - An evaluation paradigm for analytic essay scoring that shifts from normative (inter-learner ranking) to within-learner interpretation of analytic profiles.
 * [Self-reflective LLM annotation agent with iterative criteria refinement and short-term memory](self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem.md) - An LLM-based agent that labels each discourse sample, then reflects to identify weaknesses in the current coding framework and applies revision actions (modify, add, delete, hold, merge) before labeling the next sample.
 * [Semantically equivalent prompt-variant benchmark construction for measuring prompt privilege](semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile.md) - A benchmark construction methodology that instantiates prompt privilege on the MedQA benchmark: for each original MedQA question, four additional semantically equivalent prompt variants are generated representing distinct user cohorts — Low Literacy, Everyday User, Educated User, and Prompt Engineer

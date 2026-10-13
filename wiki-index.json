@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":18346,
-"design":713,
+"claim":18360,
+"design":714,
 "element":1080,
 "learner-variable":12,
 "method":38,
@@ -9,7 +9,7 @@
 "principle":376,
 "process":18,
 "product":1579,
-"research-method":420,
+"research-method":421,
 "strategy":5578,
 "theory":1372
 },
@@ -74103,6 +74103,15 @@
 "type":"claim"
 },
 {
+"description":"Verbal redundancy does not facilitate learning when materials include images or animation",
+"evidence_strength":"moderate",
+"id":"images-animation-eliminate-redundancy-benefit",
+"path":"claims/images-animation-eliminate-redundancy-benefit.md",
+"status":"draft",
+"title":"Verbal redundancy does not facilitate learning when materials include images or animation",
+"type":"claim"
+},
+{
 "description":"Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)",
 "evidence_strength":"moderate",
 "id":"imagine-espanol-grades-2-6-english-reading-gains",
@@ -78946,6 +78955,15 @@
 "type":"claim"
 },
 {
+"description":"ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring",
+"evidence_strength":"strong",
+"id":"its-beats-large-group-cbi-textbooks-not-human-tutoring",
+"path":"claims/its-beats-large-group-cbi-textbooks-not-human-tutoring.md",
+"status":"draft",
+"title":"ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring",
+"type":"claim"
+},
+{
 "description":"ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context",
 "evidence_strength":"moderate",
 "id":"its-benefits-vary-by-design-context",
@@ -78973,12 +78991,39 @@
 "type":"claim"
 },
 {
+"description":"ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions",
+"evidence_strength":"moderate",
+"id":"its-effect-not-moderated-by-feedback-or-misconception-modeling",
+"path":"claims/its-effect-not-moderated-by-feedback-or-misconception-modeling.md",
+"status":"draft",
+"title":"ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions",
+"type":"claim"
+},
+{
+"description":"ITS are effective across instructional roles, whether used as principal means of instruction, integrated class instruction, separate in-class activities, supplementary after-class instruction, or homework",
+"evidence_strength":"strong",
+"id":"its-effective-in-all-instructional-roles",
+"path":"claims/its-effective-in-all-instructional-roles.md",
+"status":"draft",
+"title":"ITS are effective across instructional roles, whether used as principal means of instruction, integrated class instruction, separate in-class activities, supplementary after-class instruction, or homework",
+"type":"claim"
+},
+{
 "description":"The review finds a complex, mixed landscape of ITS effectiveness and a need for greater scientific rigor in experimental design and data analysis",
 "evidence_strength":"moderate",
 "id":"its-effectiveness-mixed-landscape-rigor-need",
 "path":"claims/its-effectiveness-mixed-landscape-rigor-need.md",
 "status":"draft",
 "title":"The review finds a complex, mixed landscape of ITS effectiveness and a need for greater scientific rigor in experimental design and data analysis",
+"type":"claim"
+},
+{
+"description":"ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry",
+"evidence_strength":"mixed",
+"id":"its-effects-across-grades-subjects-prior-knowledge",
+"path":"claims/its-effects-across-grades-subjects-prior-knowledge.md",
+"status":"draft",
+"title":"ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry",
 "type":"claim"
 },
 {
@@ -79015,6 +79060,15 @@
 "path":"claims/its-mature-implementation-personalized-learning.md",
 "status":"draft",
 "title":"Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM",
+"type":"claim"
+},
+{
+"description":"Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction",
+"evidence_strength":"strong",
+"id":"its-meta-analysis-overall-effect-0-41",
+"path":"claims/its-meta-analysis-overall-effect-0-41.md",
+"status":"draft",
+"title":"Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction",
 "type":"claim"
 },
 {
@@ -79060,6 +79114,24 @@
 "path":"claims/its-single-group-counterfactual-assumption-problematic.md",
 "status":"draft",
 "title":"The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic",
+"type":"claim"
+},
+{
+"description":"Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model",
+"evidence_strength":"mixed",
+"id":"its-type-bayesian-higher-than-model-tracing-fixed-effect",
+"path":"claims/its-type-bayesian-higher-than-model-tracing-fixed-effect.md",
+"status":"draft",
+"title":"Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model",
+"type":"claim"
+},
+{
+"description":"Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model",
+"evidence_strength":"moderate",
+"id":"its-versus-no-treatment-controls-g-1-23",
+"path":"claims/its-versus-no-treatment-controls-g-1-23.md",
+"status":"draft",
+"title":"Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model",
 "type":"claim"
 },
 {
@@ -106877,6 +106949,15 @@
 "type":"claim"
 },
 {
+"description":"Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats",
+"evidence_strength":"moderate",
+"id":"outcome-constructs-test-formats-moderate-redundancy",
+"path":"claims/outcome-constructs-test-formats-moderate-redundancy.md",
+"status":"draft",
+"title":"Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats",
+"type":"claim"
+},
+{
 "description":"Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm",
 "evidence_strength":"weak",
 "id":"outcome-feedback-impedes-complex-task-learning-mcpl",
@@ -122746,6 +122827,15 @@
 "type":"claim"
 },
 {
+"description":"Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners",
+"evidence_strength":"mixed",
+"id":"reader-fluency-prior-knowledge-moderate-redundancy",
+"path":"claims/reader-fluency-prior-knowledge-moderate-redundancy.md",
+"status":"draft",
+"title":"Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners",
+"type":"claim"
+},
+{
 "description":"Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle",
 "evidence_strength":"weak",
 "id":"reader-interpretations-open-hermeneutic-circle",
@@ -132901,6 +132991,15 @@
 "type":"claim"
 },
 {
+"description":"Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones",
+"evidence_strength":"moderate",
+"id":"segmentation-moderates-verbal-redundancy",
+"path":"claims/segmentation-moderates-verbal-redundancy.md",
+"status":"draft",
+"title":"Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones",
+"type":"claim"
+},
+{
 "description":"Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies",
 "evidence_strength":"moderate",
 "id":"segmentation-only-consistently-confirmed-outcome",
@@ -139919,6 +140018,15 @@
 "path":"claims/spoken-versus-signaled-written-null.md",
 "status":"draft",
 "title":"Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation",
+"type":"claim"
+},
+{
+"description":"Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations",
+"evidence_strength":"moderate",
+"id":"spoken-written-beats-spoken-only-not-written-only",
+"path":"claims/spoken-written-beats-spoken-only-not-written-only.md",
+"status":"draft",
+"title":"Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations",
 "type":"claim"
 },
 {
@@ -147821,6 +147929,15 @@
 "path":"claims/system-compensation-unsatisfactory-adaptive-variable.md",
 "status":"draft",
 "title":"System compensation as implemented is not a satisfactory adaptive variable",
+"type":"claim"
+},
+{
+"description":"The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials",
+"evidence_strength":"moderate",
+"id":"system-paced-moderates-verbal-redundancy",
+"path":"claims/system-paced-moderates-verbal-redundancy.md",
+"status":"draft",
+"title":"The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials",
 "type":"claim"
 },
 {
@@ -160759,6 +160876,15 @@
 "type":"claim"
 },
 {
+"description":"Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity",
+"evidence_strength":"moderate",
+"id":"verbal-redundancy-small-overall-effect",
+"path":"claims/verbal-redundancy-small-overall-effect.md",
+"status":"draft",
+"title":"Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity",
+"type":"claim"
+},
+{
 "description":"Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions",
 "evidence_strength":"moderate",
 "id":"verbalizing-overconfidence-consistency-local-failures",
@@ -168165,6 +168291,14 @@
 "path":"designs/jill-watson-prompt-personalization-module.md",
 "status":"draft",
 "title":"Jill Watson prompt-engineering personalization module integrated with the RAG pipeline",
+"type":"design"
+},
+{
+"description":"The article argues that a tutoring system's quality cannot be improved by swapping one component in isolation: latency, memory, retrieval, and product surfaces interact.",
+"id":"joint-engineering-decision-campus-ai-tutor",
+"path":"designs/joint-engineering-decision-campus-ai-tutor.md",
+"status":"draft",
+"title":"Treat model choice, evidence selection, serving compatibility, and product design as a joint engineering decision when building a campus AI tutor",
 "type":"design"
 },
 {
@@ -199996,6 +200130,14 @@
 "path":"research-methods/sel-status-and-growth-early-warning-modeling.md",
 "status":"draft",
 "title":"SEL status-and-growth early-warning modeling",
+"type":"research-method"
+},
+{
+"description":"The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice.",
+"id":"select-the-research-design-that-fits-the-intervention-and-evaluation-setting",
+"path":"research-methods/select-the-research-design-that-fits-the-intervention-and-evaluation-setting.md",
+"status":"draft",
+"title":"Select the research design that fits the intervention and evaluation setting",
 "type":"research-method"
 },
 {
@@ -265301,6 +265443,7 @@
 "illusory-correlations-persist-through-confirmation-bias":"illusory-correlations-persist-through-confirmation-bias",
 "image-skin-tone-and-group-diversity-bias":"image-skin-tone-and-group-diversity-bias",
 "imagery-characteristics-associated-with-aesthetic-responses":"imagery-characteristics-associated-with-aesthetic-responses",
+"images-animation-eliminate-redundancy-benefit":"images-animation-eliminate-redundancy-benefit",
 "imagine-espanol-grades-2-6-english-reading-gains":"imagine-espanol-grades-2-6-english-reading-gains",
 "imagine-espanol-k1-earlyreading-nonsignificant":"imagine-espanol-k1-earlyreading-nonsignificant",
 "imagine-espanol-prek-spanish-circle-gains":"imagine-espanol-prek-spanish-circle-gains",
@@ -265844,19 +265987,26 @@
 "itl-standards-infrastructure-prerequisite":"itl-standards-infrastructure-prerequisite",
 "its-ambiguous-preintervention-functional-forms-common":"its-ambiguous-preintervention-functional-forms-common",
 "its-applications-augment-not-transform":"its-applications-augment-not-transform",
+"its-beats-large-group-cbi-textbooks-not-human-tutoring":"its-beats-large-group-cbi-textbooks-not-human-tutoring",
 "its-benefits-vary-by-design-context":"its-benefits-vary-by-design-context",
 "its-design-elements-collective-causal-warrant":"its-design-elements-collective-causal-warrant",
 "its-dialogue-models-brittleness-perturbations":"its-dialogue-models-brittleness-perturbations",
+"its-effect-not-moderated-by-feedback-or-misconception-modeling":"its-effect-not-moderated-by-feedback-or-misconception-modeling",
+"its-effective-in-all-instructional-roles":"its-effective-in-all-instructional-roles",
 "its-effectiveness-mixed-landscape-rigor-need":"its-effectiveness-mixed-landscape-rigor-need",
+"its-effects-across-grades-subjects-prior-knowledge":"its-effects-across-grades-subjects-prior-knowledge",
 "its-gradual-trend-not-intervention-effect":"its-gradual-trend-not-intervention-effect",
 "its-improve-learning-outcomes-with-actionable-feedback":"its-improve-learning-outcomes-with-actionable-feedback",
 "its-improve-outcomes-structured-domains":"its-improve-outcomes-structured-domains",
 "its-mature-implementation-personalized-learning":"its-mature-implementation-personalized-learning",
+"its-meta-analysis-overall-effect-0-41":"its-meta-analysis-overall-effect-0-41",
 "its-meta-analytic-positive-outcomes":"its-meta-analytic-positive-outcomes",
 "its-practice-no-self-efficacy-gain":"its-practice-no-self-efficacy-gain",
 "its-prepost-gains-all-seven-bars-dimensions":"its-prepost-gains-all-seven-bars-dimensions",
 "its-reduces-executive-state-ma-improves-algebra":"its-reduces-executive-state-ma-improves-algebra",
 "its-single-group-counterfactual-assumption-problematic":"its-single-group-counterfactual-assumption-problematic",
+"its-type-bayesian-higher-than-model-tracing-fixed-effect":"its-type-bayesian-higher-than-model-tracing-fixed-effect",
+"its-versus-no-treatment-controls-g-1-23":"its-versus-no-treatment-controls-g-1-23",
 "its-vet-foster-declarative-procedural-knowledge":"its-vet-foster-declarative-procedural-knowledge",
 "itss-effects-unknown-other-outcomes":"itss-effects-unknown-other-outcomes",
 "itss-grade4-positive-nonsignificant":"itss-grade4-positive-nonsignificant",
@@ -268969,6 +269119,7 @@
 "out-of-work-english-practices-spanish-professionals":"out-of-work-english-practices-spanish-professionals",
 "outcome-accountability-one-of-multiple-forms":"outcome-accountability-one-of-multiple-forms",
 "outcome-consistency-drives-stable-versus-unstable-attributions":"outcome-consistency-drives-stable-versus-unstable-attributions",
+"outcome-constructs-test-formats-moderate-redundancy":"outcome-constructs-test-formats-moderate-redundancy",
 "outcome-feedback-impedes-complex-task-learning-mcpl":"outcome-feedback-impedes-complex-task-learning-mcpl",
 "outcome-oriented-causal-conception":"outcome-oriented-causal-conception",
 "outcome-robustness-anxiety-null-direct":"outcome-robustness-anxiety-null-direct",
@@ -270747,6 +270898,7 @@
 "readabout-positive-impact-second-year-experienced-teachers":"readabout-positive-impact-second-year-experienced-teachers",
 "readabout-teacher-experience-positive-impact-es-022":"readabout-teacher-experience-positive-impact-es-022",
 "reader-accounts-79-percent-gaze-variance":"reader-accounts-79-percent-gaze-variance",
+"reader-fluency-prior-knowledge-moderate-redundancy":"reader-fluency-prior-knowledge-moderate-redundancy",
 "reader-interpretations-open-hermeneutic-circle":"reader-interpretations-open-hermeneutic-circle",
 "readers-theater-alone-no-unique-eb-gains-evidence":"readers-theater-alone-no-unique-eb-gains-evidence",
 "readers-theater-improves-efl-reading-fluency":"readers-theater-improves-efl-reading-fluency",
@@ -271889,6 +272041,7 @@
 "segmentation-benefit-larger-for-adhd-group":"segmentation-benefit-larger-for-adhd-group",
 "segmentation-benefits-shrink-with-expertise":"segmentation-benefits-shrink-with-expertise",
 "segmentation-boundaries-differentially-affect-statistics":"segmentation-boundaries-differentially-affect-statistics",
+"segmentation-moderates-verbal-redundancy":"segmentation-moderates-verbal-redundancy",
 "segmentation-only-consistently-confirmed-outcome":"segmentation-only-consistently-confirmed-outcome",
 "segmentation-reduces-hesitations-adhd-participants":"segmentation-reduces-hesitations-adhd-participants",
 "segmenting-effect-retention-transfer-meta-analysis":"segmenting-effect-retention-transfer-meta-analysis",
@@ -272691,6 +272844,7 @@
 "split-attention-effect-impairs-learning":"split-attention-effect-degrades-learning",
 "split-attention-effect-integration-improves-learning":"split-attention-effect-degrades-learning",
 "spoken-versus-signaled-written-null":"spoken-versus-signaled-written-null",
+"spoken-written-beats-spoken-only-not-written-only":"spoken-written-beats-spoken-only-not-written-only",
 "spontaneous-additive-strategy-relates-to-multiplicative-reasoning":"spontaneous-additive-strategy-relates-to-multiplicative-reasoning",
 "spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry":"spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry",
 "spontaneous-contradiction-discovery-higher-american-than-soviet":"spontaneous-contradiction-discovery-higher-american-than-soviet",
@@ -273572,6 +273726,7 @@
 "sysadmin-expertise-shifts-to-validating-genai-output":"sysadmin-expertise-shifts-to-validating-genai-output",
 "system-ablation-teacher-oversight-and-addie-orchestration-value":"system-ablation-teacher-oversight-and-addie-orchestration-value",
 "system-compensation-unsatisfactory-adaptive-variable":"system-compensation-unsatisfactory-adaptive-variable",
+"system-paced-moderates-verbal-redundancy":"system-paced-moderates-verbal-redundancy",
 "systematic-phonics-improves-word-reading":"systematic-phonics-improves-word-reading",
 "systematic-review-314-publications-ten-ai-domains":"systematic-review-314-publications-ten-ai-domains",
 "systematic-reviews-identify-assess-summarize-for-decision-makers":"systematic-reviews-identify-assess-summarize-for-decision-makers",
@@ -275020,6 +275175,7 @@
 "verbal-achievement-tests-may-underestimate-via-symbolic-mismatch":"verbal-achievement-tests-may-underestimate-via-symbolic-mismatch",
 "verbal-problem-scores-resistant-to-forgetting":"verbal-problem-scores-resistant-to-forgetting",
 "verbal-rated-more-serious-than-relational-aggression":"verbal-rated-more-serious-than-relational-aggression",
+"verbal-redundancy-small-overall-effect":"verbal-redundancy-small-overall-effect",
 "verbalizing-overconfidence-consistency-local-failures":"verbalizing-overconfidence-consistency-local-failures",
 "verbose-slope-definition-buries-unit-rate":"verbose-slope-definition-buries-unit-rate",
 "verbosity-preference-response-length":"verbosity-preference-response-length",
@@ -275891,6 +276047,7 @@
 "its-three-core-components-architecture":"its-three-core-components-architecture",
 "japan-decoupled-python-dncl-reform":"japan-decoupled-python-dncl-reform",
 "jill-watson-prompt-personalization-module":"jill-watson-prompt-personalization-module",
+"joint-engineering-decision-campus-ai-tutor":"joint-engineering-decision-campus-ai-tutor",
 "jordan-chatbot-unit-specific-gpt4o-agent":"jordan-chatbot-unit-specific-gpt4o-agent",
 "kea-data-uses-by-interest-holder-level":"kea-data-uses-by-interest-holder-level",
 "kern-county-bla-workforce-planning-pilot":"kern-county-bla-workforce-planning-pilot",
@@ -279928,6 +280085,7 @@
 "school-value-added-modeling":"school-value-added-modeling",
 "seasonal-learning-analysis":"seasonal-learning-analysis",
 "sel-status-and-growth-early-warning-modeling":"sel-status-and-growth-early-warning-modeling",
+"select-the-research-design-that-fits-the-intervention-and-evaluation-setting":"select-the-research-design-that-fits-the-intervention-and-evaluation-setting",
 "self-referential-analytic-assessment-framework":"self-referential-analytic-assessment-framework",
 "self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem":"self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem",
 "semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile":"semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile",

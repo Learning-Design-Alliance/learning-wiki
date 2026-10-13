@@ -69,3 +69,4 @@ Independent-sample t-test comparing signaled written plus spoken text versus wri
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
+- [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related

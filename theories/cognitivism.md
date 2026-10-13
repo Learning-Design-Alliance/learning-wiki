@@ -12,7 +12,7 @@ generated:
 # Cognitivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 2 studies (1 review, 1 design), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 review, 1 design), `q1`–`q2` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it (Ertmer & Newby, 2013).
@@ -48,6 +48,7 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 
 - [Cognitivism is the second most important learning theory reflected across all Iranian ELT textbook levels](../claims/cognitivism-second-across-iranian-elt-textbook-levels.md) [~W]
 - [Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment](../claims/behaviorism-mind-not-source-of-knowledge.md) [~W]
+- [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W] — attached 2026-10-13 from Fiorella et al. (2016), which proposed "Generative learning theory grounded in Wittrock's generative model of comprehension and reflected in Mayer's select-organize-integrate (SOI) framework".
 
 ## Related Theories
 

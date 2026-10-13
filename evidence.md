@@ -8,19 +8,19 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,346 |
-| Evidence entries | 21,573 |
+| Claims | 18,360 |
+| Evidence entries | 21,589 |
 | Distinct studies | 5,111 |
-| Claims resting on one study | 17,962 (98%) |
+| Claims resting on one study | 17,976 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 994 of 5,111 (19%) |
+| Studies reporting an effect size | 995 of 5,111 (19%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 66 | 554 | 197 | 369 | 1,186 |
-| quant-synthesis | 34 | 90 | 38 | 122 | 284 |
+| quant-synthesis | 36 | 88 | 38 | 122 | 284 |
 | review | 53 | 307 | 113 | 111 | 584 |
 | associational | 27 | 637 | 300 | 254 | 1,218 |
 | qualitative | 113 | 278 | 72 | 87 | 550 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 779 (15%) | 3,262 (64%) | 954 (19%) | 116 (2%) |
+| 779 (15%) | 3,262 (64%) | 955 (19%) | 115 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,962, 2: 320, 3: 58, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 17,976, 2: 320, 3: 58, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -141,9 +141,9 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,148 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 60 | 0 |
-| [designs](designs/index.md) | 713 | 467 | 1 | 0 |
+| [designs](designs/index.md) | 714 | 468 | 1 | 0 |
 | [products](products/index.md) | 1,579 | 1,259 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 420 | 362 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 421 | 363 | 1 | 0 |
 
 ## Toward pooled estimates
 

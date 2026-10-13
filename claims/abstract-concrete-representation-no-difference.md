@@ -50,3 +50,4 @@ Five independent-sample t-tests in the quasi-experiment compared abstract with c
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — related
 - [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related

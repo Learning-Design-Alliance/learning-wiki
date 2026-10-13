@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (14 for, 7 mixed) · 25 studies (13 causal, 6 quant-synthesis, 4 review, 1 associational, 1 design), `q1`–`q4` · 6 of 25 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (15 for, 8 mixed) · 25 studies (13 causal, 6 quant-synthesis, 4 review, 1 associational, 1 design), `q1`–`q4` · 7 of 25 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -83,6 +83,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Diagrams Help Posttest Only Read Twice Condition](../claims/diagrams-help-posttest-only-read-twice-condition.md) [+M]
 - [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](../claims/decorative-images-distract-from-math-problems.md) [+W] — attached 2026-10-09 from Merging Cognitive Science et al. (2014), which proposed "Integrate visual images and verbal information in meaningful ways to promote understanding of key concepts"; tests this page's relationship.
+- [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](../claims/system-paced-moderates-verbal-redundancy.md) [+W] — attached 2026-10-13 from Adesope et al. (2012), which proposed "Add spoken–written redundancy for system-paced, picture-free multimedia aimed at low-knowledge or less fluent readers, using written key terms rather than verbatim text"; tests this page's relationship.
+- [Verbal redundancy does not facilitate learning when materials include images or animation](../claims/images-animation-eliminate-redundancy-benefit.md) [~W] — attached 2026-10-13 from Adesope et al. (2012), which proposed "Add spoken–written redundancy for system-paced, picture-free multimedia aimed at low-knowledge or less fluent readers, using written key terms rather than verbatim text"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

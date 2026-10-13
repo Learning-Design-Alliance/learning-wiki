@@ -26,6 +26,7 @@ CAST's framework for designing flexible instruction around learner variability t
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Universal Design for Learning framework: three principles for supporting learner variability**: The UDL framework, developed by CAST, is organized around three brain networks and their aligned principles. As the report states, "Those networks are aligned with three principles: provide multiple means of Engagement, Representation, and Action & Expression," with Guidelines and Checkpoints offering implementation suggestions. The report uses UDL as its conceptual framework, grounding its research questions, coding categories, and analysis of how digital math tools can support inclusive mathematics instruction. Each checkpoint is described as grounded in learning sciences research with a supporting bibliography. (McMahon et al. (2024))
+- **Universal Design for Learning as a design lens grounded in learner variability**: The statement grounds LUDIA in CAST's Universal Design for Learning framework, which supports educators in designing learning experiences and environments for the full range of learners, "anticipating and embracing variability from the start, rather than focusing on perceived deficits in learners". CAST states the premise as "there is no average brain. Variability is the dominant feature of the nervous system" and describes three principles — Engagement, Representation, and Action and Expression — as aligning to affective, recognition, and strategic networks, a framing CAST itself calls a simplified model useful for thinking about design rather than a claim about how the brain works. The Guidelines are a lens for finding barriers in existing designs, not a prescription or checklist, and Guidelines 3.0 positions UDL alongside asset-based approaches such as Funds of Knowledge and Disability Studies. (Stark et al. (2026))
 
 ### Claims
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](../claims/equatio-udl-practice-low-baseline-usage.md) [+M]
@@ -38,8 +39,8 @@ CAST's framework for designing flexible instruction around learner variability t
 
 ## Key Sources
 - McMahon, L. H., Pautz Stephenson, S., & Corrigan, S. (2024). The future of math inclusion: The promise of digital math tools for universally accessible mathematics instruction [Project Report]. Digital Promise. https://doi.org/10.51388/20.500.12265/211
-
 <!-- merged 2026-10-10 from theories/udl-three-principles-framework-math ("Universal Design for Learning framework: three principles for supporting learner variability"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en
 
 # Universal Design for Learning framework: three principles for supporting learner variability
 

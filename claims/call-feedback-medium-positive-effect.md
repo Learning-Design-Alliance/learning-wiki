@@ -66,3 +66,4 @@ Heterogeneity test across the same 21 studies showed "a significant hete rogenei
 - [Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language](six-significant-moderators-call-feedback.md) — related
 - [Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL](prior-feedback-meta-analyses-gap-call.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
+- [ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions](its-effect-not-moderated-by-feedback-or-misconception-modeling.md) — related

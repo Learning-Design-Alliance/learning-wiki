@@ -47,3 +47,4 @@ Analysis of RelScore and SuccScore distributions for desired versus undesired fe
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
 - [MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment](misconception-tutor-higher-relscore-all-assignments.md) — related
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
+- [ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions](its-effect-not-moderated-by-feedback-or-misconception-modeling.md) — related
