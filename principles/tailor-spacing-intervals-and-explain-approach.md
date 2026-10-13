@@ -17,7 +17,7 @@ sources:
 # When introducing spaced learning, explain the approach to learners and tailor repetition intervals to the audience and content
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Toppino and Cohen (2010), the article states that introducing a spaced learning program demands presenting learners with the idea of a learning target and explaining the approach, for example "explicating the importance of taking intervals in information storage". It further holds that "the spaces between repetitions should be 'tailored' on the basis of the audience's needs, priorities, and information content". The article also cautions that spaced learning requires time management and organizational skills from trainees, which may be a challenge.
@@ -38,7 +38,9 @@ Drawing on Toppino and Cohen (2010), the article states that introducing a space
 - Efficient storage and retention of information through spaced study
 
 ### Claims
+
 - [Svas Spaced Listening Outperforms Comparison End Of Experiment](../claims/svas-spaced-listening-outperforms-comparison-end-of-experiment.md) [+M]
+- [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [+M]
 
 ## Related Principles
 - 

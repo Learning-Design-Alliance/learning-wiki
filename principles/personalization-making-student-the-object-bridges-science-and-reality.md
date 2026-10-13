@@ -17,7 +17,7 @@ sources:
 # Personalizing physics by making each student the object of study bridges science and everyday reality
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The course's central design move is personalization: rather than studying abstract objects, each student becomes the physical system that the laws describe. The authors state that "The central theme of this course is the personalization of the physics of motion by making each student the object", arguing this combination of scientific tools and personal involvement connects the science to reality for non-science majors.
@@ -43,6 +43,7 @@ The course's central design move is personalization: rather than studying abstra
 - [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](../claims/ma-overlay-net-force-visual-connection-second-law.md) [+W]
 - [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](../claims/two-force-plate-impulse-asymmetry-student-project.md) [+W]
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
+- [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](../claims/life-science-examples-increase-interest-and-relevance.md) [+W]
 
 ## Related Principles
 

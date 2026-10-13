@@ -17,7 +17,7 @@ sources:
 # Combine executive function training, social-emotional learning, and constructive digital literacy rather than relying on broad screen-time reduction alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (3 quant-synthesis, 1 associational), `q3`–`q4` · 3 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes that intervention for adolescents in digital environments should integrate cognitive and affective components rather than target screen time alone. It reports that "integrated intervention approaches combining executive function training, social-emotional learning, and constructive digital literacy may hold promise", grounding this in its findings that EF and ER are concurrently interlinked and that digital intensity attenuates their coupling. The recommendation is framed as preliminary given the cross-sectional design.
@@ -39,8 +39,11 @@ The article proposes that intervention for adolescents in digital environments s
 - digital literacy
 
 ### Claims
+
 - [Digital Intensity Attenuates Ef Reappraisal Link](../claims/digital-intensity-attenuates-ef-reappraisal-link.md) [+M]
 - [Ef Associated With Reappraisal And Lower Suppression Adolescents](../claims/ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) [+M]
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+W]
 
 ## Related Principles
 - 

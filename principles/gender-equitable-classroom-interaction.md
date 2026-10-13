@@ -13,7 +13,7 @@ generated:
 # Gender-Equitable Classroom Interaction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Cognitive-ability differences between boys and girls are, collectively, close to non-findings: many studies find none at all, a few find small differences (boys slightly stronger in math, girls slightly stronger in reading/literature), and these small differences have been shrinking over time — differences *within* each gender group are consistently far larger than differences *between* the groups (Hyde, 2005). What does differ, on average, is classroom *interaction style* rather than ability: boys are more likely to speak up during discussion, sometimes without being called on and even when less informed than classmates (Sadker, 2002), and in mixed-sex small-group work, group members (echoing a broader societal pattern — Tannen, 2001) tend to give less weight to girls' comments and contributions.
@@ -44,6 +44,9 @@ These are genuine average trends, not universal rules — there is wide individu
 - Cognitive sex differences are close to non-findings once studied carefully (Hyde, 2005) — any instructional design assuming a substantive gender-based ability gap is working from an empirically unsupported premise
 
 ## Claims
+
+- [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](../claims/two-gendered-classroom-cultures.md) [+W]
+- [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](../claims/pragmatic-values-counteract-democratic-values.md) [+W]
 
 ## Related Principles
 - [Social Interdependence](social-interdependence.md) — genuine interdependence in group work (per Johnson & Johnson's requirements) is undermined if some members' contributions are systematically discounted, as this principle documents happening along gender lines

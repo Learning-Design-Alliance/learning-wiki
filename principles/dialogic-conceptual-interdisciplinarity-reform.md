@@ -18,7 +18,7 @@ sources:
 # Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends moving beyond instrumental theories of interdisciplinarity toward a conceptual approach grounded in dialogism, in which integration is a form of construction or authoring that creates meanings using words, dialogue, and texts as tools. It argues that "nonlinear thinking replaces reductive thinking" in the reformed system, and that plurality and dynamism help students cross boundaries of knowledge and develop integrative skills for solving problems and negotiating complexity.
@@ -45,6 +45,7 @@ The article recommends moving beyond instrumental theories of interdisciplinarit
 - [Newell Complex Systems Theory Integration Gap](../claims/newell-complex-systems-theory-integration-gap.md) [+M]
 - [Texts Foundational Interdisciplinarity](../claims/texts-foundational-interdisciplinarity.md) [+M]
 - [Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches](../claims/interdisciplinarity-competing-definitions-approaches.md) [+W]
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+W]
 
 ## Related Principles
 - 

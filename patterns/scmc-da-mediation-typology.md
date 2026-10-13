@@ -17,7 +17,7 @@ sources:
 # Mediation typology of implicit-to-explicit moves in SCMC DA
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Emerging from thematic analysis of the DA sessions, the mediation typology orders mediator moves from most implicit to most explicit. The article reports it "included four general categories, namely awareness raising, problem identification, overcoming the problem and finally, focusing on the structure". Moves include the virtual collaborative frame, auto smart edit, yellow and red highlighting, sharing relevant web links (cyber-mediation), choice offering, and oral explanation of target structures. Moves are employed individualized to learners' ZPD levels and reciprocity.
@@ -37,7 +37,10 @@ Emerging from thematic analysis of the DA sessions, the mediation typology order
 - Self-regulation of targeted L2 grammar structures
 
 ### Claims
+
 - [Scmc Da Mediation Reveals Microgenetic Development](../claims/scmc-da-mediation-reveals-microgenetic-development.md) [+M]
+- [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](../claims/learners-differ-in-mediation-responsiveness.md) [+W]
+- [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](../claims/dialang-cefr-levels-miss-zpd-differences.md) [+W]
 
 ## Related Patterns
 

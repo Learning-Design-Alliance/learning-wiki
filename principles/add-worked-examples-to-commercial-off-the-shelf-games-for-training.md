@@ -17,7 +17,7 @@ sources:
 # Add instructional strategies such as worked examples to commercial off-the-shelf games used for training
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors conclude that game play alone can be supplemented with instruction: providing worked examples "could enhance the training effectiveness with commercial off-the-shelf computer games." They present the study as providing design principles to promote learning from such games, while noting that the validity of this approach still needs evaluation in future studies.
@@ -38,8 +38,11 @@ The authors conclude that game play alone can be supplemented with instruction: 
 - Problem solving learned from commercial off-the-shelf computer games
 
 ### Claims
+
 - [Worked Examples Improve Knowledge Map Content Understanding In A Puzzle Game](../claims/worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) [+M]
 - [Worked Examples Improve Problem Solving Strategy Transfer In A Puzzle Game](../claims/worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) [+M]
+- [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](../claims/worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) [+W]
+- [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](../claims/worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) [~W]
 
 ## Related Principles
 - [Game Based Learning](game-based-learning.md)

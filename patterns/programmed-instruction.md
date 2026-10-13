@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Programmed Instruction (PI) restructures content as a sequence of small "frames," each presenting a small amount of information and then requiring the learner to make an active response — write or select an answer — before immediately revealing whether it was correct. Skinner's original **linear programming** moved every learner through the same fixed sequence of small steps; Norman Crowder's **intrinsic (branching) programming** let learners skip ahead through easy material or branch to remedial frames when they struggled, based on their responses (Molenda, 2008).
@@ -55,6 +55,7 @@ While PI itself receded after the 1960s once most of its specific hypotheses (sm
 ### Claims
 
 - [Higher prior proficiency is associated with faster step-level response-time propensities](../claims/higher-proficiency-faster-step-responses.md) [~W]
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~W]
 
 ## Design
 

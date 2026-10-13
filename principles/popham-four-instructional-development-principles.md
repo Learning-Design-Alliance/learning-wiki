@@ -18,7 +18,7 @@ sources:
 # Popham's four broadened principles for instructional products
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The digest reports that as programmed instruction's original prescriptions were questioned, Popham (1971) broadened and reduced them to four principles: "provide relevant practice for the learner", "provide knowledge of results", "avoid the inclusion of irrelevancies", and "make the material interesting". This represents the digest's account of how behaviorist prescriptions were revised in light of accumulated research and practical experience.
@@ -38,7 +38,8 @@ The digest reports that as programmed instruction's original prescriptions were 
 - effective practice and feedback in designed instruction
 
 ### Claims
-- 
+
+- [Feedback Answers Three Questions](../claims/feedback-answers-three-questions.md) [+W]
 
 ## Related Principles
 - 

@@ -17,7 +17,7 @@ sources:
 # Critique of language in CCP must include critique of humanism and humanist historicization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that an ecologically concerned CCP "must not only localize the complex problems of the Anthropocene by thinking through its spatial scales, it must also implicate the role of humanist epistemologies in the planet's deep temporal unfolding." Drawing on Chakrabarty's four theses on climate change and humanist history, the principle holds that contextualizing terms like Anthropocene carry politics: the root anthropos frames the whole species as the primary agent of crisis, neutralizing more nuanced politics. Students therefore study competing neologisms and the rhetoricity of epochal historicization itself.
@@ -39,7 +39,8 @@ The article argues that an ecologically concerned CCP "must not only localize th
 - recognizing the communicative and ideological dimensions of scientific historicization
 
 ### Claims
-- 
+
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W]
 
 ## Related Principles
 

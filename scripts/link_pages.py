@@ -616,6 +616,8 @@ def main() -> None:
                      help="claims no concept page cites, each shown the concept pages most like it, a few per kind")
     src.add_argument("--from-orphans", metavar="FILE",
                      help="apply an earlier --orphan-claims run's decisions without re-asking")
+    ap.add_argument("--claims-only", action="store_true",
+                    help="with --pages: offer only claims (evidence links), for pages whose evidence is thin")
     ap.add_argument("--targets", nargs="+", metavar="KIND",
                     help="with --orphan-claims: the kinds to offer (default: the concept kinds). A component "
                          "claim, such as knowledge-tracing accuracy, belongs on its product, research-method "
@@ -655,6 +657,8 @@ def main() -> None:
             keys = outside_main(pages, link_graph(pages))
         else:
             keys = new_pages() if args.new else args.pages
+            if args.claims_only:
+                folder = "claims"   # thin pages: offer claims only, as --claims-for does
         if not keys:
             print("no pages to link")
             return

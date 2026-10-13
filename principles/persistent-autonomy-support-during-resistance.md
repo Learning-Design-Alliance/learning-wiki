@@ -12,7 +12,7 @@ generated:
 # Persistent Autonomy Support During Resistance
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 A dynamic-systems analysis of one-on-one instrumental music lessons found that teacher-student pairs settle into self-reinforcing interaction patterns ("attractor states") over many sessions: a teacher who responds to a low-autonomy student by becoming more directive tends to see the student become even less autonomous, entrenching a suboptimal teacher-led pattern, while a teacher who keeps offering autonomy support even through early student resistance can — over many sessions, not immediately — see the dyad shift into a "flow" state combining high engagement, contingent scaffolding, and student initiative. A related finding sets a boundary condition: an abrupt, large increase in autonomy support (e.g., suddenly asking a previously low-autonomy student to make all the choices) tends to fail and the dyad reverts to its prior pattern, because the shift is too far outside the dyad's established zone of interaction to be sustained. The implication is that autonomy support should be offered persistently and incrementally, not withheld until a student demonstrates readiness, and not introduced as a sudden large change.
@@ -39,7 +39,9 @@ A dynamic-systems analysis of one-on-one instrumental music lessons found that t
 - Complex Dynamic Systems theory (change occurs on interconnected timescales; systems develop self-reinforcing "attractor" states)
 
 ### Claims
+
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M]
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — this principle adds a temporal, relational dimension to scaffolding and fading: how a dyad's *pattern* of support and autonomy stabilizes over many sessions, not just how a single episode of support should be calibrated

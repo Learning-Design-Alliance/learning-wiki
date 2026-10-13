@@ -17,7 +17,7 @@ sources:
 # Treat autonomy as both the goal and the route of early literacy pedagogy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper argues that if learning to read and write are seen as complex cognitive and meaning-making activities, classroom work must engage children's active mental participation rather than place them "on the receiving end of instructions". Children need richly significant contexts, a wide range of literacy experiences, and above all experience in putting literacy to their own use. The paper concludes that this "adds up to a pedagogy in which autonomy is not just the goal, but also in large part the route to that goal".
@@ -38,7 +38,12 @@ The paper argues that if learning to read and write are seen as complex cognitiv
 - personal significance in reading and writing
 
 ### Claims
+
 - [Autonomy At One Level May Inhibit Another](../claims/autonomy-at-one-level-may-inhibit-another.md) [~M]
+- [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
+- [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [~W]
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles
 - 

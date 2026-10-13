@@ -15,7 +15,7 @@ grain_size: unit
 # Project Space and Instructional Space
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Reigeluth (2011) identifies four persistent weaknesses of problem-based instruction (PBI): team-based assessment makes it hard to verify that *every* individual learned the intended content (a "loafer" can ride the team's work); learners typically use a given skill only once or twice within a project, insufficient for the extensive practice complex skills need to transfer to new situations; PBI does not build automaticity for skills that need to be executed with reduced conscious effort; and unguided search for information within a project wastes significant learner time. His response is not to abandon PBI for direct instruction, but to architect two distinct, alternating spaces within the same learning experience.
@@ -47,8 +47,12 @@ This design directly answers PBI's four weaknesses: individual — not just team
 
 ### Theory
 #### Supporting
+
 - [First Principles of Instruction](../theories/first-principles-of-instruction.md) [+S] — the instructional space's tell-show-practice-with-feedback structure, generalized across diverse situations, is a direct application of Merrill's demonstration and application principles
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) [+M] — targeted instruction at the moment of an identified gap avoids the wasted search time and load PBI's unguided struggle imposes
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](../claims/student-engagement-authenticity-clear-sequence.md) [+W]
+- [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](../claims/authentic-projects-build-career-self-efficacy.md) [+W]
+
 #### Contradicting / Qualifying
 - Explicitly framed as a response to documented weaknesses of unmodified problem-based instruction (team-based assessment hiding individual non-mastery, insufficient repetition for transfer, no automatization, and unguided-search inefficiency)
 
