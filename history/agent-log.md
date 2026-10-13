@@ -5,6 +5,65 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-12/13 — the curated lists finished; evidence review and its fixes
+
+- **Batches 49–70** finished both curated lists. The AIED entries no fetcher could reach (447) were
+  worked three ways. `fetch_article.py` now falls back to an **open copy** found through an OpenAlex
+  single-work lookup: PMC through the AWS open dataset, then arXiv, OSF and figshare, then other open
+  PDFs, every request through `compliance.guard`. That recovered 101 (batch 68). **The maintainer
+  saved 54 PDFs in a browser**, and `scripts/eval/import_pdfs.py` matched each by DOI or title against
+  the queues and cached its text (batch 69). PDFs never enter the repo. About 305 stay unreachable,
+  153 of them Elsevier: an Elsevier API key reaches Scopus but not ScienceDirect full text without an
+  institutional entitlement. **Headless scraping and download scripts were declined**: robots.txt and
+  publisher terms are what decide access here, not whether a link works in someone's browser.
+- **The evidence review** (site size, graph, design questions; published as an artifact) found:
+  - 612 MB and a 251 s build for 29,300 pages, about 21 KB a page, so the 1 GB Pages limit nears at
+    about 48k pages, not the 85k CLAUDE.md estimated;
+  - 85% of pages in one component;
+  - 84% of claims resting on one study, and about 8,600 claims no concept page cited;
+  - only 26% of coded evidence cells about an instructional design variable;
+  - no canonical interleaving principle, and learner expertise unknown on 72% of cells.
+  An NMAP-style automated synthesis was assessed: it lacks question-first search, full-text access
+  at scale, effect-size extraction and pooling, study dedup and a human panel.
+- **Fixes:**
+  - **Search:** the MCP search now ranks a canonical page first when the query names it by title or
+    alias.
+  - **Syntheses by name:** 49 core learning-science syntheses were verified against Crossref and
+    queued. 32 were read in batch 70; of the 5 that failed validation, Adesope & Nesbit 2012,
+    Ma 2014 and Rohrer 2015 went in on retry (batches 71–72), and Noetel 2021 after its open copy,
+    a Word file cached as zip bytes, was read properly (`--rereview`, batch 73). Donoghue &
+    Hattie 2021 still fails. 17 await a readable copy.
+  - **New and fixed principle pages:** `principles/interleaving` is a new canonical page (Brunmair &
+    Richter 2019). `principles/multimedia-learning` gained its situation table.
+  - **Duplicates:** 156 duplicate strategies were folded. `judge_duplicates.py` requires two models
+    to agree, because title overlap alone pairs speech-to-text with text-to-speech.
+  - **Linking:** the pages outside the main component were linked (1,889 → 959).
+    `link_pages.py --orphan-claims` wrote 1,257 verified concept-page citations for claims nothing
+    cited, but **334 of them landed inside `<!-- deprecated -->` blocks**, under the comment's own
+    `### Claims` heading, and counted for nothing; they were moved out, and `insert()` and
+    `links_to()` now ignore comments. Two more `link_pages` bugs were fixed: `verify()` dropped
+    related/applies links, and concurrent modes shared one verify file.
+  - **"Nothing to connect them to" was wrong** (maintainer challenged it). The first orphan pass
+    offered only canonical pages and retrieved across the whole wiki, so 3,607 claims reached no
+    model. Two classifiers (GLM, then GPT on what GLM did not call design) sorted the 7,592 left:
+    about 41% design findings, 32% descriptive context, 19% research method or AI-model
+    performance. Retrieval now runs per kind and offers strategies and learner variables; 932
+    more verified links were written.
+  - **1,959 descriptive-context claims removed** (maintainer: "Context claims are only useful as
+    filters on evidence, not evidence by itself"). Each was cited by no concept page and called
+    context by both models. `scripts/remove_pages.py` took their links and revision cards with
+    them; `eval/removed/pages.ndjson` lists each. Two that a principle cited were restored.
+    Claims no concept page cites: 7,584 → 4,725.
+  - **Not yet decided:** the 1,311 claims both models call method or AI-model performance, whether
+    `research-methods/` stays (the maintainer is not sold on it), and how to stop new context
+    claims at ingest (a prompt change through the ratchet, or a screening step after extraction).
+  - **Coded cells:** structurally broken replies are refused, and 208 such records were recoded.
+    `--expertise` filled learner expertise on 884 causal design cells, each answer resting on a
+    verbatim quote.
+  - **The cells store is committed** (maintainer); the standing rule is in CLAUDE.md.
+- **Outcome timing** (immediate vs delayed test) was not coded; it is the obvious next axis to
+  fill the same way.
+
 ## 2026-10-10 (sweep) — older elements, theories and designs re-filed into products and research methods
 
 - **The sweep** (`scripts/sweep_kinds.py`, maintainer: "run the sweep between batches") re-read the
