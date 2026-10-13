@@ -12,7 +12,7 @@ generated:
 # High-Stakes Testing and Accountability Effects
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (2 for, 13 mixed, 5 against, 1 unmarked) · 20 studies (7 associational, 5 review, 4 qualitative, 2 causal, 2 theoretical), `q1`–`q3` · 1 of 20 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (2 for, 16 mixed, 5 against, 1 unmarked) · 23 studies (10 associational, 5 review, 4 qualitative, 2 causal, 2 theoretical), `q1`–`q3` · 1 of 23 report an effect size · 24 claims rest on one study
 
 ## Description
 Standardized testing is "high-stakes" when performance carries real consequences — for students (a graduation test required for a diploma, a licensure exam required for a career), or for schools (under the No Child Left Behind Act, or NCLB, failing to reach targeted proficiency levels can trigger reduced funding or restructuring). Accountability, standardized testing, academic content standards, and teacher quality are the four components of the broader Standards-Based Reform movement in U.S. education, dating to the 1980s.
@@ -76,6 +76,9 @@ Standardized testing is "high-stakes" when performance carries real consequences
 - [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](../claims/growth-over-proficiency-pog-assessment.md) [+W]
 - [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](../claims/disengagement-material-individual-scores-minor-aggregations.md) [~W]
 - [Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed](../claims/target-teach-gains-across-all-subjects.md) [~W]
+- [Even a small amount of rapid-guessing behavior can impact institutional rankings](../claims/small-rapid-guessing-impacts-institutional-rankings.md) [~W]
+- [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](../claims/parcc-math-standard-less-remediation-than-mcas-proficient.md) [~W]
+- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](../claims/disengagement-material-individual-summative-scores-minor-aggregations.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — high-stakes accountability testing under NCLB is predominantly criterion-referenced

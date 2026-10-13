@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 8 claims (1 for, 7 mixed) · 7 studies (2 associational, 2 theoretical, 1 causal, 1 review, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (2 for, 7 mixed) · 8 studies (3 associational, 2 theoretical, 1 causal, 1 review, 1 qualitative), `q2`–`q3` · 1 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -57,6 +57,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](../claims/gender-gap-persists-controlling-course-enrollment.md) [~W]
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](../claims/social-skills-academic-effect-unclear.md) [~W]
 - [Junior high school students report significantly higher acceptance of teacher-made grading decisions than AI-generated decisions](../claims/students-accept-teacher-decisions-more-than-ai-decisions.md) [~W]
+- [CPS ninth-grade math final grade distributions show sharp peaks at 60, 70, 80, and 90 points, with students on the cusp between two grades much more likely to receive the higher grade](../claims/cps-gradebook-cusp-grades-higher-grade-peaks.md) [+W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

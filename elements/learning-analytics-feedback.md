@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (10 for, 7 mixed, 5 against) · 21 studies (9 review, 5 associational, 4 qualitative, 2 theoretical, 1 design), `q1`–`q3` · 0 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (11 for, 8 mixed, 8 against) · 26 studies (10 review, 7 associational, 4 qualitative, 4 theoretical, 1 design), `q1`–`q3` · 0 of 26 report an effect size · 26 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -71,6 +71,11 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](../claims/lad-dominant-system-type-lecturer-decision-support.md) [+W]
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](../claims/proactive-monitoring-minimal-evidence.md) [-W]
 - [Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)](../claims/stable-lms-features-lower-in-high-risk-group.md) [+W]
+- [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](../claims/existing-feedback-frameworks-silent-on-epistemic-status.md) [~W]
+- [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](../claims/datafication-risks-narrowing-educational-processes.md) [-W]
+- [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](../claims/privacy-transparency-lags-proctoring-adoption.md) [-W]
+- [In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk](../claims/visa-nationality-failed-subjects-dropout-features.md) [+W]
 
 ## Related Elements
 

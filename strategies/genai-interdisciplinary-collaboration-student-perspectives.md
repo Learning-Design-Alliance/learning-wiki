@@ -17,7 +17,7 @@ sources:
 # Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Beyond governance and training, the article recommends interdisciplinary collaboration and the active inclusion of student perspectives when institutions respond to GenAI. The authors conclude there is a need for "interdisciplinary collaboration, and the active inclusion of student perspectives," reflecting staff recognition of both opportunities and concerns across disciplines and the need to understand how students engage with GenAI.
@@ -36,6 +36,10 @@ Beyond governance and training, the article recommends interdisciplinary collabo
 
 ### Target Learning Goals
 - Institutional decision-making about generative AI in learning and teaching
+
+## Claims
+
+- [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](../claims/student-staff-collaboration-value-three-perspectives.md) [~W]
 
 ## Related Strategies
 

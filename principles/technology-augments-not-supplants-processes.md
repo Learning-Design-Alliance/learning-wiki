@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 120 claims (77 for, 34 mixed, 9 against) · 96 studies (23 qualitative, 21 review, 20 theoretical, 14 causal, 11 design, 7 associational), `q1`–`q4` · 5 of 96 report an effect size · 119 claims rest on one study
+> **Evidence** · 123 claims (79 for, 35 mixed, 9 against) · 99 studies (24 qualitative, 21 review, 21 theoretical, 14 causal, 11 design, 8 associational), `q1`–`q4` · 5 of 99 report an effect size · 122 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -179,6 +179,9 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](../claims/teachers-preserve-student-thinking-bound-answer-giving.md) [+W]
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](../claims/viewer-comments-diverge-by-framing.md) [+W]
 - [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](../claims/llm-substitution-negative-critical-thinking-correlation.md) [+W]
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](../claims/more-human-paradox-ai-augments-pedagogical-work.md) [+W]
+- [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](../claims/rejection-of-ai-replacing-instructor-expertise.md) [+W]
+- [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](../claims/five-faulty-assumptions-aied-dependence.md) [~W]
 
 ## Related Principles
 

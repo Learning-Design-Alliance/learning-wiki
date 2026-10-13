@@ -12,7 +12,7 @@ generated:
 # Parental Modeling of Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 review, 1 causal, 1 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 6 studies (3 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Parents demonstrate the value of reading by being visible readers themselves — reading books, magazines, or newspapers regularly in the presence of their children. This normalizes reading as a daily, valued activity and conveys its importance without direct instruction. The mechanism is observational: children acquire attitudes, habits, and self-concepts as readers by watching the adults around them [Bandura, A. (1977). *Social learning theory*.](../theories/social-learning-theory.md) [+M].
@@ -53,6 +53,10 @@ Modeling works through observational learning and identification: children imita
 2. Make the reading social occasionally: talk about what you are reading, share an interesting fact or passage, and answer the child's questions ([Class Discussion](../elements/class-discussion.md)).
 3. Provide the child with attractive materials and time to read alongside the parent, so observation converts into practice ([Application](../elements/application.md)).
 4. Connect new reading to what the child already knows and enjoys, activating their interests ([Activation](../elements/activation.md)).
+
+## Claims
+
+- [Magazine article reading about politics shows no age-related increase, low stability, and low parent-child similarity](../claims/magazine-political-reading-no-developmental-pattern.md) [-W]
 
 ## Related Strategies
 

@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 5 studies (4 associational, 1 review), `q2` · 1 of 5 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 5 studies (4 associational, 1 review), `q2` · 1 of 5 report an effect size · 12 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -72,6 +72,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](../claims/teacher-support-correlations-avoidance-goals-null.md) [+W]
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](../claims/gender-performance-goal-orientation-females-higher.md) [+W]
 - [Students in a project-based software development course are predominantly mastery-oriented, with mastery and combined mastery/ego-social the dominant profiles](../claims/mastery-dominant-orientation-project-based-software-course.md) [+W]
+- [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [~W]
 
 ## Related Theories
 - [Expectancy-Value Theory](expectancy-value-theory.md) — task value and goal orientation both address why a learner engages, though EVT frames it as a value judgment while goal orientation frames it as the purpose behind pursuing a goal

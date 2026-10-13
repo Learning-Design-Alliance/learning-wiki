@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 21 studies (8 causal, 6 quant-synthesis, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (9 for, 9 mixed) · 22 studies (9 causal, 6 quant-synthesis, 4 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 22 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -80,6 +80,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](../claims/tbi-advantage-larger-under-oet-interaction.md) [~W]
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](../claims/minimally-guided-approaches-ignore-cognitive-architecture.md) [+W]
+- [Feedback effectiveness varied by content recency: guidance-heavy feedback performed less consistently on newer material released after the model's knowledge cutoff](../claims/content-recency-moderates-feedback-effectiveness.md) [~W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

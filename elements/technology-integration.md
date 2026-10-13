@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 17 studies (6 associational, 3 review, 2 qualitative, 2 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 17 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (11 for, 11 mixed, 2 against) · 23 studies (8 associational, 4 review, 4 qualitative, 3 design, 2 theoretical, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 23 report an effect size · 24 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -44,6 +44,12 @@ Technology integration is the element in which digital tools are used in direct 
 - [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](../claims/effective-ai-use-increases-over-reliance-harming-learning.md) [-W]
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](../claims/staff-equity-concerns-genai-access-uncertain-responsibilities.md) [~W]
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](../claims/ai-online-learning-challenges-integrity-equity-privacy-policy.md) [~W]
+- [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](../claims/chatgpt-rated-high-for-speed-of-completion.md) [+W]
+- [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](../claims/ai-pbl-ethical-concerns-privacy-bias-autonomy.md) [~W]
+- [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](../claims/ai-use-positively-associated-critical-thinking-medical-students.md) [+W]
+- [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](../claims/genai-use-concentrates-in-uncertain-design-phases.md) [~W]
+- [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](../claims/genai-overreliance-threatens-clinical-readiness.md) [~W]
+- [Faculty with negative versus positive AI pedagogical orientation differ in how they interpret AI's role in thinking: cautious peripheral use versus integrated use with managed concerns](../claims/orientation-extremes-differ-in-epistemic-interpretation-of-ai.md) [~W]
 
 ## Related Elements
 - [Digital Tools](digital-tools.md)

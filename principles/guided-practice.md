@@ -26,7 +26,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 18 studies (8 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 18 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (6 for, 8 mixed) · 19 studies (8 causal, 4 review, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 1 of 19 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 ## Claims
 
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](../claims/llm-feedback-fewer-attempts.md) [~W]
+- [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](../claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) [~W]
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — guided practice often follows worked examples so learners can apply a model immediately.

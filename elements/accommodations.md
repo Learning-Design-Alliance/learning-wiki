@@ -13,7 +13,7 @@ generated:
 # Accommodations
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 review, 1 causal), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Accommodations are changes to *how* students access instruction and demonstrate learning — extended time, alternative formats, assistive technology, preferential seating, chunked assignments — that level the playing field without altering the construct being assessed or the learning goal. They are distinguished from *modifications*, which change what is taught or expected. Accommodations function as targeted barrier removal: the designer identifies where a fixed presentation or response format disadvantages a learner and provides an alternate route to the same outcome.
@@ -54,7 +54,7 @@ Accommodations improve access and performance for learners whose needs conflict 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](../claims/screen-reader-effort-quadratic-equation-bvi.md) [~W]
 
 ## Related Elements
 - [Choice Boards](choice-boards.md) — a structured way to offer response-format accommodations without individual negotiation

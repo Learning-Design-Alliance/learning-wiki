@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 132 claims (65 for, 59 mixed, 8 against) · 108 studies (39 causal, 20 quant-synthesis, 17 review, 11 associational, 11 design, 6 qualitative, 4 theoretical), `q1`–`q4` · 30 of 108 report an effect size · 111 claims rest on one study
+> **Evidence** · 137 claims (67 for, 61 mixed, 9 against) · 110 studies (40 causal, 20 quant-synthesis, 18 review, 11 associational, 11 design, 6 qualitative, 4 theoretical), `q1`–`q4` · 30 of 110 report an effect size · 116 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -181,6 +181,11 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](../claims/zero-shot-feedback-quality-comparable-to-teacher.md) [~W]
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](../claims/usefulness-associated-actionability-accuracy.md) [+W]
 - [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](../claims/time-to-fix-descriptive-favor-llm-not-significant.md) [~W]
+- [Learner feedback on Ringle was often missing and positively skewed, while automated feedback was consistently available with a broader, more fine-grained score distribution](../claims/learner-feedback-skewed-automated-fine-grained.md) [~W]
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](../claims/stage1-no-significant-difference-peer-ai-feedback-quality.md) [~W]
+- [Tutors valued automated feedback for providing clear guidelines on the gig platform's expectations](../claims/automated-feedback-clarifies-platform-expectations.md) [+W]
+- [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](../claims/multi-agent-tutoring-superior-single-agent.md) [+W]
+- [LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts](../claims/marked-students-praise-withholding-bias.md) [-M]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

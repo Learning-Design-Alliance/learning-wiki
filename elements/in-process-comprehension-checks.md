@@ -18,7 +18,7 @@ sources:
 # In-process comprehension checks embedded within the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Comprehension checks embedded within the text at the point of reading, listed in the article's enumeration of aid types as "(4) vocabulary assistance, (5) inprocess comprehension checks, (6) independentstudy suggestions." They allow readers to monitor understanding while reading rather than after finishing, as one component of the embedded-aids format evaluated in the study.
@@ -39,7 +39,7 @@ Comprehension checks embedded within the text at the point of reading, listed in
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups](../claims/embedded-items-potential-equity-marginalized-groups.md) [~W]
 
 ## Related Elements
 

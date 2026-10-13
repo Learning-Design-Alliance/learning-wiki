@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (10 for, 4 mixed, 1 unmarked) · 23 studies (8 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 23 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (10 for, 5 mixed, 1 unmarked) · 24 studies (9 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 24 report an effect size · 9 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -62,6 +62,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](../claims/genai-hints-effective-but-require-validation.md) [~W]
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
+- [Real-time in-session feedback remains rare among presentation-coaching systems](../claims/real-time-feedback-rare-in-coaching-systems.md) [~W]
 
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the structural principle coaching operationalizes; coaching is scaffolding delivered interactively

@@ -17,7 +17,7 @@ sources:
 # Sustain framework implementation through ongoing teacher professional development and collaborative educator practices
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (4 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (5 design), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 The article identifies teacher development as a condition for sustained implementation of DL2F. It states that 'ongoing professional development for teachers and collaborative practices among educators contribute to the framework's successful implementation in the Philippine secondary school context', and repeats in the conclusion that these practices contribute significantly to the framework's sustained success.
@@ -43,6 +43,7 @@ The article identifies teacher development as a condition for sustained implemen
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+W]
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [~W]
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](../claims/physics-faculty-learning-community-ai-workshop-series.md) [+W]
 
 ## Related Principles
 - 

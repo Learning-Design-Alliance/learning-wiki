@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (15 for, 12 mixed) · 42 studies (13 causal, 10 quant-synthesis, 5 review, 5 associational, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 15 claims rest on one study
+> **Evidence** · 28 claims (15 for, 13 mixed) · 42 studies (13 causal, 10 quant-synthesis, 5 review, 5 associational, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](../claims/collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) [+W]
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 - [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~W]
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

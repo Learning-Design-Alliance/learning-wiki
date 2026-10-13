@@ -26,7 +26,7 @@ sources:
 # Peer Feedback/Peer Review
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 21 studies (7 causal, 4 qualitative, 3 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (7 for, 9 mixed) · 22 studies (8 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 2 review, 2 theoretical, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 12 claims rest on one study
 
 ## Description
 Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
@@ -83,6 +83,8 @@ Peer feedback improves learning when it teaches learners to recognize quality an
 - [Peer-feedback revisions shift toward a more contractive dialogic stance while AI-generated revisions keep a relatively balanced Contract–Expand distribution](../claims/peer-revisions-contractive-ai-balanced.md) [~W]
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](../claims/feedback-source-no-effect-on-revision-outcomes.md) [~W]
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W]
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](../claims/stage1-no-significant-difference-peer-ai-feedback-quality.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — peer review is a more criteria-driven form of peer discussion centered on improvement.

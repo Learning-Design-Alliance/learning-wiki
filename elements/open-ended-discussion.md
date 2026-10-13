@@ -13,7 +13,7 @@ generated:
 # Open-Ended Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (3 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Open-ended discussion is facilitated dialogue in which learners collectively explore a question, text, or problem that has no single predetermined answer. The instructor's role shifts from transmitting content to structuring and steering talk — posing probing questions, requiring justification, and distributing participation — so that learners construct and test ideas against one another.
@@ -55,7 +55,7 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](../claims/voice-doubles-turns-and-questions-equal-engaged-time.md) [+W]
 
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the broader element; open-ended discussion is its most learner-directed form

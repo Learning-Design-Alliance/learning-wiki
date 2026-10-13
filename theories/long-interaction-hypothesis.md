@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 37 claims (10 for, 26 mixed, 1 against) · 10 studies (6 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 36 claims rest on one study
+> **Evidence** · 38 claims (10 for, 27 mixed, 1 against) · 10 studies (6 causal, 2 associational, 1 quant-synthesis, 1 review), `q1`–`q3` · 2 of 10 report an effect size · 37 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -78,6 +78,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](../claims/strategy-specific-factor-effects.md) [~W]
 - [Time (two years) shows no significant effect on children's overall amount of meaning negotiation](../claims/no-time-effect-overall-nom.md) [~W]
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](../claims/task-condition-did-not-moderate-strategy-use.md) [~W]
+- [Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used](../claims/strategy-profiles-l2-other-repetition-l1-clarification.md) [~W]
 
 ## Related Theories
 

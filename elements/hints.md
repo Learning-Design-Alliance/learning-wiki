@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (3 causal, 2 design, 1 associational), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 6 studies (3 causal, 2 design, 1 associational), `q2`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -57,6 +57,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback](../claims/advanced-students-attempt-reduction-novices-not.md) [~W]
 - [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](../claims/condition-subject-main-effects-no-interaction.md) [~W]
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [+W]
+- [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](../claims/chatgpt-gains-equivalent-human-tutor-hints.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md)

@@ -26,7 +26,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 17 studies (6 review, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 0 of 17 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (7 for, 12 mixed) · 17 studies (6 review, 3 causal, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 0 of 17 report an effect size · 18 claims rest on one study
 
 ## Description
 Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality. Their value is not novelty by itself. They are useful when they make otherwise inaccessible experiences visible, repeatable, safer, or more manipulable than the real setting would allow. Good simulations help learners coordinate knowledge, perception, and action under conditions that resemble authentic performance.
@@ -88,6 +88,8 @@ Simulations and immersive environments work when they let learners rehearse mean
 - [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](../claims/anatomage-vr-engagement-34-percent.md) [~W]
 - [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](../claims/agent-realism-predicts-social-presence-xr.md) [~W]
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](../claims/genai-virtual-patient-short-term-gains-mixed.md) [~W]
+- [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](../claims/ai-simulation-authenticity-gap.md) [~W]
+- [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](../claims/ai-simulation-short-term-gains-nursing.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

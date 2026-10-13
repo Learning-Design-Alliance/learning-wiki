@@ -22,7 +22,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (9 for, 10 mixed) · 24 studies (7 causal, 5 quant-synthesis, 5 review, 4 associational, 2 theoretical, 1 design), `q2`–`q4` · 6 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 21 claims (10 for, 10 mixed, 1 against) · 26 studies (8 causal, 5 quant-synthesis, 5 review, 4 associational, 2 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 6 of 26 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -85,6 +85,8 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](../claims/any-clicker-pattern-beats-absence-except-lowest-quartile.md) [+W]
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](../claims/homework-explanation-quality-predicts-exam-performance.md) [~W]
+- [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](../claims/active-learning-pedagogies-qr-redesign.md) [+W]
+- [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](../claims/gats-no-immediate-performance-effect-uoft.md) [-W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

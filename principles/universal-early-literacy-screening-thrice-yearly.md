@@ -17,7 +17,7 @@ sources:
 # Administer universal early literacy screening three times per year plus dyslexia-characteristics screening in K–2
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 6 studies (4 associational, 1 causal, 1 design), `q2` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (4 for, 6 mixed, 1 against) · 9 studies (7 associational, 1 causal, 1 design), `q2` · 0 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 The toolkit prescribes universal early literacy screeners for all K–3 students "administered three times per year with progress monitoring along the way," serving as a "first alert" that a student may need extra help and helping teachers tailor instruction. It additionally requires screening all students for characteristics of dyslexia at the end of Kindergarten and the beginning of 1st and 2nd grades, with diagnosis reserved to licensed professionals.
@@ -48,6 +48,10 @@ The toolkit prescribes universal early literacy screeners for all K–3 students
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](../claims/kansas-mtss-screening-gains-small-sample-inconclusive.md) [~W]
 - [Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark](../claims/boy-risk-40-percent-recover-by-eoy.md) [~W]
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](../claims/midyear-ontrack-students-stay-ontrack.md) [+W]
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](../claims/screeners-predict-mcas-failure-not-success.md) [~W]
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](../claims/massachusetts-k3-risk-inequities-student-groups.md) [~W]
+- [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](../claims/student-group-risk-disparities.md) [~W]
+- [The predictive value of grade 3 screening benchmarks for MCAS ELA proficiency varies widely: 15 to 69 percent of students classified as on track did not reach MCAS proficiency, and students flagged at risk rarely met proficiency](../claims/screening-predictive-value-varies-15-69-percent.md) [-W]
 
 ## Related Principles
 - 

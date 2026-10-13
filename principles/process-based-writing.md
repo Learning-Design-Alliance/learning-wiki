@@ -19,7 +19,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (14 for, 11 mixed) · 40 studies (13 causal, 9 quant-synthesis, 5 review, 5 theoretical, 4 associational, 3 qualitative, 1 design), `q1`–`q4` · 10 of 40 report an effect size · 15 claims rest on one study
+> **Evidence** · 26 claims (15 for, 11 mixed) · 41 studies (13 causal, 9 quant-synthesis, 5 review, 5 theoretical, 4 associational, 3 qualitative, 2 design), `q1`–`q4` · 10 of 41 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](../claims/penny-feedback-successful-uptake.md) [~W]
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](../claims/synchronous-suggestions-shape-subsequent-writing.md) [~W]
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](../claims/lexical-diversity-advantage-first-task-only.md) [~W]
+- [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](../claims/teacher-draft-stage-adaptivity-exceeds-llms.md) [+W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

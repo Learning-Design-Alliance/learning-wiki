@@ -17,7 +17,7 @@ sources:
 # Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 4 studies (3 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 5 studies (3 causal, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 The toolkit's retention principle holds that students unable to demonstrate sufficient reading skills for promotion be retained and given "more intensive interventions and a highly effective teacher." To ensure "one test on one day is not the sole determining factor," students get multiple demonstration options (state test, alternative test, portfolio), and good cause exemptions cover specified students with disabilities, English Language Learners, and previously retained students.
@@ -47,6 +47,8 @@ The toolkit's retention principle holds that students unable to demonstrate suff
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](../claims/retention-associated-smaller-gains-than-promotion-chicago.md) [-M]
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](../claims/retained-students-smaller-gains-than-social-promotes.md) [~W]
 - [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](../claims/third-grade-retention-no-sustained-benefit.md) [-M]
+- [Educators reported the promotion policy increased parental concern about student progress](../claims/promotion-policy-increased-parental-concern.md) [~W]
+- [Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion](../claims/promoted-students-maintained-gains-two-years.md) [~W]
 
 ## Related Principles
 

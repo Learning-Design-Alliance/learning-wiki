@@ -17,7 +17,7 @@ sources:
 # Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends that states and districts eliminate zero-tolerance policies and restrict suspensions for minor offenses; support evidence-based alternatives such as "schoolwide restorative practices and teaching social and emotional skills"; collect and publicly report disaggregated discipline data and use it for equity reviews; develop educator preparation standards for positive climates and restorative practices; fund professional learning on implicit bias, empathy, and culturally responsive environments; and invest in support services and staff such as counselors and restorative justice coordinators.
@@ -39,6 +39,7 @@ The report recommends that states and districts eliminate zero-tolerance policie
 ## Claims
 
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](../claims/perry-street-suspension-reduction-culture-turnaround.md) [+W]
+- [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](../claims/denver-restorative-justice-suspension-gap-narrowed.md) [+W]
 
 ## Related Strategies
 

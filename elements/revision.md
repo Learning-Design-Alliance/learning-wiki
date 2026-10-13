@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 19 studies (9 causal, 3 qualitative, 2 quant-synthesis, 2 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 20 studies (9 causal, 3 associational, 3 qualitative, 2 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 20 report an effect size · 10 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -64,6 +64,7 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+W]
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](../claims/multilingual-students-critically-evaluate-ai-feedback-pairr.md) [~W]
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](../claims/drafting-support-largest-ownership-decrease.md) [+W]
+- [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](../claims/revision-hotspots-multi-step-block-heavy-modification.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork

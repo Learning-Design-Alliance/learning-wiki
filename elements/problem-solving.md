@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (3 causal, 1 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -40,6 +40,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+W]
 - [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](../claims/flexible-problem-solving-supports-cooperative-learning.md) [+W]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
+- [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](../claims/usability-test-strengths-and-limits.md) [+W]
 
 ## Related Elements
 - [Solution Development](solution-development.md)

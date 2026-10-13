@@ -23,7 +23,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (23 for, 24 mixed, 2 against) · 58 studies (13 causal, 13 review, 11 quant-synthesis, 9 theoretical, 6 associational, 4 qualitative, 2 design), `q1`–`q4` · 11 of 58 report an effect size · 41 claims rest on one study
+> **Evidence** · 50 claims (24 for, 24 mixed, 2 against) · 59 studies (13 causal, 13 review, 11 quant-synthesis, 9 theoretical, 6 associational, 5 qualitative, 2 design), `q1`–`q4` · 11 of 59 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](../claims/ngcc-impact-moderators-context.md) [~W]
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
+- [Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.](../claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md) [+W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

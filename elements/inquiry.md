@@ -13,7 +13,7 @@ generated:
 # Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (6 quant-synthesis, 2 causal, 2 theoretical, 1 review), `q1`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 12 studies (6 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 5 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Inquiry places learners in the role of investigator: they pose or pursue questions, collect and evaluate evidence, and construct explanations with instructor support. It ranges along a continuum from structured (instructor-provided question and procedure) to open (learner-generated questions and methods), with the instructor acting as [Coaching](coaching.md) and facilitator rather than primary explainer.
@@ -54,6 +54,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](../claims/ai-risks-when-reflective-inquiry-bypassed.md) [~W]
+- [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](../claims/inquiry-state-transitions-differ-by-session.md) [~W]
 
 ## Related Elements
 

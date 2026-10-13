@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 20 studies (5 causal, 5 quant-synthesis, 5 review, 3 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 21 studies (5 causal, 5 quant-synthesis, 5 review, 4 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -88,6 +88,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 ## Claims
 
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](../claims/revealing-answer-undesired-feedback-higher-succscore.md) [+W]
+- [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](../claims/clicker-vote-patterns-null-on-homework-explanations.md) [~W]
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)

@@ -21,7 +21,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (21 for, 11 mixed, 4 against) · 32 studies (8 review, 8 qualitative, 6 quant-synthesis, 5 causal, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 32 report an effect size · 31 claims rest on one study
+> **Evidence** · 38 claims (23 for, 11 mixed, 4 against) · 34 studies (9 review, 9 qualitative, 6 quant-synthesis, 5 causal, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 7 of 34 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](../claims/external-coaching-accountability-idea-generation.md) [+W]
 - [Coached teachers report more frequent impactful technology use practices developing student skills](../claims/coaching-increases-impactful-technology-use-practices.md) [+W]
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](../claims/job-embedded-coaching-active-learning.md) [+W]
+- [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](../claims/repeated-short-lessons-scaffold-mentee-behaviour-management.md) [+W]
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](../claims/teacher-feedback-coaching-associated-charter-success.md) [+W]
 
 ## Related Patterns
 

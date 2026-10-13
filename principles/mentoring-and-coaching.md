@@ -26,7 +26,7 @@ sources:
 # Mentoring/Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 29 studies (8 associational, 7 qualitative, 6 review, 4 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 29 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 31 studies (8 review, 8 associational, 7 qualitative, 4 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 31 report an effect size · 33 claims rest on one study
 
 ## Description
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
@@ -101,6 +101,9 @@ Mentoring and coaching are effective because they attach support to the learner�
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](../claims/monthly-coaching-helped-teachers-integrate-mi-write.md) [+W]
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](../claims/strong-mentoring-25-point-retention-plan-elementary.md) [+W]
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
+- [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](../claims/coach-support-to-teachers-closures.md) [+W]
+- [Real-time in-session feedback remains rare among presentation-coaching systems](../claims/real-time-feedback-rare-in-coaching-systems.md) [~W]
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](../claims/teacher-preparation-mentoring-retention.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

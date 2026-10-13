@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 131 claims (77 for, 45 mixed, 9 against) · 99 studies (30 associational, 24 design, 16 review, 13 theoretical, 12 causal, 2 quant-synthesis, 2 qualitative), `q1`–`q3` · 9 of 99 report an effect size · 130 claims rest on one study
+> **Evidence** · 139 claims (79 for, 50 mixed, 10 against) · 105 studies (34 associational, 25 design, 16 review, 13 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 10 of 105 report an effect size · 138 claims rest on one study
 
 ## Conditional relationship
 
@@ -243,6 +243,14 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [In mathematics, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard, while in English language arts the two standards are similar](../claims/parcc-math-standard-higher-college-performance-than-mcas.md) [+W]
 - [Higher temperatures most strongly affect math scores on test days](../claims/heat-most-strongly-affects-math-scores.md) [-W]
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](../claims/revised-workflow-reduces-overawarding-mad.md) [+W]
+- [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](../claims/ai-detection-tools-inequitable-false-positives.md) [+W]
+- [Revisiting grade 8 algebra placement with grade 7 math CST scores does not necessarily yield more accurate placement outcomes, because predictions from different assessments largely overlap](../claims/grade7-cst-fine-tuning-limited-benefit.md) [~W]
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](../claims/screeners-predict-mcas-failure-not-success.md) [~W]
+- [The predictive value of grade 3 screening benchmarks for MCAS ELA proficiency varies widely: 15 to 69 percent of students classified as on track did not reach MCAS proficiency, and students flagged at risk rarely met proficiency](../claims/screening-predictive-value-varies-15-69-percent.md) [-W]
+- [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](../claims/parcc-math-standard-less-remediation-than-mcas-proficient.md) [~W]
+- [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](../claims/teacher-effects-one-fifth-within-student-variance.md) [~W]
+- [Course grades are more predictive than standardized test scores of high school and college success](../claims/grades-more-predictive-than-test-scores.md) [+W]
+- [Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered](../claims/gender-no-detectable-effect-underpowered.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

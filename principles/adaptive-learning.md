@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (25 for, 16 mixed, 5 against) · 49 studies (21 causal, 13 review, 6 quant-synthesis, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 49 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (25 for, 16 mixed, 6 against) · 50 studies (21 causal, 13 review, 6 quant-synthesis, 4 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](../claims/woot-math-rct-adaptivity-significant-effects.md) [+W]
 - [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](../claims/rl-adaptive-system-grade-engagement-gains.md) [+W]
 - [A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable](../claims/stochastic-router-higher-conversion-rate.md) [+M]
+- [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](../claims/adult-ed-minimal-learner-data-use.md) [-W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

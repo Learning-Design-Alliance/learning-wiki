@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (14 for, 6 mixed, 1 unmarked) · 24 studies (11 associational, 4 causal, 4 review, 3 design, 2 quant-synthesis), `q1`–`q4` · 8 of 24 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (15 for, 6 mixed, 1 unmarked) · 25 studies (12 associational, 4 causal, 4 review, 3 design, 2 quant-synthesis), `q1`–`q4` · 8 of 25 report an effect size · 18 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -72,6 +72,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](../claims/sel-trajectory-trends-middle-school.md) [~W]
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](../claims/serial-mediation-literacy-trust-efficacy-use.md) [+W]
 - [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](../claims/self-efficacy-growth-generative-ai-semester.md) [+W]
+- [Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty](../claims/organizational-support-predicts-ai-literacy-and-self-efficacy.md) [+W]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — provides vicarious mastery experiences; near-peer models are more efficacy-building than expert models

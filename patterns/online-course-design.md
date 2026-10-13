@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 20 studies (6 associational, 5 quant-synthesis, 3 causal, 3 design, 2 qualitative, 1 review), `q1`–`q4` · 6 of 20 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (16 for, 15 mixed, 1 against) · 21 studies (6 associational, 5 quant-synthesis, 3 causal, 3 qualitative, 3 design, 1 review), `q1`–`q4` · 6 of 21 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [~W]
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
+- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](../claims/remote-shift-reduced-collaborative-learning.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

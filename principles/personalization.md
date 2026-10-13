@@ -23,7 +23,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (24 for, 14 mixed, 3 against, 1 unmarked) · 49 studies (16 review, 12 causal, 8 qualitative, 5 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 5 of 49 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (25 for, 14 mixed, 3 against, 1 unmarked) · 50 studies (17 review, 12 causal, 8 qualitative, 5 theoretical, 3 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 5 of 50 report an effect size · 39 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.
@@ -121,6 +121,7 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [+W]
+- [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](../claims/individualized-instruction-receded-ai-era.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

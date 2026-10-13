@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (24 for, 17 mixed, 3 against) · 38 studies (16 causal, 8 review, 7 theoretical, 5 qualitative, 1 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (24 for, 18 mixed, 3 against) · 39 studies (16 causal, 8 review, 7 theoretical, 5 qualitative, 2 design, 1 associational), `q1`–`q4` · 5 of 39 report an effect size · 43 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -86,6 +86,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](../claims/verification-lagged-rising-ai-use.md) [~W]
 - [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](../claims/teacher-role-shifted-diagnosis-coaching.md) [+W]
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](../claims/thinking-aversion-predicts-speedup-illusion.md) [~W]
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](../claims/engagement-style-matters-more-than-whether.md) [~W]
 
 ## Related Theories
 

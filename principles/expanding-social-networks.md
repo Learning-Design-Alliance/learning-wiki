@@ -23,7 +23,7 @@ sources:
 # Expanding Social Networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 17 studies (5 qualitative, 4 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q2`–`q4` · 1 of 17 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 18 studies (6 qualitative, 4 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q2`–`q4` · 1 of 18 report an effect size · 8 claims rest on one study
 
 ## Description
 Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation. Knowledge and utilization of existing informal and formal social networks to raise awareness of local learning opportunities can improve persistence and feelings of Safety. This can have a significant impact on vulnerable populations, especially adults who have been negatively impacted by Adverse Experiences, Socioeconomic Status, language barriers, and physical or cognitive limitations. When it comes to getting a job, networks are especially important to low-skilled workers and immigrants.​
@@ -87,6 +87,7 @@ Expanding social networks matters because access to opportunity is often mediate
 - [New network nodes were developed through field-based activities such as regional councils and faculty work groups](../claims/new-nodes-developed-through-field-based-activities.md) [+W]
 - [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](../claims/sel-working-group-cross-district-connections.md) [+W]
 - [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](../claims/tech-program-accomplishments-gains.md) [+W]
+- [People and connections were the most-used learning transition supports among HSE participant-advisors](../claims/people-connections-top-transition-support.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work

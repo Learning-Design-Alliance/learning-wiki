@@ -13,7 +13,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 11 studies (3 review, 2 causal, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q3` · 0 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 12 studies (3 review, 3 theoretical, 2 causal, 2 associational, 2 qualitative), `q1`–`q3` · 0 of 12 report an effect size · 6 claims rest on one study
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
@@ -59,6 +59,7 @@ Submission creates the accountability structure that makes practice productive: 
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](../claims/draft-usefulness-varies-by-grading-context.md) [~W]
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](../claims/negative-behavioral-path-submissions-mediation.md) [~W]
 - [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](../claims/perceived-risk-stage-sensitive-deterrent.md) [~W]
+- [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](../claims/output-based-evaluation-misaligned-llm-assistance.md) [-W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the evaluative frame that gives submission its criteria and stakes

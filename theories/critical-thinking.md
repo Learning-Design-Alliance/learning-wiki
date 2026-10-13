@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (7 for, 1 mixed, 2 against) · 10 studies (3 review, 2 associational, 2 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 10 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (9 for, 1 mixed, 2 against) · 12 studies (3 review, 3 associational, 2 design, 1 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 12 report an effect size · 12 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -52,6 +52,8 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](../claims/wise-agent-no-aggregate-ct-gain.md) [-W]
 - [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](../claims/consumption-frequency-confidence-association.md) [+W]
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](../claims/writing-dcts-co-development-correlations.md) [~W]
+- [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](../claims/genai-overreliance-threatens-clinical-readiness.md) [+W]
+- [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](../claims/sem-genai-dependence-positive-paths-creativity.md) [+W]
 
 ## Related Theories
 

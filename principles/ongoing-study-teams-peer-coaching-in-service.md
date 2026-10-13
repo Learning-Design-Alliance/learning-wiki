@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 11 studies (4 associational, 3 qualitative, 2 design, 1 causal, 1 review), `q1`–`q2` · 1 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (12 for, 3 mixed) · 12 studies (4 associational, 3 qualitative, 2 review, 2 design, 1 causal), `q1`–`q2` · 1 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.
@@ -64,6 +64,7 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 - [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](../claims/math-expertise-coaches-associated-greater-gains.md) [+W]
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](../claims/collaborative-planning-time-top-micro-credential-support.md) [~W]
 - [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](../claims/sustained-coaching-contact-hours.md) [+W]
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](../claims/teacher-feedback-coaching-associated-charter-success.md) [+W]
 
 ## Related Principles
 

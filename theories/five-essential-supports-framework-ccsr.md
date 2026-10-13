@@ -17,7 +17,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 33 claims (23 for, 10 mixed) · 25 studies (11 associational, 7 qualitative, 3 review, 2 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 33 claims rest on one study
+> **Evidence** · 39 claims (28 for, 11 mixed) · 29 studies (13 associational, 6 qualitative, 5 review, 3 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 39 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -72,6 +72,12 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](../claims/rural-community-commitment-boosts-turnaround.md) [+W]
 - [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](../claims/principal-pd-access-student-achievement.md) [~W]
 - [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](../claims/principal-framework-knowledge-subjectivity-perception.md) [~W]
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](../claims/california-principal-preparation-pd-outcomes.md) [+W]
+- [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](../claims/effective-principals-positive-student-outcomes.md) [+W]
+- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](../claims/leadership-improvement-key-questions.md) [~W]
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+W]
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](../claims/school-climate-associated-higher-teacher-evaluation-scores.md) [+W]
+- [Teachers' verbal and math skills, measured by teacher test scores, are significantly related to student achievement](../claims/teacher-test-scores-predict-student-achievement.md) [+W]
 
 ## Related Theories
 

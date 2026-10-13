@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (6 for, 12 mixed, 1 against) · 36 studies (16 causal, 8 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 9 claims rest on one study
+> **Evidence** · 20 claims (7 for, 12 mixed, 1 against) · 37 studies (16 causal, 8 quant-synthesis, 6 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 5 of 37 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](../claims/ab-tests-level-interventions-increase-lessons.md) [+W]
 - [30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction](../claims/preference-ai-plus-robot-condition.md) [~W]
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](../claims/self-reported-jol-motivation-and-behaviour-change.md) [~W]
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](../claims/engagement-surviving-proxy.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement
