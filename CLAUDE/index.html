@@ -1856,8 +1856,8 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   above the full results, turns off Pagefind's long-page penalty, and every page has a header
   search box.</li>
 <li><strong>Deploys replace the published tree</strong> (<code>keep_files: false</code>), carrying open PR previews over,
-  so renamed and deleted pages do not accumulate. At about 12 KB a page, the 1 GB Pages limit
-  is near 85,000 pages; past that the long tail has to move off GitHub Pages.</li>
+  so renamed and deleted pages do not accumulate. At about 21 KB a page (measured 2026-10-12), the 1 GB
+  Pages limit is near 48,000 pages; past that the long tail has to move off GitHub Pages.</li>
 <li><strong><code>log.md</code> holds the current month</strong>; <code>okf_lib.rotate_log()</code> moves earlier months to
   <code>log/YYYY-MM.md</code>. The log is not on the site.</li>
 <li><strong><code>wiki-index.json</code> and <code>reverse-index.json</code> are written one record per line</strong>
@@ -1889,6 +1889,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   1,323 to products, 222 to research methods, each move confirmed by a second model. Its 390 plain
   folds into canonical pages are in <code>eval/candidates/sweep-kinds.ndjson</code> and were <strong>not</strong> applied
   (too many loose matches); apply them only after review, never with a bare <code>--from ... --apply</code>.</li>
+<li><strong>Descriptive-context claims are not pages</strong> (maintainer, 2026-10-13: "Context claims are only
+  useful as filters on evidence, not evidence by itself"). A claim that tests no design variable
+  (enrolment and graduation trends, funding gaps, survey shares) was removed when two models agreed
+  (<code>scripts/remove_pages.py</code>, list in <code>eval/removed/pages.ndjson</code>); the population and setting it
+  describes belong on design evidence as filters (the coded cells). Do not recreate them.</li>
 <li><strong>Claims about a learner characteristic link into its <code>learner-variables/</code> page and back</strong>
   (<code>scripts/link_learner_variables.py</code>, <code>--new</code> in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,
