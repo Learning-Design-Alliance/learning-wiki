@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-framework-is-robust-to-15-asr-transcription-noise-and-retains-996-of-its-ics-under-zero-shot-cross-domain-transfer-to-ednet-math">The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math<a class="headerlink" href="#the-framework-is-robust-to-15-asr-transcription-noise-and-retains-996-of-its-ics-under-zero-shot-cross-domain-transfer-to-ednet-math" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Under 15% injected ASR transcription errors, ICS drops by only 4.1% relative for the proposed model versus drops exceeding 12% for all baselines. <a href="#li-2025">→ Li 2025</a>
+<code>q2 i?</code> Without fine-tuning on EdNet-Math, the model retains 99.6% of its TeacherEval-2023 ICS score, outperforming baselines by 6–11% on ICS and ExpScore. <a href="#li-2025-2">→ Li 2025 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="li-2025">Li 2025<a class="headerlink" href="#li-2025" title="Permanent link">&para;</a></h3>
+<p>Li, Y.; Yang, H.; Fang, Q. (2025). Towards Trustworthy and Explainable-by-Design Large Language Models for Automated Teacher Assessment. Information 2025, 16, 882. https://doi.org/10.3390/info16100882</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Robustness evaluation (§4.5) under noisy input: 15% ASR transcription errors injected, with the model's ICS degradation described as minimal and visualized in Figure 4, versus baseline drops exceeding 12%.</p>
+<blockquote>
+<p>"When injecting 15% ASR transcription errors, the Inter-Rater Consistency Score (ICS) drops by only 4.1% relative for our model, compared to drops exceeding 12% for all baselines."</p>
+</blockquote>
+<h3 id="li-2025-2">Li 2025 (2)<a class="headerlink" href="#li-2025-2" title="Permanent link">&para;</a></h3>
+<p>Li, Y.; Yang, H.; Fang, Q. (2025). Towards Trustworthy and Explainable-by-Design Large Language Models for Automated Teacher Assessment. Information 2025, 16, 882. https://doi.org/10.3390/info16100882</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Cross-dataset transfer test (§4.5, Table 5) with paired t-tests reported significant (p &lt; 0.05) against fine-tuned BERT, Instructor-LM, and GPT-4 zero-shot on ICS and ExpScore.</p>
+<blockquote>
+<p>"For cross-dataset transfer, we evaluate performance without fine-tuning on EdNet-Math. As shown in Table 5, the model retains 99.6% of its TeacherEval-2023 ICS score, outperforming baselines by 6–11% on both ICS and ExpScore."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../zero-shot-synthetic-to-real-classroom-incident-transfer/">Models trained on synthetic classroom incident data transfer zero-shot to real-world footage, with the proposed method best at 63.41% though a synthetic-to-real domain gap remains</a> — related</li>
+<li><a href="../distilled-kinematic-model-outperforms-pose-baselines-synthetic-classroom-incidents/">A distilled multi-order kinematic model outperforms pose-based baselines on a synthetic classroom incident dataset while using one-tenth as many parameters as PoseC3D</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>framework-robust-asr-noise-cross-domain-transfer</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>li-2025</code>, <code>li-2025-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

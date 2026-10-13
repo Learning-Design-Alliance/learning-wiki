@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llm-extracted-cognitive-and-linguistic-features-add-predictive-value-beyond-readily-available-item-metadata-grade-domain-item-type-word-count">LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)<a class="headerlink" href="#llm-extracted-cognitive-and-linguistic-features-add-predictive-value-beyond-readily-available-item-metadata-grade-domain-item-type-word-count" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Full models combining metadata with LLM-rated features improved on metadata-only models: reading RF cut RMSE 17.6% and math GBM cut RMSE 11.2% versus the strongest metadata-only baselines, on average. <a href="#pooya-razavi-2025">→ Pooya Razavi 2025</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="pooya-razavi-2025">Pooya Razavi 2025<a class="headerlink" href="#pooya-razavi-2025" title="Permanent link">&para;</a></h3>
+<p>Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Reading holdout comparison of full feature-based models against metadata-only models trained with identical algorithms and procedures. For math, GBM reduced RMSE "relative to the strongest benchmark (i.e., the metadata-only gradient boosting model) by 11.2% on average".</p>
+<blockquote>
+<p>"Compared to the dummy regressor, the random forest reduced RMSE by 31.6% on average, and improved upon the metadata-only random forest by 17.6% on average."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../feature-based-llm-models-outperform-direct-estimation-and-benchmarks/">Feature Based Llm Models Outperform Direct Estimation And Benchmarks</a></li>
+<li><a href="../direct-llm-estimation-beats-dummy-regressor-k5-items/">Direct zero-shot GPT-4o difficulty ratings beat a grade-level dummy regressor and correlate strongly with true Rasch difficulties overall, for K-5 math and reading items</a> — related</li>
+<li><a href="../feature-importance-spread-across-many-features/">Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables</a> — related</li>
+<li><a href="../full-representation-beats-semantic-only-ablation/">Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math</a> — related</li>
+<li><a href="../episode-features-predictive-importance-beyond-semantics/">Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran. reaching 0.136 permutation importance versus 0.084 for Sem. in the Both (Role) setting</a> — related</li>
+<li><a href="../word-count-top-traditional-formulas-unimportant/">In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>llm-features-add-value-beyond-item-metadata</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>pooya-razavi-2025</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
